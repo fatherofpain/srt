@@ -1,0 +1,4192 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.com ] ==-
+
+2
+00:01:01,612 --> 00:01:05,612
+<b>Equipe inSanos
+apresenta:</b>
+
+3
+00:01:18,944 --> 00:01:22,944
+Legenda:
+Fefavrin | Arya | Pedrorms
+
+4
+00:01:23,944 --> 00:01:27,944
+Legenda:
+Chip | DSergio | LucyLo
+
+5
+00:01:28,944 --> 00:01:32,944
+Legenda:
+laiiss | LelaBastos | Lalinha
+
+6
+00:01:33,944 --> 00:01:37,944
+Legenda:
+ne0n | winterfall
+
+7
+00:01:39,944 --> 00:01:43,944
+Revisão:
+winterfall | KnaveofHearts
+
+8
+00:03:01,010 --> 00:03:03,078
+<i>Um. Dois.</i>
+
+9
+00:03:03,079 --> 00:03:04,746
+<i>Três.</i>
+
+10
+00:03:04,747 --> 00:03:07,449
+<i>Quatro. Cinco.</i>
+
+11
+00:03:07,450 --> 00:03:11,720
+<i>Seis. Sete. Oito.</i>
+
+12
+00:03:11,721 --> 00:03:14,623
+<i>Nove. Dez.</i>
+
+13
+00:03:14,624 --> 00:03:17,859
+<i>Camille, Emma!
+Em seus lugares!</i>
+
+14
+00:04:18,030 --> 00:04:20,556
+Por favor, Deus,
+que ele seja o homem certo.
+
+15
+00:04:20,557 --> 00:04:22,958
+Por favor, Deus,
+que ele seja o homem certo!
+
+16
+00:04:22,959 --> 00:04:25,310
+Por favor, Deus,
+que ele seja o homem certo.
+
+17
+00:07:23,973 --> 00:07:25,280
+Emma...
+
+18
+00:07:27,410 --> 00:07:31,418
+Quando a sua querida mãe
+morreu, eu chorei.
+
+19
+00:07:31,881 --> 00:07:35,467
+Eu não sabia
+como criar uma menininha.
+
+20
+00:07:36,385 --> 00:07:37,910
+Um porco? Sim.
+
+21
+00:07:37,911 --> 00:07:41,199
+Mas você, com todas
+aquelas ideias na cabeça,
+
+22
+00:07:41,200 --> 00:07:42,719
+eu não sabia.
+
+23
+00:07:44,580 --> 00:07:47,221
+Charles,
+você é um bom homem.
+
+24
+00:07:47,664 --> 00:07:49,322
+E um bom médico.
+
+25
+00:07:49,630 --> 00:07:51,530
+A mãe da Emma pode
+finalmente descansar
+
+26
+00:07:51,531 --> 00:07:53,193
+sabendo que eu a casei bem.
+
+27
+00:07:55,271 --> 00:07:58,213
+Este era o presente de casamento
+favorito da sua mãe.
+
+28
+00:07:58,909 --> 00:08:02,639
+Por favor, pense em nós
+quando comer os seus doces.
+
+29
+00:08:06,580 --> 00:08:07,880
+<i>Saúde.</i>
+
+30
+00:08:08,230 --> 00:08:10,321
+<i>Saúde!</i>
+
+31
+00:10:37,880 --> 00:10:40,755
+- Essa é a Henriette.
+- Madame.
+
+32
+00:10:40,756 --> 00:10:43,104
+Poderia nos ajudar
+com essas coisas?
+
+33
+00:10:43,105 --> 00:10:45,710
+- Pode deixar, Madame.
+- Obrigada.
+
+34
+00:11:06,830 --> 00:11:08,323
+Qual é o problema, querida?
+
+35
+00:11:13,130 --> 00:11:14,803
+É tudo parte da natureza.
+
+36
+00:11:16,472 --> 00:11:18,610
+Preciso tirar meu vestido.
+
+37
+00:11:22,880 --> 00:11:24,891
+Não posso tirá-lo sozinha.
+
+38
+00:11:25,880 --> 00:11:27,248
+Desculpe.
+
+39
+00:12:52,582 --> 00:12:55,423
+Durma, querida.
+Eu não queria te acordar.
+
+40
+00:12:55,424 --> 00:12:57,269
+Fique comigo.
+
+41
+00:13:00,230 --> 00:13:02,871
+É o paciente que tem
+que encontrar consolo na cama,
+
+42
+00:13:02,872 --> 00:13:04,403
+nunca o médico.
+
+43
+00:13:05,030 --> 00:13:08,085
+Mas todos os médicos
+são maridos também, não?
+
+44
+00:13:08,797 --> 00:13:10,856
+Somente à noite, querida.
+
+45
+00:13:11,720 --> 00:13:13,175
+Aproveite o seu dia.
+
+46
+00:16:25,047 --> 00:16:26,943
+Elas são lindas, Madame.
+
+47
+00:16:27,330 --> 00:16:28,630
+Obrigada.
+
+48
+00:16:36,630 --> 00:16:39,730
+- São para comer?
+- É claro.
+
+49
+00:16:41,070 --> 00:16:43,483
+Você deve ter gasto
+toda a sua tarde nisso.
+
+50
+00:16:46,570 --> 00:16:48,228
+Não deveria
+ter se incomodado.
+
+51
+00:16:48,530 --> 00:16:51,431
+A Henriette é sempre rápida
+para colher frutos do pomar.
+
+52
+00:16:53,180 --> 00:16:55,049
+Você prefere frutos?
+
+53
+00:16:55,924 --> 00:16:57,300
+É simplesmente um costume.
+
+54
+00:17:01,049 --> 00:17:02,578
+Frutos, por favor.
+
+55
+00:17:12,160 --> 00:17:15,636
+Algum paciente notável hoje?
+
+56
+00:17:15,637 --> 00:17:20,154
+- Alguma doença curiosa?
+- Curiosa?
+
+57
+00:17:22,330 --> 00:17:24,949
+De manhã, um paciente
+precisou ser sangrado.
+
+58
+00:17:25,380 --> 00:17:28,448
+Em outro,
+eu apliquei sanguessugas.
+
+59
+00:17:30,180 --> 00:17:32,450
+A esposa dele
+preparou para mim
+
+60
+00:17:32,451 --> 00:17:34,882
+um omelete de cogumelos
+delicioso para o almoço.
+
+61
+00:17:38,530 --> 00:17:40,560
+Então sim, à tarde,
+
+62
+00:17:40,561 --> 00:17:43,128
+um paciente tinha algo
+inexplicável.
+
+63
+00:17:43,530 --> 00:17:45,370
+Eu examinei o penico dele
+duas vezes,
+
+64
+00:17:45,371 --> 00:17:47,493
+mas ainda permanece
+um mistério.
+
+65
+00:17:59,775 --> 00:18:01,087
+Madame?
+
+66
+00:18:01,088 --> 00:18:03,213
+Senhor Lheureux
+está aqui para vê-la.
+
+67
+00:18:07,283 --> 00:18:11,557
+Assim como todos disseram,
+simplesmente linda.
+
+68
+00:18:11,558 --> 00:18:13,362
+Isso é muito gentil
+de sua parte,
+
+69
+00:18:13,363 --> 00:18:14,822
+mas devo me desculpar.
+
+70
+00:18:14,823 --> 00:18:17,992
+Não é adequado que eu o receba
+com meu cabelo assim bagunçado.
+
+71
+00:18:17,993 --> 00:18:20,681
+Não, não, não.
+Desculpe-me pela precipitação.
+
+72
+00:18:20,682 --> 00:18:22,830
+Eu não poderia
+deixar o dia acabar
+
+73
+00:18:22,831 --> 00:18:24,630
+sem conhecê-la.
+
+74
+00:18:24,631 --> 00:18:27,247
+Disseram-me que é
+uma elegante dama de bom gosto,
+
+75
+00:18:27,248 --> 00:18:30,987
+pois bem, eu sou um homem
+à serviço de tais mulheres.
+
+76
+00:18:30,988 --> 00:18:33,030
+Qualquer que seja
+o seu pedido, eu farei.
+
+77
+00:18:33,031 --> 00:18:35,130
+Vou a Rouen pelo menos
+2 vezes por semana.
+
+78
+00:18:35,131 --> 00:18:37,580
+- É mesmo?
+- Conheço as melhores casas:
+
+79
+00:18:37,581 --> 00:18:40,016
+<i>Trois Frères, La Barbe d'Or,
+Le Grand Sauvage.</i>
+
+80
+00:18:40,017 --> 00:18:43,369
+Qualquer coisa que desejar.
+Romances, chocolate, doces.
+
+81
+00:18:45,454 --> 00:18:46,793
+Olhe para isso.
+
+82
+00:18:47,830 --> 00:18:49,678
+Simplesmente lindo,
+não é?
+
+83
+00:18:49,679 --> 00:18:52,312
+- Sim, é.
+- Quantos gostaria?
+
+84
+00:18:53,194 --> 00:18:55,555
+Receio que não posso.
+Eu acabei de chegar.
+
+85
+00:18:55,556 --> 00:18:59,435
+Esses são feitos de pérola.
+
+86
+00:18:59,830 --> 00:19:02,780
+Talhados por condenados
+nas Índias Ocidentais.
+
+87
+00:19:02,781 --> 00:19:04,099
+São lindos.
+
+88
+00:19:04,830 --> 00:19:06,847
+Mas é cedo demais.
+
+89
+00:19:07,430 --> 00:19:09,281
+Quero mostrar-lhe algo.
+
+90
+00:19:15,275 --> 00:19:17,292
+O presente de casamento
+do meu pai.
+
+91
+00:19:19,399 --> 00:19:21,848
+Simplesmente maravilhoso.
+
+92
+00:19:22,227 --> 00:19:24,204
+Nós temos tanto
+o que compartilhar.
+
+93
+00:19:24,669 --> 00:19:26,914
+Esses, no entanto,
+você precisa adquirir.
+
+94
+00:19:26,915 --> 00:19:30,086
+São tecidos na Argélia,
+
+95
+00:19:30,087 --> 00:19:34,203
+mas a qualidade da seda
+é mítica. Toque-a.
+
+96
+00:19:35,646 --> 00:19:39,175
+- Você tem um gosto requintado.
+- Obrigada.
+
+97
+00:19:41,930 --> 00:19:43,390
+Um anjo.
+
+98
+00:19:46,662 --> 00:19:48,980
+Olhe mais de perto.
+Veja estas lantejoulas.
+
+99
+00:19:48,981 --> 00:19:50,682
+Quase fios de ouro.
+
+100
+00:19:50,683 --> 00:19:53,522
+Cintilam como estrelas
+no meio da noite, não?
+
+101
+00:19:54,333 --> 00:19:55,721
+Quanto custa?
+
+102
+00:19:56,322 --> 00:19:57,685
+Uma bagatela.
+
+103
+00:20:00,062 --> 00:20:02,657
+É adorável, de verdade,
+mas é muito cedo.
+
+104
+00:20:02,658 --> 00:20:05,627
+Ainda não falei
+sobre isso com o Charles.
+
+105
+00:20:05,628 --> 00:20:07,438
+Tudo bem, tudo bem.
+Eu entendo.
+
+106
+00:20:07,439 --> 00:20:10,249
+Deixarei com você algumas
+revistas de moda
+
+107
+00:20:10,250 --> 00:20:13,238
+e algumas amostras
+de tecidos.
+
+108
+00:20:14,053 --> 00:20:16,071
+Não se preocupe
+com o dinheiro.
+
+109
+00:20:16,072 --> 00:20:17,922
+Posso dar-te um pouco,
+se for preciso.
+
+110
+00:20:17,923 --> 00:20:20,360
+Em crédito, claro.
+Sei que Charles vale a pena.
+
+111
+00:20:20,361 --> 00:20:21,691
+Em crédito?
+
+112
+00:20:21,692 --> 00:20:23,896
+Significa que pode me pagar
+quando quiser.
+
+113
+00:20:24,555 --> 00:20:25,922
+Agora.
+
+114
+00:20:26,824 --> 00:20:29,204
+Esse aqui. É lindo, não?
+
+115
+00:20:57,930 --> 00:21:01,595
+Mansão Lheureux.
+A boutique é na casa dele.
+
+116
+00:21:02,847 --> 00:21:05,125
+A MODA DE PARIS
+MANSÃO LHEREUX
+
+117
+00:21:19,976 --> 00:21:21,772
+Esse é o fim do vilarejo.
+
+118
+00:21:28,784 --> 00:21:30,084
+Venha.
+
+119
+00:21:35,650 --> 00:21:37,102
+Devo apresentá-la ao Homais.
+
+120
+00:21:37,103 --> 00:21:39,757
+Ele é o nosso químico.
+Trabalhamos juntos.
+
+121
+00:21:40,302 --> 00:21:42,095
+<i>Olhe esse mês, certo?</i>
+
+122
+00:21:43,470 --> 00:21:44,910
+Emma.
+
+123
+00:21:44,911 --> 00:21:47,977
+Finalmente juntou-se a nós.
+Você está linda.
+
+124
+00:21:48,378 --> 00:21:50,466
+Bem-vinda à Yonville.
+
+125
+00:21:50,467 --> 00:21:52,894
+Minha querida, senhor Homais
+
+126
+00:21:52,895 --> 00:21:55,385
+e senhor Binet,
+nosso cobrador de impostos.
+
+127
+00:21:56,632 --> 00:22:00,390
+E senhor Leon Dupuis,
+nosso escrivão.
+
+128
+00:22:01,112 --> 00:22:03,157
+A Madame, sem dúvidas,
+descansou pouco
+
+129
+00:22:03,158 --> 00:22:05,874
+- desde a viagem dela.
+- Viajar por aí me agrada.
+
+130
+00:22:05,875 --> 00:22:08,789
+Acho tedioso ficar sempre
+no mesmo lugar.
+
+131
+00:22:08,790 --> 00:22:10,510
+Concordo plenamente.
+
+132
+00:22:10,511 --> 00:22:13,085
+Eu não. Estou satisfeitíssimo
+com os mesmos chinelos
+
+133
+00:22:13,086 --> 00:22:14,789
+e a mesma lareira
+todas as noites.
+
+134
+00:22:14,790 --> 00:22:17,009
+Charles, nada é mais agradável
+do que viajar.
+
+135
+00:22:17,010 --> 00:22:19,930
+Não diria isso se precisasse
+andar por aí constantemente.
+
+136
+00:22:19,931 --> 00:22:22,757
+Está enganado, eu adoraria.
+
+137
+00:22:22,758 --> 00:22:24,459
+No ano passado,
+eu estive na Suíça.
+
+138
+00:22:24,460 --> 00:22:26,917
+Não conseguiria imaginar
+a grandiosidade dos vales
+
+139
+00:22:26,918 --> 00:22:28,979
+ou a poesia dos lagos.
+
+140
+00:22:28,980 --> 00:22:32,078
+Deram-me tanto ânimo.
+
+141
+00:22:32,079 --> 00:22:33,415
+- Eu estava...
+- Emma,
+
+142
+00:22:33,416 --> 00:22:36,891
+não confunda a profissão
+de Leon com o coração dele.
+
+143
+00:22:36,892 --> 00:22:40,373
+Talvez ele aparente ser
+um simples escrivão,
+
+144
+00:22:40,374 --> 00:22:42,119
+mas, bem lá no fundo,
+
+145
+00:22:42,120 --> 00:22:45,798
+ele é o último romântico
+de toda a França.
+
+146
+00:22:45,799 --> 00:22:47,475
+Não, não é uma piada.
+
+147
+00:22:47,476 --> 00:22:49,287
+Estou muito preocupado,
+na verdade.
+
+148
+00:22:49,288 --> 00:22:51,758
+Um dia desses,
+eu o ouvi cantando
+
+149
+00:22:51,759 --> 00:22:54,265
+<i>"The Guardian Angel"
+no quarto dele,</i>
+
+150
+00:22:54,266 --> 00:22:55,936
+e ele estava dando
+o melhor dele.
+
+151
+00:22:55,937 --> 00:22:58,335
+Nada eleva mais a minha alma
+do que a música.
+
+152
+00:22:58,336 --> 00:23:02,497
+Você também não, Emma.
+Preciso que seja sensata.
+
+153
+00:23:03,058 --> 00:23:05,524
+Preciso de um favor seu,
+na verdade.
+
+154
+00:23:05,525 --> 00:23:06,885
+Um favor meu?
+
+155
+00:23:06,886 --> 00:23:08,864
+Gostaria de mostrar-lhe
+algo na cozinha.
+
+156
+00:23:08,865 --> 00:23:10,972
+Senhores, nos dão licença?
+
+157
+00:23:12,752 --> 00:23:15,819
+Senhor Binet,
+pode me passar o pão?
+
+158
+00:23:16,756 --> 00:23:20,811
+Hippolyte trabalha na pousada
+limpando mesas dia e noite.
+
+159
+00:23:20,812 --> 00:23:24,073
+E ele faz tudo isso
+com muita dificuldade.
+
+160
+00:23:24,866 --> 00:23:26,337
+Não é mesmo, Hippolyte?
+
+161
+00:23:26,805 --> 00:23:28,367
+Mostre seu pé para a Madame.
+
+162
+00:23:30,105 --> 00:23:33,090
+Vê? É horrível, não é?
+
+163
+00:23:33,091 --> 00:23:34,577
+Sinto muito.
+
+164
+00:23:35,278 --> 00:23:38,334
+Emma, como um partidário
+do progresso,
+
+165
+00:23:38,335 --> 00:23:41,626
+é meu dever manter essa cidade
+na dianteira.
+
+166
+00:23:41,627 --> 00:23:44,178
+Por isso preciso de sua ajuda
+para convencer Charles
+
+167
+00:23:44,179 --> 00:23:46,017
+a operar esse pobre homem.
+
+168
+00:23:46,335 --> 00:23:48,138
+Antes, deve me convencer,
+senhor.
+
+169
+00:23:48,139 --> 00:23:50,269
+É para o seu próprio bem.
+
+170
+00:23:51,977 --> 00:23:53,700
+Bem, Madame, o que me diz?
+
+171
+00:23:54,390 --> 00:23:56,539
+Receio que não cabe a mim
+dizer ao Charles.
+
+172
+00:23:56,540 --> 00:24:00,194
+Não, não. Esqueça a convenção
+e os bons modos.
+
+173
+00:24:00,195 --> 00:24:03,525
+Não existem riscos aqui,
+só vantagens.
+
+174
+00:24:03,526 --> 00:24:06,844
+Apenas sucesso, alívio
+
+175
+00:24:06,845 --> 00:24:08,928
+e embelezamento do paciente.
+
+176
+00:24:08,929 --> 00:24:10,863
+Mas não menos importante,
+
+177
+00:24:10,864 --> 00:24:13,350
+<i>a fama a ser adquirida
+pelo cirurgião.</i>
+
+178
+00:24:13,351 --> 00:24:15,642
+Tudo de que você fala
+é encantador.
+
+179
+00:24:15,643 --> 00:24:18,338
+Mas a decisão não é minha,
+é de Charles.
+
+180
+00:24:19,251 --> 00:24:20,587
+Muito bem.
+
+181
+00:24:21,099 --> 00:24:24,207
+Mas você, pelo menos,
+ajudará a convencê-lo, não é?
+
+182
+00:24:25,127 --> 00:24:26,427
+Veremos.
+
+183
+00:24:33,267 --> 00:24:35,414
+Não dediquei muito tempo
+ao jardim.
+
+184
+00:24:36,839 --> 00:24:38,545
+Poderia estar tão bonito.
+
+185
+00:24:39,930 --> 00:24:41,403
+Cuidarei dele.
+
+186
+00:24:41,898 --> 00:24:44,766
+Que tal um lago com peixes,
+bem ali?
+
+187
+00:24:44,767 --> 00:24:46,728
+Você terá tempo
+para fazer como quiser.
+
+188
+00:24:47,035 --> 00:24:48,335
+Melhor entrar agora.
+
+189
+00:24:49,058 --> 00:24:51,092
+Você deve divertir-se também.
+
+190
+00:24:51,093 --> 00:24:53,908
+Bem, sim. Mas não tão cedo,
+e nem nesse frio.
+
+191
+00:25:09,938 --> 00:25:11,473
+<i>Certo, mais um.</i>
+
+192
+00:25:12,720 --> 00:25:14,658
+<i>Este deve ser o pior.</i>
+
+193
+00:25:19,085 --> 00:25:21,960
+<i>Isso, está saindo.</i>
+
+194
+00:25:28,323 --> 00:25:30,014
+Estou quase terminando.
+
+195
+00:25:37,565 --> 00:25:40,137
+<i>Acho que já está pronto
+para cobrir agora.</i>
+
+196
+00:25:52,669 --> 00:25:55,666
+<i>Não, isso é
+após ter feito a operação.</i>
+
+197
+00:26:05,825 --> 00:26:08,137
+<i>Os gráficos
+são bem detalhados.</i>
+
+198
+00:26:08,138 --> 00:26:10,606
+<i>Sei que você nunca viu
+algo assim.</i>
+
+199
+00:26:10,607 --> 00:26:12,831
+<i>Eles usam uma mão aqui.</i>
+
+200
+00:26:18,251 --> 00:26:23,000
+Devemos entender a importância
+desse engenho no futuro.
+
+201
+00:26:23,001 --> 00:26:27,714
+Isso é um símbolo da indústria.
+É uma proeza da engenharia.
+
+202
+00:26:28,307 --> 00:26:32,802
+Notem que a esteira regula bem
+o movimento ao cavalo.
+
+203
+00:26:32,803 --> 00:26:34,414
+Vejam só, vejam só!
+
+204
+00:26:35,311 --> 00:26:38,880
+Mas essa configuração
+parece desconfortável ao cavalo.
+
+205
+00:26:38,881 --> 00:26:41,200
+- Bem...
+- Quando o animal descansa?
+
+206
+00:26:42,107 --> 00:26:47,105
+Deveria haver algum cronograma
+ou revezamento.
+
+207
+00:26:47,106 --> 00:26:50,245
+Acho que cada cidade
+tem suas distrações.
+
+208
+00:26:50,934 --> 00:26:55,259
+- Essa é a nossa?
+- Bem, aqui não é Paris.
+
+209
+00:26:56,120 --> 00:26:58,843
+- Já esteve lá?
+- Já.
+
+210
+00:26:59,600 --> 00:27:02,196
+É muito melhor
+do que você possa imaginar.
+
+211
+00:27:02,615 --> 00:27:04,402
+Ilumina os seus sentidos.
+
+212
+00:27:05,263 --> 00:27:07,127
+Totalmente diferente
+de Yonville.
+
+213
+00:27:10,071 --> 00:27:12,359
+Desculpe-me.
+Não deveria estar falando assim.
+
+214
+00:27:12,360 --> 00:27:14,401
+Você acabou de chegar e...
+
+215
+00:27:16,199 --> 00:27:18,610
+Honestamente, nada aqui
+alimenta minha alma,
+
+216
+00:27:18,611 --> 00:27:20,001
+a não ser minha mente.
+
+217
+00:27:23,141 --> 00:27:24,741
+Sinto-me culpado
+por dizer isso.
+
+218
+00:27:25,510 --> 00:27:27,020
+Não, não se sinta.
+
+219
+00:27:27,408 --> 00:27:29,629
+A culpa não te trará nada,
+eu garanto.
+
+220
+00:27:31,221 --> 00:27:33,768
+Quando fui para o convento
+para receber educação,
+
+221
+00:27:33,769 --> 00:27:36,286
+eu tinha uma ideia bonita
+de devoção
+
+222
+00:27:36,287 --> 00:27:38,556
+daquelas mulheres
+de rostos pálidos
+
+223
+00:27:38,557 --> 00:27:41,564
+com seus rosários
+e suas convicções.
+
+224
+00:27:42,263 --> 00:27:44,982
+Queria ser como elas,
+mas não podia.
+
+225
+00:27:46,291 --> 00:27:49,119
+Confundi-me tentando achar
+algum voto para cumprir.
+
+226
+00:27:49,948 --> 00:27:52,810
+Na confissão,
+até inventei pequenos pecados.
+
+227
+00:27:53,336 --> 00:27:55,103
+Eu estava amedrontada.
+
+228
+00:27:55,532 --> 00:27:58,411
+Só queria saber de emoções,
+não de disciplina.
+
+229
+00:28:00,084 --> 00:28:02,666
+As freiras boas constataram
+que eu não tinha vocação
+
+230
+00:28:02,667 --> 00:28:04,726
+e me expulsaram
+para que eu lesse romances
+
+231
+00:28:04,727 --> 00:28:07,525
+e realizasse os desejos
+do coração.
+
+232
+00:28:08,627 --> 00:28:10,194
+Elas me adoeceram,
+
+233
+00:28:11,270 --> 00:28:13,679
+mas foi só mais tarde
+que percebi que minha culpa
+
+234
+00:28:13,680 --> 00:28:16,303
+me afastava da felicidade
+que eu merecia.
+
+235
+00:28:19,961 --> 00:28:23,092
+E você encontrou
+sua felicidade aqui?
+
+236
+00:30:21,321 --> 00:30:23,529
+Perdoe-me.
+Não escutei você entrar.
+
+237
+00:30:25,721 --> 00:30:27,586
+Charles
+foi visitar um paciente.
+
+238
+00:30:27,587 --> 00:30:30,079
+- Não vim ver Charles.
+- Não?
+
+239
+00:30:31,285 --> 00:30:34,638
+- Em que posso ajudá-lo?
+- Não quero sua ajuda.
+
+240
+00:30:34,639 --> 00:30:37,510
+Quero que caminhe comigo.
+
+241
+00:30:38,248 --> 00:30:39,548
+Caminhar?
+
+242
+00:30:40,755 --> 00:30:42,255
+Está um dia lindo.
+
+243
+00:31:16,544 --> 00:31:17,944
+Tenho um presente para você.
+
+244
+00:31:20,086 --> 00:31:22,822
+- Não posso aceitar.
+- É uma coisa sem importância.
+
+245
+00:31:23,205 --> 00:31:25,122
+Uma lembrança dos meus dias
+em Paris.
+
+246
+00:31:25,516 --> 00:31:26,816
+Pegue.
+
+247
+00:31:42,498 --> 00:31:45,021
+Quando era criança,
+eu tinha um mapa como esse.
+
+248
+00:31:46,503 --> 00:31:48,290
+Todas as noites,
+eu fechava os olhos
+
+249
+00:31:48,291 --> 00:31:50,928
+tentando achar
+as ruas e pontes.
+
+250
+00:31:51,814 --> 00:31:54,030
+E me imaginava
+em uma carruagem
+
+251
+00:31:54,698 --> 00:31:56,714
+passando por pessoas ocupadas.
+
+252
+00:31:57,530 --> 00:31:59,518
+Todas tinham algum lugar
+para ir.
+
+253
+00:33:15,240 --> 00:33:16,996
+Bem, é tudo o que eu tenho.
+
+254
+00:33:25,667 --> 00:33:27,271
+Ganhei de novo.
+
+255
+00:33:27,903 --> 00:33:29,232
+Irei me deitar.
+
+256
+00:33:29,233 --> 00:33:31,011
+Há problema
+se jogarmos de novo?
+
+257
+00:33:31,012 --> 00:33:32,784
+Não.
+Por favor, continuem.
+
+258
+00:33:34,278 --> 00:33:36,322
+- Boa noite.
+- Boa noite, Charles.
+
+259
+00:33:43,084 --> 00:33:44,399
+Venha comigo.
+
+260
+00:33:48,276 --> 00:33:50,917
+Por favor,
+preciso falar contigo.
+
+261
+00:33:55,525 --> 00:33:56,952
+Venha.
+
+262
+00:34:20,304 --> 00:34:22,055
+Temo estar enlouquecendo.
+
+263
+00:34:22,405 --> 00:34:24,018
+Só penso em você.
+
+264
+00:34:24,993 --> 00:34:27,524
+Sequer ouço minha voz
+em minha própria cabeça.
+
+265
+00:34:28,592 --> 00:34:30,092
+Ouço apenas a sua.
+
+266
+00:34:41,432 --> 00:34:42,823
+Eu sou casada.
+
+267
+00:34:43,232 --> 00:34:45,119
+Diga-me
+que não sente o mesmo.
+
+268
+00:35:58,219 --> 00:36:02,188
+Agora voltem para lá,
+sentem-se e parem de bagunçar.
+
+269
+00:36:02,189 --> 00:36:04,138
+Charlotte, sente-se direito!
+
+270
+00:36:04,139 --> 00:36:05,472
+Todos vocês...
+
+271
+00:36:12,566 --> 00:36:15,660
+Estes pirralhos.
+Eles não respeitam nada.
+
+272
+00:36:17,672 --> 00:36:19,697
+Você está encantadora,
+Madame Bovary.
+
+273
+00:36:21,042 --> 00:36:23,376
+Não me sinto encantadora,
+senhor Abade.
+
+274
+00:36:23,377 --> 00:36:26,515
+Nem eu.
+Deve ter sido algo que comi.
+
+275
+00:36:27,115 --> 00:36:29,082
+Ou talvez seja a estação.
+
+276
+00:36:29,083 --> 00:36:32,719
+Os dias frio enfraquecem
+a todos, não acha?
+
+277
+00:36:33,036 --> 00:36:34,488
+Creio que sim.
+
+278
+00:36:34,489 --> 00:36:36,823
+Sim.
+Como Santo Paulo disse:
+
+279
+00:36:36,824 --> 00:36:39,075
+"Nós nascemos para sofrer".
+
+280
+00:36:40,933 --> 00:36:42,896
+Eu conheci
+jovens mães pobres,
+
+281
+00:36:42,897 --> 00:36:46,712
+mulheres virtuosas, é claro,
+verdadeiras santas,
+
+282
+00:36:47,368 --> 00:36:49,481
+que não tinham
+pão suficiente.
+
+283
+00:36:51,605 --> 00:36:54,070
+E aquelas, senhor Abade,
+
+284
+00:36:55,377 --> 00:36:57,744
+aquelas que tem pão,
+mas não tem...
+
+285
+00:36:57,745 --> 00:36:59,520
+Fogo no inverno?
+
+286
+00:37:02,360 --> 00:37:04,084
+Para que isso importa?
+
+287
+00:37:04,953 --> 00:37:06,464
+Importa?
+
+288
+00:37:07,489 --> 00:37:09,622
+Ao meu ver,
+quando você tem um bom fogo,
+
+289
+00:37:09,623 --> 00:37:12,559
+comida suficiente,
+e um bom marido...
+
+290
+00:37:12,560 --> 00:37:13,929
+Boudet!
+
+291
+00:37:14,429 --> 00:37:16,829
+Eu vou esquentar suas orelhas,
+seu diabinho.
+
+292
+00:37:19,834 --> 00:37:23,124
+Falando nisso,
+como está o senhor Bovary?
+
+293
+00:37:24,339 --> 00:37:27,520
+Bem, foi sobre isso
+que vim falar.
+
+294
+00:37:27,521 --> 00:37:29,742
+Doente também.
+Muito trabalho.
+
+295
+00:37:29,743 --> 00:37:32,039
+Somos os homens
+mais ocupados da paróquia.
+
+296
+00:37:32,040 --> 00:37:36,249
+Eu, o doutor da alma,
+e ele, o doutor do corpo.
+
+297
+00:37:38,619 --> 00:37:42,622
+Você não está muito bem.
+Você devia ir para casa.
+
+298
+00:37:43,792 --> 00:37:46,309
+A primeira comunhão
+chegará em breve,
+
+299
+00:37:47,062 --> 00:37:50,912
+e tenho que transformar
+esse diabinhos em santos.
+
+300
+00:37:54,068 --> 00:37:57,470
+Eu disse
+para vocês ficarem quietos.
+
+301
+00:37:57,471 --> 00:37:58,887
+Agora, olhem para mim.
+
+302
+00:38:19,326 --> 00:38:21,486
+Você sabia que Leon
+vai se mudar para Rouen?
+
+303
+00:38:23,398 --> 00:38:25,234
+Homais me disse esta tarde.
+
+304
+00:38:27,002 --> 00:38:29,843
+Ele não avisou.
+Homais estava muito chateado.
+
+305
+00:38:30,171 --> 00:38:31,911
+Ele terá que achar
+outro inquilino.
+
+306
+00:38:32,401 --> 00:38:33,752
+Ele disse quando?
+
+307
+00:38:34,175 --> 00:38:35,874
+Amanhã ou depois de amanhã.
+
+308
+00:38:36,812 --> 00:38:39,930
+Nunca reparei
+que Leon era tão impulsivo.
+
+309
+00:38:47,888 --> 00:38:51,421
+- Devo falar para o mestre?
+- Não, não fale.
+
+310
+00:38:52,393 --> 00:38:54,088
+Isso só o deixará
+mais preocupado.
+
+311
+00:38:56,598 --> 00:38:58,139
+São apenas meus nervos.
+
+312
+00:38:59,568 --> 00:39:01,628
+Isso passará, Madame.
+
+313
+00:39:02,137 --> 00:39:04,099
+Você irá gostar daqui.
+
+314
+00:39:07,476 --> 00:39:10,911
+Achei que essa seria a época
+mais feliz da minha vida,
+
+315
+00:39:12,747 --> 00:39:15,832
+mas a calma aqui onde vivemos
+não é o que eu sonhei para mim.
+
+316
+00:39:17,886 --> 00:39:19,986
+Um após o outro,
+os dias se vão,
+
+317
+00:39:20,633 --> 00:39:24,034
+sempre iguais,
+não trazem nada.
+
+318
+00:39:26,460 --> 00:39:28,363
+Será essa a vontade de Deus?
+
+319
+00:39:29,331 --> 00:39:31,501
+Será que meu futuro
+é um corredor escuro
+
+320
+00:39:31,502 --> 00:39:33,258
+com uma porta aparafusada
+no fim?
+
+321
+00:41:07,327 --> 00:41:10,735
+Sempre com um livro, querida.
+Acabará prejudicando a vista.
+
+322
+00:41:11,299 --> 00:41:13,255
+Este livro é fascinante.
+
+323
+00:41:13,768 --> 00:41:15,535
+É sobre o Oriente.
+
+324
+00:41:15,536 --> 00:41:19,223
+A maneiras de se vestir deles,
+os rituais, até a medicina.
+
+325
+00:41:19,224 --> 00:41:20,850
+Eu poderia ler para você.
+
+326
+00:41:21,176 --> 00:41:22,775
+Você talvez o ache útil.
+
+327
+00:41:23,077 --> 00:41:24,911
+São apenas curiosidades.
+
+328
+00:41:24,912 --> 00:41:26,688
+Elas não servem de nada
+em Yonville.
+
+329
+00:41:27,916 --> 00:41:30,755
+Mas certamente
+não ficaremos aqui para sempre.
+
+330
+00:41:31,152 --> 00:41:34,787
+Odiaria te desapontar, querida,
+mas não nos vejo no Oriente.
+
+331
+00:41:34,788 --> 00:41:36,122
+Eu sei, Charles.
+
+332
+00:41:36,123 --> 00:41:38,433
+Pensei em Paris,
+ou talvez Rouen.
+
+333
+00:41:39,320 --> 00:41:41,285
+Realmente acha
+que um médico do interior
+
+334
+00:41:41,286 --> 00:41:43,689
+pode praticar medicina
+em Rouen por capricho?
+
+335
+00:41:43,690 --> 00:41:46,029
+Mas você não é
+um médico do interior.
+
+336
+00:42:43,457 --> 00:42:45,437
+Muito bem, Madame.
+Mais apertado?
+
+337
+00:43:09,850 --> 00:43:12,185
+Meu homem está abrindo
+uma clínica em Rouen,
+
+338
+00:43:12,186 --> 00:43:14,572
+então agora estamos sem médico
+em Vaubeyssard.
+
+339
+00:43:14,573 --> 00:43:15,880
+Sim.
+
+340
+00:43:17,830 --> 00:43:19,730
+Madame Bovary, acredito?
+
+341
+00:43:23,247 --> 00:43:26,996
+Você é abençoado,
+meu querido doutor.
+
+342
+00:43:26,997 --> 00:43:28,828
+Certamente está quebrado.
+
+343
+00:43:28,829 --> 00:43:31,354
+Emma, querida, se importaria
+em pedir à Henriette
+
+344
+00:43:31,355 --> 00:43:32,956
+para esquentar
+um pouco de água?
+
+345
+00:43:35,230 --> 00:43:36,980
+- Só um...
+- Tudo bem.
+
+346
+00:43:41,130 --> 00:43:42,730
+Eu ia perguntar...
+
+347
+00:43:43,200 --> 00:43:45,130
+Está de serviço
+no domingo, doutor?
+
+348
+00:43:45,131 --> 00:43:46,630
+Não, senhor Marquês.
+
+349
+00:43:46,631 --> 00:43:48,629
+Sempre passo o domingo
+com minha esposa.
+
+350
+00:43:48,630 --> 00:43:50,780
+Não seria problema.
+Iríamos, claro, convidar
+
+351
+00:43:50,781 --> 00:43:52,284
+a Madame Bovary
+para vir junto.
+
+352
+00:43:52,285 --> 00:43:54,443
+Estarei em uma caçada
+no próximo domingo,
+
+353
+00:43:54,444 --> 00:43:56,245
+e precisamos
+de um médico no local.
+
+354
+00:43:56,246 --> 00:43:59,705
+- Então, posso contar com você?
+- Bem...
+
+355
+00:44:01,476 --> 00:44:04,991
+A Madame viria conosco?
+
+356
+00:44:10,330 --> 00:44:12,892
+Um caçada, você diz?
+
+357
+00:44:13,831 --> 00:44:15,730
+No domingo...
+
+358
+00:44:17,630 --> 00:44:21,029
+Bem, não vejo motivos
+para não ir.
+
+359
+00:44:21,030 --> 00:44:24,030
+Fantástico.
+Fico na expectativa.
+
+360
+00:44:32,008 --> 00:44:36,929
+A MODA DE PARIS
+MANSÃO LHEREUX
+
+361
+00:44:40,580 --> 00:44:42,329
+Madame Bovary!
+É tão bom vê-la.
+
+362
+00:44:42,330 --> 00:44:44,229
+Linda como sempre, claro.
+
+363
+00:44:44,230 --> 00:44:47,729
+Charles e eu recebemos
+um convite extraordinário.
+
+364
+00:44:47,730 --> 00:44:50,829
+O Marquês de Andervilliers
+nos convidou a uma caçada.
+
+365
+00:44:50,830 --> 00:44:53,692
+E você não tem
+as vestes de equitação, suponho?
+
+366
+00:44:59,209 --> 00:45:01,257
+Isso vai custar muito caro.
+
+367
+00:45:01,258 --> 00:45:03,339
+Você ampliará meu crédito,
+não é?
+
+368
+00:45:15,480 --> 00:45:19,085
+O dinheiro nunca deve ser
+o problema, apenas a solução.
+
+369
+00:45:24,480 --> 00:45:25,880
+Meu querido doutor.
+
+370
+00:45:26,330 --> 00:45:29,713
+Por favor, perdoe-nos
+por trazer a Madame Bovary.
+
+371
+00:45:29,714 --> 00:45:32,429
+Deixo-te em excelente
+companhia.
+
+372
+00:45:32,430 --> 00:45:35,629
+Certamente, senhor Marquês,
+desfrute da caçada.
+
+373
+00:45:35,630 --> 00:45:37,729
+Ar fresco e exercícios
+farão bem à Emma.
+
+374
+00:45:37,730 --> 00:45:41,604
+Quanto a mim, um dia na sela
+não é um dia de felicidade.
+
+375
+00:45:41,605 --> 00:45:43,830
+<i>Fico muito mais feliz aqui
+com o buffet.</i>
+
+376
+00:45:45,389 --> 00:45:46,754
+Meus queridos amigos!
+
+377
+00:45:48,525 --> 00:45:52,929
+Que sorte é partilhar
+esse momento com vocês hoje.
+
+378
+00:45:52,930 --> 00:45:57,099
+Não posso entender totalmente
+minha euforia desta manhã.
+
+379
+00:45:57,100 --> 00:45:59,502
+A caça é parte da minha vida
+e minha alma.
+
+380
+00:45:59,503 --> 00:46:01,204
+Quem poderia viver
+mais plenamente,
+
+381
+00:46:01,580 --> 00:46:04,140
+amar mais profundamente,
+ou celebrar tão bem
+
+382
+00:46:04,141 --> 00:46:06,230
+como o caçador
+com seu cavalo e seus cães?
+
+383
+00:46:07,680 --> 00:46:10,355
+Agora, meus queridos amigos,
+
+384
+00:46:11,630 --> 00:46:13,064
+em suas selas!
+
+385
+00:50:03,750 --> 00:50:05,050
+<i>Entre.</i>
+
+386
+00:50:06,930 --> 00:50:08,790
+- Bom dia, senhor.
+- Bom dia.
+
+387
+00:50:09,730 --> 00:50:11,030
+Madame.
+
+388
+00:50:22,930 --> 00:50:24,407
+O que é, Madame?
+
+389
+00:50:25,130 --> 00:50:26,930
+Você não usa uniforme.
+
+390
+00:50:29,080 --> 00:50:31,077
+Não, Madame.
+Nunca tive.
+
+391
+00:50:32,309 --> 00:50:34,343
+Claro que não.
+É minha culpa.
+
+392
+00:50:34,650 --> 00:50:36,466
+Eu nunca te comprei um.
+
+393
+00:50:37,230 --> 00:50:40,129
+Fico feliz em vestir
+minhas próprias roupas, Madame.
+
+394
+00:50:40,130 --> 00:50:42,729
+Sim, mas um uniforme
+é uma roupa adequada
+
+395
+00:50:42,730 --> 00:50:44,661
+para alguém
+da sua profissão.
+
+396
+00:50:46,430 --> 00:50:47,830
+Vá ver o Lheureux.
+
+397
+00:50:48,525 --> 00:50:50,561
+Ele a vestirá
+apropriadamente.
+
+398
+00:50:51,330 --> 00:50:52,885
+Como desejar, Madame.
+
+399
+00:50:59,430 --> 00:51:02,130
+- O que é isso?
+- O que é o quê?
+
+400
+00:51:02,830 --> 00:51:04,130
+Aquela caixa.
+
+401
+00:51:06,930 --> 00:51:08,629
+É uma caixa de charuto.
+
+402
+00:51:08,630 --> 00:51:10,280
+Não pude achar
+um momento oportuno
+
+403
+00:51:10,281 --> 00:51:11,930
+para devolver ao Marquês.
+
+404
+00:51:24,027 --> 00:51:26,719
+Deve guardá-lo até depois
+de ter operado Hippolyte.
+
+405
+00:51:27,530 --> 00:51:29,657
+Devolverei isso ao Marquês.
+
+406
+00:51:36,339 --> 00:51:38,040
+Estive pensando.
+
+407
+00:51:38,041 --> 00:51:40,205
+Sobre o quê, querido?
+
+408
+00:51:40,543 --> 00:51:42,080
+Devemos progredir.
+
+409
+00:51:43,013 --> 00:51:45,870
+Como Homais disse,
+existem apenas benefícios.
+
+410
+00:51:46,383 --> 00:51:49,030
+Não, existem riscos.
+
+411
+00:51:50,180 --> 00:51:51,887
+Como acha que o médico
+do Marquês
+
+412
+00:51:51,888 --> 00:51:53,830
+abriu uma clínica em Rouen?
+
+413
+00:51:55,830 --> 00:51:57,330
+Ele se arriscou.
+
+414
+00:52:02,480 --> 00:52:05,029
+Eu gostaria de mudar
+todas estas cortinas.
+
+415
+00:52:05,030 --> 00:52:07,129
+Quero que sejam feitas
+de ouro damasco
+
+416
+00:52:07,130 --> 00:52:09,922
+com algum tipo de bordado.
+
+417
+00:52:10,530 --> 00:52:12,573
+Sei bem como você quer.
+
+418
+00:52:17,330 --> 00:52:19,648
+Eu gostaria também
+de lençóis novos
+
+419
+00:52:19,649 --> 00:52:21,984
+e dois candelabros de prata.
+
+420
+00:52:21,985 --> 00:52:24,687
+- Prata?
+- O ouro deve custar o dobro.
+
+421
+00:52:24,688 --> 00:52:27,650
+Sim, mas se você comprar
+um grande candelabro de ouro,
+
+422
+00:52:27,651 --> 00:52:29,101
+combinaria melhor com a mesa.
+
+423
+00:52:29,102 --> 00:52:31,430
+Não custaria muito mais
+do que dois de prata.
+
+424
+00:52:33,986 --> 00:52:35,345
+Algo mais?
+
+425
+00:52:35,754 --> 00:52:38,982
+- Havia mais uma coisa.
+- Não hesite.
+
+426
+00:52:39,591 --> 00:52:41,114
+Eu vi um tapete...
+
+427
+00:52:41,115 --> 00:52:43,210
+Um tapete!
+Isso não é exagero.
+
+428
+00:52:43,211 --> 00:52:45,150
+- E os vestidos?
+- Pegaremos também!
+
+429
+00:52:45,151 --> 00:52:47,427
+Pare de titubear.
+Pegue, pegue.
+
+430
+00:52:49,916 --> 00:52:52,272
+Cada momento
+em que não possui o que ama
+
+431
+00:52:52,273 --> 00:52:54,440
+é um momento
+vivido sem amor.
+
+432
+00:52:54,795 --> 00:52:57,813
+Um coração sem amor é
+um coração sem voz.
+
+433
+00:52:58,123 --> 00:53:00,341
+Sem música, sem vida.
+
+434
+00:53:11,431 --> 00:53:13,080
+Que tal este para a feira?
+
+435
+00:53:13,929 --> 00:53:15,977
+Não é muito sério?
+
+436
+00:53:16,427 --> 00:53:18,624
+Está linda, Madame.
+
+437
+00:53:19,072 --> 00:53:20,760
+Tem um corpo lindo.
+
+438
+00:53:21,250 --> 00:53:23,558
+Uma colher de vinagre
+em cada refeição.
+
+439
+00:53:24,567 --> 00:53:26,986
+Em uma semana,
+nem sente-se mais o gosto.
+
+440
+00:53:52,293 --> 00:53:55,227
+Doutor.
+Madame.
+
+441
+00:53:55,228 --> 00:53:58,421
+- Que manhã esplêndida!
+- Sim, todos vieram.
+
+442
+00:53:58,422 --> 00:54:01,077
+Não está muito frio.
+
+443
+00:54:01,386 --> 00:54:05,003
+Meu Deus!
+Que animal incrível!
+
+444
+00:54:05,004 --> 00:54:06,405
+Extraordinário.
+
+445
+00:54:08,700 --> 00:54:11,359
+- É hora dos prêmios.
+- Não vou prendê-los.
+
+446
+00:54:11,360 --> 00:54:13,435
+- Um prazer vê-los.
+- Bom dia.
+
+447
+00:54:21,139 --> 00:54:24,387
+Querido, ficará chateado
+se eu for para casa descansar?
+
+448
+00:54:24,786 --> 00:54:28,183
+Estou cansada, mas odiaria
+perder as festividades da noite.
+
+449
+00:54:28,184 --> 00:54:30,540
+- Está indisposta?
+- Não, só cansada.
+
+450
+00:54:30,541 --> 00:54:32,487
+- Quer que eu vá junto?
+- Não, querido.
+
+451
+00:54:32,488 --> 00:54:33,986
+Sei que gosta disso.
+
+452
+00:55:11,143 --> 00:55:14,055
+Seu bilhete me preocupou.
+Não sente-se bem?
+
+453
+00:55:16,293 --> 00:55:17,622
+A verdade?
+
+454
+00:55:18,605 --> 00:55:20,879
+Estou entrando em depressão.
+
+455
+00:55:23,016 --> 00:55:24,383
+Você?
+
+456
+00:55:24,384 --> 00:55:26,182
+Se eu pelo menos
+encontrasse amor,
+
+457
+00:55:26,183 --> 00:55:28,662
+não buscaria prazeres
+tão turbulentos
+
+458
+00:55:28,663 --> 00:55:31,957
+ou jogar-me
+em tais fantasias e loucuras.
+
+459
+00:55:33,755 --> 00:55:36,712
+Como mulher, tais distrações
+não me são permitidas.
+
+460
+00:55:37,966 --> 00:55:39,944
+Tristes distrações.
+
+461
+00:55:41,134 --> 00:55:42,942
+Pois não há felicidade nelas.
+
+462
+00:55:46,190 --> 00:55:48,240
+<i>Cavalheiros,
+permitam-me primeiramente</i>
+
+463
+00:55:48,241 --> 00:55:50,776
+<i>homenagear
+a alta administração</i>
+
+464
+00:55:50,777 --> 00:55:52,098
+<i>do governo.</i>
+
+465
+00:55:52,099 --> 00:55:54,813
+<i>Amigos,
+é meu dever homenagear...</i>
+
+466
+00:55:54,814 --> 00:55:56,353
+De novo, dever.
+
+467
+00:55:56,963 --> 00:55:58,612
+É sempre o dever.
+
+468
+00:56:00,456 --> 00:56:01,865
+Cansei desta palavra.
+
+469
+00:56:03,024 --> 00:56:05,142
+O dever é sentir
+o que é ótimo,
+
+470
+00:56:06,161 --> 00:56:07,744
+estimar o que é belo,
+
+471
+00:56:07,745 --> 00:56:10,522
+não aceitar
+as convenções da sociedade.
+
+472
+00:56:11,351 --> 00:56:15,282
+Até certo ponto devemos
+curvar-nos às opiniões do mundo
+
+473
+00:56:15,283 --> 00:56:19,431
+- e aceitar o código moral.
+- Mas há dois códigos.
+
+474
+00:56:21,558 --> 00:56:22,957
+Há o eterno,
+
+475
+00:56:22,958 --> 00:56:25,535
+o poético, que é nosso.
+E o outro?
+
+476
+00:56:27,377 --> 00:56:31,148
+A triste convenção.
+
+477
+00:56:31,149 --> 00:56:33,515
+Com todo respeito,
+senhor Marquês,
+
+478
+00:56:33,516 --> 00:56:35,423
+devemos acabar
+com este assunto.
+
+479
+00:56:40,496 --> 00:56:42,644
+Posso ser algo para você?
+
+480
+00:56:45,302 --> 00:56:47,453
+Apenas posso oferecer
+minha amizade.
+
+481
+00:56:54,389 --> 00:56:58,735
+Como se atreve? Vem aqui
+oferecer-me sua amizade?
+
+482
+00:58:51,190 --> 00:58:52,599
+Madame Bovary.
+
+483
+00:58:55,486 --> 00:58:57,534
+Charles esqueceu
+de devolver isto.
+
+484
+00:59:01,343 --> 00:59:04,179
+Você não atravessou
+a floresta até aqui
+
+485
+00:59:04,180 --> 00:59:06,528
+para devolver uma caixa
+de charutos, não é?
+
+486
+00:59:09,330 --> 00:59:10,649
+Por favor.
+
+487
+00:59:18,689 --> 00:59:20,318
+Estive pensando.
+
+488
+00:59:20,319 --> 00:59:23,395
+Mesmo?
+Em que esteve pensando?
+
+489
+00:59:25,625 --> 00:59:27,331
+Percebi que...
+
+490
+00:59:28,341 --> 00:59:31,779
+antes de casar, estava
+contemplando minha vida futura
+
+491
+00:59:31,780 --> 00:59:34,650
+como uma criança num teatro.
+
+492
+00:59:36,498 --> 00:59:38,937
+Sentada lá, animada,
+
+493
+00:59:38,938 --> 00:59:40,975
+esperando ansiosamente
+a peça começar.
+
+494
+00:59:42,414 --> 00:59:46,591
+Foi uma benção
+não saber o que aconteceria.
+
+495
+00:59:48,429 --> 00:59:49,829
+Olhando para trás,
+
+496
+00:59:49,830 --> 00:59:52,406
+parece que eu era
+uma inocente prisioneira,
+
+497
+00:59:53,155 --> 00:59:56,237
+condenada não à morte,
+mas à vida,
+
+498
+00:59:56,238 --> 00:59:58,744
+mas sem saber
+o que a sentença significava.
+
+499
+01:00:00,917 --> 01:00:02,217
+Quanto mais eu vivo,
+
+500
+01:00:02,218 --> 01:00:05,538
+mais claramente
+sinto que num todo,
+
+501
+01:00:07,906 --> 01:00:10,602
+a vida é uma decepção.
+
+502
+01:00:12,714 --> 01:00:14,063
+Minha querida.
+
+503
+01:00:14,064 --> 01:00:16,371
+Talvez precise
+de um confidente.
+
+504
+01:00:16,372 --> 01:00:18,409
+Uma amiga que possa
+te aconselhar
+
+505
+01:00:18,410 --> 01:00:19,710
+nesses assuntos femininos.
+
+506
+01:00:19,711 --> 01:00:22,440
+- Infelizmente, eu não...
+- Vim porque preciso de você.
+
+507
+01:00:22,930 --> 01:00:26,530
+Eu não permanecerei inerte
+com esse desespero febril.
+
+508
+01:00:32,130 --> 01:00:35,830
+Querida Emma, você permanece
+embaixo de uma macieira
+
+509
+01:00:35,831 --> 01:00:38,440
+desejando o cheiro
+de flores de laranjeira.
+
+510
+01:00:38,441 --> 01:00:41,630
+Então sim,
+você está permanecendo inerte.
+
+511
+01:00:41,631 --> 01:00:45,470
+Perdida
+em um mundo de ilusões.
+
+512
+01:00:45,471 --> 01:00:49,414
+Gosta de ouvir as palavras,
+mas não tem coragem de agir
+
+513
+01:00:49,415 --> 01:00:51,365
+- conforme seus sentimentos.
+- Eu tenho!
+
+514
+01:00:51,366 --> 01:00:53,286
+Eu tenho coragem!
+
+515
+01:00:53,287 --> 01:00:55,480
+Por favor, não me afaste!
+
+516
+01:00:57,581 --> 01:00:58,890
+Sim.
+
+517
+01:01:01,382 --> 01:01:02,780
+Realmente.
+
+518
+01:01:06,430 --> 01:01:09,483
+Custou-lhe muita coragem,
+somente vir aqui, não é?
+
+519
+01:03:16,630 --> 01:03:18,430
+Madame?
+Sr. Homais.
+
+520
+01:03:18,431 --> 01:03:21,030
+Emma, Emma, Emma.
+
+521
+01:03:21,031 --> 01:03:24,200
+Você é bonita, sábia
+e você é mágica.
+
+522
+01:03:24,864 --> 01:03:28,190
+- Não sei como conseguiu.
+- Foi o senhor Lheureux.
+
+523
+01:03:28,191 --> 01:03:29,503
+Sr. Lheur...?
+
+524
+01:03:30,330 --> 01:03:32,730
+Perdão. Não estava
+comentando sobre a casa
+
+525
+01:03:32,731 --> 01:03:35,630
+que tem realmente
+um gosto muito requintado.
+
+526
+01:03:35,631 --> 01:03:40,235
+Não, Charles concordou em operar
+o pé aleijado de Hippolyte.
+
+527
+01:03:40,730 --> 01:03:42,130
+Sim!
+
+528
+01:03:43,330 --> 01:03:45,953
+Esse livro contém
+tudo que ele precisa saber
+
+529
+01:03:45,954 --> 01:03:47,855
+sobre a cirurgia.
+Não o deixe descansar
+
+530
+01:03:47,856 --> 01:03:49,771
+até que tenha aprendido tudo.
+Entendeu?
+
+531
+01:03:49,772 --> 01:03:52,430
+- Entendi.
+- Excelente. E muito em breve,
+
+532
+01:03:52,431 --> 01:03:54,975
+você será a esposa
+de um famoso médico do interior.
+
+533
+01:03:56,930 --> 01:03:58,280
+O que foi?
+
+534
+01:03:58,630 --> 01:04:00,830
+É o que você quer, não é?
+
+535
+01:04:01,902 --> 01:04:04,435
+- Claro.
+- Claro.
+
+536
+01:04:05,430 --> 01:04:07,487
+Estude muito, Charles!
+
+537
+01:04:37,230 --> 01:04:38,830
+Você me ama?
+
+538
+01:04:41,930 --> 01:04:43,430
+Claro que amo.
+
+539
+01:04:45,130 --> 01:04:46,530
+Para valer?
+
+540
+01:04:48,580 --> 01:04:49,880
+Sim.
+
+541
+01:04:49,881 --> 01:04:51,980
+E você nunca amou outras?
+
+542
+01:04:54,130 --> 01:04:57,030
+Você não pensou
+que eu fosse virgem, pensou?
+
+543
+01:04:57,550 --> 01:04:59,182
+Claro que não.
+
+544
+01:05:00,314 --> 01:05:02,847
+Mas eu te amo tanto
+que não poderia viver sem você.
+
+545
+01:05:02,848 --> 01:05:04,180
+Não percebe?
+
+546
+01:06:13,630 --> 01:06:15,733
+<i>Senhoras e Senhores
+de Yonville,</i>
+
+547
+01:06:15,734 --> 01:06:20,430
+diante de vocês está
+o grande médico Charles Bovary,
+
+548
+01:06:20,431 --> 01:06:24,400
+que hoje finalmente curará
+nosso pobre aleijado Hippolyte
+
+549
+01:06:24,401 --> 01:06:26,582
+da sua peculiaridade
+mais infame.
+
+550
+01:06:27,891 --> 01:06:29,191
+Podem chegar mais perto,
+
+551
+01:06:29,192 --> 01:06:31,550
+mas lembrem-se
+de manter a calma.
+
+552
+01:06:34,830 --> 01:06:36,330
+Um pouco mais de conhaque.
+
+553
+01:06:36,331 --> 01:06:40,153
+Vamos, vamos.
+Tome um bom gole.
+
+554
+01:06:41,393 --> 01:06:43,284
+- Bom garoto.
+- Sr. Dubuc,
+
+555
+01:06:43,285 --> 01:06:44,785
+pode segurar essa caixa?
+
+556
+01:06:47,430 --> 01:06:48,750
+Não se mexa.
+
+557
+01:06:50,630 --> 01:06:51,980
+Comecemos.
+
+558
+01:07:04,417 --> 01:07:05,730
+Eu sei, eu sei.
+
+559
+01:07:07,580 --> 01:07:08,880
+Segunda incisão.
+
+560
+01:07:14,386 --> 01:07:17,730
+Está quase terminando.
+
+561
+01:07:19,330 --> 01:07:21,566
+Apesar dos preconceitos
+que ainda envolvem
+
+562
+01:07:21,567 --> 01:07:23,280
+uma parte da Europa,
+como uma rede,
+
+563
+01:07:23,661 --> 01:07:27,530
+uma luz de esperança
+começa a penetrar nosso país.
+
+564
+01:07:28,230 --> 01:07:31,576
+Assim na terça-feira,
+a pequena cidade de Yonville
+
+565
+01:07:31,577 --> 01:07:35,144
+foi o palco
+de uma ótima operação cirúrgica
+
+566
+01:07:35,537 --> 01:07:38,080
+e o mais sublime
+ato de filantropia.
+
+567
+01:07:39,530 --> 01:07:43,430
+Senhor Bovary,
+nosso médico mais notável,
+
+568
+01:07:43,431 --> 01:07:46,386
+operou um homem
+manco de nascença.
+
+569
+01:07:47,930 --> 01:07:51,380
+Além disso, a operação
+foi realizada como magia.
+
+570
+01:07:52,030 --> 01:07:55,130
+E poucas gotas de sangue
+apareceram na pele
+
+571
+01:07:55,131 --> 01:07:59,130
+como se o tendão rebelde
+tivesse finalmente...
+
+572
+01:08:00,330 --> 01:08:04,980
+Cedido ao empenho
+da arte cirúrgica.
+
+573
+01:08:06,746 --> 01:08:09,680
+- Ao progresso!
+- Ao progresso!
+
+574
+01:08:09,681 --> 01:08:11,014
+Ajudem-me.
+
+575
+01:08:11,710 --> 01:08:14,275
+Estou ficando louca,
+ele não para de gritar.
+
+576
+01:08:14,276 --> 01:08:15,630
+Ele acha que está morrendo.
+
+577
+01:08:15,631 --> 01:08:18,830
+Calma. Qual o problema
+com o nosso paciente ingrato?
+
+578
+01:08:18,831 --> 01:08:20,699
+Ele está convulsionando
+terrivelmente.
+
+579
+01:08:20,700 --> 01:08:22,460
+Ele golpeou a caixa
+na perna dele
+
+580
+01:08:22,461 --> 01:08:24,661
+- contra a parede até quebrá-la.
+- Entendo.
+
+581
+01:08:25,390 --> 01:08:26,756
+Vá, Charles.
+
+582
+01:08:26,757 --> 01:08:29,300
+Você deve assegurar
+o sucesso da operação.
+
+583
+01:08:29,301 --> 01:08:30,791
+Retornaremos em breve.
+
+584
+01:08:42,881 --> 01:08:44,230
+Então?
+
+585
+01:08:44,552 --> 01:08:45,852
+Removi a caixa,
+
+586
+01:08:45,853 --> 01:08:47,840
+mas o inchaço
+é muito pior que imaginei.
+
+587
+01:08:48,188 --> 01:08:51,047
+<i>- Talvez fosse um vulgus.
+- O quê?</i>
+
+588
+01:08:52,492 --> 01:08:54,452
+Talvez eu tenha cortado
+o tendão errado.
+
+589
+01:08:58,630 --> 01:09:01,257
+Estou preocupado
+pois se não curar adequadamente
+
+590
+01:09:01,258 --> 01:09:04,301
+e a gangrena se instalar,
+teremos que amputar.
+
+591
+01:09:08,106 --> 01:09:10,108
+- Meu amor...
+- Não me toque.
+
+592
+01:09:10,109 --> 01:09:13,411
+- O que foi?
+- Não deveria ser assim.
+
+593
+01:09:15,814 --> 01:09:17,949
+- Sabe o quanto te amo...
+- Pare com isso!
+
+594
+01:09:19,986 --> 01:09:22,754
+- Não está sendo você mesma.
+- Deixe-me em paz!
+
+595
+01:09:56,255 --> 01:09:58,584
+Como Charles pode ser
+tão complacente?
+
+596
+01:10:01,060 --> 01:10:03,498
+Ele não tem noção
+do meu tormento.
+
+597
+01:10:04,497 --> 01:10:06,765
+Se tivesse ao menos
+tentado me entender,
+
+598
+01:10:06,766 --> 01:10:08,066
+eu não teria...
+
+599
+01:10:11,570 --> 01:10:13,506
+Ele é a causa
+da minha infelicidade.
+
+600
+01:10:18,277 --> 01:10:21,410
+Queria que ele me batesse,
+seria uma razão para odiá-lo.
+
+601
+01:10:34,159 --> 01:10:35,993
+Você está aqui.
+
+602
+01:10:38,664 --> 01:10:40,665
+Leve-me embora.
+Eu te imploro.
+
+603
+01:10:44,875 --> 01:10:46,572
+Não pode fazer isso.
+
+604
+01:10:47,874 --> 01:10:51,160
+É imprudente.
+Você está se comprometendo.
+
+605
+01:10:52,745 --> 01:10:54,379
+Você é casada, Emma.
+
+606
+01:10:55,281 --> 01:10:57,082
+Poderíamos nos casar.
+
+607
+01:10:57,083 --> 01:11:00,741
+Poderíamos ir viver
+em outro lugar. Em Paris!
+
+608
+01:11:03,022 --> 01:11:05,657
+Você é realmente louca.
+Como isso é possível?
+
+609
+01:11:05,658 --> 01:11:08,564
+Por favor! Pensei ter casado
+com um médico, mas ele não é.
+
+610
+01:11:08,565 --> 01:11:11,701
+Ele é um açougueiro.
+Ele me tortura.
+
+611
+01:11:12,732 --> 01:11:15,476
+Não aguento mais um dia
+tendo que comer
+
+612
+01:11:15,477 --> 01:11:17,059
+enquanto camponeses tossem
+
+613
+01:11:17,060 --> 01:11:19,707
+e contam de novo
+seus vis históricos médicos.
+
+614
+01:11:24,043 --> 01:11:26,945
+Tenha coragem.
+Seja paciente.
+
+615
+01:11:26,946 --> 01:11:28,581
+Tenho sido paciente!
+
+616
+01:11:28,928 --> 01:11:30,715
+Sofri por tempo suficiente!
+
+617
+01:11:31,317 --> 01:11:33,277
+Não pode me deixar assim!
+
+618
+01:11:40,592 --> 01:11:41,994
+Muito bem.
+
+619
+01:11:42,896 --> 01:11:45,096
+Dê-me um tempo
+para organizar algumas coisas.
+
+620
+01:12:09,354 --> 01:12:10,722
+Você está linda.
+
+621
+01:12:24,703 --> 01:12:26,950
+Henriette, por favor,
+pare de chorar.
+
+622
+01:12:27,907 --> 01:12:31,730
+Escute, você cuidará bem
+do Charles, certo?
+
+623
+01:12:31,731 --> 01:12:33,470
+Tem de me prometer.
+
+624
+01:12:33,471 --> 01:12:35,112
+Ele é um bom homem.
+
+625
+01:12:49,030 --> 01:12:50,330
+<i>Obrigada.</i>
+
+626
+01:12:57,190 --> 01:12:58,490
+Quem era?
+
+627
+01:12:58,491 --> 01:13:00,958
+Um presente
+do senhor Marquês.
+
+628
+01:13:42,681 --> 01:13:44,381
+- Senhor Homais.
+- Perdoe-me.
+
+629
+01:13:44,382 --> 01:13:47,204
+Perdoe-me.
+Tive que ver por mim mesmo.
+
+630
+01:13:47,887 --> 01:13:49,188
+Uma ameixa?
+
+631
+01:13:49,489 --> 01:13:51,851
+Não, não.
+Não acredito nisso.
+
+632
+01:13:52,258 --> 01:13:54,159
+Isso é extraordinário!
+
+633
+01:13:54,160 --> 01:13:56,431
+Sim, as irregularidades
+do sistema nervoso
+
+634
+01:13:56,432 --> 01:13:58,174
+podem ser desconcertantes.
+
+635
+01:13:59,353 --> 01:14:03,550
+Meu amigo Bridaux tem
+um cachorro que convulsiona
+
+636
+01:14:03,551 --> 01:14:05,867
+sempre que há
+uma caixa de tabaco perto dele.
+
+637
+01:14:05,868 --> 01:14:09,074
+- É curioso, não é?
+- Não, não é.
+
+638
+01:14:09,075 --> 01:14:10,642
+Você acordará Emma.
+
+639
+01:14:16,114 --> 01:14:19,383
+Descanse, querida.
+Descanse.
+
+640
+01:16:21,874 --> 01:16:23,174
+Aqui está a perna.
+
+641
+01:16:23,175 --> 01:16:25,277
+Deve melhorar
+o andar do nosso amigo.
+
+642
+01:16:25,278 --> 01:16:27,011
+O bocal é forrado
+com cortiça.
+
+643
+01:16:27,012 --> 01:16:28,952
+Tem juntas de mola
+mas funções à parte,
+
+644
+01:16:28,953 --> 01:16:30,422
+considere apenas a estética.
+
+645
+01:16:30,423 --> 01:16:33,385
+- Não pedi isto.
+- Madame Bovary pediu isto.
+
+646
+01:16:33,386 --> 01:16:35,921
+E não foi barato.
+300 francos.
+
+647
+01:16:36,722 --> 01:16:39,195
+Faz mais de um mês
+e ela não deixou um depósito,
+
+648
+01:16:39,196 --> 01:16:41,492
+então exigirei pagamento
+integral imediato.
+
+649
+01:16:41,493 --> 01:16:42,795
+Bem, pode ficar com ela.
+
+650
+01:16:42,796 --> 01:16:45,529
+Não posso. É feito com
+medições individuais precisas.
+
+651
+01:16:45,932 --> 01:16:49,001
+- Mas não posso te pagar.
+- Charles, você é obrigado.
+
+652
+01:16:49,002 --> 01:16:51,437
+Caso contrário,
+devo exercer a lei.
+
+653
+01:16:52,739 --> 01:16:54,571
+Darei até a primavera
+para pagar,
+
+654
+01:16:54,572 --> 01:16:56,707
+então concederei
+500 francos adicionais
+
+655
+01:16:56,708 --> 01:16:59,675
+em seu empréstimo para cobrir
+custos incorridos pela...
+
+656
+01:16:59,676 --> 01:17:01,078
+- Doença.
+- Doença da Madame.
+
+657
+01:17:01,079 --> 01:17:02,380
+Ótimo.
+
+658
+01:17:04,616 --> 01:17:08,519
+Caro Charles, acho que tenho
+a cura para Madame.
+
+659
+01:17:14,626 --> 01:17:19,564
+Emma, conhece o grande barítono
+Romeo Fidanza?
+
+660
+01:17:19,565 --> 01:17:22,869
+- Conheço, claro.
+- O que tem ele?
+
+661
+01:17:22,870 --> 01:17:26,204
+<i>Meu fornecedor mais próximo,
+o dono da Casa Trois Frères,</i>
+
+662
+01:17:26,205 --> 01:17:27,688
+está apresentando um recital.
+
+663
+01:17:28,207 --> 01:17:30,141
+Tenho alguns convites.
+
+664
+01:17:31,043 --> 01:17:33,145
+Só para meus melhores clientes,
+é claro.
+
+665
+01:17:34,235 --> 01:17:36,613
+É exatamente
+o que ela precisa.
+
+666
+01:17:36,614 --> 01:17:38,979
+Usar um bonito vestido,
+ser ela mesma,
+
+667
+01:17:38,980 --> 01:17:40,908
+e ter satisfação
+no que gosta.
+
+668
+01:17:43,423 --> 01:17:45,355
+Emma, pense.
+Que tipo de corte
+
+669
+01:17:45,356 --> 01:17:47,412
+você quer
+em um belo vestido de seda?
+
+670
+01:17:49,843 --> 01:17:51,559
+Que tal com um laço atrás?
+
+671
+01:18:58,869 --> 01:19:02,156
+Querida Emma, não acreditará
+em quem está aqui!
+
+672
+01:19:02,157 --> 01:19:04,422
+Leon! Que coincidência.
+
+673
+01:19:04,936 --> 01:19:06,526
+É a sua primeira vez
+em Rouen?
+
+674
+01:19:06,527 --> 01:19:09,699
+Eu estudei medicina aqui,
+mas é a primeira vez de Emma.
+
+675
+01:19:10,151 --> 01:19:12,398
+- Primeira vez num recital?
+- Sim.
+
+676
+01:19:12,399 --> 01:19:14,845
+- E?
+- Foi absolutamente lindo.
+
+677
+01:19:14,846 --> 01:19:16,298
+O mesmo pode ser dito
+de você.
+
+678
+01:19:17,404 --> 01:19:21,200
+Então, conte-nos, Leon,
+como é a vida em Rouen?
+
+679
+01:19:21,201 --> 01:19:23,243
+Tenho trabalhado
+num grande escritório,
+
+680
+01:19:23,244 --> 01:19:25,445
+ganhando prática
+enquanto termino os estudos.
+
+681
+01:19:25,446 --> 01:19:28,220
+Tem encontrado tempo para
+aproveitar a cultura em Rouen?
+
+682
+01:19:28,221 --> 01:19:31,121
+Tenho,
+vou a óperas com frequência.
+
+683
+01:19:31,122 --> 01:19:32,547
+Já vi grandes tenores.
+
+684
+01:19:32,548 --> 01:19:35,520
+- Rubini, Grisi e Periani.
+- Nem consigo imaginar.
+
+685
+01:19:36,381 --> 01:19:38,054
+Rubini se apresentará amanhã.
+
+686
+01:19:38,554 --> 01:19:40,108
+Ele é sublime.
+Você deveria vir.
+
+687
+01:19:40,109 --> 01:19:42,147
+Infelizmente,
+devo voltar pela manhã.
+
+688
+01:19:42,148 --> 01:19:44,097
+Honestamente,
+nunca tive coragem
+
+689
+01:19:44,098 --> 01:19:46,073
+de ir a óperas nos anos
+que passei aqui.
+
+690
+01:19:46,074 --> 01:19:48,363
+Não entendo completamente
+a proposta.
+
+691
+01:19:48,364 --> 01:19:51,221
+A sinfonia encobre a letra
+tornando impossível...
+
+692
+01:19:51,222 --> 01:19:54,174
+- Charles!
+- Gostaria de ficar, querida?
+
+693
+01:19:55,329 --> 01:19:57,230
+Poderíamos nos encontrar
+na catedral.
+
+694
+01:19:57,231 --> 01:19:58,647
+Você deveria vê-la.
+
+695
+01:19:59,859 --> 01:20:03,755
+Pense bem, querida.
+A noite aconselha.
+
+696
+01:22:51,336 --> 01:22:53,586
+Hippolyte, ajude-me aqui!
+
+697
+01:23:08,406 --> 01:23:10,104
+A bota está se ajustando?
+
+698
+01:23:11,877 --> 01:23:14,117
+Dê-me algumas moedas
+e carregarei suas malas.
+
+699
+01:23:19,241 --> 01:23:22,647
+Essa aqui.
+Obrigada.
+
+700
+01:23:47,033 --> 01:23:48,333
+O que houve?
+
+701
+01:23:55,149 --> 01:23:56,779
+Meu pai morreu.
+
+702
+01:24:47,109 --> 01:24:50,353
+Acabei de saber
+e sob as circunstâncias tristes,
+
+703
+01:24:50,354 --> 01:24:52,896
+pensei em vir oferecer
+meus serviços.
+
+704
+01:24:54,081 --> 01:24:56,024
+Obrigada,
+mas não precisamos deles.
+
+705
+01:24:57,064 --> 01:24:59,870
+- Tem certeza?
+- Tenho.
+
+706
+01:25:01,745 --> 01:25:03,100
+Com licença, Madame,
+
+707
+01:25:03,101 --> 01:25:05,282
+mas gostaria de conversar
+em particular.
+
+708
+01:25:06,695 --> 01:25:08,207
+É sobre aquele assunto.
+
+709
+01:25:30,388 --> 01:25:32,510
+Fui muito bom com você,
+Emma.
+
+710
+01:25:34,421 --> 01:25:37,455
+Não ficou contente em encontrar
+velhos conhecidos em Rouen?
+
+711
+01:25:37,935 --> 01:25:41,000
+Não acha que o momento
+é um pouco inadequado?
+
+712
+01:25:41,575 --> 01:25:43,391
+Seu marido é um bom sujeito.
+
+713
+01:25:43,981 --> 01:25:47,368
+- Gentil, honrado.
+- O que você quer?
+
+714
+01:25:47,698 --> 01:25:51,203
+Sua dívida ficou grande,
+mas você sabe muito bem disso.
+
+715
+01:25:51,204 --> 01:25:54,712
+Este assunto diz respeito,
+especificamente,
+
+716
+01:25:54,713 --> 01:25:58,074
+aos seus pequenos caprichos
+em Rouen.
+
+717
+01:25:58,075 --> 01:26:01,261
+O pai dele nem foi enterrado,
+e você está me chantageando?
+
+718
+01:26:01,262 --> 01:26:04,486
+Sei que Charles herdou
+um lote de terra
+
+719
+01:26:04,487 --> 01:26:07,158
+nos arredores da cidade,
+com 5 hectares, então...
+
+720
+01:26:07,665 --> 01:26:10,620
+Eu poderia ampliar o crédito,
+mas no estado dele...
+
+721
+01:26:12,306 --> 01:26:15,554
+Acho melhor ele lhe passar
+uma procuração.
+
+722
+01:26:15,555 --> 01:26:17,490
+Desse jeito, nós,
+você e eu...
+
+723
+01:26:17,800 --> 01:26:20,364
+Poderíamos continuar
+nossos negócios.
+
+724
+01:26:34,899 --> 01:26:36,220
+Este.
+
+725
+01:26:39,540 --> 01:26:40,840
+Este.
+
+726
+01:26:44,079 --> 01:26:45,631
+Este não.
+
+727
+01:27:24,313 --> 01:27:26,471
+Querida, está errando
+por ficar impaciente.
+
+728
+01:27:26,472 --> 01:27:28,825
+É horrível,
+meus dedos estão duros.
+
+729
+01:27:28,826 --> 01:27:30,862
+Eu sei, tente de novo.
+
+730
+01:27:38,692 --> 01:27:41,515
+Não adianta,
+não melhorarei sem instrução.
+
+731
+01:27:41,924 --> 01:27:44,534
+- Não diga isso.
+- Mas é verdade.
+
+732
+01:27:47,068 --> 01:27:49,089
+Só há professores em Rouen.
+
+733
+01:27:49,425 --> 01:27:52,699
+Se você quer tanto,
+assista às aulas.
+
+734
+01:30:28,563 --> 01:30:32,213
+- Como foi o seu dia?
+- Bom.
+
+735
+01:30:40,093 --> 01:30:44,110
+Emma, eu estava admirando
+esse magnífico tapete novo.
+
+736
+01:30:44,456 --> 01:30:45,856
+Obrigada.
+
+737
+01:30:46,856 --> 01:30:48,965
+Henriette
+não te serviu ainda?
+
+738
+01:30:49,747 --> 01:30:51,047
+Não.
+
+739
+01:30:51,381 --> 01:30:53,509
+Querido,
+você deve estar faminto.
+
+740
+01:30:53,510 --> 01:30:55,271
+Vou buscar
+o jantar imediatamente.
+
+741
+01:31:12,736 --> 01:31:14,127
+O que é, Charles?
+
+742
+01:31:14,800 --> 01:31:16,735
+O que seu amigo
+colocou na sua cabeça?
+
+743
+01:31:17,273 --> 01:31:19,299
+Homais? Nada.
+
+744
+01:31:21,568 --> 01:31:23,300
+Lheureux
+estava te procurando hoje.
+
+745
+01:31:23,643 --> 01:31:25,816
+Ele trouxe uma cobrança
+e eu abri.
+
+746
+01:31:26,177 --> 01:31:28,128
+Querido, por que fez isso?
+
+747
+01:31:28,549 --> 01:31:30,500
+Preciso que saiba
+que eu não ganho
+
+748
+01:31:30,501 --> 01:31:33,073
+e nunca ganhei o dinheiro
+para pagar o que devemos.
+
+749
+01:31:34,520 --> 01:31:37,949
+Por favor, querido.
+Está se chateando à toa.
+
+750
+01:31:37,950 --> 01:31:41,251
+Olhe ao seu redor.
+Veja tudo o que temos.
+
+751
+01:31:41,252 --> 01:31:44,750
+Os tapetes, as novas cortinas,
+as cadeiras.
+
+752
+01:31:45,166 --> 01:31:47,074
+Vamos Charles,
+olhe para tudo.
+
+753
+01:31:47,958 --> 01:31:51,523
+Admita que pela quantidade
+o custo não é tão relevante.
+
+754
+01:31:51,524 --> 01:31:54,922
+São extravagâncias!
+Estaríamos melhor sem elas.
+
+755
+01:31:56,828 --> 01:31:58,235
+Mas você gosta delas.
+
+756
+01:31:59,316 --> 01:32:01,323
+Não senta em sua cadeira
+todo dia?
+
+757
+01:32:01,324 --> 01:32:03,120
+Mas ela
+não precisa ser estofada.
+
+758
+01:32:03,121 --> 01:32:05,084
+Nem preciso de seda
+em meu paletó
+
+759
+01:32:05,085 --> 01:32:07,750
+ou creme de pistache
+como sobremesa ou ostras.
+
+760
+01:32:16,803 --> 01:32:18,813
+Nem todos podem ser ricos,
+querida.
+
+761
+01:32:32,494 --> 01:32:35,179
+"02 de setembro,
+200 francos."
+
+762
+01:32:35,180 --> 01:32:37,413
+"05 de outubro,
+375 francos."
+
+763
+01:32:37,414 --> 01:32:40,030
+"20 de novembro,
+450 francos."
+
+764
+01:32:40,430 --> 01:32:41,880
+Isso não tem fim.
+
+765
+01:32:42,938 --> 01:32:47,668
+Você me deve 10 mil francos
+e deve começar a pagar.
+
+766
+01:32:48,060 --> 01:32:50,550
+- Mas não tenho como pagar.
+- Sim, você tem.
+
+767
+01:32:50,852 --> 01:32:52,496
+Com a herança de Charles.
+
+768
+01:33:06,669 --> 01:33:08,069
+Deve ser terminado.
+
+769
+01:33:19,323 --> 01:33:23,091
+- O que faz aqui, justo hoje?
+- Eu briguei com Charles.
+
+770
+01:33:23,516 --> 01:33:25,272
+Estou trabalhando.
+Não posso vê-la.
+
+771
+01:33:25,273 --> 01:33:28,227
+- Venha, passe a tarde comigo.
+- É impossível.
+
+772
+01:33:28,228 --> 01:33:30,488
+Meu mestre já reclamou
+de minhas ausências.
+
+773
+01:33:30,489 --> 01:33:32,047
+Não é como antes.
+
+774
+01:33:32,554 --> 01:33:35,128
+Preciso discutir uma coisa
+com você urgentemente.
+
+775
+01:33:35,560 --> 01:33:38,878
+Por favor.
+É de natureza jurídica.
+
+776
+01:33:40,425 --> 01:33:43,226
+Tudo bem.
+Aguarde-me lá fora.
+
+777
+01:33:57,461 --> 01:33:59,312
+Quero que deixe
+sua barba pontuda
+
+778
+01:33:59,313 --> 01:34:01,330
+como a do Duque
+da Normandia.
+
+779
+01:34:01,331 --> 01:34:02,915
+Qual é a questão jurídica?
+
+780
+01:34:03,217 --> 01:34:06,332
+Vamos comprar um terno novo.
+Todo preto.
+
+781
+01:34:06,333 --> 01:34:10,698
+Não quero e, mais importante,
+não posso pagar.
+
+782
+01:34:11,343 --> 01:34:13,221
+Como se importa
+com seu dinheiro.
+
+783
+01:34:13,222 --> 01:34:14,914
+Sim, eu me importo.
+Muito.
+
+784
+01:34:14,915 --> 01:34:18,561
+Qual era o problema jurídico
+que você queria discutir?
+
+785
+01:34:19,693 --> 01:34:22,230
+- Casamento.
+- Casamento?
+
+786
+01:34:22,231 --> 01:34:23,566
+Sim.
+
+787
+01:34:24,365 --> 01:34:27,409
+- Você é casada, Emma.
+- Exatamente.
+
+788
+01:34:33,663 --> 01:34:35,913
+Você me deixará também,
+não é?
+
+789
+01:34:37,205 --> 01:34:40,006
+Casará com outra pessoa,
+assim como todos os outros.
+
+790
+01:34:40,839 --> 01:34:43,945
+"Como todos os outros"?
+Emma, que outros?
+
+791
+01:34:43,946 --> 01:34:45,648
+- Todos os homens.
+- Que homens?
+
+792
+01:34:45,649 --> 01:34:47,617
+Vocês são todos maus,
+cada um de vocês.
+
+793
+01:34:50,147 --> 01:34:51,695
+Não posso te acompanhar.
+
+794
+01:34:52,709 --> 01:34:55,781
+- Leon, por favor.
+- Encontrarei você no hotel.
+
+795
+01:34:56,805 --> 01:34:58,205
+Por favor, vá.
+
+796
+01:35:51,481 --> 01:35:54,160
+- Leon.
+- Você tem que parar com isso.
+
+797
+01:35:54,161 --> 01:35:56,326
+Você não apareceu.
+Precisamos conversar.
+
+798
+01:36:02,319 --> 01:36:04,113
+Você sabe
+o que está fazendo comigo?
+
+799
+01:36:04,114 --> 01:36:05,502
+Estas visitas?
+
+800
+01:36:05,503 --> 01:36:09,050
+Todo dia preciso aguentar
+meus colegas me escarnecendo.
+
+801
+01:36:09,051 --> 01:36:10,394
+Seu idiota!
+
+802
+01:36:10,395 --> 01:36:13,190
+Está preocupado
+com piadas dos seus colegas?
+
+803
+01:36:13,191 --> 01:36:14,497
+Você não me ama?
+
+804
+01:36:16,753 --> 01:36:19,042
+- Você não me ama?
+- Leon.
+
+805
+01:36:20,433 --> 01:36:22,907
+Isso
+é absolutamente vergonhoso.
+
+806
+01:36:22,908 --> 01:36:25,531
+Você está se arruinando
+com uma mulher casada.
+
+807
+01:36:26,004 --> 01:36:28,915
+Dispense-a de uma vez
+ou você será dispensado.
+
+808
+01:36:28,916 --> 01:36:31,107
+Certo.
+Ela estava de saída, senhor.
+
+809
+01:37:46,914 --> 01:37:48,214
+Quem era aquele?
+
+810
+01:37:50,195 --> 01:37:52,837
+- O que você fez?
+- Quem era aquele?
+
+811
+01:37:53,358 --> 01:37:58,075
+- O oficial de justiça.
+- Não, não pode ser.
+
+812
+01:37:59,519 --> 01:38:01,019
+Está tudo errado.
+
+813
+01:38:12,257 --> 01:38:15,441
+Sr. Lheureux,
+deve haver algum engano.
+
+814
+01:38:15,442 --> 01:38:17,428
+Um oficial de justiça
+entregou uma ordem
+
+815
+01:38:17,429 --> 01:38:19,780
+para coletar tudo
+dentro de 14 dias.
+
+816
+01:38:21,774 --> 01:38:23,118
+Você não me ouviu?
+
+817
+01:38:26,333 --> 01:38:29,179
+Uma decisão judicial
+e uma ordem de busca.
+
+818
+01:38:29,180 --> 01:38:31,275
+- Sim. Resolva isso.
+- Temo não poder.
+
+819
+01:38:31,276 --> 01:38:33,852
+Exigiram-me capital
+e tive que passar suas dívidas
+
+820
+01:38:33,853 --> 01:38:36,627
+para um credor de Rouen,
+o senhor Vinçart.
+
+821
+01:38:37,348 --> 01:38:38,848
+Mas você me prometeu.
+
+822
+01:38:39,219 --> 01:38:41,544
+Eu fiquei sem saída.
+Não tinha como evitar.
+
+823
+01:38:41,545 --> 01:38:45,143
+Você tinha muitas dívidas.
+Isso complicou sua vida.
+
+824
+01:38:45,144 --> 01:38:48,039
+Mas certamente o senhor
+pode falar com o senhor Vinçart
+
+825
+01:38:48,040 --> 01:38:49,641
+- e acalmá-lo.
+- Acalmar Vinçart?
+
+826
+01:38:49,642 --> 01:38:52,219
+A sra. não o conhece.
+Ele é mais feroz que um urso.
+
+827
+01:38:54,426 --> 01:38:55,926
+Poderia tentar com o Marquês.
+
+828
+01:38:56,528 --> 01:38:59,262
+- O Marquês?
+- Soube que ele está de volta.
+
+829
+01:38:59,964 --> 01:39:04,048
+Agora, se me permite,
+devo enviar essa encomendas.
+
+830
+01:39:52,783 --> 01:39:54,091
+Madame Bovary?
+
+831
+01:39:54,952 --> 01:39:56,752
+Está aqui para dar esmolas?
+
+832
+01:39:58,422 --> 01:39:59,989
+Não, senhor Abade.
+
+833
+01:40:00,425 --> 01:40:01,737
+Para confessar?
+
+834
+01:40:03,653 --> 01:40:04,953
+Não.
+
+835
+01:40:06,197 --> 01:40:08,867
+- Está buscando conselho?
+- Não.
+
+836
+01:40:10,368 --> 01:40:11,767
+Apenas o silêncio.
+
+837
+01:40:15,205 --> 01:40:17,380
+Já tentou caminhar
+na floresta?
+
+838
+01:40:17,909 --> 01:40:19,808
+Nunca é totalmente quieto,
+
+839
+01:40:19,809 --> 01:40:23,327
+mas acredito
+que um grande silêncio
+
+840
+01:40:23,328 --> 01:40:25,963
+pode ser achado
+nos sons da natureza.
+
+841
+01:41:40,318 --> 01:41:41,918
+<i>Boa tarde, Madame.</i>
+
+842
+01:41:43,328 --> 01:41:45,935
+Que sala bonita
+e encantadora.
+
+843
+01:41:55,872 --> 01:41:57,877
+Correspondências.
+
+844
+01:41:59,509 --> 01:42:00,876
+Permita-me.
+
+845
+01:42:06,350 --> 01:42:09,238
+Devo garantir que não há
+moedas de ouro escondidas.
+
+846
+01:42:38,181 --> 01:42:40,015
+Senhor.
+Madame Bovary.
+
+847
+01:42:46,101 --> 01:42:49,897
+Você não mudou nada.
+Está encantadora como sempre.
+
+848
+01:42:56,667 --> 01:42:59,477
+São encantos pobres
+desde que desdenhou deles.
+
+849
+01:43:10,447 --> 01:43:11,781
+O que você quer?
+
+850
+01:43:12,113 --> 01:43:13,767
+Estou arruinada.
+
+851
+01:43:16,153 --> 01:43:20,264
+- Preciso de 10 mil francos.
+- 10 mil francos?
+
+852
+01:43:21,192 --> 01:43:23,410
+Meu marido usou nossa casa
+como caução.
+
+853
+01:43:24,447 --> 01:43:25,847
+Teremos o dinheiro em breve,
+
+854
+01:43:25,848 --> 01:43:29,359
+mas hoje, por 10 mil francos,
+perderemos tudo.
+
+855
+01:43:30,957 --> 01:43:33,615
+Não tenho o dinheiro
+de que precisa.
+
+856
+01:43:34,005 --> 01:43:35,371
+Não tem?
+
+857
+01:43:35,372 --> 01:43:37,315
+Estou contendo gastos.
+
+858
+01:43:40,044 --> 01:43:42,084
+Tenho muita pena de você.
+
+859
+01:43:45,282 --> 01:43:47,756
+Qualquer objeto desses
+valeria o dinheiro.
+
+860
+01:43:48,185 --> 01:43:49,675
+Você não precisa deles.
+
+861
+01:43:50,822 --> 01:43:53,425
+Não tenho o dinheiro
+de que precisa.
+
+862
+01:43:56,726 --> 01:43:59,044
+Você me fez acreditar
+que me amava!
+
+863
+01:43:59,664 --> 01:44:02,494
+Por meses, manteve-me
+no sonho mais doce!
+
+864
+01:44:08,265 --> 01:44:09,831
+Lembra da sua carta?
+
+865
+01:44:10,641 --> 01:44:14,498
+Ela rasgou meu coração
+e mesmo assim venho implorar.
+
+866
+01:44:15,112 --> 01:44:18,291
+Mas você só me ignora
+e desdenha de mim novamente?
+
+867
+01:44:22,986 --> 01:44:25,545
+Não tenho o dinheiro
+de que precisa.
+
+868
+01:45:01,591 --> 01:45:02,933
+O que está fazendo?
+
+869
+01:45:04,164 --> 01:45:05,564
+O que diabos está fazendo?
+
+870
+01:45:10,300 --> 01:45:13,729
+Ponha-as de volta.
+Não são suas para dar.
+
+871
+01:45:17,941 --> 01:45:19,242
+Emma.
+
+872
+01:45:19,944 --> 01:45:21,310
+Emma!
+
+873
+01:45:43,299 --> 01:45:45,969
+- Não pode ser só isso.
+- É.
+
+874
+01:46:00,116 --> 01:46:02,439
+- Isso basta para adiar o prazo?
+- Não.
+
+875
+01:46:03,895 --> 01:46:05,985
+- E meu piano?
+- É tarde demais.
+
+876
+01:46:05,986 --> 01:46:08,288
+Não há saída.
+O tribunal decidiu.
+
+877
+01:46:08,289 --> 01:46:11,660
+Achou, senhorinha, que eu seria
+seu fornecedor e seu banqueiro
+
+878
+01:46:11,661 --> 01:46:14,022
+até o fim dos tempos,
+só pelo amor de Deus?
+
+879
+01:46:14,457 --> 01:46:17,824
+- Mas a quantia é exorbitante.
+- E de quem é a culpa?
+
+880
+01:46:17,825 --> 01:46:21,944
+Enquanto me mato de trabalhar,
+você está vadiando!
+
+881
+01:46:22,673 --> 01:46:24,562
+E eu que tenho
+um coração inconstante?
+
+882
+01:46:24,563 --> 01:46:26,502
+Sem sermões, por favor!
+
+883
+01:46:28,045 --> 01:46:30,822
+- Não faz mal a ninguém.
+- Você é um desgraçado!
+
+884
+01:46:34,918 --> 01:46:36,916
+Uma cabecinha tão quente.
+
+885
+01:46:40,624 --> 01:46:42,860
+Sei que não é
+muito agradável.
+
+886
+01:46:43,961 --> 01:46:45,657
+Estou ciente disso.
+
+887
+01:46:46,531 --> 01:46:48,578
+Mas nunca matou ninguém,
+não é?
+
+888
+01:46:48,579 --> 01:46:51,083
+E é a única maneira
+de pagar sua dívida.
+
+889
+01:46:52,670 --> 01:46:54,793
+Você não poderia
+me emprestar...?
+
+890
+01:46:54,794 --> 01:46:57,358
+Absolutamente nada.
+
+891
+01:47:26,302 --> 01:47:28,965
+Vocês foram
+patronos excelente.
+
+892
+01:47:30,274 --> 01:47:33,110
+E eu sempre a respeitei.
+
+893
+01:47:37,113 --> 01:47:41,576
+Mas nesse estado,
+não vejo valor nessa proposta!
+
+894
+01:48:18,988 --> 01:48:20,389
+Madame?
+
+895
+01:48:24,094 --> 01:48:25,394
+Madame?
+
+896
+01:51:15,599 --> 01:51:16,954
+<i>Madame Bovary!</i>
+
+897
+01:51:19,003 --> 01:51:20,403
+<i>Emma!</i>
+
+898
+01:51:25,308 --> 01:51:26,808
+<i>Emma!</i>
+
+899
+01:51:30,914 --> 01:51:32,214
+<i>Madame Bovary!</i>
+
+900
+01:51:36,919 --> 01:51:38,286
+<i>Emma!</i>
+
+901
+01:51:45,595 --> 01:51:47,129
+<i>Emma!</i>
+
+902
+01:51:47,130 --> 01:51:52,016
+<b>Entregue-se à sua inSanidade.
+Junte-se a nós!</b>
+
+903
+01:51:52,017 --> 01:51:56,452
+<b>www.insanos.tv
+@inSanosTV</b>
+
+904
+01:51:57,305 --> 01:52:57,305
+Anuncie seu produto ou marca aqui
+fale com www.OpenSubtitles.org hoje

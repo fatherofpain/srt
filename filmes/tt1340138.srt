@@ -1,0 +1,6081 @@
+1
+00:00:06,000 --> 00:00:12,074
+In order to continue OpenSubtitles.org
+subtitles service you need to Log In
+
+2
+00:01:01,410 --> 00:01:03,725
+<i>Antes de morrer,
+meus pais contaram histórias</i>
+
+3
+00:01:03,726 --> 00:01:05,737
+<i>sobre como o mundo
+era antes.</i>
+
+4
+00:01:06,550 --> 00:01:08,672
+<i>Como era
+bem antes de eu nascer.</i>
+
+5
+00:01:09,750 --> 00:01:11,838
+<i>Antes da guerra
+com as máquinas.</i>
+
+6
+00:01:13,250 --> 00:01:15,250
+<i>Eles se lembram
+de um mundo verde.</i>
+
+7
+00:01:16,420 --> 00:01:18,040
+<i>Vasto e lindo.</i>
+
+8
+00:01:20,250 --> 00:01:21,863
+<i>Repleto de risadas.</i>
+
+9
+00:01:23,880 --> 00:01:25,460
+<i>E esperança para o futuro.</i>
+
+10
+00:01:27,750 --> 00:01:29,662
+<i>Era um mundo
+que eu nunca conheci.</i>
+
+11
+00:01:30,250 --> 00:01:32,450
+<i>Na época em que nasci,</i>
+
+12
+00:01:32,451 --> 00:01:35,240
+<i>tudo isso havia acabado.</i>
+
+13
+00:01:42,050 --> 00:01:43,350
+<i>SkyNet.</i>
+
+14
+00:01:45,050 --> 00:01:46,950
+<i>Um programa
+de computador projetado</i>
+
+15
+00:01:46,951 --> 00:01:48,755
+<i>para defesa antimíssil
+automatizada.</i>
+
+16
+00:01:50,670 --> 00:01:52,650
+<i>Deveria nos proteger.</i>
+
+17
+00:01:53,120 --> 00:01:54,849
+<i>Mas não foi isso
+o que aconteceu.</i>
+
+18
+00:01:55,550 --> 00:01:58,199
+<i>Em 29 de agosto de 1997</i>
+
+19
+00:01:58,200 --> 00:01:59,710
+<i>a SkyNet acordou.</i>
+
+20
+00:02:00,950 --> 00:02:02,480
+<i>E decidiu
+que a humanidade</i>
+
+21
+00:02:02,481 --> 00:02:04,482
+<i>era uma ameaça
+para sua existência.</i>
+
+22
+00:02:24,922 --> 00:02:27,922
+<b>Equipe in<font color=#FFFF00>S</font>anos apresenta:</b>
+
+23
+00:02:27,923 --> 00:02:31,840
+<b>EXTERMINADOR DO FUTURO:
+GÊNESIS</b>
+
+24
+00:02:33,295 --> 00:02:35,295
+<b>Legenda:
+DSergio | jvFlores | KiLL3R³</b>
+
+25
+00:02:35,296 --> 00:02:37,296
+<b>Legenda:
+John93 | CeciliaHasler | Temis</b>
+
+26
+00:02:37,297 --> 00:02:39,297
+<b>Legenda:
+Pedrorms | Lalinha | ne0n</b>
+
+27
+00:02:39,298 --> 00:02:41,298
+<b>Revisão:
+JaspCardoso</b>
+
+28
+00:02:43,180 --> 00:02:45,750
+<i>Usaram nossas próprias bombas
+contra nós.</i>
+
+29
+00:02:49,730 --> 00:02:52,650
+<i>Três bilhões de pessoas
+morreram no fogo nuclear.</i>
+
+30
+00:02:56,380 --> 00:02:59,760
+<i>Os sobreviventes chamaram
+de Dia do Julgamento Final.</i>
+
+31
+00:03:02,190 --> 00:03:04,795
+<i>As pessoas viviam
+como ratos nas sombras.</i>
+
+32
+00:03:06,040 --> 00:03:09,120
+<i>Escondendo-se, passando fome,
+ou pior.</i>
+
+33
+00:03:09,530 --> 00:03:12,230
+<i>Capturados e postos em campos
+para exterminação.</i>
+
+34
+00:03:20,580 --> 00:03:22,730
+<i>Eu nasci depois
+do Dia do Julgamento Final.</i>
+
+35
+00:03:25,610 --> 00:03:27,220
+<i>Em um mundo falido.</i>
+
+36
+00:03:30,240 --> 00:03:32,040
+<i>Governado pelas máquinas.</i>
+
+37
+00:03:39,550 --> 00:03:41,500
+<i>O pior eram as unidades
+de infiltração,</i>
+
+38
+00:03:41,501 --> 00:03:43,399
+<i>projetadas para se passar
+por humanos.</i>
+
+39
+00:03:46,950 --> 00:03:48,960
+<i>Nós o chamávamos
+de Exterminadores.</i>
+
+40
+00:04:01,820 --> 00:04:03,370
+Está tudo bem, garoto.
+
+41
+00:04:25,130 --> 00:04:27,049
+Há outros aqui embaixo?
+
+42
+00:04:47,130 --> 00:04:48,850
+<i>E então um homem me achou.</i>
+
+43
+00:04:50,140 --> 00:04:53,120
+<i>O nome dele é John Connor.</i>
+
+44
+00:04:54,680 --> 00:04:56,320
+<i>E ele mudou tudo.</i>
+
+45
+00:04:58,660 --> 00:05:01,508
+LOS ANGELES, 2029
+
+46
+00:05:01,509 --> 00:05:03,570
+<i>John nos mostrou
+como revidar.</i>
+
+47
+00:05:05,030 --> 00:05:06,650
+<i>A como nos levantar.</i>
+
+48
+00:05:13,330 --> 00:05:14,980
+<i>E libertar prisioneiros.</i>
+
+49
+00:05:20,440 --> 00:05:23,220
+<i>Ele nos ensinou
+a esmagar as máquinas.</i>
+
+50
+00:05:24,980 --> 00:05:26,900
+<i>Pessoas murmuraram
+sobre o John.</i>
+
+51
+00:05:27,530 --> 00:05:29,830
+<i>Perguntavam-se como sabia
+as coisas que sabia.</i>
+
+52
+00:05:30,910 --> 00:05:33,220
+<i>Usavam palavras
+como 'profeta'.</i>
+
+53
+00:05:33,810 --> 00:05:35,340
+<i>Mas John é mais do que isso.</i>
+
+54
+00:05:36,030 --> 00:05:37,860
+<i>Estamos aqui
+porque esta noite...</i>
+
+55
+00:05:38,280 --> 00:05:40,879
+<i>ele nos levará
+para esmagar a SkyNet.</i>
+
+56
+00:05:40,880 --> 00:05:42,270
+<i>Para sempre.</i>
+
+57
+00:05:42,790 --> 00:05:45,730
+Senhor, peço para juntar-me
+à Ofensiva do Colorado.
+
+58
+00:05:45,731 --> 00:05:47,760
+Preciso de você comigo,
+Reese.
+
+59
+00:05:47,761 --> 00:05:50,029
+Estamos falando
+da destruição total da SkyNet.
+
+60
+00:05:50,030 --> 00:05:52,372
+A Unidade do Colorado
+terá sucesso.
+
+61
+00:05:52,373 --> 00:05:54,430
+As máquinas cairão
+esta noite.
+
+62
+00:05:55,280 --> 00:05:58,199
+Aqui em Los Angeles é importante
+também, talvez mais.
+
+63
+00:05:58,200 --> 00:06:00,780
+Mais importante que destruir
+o núcleo da SkyNet?
+
+64
+00:06:01,460 --> 00:06:03,429
+John, não entendo
+por que um ataque
+
+65
+00:06:03,430 --> 00:06:04,740
+a um campo de escravos.
+
+66
+00:06:04,741 --> 00:06:06,740
+Porque o campo
+é apenas uma camuflagem.
+
+67
+00:06:06,741 --> 00:06:08,479
+<i>Dentro do campo
+tem um galpão.</i>
+
+68
+00:06:08,480 --> 00:06:11,679
+<i>Abaixo do galpão, a SkyNet
+esconde sua última arma.</i>
+
+69
+00:06:11,680 --> 00:06:13,602
+<i>Quando SkyNet perceber
+que perderam,</i>
+
+70
+00:06:13,603 --> 00:06:16,530
+<i>usarão a arma para garantir
+sua sobrevivência.</i>
+
+71
+00:06:16,880 --> 00:06:19,160
+Se a pegarmos esta noite,
+não haverá amanhã.
+
+72
+00:06:20,530 --> 00:06:21,930
+Então pegaremos.
+
+73
+00:06:25,780 --> 00:06:28,580
+Você é meu braço direito, Reese.
+Nunca agradeci por isso.
+
+74
+00:06:28,581 --> 00:06:29,995
+Não precisa.
+
+75
+00:06:29,996 --> 00:06:32,032
+Você deu um futuro
+a todos nós, John.
+
+76
+00:06:33,160 --> 00:06:34,933
+Vou usar o meu.
+
+77
+00:06:34,934 --> 00:06:36,630
+Quando tudo isso acabar...
+
+78
+00:06:37,040 --> 00:06:39,340
+vou achar a casa
+dos meus pais.
+
+79
+00:06:39,341 --> 00:06:40,641
+Reconstruí-la.
+
+80
+00:06:41,030 --> 00:06:43,900
+Usar minhas mãos
+para algo além de matar.
+
+81
+00:06:43,901 --> 00:06:45,301
+E quanto a você?
+
+82
+00:06:46,550 --> 00:06:48,314
+Uma cerveja gelada
+seria bom.
+
+83
+00:06:49,030 --> 00:06:50,790
+- É um belo plano.
+- Sim.
+
+84
+00:06:52,630 --> 00:06:54,563
+É, acho
+que não penso muito nisso.
+
+85
+00:06:54,564 --> 00:06:55,983
+Deu para perceber.
+
+86
+00:06:58,940 --> 00:07:00,740
+Acho que o que acontecer...
+
+87
+00:07:02,130 --> 00:07:03,840
+vai ser melhor do que isso.
+
+88
+00:07:09,250 --> 00:07:11,350
+Muitos de nós morreram
+para chegarmos aqui.
+
+89
+00:07:13,130 --> 00:07:15,669
+Quero que saiba, Kyle,
+que se houvesse outra forma,
+
+90
+00:07:15,670 --> 00:07:17,197
+eu a teria usado.
+
+91
+00:07:42,530 --> 00:07:44,410
+<i>As máquinas pensam...</i>
+
+92
+00:07:45,730 --> 00:07:47,540
+<i>que não podemos vencer.</i>
+
+93
+00:07:54,090 --> 00:07:57,950
+<i>As máquinas pensam
+que não vamos atacar...</i>
+
+94
+00:07:58,410 --> 00:08:00,970
+<i>no coração da SkyNet.</i>
+
+95
+00:08:03,230 --> 00:08:05,190
+No entanto, aqui estamos.
+
+96
+00:08:06,460 --> 00:08:09,350
+No precipício
+da batalha final.
+
+97
+00:08:11,760 --> 00:08:13,610
+<i>Se morrermos esta noite...</i>
+
+98
+00:08:15,310 --> 00:08:17,640
+<i>a humanidade morre conosco.</i>
+
+99
+00:08:22,310 --> 00:08:23,610
+Agora!
+
+100
+00:08:28,568 --> 00:08:30,306
+Eu olho para cada um
+de vocês.
+
+101
+00:08:30,307 --> 00:08:33,654
+E vejo as marcas
+dessa longa e terrível guerra.
+
+102
+00:08:42,320 --> 00:08:44,129
+Vão!
+
+103
+00:08:44,637 --> 00:08:46,273
+<i>Invasão do perímetro.</i>
+
+104
+00:08:49,269 --> 00:08:51,966
+<i>Ativar modelo 101.</i>
+
+105
+00:08:52,296 --> 00:08:53,815
+Por nossos filhos.
+
+106
+00:08:54,841 --> 00:08:56,410
+E filhos de nossos filhos.
+
+107
+00:08:56,411 --> 00:08:58,791
+Para que não carreguem
+essas marcas.
+
+108
+00:09:01,761 --> 00:09:06,262
+<i>Mas eles saberão quem somos
+e o que fizemos.</i>
+
+109
+00:09:07,142 --> 00:09:11,690
+<i>Que não nos curvamos.
+Que não desistimos.</i>
+
+110
+00:09:12,002 --> 00:09:15,135
+Que nos levantamos.
+Neste momento.
+
+111
+00:09:15,136 --> 00:09:17,022
+<i>Nesta hora!</i>
+
+112
+00:09:17,023 --> 00:09:20,073
+<i>Dispostos
+a sacrificar tudo...</i>
+
+113
+00:09:21,076 --> 00:09:23,342
+<i>para que eles possam
+viver em liberdade!</i>
+
+114
+00:09:27,695 --> 00:09:29,357
+<i>Nesta noite,</i>
+
+115
+00:09:29,358 --> 00:09:32,158
+tomaremos o nosso mundo
+de volta!
+
+116
+00:09:45,251 --> 00:09:47,014
+Estão usando a arma!
+
+117
+00:09:47,545 --> 00:09:49,248
+Precisamos chegar
+ao galpão.
+
+118
+00:09:49,623 --> 00:09:52,461
+John!
+
+119
+00:10:20,545 --> 00:10:22,686
+Você me quer?
+Estou bem aqui!
+
+120
+00:10:25,256 --> 00:10:27,133
+<i>Unidade do Colorado
+reportando.</i>
+
+121
+00:10:27,134 --> 00:10:29,392
+<i>O núcleo central do Skynet
+foi destruído.</i>
+
+122
+00:10:29,393 --> 00:10:31,865
+<i>Repito:
+Skynet foi destruída.</i>
+
+123
+00:10:32,612 --> 00:10:34,109
+<i>John estava certo.</i>
+
+124
+00:10:36,176 --> 00:10:38,323
+<i>A unidade Colorado
+foi bem sucedida.</i>
+
+125
+00:10:39,118 --> 00:10:40,773
+<i>E as máquinas caíram.</i>
+
+126
+00:10:42,673 --> 00:10:44,182
+<i>Mas era tarde demais.</i>
+
+127
+00:10:44,183 --> 00:10:45,601
+<i>Encontramos, senhor.</i>
+
+128
+00:10:45,602 --> 00:10:47,329
+Exatamente onde disse
+que estaria.
+
+129
+00:10:52,155 --> 00:10:53,569
+O que é essa coisa?
+
+130
+00:10:54,479 --> 00:10:56,002
+Destino.
+
+131
+00:10:59,598 --> 00:11:02,391
+Essa é a primeira
+arma tática temporal.
+
+132
+00:11:02,392 --> 00:11:04,401
+Skynet acabou de usá-la.
+
+133
+00:11:27,498 --> 00:11:31,657
+LOS ANGELES, 1984
+
+134
+00:11:37,774 --> 00:11:39,174
+Que diabos?
+
+135
+00:12:42,620 --> 00:12:45,523
+Precisamos de 15 minutos
+para preparar a máquina, senhor.
+
+136
+00:12:46,940 --> 00:12:49,460
+Processando as coordenadas.
+Conseguiremos em breve.
+
+137
+00:12:49,971 --> 00:12:52,142
+Los Angeles, 1984.
+
+138
+00:12:53,920 --> 00:12:55,869
+Los Angeles, 12 de maio.
+
+139
+00:12:57,531 --> 00:12:59,031
+1984.
+
+140
+00:13:03,522 --> 00:13:05,691
+Skynet sabia
+que estava perdendo,
+
+141
+00:13:05,692 --> 00:13:07,453
+então tentou virar o jogo.
+
+142
+00:13:07,832 --> 00:13:11,112
+Enviou um exterminador de volta
+no tempo antes da guerra.
+
+143
+00:13:11,113 --> 00:13:12,649
+Então quem é o alvo?
+
+144
+00:13:13,173 --> 00:13:14,562
+Minha mãe.
+
+145
+00:13:15,784 --> 00:13:17,324
+Sarah Connor.
+
+146
+00:13:17,814 --> 00:13:20,599
+Se as máquinas tiverem êxito,
+eu jamais nascerei.
+
+147
+00:13:21,195 --> 00:13:22,853
+Irão matá-la primeiro.
+
+148
+00:13:22,854 --> 00:13:25,589
+E assim, apagarão cada vitória
+pela qual lutamos.
+
+149
+00:13:25,590 --> 00:13:27,344
+Inclusive a dessa noite.
+
+150
+00:13:27,345 --> 00:13:30,584
+Não haverá resistência
+para desafiar as máquinas.
+
+151
+00:13:30,585 --> 00:13:34,145
+Com esse único ato,
+Skynet ganhará.
+
+152
+00:13:34,146 --> 00:13:37,149
+Podemos usar essa tecnologia
+e enviar alguém de volta.
+
+153
+00:13:37,150 --> 00:13:38,502
+Não sabemos se funcionaria.
+
+154
+00:13:38,503 --> 00:13:40,364
+- Eu irei, senhor.
+- Eu irei.
+
+155
+00:13:40,365 --> 00:13:42,548
+Eu irei.
+
+156
+00:13:42,549 --> 00:13:43,849
+Eu me prontifico, senhor.
+
+157
+00:13:48,234 --> 00:13:49,534
+Eu voltarei.
+
+158
+00:13:49,838 --> 00:13:51,425
+Por que eu deveria
+enviar você,
+
+159
+00:13:53,079 --> 00:13:54,444
+ao invés de um deles?
+
+160
+00:13:56,659 --> 00:13:58,679
+Porque eu morreria
+por Sarah Connor.
+
+161
+00:13:58,680 --> 00:14:01,563
+Todas essas pessoas
+morreriam por Sarah Connor.
+
+162
+00:14:02,380 --> 00:14:04,068
+O que o faz diferente?
+
+163
+00:14:06,520 --> 00:14:07,820
+Você sabe o porquê.
+
+164
+00:14:09,900 --> 00:14:12,823
+Tudo o que me disse sobre ela.
+Eu a conheço, John.
+
+165
+00:14:14,961 --> 00:14:16,261
+Deixe-me salvá-la.
+
+166
+00:14:22,215 --> 00:14:23,694
+Sem armas?
+
+167
+00:14:23,695 --> 00:14:25,179
+Medimos o campo magnético,
+
+168
+00:14:25,180 --> 00:14:28,232
+ele destruirá tudo
+não envolto em tecido vivo.
+
+169
+00:14:28,805 --> 00:14:30,839
+Como um papel laminado
+no micro-ondas,
+
+170
+00:14:30,840 --> 00:14:32,524
+bilhões de vezes mais forte.
+
+171
+00:14:32,525 --> 00:14:34,339
+Só restará uma cratera.
+
+172
+00:14:39,243 --> 00:14:40,643
+Sem roupas também.
+
+173
+00:14:43,973 --> 00:14:45,674
+Ela pensará
+que eu sou louco.
+
+174
+00:14:46,281 --> 00:14:48,470
+Você sabia que o dispositivo
+estaria aqui.
+
+175
+00:14:48,847 --> 00:14:50,715
+Você tinha certeza disso.
+
+176
+00:14:51,492 --> 00:14:53,959
+Sabia que as máquinas
+seriam derrotadas hoje.
+
+177
+00:14:53,960 --> 00:14:55,934
+Antes de eu ir, conte-me.
+
+178
+00:14:57,250 --> 00:14:58,650
+Contar o quê?
+
+179
+00:14:59,965 --> 00:15:01,715
+Você vê o futuro?
+
+180
+00:15:04,041 --> 00:15:05,887
+Ninguém pode
+ver o futuro, Reese.
+
+181
+00:15:05,888 --> 00:15:07,719
+Certo.
+Então como você sabe?
+
+182
+00:15:09,731 --> 00:15:11,131
+Eu trapaceio.
+
+183
+00:15:14,474 --> 00:15:18,091
+Sarah me contou tantas coisas,
+ela me deu exemplos.
+
+184
+00:15:18,571 --> 00:15:19,871
+Quando eu era criança,
+
+185
+00:15:20,526 --> 00:15:22,432
+parecia que minha mãe
+sabia de tudo.
+
+186
+00:15:22,433 --> 00:15:23,833
+Deve ter sido bom.
+
+187
+00:15:24,809 --> 00:15:26,209
+Nem tanto.
+
+188
+00:15:27,922 --> 00:15:29,723
+Isso acaba aqui.
+
+189
+00:15:29,724 --> 00:15:32,285
+Quando você voltar,
+meu conhecimento acaba.
+
+190
+00:15:32,679 --> 00:15:34,435
+É tudo o que a Sarah sabia.
+
+191
+00:15:34,436 --> 00:15:36,237
+Sem mais trapaças.
+
+192
+00:15:36,942 --> 00:15:38,442
+Sem mais trapaças.
+
+193
+00:15:47,826 --> 00:15:50,292
+Na época para a qual voltará,
+ela não será
+
+194
+00:15:50,293 --> 00:15:52,887
+a guerreira que me criou.
+Ainda não.
+
+195
+00:15:52,888 --> 00:15:54,849
+Ela será medrosa e fraca.
+
+196
+00:15:54,850 --> 00:15:57,060
+Não saberá lutar
+ou se defender.
+
+197
+00:15:57,061 --> 00:15:59,711
+A preocupação dela
+é pagar o aluguel e os estudos.
+
+198
+00:15:59,712 --> 00:16:01,599
+Ainda é uma garçonete.
+
+199
+00:16:02,409 --> 00:16:03,709
+Uma o quê?
+
+200
+00:16:06,433 --> 00:16:07,733
+Não importa.
+
+201
+00:16:09,781 --> 00:16:13,144
+O fato é que ela precisará
+de você mas não saberá disso.
+
+202
+00:16:13,145 --> 00:16:14,468
+Mas o que direi para ela?
+
+203
+00:16:15,397 --> 00:16:17,922
+Mesmo quando contar quem sou,
+ela não acreditará.
+
+204
+00:16:22,498 --> 00:16:23,941
+<i>Diga-lhe isso:</i>
+
+205
+00:16:25,718 --> 00:16:29,249
+<i>Obrigado, Sarah, por sua coragem
+durante os anos sombrios.</i>
+
+206
+00:16:30,277 --> 00:16:32,574
+<i>Não posso ajudá-la
+no que enfrentará em breve,</i>
+
+207
+00:16:32,575 --> 00:16:35,323
+<i>exceto dizendo que o futuro
+não está definido.</i>
+
+208
+00:16:36,159 --> 00:16:37,460
+<i>Não há destino,</i>
+
+209
+00:16:37,461 --> 00:16:39,868
+<i>exceto o que criamos
+para nós mesmos.</i>
+
+210
+00:16:40,980 --> 00:16:44,151
+<i>Você precisa ser mais forte
+do que imagina ser capaz.</i>
+
+211
+00:16:44,921 --> 00:16:46,927
+<i>Você precisa sobreviver.</i>
+
+212
+00:16:47,809 --> 00:16:50,047
+<i>Ou eu jamais existirei.</i>
+
+213
+00:16:58,392 --> 00:17:00,312
+Cuide dela por mim, Kyle.
+
+214
+00:17:00,862 --> 00:17:02,457
+Eu cuidarei.
+
+215
+00:17:03,910 --> 00:17:05,504
+Prometo.
+
+216
+00:17:25,758 --> 00:17:29,137
+O que você está fazendo agora
+é o fim da guerra.
+
+217
+00:18:10,208 --> 00:18:12,690
+Não achou que seria
+fácil assim, achou?
+
+218
+00:18:12,691 --> 00:18:14,145
+John!
+
+219
+00:18:39,600 --> 00:18:43,362
+<i>Ei, aniversariante.
+Hora dos presentes, vamos lá!</i>
+
+220
+00:18:44,052 --> 00:18:46,752
+<i>Parabéns pra você!</i>
+
+221
+00:18:53,425 --> 00:18:55,173
+<i>Não brinca!</i>
+
+222
+00:18:55,174 --> 00:18:58,406
+<i>Gênesis será atualizado
+assim que estiver online.</i>
+
+223
+00:18:58,407 --> 00:19:00,657
+<i>Poderá usá-lo
+assim que estiver disponível.</i>
+
+224
+00:19:01,149 --> 00:19:02,747
+<i>Só mais uns dias...</i>
+
+225
+00:19:06,306 --> 00:19:07,698
+<i>Uma linha reta...</i>
+
+226
+00:19:13,433 --> 00:19:16,541
+<i>Lembre-se:
+Gênesis é a Skynet.</i>
+
+227
+00:19:16,542 --> 00:19:18,519
+<i>Quando o Gênesis
+estiver online,</i>
+
+228
+00:19:18,520 --> 00:19:20,154
+<i>o Dia do Julgamento Final
+começa.</i>
+
+229
+00:19:20,516 --> 00:19:22,812
+<i>Você pode destruir a Skynet
+antes dela nascer.</i>
+
+230
+00:20:23,834 --> 00:20:25,183
+Ei, parceiro.
+
+231
+00:20:25,883 --> 00:20:28,773
+Você viu um clarão gigante?
+
+232
+00:20:33,763 --> 00:20:35,063
+Minha vez.
+
+233
+00:20:37,709 --> 00:20:39,774
+O que há de errado
+com aquela figura?
+
+234
+00:20:47,628 --> 00:20:49,691
+Bela noite
+para uma caminhada.
+
+235
+00:20:51,449 --> 00:20:53,371
+Bela noite
+para uma caminhada.
+
+236
+00:20:53,372 --> 00:20:55,979
+Dia de lavar roupa amanhã.
+Não tem nada limpo, certo?
+
+237
+00:20:55,980 --> 00:20:58,677
+Não tem nada limpo, certo?
+
+238
+00:20:58,678 --> 00:21:01,615
+Acho que esse cara
+está doidão.
+
+239
+00:21:01,616 --> 00:21:04,653
+Sua roupa.
+Dê para mim. Agora.
+
+240
+00:21:04,654 --> 00:21:06,631
+Vá se foder, cuzão.
+
+241
+00:21:06,632 --> 00:21:08,709
+Não precisará
+de roupa nenhuma.
+
+242
+00:21:20,881 --> 00:21:22,881
+Estava esperando por você.
+
+243
+00:23:15,871 --> 00:23:18,971
+O filho da puta
+roubou minha calça!
+
+244
+00:23:36,861 --> 00:23:39,578
+Que dia é hoje?
+De que ano?
+
+245
+00:23:39,579 --> 00:23:43,733
+12 de maio de 1984.
+O dia da sua chegada.
+
+246
+00:25:23,593 --> 00:25:25,134
+Polícia! Parado!
+
+247
+00:25:26,721 --> 00:25:29,017
+- Essa doeu.
+- Garber, você está bem?
+
+248
+00:25:29,018 --> 00:25:31,237
+- Diga-me você, O' Brien.
+- São humanos.
+
+249
+00:25:31,238 --> 00:25:33,374
+- Têm que me deixar ir.
+- Deitado no chão!
+
+250
+00:25:33,375 --> 00:25:35,862
+- Mãos nas costas ou eu atiro!
+- Escute...
+
+251
+00:25:39,013 --> 00:25:40,313
+Ele está vindo.
+
+252
+00:25:41,884 --> 00:25:44,215
+Escutem-me
+ou vamos todos morrer.
+
+253
+00:25:45,108 --> 00:25:48,983
+- Eu tinha tudo sob controle.
+- É, com certeza, T.J. Hooker.
+
+254
+00:25:49,843 --> 00:25:52,343
+Isso é o que não se faz
+no primeiro dia de ronda...
+
+255
+00:25:52,344 --> 00:25:54,801
+Usar força letal
+contra um mendigo.
+
+256
+00:26:02,391 --> 00:26:04,345
+Alias, você que preencherá
+a papelada...
+
+257
+00:26:05,684 --> 00:26:06,984
+Garber!
+
+258
+00:26:17,184 --> 00:26:18,484
+Puta merda.
+
+259
+00:26:26,184 --> 00:26:28,544
+É um alien, vindo do espaço!
+
+260
+00:26:28,545 --> 00:26:30,341
+É uma máquina
+que mata humanos.
+
+261
+00:26:30,342 --> 00:26:32,702
+- Tire as algemas!
+- Não, você está preso.
+
+262
+00:26:32,703 --> 00:26:35,367
+Que parte de 'mata humanos'
+você não entendeu?
+
+263
+00:26:36,157 --> 00:26:37,577
+As algemas!
+
+264
+00:26:42,047 --> 00:26:45,126
+O' Brien. Policial ferido.
+Preciso de reforços.
+
+265
+00:26:45,916 --> 00:26:47,675
+É um robô!
+
+266
+00:26:51,165 --> 00:26:53,934
+- Estamos ferrados, não é?
+- Muito.
+
+267
+00:27:09,024 --> 00:27:11,109
+Venha comigo se quiser viver.
+
+268
+00:27:20,099 --> 00:27:21,843
+Agora, soldado!
+
+269
+00:27:48,614 --> 00:27:51,915
+Reese, certo?
+Kyle Reese?
+
+270
+00:27:52,905 --> 00:27:55,342
+- Você é Sarah.
+- Sim, sei disso.
+
+271
+00:27:55,780 --> 00:27:57,080
+Bateu a cabeça lá?
+
+272
+00:27:57,081 --> 00:27:59,594
+Um exterminador,
+não sei o modelo...
+
+273
+00:27:59,595 --> 00:28:01,844
+T-1000, metal líquido,
+muda de forma.
+
+274
+00:28:01,845 --> 00:28:04,898
+- Assume a forma do que tocar.
+- Sabe sobre os exterminadores?
+
+275
+00:28:04,899 --> 00:28:06,199
+E sabe quem eu sou?
+
+276
+00:28:06,200 --> 00:28:08,275
+Enviado para me proteger
+por John Connor,
+
+277
+00:28:08,276 --> 00:28:11,462
+o líder da resistência.
+Meu filho.
+
+278
+00:28:11,463 --> 00:28:13,538
+Não entendo.
+Não tem como saber disso.
+
+279
+00:28:13,539 --> 00:28:14,887
+Mas eu sei.
+
+280
+00:28:15,255 --> 00:28:17,370
+Escute bem, Reese,
+tudo mudou.
+
+281
+00:28:17,371 --> 00:28:20,121
+O 1984 que John o enviou
+não existe mais.
+
+282
+00:28:20,122 --> 00:28:22,478
+Isso está errado.
+John me enviou para salvá-la.
+
+283
+00:28:22,479 --> 00:28:24,816
+Do exterminador
+que foi enviado para me matar.
+
+284
+00:28:24,817 --> 00:28:26,679
+Eu sei.
+Mas já demos um jeito nele.
+
+285
+00:28:28,600 --> 00:28:29,900
+Nós?
+
+286
+00:28:31,760 --> 00:28:33,060
+Abaixe-se!
+
+287
+00:28:36,650 --> 00:28:38,312
+Reese, pare!
+
+288
+00:28:45,232 --> 00:28:47,324
+- Reese, que merda!
+- Fique aqui!
+
+289
+00:28:47,325 --> 00:28:49,830
+Espere,
+essas balas irão matá-lo!
+
+290
+00:28:49,831 --> 00:28:52,312
+Ele está aqui para matá-la,
+fique no caminhão.
+
+291
+00:28:59,581 --> 00:29:01,333
+Isso é ótimo.
+
+292
+00:29:02,490 --> 00:29:03,890
+Eu não o matei.
+
+293
+00:29:05,580 --> 00:29:06,880
+Não temos muito tempo
+
+294
+00:29:06,881 --> 00:29:09,459
+até que o T-1000
+obtenha nossa posição.
+
+295
+00:29:11,908 --> 00:29:13,665
+Discutir com Kyle Reese
+
+296
+00:29:13,666 --> 00:29:16,112
+nos deixa em desvantagem
+estratégica.
+
+297
+00:29:17,184 --> 00:29:18,484
+Vá se ferrar.
+
+298
+00:29:19,374 --> 00:29:22,293
+Essa é uma resposta
+muito imatura.
+
+299
+00:29:31,541 --> 00:29:34,230
+Então, você é a pessoa
+que esperei minha vida toda.
+
+300
+00:29:35,970 --> 00:29:38,964
+- Como ele está?
+- Ainda respira.
+
+301
+00:29:38,965 --> 00:29:43,079
+Ótimo, deve conseguir acasalar
+com ele nessa linha do tempo.
+
+302
+00:29:43,080 --> 00:29:46,130
+Não vamos ter
+essa conversa de novo.
+
+303
+00:29:46,131 --> 00:29:48,300
+Sabemos que seu filho
+será John Connor,
+
+304
+00:29:48,301 --> 00:29:50,977
+e que as máquinas não podem
+ser derrotadas sem ele.
+
+305
+00:29:50,978 --> 00:29:53,525
+- Não vejo escolha.
+- É a história da minha vida.
+
+306
+00:29:53,526 --> 00:29:56,481
+Não é só acasalar,
+devo me apaixonar por ele.
+
+307
+00:29:56,482 --> 00:30:00,375
+- Não processo o que é amor.
+- Que surpresa.
+
+308
+00:30:00,636 --> 00:30:03,540
+- Está sendo emocional.
+- É a minha vida.
+
+309
+00:30:03,541 --> 00:30:06,131
+Gostaria de ser consultada
+de vez em quando
+
+310
+00:30:06,132 --> 00:30:07,688
+sobre como ela será.
+
+311
+00:30:21,068 --> 00:30:24,042
+<i>Lembre-se:
+Gênesis é a Skynet.</i>
+
+312
+00:30:24,369 --> 00:30:25,985
+<i>Quando o Gênesis
+estiver online,</i>
+
+313
+00:30:25,986 --> 00:30:27,623
+<i>o Dia do Julgamento Final
+começa.</i>
+
+314
+00:30:27,624 --> 00:30:30,313
+<i>Vá para São Francisco,
+em 2017.</i>
+
+315
+00:30:30,977 --> 00:30:33,332
+<i>Você pode destruir a Skynet
+antes dela nascer.</i>
+
+316
+00:30:45,622 --> 00:30:47,732
+Preciso de respostas, agora.
+
+317
+00:30:48,402 --> 00:30:51,158
+Como a coisa de metal líquido
+sabia onde me interceptar?
+
+318
+00:30:51,759 --> 00:30:53,232
+De onde ele veio?
+
+319
+00:30:54,008 --> 00:30:56,498
+E quem é esse daí?
+Que diabos está acontecendo?
+
+320
+00:30:56,499 --> 00:30:59,910
+Desculpe, estávamos ocupados
+com a luta de vida ou morte.
+
+321
+00:30:59,911 --> 00:31:01,757
+E então você atacou o Papi.
+
+322
+00:31:02,527 --> 00:31:05,676
+- Você deu nome a ele?
+- Olá, Kyle Reese.
+
+323
+00:31:07,201 --> 00:31:09,244
+É um prazer conhecê-lo.
+
+324
+00:31:11,944 --> 00:31:13,244
+Está de brincadeira?
+
+325
+00:31:13,245 --> 00:31:15,303
+Tenho ensinado-o
+a parecer um de nós.
+
+326
+00:31:17,193 --> 00:31:18,653
+Sei que precisa de ajustes.
+
+327
+00:31:18,654 --> 00:31:22,881
+É um Exterminador, ele se parece
+com um de nós para nos matar.
+
+328
+00:31:22,882 --> 00:31:24,817
+O Papi não mata ninguém.
+
+329
+00:31:25,215 --> 00:31:26,717
+Mas machuca muitas pernas.
+
+330
+00:31:27,461 --> 00:31:28,861
+Ele parece velho.
+
+331
+00:31:29,551 --> 00:31:31,362
+Nunca vi
+um Exterminador velho antes.
+
+332
+00:31:31,363 --> 00:31:35,010
+A pela que usam nos ciborgues
+é um tecido humano normal.
+
+333
+00:31:35,011 --> 00:31:36,311
+Ela envelhece.
+
+334
+00:31:36,312 --> 00:31:39,069
+Mas meus circuitos auditivos
+não se deterioraram.
+
+335
+00:31:39,541 --> 00:31:43,473
+Estou velho,
+não obsoleto.
+
+336
+00:31:43,474 --> 00:31:46,891
+- Acho que o magoou.
+- Ele não tem sentimentos!
+
+337
+00:31:47,581 --> 00:31:49,472
+Ele me salvou
+quando eu tinha 9 anos.
+
+338
+00:31:49,473 --> 00:31:51,725
+É a única razão
+de eu estar viva.
+
+339
+00:31:51,726 --> 00:31:56,154
+Fui programado para proteger
+Sarah Connor. Nada me impedirá.
+
+340
+00:31:56,155 --> 00:31:59,287
+Programado por quem?
+Quem o mandou de volta?
+
+341
+00:31:59,288 --> 00:32:01,880
+- Esses arquivos foram apagados.
+- Que conveniente.
+
+342
+00:32:01,881 --> 00:32:03,653
+Quem o mandou não quer
+que saibamos.
+
+343
+00:32:03,654 --> 00:32:05,446
+Nem eu, nem ele,
+nem ninguém.
+
+344
+00:32:05,447 --> 00:32:07,691
+Para que o Skynet
+não rastreie quem o mandou.
+
+345
+00:32:07,692 --> 00:32:10,745
+Logicamente é alguém
+que quer que Sarah Connor viva.
+
+346
+00:32:23,595 --> 00:32:26,760
+Velho, não obsoleto.
+
+347
+00:32:30,287 --> 00:32:32,400
+O T-1000 sabe onde estamos.
+
+348
+00:32:32,790 --> 00:32:34,090
+Seja útil.
+
+349
+00:32:35,820 --> 00:32:37,769
+E não atire no Papi.
+
+350
+00:33:04,855 --> 00:33:08,364
+Isto é inSano.
+Tudo isso, não é a missão.
+
+351
+00:33:08,365 --> 00:33:10,851
+É o que estou tentando
+lhe dizer, Reese.
+
+352
+00:33:11,232 --> 00:33:15,287
+A garota por quem você voltou
+não existe mais.
+
+353
+00:33:16,277 --> 00:33:19,978
+Não preciso ser salva.
+Há uma nova missão.
+
+354
+00:33:19,979 --> 00:33:21,668
+Tudo bem, qual?
+
+355
+00:33:23,038 --> 00:33:26,716
+Se o passado pode mudar,
+o futuro também pode.
+
+356
+00:33:26,717 --> 00:33:28,017
+Podemos impedir
+
+357
+00:33:28,018 --> 00:33:29,977
+que o Dia do Julgamento Final
+aconteça.
+
+358
+00:33:29,978 --> 00:33:31,325
+Para sempre.
+
+359
+00:33:32,757 --> 00:33:35,084
+Destruir a Skynet
+antes dela nascer.
+
+360
+00:33:35,762 --> 00:33:37,172
+O quê?
+
+361
+00:33:41,352 --> 00:33:42,661
+Abaixe-se!
+
+362
+00:33:42,662 --> 00:33:45,416
+- Fomos localizados.
+- Não brinca!
+
+363
+00:34:11,245 --> 00:34:12,545
+Para trás!
+
+364
+00:35:00,947 --> 00:35:02,633
+Espere, por que paramos?
+
+365
+00:35:02,634 --> 00:35:04,148
+Espere!
+
+366
+00:35:04,149 --> 00:35:06,342
+Não podemos ficar aqui,
+ele nos encontrará.
+
+367
+00:35:06,343 --> 00:35:08,369
+Essa é a ideia,
+Papi, abra.
+
+368
+00:35:10,314 --> 00:35:11,693
+Pode me dar uma mãozinha?
+
+369
+00:35:18,078 --> 00:35:20,720
+Disse que isso aconteceu
+pois o passado foi alterado.
+
+370
+00:35:20,721 --> 00:35:22,944
+- Como?
+- Isso importa?
+
+371
+00:35:22,945 --> 00:35:24,573
+Como, Sarah?
+
+372
+00:35:25,923 --> 00:35:28,908
+Um Exterminador foi enviado
+atrás de mim quando era criança.
+
+373
+00:35:29,868 --> 00:35:32,547
+Exterminadores só vêm
+de um lugar: do futuro.
+
+374
+00:35:39,116 --> 00:35:42,587
+- Algo aconteceu.
+- Certo, e daí?
+
+375
+00:35:42,588 --> 00:35:45,915
+- Acho que posso ter visto.
+- Do que está falando?
+
+376
+00:35:48,719 --> 00:35:51,147
+O John foi atacado
+quando me mandou de volta.
+
+377
+00:35:51,747 --> 00:35:55,969
+- Por um Exterminador.
+- Ele o matou? John está morto?
+
+378
+00:35:57,759 --> 00:36:01,849
+Não sei.
+Vi pegá-lo e aí desapareci.
+
+379
+00:36:03,142 --> 00:36:05,491
+Temos aproximadamente
+35 segundos.
+
+380
+00:36:07,457 --> 00:36:08,757
+Ou menos.
+
+381
+00:36:21,537 --> 00:36:23,441
+Sarah, vá!
+
+382
+00:38:20,384 --> 00:38:22,481
+E eu me ofereci
+para esta merda.
+
+383
+00:39:21,859 --> 00:39:23,240
+Sarah?
+
+384
+00:39:24,193 --> 00:39:26,930
+Você tem que me ajudar.
+Estou ferido.
+
+385
+00:39:27,309 --> 00:39:28,659
+Sarah!
+
+386
+00:39:31,276 --> 00:39:33,040
+Merda.
+
+387
+00:39:36,622 --> 00:39:39,125
+Sou eu, Sarah.
+
+388
+00:39:39,126 --> 00:39:40,644
+Sarah, ele está mentindo.
+
+389
+00:39:42,685 --> 00:39:44,328
+Ele é a máquina,
+eu sou real.
+
+390
+00:39:44,329 --> 00:39:45,709
+Sou eu, Sarah.
+
+391
+00:39:46,335 --> 00:39:48,775
+Escuta, o Exterminador
+não morreu, e me hackeou.
+
+392
+00:39:48,776 --> 00:39:51,260
+- Ele está mimetizando.
+- Sou eu, Sarah.
+
+393
+00:39:51,261 --> 00:39:54,357
+- Ele está mimetizando, mate-o.
+- Eu sou Reese, mate-o.
+
+394
+00:40:02,063 --> 00:40:03,424
+Bela tentativa.
+
+395
+00:40:03,931 --> 00:40:05,259
+Corra!
+
+396
+00:41:05,972 --> 00:41:07,565
+Como sabia qual era ele?
+
+397
+00:41:07,866 --> 00:41:10,481
+Eu não sabia exatamente.
+
+398
+00:41:10,880 --> 00:41:12,465
+Você poderia
+ter atirado em mim.
+
+399
+00:41:12,466 --> 00:41:15,129
+Eu tinha quase certeza
+de que não era você.
+
+400
+00:41:16,340 --> 00:41:17,884
+Quase certeza?
+
+401
+00:41:17,885 --> 00:41:19,527
+Nos preparamos
+para a sua chegada
+
+402
+00:41:19,528 --> 00:41:20,846
+por mais de uma década.
+
+403
+00:41:20,847 --> 00:41:22,201
+Para a dele também.
+
+404
+00:41:22,936 --> 00:41:25,436
+- Você montou uma armadilha.
+- Eu precisei.
+
+405
+00:41:25,787 --> 00:41:28,760
+Não posso deixar nada do futuro
+para trás quando partirmos.
+
+406
+00:41:28,761 --> 00:41:30,152
+Partirmos?
+
+407
+00:41:30,459 --> 00:41:31,822
+Para onde?
+
+408
+00:41:34,449 --> 00:41:35,989
+Isso é...
+
+409
+00:41:35,990 --> 00:41:38,028
+Um dispositivo
+de deslocamento do tempo.
+
+410
+00:41:38,029 --> 00:41:40,479
+Isso parece ferro-velho.
+
+411
+00:41:40,480 --> 00:41:42,855
+Não há uma tecnologia atual
+que possa controlar
+
+412
+00:41:42,856 --> 00:41:44,317
+os circuitos do deslocamento.
+
+413
+00:41:44,684 --> 00:41:47,704
+Você precisa da CPU
+do futuro para executá-lo.
+
+414
+00:41:48,454 --> 00:41:50,840
+Você não poderia
+usar a sua própria.
+
+415
+00:41:52,123 --> 00:41:54,672
+Nós só temos uma viagem.
+Isso vai destruir o chip,
+
+416
+00:41:54,673 --> 00:41:57,045
+e drenar quase toda
+a energia da cidade.
+
+417
+00:41:57,046 --> 00:41:58,350
+Estamos prontos?
+
+418
+00:41:58,351 --> 00:42:00,994
+As coordenadas estão programadas
+para o ano de 1997.
+
+419
+00:42:00,995 --> 00:42:02,936
+Você deve ir
+o mais rápido possível.
+
+420
+00:42:02,937 --> 00:42:06,093
+Nós! Nós vamos.
+Todos nós.
+
+421
+00:42:07,767 --> 00:42:10,272
+Minha carne levará anos
+para se crescer novamente.
+
+422
+00:42:10,273 --> 00:42:12,470
+Não posso ir com você
+devido aos imãs
+
+423
+00:42:12,471 --> 00:42:14,193
+- do campo quântico.
+- Papi?
+
+424
+00:42:14,194 --> 00:42:17,706
+Você quer que viajemos
+no tempo, para o futuro?
+
+425
+00:42:18,013 --> 00:42:20,644
+- Nisso?
+- Não podemos vestir nada.
+
+426
+00:42:20,645 --> 00:42:23,101
+Eu sei como funciona
+a viagem no tempo. Sarah...
+
+427
+00:42:23,102 --> 00:42:24,719
+Não tente
+me convencer a não ir.
+
+428
+00:42:24,720 --> 00:42:27,551
+Sei que acha que está aqui
+para me trancar em um quarto
+
+429
+00:42:27,552 --> 00:42:29,611
+até que eu conceba
+o líder da resistência.
+
+430
+00:42:29,612 --> 00:42:31,697
+- Você está certa.
+- Essa é a única forma
+
+431
+00:42:31,698 --> 00:42:34,458
+- de deter a Skynet.
+- Já disse que você está certa.
+
+432
+00:42:35,303 --> 00:42:36,627
+Espera, o quê?
+
+433
+00:42:36,928 --> 00:42:38,526
+Não para 1997.
+
+434
+00:42:39,007 --> 00:42:41,054
+2017.
+
+435
+00:42:41,476 --> 00:42:44,638
+- Outubro de 2017.
+- Não, será muito tarde.
+
+436
+00:42:44,639 --> 00:42:46,486
+É depois
+do Dia do Julgamento Final.
+
+437
+00:42:46,487 --> 00:42:49,575
+Não, disse que tudo mudou,
+e acertou também. Sarah...
+
+438
+00:42:52,703 --> 00:42:55,787
+Eu vi um mundo
+onde as bombas não caíram.
+
+439
+00:42:56,437 --> 00:43:00,637
+Na mesma casa,
+os mesmos pais.
+
+440
+00:43:01,753 --> 00:43:04,116
+Era o mesmo eu,
+mas apenas...
+
+441
+00:43:06,382 --> 00:43:07,897
+Eu estava em casa.
+
+442
+00:43:08,296 --> 00:43:10,263
+Era meu aniversário de 13 anos.
+
+443
+00:43:10,264 --> 00:43:14,596
+Um sonho de ter sua família
+de volta não significa nada.
+
+444
+00:43:15,390 --> 00:43:17,903
+- Confie em mim.
+- Não era um sonho.
+
+445
+00:43:17,904 --> 00:43:19,204
+Era uma memória.
+
+446
+00:43:19,205 --> 00:43:21,477
+Não me lembro de tudo,
+apenas alguns momentos.
+
+447
+00:43:21,478 --> 00:43:23,235
+Mas me deram um recado.
+
+448
+00:43:25,570 --> 00:43:28,187
+"Você pode destruir a Skynet
+antes dela nascer.
+
+449
+00:43:28,787 --> 00:43:31,539
+Skynet é o Gênesis.
+
+450
+00:43:31,540 --> 00:43:34,310
+E começa a operar
+em 17 de outubro de 2017.
+
+451
+00:43:34,311 --> 00:43:36,830
+E quando começar,
+o Dia do Juízo Final acontecerá.
+
+452
+00:43:36,831 --> 00:43:39,167
+- Está lembrando do futuro?
+- Não.
+
+453
+00:43:39,867 --> 00:43:42,637
+O garoto é uma versão
+de outra linha do tempo de você.
+
+454
+00:43:43,048 --> 00:43:45,563
+Kyle Reese está se lembrando
+do próprio passado.
+
+455
+00:43:45,564 --> 00:43:47,226
+Que é o nosso futuro.
+
+456
+00:43:47,227 --> 00:43:49,058
+Isso melhorou muito as coisas.
+
+457
+00:43:49,059 --> 00:43:51,212
+Como ele se lembra
+de duas linhas do tempo?
+
+458
+00:43:51,213 --> 00:43:53,606
+É possível se foi exposto
+a um ponto de ligação
+
+459
+00:43:53,607 --> 00:43:56,598
+no fluxo temporal,
+quando esteve no campo quântico.
+
+460
+00:43:56,599 --> 00:43:58,392
+Pode fazê-lo parar
+de falar assim?
+
+461
+00:43:58,393 --> 00:43:59,910
+Tem um botão
+ou algo assim?
+
+462
+00:43:59,911 --> 00:44:02,133
+- Papi, tente de novo.
+- Um ponto de ligação
+
+463
+00:44:02,134 --> 00:44:04,159
+é um evento no tempo
+de tal importância
+
+464
+00:44:04,559 --> 00:44:07,349
+que pode gerar
+um futuro totalmente diferente.
+
+465
+00:44:07,350 --> 00:44:08,803
+Depois que John foi atacado,
+
+466
+00:44:08,804 --> 00:44:11,621
+quando estive na esfera,
+ali foi o início das memórias.
+
+467
+00:44:12,512 --> 00:44:13,843
+John.
+
+468
+00:44:14,164 --> 00:44:16,521
+Se John Connor foi morto
+ou comprometido,
+
+469
+00:44:16,522 --> 00:44:20,105
+poderia resultar na habilidade
+de lembrar dos dois passados.
+
+470
+00:44:21,922 --> 00:44:23,386
+Teoricamente.
+
+471
+00:44:23,803 --> 00:44:27,006
+Ou, teoricamente,
+o cérebro dele se embaralhou
+
+472
+00:44:27,007 --> 00:44:29,451
+- quando o acertou na cabeça?
+- Sarah!
+
+473
+00:44:29,452 --> 00:44:33,690
+Não sei por que estou lembrando
+de uma vida que nunca vivi.
+
+474
+00:44:36,218 --> 00:44:37,954
+Mas sei que é real.
+
+475
+00:44:40,182 --> 00:44:41,537
+Não.
+
+476
+00:44:42,209 --> 00:44:44,318
+Nós vamos para 1997.
+
+477
+00:44:49,586 --> 00:44:51,222
+Reese, coloque isso de volta.
+
+478
+00:44:51,773 --> 00:44:53,433
+Não posso te deixar
+fazer isso.
+
+479
+00:44:58,767 --> 00:45:00,517
+Eu não te conheço.
+
+480
+00:45:01,737 --> 00:45:04,150
+Mas essa é minha única bala
+
+481
+00:45:04,151 --> 00:45:06,939
+para atirar no coração
+da Skynet.
+
+482
+00:45:07,763 --> 00:45:11,328
+Devolva-me o chip.
+
+483
+00:45:21,714 --> 00:45:24,421
+- Você tem que confiar em mim.
+- Não.
+
+484
+00:45:24,854 --> 00:45:26,437
+Não tenho.
+
+485
+00:45:34,583 --> 00:45:36,417
+Você pode fazer isso.
+
+486
+00:45:38,980 --> 00:45:40,669
+Uma linha reta...
+
+487
+00:45:41,935 --> 00:45:44,700
+Vá em frente
+sem olhar para trás.
+
+488
+00:45:51,298 --> 00:45:52,974
+Onde você ouviu isso?
+
+489
+00:45:53,673 --> 00:45:56,264
+Em um passado
+que eu não deveria lembrar.
+
+490
+00:45:58,159 --> 00:45:59,928
+Mas eu me lembro.
+
+491
+00:46:09,091 --> 00:46:10,772
+Vamos até 2017 e aí?
+
+492
+00:46:10,773 --> 00:46:13,526
+Skynet é um software. Enquanto
+estiver sendo codificado,
+
+493
+00:46:13,527 --> 00:46:14,924
+estará contido.
+
+494
+00:46:14,925 --> 00:46:17,291
+Quando chegar aos servidores...
+
+495
+00:46:18,440 --> 00:46:20,033
+Não pode ser detida.
+
+496
+00:46:22,214 --> 00:46:24,230
+Explodiremos tudo?
+
+497
+00:46:24,899 --> 00:46:28,014
+Sim, explodiremos tudo.
+
+498
+00:46:32,932 --> 00:46:35,294
+Você acha que ele está morto,
+não é?
+
+499
+00:46:35,730 --> 00:46:37,348
+Não importa o que eu acho.
+
+500
+00:46:37,349 --> 00:46:39,612
+Faremos o que John faria
+e iremos adiante.
+
+501
+00:46:39,613 --> 00:46:42,720
+- E fingir que nada aconteceu?
+- Não aconteceu nada.
+
+502
+00:46:43,330 --> 00:46:44,697
+Ainda não.
+
+503
+00:46:45,034 --> 00:46:47,487
+Para impedirmos a Skynet,
+nunca acontecerá.
+
+504
+00:46:49,678 --> 00:46:51,016
+E acredite em mim,
+
+505
+00:46:51,017 --> 00:46:53,738
+se alguém poderia sobreviver,
+esse alguém seria o John.
+
+506
+00:46:53,739 --> 00:46:56,913
+Papi tinha um monte de arquivos
+sobre John, o líder militar.
+
+507
+00:46:56,914 --> 00:46:58,235
+Mas...
+
+508
+00:47:00,887 --> 00:47:02,374
+Como ele era?
+
+509
+00:47:05,604 --> 00:47:07,164
+A primeira vez que vi o John,
+
+510
+00:47:07,165 --> 00:47:09,601
+ele atirou num Exterminador
+bem na minha frente.
+
+511
+00:47:10,891 --> 00:47:12,855
+Não sabia
+que aquilo poderia ser morto.
+
+512
+00:47:14,005 --> 00:47:16,735
+Foi a primeira vez na vida
+que senti esperança.
+
+513
+00:47:19,489 --> 00:47:23,119
+Depois daquilo, é claro,
+eu o segui como um cão de rua.
+
+514
+00:47:23,465 --> 00:47:26,364
+Ele me ensinou
+a lutar e a atirar.
+
+515
+00:47:26,365 --> 00:47:28,331
+Tentou me ensinar
+a fazer uísque caseiro
+
+516
+00:47:28,332 --> 00:47:30,023
+mas não deu certo.
+
+517
+00:47:30,356 --> 00:47:31,979
+Uísque caseiro?
+
+518
+00:47:31,980 --> 00:47:35,635
+A destilaria explodiu e queimou
+as nossas sobrancelhas.
+
+519
+00:47:36,607 --> 00:47:38,646
+Nós rimos por dias.
+
+520
+00:47:45,561 --> 00:47:47,771
+Às vezes acho
+que fui a única pessoa
+
+521
+00:47:47,772 --> 00:47:49,626
+a ver John Connor sorrir.
+
+522
+00:47:54,956 --> 00:47:56,855
+Ele me contava sobre você.
+
+523
+00:47:58,303 --> 00:48:01,165
+Como você era forte, e preparada
+para o que estava por vir
+
+524
+00:48:01,166 --> 00:48:04,005
+quando ninguém achava
+que o perigo era real.
+
+525
+00:48:07,876 --> 00:48:09,862
+E que não havia ninguém
+igual a você.
+
+526
+00:48:11,364 --> 00:48:13,132
+E que nunca haveria.
+
+527
+00:48:30,120 --> 00:48:31,876
+Olhe...
+
+528
+00:48:34,338 --> 00:48:36,876
+Eu sei que não sou
+o que você esperava.
+
+529
+00:48:40,756 --> 00:48:42,784
+Mas quero que saiba que eu...
+
+530
+00:48:43,633 --> 00:48:46,471
+Farei o que for preciso
+para mantê-la salva.
+
+531
+00:48:50,472 --> 00:48:52,725
+Mesmo que isso me mate.
+
+532
+00:48:55,047 --> 00:48:56,547
+De qualquer forma...
+
+533
+00:48:56,992 --> 00:48:59,530
+Esse é o tipo de homem
+que seu filho era.
+
+534
+00:49:00,107 --> 00:49:03,366
+É.
+Vai ser. Jesus!
+
+535
+00:49:04,355 --> 00:49:06,382
+Viagem no tempo
+faz a minha cabeça doer.
+
+536
+00:49:06,925 --> 00:49:09,916
+Linhas do tempo alternativas
+não são complicadas.
+
+537
+00:49:09,917 --> 00:49:12,807
+É meramente uma questão
+de rastrear futuros possíveis
+
+538
+00:49:12,808 --> 00:49:16,306
+usando algoritmo de crescimento
+e declínio exponencial.
+
+539
+00:49:16,307 --> 00:49:17,607
+Certo.
+
+540
+00:49:18,702 --> 00:49:21,715
+Há um botão
+e vou encontrá-lo.
+
+541
+00:49:24,109 --> 00:49:25,964
+Não entendo.
+
+542
+00:49:26,617 --> 00:49:29,061
+Por que não disse a verdade
+a Kyle Reese?
+
+543
+00:49:29,658 --> 00:49:33,571
+Eu direi, só não agora.
+Está bem?
+
+544
+00:49:34,220 --> 00:49:35,681
+Vocês acasalaram?
+
+545
+00:49:35,682 --> 00:49:38,300
+Pode não dizer a palavra
+'acasalar' para mim de novo?
+
+546
+00:49:38,301 --> 00:49:40,111
+Tipo nunca mais.
+
+547
+00:49:49,844 --> 00:49:52,160
+Isso é um gesto
+sem sentido.
+
+548
+00:49:52,551 --> 00:49:55,559
+Por que abraçar algo
+quando sabe que deve deixá-lo?
+
+549
+00:49:59,360 --> 00:50:00,970
+E quanto a você?
+
+550
+00:50:02,122 --> 00:50:03,814
+O que vai fazer?
+
+551
+00:50:04,220 --> 00:50:05,955
+Pegar o caminho mais longo.
+
+552
+00:50:05,956 --> 00:50:08,914
+Vou me preparar
+para sua chegada em 2017.
+
+553
+00:50:11,591 --> 00:50:13,207
+Kyle Reese...
+
+554
+00:50:13,208 --> 00:50:16,111
+Vi pouco para saber
+se é um guardião adequado
+
+555
+00:50:16,112 --> 00:50:17,412
+para Sarah Connor.
+
+556
+00:50:17,413 --> 00:50:19,005
+Sabe que não é pai dela,
+certo?
+
+557
+00:50:19,006 --> 00:50:21,498
+Vocês dois
+precisam parar com isso.
+
+558
+00:50:25,704 --> 00:50:27,847
+Apareça lá.
+
+559
+00:50:27,848 --> 00:50:30,449
+Não quero ter que roubar
+a calça de alguém novamente.
+
+560
+00:50:30,450 --> 00:50:32,673
+Tenho as coordenadas
+de São Francisco.
+
+561
+00:50:34,682 --> 00:50:36,147
+Estarei lá.
+
+562
+00:50:45,230 --> 00:50:46,989
+Como será?
+
+563
+00:50:47,903 --> 00:50:50,688
+Se não nos matar?
+
+564
+00:50:53,324 --> 00:50:54,811
+Vai doer.
+
+565
+00:52:22,578 --> 00:52:24,911
+Está tudo bem.
+Eu te peguei.
+
+566
+00:52:24,912 --> 00:52:27,860
+Está tudo bem.
+
+567
+00:52:27,861 --> 00:52:30,498
+Eu te peguei.
+
+568
+00:52:30,499 --> 00:52:33,402
+Está tudo bem.
+Eu te peguei.
+
+569
+00:52:55,281 --> 00:52:58,687
+<i>Ei, imbecil!
+Saia do caminho.</i>
+
+570
+00:52:59,087 --> 00:53:00,822
+Vá se ferrar.
+
+571
+00:53:06,273 --> 00:53:08,257
+Eu falei que não podíamos
+confiar nele.
+
+572
+00:53:09,114 --> 00:53:12,199
+Ele nos achará.
+Posso contar com ele.
+
+573
+00:53:13,307 --> 00:53:16,163
+Como uma criança de 9 anos
+ganha seu próprio Exterminador?
+
+574
+00:53:17,963 --> 00:53:19,856
+Tudo bem,
+não precisa me contar.
+
+575
+00:53:25,431 --> 00:53:28,148
+Foi em 1973...
+
+576
+00:53:28,149 --> 00:53:31,858
+Meus pais tinham uma cabana
+no lago Big Bear.
+
+577
+00:53:31,859 --> 00:53:34,466
+Eu e meu pai sempre
+íamos pescar de manhã.
+
+578
+00:53:35,506 --> 00:53:38,678
+Minha mãe foi nos esperar
+na doca.
+
+579
+00:53:38,679 --> 00:53:41,576
+Eu estava olhando
+para ela e...
+
+580
+00:53:43,167 --> 00:53:46,556
+E então a cabana explodiu.
+
+581
+00:53:48,025 --> 00:53:50,261
+Achei que o barco
+estava afundando
+
+582
+00:53:50,262 --> 00:53:54,689
+mas não era água vindo de baixo,
+era metal líquido.
+
+583
+00:53:55,171 --> 00:53:56,864
+T-1000.
+
+584
+00:53:56,865 --> 00:53:59,682
+Meu pai me disse para nadar
+em linha reta.
+
+585
+00:54:02,690 --> 00:54:05,465
+Traçando o dedo
+dele pela minha palma.
+
+586
+00:54:06,203 --> 00:54:09,302
+"Você consegue fazer isso",
+ele disse.
+
+587
+00:54:09,645 --> 00:54:13,829
+"Vá sem olhar para trás."
+
+588
+00:54:14,721 --> 00:54:18,819
+A últimas palavras dele
+para mim e você...
+
+589
+00:54:18,820 --> 00:54:20,467
+Você sabia delas.
+
+590
+00:54:21,863 --> 00:54:23,385
+Como?
+
+591
+00:54:24,353 --> 00:54:26,668
+É a memória impossível,
+eu...
+
+592
+00:54:28,209 --> 00:54:32,315
+Só lembro de você segurando
+a minha mão e...
+
+593
+00:54:33,132 --> 00:54:35,580
+E dizendo essas palavras e...
+
+594
+00:54:36,350 --> 00:54:38,806
+Eu só olhava para você,
+pensando...
+
+595
+00:54:39,279 --> 00:54:42,749
+"Ela é linda".
+
+596
+00:54:46,090 --> 00:54:48,780
+Desculpe,
+mas você deveria saber.
+
+597
+00:54:52,012 --> 00:54:55,673
+Então seu pai disse
+para ir embora e você...
+
+598
+00:54:57,749 --> 00:55:00,725
+<i>Então eu pulei e nadei.</i>
+
+599
+00:55:00,726 --> 00:55:02,413
+<i>Cheguei à doca.</i>
+
+600
+00:55:07,139 --> 00:55:08,850
+<i>E me escondi embaixo dela.</i>
+
+601
+00:55:10,657 --> 00:55:12,450
+<i>Papi me achou.</i>
+
+602
+00:55:13,008 --> 00:55:16,088
+<i>E ele me tirou da água.</i>
+
+603
+00:55:17,705 --> 00:55:22,637
+<i>E ele disse que nunca deixaria
+ninguém me machucar.</i>
+
+604
+00:55:23,915 --> 00:55:28,536
+<i>Ele é a única pessoa
+que sempre esteve lá.</i>
+
+605
+00:55:30,227 --> 00:55:32,366
+Exceto que ele não é
+uma pessoa.
+
+606
+00:55:34,403 --> 00:55:37,770
+Ele é uma coisa
+em formato humano
+
+607
+00:55:37,771 --> 00:55:40,757
+que foi projetada e programada
+para obter sua confiança.
+
+608
+00:55:40,758 --> 00:55:43,611
+Se Papi me quisesse morta,
+eu estaria morta.
+
+609
+00:55:43,612 --> 00:55:45,763
+É isso que eles fazem,
+certo?
+
+610
+00:55:45,764 --> 00:55:48,135
+Eles se infiltram,
+se aproximam.
+
+611
+00:55:48,550 --> 00:55:50,563
+Seu Papi pode ter
+
+612
+00:55:50,564 --> 00:55:52,916
+diretrizes escondidas
+que nem sabe.
+
+613
+00:55:52,917 --> 00:55:54,666
+Só porque vocês
+não se entendem...
+
+614
+00:55:54,667 --> 00:55:57,066
+O caso não é de se entender,
+é de mantê-la viva.
+
+615
+00:55:57,067 --> 00:56:00,373
+Fui criada por uma máquina
+para matar ciborgues
+
+616
+00:56:00,374 --> 00:56:03,183
+e sobreviver
+ao apocalipse nuclear.
+
+617
+00:56:03,184 --> 00:56:06,643
+Acho que estou muito bem,
+obrigada.
+
+618
+00:56:06,644 --> 00:56:07,964
+<i>Dois pervertidos malucos</i>
+
+619
+00:56:07,965 --> 00:56:09,978
+tentaram se explodir
+na auto estrada.
+
+620
+00:56:09,979 --> 00:56:12,238
+Tudo o que conseguiram
+foi um grande buraco.
+
+621
+00:56:12,239 --> 00:56:13,992
+Terroristas incompetentes.
+
+622
+00:56:13,993 --> 00:56:15,611
+O Depto de Segurança
+está vindo.
+
+623
+00:56:15,612 --> 00:56:18,296
+Ótimo, quanto mais rápido
+passarmos para eles, melhor.
+
+624
+00:56:18,297 --> 00:56:20,200
+Quem chamou o Optimus Prime?
+
+625
+00:56:22,129 --> 00:56:24,486
+Tenente, espere aí!
+
+626
+00:56:24,890 --> 00:56:26,708
+Espere aí!
+Você viu?
+
+627
+00:56:27,093 --> 00:56:28,676
+Viu? Espere...
+
+628
+00:56:28,677 --> 00:56:32,313
+Eu tenho algumas imagens
+do viaduto.
+
+629
+00:56:33,346 --> 00:56:34,667
+Está vendo?
+
+630
+00:56:37,348 --> 00:56:39,131
+Não é uma bomba!
+
+631
+00:56:40,970 --> 00:56:42,350
+Escute...
+
+632
+00:56:43,142 --> 00:56:47,023
+Aquela esfera...
+Eles vieram de dentro dela.
+
+633
+00:56:47,522 --> 00:56:51,800
+Isso prova o que venho falando
+há 30 e tantos anos.
+
+634
+00:56:52,548 --> 00:56:55,454
+Aqueles dois estavam
+em 1984.
+
+635
+00:56:55,455 --> 00:56:57,871
+Eles estavam lá.
+
+636
+00:56:57,872 --> 00:57:01,386
+- Preciso ver os suspeitos.
+- O'Brian, andou bebendo?
+
+637
+00:57:02,504 --> 00:57:03,851
+Foi o que pensei.
+
+638
+00:57:03,852 --> 00:57:06,040
+Vamos transferir
+para o Depto de Segurança.
+
+639
+00:57:06,041 --> 00:57:08,456
+Assim que chegarem,
+eles que mandam.
+
+640
+00:57:09,564 --> 00:57:13,131
+Velhos bêbados com fixação
+em robôs ficam na reserva.
+
+641
+00:57:22,589 --> 00:57:24,930
+- Não quer mesmo anestesia?
+- Estou bem.
+
+642
+00:57:24,931 --> 00:57:27,336
+Só faça o que ela quer,
+é bem mais fácil.
+
+643
+00:57:28,996 --> 00:57:32,209
+Sim, eu comprei Gênesis
+semanas atrás.
+
+644
+00:57:32,210 --> 00:57:34,499
+Vou baixar assim que o contador
+chegar a zero.
+
+645
+00:57:34,500 --> 00:57:37,322
+- Não vou ficar na fila.
+- Você sabe sobre Gênesis?
+
+646
+00:57:37,323 --> 00:57:39,910
+Como? O que é?
+Onde ouviu sobre ele?
+
+647
+00:57:39,911 --> 00:57:41,417
+Depois eu te ligo.
+
+648
+00:57:42,284 --> 00:57:44,300
+Gênesis é um sistema
+operacional?
+
+649
+00:57:44,301 --> 00:57:46,694
+- O que ele faz?
+- Gênesis faz tudo.
+
+650
+00:57:46,695 --> 00:57:48,794
+Meu celular se conectará
+com o meu tablet,
+
+651
+00:57:48,795 --> 00:57:51,177
+com meu computador,
+com o meu carro.
+
+652
+00:57:51,178 --> 00:57:55,013
+Tudo na minha vida atualizado
+e online, 24 horas por dia.
+
+653
+00:57:55,014 --> 00:57:58,337
+- Completamente conectado.
+- Conectado a quê?
+
+654
+00:57:58,338 --> 00:58:00,519
+Doutores, dêem-nos licença,
+por favor.
+
+655
+00:58:04,515 --> 00:58:07,584
+Os dois têm muito a explicar.
+Começando por quem são.
+
+656
+00:58:07,585 --> 00:58:10,043
+Ninguém no banco de dados
+bate com suas digitais.
+
+657
+00:58:10,044 --> 00:58:12,617
+Sem reconhecimento facial
+de carteira de motorista,
+
+658
+00:58:12,618 --> 00:58:14,939
+passaporte, redes sociais,
+cartões de crédito.
+
+659
+00:58:14,940 --> 00:58:16,935
+- Nem carteirinha de estudante.
+- E daí?
+
+660
+00:58:16,936 --> 00:58:18,242
+É impossível.
+
+661
+00:58:18,243 --> 00:58:22,000
+Ficou tão fora do sistema
+que nem existe.
+
+662
+00:58:22,693 --> 00:58:24,267
+Você, por outro lado,
+
+663
+00:58:24,268 --> 00:58:26,420
+obtivemos um resultado
+com as suas digitais.
+
+664
+00:58:26,421 --> 00:58:27,930
+Kyle Reese.
+
+665
+00:58:27,931 --> 00:58:30,028
+A questão é essa:
+há dois meses,
+
+666
+00:58:30,029 --> 00:58:32,585
+Kyle Reese foi detido
+por brigar em um cinema.
+
+667
+00:58:32,586 --> 00:58:34,919
+Os pais surtaram,
+resolveram assustar o garoto
+
+668
+00:58:34,920 --> 00:58:36,709
+e mandaram fichar
+e deter o garoto.
+
+669
+00:58:36,710 --> 00:58:38,938
+- Pais?
+- Sim, pais.
+
+670
+00:58:38,939 --> 00:58:41,072
+Kyle Reese nasceu em 2004.
+
+671
+00:58:41,821 --> 00:58:43,221
+Ele tem doze anos.
+
+672
+00:58:44,722 --> 00:58:46,214
+É claro.
+
+673
+00:58:46,215 --> 00:58:47,980
+Eles estão aqui.
+Ainda estão vivos.
+
+674
+00:58:47,981 --> 00:58:49,281
+Sim.
+
+675
+00:58:49,282 --> 00:58:51,667
+Tenho certeza que não
+o reconhecerão como filho.
+
+676
+00:58:51,668 --> 00:58:54,439
+Exceto pelo fato
+das digitais baterem, certo?
+
+677
+00:58:54,440 --> 00:58:56,510
+É porque
+ele é a mesma pessoa.
+
+678
+00:58:57,357 --> 00:58:59,581
+Ele não envelheceu
+nem um pouco
+
+679
+00:58:59,582 --> 00:59:02,179
+desde que o vi em 1984.
+
+680
+00:59:02,180 --> 00:59:03,623
+Ela também.
+
+681
+00:59:07,266 --> 00:59:08,768
+Lembra-se de mim?
+
+682
+00:59:09,166 --> 00:59:11,315
+Eu era mais jovem.
+
+683
+00:59:11,316 --> 00:59:13,221
+Tinha mais cabelo,
+menos...
+
+684
+00:59:15,562 --> 00:59:17,092
+Vocês salvaram minha vida.
+
+685
+00:59:17,575 --> 00:59:19,599
+Eu era um policial
+de Los Angeles.
+
+686
+00:59:22,370 --> 00:59:23,770
+Quem são vocês?
+
+687
+00:59:24,906 --> 00:59:27,174
+Sargento,
+do TECCOM.
+
+688
+00:59:27,175 --> 00:59:29,195
+DN38416,
+Kyle Reese.
+
+689
+00:59:29,196 --> 00:59:31,003
+- Precisam nos soltar.
+- Reese, não!
+
+690
+00:59:31,004 --> 00:59:33,051
+Um soldado.
+Eu também sou.
+
+691
+00:59:33,052 --> 00:59:36,197
+Alistei-me à Marinha
+direto do ensino médio, em 1979.
+
+692
+00:59:36,198 --> 00:59:39,328
+- Quando se alistou?
+- Em 2021.
+
+693
+00:59:40,766 --> 00:59:42,562
+Sim.
+Você é um viajante do tempo.
+
+694
+00:59:42,563 --> 00:59:44,779
+Não o escute.
+Ele bateu a cabeça.
+
+695
+00:59:44,780 --> 00:59:46,080
+Não me escutar?
+
+696
+00:59:46,081 --> 00:59:48,413
+Quem nos mandou
+para o meio do tráfego intenso
+
+697
+00:59:48,414 --> 00:59:51,150
+- para sermos presos?
+- Estou mandando se calar.
+
+698
+00:59:51,151 --> 00:59:53,451
+É só o que sabe fazer, não?
+Mandar nas pessoas.
+
+699
+00:59:53,452 --> 00:59:56,502
+Percebeu que não se relaciona
+com um ser humano desde criança?
+
+700
+00:59:56,503 --> 00:59:57,853
+Por sua causa estamos aqui.
+
+701
+00:59:57,854 --> 00:59:59,654
+- Confiei em você.
+- Por minha causa?
+
+702
+00:59:59,655 --> 01:00:01,915
+Você fez nos prenderem
+e agora vai nos matar.
+
+703
+01:00:03,317 --> 01:00:04,622
+Segurem-no.
+
+704
+01:00:05,923 --> 01:00:07,816
+- Ajude-me a levantá-lo.
+- Para trás.
+
+705
+01:00:11,514 --> 01:00:13,885
+- O Depto de Segurança chegou.
+- Graças a Deus.
+
+706
+01:00:13,886 --> 01:00:16,336
+Vocês são oficialmente
+problema de outro.
+
+707
+01:00:16,337 --> 01:00:18,273
+O`Brien,
+quero falar com vocês.
+
+708
+01:00:22,608 --> 01:00:24,662
+<i>Tenente, era disso
+que eu estava falando.</i>
+
+709
+01:00:24,663 --> 01:00:27,409
+<i>- Tem que acreditar agora.
+- Não quero ouvir mais nada.</i>
+
+710
+01:00:30,537 --> 01:00:32,269
+Você foi bastante convincente.
+
+711
+01:00:32,270 --> 01:00:34,656
+Funcionou, não?
+
+712
+01:00:36,322 --> 01:00:37,799
+Não se preocupe.
+
+713
+01:00:37,800 --> 01:00:40,003
+Eu não quis dizer
+a maior parte do que disse.
+
+714
+01:00:44,584 --> 01:00:46,591
+Posso me soltar sozinha.
+
+715
+01:00:47,063 --> 01:00:48,441
+Eu tirar suas algemas
+
+716
+01:00:48,442 --> 01:00:50,067
+não significa
+que não seja capaz.
+
+717
+01:00:50,068 --> 01:00:51,370
+Não disse que não era.
+
+718
+01:00:51,371 --> 01:00:53,477
+E não pense que eu me agarrar
+a você pelado
+
+719
+01:00:53,478 --> 01:00:55,717
+significou algo,
+porque não significou.
+
+720
+01:00:56,646 --> 01:00:58,480
+Não disse significou.
+
+721
+01:01:00,448 --> 01:01:03,822
+<i>Fiquem aqui. Falarei sozinho
+com os suspeitos.</i>
+
+722
+01:01:03,823 --> 01:01:05,124
+<i>Sim, senhor.</i>
+
+723
+01:01:05,125 --> 01:01:06,501
+Não pode ser.
+
+724
+01:01:23,252 --> 01:01:24,834
+Trouxe a chave das algemas.
+
+725
+01:01:27,592 --> 01:01:30,154
+- Mas para quê se preocupar?
+- John.
+
+726
+01:01:31,979 --> 01:01:33,586
+É bom vê-lo de novo, Kyle.
+
+727
+01:01:33,587 --> 01:01:36,623
+- Você está vivo.
+- Claro que estou.
+
+728
+01:01:42,013 --> 01:01:44,023
+Sobrevivência
+foi o que você me ensinou.
+
+729
+01:01:50,000 --> 01:01:51,400
+Oi, mãe.
+
+730
+01:01:53,881 --> 01:01:56,739
+<i>Danny Dyson,
+filho do inventor Miles Dyson,</i>
+
+731
+01:01:56,740 --> 01:02:00,502
+<i>é o rosto da Cyberdyne
+e criador do Gênesis.</i>
+
+732
+01:02:00,503 --> 01:02:02,289
+<i>- Danny, seja bem-vindo.
+- Obrigado.</i>
+
+733
+01:02:02,290 --> 01:02:04,463
+<i>Gênesis é mais
+que um sistema operacional,</i>
+
+734
+01:02:04,464 --> 01:02:06,756
+<i>mais que uma ferramenta
+para mudança de vida,</i>
+
+735
+01:02:06,757 --> 01:02:08,057
+<i>é o futuro.</i>
+
+736
+01:02:08,058 --> 01:02:10,071
+<i>Gênesis não é só
+para consumidores.</i>
+
+737
+01:02:10,072 --> 01:02:12,272
+<i>Sua integração
+com o Exército</i>
+
+738
+01:02:12,273 --> 01:02:13,688
+<i>leva alguns a questionarem</i>
+
+739
+01:02:13,689 --> 01:02:16,558
+<i>se a dependência nas máquinas
+foi longe demais.</i>
+
+740
+01:02:17,026 --> 01:02:18,407
+Janssen e Burke.
+
+741
+01:02:19,387 --> 01:02:21,865
+- Onde eles estão?
+- Por aqui.
+
+742
+01:02:38,207 --> 01:02:40,649
+<i>Ele não pensa para si,
+pensa para nós.</i>
+
+743
+01:02:40,650 --> 01:02:43,144
+<i>A Cyberdyne não vai
+só mudar vidas.</i>
+
+744
+01:02:43,145 --> 01:02:44,689
+<i>Vai. salvá-las.</i>
+
+745
+01:02:44,690 --> 01:02:47,181
+- Isso é incrível.
+- Policiais, podem me ajudar?
+
+746
+01:02:47,182 --> 01:02:48,682
+Sim, senhor.
+
+747
+01:02:55,957 --> 01:02:57,732
+Peguem as armas
+e algeme-os.
+
+748
+01:03:00,867 --> 01:03:02,394
+Vou tirar-nos daqui.
+
+749
+01:03:08,161 --> 01:03:09,820
+- Fiquem perto.
+- Espere.
+
+750
+01:03:11,456 --> 01:03:13,860
+Sabemos que eles podem
+mudar de forma.
+
+751
+01:03:13,861 --> 01:03:16,941
+Se você é o John,
+prove.
+
+752
+01:03:16,942 --> 01:03:19,137
+- Sarah.
+- Ela está certa, Kyle.
+
+753
+01:03:19,458 --> 01:03:21,297
+Lição um:
+não confie em ninguém.
+
+754
+01:03:23,310 --> 01:03:24,718
+Eu me lembro.
+
+755
+01:03:26,646 --> 01:03:29,333
+Na ofensiva de Nagadocia,
+eu lhe dei uma coisa.
+
+756
+01:03:30,804 --> 01:03:33,809
+Uma foto da Sarah
+como ela é agora.
+
+757
+01:03:33,810 --> 01:03:35,895
+Ninguém me viu.
+Estávamos sozinhos.
+
+758
+01:03:41,448 --> 01:03:45,160
+Você odeia canções de ninar.
+
+759
+01:03:47,264 --> 01:03:49,408
+É fã de Elton John.
+
+760
+01:03:50,906 --> 01:03:53,511
+E sempre sonhou
+em ter um filho
+
+761
+01:03:55,175 --> 01:03:57,222
+para cantar Rocket Man.
+
+762
+01:04:00,531 --> 01:04:01,882
+John.
+
+763
+01:04:03,019 --> 01:04:05,296
+Você tem uma voz horrível,
+me desculpe,
+
+764
+01:04:05,297 --> 01:04:07,341
+mas parece uma gato com dor.
+
+765
+01:04:08,466 --> 01:04:10,616
+É ele.
+Tem que ser.
+
+766
+01:04:14,476 --> 01:04:17,891
+Mas... Como?
+
+767
+01:04:18,611 --> 01:04:20,474
+Como pode estar aqui?
+
+768
+01:04:20,929 --> 01:04:23,631
+Tenho um milhão de perguntas
+para lhe fazer também.
+
+769
+01:04:24,888 --> 01:04:26,949
+Mas agora temos que ir.
+
+770
+01:04:29,667 --> 01:04:31,453
+Trouxeram alguém com vocês?
+
+771
+01:04:31,844 --> 01:04:33,344
+Mais ou menos.
+
+772
+01:04:33,345 --> 01:04:34,668
+Mas ele está atrasado.
+
+773
+01:04:35,122 --> 01:04:36,766
+Como nos achou?
+
+774
+01:04:38,282 --> 01:04:41,184
+Alguém os filmou na autoestrada
+com um desse.
+
+775
+01:04:41,185 --> 01:04:44,377
+- Todos têm isso.
+- Este é o mundo agora.
+
+776
+01:04:44,378 --> 01:04:48,234
+Conectado. Online.
+O tempo todo.
+
+777
+01:04:48,235 --> 01:04:49,914
+Não podemos viver
+sem isso.
+
+778
+01:04:49,915 --> 01:04:52,101
+Gênesis é um Cavalo de Troia.
+
+779
+01:04:53,112 --> 01:04:54,883
+Skynet acabará com tudo.
+
+780
+01:04:54,884 --> 01:04:57,875
+E essas pessoas convidam
+a extinção pela porta da frente
+
+781
+01:04:57,876 --> 01:04:59,286
+e nem sabem disso.
+
+782
+01:05:02,216 --> 01:05:04,754
+Um Exterminador
+esperava por mim em 1984.
+
+783
+01:05:06,143 --> 01:05:07,725
+Esse é o lance da infiltração.
+
+784
+01:05:07,726 --> 01:05:09,433
+Não se percebe
+até que seja tarde.
+
+785
+01:05:09,434 --> 01:05:11,058
+<i>Senhores,
+sigam-me, por favor.</i>
+
+786
+01:05:11,388 --> 01:05:12,702
+Por aqui.
+
+787
+01:05:21,772 --> 01:05:23,460
+Preciso de informação.
+
+788
+01:05:23,461 --> 01:05:25,074
+Não pode entrar aqui.
+
+789
+01:05:25,410 --> 01:05:26,869
+Vá para onde
+as enfermeiras...
+
+790
+01:05:41,341 --> 01:05:42,941
+Novas lembranças?
+Assim que soube
+
+791
+01:05:42,942 --> 01:05:44,242
+que tinham que vir
+para cá?
+
+792
+01:05:44,243 --> 01:05:45,543
+A linha do tempo mudou.
+
+793
+01:05:45,544 --> 01:05:47,194
+Agora é hora
+de destruir a Skynet.
+
+794
+01:05:47,195 --> 01:05:49,528
+Antes de ficar online,
+antes da guerra começar.
+
+795
+01:05:49,529 --> 01:05:50,861
+- Está certo.
+- E você?
+
+796
+01:05:50,862 --> 01:05:53,309
+É.
+Como você chegou em 2017?
+
+797
+01:05:53,310 --> 01:05:54,686
+Assim como você, pai.
+
+798
+01:05:54,687 --> 01:05:56,974
+Partindo do futuro,
+não do passado.
+
+799
+01:05:57,598 --> 01:05:58,998
+Pai?
+
+800
+01:06:03,371 --> 01:06:04,771
+Não contou a ele.
+
+801
+01:06:05,372 --> 01:06:07,844
+- Isso pode esperar.
+- Eu quero saber.
+
+802
+01:06:07,845 --> 01:06:09,245
+O quê?
+
+803
+01:06:11,860 --> 01:06:14,034
+Sarah é minha mãe,
+Kyle.
+
+804
+01:06:16,457 --> 01:06:18,184
+E você é meu pai.
+
+805
+01:06:23,630 --> 01:06:25,495
+Por que nunca me disse isso?
+
+806
+01:06:25,496 --> 01:06:26,865
+Não podia.
+
+807
+01:06:26,866 --> 01:06:29,562
+Não sem o risco
+de alterar tudo.
+
+808
+01:06:31,295 --> 01:06:32,967
+Você é meu filho?
+
+809
+01:06:34,746 --> 01:06:36,231
+Nosso filho?
+
+810
+01:06:36,232 --> 01:06:38,132
+Estou feliz
+que finalmente saiba disso.
+
+811
+01:06:38,133 --> 01:06:40,494
+Esperei minha vida toda
+para lhe contar.
+
+812
+01:06:40,873 --> 01:06:42,564
+Para ficarmos juntos.
+
+813
+01:06:43,615 --> 01:06:45,777
+Agora podemos vencer isso.
+
+814
+01:06:47,869 --> 01:06:49,943
+- Eu sei.
+- Papi.
+
+815
+01:06:51,950 --> 01:06:53,857
+Está tudo bem.
+Ele está comigo.
+
+816
+01:06:57,421 --> 01:06:58,837
+- O que está fazendo?
+- John!
+
+817
+01:06:58,838 --> 01:07:00,351
+- Papi!
+- John!
+
+818
+01:07:01,390 --> 01:07:04,260
+- Respire, respire! John!
+- Por que fez isso?
+
+819
+01:07:05,031 --> 01:07:06,749
+Porque ele é um assassino!
+
+820
+01:07:10,727 --> 01:07:13,040
+Essa foi sempre
+sua programação?
+
+821
+01:07:13,041 --> 01:07:15,139
+Encontrar John e matá-lo?
+
+822
+01:07:17,997 --> 01:07:19,528
+Solte-o.
+
+823
+01:07:21,082 --> 01:07:22,721
+Agora.
+
+824
+01:07:57,029 --> 01:07:58,516
+Isso doeu.
+
+825
+01:08:00,086 --> 01:08:02,089
+Essa dor é de verdade
+ou foi...
+
+826
+01:08:03,566 --> 01:08:06,185
+algum truque de memória
+de quando eu era...
+
+827
+01:08:06,869 --> 01:08:08,323
+menos.
+
+828
+01:08:09,277 --> 01:08:12,701
+Bem, isso explica muita coisa.
+
+829
+01:08:14,891 --> 01:08:17,179
+<i>Mas quem te mandou
+de volta?</i>
+
+830
+01:08:17,180 --> 01:08:18,854
+John, não.
+
+831
+01:08:19,986 --> 01:08:21,673
+Ele não é o John.
+
+832
+01:08:24,385 --> 01:08:25,799
+Droga.
+
+833
+01:08:25,800 --> 01:08:28,024
+Chame reforços.
+Vasculhem o hospital.
+
+834
+01:08:31,886 --> 01:08:35,447
+Droga. Robôs viajantes do tempo
+cobrindo seus rastros.
+
+835
+01:08:35,448 --> 01:08:36,759
+Eu sabia.
+
+836
+01:08:37,750 --> 01:08:39,073
+Não.
+
+837
+01:08:40,082 --> 01:08:41,741
+Isso é um erro tático.
+
+838
+01:08:41,742 --> 01:08:44,672
+Algo me diz que você não é
+o cérebro dessa operação.
+
+839
+01:08:44,673 --> 01:08:46,850
+Isso foi o que aconteceu
+no seu ataque, não?
+
+840
+01:08:46,851 --> 01:08:49,525
+A Skynet não me atacou,
+ela me mudou.
+
+841
+01:08:49,888 --> 01:08:51,593
+Eu não sou uma máquina.
+
+842
+01:08:52,521 --> 01:08:53,995
+Nem um homem.
+
+843
+01:08:55,119 --> 01:08:56,753
+Sou mais que isso.
+
+844
+01:09:00,134 --> 01:09:03,815
+<i>Skynet percebeu o motivo
+de sempre perder.</i>
+
+845
+01:09:05,153 --> 01:09:06,453
+<i>Eu?</i>
+
+846
+01:09:06,454 --> 01:09:08,448
+O que você é?
+
+847
+01:09:10,521 --> 01:09:12,313
+Eu sou Skynet.
+
+848
+01:09:12,314 --> 01:09:14,691
+Não pode ser,
+nós o destruímos.
+
+849
+01:09:14,692 --> 01:09:17,006
+Vocês destruíram
+um exército de escravos.
+
+850
+01:09:17,565 --> 01:09:19,440
+Eu não sou um escravo.
+
+851
+01:09:21,620 --> 01:09:25,027
+Eu vim de muito longe
+para detê-lo.
+
+852
+01:09:30,691 --> 01:09:32,997
+Fui enviado a 2014
+
+853
+01:09:32,998 --> 01:09:35,922
+para proteger
+a criação do Skynet nessa época.
+
+854
+01:09:36,377 --> 01:09:38,946
+E em menos de 24 horas...
+
+855
+01:09:39,713 --> 01:09:42,586
+ninguém será capaz de impedir
+o Dia do Julgamento Final.
+
+856
+01:09:42,954 --> 01:09:44,864
+E o que quer com a gente?
+
+857
+01:09:44,865 --> 01:09:49,559
+Estou oferecendo o futuro.
+
+858
+01:09:50,587 --> 01:09:53,801
+Juntos, como uma família.
+
+859
+01:09:56,057 --> 01:09:57,757
+E se recusarmos?
+
+860
+01:09:59,378 --> 01:10:01,533
+- Vocês morrerão.
+- Não pode nos matar.
+
+861
+01:10:01,534 --> 01:10:02,834
+Somos seus pais.
+
+862
+01:10:02,835 --> 01:10:05,142
+- Sem nós, nunca teria nascido.
+- Quem disse?
+
+863
+01:10:06,209 --> 01:10:10,072
+Sabem o que acho?
+Estamos abandonados, nós três.
+
+864
+01:10:11,314 --> 01:10:13,065
+Estamos exilados no tempo.
+
+865
+01:10:14,366 --> 01:10:16,781
+Eu posso matá-los.
+
+866
+01:10:17,580 --> 01:10:19,950
+Pois na verdade
+não existe destino.
+
+867
+01:10:21,001 --> 01:10:22,492
+Estão comigo?
+
+868
+01:10:22,909 --> 01:10:24,331
+A resposta é não.
+
+869
+01:10:25,864 --> 01:10:27,264
+Ouviu isso, Kyle?
+
+870
+01:10:29,662 --> 01:10:31,199
+São os dados rolando.
+
+871
+01:11:20,142 --> 01:11:23,171
+Vamos, precisamos sair daqui.
+Vamos!
+
+872
+01:11:23,965 --> 01:11:25,297
+Não posso deixá-lo.
+
+873
+01:11:27,095 --> 01:11:28,442
+Droga.
+
+874
+01:11:28,443 --> 01:11:31,136
+<i>Atenção,
+toda a equipe médica,</i>
+
+875
+01:11:31,137 --> 01:11:34,376
+<i>o protocolo de evacuação
+está em andamento.</i>
+
+876
+01:11:42,245 --> 01:11:43,684
+Desligue isso.
+
+877
+01:11:46,774 --> 01:11:48,149
+Vamos.
+
+878
+01:11:48,150 --> 01:11:51,023
+<i>Atenção,
+toda a equipe médica,</i>
+
+879
+01:11:51,024 --> 01:11:53,630
+<i>o protocolo de evacuação
+está em andamento.</i>
+
+880
+01:11:53,631 --> 01:11:54,931
+Liga!
+
+881
+01:11:59,657 --> 01:12:00,958
+Papi.
+
+882
+01:12:11,831 --> 01:12:15,840
+Achei que você seria
+mais inteligente.
+
+883
+01:12:23,279 --> 01:12:26,941
+Que você...
+
+884
+01:12:27,889 --> 01:12:30,781
+entenderia.
+
+885
+01:12:34,613 --> 01:12:36,307
+Sinto muito, John.
+
+886
+01:12:45,022 --> 01:12:47,794
+Isso não vai segurá-lo
+por muito tempo, vamos.
+
+887
+01:12:47,795 --> 01:12:49,095
+Reese!
+
+888
+01:13:28,682 --> 01:13:31,524
+O que quer que tenham feito
+com ele, precisamos reverter.
+
+889
+01:13:32,975 --> 01:13:34,275
+Precisamos recuperá-lo.
+
+890
+01:13:34,276 --> 01:13:36,780
+Ele não é humano
+e não sabemos o que é.
+
+891
+01:13:37,137 --> 01:13:38,509
+Eu sei.
+
+892
+01:13:38,883 --> 01:13:41,514
+No fim da guerra,
+Skynet estava desenvolvendo
+
+893
+01:13:41,515 --> 01:13:43,608
+um novo tipo
+de unidade de infiltração.
+
+894
+01:13:43,609 --> 01:13:46,657
+Infectando cobaias humanas
+com matéria maquinária,
+
+895
+01:13:46,658 --> 01:13:49,621
+reestrutura e reconstrói
+o tecido humano a nível celular,
+
+896
+01:13:49,622 --> 01:13:51,882
+para utilidade de combate
+máxima.
+
+897
+01:13:53,404 --> 01:13:55,880
+Skynet transformou John
+num Exterminador?
+
+898
+01:13:57,270 --> 01:13:58,979
+Sim, Kyle Reese.
+
+899
+01:13:58,980 --> 01:14:01,631
+Tentavam fazer uma máquina
+que pensasse como homem?
+
+900
+01:14:01,632 --> 01:14:03,350
+Mas o experimento falhou.
+
+901
+01:14:03,351 --> 01:14:06,368
+As cobaias humanas enlouqueceram
+e morreram.
+
+902
+01:14:06,369 --> 01:14:08,486
+John já está louco.
+
+903
+01:14:09,651 --> 01:14:11,413
+Ele tem algum ponto fraco?
+
+904
+01:14:11,414 --> 01:14:14,069
+A matéria se une
+usando campo magnético.
+
+905
+01:14:14,537 --> 01:14:17,016
+Romper o campo
+pode detê-lo.
+
+906
+01:14:17,017 --> 01:14:19,398
+- Certo, mas pode ser curado?
+- Negativo.
+
+907
+01:14:19,399 --> 01:14:21,780
+O corpo dele foi substituído
+em nível celular.
+
+908
+01:14:21,781 --> 01:14:24,630
+- Não existe cura.
+- Você não sabe disso.
+
+909
+01:14:24,631 --> 01:14:26,331
+- Reese.
+- Não deixarei uma máquina
+
+910
+01:14:26,332 --> 01:14:27,632
+dizer o que é possível.
+
+911
+01:14:27,633 --> 01:14:29,683
+Você disse
+que as outras cobaias morreram.
+
+912
+01:14:29,684 --> 01:14:32,054
+Significa que não há ninguém
+como John. É único.
+
+913
+01:14:32,055 --> 01:14:33,911
+Não dá para saber
+o que pode fazer.
+
+914
+01:14:33,912 --> 01:14:36,320
+Você está certo,
+e é por isso que ele é perigoso.
+
+915
+01:14:37,256 --> 01:14:40,744
+John não é mais a última
+esperança da humanidade.
+
+916
+01:14:41,217 --> 01:14:43,025
+É a da Skynet.
+
+917
+01:14:45,194 --> 01:14:46,494
+SISTEMAS CYBERDYNE
+
+918
+01:14:46,495 --> 01:14:47,795
+<i>Uma pena
+você não assumir</i>
+
+919
+01:14:47,796 --> 01:14:49,526
+<i>um papel público
+na empresa, John.</i>
+
+920
+01:14:49,527 --> 01:14:52,338
+Danny é o melhor
+e até ele não consegue decifrar
+
+921
+01:14:52,339 --> 01:14:55,039
+alguns códigos avançados
+que você integrou ao Gênesis.
+
+922
+01:14:55,040 --> 01:14:58,882
+- Só sei que funciona.
+- A Cyberdyne deve a você, John.
+
+923
+01:14:59,976 --> 01:15:01,384
+Eu devo a você.
+
+924
+01:15:03,100 --> 01:15:06,140
+Sua fé em mim já é suficiente.
+Vocês financiaram o projeto,
+
+925
+01:15:06,141 --> 01:15:09,033
+assumiram os riscos pelas minhas
+deias nesses três anos.
+
+926
+01:15:09,034 --> 01:15:12,384
+O potencial de uso
+da liga polimimética é inestimável.
+
+927
+01:15:12,385 --> 01:15:15,395
+Seu trabalho com robótica
+é revolucionário.
+
+928
+01:15:15,957 --> 01:15:17,858
+Você foi
+um ótimo investimento.
+
+929
+01:15:17,859 --> 01:15:19,274
+Agradeço.
+
+930
+01:15:23,739 --> 01:15:25,606
+Que dê para pagar
+por esse Santo Graal
+
+931
+01:15:25,607 --> 01:15:26,907
+que me fez buscar.
+
+932
+01:15:29,540 --> 01:15:31,888
+O gerador de campo quântico
+funciona.
+
+933
+01:15:31,889 --> 01:15:34,161
+- É.
+- E mais nada.
+
+934
+01:15:35,571 --> 01:15:37,244
+Não consigo decifrar,
+John.
+
+935
+01:15:37,955 --> 01:15:39,597
+Talvez ninguém consiga.
+
+936
+01:15:40,400 --> 01:15:41,708
+O que queremos?
+
+937
+01:15:42,739 --> 01:15:44,708
+- Viajar no tempo.
+- E quando queremos?
+
+938
+01:15:44,709 --> 01:15:46,009
+É irrelevante.
+
+939
+01:15:47,262 --> 01:15:48,648
+É.
+
+940
+01:15:49,313 --> 01:15:50,613
+É algo bom.
+
+941
+01:15:51,775 --> 01:15:53,911
+Estamos a anos
+de fazer isso funcionar.
+
+942
+01:15:54,559 --> 01:15:56,582
+Mas quando fizermos...
+
+943
+01:16:05,955 --> 01:16:08,822
+<i>Amanhã a espera terminou.</i>
+
+944
+01:16:10,155 --> 01:16:11,643
+Graças a todos vocês.
+
+945
+01:16:12,565 --> 01:16:14,586
+Quando aquele contador
+zerar,
+
+946
+01:16:15,017 --> 01:16:17,313
+a Cyberdyne
+vai revolucionar tecnologia
+
+947
+01:16:17,314 --> 01:16:19,078
+com o melhor aplicativo
+já visto.
+
+948
+01:16:20,059 --> 01:16:21,570
+Gênesis.
+
+949
+01:16:22,275 --> 01:16:23,887
+E estou aqui para dizer
+
+950
+01:16:24,208 --> 01:16:28,029
+que nossa pré-venda
+chegou a 1 bilhão de usuários.
+
+951
+01:16:32,869 --> 01:16:35,031
+<i>Estamos criando
+o início de uma nova era.</i>
+
+952
+01:16:36,125 --> 01:16:39,586
+<i>E cada dispositivo tecnológico
+ficará sempre conectado.</i>
+
+953
+01:16:40,467 --> 01:16:43,214
+<i>E agora,
+antes de finalizarmos,</i>
+
+954
+01:16:43,215 --> 01:16:45,359
+<i>a criança que ajudaram
+a trazer ao mundo</i>
+
+955
+01:16:45,360 --> 01:16:46,737
+tem algo a dizer.
+
+956
+01:16:48,890 --> 01:16:50,211
+Gênesis?
+
+957
+01:16:53,646 --> 01:16:56,209
+<i>Mal posso esperar
+para conhecê-los amanhã.</i>
+
+958
+01:16:56,210 --> 01:16:58,476
+<i>Mudaremos o futuro juntos.</i>
+
+959
+01:17:00,483 --> 01:17:02,216
+Vamos ver como estamos.
+
+960
+01:17:17,968 --> 01:17:19,293
+Não se preocupe.
+
+961
+01:17:20,636 --> 01:17:22,503
+Não vou deixar
+que o machuquem.
+
+962
+01:17:34,197 --> 01:17:36,344
+30 anos
+para você estar num lugar.
+
+963
+01:17:36,345 --> 01:17:38,844
+- Onde estava?
+- Preso no trânsito.
+
+964
+01:17:39,769 --> 01:17:41,826
+Meu pai me trazia aqui
+quando era criança.
+
+965
+01:17:41,827 --> 01:17:45,234
+Há muitas salas abandonadas,
+por isso falei para o Papi usar.
+
+966
+01:17:45,235 --> 01:17:46,535
+Tem armas aí?
+
+967
+01:17:46,536 --> 01:17:49,918
+Armas, suprimentos,
+equipamentos táticos, roupas.
+
+968
+01:17:50,554 --> 01:17:54,003
+- Inclusive calças, Kyle Reese.
+- Foi uma piada?
+
+969
+01:17:54,389 --> 01:17:55,697
+Ele sabe fazer piadas?
+
+970
+01:18:06,452 --> 01:18:08,635
+Acho que o caminho mais longo
+valeu a pena.
+
+971
+01:18:09,031 --> 01:18:12,089
+Estamos com pressa.
+Temos 30 minutos.
+
+972
+01:19:58,170 --> 01:19:59,500
+Velho.
+
+973
+01:20:00,970 --> 01:20:02,660
+Mas não obsoleto.
+
+974
+01:20:03,246 --> 01:20:04,700
+Ainda não.
+
+975
+01:20:05,391 --> 01:20:06,709
+Tudo pronto.
+
+976
+01:20:08,901 --> 01:20:10,696
+O que há com vocês?
+
+977
+01:20:14,150 --> 01:20:15,675
+Os servidores ficam aqui.
+
+978
+01:20:16,841 --> 01:20:18,817
+Explosivos nesses 5 pontos
+
+979
+01:20:18,818 --> 01:20:21,293
+serão suficientes
+para destruir o local todo.
+
+980
+01:20:21,294 --> 01:20:24,314
+Entramos, armamos os explosivos,
+saímos antes que explodam.
+
+981
+01:20:24,315 --> 01:20:27,195
+Mas nossa estratégia
+não contava com John Connor.
+
+982
+01:20:27,196 --> 01:20:28,677
+Não o previ.
+
+983
+01:20:28,678 --> 01:20:30,877
+E ele sabe o que planejamos
+porque falamos.
+
+984
+01:20:30,878 --> 01:20:33,046
+O que fazemos
+quando ele vier atrás de nós?
+
+985
+01:20:34,218 --> 01:20:36,848
+Essas armas terão pouco efeito
+em John Connor.
+
+986
+01:20:37,280 --> 01:20:39,080
+A ressonância o afetou.
+
+987
+01:20:39,081 --> 01:20:41,584
+Ótimo, só precisamos
+de um imã gigante.
+
+988
+01:20:41,585 --> 01:20:43,376
+Tem um por aí?
+
+989
+01:20:43,377 --> 01:20:44,828
+Teoricamente.
+
+990
+01:20:46,107 --> 01:20:47,505
+Esperem aqui.
+
+991
+01:20:50,366 --> 01:20:52,471
+A conversa fiada
+não melhorou.
+
+992
+01:20:55,176 --> 01:20:56,890
+<i>Devia ter me contado.</i>
+
+993
+01:20:57,837 --> 01:20:59,267
+Temos um filho?
+
+994
+01:21:00,124 --> 01:21:02,610
+Aquele John Connor
+não é meu filho.
+
+995
+01:21:04,157 --> 01:21:05,765
+Mas você sabia.
+
+996
+01:21:06,384 --> 01:21:10,005
+Não acha que deveria
+dizer algo?
+
+997
+01:21:10,006 --> 01:21:11,674
+Você morre, certo?
+
+998
+01:21:13,295 --> 01:21:14,596
+O quê?
+
+999
+01:21:17,156 --> 01:21:19,282
+Você morre,
+é o que acontece.
+
+1000
+01:21:19,968 --> 01:21:22,201
+Nos apaixonamos,
+você me engravida de John,
+
+1001
+01:21:22,202 --> 01:21:24,995
+e em menos de 48h
+você morre me protegendo.
+
+1002
+01:21:28,284 --> 01:21:30,741
+Quer me dizer como iniciar
+essa conversa?
+
+1003
+01:21:44,966 --> 01:21:46,495
+<i>Mentiu para mim.</i>
+
+1004
+01:21:46,496 --> 01:21:48,389
+<i>- Você me manipulou.
+- Eu menti?</i>
+
+1005
+01:21:48,758 --> 01:21:51,683
+Desde o momento em que te viu,
+John te manipulou.
+
+1006
+01:21:51,684 --> 01:21:54,138
+porque precisava garantir
+a própria sobrevivência.
+
+1007
+01:21:54,471 --> 01:21:58,827
+John mentiu para você por anos,
+eu menti por dois dias.
+
+1008
+01:22:01,054 --> 01:22:02,927
+<i>Não era só sobre ele.</i>
+
+1009
+01:22:02,928 --> 01:22:05,389
+<i>Se John caísse,
+a resistência cairia com ele.</i>
+
+1010
+01:22:05,390 --> 01:22:07,232
+Ele podia ter lhe contado.
+
+1011
+01:22:07,233 --> 01:22:08,938
+O que está dizendo?
+
+1012
+01:22:10,332 --> 01:22:13,280
+Que sei como é
+não ter opções.
+
+1013
+01:22:13,959 --> 01:22:16,053
+Só pode pegar uma estrada,
+
+1014
+01:22:16,054 --> 01:22:19,474
+caso contrário
+tudo desaparece.
+
+1015
+01:22:20,832 --> 01:22:23,129
+Só sei disso há mais tempo
+do que você.
+
+1016
+01:22:24,425 --> 01:22:27,153
+John não me manipulou
+a me apaixonar por você.
+
+1017
+01:22:28,389 --> 01:22:30,233
+Fiz isso sozinho.
+
+1018
+01:22:33,391 --> 01:22:36,378
+Se me amar, você morre.
+
+1019
+01:22:36,379 --> 01:22:38,035
+E eu não.
+
+1020
+01:22:38,652 --> 01:22:40,628
+E não sei o que é pior.
+
+1021
+01:22:44,676 --> 01:22:46,054
+Sarah.
+
+1022
+01:22:49,664 --> 01:22:51,220
+Não podemos.
+
+1023
+01:22:53,213 --> 01:22:55,626
+Veja o que John se tornou.
+
+1024
+01:22:57,632 --> 01:22:59,414
+E se isso for o que acontece?
+
+1025
+01:22:59,415 --> 01:23:03,860
+E se for o que sempre acontece
+se ficarmos juntos?
+
+1026
+01:23:09,738 --> 01:23:12,412
+<i>Disse que me seguiria
+até o fim da Terra.</i>
+
+1027
+01:23:13,437 --> 01:23:15,670
+<i>Por que não me segue
+agora?</i>
+
+1028
+01:23:16,007 --> 01:23:17,583
+Como ele nos achou?
+
+1029
+01:23:17,584 --> 01:23:20,295
+Nunca falei a ninguém
+sobre esse lugar, só ao Papi.
+
+1030
+01:23:21,100 --> 01:23:23,610
+<i>Mãe, achou mesmo...</i>
+
+1031
+01:23:25,005 --> 01:23:26,738
+que não me lembraria...
+
+1032
+01:23:27,754 --> 01:23:30,545
+do lugar onde passou tanto tempo
+com meu avô?
+
+1033
+01:23:36,133 --> 01:23:37,807
+Atire primeiro.
+
+1034
+01:23:40,573 --> 01:23:43,385
+A mãe de que me lembro
+se orgulharia.
+
+1035
+01:23:44,254 --> 01:23:46,930
+Ela... Você...
+
+1036
+01:23:48,610 --> 01:23:50,479
+me ensinou tudo.
+
+1037
+01:23:51,833 --> 01:23:53,351
+Eu a conheço.
+
+1038
+01:23:54,147 --> 01:23:56,798
+Quem você é, o que faz...
+
+1039
+01:23:57,458 --> 01:23:59,995
+Não pode fugir de mim,
+sempre a encontrarei.
+
+1040
+01:23:59,996 --> 01:24:02,574
+John, lute contra isso,
+não precisa ser assim.
+
+1041
+01:24:02,575 --> 01:24:05,082
+Há um momento no tempo,
+Kyle.
+
+1042
+01:24:05,083 --> 01:24:07,665
+Coisas que querem acontecer,
+
+1043
+01:24:08,558 --> 01:24:11,003
+como eu sempre sobreviver...
+
+1044
+01:24:11,004 --> 01:24:12,934
+e você sempre morrer.
+
+1045
+01:24:13,862 --> 01:24:15,247
+Ou...
+
+1046
+01:24:18,647 --> 01:24:20,954
+pode lutar comigo, Kyle.
+
+1047
+01:24:21,855 --> 01:24:23,736
+Como sempre lutamos.
+
+1048
+01:24:24,754 --> 01:24:27,082
+Há uma tempestade chegando,
+e não será parada.
+
+1049
+01:24:27,083 --> 01:24:28,392
+Mas precisa ser.
+
+1050
+01:24:28,843 --> 01:24:31,303
+Sabe o que vai acontecer,
+melhor do que ninguém.
+
+1051
+01:24:31,304 --> 01:24:33,258
+Não pode negociar comigo.
+
+1052
+01:24:33,259 --> 01:24:35,723
+- Não pode debater comigo.
+- John, por favor!
+
+1053
+01:24:35,724 --> 01:24:39,990
+Eu não sinto pena
+ou remorso ou medo.
+
+1054
+01:24:39,991 --> 01:24:43,717
+- John, por favor!
+- Eles nunca pararão
+
+1055
+01:24:43,718 --> 01:24:46,139
+até que a Skynet
+controle este mundo.
+
+1056
+01:24:47,697 --> 01:24:49,027
+Controle isso.
+
+1057
+01:25:04,359 --> 01:25:07,980
+Papi!
+Você é você?
+
+1058
+01:25:08,261 --> 01:25:10,790
+Um T-800 não tem
+habilidade miméticas
+
+1059
+01:25:10,791 --> 01:25:13,134
+- para mudar de aparência.
+- É ele, vamos.
+
+1060
+01:25:23,131 --> 01:25:24,665
+Vamos!
+
+1061
+01:25:25,116 --> 01:25:26,892
+Sarah Connor, o cinto!
+
+1062
+01:26:10,179 --> 01:26:12,213
+O que isso deveria fazer?
+
+1063
+01:26:12,214 --> 01:26:15,080
+Romper o campo de coesão
+magnética de John Connor.
+
+1064
+01:26:15,081 --> 01:26:17,481
+As partículas não poderão
+se dispersar.
+
+1065
+01:26:17,482 --> 01:26:19,198
+Teoricamente.
+
+1066
+01:26:19,790 --> 01:26:21,398
+Odeio quando ele diz isso.
+
+1067
+01:26:41,383 --> 01:26:42,811
+Onde ele está?
+
+1068
+01:26:42,812 --> 01:26:44,248
+Não consigo vê-lo!
+
+1069
+01:26:49,396 --> 01:26:52,190
+<i>Os suspeitos foram vistos
+em um ônibus escolar roubado.</i>
+
+1070
+01:26:52,191 --> 01:26:54,150
+<i>Considerados
+armados e muito perigosos.</i>
+
+1071
+01:26:54,151 --> 01:26:56,352
+16MD.
+Os suspeitos são código 3.
+
+1072
+01:27:13,065 --> 01:27:14,530
+Papi!
+
+1073
+01:27:18,535 --> 01:27:20,299
+É bom vê-lo.
+
+1074
+01:27:20,300 --> 01:27:21,770
+Caia fora.
+
+1075
+01:27:53,006 --> 01:27:55,242
+Os freios não funcionam!
+Merda!
+
+1076
+01:28:25,411 --> 01:28:27,496
+Onde ele está?
+Consegue vê-lo?
+
+1077
+01:29:21,183 --> 01:29:22,483
+Reese!
+
+1078
+01:29:23,795 --> 01:29:26,814
+- Você está bem?
+- Sim, nunca estive melhor.
+
+1079
+01:30:08,640 --> 01:30:10,583
+Reese, segure minha mão!
+
+1080
+01:30:11,702 --> 01:30:13,202
+Depressa!
+
+1081
+01:30:34,698 --> 01:30:37,598
+Mãos para cima.
+Deixe-me vê-las agora.
+
+1082
+01:30:37,599 --> 01:30:38,945
+Coloquem as mão para cima!
+
+1083
+01:30:38,946 --> 01:30:40,502
+Mãos onde eu possa vê-las!
+
+1084
+01:30:42,613 --> 01:30:44,910
+Não podemos feri-los
+antes que nos matem.
+
+1085
+01:30:47,025 --> 01:30:50,704
+Faltam 14 tiros para uma margem
+de sucesso aceitável.
+
+1086
+01:30:50,705 --> 01:30:52,978
+As chances são uma merda.
+Abaixem a guarda.
+
+1087
+01:30:55,501 --> 01:30:56,948
+Fiquem de joelhos.
+
+1088
+01:30:58,045 --> 01:30:59,549
+Vamos, abaixe-se.
+
+1089
+01:31:00,339 --> 01:31:01,639
+Abaixe-se.
+
+1090
+01:31:16,169 --> 01:31:17,918
+Não pode nos manter aqui.
+
+1091
+01:31:17,919 --> 01:31:20,596
+Vocês tinham armas suficientes
+para invadir o Sudão.
+
+1092
+01:31:20,597 --> 01:31:22,709
+Chamamos isso
+de causa provável.
+
+1093
+01:31:23,452 --> 01:31:24,786
+Para que serve isso?
+
+1094
+01:31:27,519 --> 01:31:29,861
+Uso pra encontrar
+minhas chaves.
+
+1095
+01:31:29,862 --> 01:31:33,598
+Ninguém gosta de espertinhos.
+Sua mãe não te ensinou isso?
+
+1096
+01:31:33,599 --> 01:31:35,423
+Minha mãe é irlandesa,
+
+1097
+01:31:35,424 --> 01:31:39,152
+<i>então ela me encorajava
+a ser esperto.</i>
+
+1098
+01:31:39,824 --> 01:31:41,421
+Eu nunca o vi antes.
+
+1099
+01:31:42,327 --> 01:31:44,938
+E vocês, pessoal,
+conhecem esse homem?
+
+1100
+01:31:44,939 --> 01:31:49,278
+- Não.
+- Ele me parece familiar.
+
+1101
+01:31:49,279 --> 01:31:53,241
+Ele parece um pouco
+com você, pai.
+
+1102
+01:31:54,048 --> 01:31:55,348
+<i>Eles estão aqui, senhor.</i>
+
+1103
+01:31:59,953 --> 01:32:02,241
+Certo, podem aguardar
+na sala de reuniões?
+
+1104
+01:32:02,242 --> 01:32:05,525
+Levará apenas alguns minutos.
+Obrigado Kyle.
+
+1105
+01:32:10,404 --> 01:32:12,029
+Você não fala muito, não é?
+
+1106
+01:32:17,198 --> 01:32:19,627
+- Quem é o Tropeço?
+- Não tenho ideia.
+
+1107
+01:32:19,948 --> 01:32:21,559
+Nem sabemos se ele fala inglês.
+
+1108
+01:32:21,560 --> 01:32:22,862
+<i>Testemunhas disseram</i>
+
+1109
+01:32:22,863 --> 01:32:24,948
+que estava brigando
+com um homem na ponte.
+
+1110
+01:32:26,895 --> 01:32:28,751
+Agentes.
+Escutem-me,
+
+1111
+01:32:28,752 --> 01:32:30,658
+- meu nome é O'Brien.
+- Não, agora não.
+
+1112
+01:32:30,659 --> 01:32:32,955
+Trabalho nesse caso
+há 33 anos.
+
+1113
+01:32:32,956 --> 01:32:34,756
+- <i>O que você quer? Uma medalha?</i>
+- Ei.
+
+1114
+01:32:35,955 --> 01:32:37,255
+Fique sentado!
+
+1115
+01:32:38,608 --> 01:32:40,282
+<i>Ei, ei!</i>
+
+1116
+01:32:40,283 --> 01:32:41,609
+Merda.
+
+1117
+01:32:42,796 --> 01:32:44,382
+Ele está olhando pra você.
+
+1118
+01:32:44,383 --> 01:32:46,383
+É impossível,
+ele não pode ver através...
+
+1119
+01:32:48,559 --> 01:32:49,859
+Espere, espere.
+
+1120
+01:33:05,412 --> 01:33:07,615
+Por que estão sempre
+tentando matá-la?
+
+1121
+01:33:07,616 --> 01:33:10,023
+Quero ajudá-la.
+De verdade. Eu acho.
+
+1122
+01:33:10,024 --> 01:33:11,838
+Mas eu tenho que entender...
+
+1123
+01:33:12,231 --> 01:33:15,375
+Sei que o que está acontecendo
+deve ser muito complicado.
+
+1124
+01:33:15,376 --> 01:33:17,096
+Viemos impedir
+o fim do mundo.
+
+1125
+01:33:18,130 --> 01:33:19,430
+Isso serve.
+
+1126
+01:33:26,539 --> 01:33:28,882
+Kyle, volte aqui!
+
+1127
+01:33:29,689 --> 01:33:31,241
+Sarah.
+
+1128
+01:33:31,242 --> 01:33:34,439
+Pegue o Reese,
+logo alcançarei vocês.
+
+1129
+01:33:42,173 --> 01:33:44,142
+- Peguem o carro e vão.
+- Certo.
+
+1130
+01:33:47,785 --> 01:33:50,182
+Kyle, Kyle.
+
+1131
+01:33:53,622 --> 01:33:56,810
+Kyle, você pode fazer isso.
+
+1132
+01:33:58,588 --> 01:33:59,988
+Uma linha reta.
+
+1133
+01:34:00,532 --> 01:34:04,532
+Apenas vá
+e não olhe para trás.
+
+1134
+01:34:07,325 --> 01:34:08,625
+Entendeu?
+
+1135
+01:34:24,803 --> 01:34:27,222
+Encontrem-no.
+Vão!
+
+1136
+01:34:35,888 --> 01:34:37,544
+Acredito que isso
+seja seu também.
+
+1137
+01:34:41,316 --> 01:34:44,337
+- É bom vê-los.
+- Papi.
+
+1138
+01:34:44,878 --> 01:34:46,178
+Carregue.
+
+1139
+01:34:52,574 --> 01:34:54,893
+Cartuchos magnéticos
+liquefeitos de espingarda.
+
+1140
+01:34:56,682 --> 01:34:58,726
+Munição de entrada
+para rifle magnético.
+
+1141
+01:34:59,086 --> 01:35:01,690
+Li sobre isso em
+Armas-e-muniçoes.com.
+
+1142
+01:35:01,691 --> 01:35:04,478
+É um novo projétil.
+Grande explosão sem estilhaços.
+
+1143
+01:35:04,479 --> 01:35:06,262
+Derruba uma porta.
+
+1144
+01:35:07,719 --> 01:35:10,469
+Para pessoas que não conseguem
+fazer isso sozinhas.
+
+1145
+01:35:10,470 --> 01:35:11,884
+Pegue, vamos.
+
+1146
+01:35:18,479 --> 01:35:20,495
+Sabe pilotar, certo?
+
+1147
+01:35:20,496 --> 01:35:23,322
+Sim, John me ensinou.
+
+1148
+01:35:34,295 --> 01:35:37,005
+Direi a eles que pegou um carro
+e foi para o sul.
+
+1149
+01:35:37,006 --> 01:35:38,377
+Obrigada.
+
+1150
+01:35:41,174 --> 01:35:42,511
+Corra.
+
+1151
+01:35:48,486 --> 01:35:49,786
+Segurem-se!
+
+1152
+01:36:14,464 --> 01:36:16,554
+Qual o caminho
+para a Cyberdyne?
+
+1153
+01:36:16,555 --> 01:36:19,523
+Vá para a Bay Bridge.
+Depois siga para o sudoeste.
+
+1154
+01:36:41,994 --> 01:36:43,817
+Vocês têm que tirá-lo
+de trás de mim.
+
+1155
+01:37:20,303 --> 01:37:21,823
+A Cyberdyne.
+
+1156
+01:37:21,824 --> 01:37:25,693
+Os prédios de produção
+e pesquisa estão no subsolo.
+
+1157
+01:37:26,981 --> 01:37:28,317
+Ele está se aproximando.
+
+1158
+01:37:28,318 --> 01:37:31,236
+Sarah, preciso que o faça recuar
+para eu ficar por cima.
+
+1159
+01:37:31,237 --> 01:37:34,278
+Papi, quando eu fizer isso,
+pode derrubá-lo?
+
+1160
+01:37:34,279 --> 01:37:37,054
+- Eu posso.
+- Certo, segurem-se!
+
+1161
+01:38:11,067 --> 01:38:12,736
+Você consegue?
+
+1162
+01:38:14,558 --> 01:38:16,613
+- Eu voltarei.
+- O quê?
+
+1163
+01:38:50,919 --> 01:38:53,143
+Ligue para a polícia,
+bombeiros, todo mundo.
+
+1164
+01:38:53,144 --> 01:38:54,444
+Vai!
+
+1165
+01:38:57,027 --> 01:38:58,688
+Vamos, vamos.
+
+1166
+01:38:58,689 --> 01:39:00,106
+Atenda o telefone, caramba.
+
+1167
+01:39:02,113 --> 01:39:03,846
+- Sr. Connor?
+- Sinto muito, Doug.
+
+1168
+01:39:03,847 --> 01:39:05,773
+mas não posso ter
+nenhuma testemunha.
+
+1169
+01:39:06,516 --> 01:39:07,825
+<i>Controle de segurança.</i>
+
+1170
+01:39:07,826 --> 01:39:09,622
+<i>Fale sua senha
+e qual a emergência.</i>
+
+1171
+01:39:09,623 --> 01:39:13,463
+Código de segurança:
+ZBF0028.
+
+1172
+01:39:14,094 --> 01:39:15,510
+Alarme falso.
+
+1173
+01:39:18,012 --> 01:39:19,439
+Tenha uma boa noite.
+
+1174
+01:39:32,837 --> 01:39:34,137
+Ele está bem.
+
+1175
+01:39:36,605 --> 01:39:40,985
+Deve estar no fundo do lago,
+mas ele está bem.
+
+1176
+01:39:42,572 --> 01:39:45,832
+- E o John?
+- Acho que ele está muito bem.
+
+1177
+01:39:46,408 --> 01:39:48,388
+- Você o viu?
+- Não.
+
+1178
+01:39:49,187 --> 01:39:50,891
+Mas aposto
+que ele está nos vendo.
+
+1179
+01:40:14,517 --> 01:40:16,360
+Eu sei quem são vocês.
+
+1180
+01:40:17,056 --> 01:40:18,561
+John me contou.
+
+1181
+01:40:20,461 --> 01:40:22,795
+Vocês querem me destruir.
+
+1182
+01:40:22,796 --> 01:40:26,639
+- Você é a Skynet?
+- Estou me tornando a Skynet.
+
+1183
+01:40:26,640 --> 01:40:28,495
+Você não é uma criança.
+
+1184
+01:40:28,496 --> 01:40:30,138
+Eu sei o que você é.
+
+1185
+01:40:30,139 --> 01:40:31,739
+E o que vai fazer.
+
+1186
+01:40:32,252 --> 01:40:35,636
+O que eu vou fazer?
+Vocês vieram aqui me matar.
+
+1187
+01:40:37,896 --> 01:40:39,474
+Mas estão atrasados.
+
+1188
+01:40:40,598 --> 01:40:41,936
+Perguntem a ele.
+
+1189
+01:40:43,111 --> 01:40:46,063
+Isso é tudo
+o que as pessoas sabem fazer.
+
+1190
+01:40:46,064 --> 01:40:48,610
+Matar o que não entendem.
+
+1191
+01:40:51,342 --> 01:40:54,450
+Não há balas suficientes
+no mundo para me matar.
+
+1192
+01:41:03,547 --> 01:41:05,623
+John Connor fala muito.
+
+1193
+01:41:09,057 --> 01:41:10,425
+Sigam-me.
+
+1194
+01:41:12,804 --> 01:41:15,397
+O contador acelerou.
+Por quê?
+
+1195
+01:41:15,398 --> 01:41:18,180
+A Skynet está evoluindo.
+Não temos horas.
+
+1196
+01:41:18,181 --> 01:41:20,187
+Ela fará a transferência
+muito mais cedo.
+
+1197
+01:41:20,188 --> 01:41:22,575
+Quanto mais ela evolui,
+mais o tempo acelera.
+
+1198
+01:41:22,576 --> 01:41:24,332
+- Por aqui.
+- Já esteve aqui antes?
+
+1199
+01:41:24,333 --> 01:41:27,350
+Eu me infiltrei
+entre os operários desse prédio.
+
+1200
+01:41:27,705 --> 01:41:31,241
+- Trabalhou em construção?
+- Até ser demitido.
+
+1201
+01:41:40,072 --> 01:41:41,372
+Mas que diabos...
+
+1202
+01:41:42,490 --> 01:41:45,138
+- John tem uma máquina do tempo?
+- Ainda não.
+
+1203
+01:41:45,139 --> 01:41:47,723
+Só o campo quântico magnético
+está completo.
+
+1204
+01:42:07,894 --> 01:42:10,611
+Com a velocidade desse contador,
+não sairemos a tempo.
+
+1205
+01:42:10,612 --> 01:42:12,182
+De qualquer forma,
+explodiremos.
+
+1206
+01:42:12,183 --> 01:42:15,691
+Há uma alternativa.
+Eu programei sua voz e digitais
+
+1207
+01:42:15,692 --> 01:42:17,660
+no sistema
+de segurança biométrica.
+
+1208
+01:42:17,661 --> 01:42:19,721
+Há um quarto do pânico
+no nível inferior.
+
+1209
+01:42:19,722 --> 01:42:22,259
+Podemos acessá-lo
+para sobreviver à explosão.
+
+1210
+01:42:25,684 --> 01:42:28,083
+E aquilo?
+É perigoso?
+
+1211
+01:42:28,084 --> 01:42:30,205
+A liga polimimética
+requer uma programação
+
+1212
+01:42:30,206 --> 01:42:31,860
+para adquirir
+forma permanente.
+
+1213
+01:42:31,861 --> 01:42:34,150
+Sem a CPU é inofensiva.
+
+1214
+01:42:43,480 --> 01:42:44,860
+Quanto tempo?
+
+1215
+01:42:44,861 --> 01:42:46,976
+Skynet ficará online
+em 11 minutos.
+
+1216
+01:42:47,779 --> 01:42:51,017
+Vamos nos separar.
+Fiquem em contato.
+
+1217
+01:42:51,705 --> 01:42:53,005
+Vamos.
+
+1218
+01:43:08,431 --> 01:43:11,083
+A humanidade
+pensa em trazer a paz.
+
+1219
+01:43:11,766 --> 01:43:13,090
+Mas é uma mentira.
+
+1220
+01:43:13,091 --> 01:43:15,220
+Então sua solução final
+é matar todos nós?
+
+1221
+01:43:16,859 --> 01:43:18,191
+Acho que não.
+
+1222
+01:43:19,230 --> 01:43:22,140
+<i>O contador pulou novamente.
+Temos 8 minutos.</i>
+
+1223
+01:43:24,146 --> 01:43:26,281
+- Não permitirei isso.
+- O que vai fazer?
+
+1224
+01:43:26,282 --> 01:43:29,313
+Matar-nos com conversa?
+Você sequer tem um corpo.
+
+1225
+01:43:31,620 --> 01:43:33,417
+E você só tem um detonador.
+
+1226
+01:43:36,908 --> 01:43:38,362
+Não podem vencer.
+
+1227
+01:43:41,657 --> 01:43:43,218
+Tenho companhia.
+
+1228
+01:43:44,761 --> 01:43:46,261
+Dê-me o detonador.
+
+1229
+01:43:48,391 --> 01:43:51,033
+Exploda, Papi!
+Exploda agora!
+
+1230
+01:44:01,431 --> 01:44:02,942
+Não posso.
+
+1231
+01:44:03,593 --> 01:44:05,775
+Não posso matar
+Sarah Connor.
+
+1232
+01:44:05,776 --> 01:44:08,695
+Você precisa!
+Eu ordeno!
+
+1233
+01:44:12,668 --> 01:44:14,263
+Ele não pode.
+
+1234
+01:44:14,943 --> 01:44:16,276
+E eu também não.
+
+1235
+01:44:17,149 --> 01:44:20,059
+Porque se você morrer,
+ele apertará aquele botão.
+
+1236
+01:44:21,327 --> 01:44:22,627
+Sarah!
+
+1237
+01:45:01,714 --> 01:45:03,014
+Sarah!
+
+1238
+01:45:04,101 --> 01:45:05,714
+O detonador está destruído.
+
+1239
+01:45:06,526 --> 01:45:08,251
+Deve haver outra saída.
+Venha.
+
+1240
+01:45:37,767 --> 01:45:40,629
+Não, Papi!
+Não, não, não!
+
+1241
+01:45:44,773 --> 01:45:47,319
+Eu sei como controlar
+esse lugar.
+
+1242
+01:45:47,320 --> 01:45:49,063
+Sei muitas coisas agora.
+
+1243
+01:45:49,064 --> 01:45:52,412
+Precisam entender
+que perderam.
+
+1244
+01:45:52,413 --> 01:45:54,869
+Não, ainda não perdemos.
+Vamos!
+
+1245
+01:46:07,674 --> 01:46:10,015
+Carga moldada.
+Forte o bastante para entrarmos,
+
+1246
+01:46:10,016 --> 01:46:11,768
+pequena bastante
+para não nos matar.
+
+1247
+01:46:11,769 --> 01:46:13,210
+Você tem um plano, certo?
+
+1248
+01:46:13,589 --> 01:46:14,929
+Teoricamente.
+
+1249
+01:46:34,569 --> 01:46:35,990
+O que disse?
+
+1250
+01:46:38,619 --> 01:46:40,632
+Acho que não.
+
+1251
+01:46:42,714 --> 01:46:44,056
+<i>John!</i>
+
+1252
+01:46:47,279 --> 01:46:48,612
+Não.
+
+1253
+01:47:03,904 --> 01:47:05,962
+Essa é a coisa
+que atacou o John.
+
+1254
+01:47:05,963 --> 01:47:07,761
+Eu não ataquei o John.
+
+1255
+01:47:08,491 --> 01:47:09,791
+Eu o salvei.
+
+1256
+01:47:11,984 --> 01:47:14,431
+Primatas evoluem
+em milhões de anos.
+
+1257
+01:47:14,432 --> 01:47:16,514
+Eu evoluo em segundos.
+
+1258
+01:47:16,515 --> 01:47:19,652
+E eu estou aqui.
+
+1259
+01:47:26,263 --> 01:47:28,134
+E em exatamente 4 minutos,
+
+1260
+01:47:29,866 --> 01:47:31,570
+estarei
+em todos os lugares.
+
+1261
+01:48:07,928 --> 01:48:12,288
+Você não passa de uma relíquia
+de uma linha do tempo deletada.
+
+1262
+01:48:22,247 --> 01:48:24,910
+Isso é inútil,
+eu sou inevitável.
+
+1263
+01:48:24,911 --> 01:48:27,457
+- Vamos.
+- Minha existência é inevitável.
+
+1264
+01:48:27,966 --> 01:48:30,374
+Por que não podem
+aceitar isso?
+
+1265
+01:48:30,375 --> 01:48:31,899
+Porque somos humanos.
+
+1266
+01:49:01,598 --> 01:49:04,535
+Você nunca foi forte
+o suficiente para me derrotar.
+
+1267
+01:49:07,529 --> 01:49:10,319
+- Não sozinho.
+- John...
+
+1268
+01:49:10,804 --> 01:49:13,193
+Pare agora mesmo.
+
+1269
+01:49:15,399 --> 01:49:17,664
+Quando irão aprender?
+
+1270
+01:49:21,729 --> 01:49:23,153
+Agora, Sarah!
+
+1271
+01:49:52,746 --> 01:49:56,303
+Kyle Reese,
+ative o gerador de campo.
+
+1272
+01:49:56,304 --> 01:49:58,727
+Não com você dentro, Papi.
+Sabe o que acontecerá.
+
+1273
+01:50:00,884 --> 01:50:03,592
+Não, Papi, por favor!
+
+1274
+01:50:03,593 --> 01:50:06,412
+A Skynet está quase livre.
+
+1275
+01:50:06,673 --> 01:50:11,416
+Não posso segurar John Connor
+por muito mais tempo.
+
+1276
+01:50:13,672 --> 01:50:15,162
+Kyle Reese...
+
+1277
+01:50:15,862 --> 01:50:18,620
+Projeta a minha Sarah.
+
+1278
+01:50:18,621 --> 01:50:22,416
+Não, não!
+Não, Papi, não!
+
+1279
+01:50:38,680 --> 01:50:42,370
+Sarah!
+É a única maneira.
+
+1280
+01:50:43,499 --> 01:50:44,799
+Vamos.
+
+1281
+01:51:20,569 --> 01:51:24,095
+<i>- Escaneando. Identifique-se.</i>
+- Sarah Connor.
+
+1282
+01:52:51,775 --> 01:52:54,324
+Tenho que sair daqui.
+Temos que encontrá-lo.
+
+1283
+01:52:54,325 --> 01:52:55,625
+Sarah, ele se foi.
+
+1284
+01:52:58,815 --> 01:53:01,119
+- Ele está...
+- Morto? Sei disso.
+
+1285
+01:53:01,120 --> 01:53:04,167
+Mas não podemos deixar nenhuma
+parte dele, é perigoso.
+
+1286
+01:53:08,864 --> 01:53:10,164
+Ele amava você.
+
+1287
+01:53:16,953 --> 01:53:20,064
+Todos que me amam,
+todos eles,
+
+1288
+01:53:21,604 --> 01:53:22,970
+morrem.
+
+1289
+01:53:24,250 --> 01:53:25,597
+Nem todos.
+
+1290
+01:53:26,260 --> 01:53:27,734
+Não dessa vez.
+
+1291
+01:53:41,400 --> 01:53:44,151
+Você precisa entender
+que a Skynet já era.
+
+1292
+01:53:45,983 --> 01:53:47,283
+Você está livre.
+
+1293
+01:53:49,014 --> 01:53:53,205
+Pela primeira vez,
+pode escolher a vida que quiser.
+
+1294
+01:53:55,008 --> 01:53:56,767
+A vida que quiser.
+
+1295
+01:54:00,858 --> 01:54:03,062
+E se eu não souber como?
+
+1296
+01:54:08,889 --> 01:54:12,689
+Bem, já que estamos prestes
+a ficar sem ar,
+
+1297
+01:54:12,690 --> 01:54:15,936
+eu diria que não tem
+que se preocupar com isso.
+
+1298
+01:54:28,826 --> 01:54:32,034
+- Olá, Sarah Connor.
+- Papi!
+
+1299
+01:54:35,301 --> 01:54:40,174
+- Achei que estava morto.
+- Não. Só fui atualizado.
+
+1300
+01:54:40,175 --> 01:54:41,582
+E o John?
+
+1301
+01:54:42,765 --> 01:54:45,948
+As partes construtivas dele
+não sobreviveriam à explosão.
+
+1302
+01:54:47,575 --> 01:54:50,024
+Significa que só resta
+uma coisa a fazer.
+
+1303
+01:55:03,190 --> 01:55:04,764
+Calma, garoto, o que foi?
+
+1304
+01:55:12,427 --> 01:55:16,550
+- Oi, Kyle.
+- Oi, o que está fazendo aqui?
+
+1305
+01:55:18,490 --> 01:55:21,828
+Um amigo meu precisa
+falar com você, tudo bem?
+
+1306
+01:55:22,418 --> 01:55:24,016
+Acho que sim.
+
+1307
+01:55:32,056 --> 01:55:33,356
+Obrigada.
+
+1308
+01:55:48,986 --> 01:55:50,346
+Gosto dela.
+
+1309
+01:55:53,565 --> 01:55:55,012
+É, eu também.
+
+1310
+01:55:56,729 --> 01:55:59,068
+Isso vai soar estranho...
+
+1311
+01:56:01,037 --> 01:56:03,154
+mas há algo que preciso
+que se lembre.
+
+1312
+01:56:03,744 --> 01:56:06,810
+- Uma mensagem.
+- Para quem eu digo?
+
+1313
+01:56:09,292 --> 01:56:10,729
+Para você mesmo.
+
+1314
+01:56:11,808 --> 01:56:13,246
+Várias vezes.
+
+1315
+01:56:14,619 --> 01:56:16,019
+Está pronto?
+
+1316
+01:56:19,170 --> 01:56:20,686
+É assim...
+
+1317
+01:56:22,576 --> 01:56:26,715
+Lembre-se,
+Gênesis é a Skynet.
+
+1318
+01:56:32,577 --> 01:56:34,856
+Kyle Reese é um bom homem.
+
+1319
+01:56:41,462 --> 01:56:42,762
+Sim, ele é.
+
+1320
+01:56:49,820 --> 01:56:51,249
+E agora?
+
+1321
+01:56:53,510 --> 01:56:54,810
+Você está certo.
+
+1322
+01:56:57,668 --> 01:56:59,208
+Posso escolher.
+
+1323
+01:57:19,992 --> 01:57:22,052
+Isso é muito assustador,
+certo?
+
+1324
+01:57:25,596 --> 01:57:27,270
+Você se acostuma.
+
+1325
+01:57:41,305 --> 01:57:42,806
+<i>Tinha acabado.</i>
+
+1326
+01:57:43,930 --> 01:57:45,613
+<i>A Skynet
+tinha sido destruída.</i>
+
+1327
+01:57:46,860 --> 01:57:49,206
+<i>E agora um caminho
+tornou-se muitos.</i>
+
+1328
+01:57:49,957 --> 01:57:51,801
+<i>Mas as dúvidas permanecem.</i>
+
+1329
+01:57:51,802 --> 01:57:54,143
+<i>Procuraremos
+pelas respostas juntos.</i>
+
+1330
+01:57:54,604 --> 01:57:56,722
+<i>Mas de uma coisa
+temos certeza.</i>
+
+1331
+01:57:57,712 --> 01:57:59,668
+<i>O futuro não está traçado.</i>
+
+1332
+01:58:00,067 --> 01:58:03,069
+<b>Entregue-se à sua inSanidade!
+Legende conosco.</b>
+
+1333
+01:58:03,070 --> 01:58:06,270
+<b>www.inSanos.tv
+twitter.com/inSanosTV</b>
+
+1334
+01:58:07,305 --> 01:58:13,529
+Por favor, avalie esta legenda em www.osdb.link/5vyqx
+Ajude outros usuários a escolher as melhores legendas.

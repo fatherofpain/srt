@@ -1,0 +1,4374 @@
+1
+00:00:18,600 --> 00:00:20,629
+<font color=#FFFF00>Powertron!</font>
+
+2
+00:00:20,630 --> 00:00:23,060
+<font color=#FFFF00>Ataque especial!</font>
+
+3
+00:00:26,939 --> 00:00:31,969
+<font color=#FFFF00>Malditos! Eu pego vocês
+na próxima vez, Powertron!</font>
+
+4
+00:00:33,449 --> 00:00:34,878
+<font color=#FFFF00>Espere aí, Kingburg!</font>
+
+5
+00:00:34,879 --> 00:00:37,118
+<font color=#FFFF00>Droga! Ele fugiu?</font>
+
+6
+00:00:37,119 --> 00:00:41,948
+<font color=#FFFF00>No entanto, nós Powertrons
+manteremos a paz da rede!</font>
+
+7
+00:00:51,277 --> 00:00:53,696
+<font color=#FFFF00><i>Não foi nada parecido
+com a TV.</i></font>
+
+8
+00:00:53,697 --> 00:00:55,627
+<font color=#FFFF00><i>Foi tão malfeito!</i></font>
+
+9
+00:00:56,157 --> 00:00:58,036
+<font color=#FFFF00>- Vamos ver um filme.
+- Certo.</font>
+
+10
+00:00:58,037 --> 00:01:00,453
+<font color=#FFFF00>Cara, isso foi muito caro.</font>
+
+11
+00:01:01,412 --> 00:01:04,080
+<font color=#FFFF00>Como eu disse, é daquele
+show em Hiroshima.</font>
+
+12
+00:01:04,414 --> 00:01:06,045
+<font color=#FFFF00>Aquele que eu não pude ir?</font>
+
+13
+00:01:06,046 --> 00:01:10,415
+<font color=#FFFF00>Quando Rei se atrapalhou, porque
+aqueles caras começaram a brigar</font>
+
+14
+00:01:10,416 --> 00:01:14,745
+<font color=#FFFF00>E este é o MiniDisc de quando
+Mima cantou no lugar da Rei.</font>
+
+15
+00:01:14,746 --> 00:01:16,934
+<font color=#FFFF00>Este é um precioso artigo
+de colecionador.</font>
+
+16
+00:01:16,935 --> 00:01:19,724
+<font color=#FFFF00>Ah, sim.
+Aquele rumor é verdadeiro?</font>
+
+17
+00:01:19,725 --> 00:01:21,115
+<font color=#FFFF00>Qual?
+Aquele sobre a Mima?</font>
+
+18
+00:01:21,116 --> 00:01:22,854
+<font color=#FFFF00>Sim, é o que estão dizendo.</font>
+
+19
+00:01:22,855 --> 00:01:24,165
+<font color=#FFFF00>400 ienes.</font>
+
+20
+00:01:24,755 --> 00:01:26,274
+<font color=#FFFF00>Última edição do CHAMMINGBIRD.</font>
+
+21
+00:01:26,275 --> 00:01:28,479
+<font color=#FFFF00>Faltam três,
+só faltam três.</font>
+
+22
+00:01:29,438 --> 00:01:30,744
+<font color=#FFFF00>400 ienes.</font>
+
+23
+00:01:31,189 --> 00:01:33,303
+<font color=#FFFF00>Claro, eu li sobre isso também.</font>
+
+24
+00:01:33,304 --> 00:01:36,203
+<font color=#FFFF00>Supostamente,
+aqui será o último show dela.</font>
+
+25
+00:01:36,204 --> 00:01:40,156
+<font color=#FFFF00>Em um show mequetrefe desse?
+Isso é muito frio da parte dela.</font>
+
+26
+00:01:41,044 --> 00:01:44,142
+<font color=#FFFF00>Há muitos artistas solo
+ultimamente.</font>
+
+27
+00:01:44,143 --> 00:01:47,182
+<font color=#FFFF00>Mas será que a Mima
+pode mesmo atuar?</font>
+
+28
+00:01:47,183 --> 00:01:49,282
+<font color=#FFFF00>Olha, são aqueles caras ali.</font>
+
+29
+00:01:49,283 --> 00:01:51,682
+<font color=#FFFF00>Os caras que causaram problemas
+semana passada.</font>
+
+30
+00:01:51,683 --> 00:01:55,982
+<font color=#FFFF00>Espero que eles não façam
+o mesmo hoje.</font>
+
+31
+00:01:58,092 --> 00:02:00,421
+<font color=#FFFF00>Estou ficando nervosa.</font>
+
+32
+00:02:00,422 --> 00:02:02,291
+<font color=#FFFF00>Espere, fique quieta!</font>
+
+33
+00:02:02,292 --> 00:02:04,861
+<font color=#FFFF00>Ei, o que aconteceu aqui?
+Está todo desfiado!</font>
+
+34
+00:02:04,862 --> 00:02:06,181
+<font color=#FFFF00>O que está fazendo?</font>
+
+35
+00:02:06,182 --> 00:02:07,571
+<font color=#FFFF00>Me tragam uma fita adesiva!</font>
+
+36
+00:02:07,572 --> 00:02:08,890
+<font color=#FFFF00>Alô, sim.</font>
+
+37
+00:02:08,891 --> 00:02:11,530
+<font color=#FFFF00>Lembre-se de sua entrada
+na segunda música, Mima!</font>
+
+38
+00:02:11,531 --> 00:02:14,480
+<font color=#FFFF00>- Rumi, não me pressione!
+- Preciso de uma bebida!</font>
+
+39
+00:02:14,481 --> 00:02:17,050
+<font color=#FFFF00>- Desculpe, ligo de volta.
+- Pode beber após o show.</font>
+
+40
+00:02:17,051 --> 00:02:19,109
+<font color=#FFFF00>Certo, moças.
+Vamos lá! Está na hora.</font>
+
+41
+00:02:22,319 --> 00:02:24,910
+<font color=#FFFF00><i>Certo, pessoal.
+Parece que estão prontas.</i></font>
+
+42
+00:02:27,580 --> 00:02:30,961
+<font color=#FFFF00><i>Sem mais delongas, por favor,
+recebam no nosso palco...</i></font>
+
+43
+00:02:30,962 --> 00:02:32,562
+<font color=#FFFF00><i>CHAM!</i></font>
+
+44
+00:02:38,236 --> 00:02:41,736
+<font color=#FFFF00>- Art Subs -
+11 anos fazendo Arte para você!</font>
+
+45
+00:02:41,737 --> 00:02:45,237
+<font color=#FFFF00>Legenda
+- Pankeka -</font>
+
+46
+00:02:45,238 --> 00:02:48,737
+<font color=#FFFF00>Revisão
+- Murrice -</font>
+
+47
+00:03:03,957 --> 00:03:07,036
+<font color=#FFFF00><i>E se às vezes
+Você sente falta do seu amor</i></font>
+
+48
+00:03:07,037 --> 00:03:10,076
+<font color=#FFFF00><i>Envie um coraçãozinho para ela</i></font>
+
+49
+00:03:10,077 --> 00:03:13,575
+<font color=#FFFF00><i>E ela estará lá
+Para você com o amor dela</i></font>
+
+50
+00:03:13,576 --> 00:03:15,702
+<font color=#FFFF00><i>Esperando só por você!</i></font>
+
+51
+00:03:16,077 --> 00:03:18,625
+<font color=#FFFF00><i>E quando você amá-la, amá-la</i></font>
+
+52
+00:03:18,626 --> 00:03:23,085
+<font color=#FFFF00><i>Ela será um anjinho
+Um anjinho em seu coração</i></font>
+
+53
+00:03:23,086 --> 00:03:26,344
+<font color=#FFFF00><i>Você tem que se esforçar
+Se esforçar pelo amor dela.</i></font>
+
+54
+00:03:26,345 --> 00:03:29,514
+<font color=#FFFF00><i>E então para sempre
+Para sempre ela será</i></font>
+
+55
+00:03:29,515 --> 00:03:35,429
+<font color=#FFFF00><i>Um anjo feliz no seu coração
+E vocês estarão sempre juntos</i></font>
+
+56
+00:04:06,042 --> 00:04:10,702
+<font color=#FFFF00>Mima! Mima! Mima!</font>
+
+57
+00:04:19,251 --> 00:04:22,281
+<font color=#FFFF00><i>Mima deveria estar atuando,
+não cantando!</i></font>
+
+58
+00:04:26,691 --> 00:04:28,590
+<font color=#FFFF00>Não posso fazer isso.</font>
+
+59
+00:04:28,591 --> 00:04:30,399
+<font color=#FFFF00>Mika...</font>
+
+60
+00:04:30,400 --> 00:04:33,229
+<font color=#FFFF00>Eles a querem em uma série
+de drama.</font>
+
+61
+00:04:33,230 --> 00:04:35,169
+<font color=#FFFF00>Não há se rejeita
+uma oferta dessa.</font>
+
+62
+00:04:35,170 --> 00:04:37,999
+<font color=#FFFF00>Ela pode fazer os dois.
+Ela pode atuar e cantar!</font>
+
+63
+00:04:38,000 --> 00:04:41,339
+<font color=#FFFF00>A agenda dela com as outras duas
+está se tornando incompatível.</font>
+
+64
+00:04:41,340 --> 00:04:45,178
+<font color=#FFFF00>Escute, ela não passou por tudo
+isso para ser atriz!</font>
+
+65
+00:04:45,179 --> 00:04:47,078
+<font color=#FFFF00>O produtor da série
+não se importa,</font>
+
+66
+00:04:47,079 --> 00:04:48,958
+<font color=#FFFF00>ele acha que Mima
+é uma ótima atriz.</font>
+
+67
+00:04:48,959 --> 00:04:52,179
+<font color=#FFFF00>Claro, mas e os sentimentos
+da Mima?</font>
+
+68
+00:04:53,289 --> 00:04:54,608
+<font color=#FFFF00><i>Só por você</i></font>
+
+69
+00:04:54,609 --> 00:04:57,157
+<font color=#FFFF00><i>E quando você amá-la, amá-la.</i></font>
+
+70
+00:04:57,158 --> 00:05:01,617
+<font color=#FFFF00><i>Ela será um anjinho
+Um anjinho em seu coração</i></font>
+
+71
+00:05:01,618 --> 00:05:04,877
+<font color=#FFFF00><i>Você tem que se esforçar
+Se esforçar pelo amor dela</i></font>
+
+72
+00:05:04,878 --> 00:05:08,047
+<font color=#FFFF00><i>E então para sempre
+Para sempre ela será...</i></font>
+
+73
+00:05:08,048 --> 00:05:13,957
+<font color=#FFFF00><i>Um anjo feliz no seu coração
+E vocês estarão sempre juntos</i></font>
+
+74
+00:05:28,516 --> 00:05:30,915
+<font color=#FFFF00>Muito obrigada.
+Vocês são demais!</font>
+
+75
+00:05:30,916 --> 00:05:34,121
+<font color=#FFFF00>Foi um show divertido,
+mas só temos mais uma música.</font>
+
+76
+00:05:34,122 --> 00:05:36,707
+<font color=#FFFF00>Acabamos de chegar aqui.
+Cantem mais de uma!</font>
+
+77
+00:05:39,877 --> 00:05:45,014
+<font color=#FFFF00>Antes da nossa última música,
+temos novidades para contar.</font>
+
+78
+00:05:45,015 --> 00:05:46,334
+<font color=#FFFF00>Está vendo?</font>
+
+79
+00:05:46,335 --> 00:05:50,833
+<font color=#FFFF00>Eu, Mima Kirigoe, me diverti
+como membro da CHAM.</font>
+
+80
+00:05:50,834 --> 00:05:52,144
+<font color=#FFFF00>Sai da minha frente!</font>
+
+81
+00:05:52,597 --> 00:05:54,263
+<font color=#FFFF00>Eu disse para sair
+do meu caminho!</font>
+
+82
+00:05:54,264 --> 00:05:56,684
+<font color=#FFFF00>Tire suas mãos nojentas
+de mim, sua aberração!</font>
+
+83
+00:06:02,731 --> 00:06:06,072
+<font color=#FFFF00>Não pode me dizer o que eu devo
+ou não fazer, babaca!</font>
+
+84
+00:06:06,073 --> 00:06:08,523
+<font color=#FFFF00>- Vão embora!
+- O que foi? Que diabos?</font>
+
+85
+00:06:08,524 --> 00:06:10,774
+<font color=#FFFF00>Quem pensa que é
+para me mandar embora, cuzão?</font>
+
+86
+00:06:10,775 --> 00:06:12,225
+<font color=#FFFF00>Não fui eu,
+eu não disse nada.</font>
+
+87
+00:06:13,116 --> 00:06:16,461
+<font color=#FFFF00>Quem fez isso?
+Apareça aqui quem fez isso!</font>
+
+88
+00:06:16,462 --> 00:06:18,431
+<font color=#FFFF00>Vão pra casa!
+Vão pra casa!</font>
+
+89
+00:06:18,432 --> 00:06:21,852
+<font color=#FFFF00>- Vão pra casa! Vão pra casa!
+- Droga.</font>
+
+90
+00:06:22,362 --> 00:06:24,301
+<font color=#FFFF00>Droga,
+são aqueles caras de novo.</font>
+
+91
+00:06:24,302 --> 00:06:25,877
+<font color=#FFFF00>Vamos cancelar o show.</font>
+
+92
+00:06:25,878 --> 00:06:27,212
+<font color=#FFFF00>Mas hoje é o...</font>
+
+93
+00:06:28,571 --> 00:06:30,371
+<font color=#FFFF00>Calem a boca, malditos!</font>
+
+94
+00:06:31,841 --> 00:06:35,880
+<font color=#FFFF00>Vão pra casa!
+Vão pra casa!</font>
+
+95
+00:06:35,881 --> 00:06:37,341
+<font color=#FFFF00>Parem agora!</font>
+
+96
+00:06:43,560 --> 00:06:44,870
+<font color=#FFFF00>Hoje à noite...</font>
+
+97
+00:06:45,354 --> 00:06:48,880
+<font color=#FFFF00>Hoje, eu só queria me divertir
+com vocês!</font>
+
+98
+00:06:50,330 --> 00:06:54,129
+<font color=#FFFF00>Uma zé-ninguém metida,
+você quer diversão?</font>
+
+99
+00:06:55,359 --> 00:06:57,089
+<font color=#FFFF00>Mas que diabos?</font>
+
+100
+00:07:00,899 --> 00:07:02,229
+<font color=#FFFF00>Que merda, sua aberração!</font>
+
+101
+00:07:02,995 --> 00:07:04,319
+<font color=#FFFF00>Vamos, pessoal.</font>
+
+102
+00:07:21,220 --> 00:07:24,306
+<font color=#FFFF00>Na verdade, o que quero
+dizer é que...</font>
+
+103
+00:07:26,457 --> 00:07:29,436
+<font color=#FFFF00>Este é o último show da Mima
+com a CHAM.</font>
+
+104
+00:07:29,437 --> 00:07:30,747
+<font color=#FFFF00>O quê?
+Por quê?</font>
+
+105
+00:07:35,296 --> 00:07:37,276
+<font color=#FFFF00>Muito obrigada a todos.</font>
+
+106
+00:07:37,277 --> 00:07:39,895
+<font color=#FFFF00>Estou muito feliz que passei
+os últimos 2 anos e meio</font>
+
+107
+00:07:39,896 --> 00:07:42,836
+<font color=#FFFF00>sendo parte da CHAM
+e dividindo tudo com vocês.</font>
+
+108
+00:07:43,606 --> 00:07:48,327
+<font color=#FFFF00>Espero que eu possa divertir
+vocês da mesma forma como atriz.</font>
+
+109
+00:07:48,328 --> 00:07:50,455
+<font color=#FFFF00>Então agora, por favor,
+se me permitem...</font>
+
+110
+00:07:51,945 --> 00:07:54,204
+<font color=#FFFF00>Esta será minha
+última música.</font>
+
+111
+00:07:54,205 --> 00:07:56,627
+<font color=#FFFF00>- Mima.
+- Não nos deixe, por favor.</font>
+
+112
+00:08:06,637 --> 00:08:09,473
+<font color=#FFFF00>Sabe, isso faz todo sentido
+do ponto de vista da agência.</font>
+
+113
+00:08:09,474 --> 00:08:11,932
+<font color=#FFFF00>Estrelas pop simplesmente
+não dão dinheiro, né?</font>
+
+114
+00:08:11,933 --> 00:08:13,663
+<font color=#FFFF00>Metamorfose, né?</font>
+
+115
+00:08:13,664 --> 00:08:17,313
+<font color=#FFFF00><i>Eu me lembro daquele calor</i></font>
+
+116
+00:08:17,912 --> 00:08:21,206
+<font color=#FFFF00><i>que você me deu</i></font>
+
+117
+00:08:22,532 --> 00:08:28,532
+<font color=#FFFF00><i>Lembro daqueles dias distantes
+Quando nos amávamos</i></font>
+
+118
+00:08:30,568 --> 00:08:34,216
+<font color=#FFFF00><i>Nada era melhor
+Do que aqueles dias</i></font>
+
+119
+00:08:35,330 --> 00:08:38,312
+<font color=#FFFF00><i>Do sol
+Passando entre as árvores</i></font>
+
+120
+00:08:39,531 --> 00:08:45,531
+<font color=#FFFF00><i>Lembro daqueles dias distantes
+Quando nos amávamos</i></font>
+
+121
+00:08:47,392 --> 00:08:51,709
+<font color=#FFFF00><i>Agora eu sei
+Me sinto uma covarde</i></font>
+
+122
+00:08:51,710 --> 00:08:55,282
+<font color=#FFFF00><i>Não sinto dor
+Apenas continuo vivendo</i></font>
+
+123
+00:08:55,797 --> 00:08:59,912
+<font color=#FFFF00><i>Meu rosto está pálido
+Como uma florzinha branca</i></font>
+
+124
+00:08:59,913 --> 00:09:01,641
+<font color=#FFFF00><i>Será que ainda acredito...</i></font>
+
+125
+00:09:02,309 --> 00:09:06,249
+<font color=#FFFF00>Mima!
+Não nos deixe! Não desista!</font>
+
+126
+00:09:12,519 --> 00:09:14,827
+<font color=#FFFF00>Mima! Mima!
+Aqui, tome isto.</font>
+
+127
+00:09:14,828 --> 00:09:16,138
+<font color=#FFFF00>Obrigada.</font>
+
+128
+00:09:16,528 --> 00:09:19,928
+<font color=#FFFF00>Estou sempre vendo
+"O Quarto da Mima"!</font>
+
+129
+00:09:40,986 --> 00:09:43,768
+<font color=#FFFF00>Nossa!
+Este queijo já estragou!</font>
+
+130
+00:09:58,595 --> 00:10:02,225
+<font color=#FFFF00>Desculpem,
+esqueci de alimentá-los ontem.</font>
+
+131
+00:10:15,814 --> 00:10:18,093
+<font color=#FFFF00><i>O terremoto que aconteceu
+no condado de Mie</i></font>
+
+132
+00:10:18,094 --> 00:10:20,642
+<font color=#FFFF00><i>mexeu com outras cidades
+em toda a região.</i></font>
+
+133
+00:10:20,643 --> 00:10:24,602
+<font color=#FFFF00><i>O governo informa 200 mortos,
+mas o número total de vítimas</i></font>
+
+134
+00:10:24,603 --> 00:10:29,184
+<font color=#FFFF00><i>ainda será determinado, pois há
+perdidos em meio aos escombros.</i></font>
+
+135
+00:10:29,185 --> 00:10:31,941
+<font color=#FFFF00><i>As autoridades já chamaram
+as tropas para o resgate.</i></font>
+
+136
+00:10:31,942 --> 00:10:34,440
+<font color=#FFFF00><i>No entanto,
+já está escurecendo</i></font>
+
+137
+00:10:34,441 --> 00:10:36,842
+<font color=#FFFF00><i>e a busca pelos sobreviventes
+seria um problema.</i></font>
+
+138
+00:10:39,702 --> 00:10:43,172
+<font color=#FFFF00>Muito bem, garotas. Obrigada
+por todo o trabalho e diversão.</font>
+
+139
+00:10:44,158 --> 00:10:45,950
+<font color=#FFFF00>Tchau, tchau, Mima,
+a estrela pop.</font>
+
+140
+00:10:55,281 --> 00:10:58,489
+<font color=#FFFF00>"Cante para nós para sempre."</font>
+
+141
+00:10:58,490 --> 00:11:01,150
+<font color=#FFFF00>Não posso fazer isso.</font>
+
+142
+00:11:08,000 --> 00:11:10,648
+<font color=#FFFF00>"Eu sempre gosto de olhar
+O Quarto da Mima".</font>
+
+143
+00:11:10,649 --> 00:11:11,968
+<font color=#FFFF00>"Estou conectado a você."</font>
+
+144
+00:11:11,969 --> 00:11:13,949
+<font color=#FFFF00>"Coloquei um link
+ao Quarto da Mima."</font>
+
+145
+00:11:14,639 --> 00:11:16,209
+<font color=#FFFF00>Que droga é essa?</font>
+
+146
+00:11:30,408 --> 00:11:32,827
+<font color=#FFFF00>- Alô?
+<i>- Mima, está em casa!</i></font>
+
+147
+00:11:33,148 --> 00:11:35,080
+<font color=#FFFF00>É você, mãe!</font>
+
+148
+00:11:35,788 --> 00:11:38,987
+<font color=#FFFF00>Sim, eu estou bem!
+Como você está?</font>
+
+149
+00:11:40,227 --> 00:11:43,226
+<font color=#FFFF00>Você fez isso?
+Sério?</font>
+
+150
+00:11:43,227 --> 00:11:47,336
+<font color=#FFFF00>Sim, hoje foi a última.
+Não cantarei mais.</font>
+
+151
+00:11:47,337 --> 00:11:50,305
+<font color=#FFFF00><i>O que está dizendo?
+Você sempre quis ser cantora.</i></font>
+
+152
+00:11:50,306 --> 00:11:53,435
+<font color=#FFFF00>Eu te disse, mãe.
+Vou ser atriz.</font>
+
+153
+00:11:53,436 --> 00:11:55,987
+<font color=#FFFF00><i>Querida, nós sempre esperamos
+que fosse uma cantora.</i></font>
+
+154
+00:11:55,988 --> 00:11:58,142
+<font color=#FFFF00><i>Sem falar
+do seu tio em Yamaguchi,</i></font>
+
+155
+00:11:58,143 --> 00:12:01,145
+<font color=#FFFF00><i>ele compra 20 cópias toda vez,
+está entendendo?</i></font>
+
+156
+00:12:01,476 --> 00:12:04,814
+<font color=#FFFF00>Você não entende como
+essa indústria funciona, mãe.</font>
+
+157
+00:12:04,815 --> 00:12:07,454
+<font color=#FFFF00><i>Mas cantar não é
+o que você faz de melhor?</i></font>
+
+158
+00:12:07,455 --> 00:12:10,284
+<font color=#FFFF00>Mãe, a imagem de estrela pop
+está me sufocando!</font>
+
+159
+00:12:10,285 --> 00:12:13,084
+<font color=#FFFF00>Além disso, hoje em dia
+as estrelas pop são...</font>
+
+160
+00:12:13,085 --> 00:12:15,060
+<font color=#FFFF00>Espere, uma outra ligação.</font>
+
+161
+00:12:17,224 --> 00:12:18,524
+<font color=#FFFF00>Residência dos Kirigoe.</font>
+
+162
+00:12:19,764 --> 00:12:21,074
+<font color=#FFFF00>Alô?</font>
+
+163
+00:12:22,834 --> 00:12:24,144
+<font color=#FFFF00>Alô?</font>
+
+164
+00:12:28,133 --> 00:12:31,548
+<font color=#FFFF00>Foi engano.
+Não disseram nada.</font>
+
+165
+00:12:32,973 --> 00:12:35,312
+<font color=#FFFF00>Sim, eu sei o que significa.</font>
+
+166
+00:12:35,313 --> 00:12:37,682
+<font color=#FFFF00>Ah, espere.
+A banheira.</font>
+
+167
+00:12:37,683 --> 00:12:39,384
+<font color=#FFFF00>Me ligue de volta
+em cinco minutos.</font>
+
+168
+00:12:45,352 --> 00:12:47,720
+<font color=#FFFF00>Mãe, não pode esperar
+um minuto?</font>
+
+169
+00:12:49,792 --> 00:12:52,239
+<font color=#FFFF00>Um fax?
+De quem?</font>
+
+170
+00:12:58,361 --> 00:13:03,361
+<font color=#FFFF00>TRAIDORA</font>
+
+171
+00:13:17,841 --> 00:13:19,842
+<font color=#FFFF00><i>Desculpe, quem é você?</i></font>
+
+172
+00:13:21,051 --> 00:13:22,803
+<font color=#FFFF00>Desculpe, quem é você?</font>
+
+173
+00:13:23,289 --> 00:13:25,649
+<font color=#FFFF00>Desculpe, quem é você?</font>
+
+174
+00:13:31,422 --> 00:13:34,074
+<font color=#FFFF00>Deve ter sido a primeira tomada.
+As duas estão boas.</font>
+
+175
+00:13:41,608 --> 00:13:45,267
+<font color=#FFFF00>O que acha, Rumi?
+Sabe o que significa?</font>
+
+176
+00:13:50,871 --> 00:13:54,041
+<font color=#FFFF00>É só um site.
+Alguém pegou da internet.</font>
+
+177
+00:13:54,487 --> 00:13:56,916
+<font color=#FFFF00>Ah, é algo bem popular
+ultimamente.</font>
+
+178
+00:13:56,917 --> 00:13:58,753
+<font color=#FFFF00>Então, o que significa isso?</font>
+
+179
+00:13:59,686 --> 00:14:01,425
+<font color=#FFFF00>Como eu posso descrever?</font>
+
+180
+00:14:01,426 --> 00:14:04,365
+<font color=#FFFF00>É tipo uma rede no computador.</font>
+
+181
+00:14:04,366 --> 00:14:05,685
+<font color=#FFFF00>Sim, e...?</font>
+
+182
+00:14:05,686 --> 00:14:08,145
+<font color=#FFFF00>Bem, parece que essa pessoa,
+quem quer seja</font>
+
+183
+00:14:08,146 --> 00:14:11,848
+<font color=#FFFF00>pôs um link ao "Quarto da Mima",
+que é o nome do site.</font>
+
+184
+00:14:13,035 --> 00:14:15,694
+<font color=#FFFF00>- Faz algum sentido?
+- Nem um pouquinho!</font>
+
+185
+00:14:15,695 --> 00:14:18,874
+<font color=#FFFF00>Tudo certo!
+Desculpe por fazê-los esperar.</font>
+
+186
+00:14:18,875 --> 00:14:20,982
+<font color=#FFFF00>Estamos prontos
+para a próxima tomada!</font>
+
+187
+00:14:27,738 --> 00:14:29,044
+<font color=#FFFF00>Não me faça rir.</font>
+
+188
+00:14:30,014 --> 00:14:31,659
+<font color=#FFFF00>Mas eu gosto de ouvir
+você rindo.</font>
+
+189
+00:14:32,514 --> 00:14:33,883
+<font color=#FFFF00>5 segundos.</font>
+
+190
+00:14:33,884 --> 00:14:36,284
+<font color=#FFFF00>4, 3, 2...</font>
+
+191
+00:14:38,623 --> 00:14:41,042
+<font color=#FFFF00>A irmã caçula da vítima
+do assassinato está aqui.</font>
+
+192
+00:14:41,043 --> 00:14:42,626
+<font color=#FFFF00>Gostaria de vê-la?</font>
+
+193
+00:14:42,627 --> 00:14:43,933
+<font color=#FFFF00>Sr. Yamashiro.</font>
+
+194
+00:14:45,338 --> 00:14:46,652
+<font color=#FFFF00>Sim?</font>
+
+195
+00:14:46,653 --> 00:14:50,759
+<font color=#FFFF00>Sabe por que o culpado arranca
+a pele de suas vítimas?</font>
+
+196
+00:14:52,102 --> 00:14:55,973
+<font color=#FFFF00>Eu suponho que ele tenha
+estímulos sexuais com os atos.</font>
+
+197
+00:14:56,582 --> 00:14:58,307
+<font color=#FFFF00>Ele quer se tornar uma...</font>
+
+198
+00:14:58,308 --> 00:15:00,018
+<font color=#FFFF00>Perdoe-me,
+se tornar o quê?</font>
+
+199
+00:15:00,582 --> 00:15:01,892
+<font color=#FFFF00>Uma mulher.</font>
+
+200
+00:15:02,436 --> 00:15:03,891
+<font color=#FFFF00>Ou talvez...</font>
+
+201
+00:15:04,711 --> 00:15:06,021
+<font color=#FFFF00><i>Corta!</i></font>
+
+202
+00:15:07,721 --> 00:15:10,819
+<font color=#FFFF00>Eri Ochiai é uma ótima atriz,
+apesar de tudo.</font>
+
+203
+00:15:10,820 --> 00:15:14,580
+<font color=#FFFF00>Ela é uma pessoa totalmente
+diferente na frente das câmeras.</font>
+
+204
+00:15:14,581 --> 00:15:18,285
+<font color=#FFFF00>- <i>Está ótimo</i>!
+- Certo, cena 32.</font>
+
+205
+00:15:19,411 --> 00:15:21,705
+<font color=#FFFF00>Irmã da Rika,
+estamos esperando por você.</font>
+
+206
+00:15:22,200 --> 00:15:23,510
+<font color=#FFFF00>Já vou!</font>
+
+207
+00:15:24,874 --> 00:15:26,189
+<font color=#FFFF00>- Segure isto.
+- Certo.</font>
+
+208
+00:15:26,190 --> 00:15:27,752
+<font color=#FFFF00>- Está nervosa?
+- Um pouco.</font>
+
+209
+00:15:33,539 --> 00:15:36,529
+<font color=#FFFF00>Ela só tem uma fala,
+por que está nervosa?</font>
+
+210
+00:15:38,749 --> 00:15:41,377
+<font color=#FFFF00>Como está indo nossa estrela
+até agora?</font>
+
+211
+00:15:41,378 --> 00:15:43,850
+<font color=#FFFF00>Sr. Tadokoro,
+ela vai gravar agora.</font>
+
+212
+00:15:48,188 --> 00:15:51,538
+<font color=#FFFF00>"Desculpe, quem é você?"</font>
+
+213
+00:15:51,539 --> 00:15:52,898
+<font color=#FFFF00>"Desculpe..."</font>
+
+214
+00:15:57,007 --> 00:16:00,257
+<font color=#FFFF00>- Foi o que quis dizer.
+- Você acredita nisso?</font>
+
+215
+00:16:23,053 --> 00:16:25,013
+<font color=#FFFF00>- Tem uma caixa de maçãs?
+- Aqui está.</font>
+
+216
+00:16:26,014 --> 00:16:27,315
+<font color=#FFFF00>- Bom dia.
+- Bom dia.</font>
+
+217
+00:16:28,308 --> 00:16:30,824
+<font color=#FFFF00>Bom dia, olá a todos.</font>
+
+218
+00:16:30,825 --> 00:16:32,364
+<font color=#FFFF00>Bom dia.</font>
+
+219
+00:16:32,365 --> 00:16:35,273
+<font color=#FFFF00>- Sr. Shibuya, decidiu vir?
+- Olá, Eri. Como vai?</font>
+
+220
+00:16:35,274 --> 00:16:37,065
+<font color=#FFFF00>Meu roteiro
+está bom para você?</font>
+
+221
+00:16:37,066 --> 00:16:39,863
+<font color=#FFFF00>Suas falas são muito
+difíceis, Sr. Shibuya.</font>
+
+222
+00:16:39,864 --> 00:16:41,383
+<font color=#FFFF00>Acho que terei que desistir.</font>
+
+223
+00:16:41,384 --> 00:16:43,323
+<font color=#FFFF00>Eri, por favor,
+não diga isso.</font>
+
+224
+00:16:43,324 --> 00:16:46,242
+<font color=#FFFF00>É o melhor!
+Eu amei muito.</font>
+
+225
+00:16:46,243 --> 00:16:49,542
+<font color=#FFFF00>- Você se superou!
+- Sua diabinha!</font>
+
+226
+00:16:49,543 --> 00:16:53,172
+<font color=#FFFF00>Eri, querida. Peguei essas
+cartas dos fãs na estação.</font>
+
+227
+00:16:53,173 --> 00:16:54,748
+<font color=#FFFF00>São todas para você.</font>
+
+228
+00:16:54,749 --> 00:16:56,167
+<font color=#FFFF00>Obrigada, Sr. Tejima.</font>
+
+229
+00:16:56,542 --> 00:16:57,843
+<font color=#FFFF00>Kuro?</font>
+
+230
+00:16:59,652 --> 00:17:01,402
+<font color=#FFFF00>Esta não é para você.</font>
+
+231
+00:17:02,352 --> 00:17:04,712
+<font color=#FFFF00>Bem, continue o bom trabalho,
+vou voltar ao meu.</font>
+
+232
+00:17:05,509 --> 00:17:07,927
+<font color=#FFFF00>Então, Sr. Shibuya.
+Tem que me contar.</font>
+
+233
+00:17:07,928 --> 00:17:09,311
+<font color=#FFFF00>Quem é o assassino?</font>
+
+234
+00:17:09,312 --> 00:17:12,056
+<font color=#FFFF00>Desculpe, não posso contar,
+estragaria a diversão.</font>
+
+235
+00:17:14,725 --> 00:17:17,103
+<font color=#FFFF00>Então, o que você vai fazer
+com o assassino?</font>
+
+236
+00:17:17,541 --> 00:17:20,481
+<font color=#FFFF00>Está ficando sem tempo,
+tem que decidir logo.</font>
+
+237
+00:17:22,871 --> 00:17:25,069
+<font color=#FFFF00>Bom dia, Sr. Tejima,
+Sr. Shibuya.</font>
+
+238
+00:17:25,070 --> 00:17:26,869
+<font color=#FFFF00>Como estão indo?</font>
+
+239
+00:17:26,870 --> 00:17:28,180
+<font color=#FFFF00>Como estão?</font>
+
+240
+00:17:28,780 --> 00:17:30,099
+<font color=#FFFF00>Oi, e aí?</font>
+
+241
+00:17:30,100 --> 00:17:32,479
+<font color=#FFFF00>Todo mundo diz que Mima
+está indo bem.</font>
+
+242
+00:17:32,480 --> 00:17:37,100
+<font color=#FFFF00>Se for esse o caso, não acham
+que ela merece mais?</font>
+
+243
+00:17:37,621 --> 00:17:39,428
+<font color=#FFFF00>Ouviu isso, Shibuya?</font>
+
+244
+00:17:39,429 --> 00:17:41,758
+<font color=#FFFF00>Não olhe para mim,
+não é decisão minha.</font>
+
+245
+00:17:41,759 --> 00:17:43,548
+<font color=#FFFF00>Me ajudem aqui, por favor.</font>
+
+246
+00:17:43,549 --> 00:17:47,297
+<font color=#FFFF00>Poderiam fazê-los usar a Mima
+um pouco mais?</font>
+
+247
+00:17:47,999 --> 00:17:50,591
+<font color=#FFFF00>Ela é uma estrela pop, entende?</font>
+
+248
+00:17:50,998 --> 00:17:52,427
+<font color=#FFFF00>Eles são difíceis de usar.</font>
+
+249
+00:17:52,428 --> 00:17:55,847
+<font color=#FFFF00>Sem problemas, ela já não é mais
+uma estrela pop.</font>
+
+250
+00:17:55,848 --> 00:17:57,177
+<font color=#FFFF00>Sério?</font>
+
+251
+00:17:57,178 --> 00:17:59,838
+<font color=#FFFF00>Nós também queremos mudar
+drasticamente a imagem dela.</font>
+
+252
+00:18:00,643 --> 00:18:01,998
+<font color=#FFFF00>Estamos prontos
+para a cena.</font>
+
+253
+00:18:04,563 --> 00:18:06,440
+<font color=#FFFF00>Quase esqueci,
+isto é para a Mima.</font>
+
+254
+00:18:07,107 --> 00:18:10,116
+<font color=#FFFF00>Seu cabelo parece
+brilhar na luz, é muito bonito.</font>
+
+255
+00:18:10,117 --> 00:18:13,326
+<font color=#FFFF00>"Desculpe, quem é você?"</font>
+
+256
+00:18:13,327 --> 00:18:14,637
+<font color=#FFFF00>5 segundos.</font>
+
+257
+00:18:15,087 --> 00:18:18,146
+<font color=#FFFF00>4, 3, 2...</font>
+
+258
+00:18:24,866 --> 00:18:26,176
+<font color=#FFFF00>Sr. Tadokoro?</font>
+
+259
+00:18:27,136 --> 00:18:29,065
+<font color=#FFFF00>Meu Deus!
+O que houve?</font>
+
+260
+00:18:30,920 --> 00:18:32,225
+<font color=#FFFF00>Sr. Tadokoro?</font>
+
+261
+00:18:37,015 --> 00:18:38,325
+<font color=#FFFF00>Estou bem.</font>
+
+262
+00:18:38,975 --> 00:18:41,014
+<font color=#FFFF00>Que diabos foi isso?</font>
+
+263
+00:18:41,015 --> 00:18:43,443
+<font color=#FFFF00>Eu acho que a carta explodiu.</font>
+
+264
+00:18:43,444 --> 00:18:45,523
+<font color=#FFFF00>Chamem uma ambulância!
+Rápido!</font>
+
+265
+00:18:45,524 --> 00:18:46,834
+<font color=#FFFF00>Sim!</font>
+
+266
+00:18:47,184 --> 00:18:51,184
+<font color=#FFFF00>FOI SÓ UM AVISO.
+A PRÓXIMA SERÁ REAL.</font>
+
+267
+00:19:16,282 --> 00:19:18,751
+<font color=#FFFF00>Certo, tudo pronto agora.</font>
+
+268
+00:19:18,752 --> 00:19:21,180
+<font color=#FFFF00>Rumi, você é tão incrível.
+Obrigada!</font>
+
+269
+00:19:21,181 --> 00:19:23,720
+<font color=#FFFF00>Agora, vou te inscrever
+em serviços online, certo?</font>
+
+270
+00:19:23,721 --> 00:19:25,031
+<font color=#FFFF00>Certo.</font>
+
+271
+00:19:27,014 --> 00:19:29,530
+<font color=#FFFF00>Rumi, eu estava
+me perguntando...</font>
+
+272
+00:19:29,531 --> 00:19:30,850
+<font color=#FFFF00>Sobre o quê?</font>
+
+273
+00:19:30,851 --> 00:19:33,894
+<font color=#FFFF00>- Sobre o outro dia...
+- Aquilo?</font>
+
+274
+00:19:33,895 --> 00:19:37,607
+<font color=#FFFF00>Certo,
+número do cartão de crédito...</font>
+
+275
+00:19:38,800 --> 00:19:41,819
+<font color=#FFFF00>Não deveríamos
+ter chamado a polícia?</font>
+
+276
+00:19:42,362 --> 00:19:46,490
+<font color=#FFFF00>Sr. Tadokoro pediu que não,
+ele não quer que façamos nada.</font>
+
+277
+00:19:47,509 --> 00:19:50,278
+<font color=#FFFF00>Mas um...
+um crime foi cometido.</font>
+
+278
+00:19:50,279 --> 00:19:53,668
+<font color=#FFFF00>Se pensar bem, poderia ter sido
+eu quem abriu aquela carta.</font>
+
+279
+00:19:53,669 --> 00:19:56,418
+<font color=#FFFF00>Está tudo bem agora,
+foi só uma pegadinha.</font>
+
+280
+00:19:56,419 --> 00:19:58,968
+<font color=#FFFF00>Felizmente, o Sr. Tadokoro
+não se feriu muito.</font>
+
+281
+00:19:58,969 --> 00:20:01,879
+<font color=#FFFF00>Então não se preocupe
+mais com isso, Mima. Certo?</font>
+
+282
+00:20:02,880 --> 00:20:04,887
+<font color=#FFFF00>Agora, tenho que te explicar
+tudo isso.</font>
+
+283
+00:20:04,888 --> 00:20:06,842
+<font color=#FFFF00>- Então, escute atentamente.
+- Certo.</font>
+
+284
+00:20:07,658 --> 00:20:10,267
+<font color=#FFFF00>Este é um navegador
+para a internet.</font>
+
+285
+00:20:10,268 --> 00:20:12,847
+<font color=#FFFF00>Você acessa dando
+um clique duplo.</font>
+
+286
+00:20:13,598 --> 00:20:15,141
+<font color=#FFFF00>O quê?
+"Clipe duplo?"</font>
+
+287
+00:20:15,767 --> 00:20:17,436
+<font color=#FFFF00>O que você vai fazer
+com um clipe?</font>
+
+288
+00:20:17,437 --> 00:20:19,006
+<font color=#FFFF00>Pensei que foi isso que disse.</font>
+
+289
+00:20:19,007 --> 00:20:22,236
+<font color=#FFFF00>Não,
+aqui você coloca o endereço.</font>
+
+290
+00:20:22,237 --> 00:20:24,985
+<font color=#FFFF00>Não é muito difícil de entender.</font>
+
+291
+00:20:24,986 --> 00:20:29,815
+<font color=#FFFF00>Rumi, vamos.
+Não pode falar em nossa língua?</font>
+
+292
+00:20:29,816 --> 00:20:33,665
+<font color=#FFFF00>Quem te deu a ideia
+de comprar um computador?</font>
+
+293
+00:20:33,666 --> 00:20:36,285
+<font color=#FFFF00>É porque disseram que era fácil.</font>
+
+294
+00:20:36,286 --> 00:20:39,234
+<font color=#FFFF00>Certo, vou explicar
+desde o começo de novo.</font>
+
+295
+00:20:39,235 --> 00:20:40,545
+<font color=#FFFF00>Certo!</font>
+
+296
+00:20:48,635 --> 00:20:52,324
+<font color=#FFFF00>H... T... T... P...</font>
+
+297
+00:20:56,754 --> 00:20:58,640
+<font color=#FFFF00>Alguma coisa apareceu.</font>
+
+298
+00:20:59,364 --> 00:21:01,863
+<font color=#FFFF00>Não sou tão ruim nisso.</font>
+
+299
+00:21:01,864 --> 00:21:04,145
+<font color=#FFFF00>Agora, vejamos...</font>
+
+300
+00:21:05,062 --> 00:21:06,432
+<font color=#FFFF00>Aí está.</font>
+
+301
+00:21:06,433 --> 00:21:08,433
+<font color=#FFFF00>BEM-VINDO AO QUARTO DE MIMA</font>
+
+302
+00:21:12,778 --> 00:21:14,912
+<font color=#FFFF00>DIÁRIO DA MIMA
+"Foi terrível."</font>
+
+303
+00:21:14,913 --> 00:21:17,871
+<font color=#FFFF00>"Eu estraguei a coreografia
+e esqueci a letra."</font>
+
+304
+00:21:17,872 --> 00:21:20,201
+<font color=#FFFF00>"Sinto muito por todos
+os meus fãs!"</font>
+
+305
+00:21:20,660 --> 00:21:23,331
+<font color=#FFFF00>"Hoje, quando saí do trem
+com o pé esquerdo,</font>
+
+306
+00:21:23,332 --> 00:21:25,251
+<font color=#FFFF00>todas as coisas
+ruins começaram."</font>
+
+307
+00:21:25,252 --> 00:21:28,501
+<font color=#FFFF00>"Sempre faço questão que meu pé
+direito entre primeiro no trem"</font>
+
+308
+00:21:28,502 --> 00:21:29,811
+<font color=#FFFF00>e dentro da banheira."</font>
+
+309
+00:21:31,751 --> 00:21:34,465
+<font color=#FFFF00>Alguém com certeza
+me conhece! O que é isso?</font>
+
+310
+00:21:35,021 --> 00:21:36,890
+<font color=#FFFF00>"Hoje foi meu 21º aniversário."</font>
+
+311
+00:21:36,891 --> 00:21:40,350
+<font color=#FFFF00>"Yukiko, Rei, e toda a equipe
+fizeram uma festa para mim."</font>
+
+312
+00:21:40,351 --> 00:21:41,670
+<font color=#FFFF00>"Foi ótimo."</font>
+
+313
+00:21:41,671 --> 00:21:44,430
+<font color=#FFFF00>"Chegando em casa, fui fazer
+compras na loja de sempre."</font>
+
+314
+00:21:44,766 --> 00:21:47,189
+<font color=#FFFF00>"Comprei água mineral e leite."</font>
+
+315
+00:21:47,190 --> 00:21:50,396
+<font color=#FFFF00>"Peguei a melhor água, e o leite
+tem que ser de vaca."</font>
+
+316
+00:21:51,356 --> 00:21:54,069
+<font color=#FFFF00>"Eu tenho que me permitir
+pelo menos este luxo."</font>
+
+317
+00:21:54,070 --> 00:21:57,985
+<font color=#FFFF00>"E é claro que peguei a melhor
+comida de marca para os peixes."</font>
+
+318
+00:21:57,986 --> 00:21:59,339
+<font color=#FFFF00>"Do jeito que eles gostam."</font>
+
+319
+00:22:00,119 --> 00:22:01,988
+<font color=#FFFF00>"12 de maio.
+Fiquei impressionada</font>
+
+320
+00:22:01,989 --> 00:22:04,458
+<font color=#FFFF00>com o desempenho de Eri Ochiai
+em Double Bind."</i></font>
+
+321
+00:22:04,459 --> 00:22:08,038
+<font color=#FFFF00>"Ela é outra pessoa quando
+a câmera está rolando."</font>
+
+322
+00:22:08,746 --> 00:22:10,048
+<font color=#FFFF00>De onde vem isso?</font>
+
+323
+00:22:10,358 --> 00:22:11,668
+<font color=#FFFF00>Como eles sabem tanto?</font>
+
+324
+00:22:12,528 --> 00:22:14,168
+<font color=#FFFF00><i>"Desculpe, quem é você?"</i></font>
+
+325
+00:22:15,211 --> 00:22:16,921
+<font color=#FFFF00><i>"Desculpe, quem é você?"</i></font>
+
+326
+00:22:17,963 --> 00:22:19,632
+<font color=#FFFF00><i>"Desculpe, quem é você?"</i></font>
+
+327
+00:22:20,508 --> 00:22:22,384
+<font color=#FFFF00><i>"Desculpe, quem é você?"</i></font>
+
+328
+00:22:23,134 --> 00:22:25,136
+<font color=#FFFF00><i>"Desculpe, quem é você?"</i></font>
+
+329
+00:22:26,066 --> 00:22:28,181
+<font color=#FFFF00><i>"Desculpe, quem é você?"</i></font>
+
+330
+00:22:30,517 --> 00:22:32,477
+<font color=#FFFF00>Desculpe, quem é você?</font>
+
+331
+00:22:33,117 --> 00:22:35,854
+<font color=#FFFF00>Dra. Toko Asamiya,
+especialista em psiquiatria.</font>
+
+332
+00:22:36,438 --> 00:22:39,858
+<font color=#FFFF00>Eu era psiquiatra da sua irmã.
+Sinto muito pelo que houve.</font>
+
+333
+00:22:40,656 --> 00:22:42,975
+<font color=#FFFF00>Porém, há coisas
+que eu gostaria de perguntar.</font>
+
+334
+00:22:42,976 --> 00:22:45,572
+<font color=#FFFF00>- Detetive Yamashiro! Mais um.
+- O quê?</font>
+
+335
+00:23:06,444 --> 00:23:07,926
+<font color=#FFFF00>Parece ser a quinta vítima.</font>
+
+336
+00:23:12,097 --> 00:23:13,556
+<font color=#FFFF00>Três cenas dela?</font>
+
+337
+00:23:16,283 --> 00:23:19,729
+<font color=#FFFF00>Acha mesmo que valeu
+a pena deixar a CHAM, acha?</font>
+
+338
+00:23:20,123 --> 00:23:21,442
+<font color=#FFFF00>Rumi, querida.</font>
+
+339
+00:23:21,443 --> 00:23:25,443
+<font color=#FFFF00>Sabe como é difícil arranjar um
+papel recorrente em uma série?</font>
+
+340
+00:23:25,859 --> 00:23:27,701
+<font color=#FFFF00>Eu entendo tudo isso.</font>
+
+341
+00:23:27,702 --> 00:23:29,012
+<font color=#FFFF00>No entanto...</font>
+
+342
+00:23:31,402 --> 00:23:33,461
+<font color=#FFFF00>Aí é onde a Mima vai
+provar a si mesma.</font>
+
+343
+00:23:33,462 --> 00:23:36,581
+<font color=#FFFF00>Ela está muito perto
+de ser uma atriz de verdade.</font>
+
+344
+00:23:36,582 --> 00:23:37,961
+<font color=#FFFF00>Certo, mas...</font>
+
+345
+00:23:37,962 --> 00:23:40,530
+<font color=#FFFF00>Devíamos estar vendendo
+a Mima como uma estrela pop!</font>
+
+346
+00:23:40,531 --> 00:23:42,920
+<font color=#FFFF00>Sério, os tempos mudaram</font>
+
+347
+00:23:42,921 --> 00:23:45,480
+<font color=#FFFF00>desde que Rumi Hidaka
+foi um ídolo pop em atividade.</font>
+
+348
+00:23:45,481 --> 00:23:46,800
+<font color=#FFFF00>Eu sei disso.</font>
+
+349
+00:23:46,801 --> 00:23:50,220
+<font color=#FFFF00>Hoje em dia, não há como
+ídolos pop atingirem às massas.</font>
+
+350
+00:23:50,221 --> 00:23:53,449
+<font color=#FFFF00>É o ponto decisivo para saber
+se Mima irá durar ou não.</font>
+
+351
+00:23:53,450 --> 00:23:55,819
+<font color=#FFFF00>Bem, desculpe-me, senhor,
+por não sobreviver.</font>
+
+352
+00:23:55,820 --> 00:23:57,619
+<font color=#FFFF00>Por favor, Rumi.</font>
+
+353
+00:23:57,620 --> 00:24:00,229
+<font color=#FFFF00>Não há nada melhor para ela
+do que ser atriz</font>
+
+354
+00:24:00,230 --> 00:24:01,549
+<font color=#FFFF00>e virar uma estrela.</font>
+
+355
+00:24:01,550 --> 00:24:04,811
+<font color=#FFFF00>Ela veio para Tóquio
+para ser uma cantora.</font>
+
+356
+00:24:05,187 --> 00:24:06,858
+<font color=#FFFF00>Rumi, pare e pense nisso.</font>
+
+357
+00:24:06,859 --> 00:24:09,274
+<font color=#FFFF00>Na venda de discos,
+nós ganhamos quase nada.</font>
+
+358
+00:24:09,275 --> 00:24:11,289
+<font color=#FFFF00>Seria bom se ela conseguisse
+vender mais.</font>
+
+359
+00:24:13,487 --> 00:24:16,908
+<font color=#FFFF00>Sabe, concordo contigo, gostaria
+que eles a usassem mais.</font>
+
+360
+00:24:16,909 --> 00:24:18,908
+<font color=#FFFF00>Desculpe,
+não somos tão lucrativos!</font>
+
+361
+00:24:20,659 --> 00:24:21,968
+<font color=#FFFF00>Bom dia!</font>
+
+362
+00:24:22,703 --> 00:24:24,288
+<font color=#FFFF00>Como vai a nova CHAM?</font>
+
+363
+00:24:32,417 --> 00:24:35,877
+<font color=#FFFF00>DOUBLE BIND</font>
+
+364
+00:24:45,682 --> 00:24:47,936
+<font color=#FFFF00>Foi uma perda de tempo,
+você viu?</font>
+
+365
+00:24:48,602 --> 00:24:50,705
+<font color=#FFFF00>Double Bind.
+Sim, eu vi.</font>
+
+366
+00:24:50,706 --> 00:24:52,545
+<font color=#FFFF00>É muito chato.</font>
+
+367
+00:24:52,546 --> 00:24:55,776
+<font color=#FFFF00>Todos os <i>thrillers</i> psicológicos
+feitos no Japão acabam assim?</font>
+
+368
+00:24:56,975 --> 00:24:59,314
+<font color=#FFFF00>Mima nem estava nele.</font>
+
+369
+00:24:59,315 --> 00:25:02,025
+<font color=#FFFF00>Estava sim. Quantas cenas
+ela fez na semana passada?</font>
+
+370
+00:25:02,026 --> 00:25:03,741
+<font color=#FFFF00>- Quatro?
+- Não, só três.</font>
+
+371
+00:25:04,325 --> 00:25:06,786
+<font color=#FFFF00>Alguém salve a Mima!
+Por favor.</font>
+
+372
+00:25:09,663 --> 00:25:15,164
+<font color=#FFFF00>"UMA PÁGINA NA INTERNET!
+VOCÊ PODE TER UMA TAMBÉM!"</font>
+
+373
+00:25:30,766 --> 00:25:32,183
+<font color=#FFFF00>HOJE, QUANDO SAÍ DO TREM...</font>
+
+374
+00:26:15,849 --> 00:26:17,159
+<font color=#FFFF00>Ei, é a Mima!</font>
+
+375
+00:26:17,889 --> 00:26:20,168
+<font color=#FFFF00>Bom dia, Mima!</font>
+
+376
+00:26:20,604 --> 00:26:22,459
+<font color=#FFFF00>- Arrase na série!
+- Espere, Mima.</font>
+
+377
+00:26:23,899 --> 00:26:26,650
+<font color=#FFFF00>Todas elas ficam nojentas
+quando se tornam atrizes?</font>
+
+378
+00:26:37,912 --> 00:26:40,326
+<font color=#FFFF00>ACIDENTE COM OMISSÃO
+DE SOCORRO NO SHIKAIDO.</font>
+
+379
+00:26:40,327 --> 00:26:43,827
+<font color=#FFFF00>TADASHI DOI (18)
+EM ESTADO CRÍTICO.</font>
+
+380
+00:26:56,286 --> 00:26:59,485
+<font color=#FFFF00>- Bom dia, pessoal!
+- Bom dia, Mima.</font>
+
+381
+00:26:59,486 --> 00:27:03,726
+<font color=#FFFF00>- Saúde!
+- Saúde!</font>
+
+382
+00:27:06,065 --> 00:27:08,230
+<font color=#FFFF00>- O que houve?
+- A nova música da CHAM.</font>
+
+383
+00:27:08,231 --> 00:27:10,058
+<font color=#FFFF00>Estão comemorando. Olhe só.</font>
+
+384
+00:27:10,775 --> 00:27:12,534
+<font color=#FFFF00>Nossa, elas pegaram o 83° lugar?</font>
+
+385
+00:27:12,535 --> 00:27:14,525
+<font color=#FFFF00>Não posso acreditar.
+É maravilhoso!</font>
+
+386
+00:27:14,935 --> 00:27:17,324
+<font color=#FFFF00>Nós três nunca atingimos
+as paradas antes.</font>
+
+387
+00:27:17,325 --> 00:27:19,532
+<font color=#FFFF00>Um, dois, três.</font>
+
+388
+00:27:22,202 --> 00:27:24,304
+<font color=#FFFF00>Parabéns!</font>
+
+389
+00:27:25,455 --> 00:27:28,416
+<font color=#FFFF00>- Conseguimos!
+- Agora vamos trabalhar muito.</font>
+
+390
+00:27:28,917 --> 00:27:31,982
+<font color=#FFFF00>Mas e o público?
+Será que alguém vai?</font>
+
+391
+00:27:31,983 --> 00:27:34,513
+<font color=#FFFF00>Claro que vai, Mima!</font>
+
+392
+00:27:36,463 --> 00:27:39,134
+<font color=#FFFF00>Seu próximo roteiro,
+tem algumas linhas a mais.</font>
+
+393
+00:27:41,512 --> 00:27:43,801
+<font color=#FFFF00>Vocês duas foram ótimas, sério.</font>
+
+394
+00:27:43,802 --> 00:27:46,516
+<font color=#FFFF00>CHAM está indo bem como
+um dueto, o que posso dizer?</font>
+
+395
+00:28:03,657 --> 00:28:06,742
+<font color=#FFFF00>Com licença,
+você já tem um agente?</font>
+
+396
+00:28:06,743 --> 00:28:09,141
+<font color=#FFFF00>Desculpe, estou com pressa.</font>
+
+397
+00:28:09,996 --> 00:28:12,999
+<font color=#FFFF00>Vamos, não está interessada
+em se tornar modelo?</font>
+
+398
+00:28:13,000 --> 00:28:14,729
+<font color=#FFFF00>Você já tem
+a aparência perfeita.</font>
+
+399
+00:28:14,730 --> 00:28:16,227
+<font color=#FFFF00>Modelo?</font>
+
+400
+00:28:17,502 --> 00:28:18,802
+<font color=#FFFF00>Corta!</font>
+
+401
+00:28:25,569 --> 00:28:28,805
+<font color=#FFFF00>Certo, vamos passar
+para a próxima cena.</font>
+
+402
+00:28:31,975 --> 00:28:35,796
+<font color=#FFFF00>- Quem é aquela garota?
+- Não tenho certeza.</font>
+
+403
+00:28:38,147 --> 00:28:39,689
+<font color=#FFFF00>Oi, Shibuya.</font>
+
+404
+00:28:39,690 --> 00:28:42,697
+<font color=#FFFF00>Eu vi o roteiro da próxima
+semana, fez um ótimo trabalho!</font>
+
+405
+00:28:42,698 --> 00:28:44,127
+<font color=#FFFF00>É maravilhoso.</font>
+
+406
+00:28:44,128 --> 00:28:46,363
+<font color=#FFFF00><i>Não imaginei
+que se desenrolasse assim.</i></font>
+
+407
+00:28:47,388 --> 00:28:49,836
+<font color=#FFFF00>Espere e verá,
+fica ainda melhor depois disso.</font>
+
+408
+00:28:49,837 --> 00:28:53,026
+<font color=#FFFF00><i>- Tenho certeza.</i>
+- Mas estou me questionando...</font>
+
+409
+00:28:53,027 --> 00:28:55,996
+<font color=#FFFF00>Se a nossa amável Mima pode
+suportar este tipo de coisa.</font>
+
+410
+00:28:55,997 --> 00:28:57,498
+<font color=#FFFF00>Ou melhor, a agência dela.</font>
+
+411
+00:29:05,839 --> 00:29:08,345
+<font color=#FFFF00>A personagem da Mima,
+Yoko Takakura</font>
+
+412
+00:29:08,346 --> 00:29:10,135
+<font color=#FFFF00>muda completamente
+de personalidade</font>
+
+413
+00:29:10,136 --> 00:29:12,975
+<font color=#FFFF00>quando é estuprada pelos
+clientes do clube de strip.</font>
+
+414
+00:29:12,976 --> 00:29:15,930
+<font color=#FFFF00>Uma cena de estupro?
+Enlouqueceu?</font>
+
+415
+00:29:15,931 --> 00:29:18,984
+<font color=#FFFF00>É fundamental, Rumi, ela é
+figura chave na segunda parte!</font>
+
+416
+00:29:18,985 --> 00:29:21,437
+<font color=#FFFF00>Fundamental?
+Mima é uma estrela pop.</font>
+
+417
+00:29:22,229 --> 00:29:24,294
+<font color=#FFFF00>Não se preocupe, Mima.
+Vai ficar tudo bem.</font>
+
+418
+00:29:24,295 --> 00:29:26,650
+<font color=#FFFF00>Vamos falar com os produtores
+para mudar isto.</font>
+
+419
+00:29:27,567 --> 00:29:30,913
+<font color=#FFFF00>Ei, espere um minuto.
+O roteiro já está atrasado,</font>
+
+420
+00:29:30,914 --> 00:29:33,573
+<font color=#FFFF00>e a equipe de arte
+já está cansada de esperar.</font>
+
+421
+00:29:33,574 --> 00:29:36,163
+<font color=#FFFF00>Como vai ficar se começarmos
+a reclamar agora?</font>
+
+422
+00:29:36,164 --> 00:29:40,162
+<font color=#FFFF00>Eu disse ao Shibuya que ela
+deixou a carreira de cantora.</font>
+
+423
+00:29:40,163 --> 00:29:42,832
+<font color=#FFFF00>É nossa função proteger
+as celebridades desta agência!</font>
+
+424
+00:29:42,833 --> 00:29:45,812
+<font color=#FFFF00>Não tem como Mima fazer
+uma coisa dessas!</font>
+
+425
+00:29:45,813 --> 00:29:47,473
+<font color=#FFFF00>Está tudo bem, Rumi.</font>
+
+426
+00:29:47,920 --> 00:29:50,132
+<font color=#FFFF00>Eu sou uma atriz agora,
+tomei esta decisão.</font>
+
+427
+00:29:50,133 --> 00:29:52,681
+<font color=#FFFF00>- Então é isto que vou fazer.
+- Mima.</font>
+
+428
+00:29:52,682 --> 00:29:55,021
+<font color=#FFFF00>Mima, fabuloso!</font>
+
+429
+00:29:55,022 --> 00:29:57,561
+<font color=#FFFF00>Isso é comum entre as atrizes!</font>
+
+430
+00:29:57,562 --> 00:30:00,021
+<font color=#FFFF00>Jodie-sei-lá-o-que
+fez isto também.</font>
+
+431
+00:30:00,022 --> 00:30:02,271
+<font color=#FFFF00>Mima, querida,
+pense um pouco mais.</font>
+
+432
+00:30:02,272 --> 00:30:03,851
+<font color=#FFFF00>Percebe o que vai acontecer?</font>
+
+433
+00:30:04,562 --> 00:30:07,270
+<font color=#FFFF00>Não é como se fossem
+me estuprar de verdade.</font>
+
+434
+00:30:07,271 --> 00:30:09,170
+<font color=#FFFF00>Mas tenho certeza
+de que meus pais</font>
+
+435
+00:30:09,171 --> 00:30:11,145
+<font color=#FFFF00>vão pirar quando me virem assim.</font>
+
+436
+00:30:13,341 --> 00:30:16,279
+<font color=#FFFF00>Mesmo assim, Rumi, farei isso.
+Tenho que dar o meu melhor.</font>
+
+437
+00:30:18,011 --> 00:30:19,320
+<font color=#FFFF00>Mima...</font>
+
+438
+00:30:34,319 --> 00:30:36,506
+<font color=#FFFF00>Eu me recuso totalmente
+a fazer isso!</font>
+
+439
+00:30:54,628 --> 00:30:57,692
+<font color=#FFFF00>Como meu diretor está indo?
+Como vão as gravações?</font>
+
+440
+00:30:58,407 --> 00:31:00,716
+<font color=#FFFF00>Eu preferiria filmar
+em um clube de verdade.</font>
+
+441
+00:31:00,717 --> 00:31:03,777
+<font color=#FFFF00>mas pelo que estamos filmando,
+ninguém nos cederia o lugar.</font>
+
+442
+00:31:04,417 --> 00:31:05,908
+<font color=#FFFF00>Estou cansado!</font>
+
+443
+00:31:06,637 --> 00:31:09,186
+<font color=#FFFF00>Por favor, estou contando
+com você.</font>
+
+444
+00:31:09,187 --> 00:31:12,005
+<font color=#FFFF00>Vamos lá, Yada.</font>
+
+445
+00:31:12,006 --> 00:31:13,915
+<font color=#FFFF00>O que faremos
+sobre a próxima reunião?</font>
+
+446
+00:31:13,916 --> 00:31:16,255
+<font color=#FFFF00>Estamos ficando sem tempo.
+Só temos a data.</font>
+
+447
+00:31:16,256 --> 00:31:18,795
+<font color=#FFFF00><i>- Está pronta?
+- Sim, estou.</i></font>
+
+448
+00:31:19,836 --> 00:31:21,506
+<font color=#FFFF00>Pronto, pessoal.</font>
+
+449
+00:31:23,174 --> 00:31:24,475
+<font color=#FFFF00>Ela é muito jovem.</font>
+
+450
+00:31:28,929 --> 00:31:30,431
+<font color=#FFFF00>Estamos prontos para filmar!</font>
+
+451
+00:31:32,375 --> 00:31:36,144
+<font color=#FFFF00>Cena 48, "O gerente
+é derrubado." Tomada 1!</font>
+
+452
+00:31:37,020 --> 00:31:38,324
+<font color=#FFFF00>10 segundos.</font>
+
+453
+00:31:42,284 --> 00:31:46,821
+<font color=#FFFF00>5, 4, 3, 2...</font>
+
+454
+00:32:08,216 --> 00:32:09,531
+<font color=#FFFF00>Parece ótima.</font>
+
+455
+00:32:09,532 --> 00:32:12,136
+<font color=#FFFF00>Não está ruim
+para uma ex-estrela pop.</font>
+
+456
+00:32:14,429 --> 00:32:16,940
+<font color=#FFFF00><i>- Não, para! Me solta.
+- Corta essa, saia do palco!</i></font>
+
+457
+00:32:16,941 --> 00:32:19,160
+<font color=#FFFF00><i>- Cale a boca!
+- Saia, ou chamarei a polícia.</i></font>
+
+458
+00:32:19,161 --> 00:32:20,860
+<font color=#FFFF00><i>Chame a polícia,
+não dou a mínima.</i></font>
+
+459
+00:32:20,861 --> 00:32:22,395
+<font color=#FFFF00><i>Tire suas mãos de mim, saia.</i></font>
+
+460
+00:32:23,041 --> 00:32:25,991
+<font color=#FFFF00><i>- Tire suas mãos.
+- Parem.</i></font>
+
+461
+00:32:31,237 --> 00:32:33,159
+<font color=#FFFF00>Me solte!
+Me solte!</font>
+
+462
+00:32:33,160 --> 00:32:36,260
+<font color=#FFFF00>Não, não.</font>
+
+463
+00:32:38,744 --> 00:32:40,870
+<font color=#FFFF00>Socorro!
+Alguém me ajude.</font>
+
+464
+00:32:48,079 --> 00:32:49,504
+<font color=#FFFF00>Certo, corta!</font>
+
+465
+00:32:53,218 --> 00:32:55,238
+<font color=#FFFF00>Vocês aí,
+fiquem em seus lugares!</font>
+
+466
+00:32:59,558 --> 00:33:02,933
+<font color=#FFFF00>Certo, pessoal.
+Temos que mover as câmeras.</font>
+
+467
+00:33:05,828 --> 00:33:08,657
+<font color=#FFFF00>- Eu sinto muito.
+- Não. Está tudo bem.</font>
+
+468
+00:33:09,397 --> 00:33:11,896
+<font color=#FFFF00>Certo, agora a cena do estupro!</font>
+
+469
+00:33:11,897 --> 00:33:13,936
+<font color=#FFFF00>Todos, preparem-se!</font>
+
+470
+00:33:13,937 --> 00:33:15,987
+<font color=#FFFF00>Tomada 1.
+Filmando.</font>
+
+471
+00:33:35,045 --> 00:33:36,355
+<font color=#FFFF00>Corta.</font>
+
+472
+00:33:37,756 --> 00:33:41,385
+<font color=#FFFF00>- Não, tem que ser mais rápido.
+- Desculpe, o zíper emperrou.</font>
+
+473
+00:33:41,760 --> 00:33:43,324
+<font color=#FFFF00>Mais uma vez, do começo!</font>
+
+474
+00:33:43,325 --> 00:33:45,813
+<font color=#FFFF00>Certo, pessoal.
+Sem intervalos ainda, prontos?</font>
+
+475
+00:33:45,814 --> 00:33:47,124
+<font color=#FFFF00>Tomada 2!</font>
+
+476
+00:35:26,127 --> 00:35:27,650
+<font color=#FFFF00>Estou tão cansada.</font>
+
+477
+00:35:29,109 --> 00:35:31,027
+<font color=#FFFF00>Ainda não vi a Rumi,
+onde ela está?</font>
+
+478
+00:35:33,696 --> 00:35:35,949
+<font color=#FFFF00>Ela teve uma reunião para ir.</font>
+
+479
+00:35:37,536 --> 00:35:39,619
+<font color=#FFFF00>Ei, Mima. Eu...</font>
+
+480
+00:35:40,176 --> 00:35:41,485
+<font color=#FFFF00>Sabe...</font>
+
+481
+00:35:46,583 --> 00:35:49,254
+<font color=#FFFF00>Está tudo bem, vou te dar
+um lanche delicioso</font>
+
+482
+00:35:49,255 --> 00:35:51,985
+<font color=#FFFF00>- já que você trabalhou tanto.
+- Adorei!</font>
+
+483
+00:36:13,733 --> 00:36:15,777
+<font color=#FFFF00>Cheguei, peixinhos.</font>
+
+484
+00:36:16,803 --> 00:36:19,114
+<font color=#FFFF00>Eu me pergunto
+se ainda estão com fome.</font>
+
+485
+00:37:08,089 --> 00:37:10,168
+<font color=#FFFF00>Claro que não queria fazer isso.</font>
+
+486
+00:37:10,169 --> 00:37:12,537
+<font color=#FFFF00>Mas eu não queria
+decepcionar todas as pessoas</font>
+
+487
+00:37:12,538 --> 00:37:14,456
+<font color=#FFFF00>que fizeram tanto por mim.</font>
+
+488
+00:37:16,041 --> 00:37:18,126
+<font color=#FFFF00><i>Está vendo,
+eu não disse?</i></font>
+
+489
+00:37:19,828 --> 00:37:21,717
+<font color=#FFFF00><i>Este é mesmo
+o emprego que queria?</i></font>
+
+490
+00:37:21,718 --> 00:37:23,340
+<font color=#FFFF00><i>É o fundo do poço!</i></font>
+
+491
+00:37:39,979 --> 00:37:41,735
+<font color=#FFFF00><i>"Não quero mais fazer a série."</i></font>
+
+492
+00:37:41,736 --> 00:37:45,285
+<font color=#FFFF00><i>"O produtor é um pervertido,
+e meu papel é uma droga!"</i></font>
+
+493
+00:37:45,286 --> 00:37:48,905
+<font color=#FFFF00><i>"Tenho que admitir, cantar para
+os meus fãs é o que mais gosto."</i></font>
+
+494
+00:38:01,250 --> 00:38:03,833
+<font color=#FFFF00>Sim, aquela cena em especial?</font>
+
+495
+00:38:03,834 --> 00:38:07,173
+<font color=#FFFF00>Claro que eu estaria mentindo
+se dissesse que não hesitei,</font>
+
+496
+00:38:07,174 --> 00:38:10,550
+<font color=#FFFF00>mas eu vi como um obstáculo
+que tive que superar como atriz.</font>
+
+497
+00:38:13,302 --> 00:38:14,804
+<font color=#FFFF00>Ouvi que a audiência subiu.</font>
+
+498
+00:38:15,971 --> 00:38:19,307
+<font color=#FFFF00>Como sempre, o público
+em geral é todo de idiotas.</font>
+
+499
+00:38:19,683 --> 00:38:22,560
+<font color=#FFFF00>Sim, eu gostaria
+de ser reconhecida como atriz.</font>
+
+500
+00:38:22,561 --> 00:38:25,692
+<font color=#FFFF00>- Não como uma "ex-estrela pop"?
+- Sim, exatamente.</font>
+
+501
+00:38:25,693 --> 00:38:28,153
+<font color=#FFFF00>Estou bem com isso,
+Rei sempre foi minha favorita.</font>
+
+502
+00:38:28,941 --> 00:38:32,235
+<font color=#FFFF00>No entanto, todos os fãs
+da Mima estão bem chateados.</font>
+
+503
+00:38:32,236 --> 00:38:34,871
+<font color=#FFFF00>Mas estar na CHAM
+me ensinou muito.</font>
+
+504
+00:38:34,872 --> 00:38:37,366
+<font color=#FFFF00>Foi uma ótima
+experiência, única.</font>
+
+505
+00:38:39,868 --> 00:38:42,371
+<font color=#FFFF00>Eles devem estar chorando:
+"Essa não é a Mima!"</font>
+
+506
+00:38:53,501 --> 00:38:58,500
+<font color=#FFFF00>BEM-VINDO AO QUARTO DE MIMA</font>
+
+507
+00:38:59,177 --> 00:39:02,014
+<font color=#FFFF00>"Em algumas palavras,
+conte-nos como foi seu dia."</font>
+
+508
+00:39:02,598 --> 00:39:05,309
+<font color=#FFFF00>"Hoje, eu ainda estava
+um pouco deprimida."</font>
+
+509
+00:39:05,310 --> 00:39:08,469
+<font color=#FFFF00>"mas receber os e-mails de vocês
+me fez sentir um pouco melhor."</font>
+
+510
+00:39:08,999 --> 00:39:10,498
+<font color=#FFFF00>Eu tenho e-mail?</font>
+
+511
+00:39:10,499 --> 00:39:13,357
+<font color=#FFFF00>"24 de junho. Por favor,
+me ajudem, todos estão..."</font>
+
+512
+00:39:15,039 --> 00:39:16,988
+<font color=#FFFF00><i>"Todos estão me forçando
+a fazer isso!"</i></font>
+
+513
+00:39:16,989 --> 00:39:18,979
+<font color=#FFFF00><i>"É tudo culpa do roteirista!"</i></font>
+
+514
+00:39:20,328 --> 00:39:21,847
+<font color=#FFFF00>SOCORRO!
+SOCORRO!</font>
+
+515
+00:39:21,848 --> 00:39:25,207
+<font color=#FFFF00>O quê? Não é verdade.
+Não escrevi isso.</font>
+
+516
+00:39:25,208 --> 00:39:26,587
+<font color=#FFFF00><i>Claro que não escreveu.</i></font>
+
+517
+00:39:26,588 --> 00:39:28,578
+<font color=#FFFF00><i>A verdadeira Mima
+está escrevendo isso.</i></font>
+
+518
+00:39:31,291 --> 00:39:32,942
+<font color=#FFFF00><i>Eu sei que no fundo
+do seu coração</i></font>
+
+519
+00:39:32,943 --> 00:39:34,793
+<font color=#FFFF00><i>você quer ser
+uma estrela pop de novo.</i></font>
+
+520
+00:39:34,794 --> 00:39:36,676
+<font color=#FFFF00>Não, não é verdade.</font>
+
+521
+00:39:36,677 --> 00:39:39,465
+<font color=#FFFF00>- Eu não sou mais...
+<i>- Não é mais o quê?</i></font>
+
+522
+00:39:40,127 --> 00:39:43,177
+<font color=#FFFF00><i>Sim, é isso mesmo,
+você não é mais uma estrela pop.</i></font>
+
+523
+00:39:43,510 --> 00:39:45,929
+<font color=#FFFF00><i>Você é uma mulher suja
+agora, igual a uma vadia!</i></font>
+
+524
+00:39:46,387 --> 00:39:49,891
+<font color=#FFFF00><i>Ninguém gosta de uma estrela
+com a reputação manchada!</i></font>
+
+525
+00:39:50,433 --> 00:39:52,165
+<font color=#FFFF00>Não é verdade, não é!</font>
+
+526
+00:39:52,166 --> 00:39:54,966
+<font color=#FFFF00>Mima!</font>
+
+527
+00:39:58,982 --> 00:40:02,110
+<font color=#FFFF00><i>Você não será capaz
+de voltar aos holofotes agora.</i></font>
+
+528
+00:40:05,572 --> 00:40:08,275
+<font color=#FFFF00>Está tudo bem, não precisa
+se preocupar, eu estou aqui.</font>
+
+529
+00:40:10,285 --> 00:40:13,954
+<font color=#FFFF00>De agora em diante, estarei na
+luz e você estará nas sombras.</font>
+
+530
+00:40:16,248 --> 00:40:19,043
+<font color=#FFFF00>O que está dizendo?
+Quem diabos é você?</font>
+
+531
+00:40:20,294 --> 00:40:22,263
+<font color=#FFFF00>Ninguém se importa
+mais com você.</font>
+
+532
+00:40:22,264 --> 00:40:24,762
+<font color=#FFFF00>Você está manchada,
+sua imunda!</font>
+
+533
+00:40:24,763 --> 00:40:26,082
+<font color=#FFFF00>Pare!
+Pare!</font>
+
+534
+00:40:26,083 --> 00:40:27,759
+<font color=#FFFF00>Eu não sou imunda.</font>
+
+535
+00:40:30,595 --> 00:40:32,430
+<font color=#FFFF00>Espere, não!</font>
+
+536
+00:40:33,139 --> 00:40:34,443
+<font color=#FFFF00>Espere!</font>
+
+537
+00:41:14,511 --> 00:41:15,820
+<font color=#FFFF00>Mas que diabos...</font>
+
+538
+00:41:16,479 --> 00:41:19,878
+<font color=#FFFF00><i>E quando você amá-la, amá-la</i></font>
+
+539
+00:41:19,879 --> 00:41:23,118
+<font color=#FFFF00><i>Ela será um anjinho
+Um anjinho em seu coração</i></font>
+
+540
+00:41:23,119 --> 00:41:26,318
+<font color=#FFFF00><i>Você tem que se esforçar
+Se esforçar pelo amor dela</i></font>
+
+541
+00:41:26,319 --> 00:41:29,687
+<font color=#FFFF00><i>E então para sempre
+Para sempre ela será...</i></font>
+
+542
+00:41:29,688 --> 00:41:35,157
+<font color=#FFFF00><i>Um anjo feliz no seu coração
+E vocês estarão sempre juntos</i></font>
+
+543
+00:41:35,158 --> 00:41:36,906
+<font color=#FFFF00>Olá, tem alguém aí?</font>
+
+544
+00:41:46,637 --> 00:41:50,316
+<font color=#FFFF00><i>Você consegue ver
+As asas brancas do anjo?</i></font>
+
+545
+00:41:50,317 --> 00:41:54,716
+<font color=#FFFF00><i>Ou os olhos dela
+Olhando para você?</i></font>
+
+546
+00:41:54,717 --> 00:41:58,815
+<font color=#FFFF00><i>Sua voz doce
+Suas mãos gentis?</i></font>
+
+547
+00:41:58,816 --> 00:42:03,325
+<font color=#FFFF00><i>Ela está aqui só para você.</i></font>
+
+548
+00:42:03,326 --> 00:42:07,595
+<font color=#FFFF00><i>Ela está te protegendo.</i></font>
+
+549
+00:42:07,596 --> 00:42:11,694
+<font color=#FFFF00><i>De algum lugar próximo.</i></font>
+
+550
+00:42:11,695 --> 00:42:16,334
+<font color=#FFFF00><i>E quando você amá-la, amá-la</i></font>
+
+551
+00:42:16,335 --> 00:42:20,074
+<font color=#FFFF00><i>Ela será um anjinho
+Um anjinho em seu coração</i></font>
+
+552
+00:42:20,075 --> 00:42:23,303
+<font color=#FFFF00><i>Você tem que se esforçar
+Se esforçar pelo amor dela</i></font>
+
+553
+00:42:23,304 --> 00:42:26,344
+<font color=#FFFF00><i>E então para sempre
+Para sempre ela será...</i></font>
+
+554
+00:43:02,221 --> 00:43:05,381
+<font color=#FFFF00>Aconteceu perto daqui,
+por volta de uma da manhã.</font>
+
+555
+00:43:05,947 --> 00:43:09,320
+<font color=#FFFF00>Ei, amigo, eu te liguei na noite
+passada e você não estava.</font>
+
+556
+00:43:09,321 --> 00:43:12,161
+<font color=#FFFF00>Ah, merda, como descobriram?</font>
+
+557
+00:43:13,350 --> 00:43:15,389
+<font color=#FFFF00>Deu uma olhada
+no "Quarto da Mima"?</font>
+
+558
+00:43:15,390 --> 00:43:17,950
+<font color=#FFFF00>Sim, mas é realmente ela?</font>
+
+559
+00:43:17,951 --> 00:43:19,251
+<font color=#FFFF00>Não faço ideia.</font>
+
+560
+00:43:19,830 --> 00:43:22,449
+<font color=#FFFF00>Segundo aquela página,
+Mima estará no palco hoje.</font>
+
+561
+00:43:22,450 --> 00:43:23,760
+<font color=#FFFF00>De jeito nenhum!</font>
+
+562
+00:43:24,214 --> 00:43:26,618
+<font color=#FFFF00><i>A polícia diz que Shibuya
+foi ferido várias vezes</i></font>
+
+563
+00:43:26,619 --> 00:43:29,678
+<font color=#FFFF00><i>com um objeto afiado,
+atingindo olhos e 60% do corpo.</i></font>
+
+564
+00:43:29,679 --> 00:43:32,136
+<font color=#FFFF00>ROTEIRISTA FAMOSO ASSASSINADO!
+TAKAO SHIBUYA</font>
+
+565
+00:43:32,137 --> 00:43:34,181
+<font color=#FFFF00>Foi extremamente
+chocante o que houve.</font>
+
+566
+00:43:34,182 --> 00:43:36,358
+<font color=#FFFF00>Mas ficar preocupado
+não vai ajudar.</font>
+
+567
+00:43:36,359 --> 00:43:38,392
+<font color=#FFFF00>Temos que seguir em frente.</font>
+
+568
+00:43:38,393 --> 00:43:41,607
+<font color=#FFFF00>Mas também teve a carta-bomba,
+e quanto a isso?</font>
+
+569
+00:43:41,608 --> 00:43:44,657
+<font color=#FFFF00>Fala sério, Mima. Acha mesmo
+que o assassinato do Shibuya</font>
+
+570
+00:43:44,658 --> 00:43:45,968
+<font color=#FFFF00>está relacionado a isso?</font>
+
+571
+00:43:46,748 --> 00:43:48,736
+<font color=#FFFF00>Não sei mais o que pensar.</font>
+
+572
+00:43:49,612 --> 00:43:52,614
+<font color=#FFFF00>Você assiste muitas séries,
+não se preocupe com isso.</font>
+
+573
+00:43:54,032 --> 00:43:56,285
+<font color=#FFFF00>Você não vai se tornar
+uma estrela assim!</font>
+
+574
+00:43:56,286 --> 00:43:58,277
+<font color=#FFFF00>Sorria, queridinha!</font>
+
+575
+00:44:05,036 --> 00:44:08,379
+<font color=#FFFF00>"Bem". "Feito".
+"Bem". "Feito".</font>
+
+576
+00:44:18,985 --> 00:44:21,683
+<font color=#FFFF00>- Mima, o que foi?
+- Saia da pista!</font>
+
+577
+00:44:26,725 --> 00:44:29,724
+<font color=#FFFF00>Estava me perguntando,
+será que Mima ficará bem?</font>
+
+578
+00:44:29,725 --> 00:44:31,043
+<font color=#FFFF00>Sim, por quê?</font>
+
+579
+00:44:31,044 --> 00:44:34,611
+<font color=#FFFF00>Aquele fotografo é conhecido por
+fazer as pessoas ficarem nuas.</font>
+
+580
+00:44:34,612 --> 00:44:36,463
+<font color=#FFFF00>E daí?
+Ela não se importa.</font>
+
+581
+00:44:36,464 --> 00:44:38,573
+<font color=#FFFF00>Aposto que ela está louca
+para tirar tudo</font>
+
+582
+00:44:38,574 --> 00:44:40,413
+<font color=#FFFF00>na frente do fotografo
+e de todos.</font>
+
+583
+00:44:40,414 --> 00:44:42,868
+<font color=#FFFF00>Tipo:
+"Eu estou aqui!"</font>
+
+584
+00:44:42,869 --> 00:44:44,469
+<font color=#FFFF00>Não é hora
+de vocês se arrumarem?</font>
+
+585
+00:44:44,470 --> 00:44:46,456
+<font color=#FFFF00>- Parem de brincadeiras!
+- Certo.</font>
+
+586
+00:44:55,797 --> 00:44:57,111
+<font color=#FFFF00>Gostei dessa expressão.</font>
+
+587
+00:44:57,112 --> 00:44:58,822
+<font color=#FFFF00>Tente passar os dedos
+pelo cabelo.</font>
+
+588
+00:44:58,823 --> 00:45:00,802
+<font color=#FFFF00>Isso mesmo, mantenha.</font>
+
+589
+00:45:01,303 --> 00:45:02,612
+<font color=#FFFF00>Está linda.</font>
+
+590
+00:45:10,102 --> 00:45:12,271
+<font color=#FFFF00>Sim, isso mesmo.
+Abra seus lábios um pouco.</font>
+
+591
+00:45:12,272 --> 00:45:13,590
+<font color=#FFFF00>Bom!</font>
+
+592
+00:45:13,591 --> 00:45:15,251
+<font color=#FFFF00>Agora vamos tirar
+a parte de cima.</font>
+
+593
+00:45:59,565 --> 00:46:01,941
+<font color=#FFFF00>Achei que tinha decidido
+fazer isso.</font>
+
+594
+00:46:01,942 --> 00:46:03,944
+<font color=#FFFF00>Todo mundo aqui
+está esperando por você.</font>
+
+595
+00:46:05,217 --> 00:46:06,530
+<font color=#FFFF00><i>Vamos, Mima!</i></font>
+
+596
+00:46:07,447 --> 00:46:10,325
+<font color=#FFFF00><i>Viu, eu não disse?
+Você não acreditou em mim.</i></font>
+
+597
+00:46:11,243 --> 00:46:14,160
+<font color=#FFFF00>Você estava melhor sendo
+estrela pop. Eu tinha razão.</font>
+
+598
+00:46:14,161 --> 00:46:16,080
+<font color=#FFFF00><i>Oi, Mima.
+Está ouvindo?</i></font>
+
+599
+00:46:16,664 --> 00:46:20,025
+<font color=#FFFF00>Pare com essa maluquice.
+Por favor, me diga quem você é.</font>
+
+600
+00:46:20,026 --> 00:46:22,795
+<font color=#FFFF00>Eu?
+Eu sou uma estrela pop.</font>
+
+601
+00:46:23,196 --> 00:46:25,005
+<font color=#FFFF00>Os fãs estão esperando.</font>
+
+602
+00:46:25,006 --> 00:46:28,799
+<font color=#FFFF00><i>Então decidi que vou cantar
+com Rei e Yukiko novamente.</i></font>
+
+603
+00:46:28,800 --> 00:46:30,105
+<font color=#FFFF00><i>Não, eu não vou.</i></font>
+
+604
+00:46:30,510 --> 00:46:31,815
+<font color=#FFFF00>Eu sou uma atriz agora.</font>
+
+605
+00:46:32,887 --> 00:46:34,596
+<font color=#FFFF00>Não seja estupida.</font>
+
+606
+00:46:34,597 --> 00:46:36,266
+<font color=#FFFF00><i>Ninguém quer isso de verdade!</i></font>
+
+607
+00:46:36,875 --> 00:46:38,185
+<font color=#FFFF00>Espere!</font>
+
+608
+00:46:38,745 --> 00:46:40,769
+<font color=#FFFF00>Isto é o que todos
+realmente querem.</font>
+
+609
+00:47:08,642 --> 00:47:10,572
+<font color=#FFFF00>Obrigada, pessoal!</font>
+
+610
+00:47:23,316 --> 00:47:25,916
+<font color=#FFFF00>27 DE JUNHO: OBRIGADA
+AOS QUE VIERAM NO SHOW DE HOJE.</font>
+
+611
+00:47:25,917 --> 00:47:28,439
+<font color=#FFFF00>É A MELHOR SENSAÇÃO QUE EXISTE
+CANTAR PARA VOCÊS!</font>
+
+612
+00:47:42,577 --> 00:47:44,479
+<font color=#FFFF00>Desgraçados!</font>
+
+613
+00:47:44,480 --> 00:47:48,079
+<font color=#FFFF00>MIMA KIRIGOE: ABANDONANDO
+O TRONO DE ESTRELA DO POP</font>
+
+614
+00:47:58,238 --> 00:48:01,268
+<font color=#FFFF00>- Ei, o que está fazendo?
+- Ei, o que está havendo?</font>
+
+615
+00:48:30,366 --> 00:48:32,366
+<font color=#FFFF00>PARA ME-MANIA:
+OBRIGADA POR SEUS E-MAILS.</font>
+
+616
+00:48:32,367 --> 00:48:33,906
+<font color=#FFFF00><i>Você acredita em mim, né?</i></font>
+
+617
+00:48:34,834 --> 00:48:37,754
+<font color=#FFFF00><i>Ela é uma impostora, não sou eu.</i></font>
+
+618
+00:48:37,755 --> 00:48:39,984
+<font color=#FFFF00>CLARO.
+MIMA NUNCA FARIA AQUELAS COISAS.</font>
+
+619
+00:48:39,985 --> 00:48:42,585
+<font color=#FFFF00>EU TE PROTEGEREI,
+VERDADEIRA MIMA.</font>
+
+620
+00:48:42,895 --> 00:48:46,177
+<font color=#FFFF00><i>Confio em você, Sr. Me-mania.</i></font>
+
+621
+00:48:47,011 --> 00:48:50,353
+<font color=#FFFF00><i>Estarei sempre com você, e nunca
+mudarei, nem um pouquinho.</i></font>
+
+622
+00:48:50,354 --> 00:48:51,889
+<font color=#FFFF00><i>Mas eu tenho um problema...</i></font>
+
+623
+00:48:51,890 --> 00:48:55,059
+<font color=#FFFF00><i>É aquela impostora,
+ela continua me atrapalhando.</i></font>
+
+624
+00:48:55,060 --> 00:48:56,804
+<font color=#FFFF00><i>Eu não sei o que fazer.</i></font>
+
+625
+00:48:58,724 --> 00:49:02,732
+<font color=#FFFF00>EU DAREI UM JEITO NELA.</font>
+
+626
+00:49:02,733 --> 00:49:05,278
+<font color=#FFFF00><i>Sr. Me-mania, muito obrigada.</i></font>
+
+627
+00:49:09,532 --> 00:49:11,492
+<font color=#FFFF00><i>Você é o único
+em quem posso confiar.</i></font>
+
+628
+00:49:22,832 --> 00:49:26,821
+<font color=#FFFF00>Meu Deus, eu não sei
+mais nada sobre mim.</font>
+
+629
+00:49:27,261 --> 00:49:29,300
+<font color=#FFFF00>Eu não teria
+tanta certeza disso.</font>
+
+630
+00:49:29,842 --> 00:49:32,430
+<font color=#FFFF00>Como sabe que a pessoa
+que você era um segundo atrás</font>
+
+631
+00:49:32,431 --> 00:49:34,221
+<font color=#FFFF00>é a mesma pessoa
+que você é agora?</font>
+
+632
+00:49:35,341 --> 00:49:37,141
+<font color=#FFFF00>Um fluxo contínuo de memórias.</font>
+
+633
+00:49:37,474 --> 00:49:40,609
+<font color=#FFFF00>Baseando-se nisso, nós criamos
+ilusões dentro de nós mesmos</font>
+
+634
+00:49:40,610 --> 00:49:43,229
+<font color=#FFFF00>dizendo que temos
+apenas uma personalidade fixa.</font>
+
+635
+00:49:44,055 --> 00:49:46,154
+<font color=#FFFF00>Doutora, estou com muito medo</font>
+
+636
+00:49:46,155 --> 00:49:48,989
+<font color=#FFFF00>que meu outro eu faça
+algo ruim, que eu não saiba.</font>
+
+637
+00:49:48,990 --> 00:49:50,300
+<font color=#FFFF00>Algo fora do meu controle.</font>
+
+638
+00:49:51,738 --> 00:49:55,324
+<font color=#FFFF00>Está tudo bem, não há
+como ilusões se tornarem reais.</font>
+
+639
+00:50:01,455 --> 00:50:02,759
+<font color=#FFFF00>Corta!</font>
+
+640
+00:50:03,707 --> 00:50:05,499
+<font color=#FFFF00>O que foi, Mima?
+O que há de errado?</font>
+
+641
+00:50:05,868 --> 00:50:07,437
+<font color=#FFFF00>Desculpe!</font>
+
+642
+00:50:07,438 --> 00:50:11,297
+<font color=#FFFF00>Ah, essa chuva,
+vou pegar um resfriado.</font>
+
+643
+00:50:11,797 --> 00:50:13,188
+<font color=#FFFF00>Eu sinto muito.</font>
+
+644
+00:50:22,247 --> 00:50:24,327
+<font color=#FFFF00>Cubram-se, pessoal!</font>
+
+645
+00:50:30,315 --> 00:50:33,235
+<font color=#FFFF00>Ei, pessoal,
+está chovendo muito lá fora,</font>
+
+646
+00:50:33,236 --> 00:50:35,527
+<font color=#FFFF00>mas o coração de vocês
+está sempre ensolarado!</font>
+
+647
+00:50:35,528 --> 00:50:37,946
+<font color=#FFFF00>Acho que estamos
+prontas agora. Bem-vindos ao...</font>
+
+648
+00:50:37,947 --> 00:50:41,617
+<font color=#FFFF00><i>CHAMlândia com a Rei e a Yukiko.</i></font>
+
+649
+00:50:44,744 --> 00:50:46,045
+<font color=#FFFF00>Sr. Tadokoro?</font>
+
+650
+00:50:47,035 --> 00:50:48,754
+<font color=#FFFF00>Certeza que elas
+estão no ar agora.</font>
+
+651
+00:50:48,755 --> 00:50:50,415
+<font color=#FFFF00>Achei que gostaria de vê-las.</font>
+
+652
+00:50:53,336 --> 00:50:55,964
+<font color=#FFFF00>Nosso próximo show
+será nesse domingo.</font>
+
+653
+00:50:55,965 --> 00:51:00,132
+<font color=#FFFF00>É no Ibaraki Simcity,
+às 2 da tarde.</font>
+
+654
+00:51:00,133 --> 00:51:01,434
+<font color=#FFFF00>Como está indo?</font>
+
+655
+00:51:01,435 --> 00:51:03,263
+<font color=#FFFF00>Bem, só pensei
+em passar por aqui.</font>
+
+656
+00:51:03,264 --> 00:51:05,914
+<font color=#FFFF00><i>Venham nos ver,
+estaremos esperando por vocês.</i></font>
+
+657
+00:51:05,915 --> 00:51:08,573
+<font color=#FFFF00>O CHAMlândia voltará na próxima
+semana na mesma hora.</font>
+
+658
+00:51:08,574 --> 00:51:10,642
+<font color=#FFFF00>Até lá...
+1, 2...</font>
+
+659
+00:51:10,643 --> 00:51:12,312
+<font color=#FFFF00>Tchau, tchau.</font>
+
+660
+00:51:12,313 --> 00:51:13,623
+<font color=#FFFF00>Ótimo programa, meninas.</font>
+
+661
+00:51:16,023 --> 00:51:17,333
+<font color=#FFFF00>Olha, é a Mima.</font>
+
+662
+00:51:53,830 --> 00:51:55,160
+<font color=#FFFF00>Quem é você?</font>
+
+663
+00:52:03,483 --> 00:52:05,527
+<font color=#FFFF00><i>Eu te disse,
+não consegue perceber?</i></font>
+
+664
+00:52:05,528 --> 00:52:06,903
+<font color=#FFFF00><i>Eu sou a verdadeira Mima.</i></font>
+
+665
+00:52:38,530 --> 00:52:39,830
+<font color=#FFFF00><i>Em outras notícias,</i></font>
+
+666
+00:52:39,831 --> 00:52:42,567
+<font color=#FFFF00><i>hoje, o Ministério da economia
+anunciou um novo</i></font>
+
+667
+00:52:42,568 --> 00:52:44,105
+<font color=#FFFF00><i>índice de expectativa de vida</i></font>
+
+668
+00:52:44,106 --> 00:52:47,900
+<font color=#FFFF00><i>que indica que o padrão
+de vida geral japonês...</i></font>
+
+669
+00:52:51,556 --> 00:52:54,034
+<font color=#FFFF00>Parece que não te vejo
+há muito tempo.</font>
+
+670
+00:52:54,035 --> 00:52:56,156
+<font color=#FFFF00>Bem, estou muito
+ocupada ultimamente.</font>
+
+671
+00:52:56,157 --> 00:52:59,077
+<font color=#FFFF00>Então, me diga,
+está se acostumando a atuar?</font>
+
+672
+00:53:00,453 --> 00:53:03,206
+<font color=#FFFF00>É difícil, mas acho
+que foi isso que escolhi fazer.</font>
+
+673
+00:53:04,540 --> 00:53:07,124
+<font color=#FFFF00>Você se tornou uma mulher
+muito madura.</font>
+
+674
+00:53:07,125 --> 00:53:10,629
+<font color=#FFFF00>E isto é ótimo, todos parecem
+amar a nova Mima.</font>
+
+675
+00:53:12,047 --> 00:53:13,354
+<font color=#FFFF00>É.</font>
+
+676
+00:53:14,883 --> 00:53:17,094
+<font color=#FFFF00>Bem, não parece
+que você concorda.</font>
+
+677
+00:53:17,719 --> 00:53:21,661
+<font color=#FFFF00>Mima, o que foi?
+Está sendo assediada por alguém?</font>
+
+678
+00:53:23,265 --> 00:53:25,022
+<font color=#FFFF00>Eu tenho lido seu site.</font>
+
+679
+00:53:25,023 --> 00:53:28,471
+<font color=#FFFF00>É um pouco demais,
+você mudou um pouco sua imagem.</font>
+
+680
+00:53:28,805 --> 00:53:30,155
+<font color=#FFFF00>E eles reclamam.</font>
+
+681
+00:53:30,773 --> 00:53:33,274
+<font color=#FFFF00>- É melhor que você não leia.
+- É.</font>
+
+682
+00:53:34,592 --> 00:53:37,041
+<font color=#FFFF00>Mas talvez ela se pareça
+mais comigo do que eu.</font>
+
+683
+00:53:37,042 --> 00:53:38,361
+<font color=#FFFF00>Mima?</font>
+
+684
+00:53:38,362 --> 00:53:41,740
+<font color=#FFFF00>Meu outro eu, que agora enterrei
+no fundo do meu coração.</font>
+
+685
+00:53:41,741 --> 00:53:43,051
+<font color=#FFFF00>E se...</font>
+
+686
+00:53:43,052 --> 00:53:46,290
+<font color=#FFFF00>essa outra personalidade
+começasse a agir sozinha?</font>
+
+687
+00:53:46,291 --> 00:53:49,957
+<font color=#FFFF00>Está tudo bem, não há
+como ilusões se tornarem reais.</font>
+
+688
+00:53:50,749 --> 00:53:52,051
+<font color=#FFFF00>- Rumi?
+- Corta!</font>
+
+689
+00:53:52,381 --> 00:53:54,795
+<font color=#FFFF00>Mima, querida.
+O que diabos está dizendo?</font>
+
+690
+00:53:56,880 --> 00:53:59,590
+<font color=#FFFF00>Eu sinto que vou ter
+pesadelos com essa fala!</font>
+
+691
+00:54:00,299 --> 00:54:01,600
+<font color=#FFFF00>Eu sinto muito de novo.</font>
+
+692
+00:54:12,727 --> 00:54:15,230
+<font color=#FFFF00>- O que foi?
+- Nada.</font>
+
+693
+00:54:20,399 --> 00:54:21,945
+<font color=#FFFF00>Mais uma vez do início.</font>
+
+694
+00:54:24,947 --> 00:54:26,449
+<font color=#FFFF00>Certo, tomada 2.</font>
+
+695
+00:54:28,713 --> 00:54:30,013
+<font color=#FFFF00><i>Em outras notícias,</i></font>
+
+696
+00:54:30,014 --> 00:54:32,414
+<font color=#FFFF00><i>a Agência de Planejamento
+Econômico anunciou hoje</i></font>
+
+697
+00:54:32,415 --> 00:54:34,556
+<font color=#FFFF00><i>o "Novo Índice de Vida
+do Cidadão",</i></font>
+
+698
+00:54:34,557 --> 00:54:37,606
+<font color=#FFFF00><i>que indica o padrão de qualidade
+de vida dos japoneses...</i></font>
+
+699
+00:54:41,629 --> 00:54:43,339
+<font color=#FFFF00>Já faz um tempo, Rumi.</font>
+
+700
+00:54:44,174 --> 00:54:47,427
+<font color=#FFFF00>O que você está falando, Mima?
+Eu estava aqui ontem.</font>
+
+701
+00:54:48,803 --> 00:54:50,304
+<font color=#FFFF00>O que houve ontem?</font>
+
+702
+00:54:50,971 --> 00:54:52,296
+<font color=#FFFF00>Aquilo tudo foi real?</font>
+
+703
+00:54:52,848 --> 00:54:55,100
+<font color=#FFFF00>O quê?
+Que esquisito.</font>
+
+704
+00:54:57,644 --> 00:54:59,296
+<font color=#FFFF00>Mima,
+o que há de errado com você?</font>
+
+705
+00:54:59,771 --> 00:55:01,398
+<font color=#FFFF00>Ah meu Deus,
+está sangrando.</font>
+
+706
+00:55:05,526 --> 00:55:08,070
+<font color=#FFFF00>Este sangue, Rumi, é real?</font>
+
+707
+00:55:08,404 --> 00:55:09,705
+<font color=#FFFF00>Mima!</font>
+
+708
+00:55:14,327 --> 00:55:16,828
+<font color=#FFFF00>HOJE FUI ÀS COMPRAS EM HARAJUKU.
+ADORO PROMOÇÕES.</font>
+
+709
+00:55:23,335 --> 00:55:26,129
+<font color=#FFFF00>Acho que fui a Harajuku hoje.</font>
+
+710
+00:55:34,433 --> 00:55:37,182
+<font color=#FFFF00>Está dizendo que o assassino
+é só uma ilusão</font>
+
+711
+00:55:37,183 --> 00:55:38,849
+<font color=#FFFF00>que ela simplesmente criou?</font>
+
+712
+00:55:39,174 --> 00:55:40,499
+<font color=#FFFF00>Sim.</font>
+
+713
+00:55:40,808 --> 00:55:42,981
+<font color=#FFFF00>Ela teme um segurança imaginário</font>
+
+714
+00:55:42,982 --> 00:55:45,691
+<font color=#FFFF00>e então imagina essa figura
+como um assassino</font>
+
+715
+00:55:45,692 --> 00:55:47,812
+<font color=#FFFF00>de pessoas
+que estão relacionadas a ela.</font>
+
+716
+00:55:48,483 --> 00:55:51,486
+<font color=#FFFF00>Mas Dra., não há
+como ilusões matarem pessoas.</font>
+
+717
+00:55:52,153 --> 00:55:53,471
+<font color=#FFFF00>Eu sei.</font>
+
+718
+00:55:53,472 --> 00:55:55,822
+<font color=#FFFF00>Mas e se essa ilusão
+tiver possuído alguém?</font>
+
+719
+00:55:56,621 --> 00:55:58,160
+<font color=#FFFF00>Possuído?</font>
+
+720
+00:55:58,161 --> 00:56:00,312
+<font color=#FFFF00><i>Quer dizer que os homens
+que foram mortos...</i></font>
+
+721
+00:56:00,313 --> 00:56:03,580
+<font color=#FFFF00><i>Foram aqueles que não
+tinham mais utilidade para ela.</i></font>
+
+722
+00:56:05,207 --> 00:56:07,290
+<font color=#FFFF00><i>Encontre-a rápido,
+Sr. Yamashiro.</i></font>
+
+723
+00:56:07,291 --> 00:56:10,044
+<font color=#FFFF00><i>Antes que seja tarde,
+e outra vítima seja feita.</i></font>
+
+724
+00:56:15,049 --> 00:56:16,350
+<font color=#FFFF00>Quanto é?</font>
+
+725
+00:56:21,555 --> 00:56:24,224
+<font color=#FFFF00>Que entregador de pizza
+mais estranho.</font>
+
+726
+00:57:14,812 --> 00:57:18,357
+<font color=#FFFF00>Sim, está ótimo.
+Vamos, seja mais ousada!</font>
+
+727
+00:57:18,358 --> 00:57:19,665
+<font color=#FFFF00>Isso mesmo!</font>
+
+728
+00:57:31,328 --> 00:57:33,514
+<font color=#FFFF00>Certo!
+Tomada 3.</font>
+
+729
+00:57:51,596 --> 00:57:54,015
+<font color=#FFFF00>- Alô?
+- Está tudo bem aí?</font>
+
+730
+00:57:55,224 --> 00:57:57,727
+<font color=#FFFF00>Ainda não soube
+o que houve com o Murano?</font>
+
+731
+00:57:59,979 --> 00:58:01,282
+<font color=#FFFF00>Não pode ser.</font>
+
+732
+00:58:02,472 --> 00:58:04,983
+<font color=#FFFF00><i>A polícia diz que Murano
+morreu após várias facadas</i></font>
+
+733
+00:58:04,984 --> 00:58:07,700
+<font color=#FFFF00>- <i>em 75% do corpo.
+- Não, Sr. Murano!</i></font>
+
+734
+00:58:07,701 --> 00:58:09,780
+<font color=#FFFF00>- Está um caos aqui.
+- Não é esse o caso.</font>
+
+735
+00:58:09,781 --> 00:58:11,240
+<font color=#FFFF00>Não temos nada
+a ver com isso.</font>
+
+736
+00:58:11,241 --> 00:58:14,534
+<font color=#FFFF00>Agora sei que está bem,
+mas fique aí até eu chegar.</font>
+
+737
+00:58:15,077 --> 00:58:17,959
+<font color=#FFFF00><i>A arma usada no último
+assassinato assemelha-se</i></font>
+
+738
+00:58:17,960 --> 00:58:20,879
+<font color=#FFFF00><i>a usada na semana passada,
+para matar o famoso roteirista.</i></font>
+
+739
+00:58:20,880 --> 00:58:23,749
+<font color=#FFFF00><i>A polícia está considerando
+um rancor pessoal como motivo</i></font>
+
+740
+00:58:23,750 --> 00:58:26,060
+<font color=#FFFF00><i>e está procurando conexões
+entre os dois casos.</i></font>
+
+741
+00:58:59,951 --> 00:59:02,867
+<font color=#FFFF00>É ela! Sra. Kirigoe, por favor
+queremos sua declaração.</font>
+
+742
+00:59:02,868 --> 00:59:05,019
+<font color=#FFFF00>Sabe algo sobre o assassinato
+do Sr. Murano?</font>
+
+743
+00:59:05,020 --> 00:59:06,371
+<font color=#FFFF00>Sabe de algo, Sra. Kirigoe?</font>
+
+744
+00:59:06,372 --> 00:59:08,872
+<font color=#FFFF00>Acha que há uma conexão
+entre a morte do Sr. Murano</font>
+
+745
+00:59:08,873 --> 00:59:10,474
+<font color=#FFFF00>e a do Sr. Shibuya,
+o roteirista?</font>
+
+746
+00:59:10,475 --> 00:59:12,726
+<font color=#FFFF00>Quão bem Shibuya
+e o Sr. Murano se conheciam?</font>
+
+747
+00:59:12,727 --> 00:59:14,428
+<font color=#FFFF00>Há rumores
+de um triângulo amoroso</font>
+
+748
+00:59:14,429 --> 00:59:15,942
+<font color=#FFFF00>entre você,
+Shibuya e Murano...</font>
+
+749
+00:59:15,943 --> 00:59:17,243
+<font color=#FFFF00>... sua vida?</font>
+
+750
+00:59:21,429 --> 00:59:22,934
+<font color=#FFFF00>Acha que ela é amaldiçoada?</font>
+
+751
+00:59:22,935 --> 00:59:25,854
+<font color=#FFFF00>Bem, você sabe, o que acontece
+duas vezes, acontece três.</font>
+
+752
+00:59:25,855 --> 00:59:27,524
+<font color=#FFFF00>Vamos apostar quem é o próximo.</font>
+
+753
+00:59:27,525 --> 00:59:30,896
+<font color=#FFFF00>- Sai fora!
+- Não se preocupe com eles.</font>
+
+754
+00:59:32,189 --> 00:59:34,524
+<font color=#FFFF00>Eu estou viva?
+Isto está mesmo acontecendo?</font>
+
+755
+00:59:35,024 --> 00:59:37,018
+<font color=#FFFF00>Talvez aquele
+caminhão tenha me atingido</font>
+
+756
+00:59:37,019 --> 00:59:38,893
+<font color=#FFFF00>e tudo isso é só um sonho.</font>
+
+757
+00:59:38,894 --> 00:59:41,364
+<font color=#FFFF00>Eu não consigo mais diferenciar.</font>
+
+758
+00:59:42,157 --> 00:59:43,663
+<font color=#FFFF00>Certo, pessoal.</font>
+
+759
+00:59:43,664 --> 00:59:45,909
+<font color=#FFFF00>- Estão prontos?
+- Certo, Mima, é sua vez.</font>
+
+760
+00:59:53,125 --> 00:59:55,252
+<font color=#FFFF00>Lembre-se, você acabou
+de matar alguém.</font>
+
+761
+00:59:55,253 --> 00:59:57,487
+<font color=#FFFF00>Fique mais ofegante
+do que durante o ensaio.</font>
+
+762
+00:59:58,043 --> 00:59:59,352
+<font color=#FFFF00>Sim.</font>
+
+763
+01:00:11,162 --> 01:00:13,226
+<font color=#FFFF00>E... ação!</font>
+
+764
+01:00:22,360 --> 01:00:23,661
+<font color=#FFFF00>Está acordada?</font>
+
+765
+01:00:27,615 --> 01:00:30,701
+<font color=#FFFF00>- Você é...
+- Pode me dizer seu nome?</font>
+
+766
+01:00:32,036 --> 01:00:34,955
+<font color=#FFFF00>Meu nome?
+Eu sou Mima Kirigoe.</font>
+
+767
+01:00:35,498 --> 01:00:37,208
+<font color=#FFFF00>Certo, e o que você faz?</font>
+
+768
+01:00:37,540 --> 01:00:38,849
+<font color=#FFFF00>Estrela...
+Não</font>
+
+769
+01:00:39,751 --> 01:00:41,059
+<font color=#FFFF00>Agora eu sou uma atriz.</font>
+
+770
+01:00:41,878 --> 01:00:43,713
+<font color=#FFFF00><i>Deve ser um trabalho
+muito difícil.</i></font>
+
+771
+01:00:44,255 --> 01:00:47,175
+<font color=#FFFF00><i>Sim, é muito difícil,
+mas é o que escolhi fazer.</i></font>
+
+772
+01:00:48,968 --> 01:00:51,977
+<font color=#FFFF00>Incrível. Ela acha
+que é uma atriz em ascensão,</font>
+
+773
+01:00:51,978 --> 01:00:53,305
+<font color=#FFFF00>chamada Mima Kirigoe.</font>
+
+774
+01:00:57,838 --> 01:00:59,812
+<font color=#FFFF00>Transtorno dissociativo
+de identidade.</font>
+
+775
+01:01:00,962 --> 01:01:03,770
+<font color=#FFFF00>Em outras palavras, síndrome
+de múltiplas personalidades.</font>
+
+776
+01:01:03,771 --> 01:01:05,171
+<font color=#FFFF00>Todos esses crimes ocorreram</font>
+
+777
+01:01:05,172 --> 01:01:07,366
+<font color=#FFFF00>enquanto ela acreditava
+ser outra pessoa,</font>
+
+778
+01:01:07,367 --> 01:01:08,786
+<font color=#FFFF00>uma personalidade diferente.</font>
+
+779
+01:01:08,787 --> 01:01:11,697
+<font color=#FFFF00>E agora o quê? Onde está a
+personalidade da Yoko original?</font>
+
+780
+01:01:12,240 --> 01:01:14,783
+<font color=#FFFF00>Yoko Takakura,
+a personalidade original...</font>
+
+781
+01:01:14,784 --> 01:01:18,078
+<font color=#FFFF00>nada mais é
+do que um personagem inventado.</font>
+
+782
+01:01:19,955 --> 01:01:23,499
+<font color=#FFFF00>Sendo uma garota normal, e como
+ela foi estuprada no strip club,</font>
+
+783
+01:01:23,500 --> 01:01:26,627
+<font color=#FFFF00>tudo aconteceu como parte
+da sua própria série.</font>
+
+784
+01:01:26,628 --> 01:01:29,672
+<font color=#FFFF00>Ao fazer isso, ela resguardou
+o próprio coração.</font>
+
+785
+01:01:34,385 --> 01:01:36,220
+<font color=#FFFF00>Isso mesmo,
+eu sou uma atriz.</font>
+
+786
+01:01:37,505 --> 01:01:39,056
+<font color=#FFFF00>Corta!</font>
+
+787
+01:01:41,974 --> 01:01:43,853
+<font color=#FFFF00><i>Pode me dizer seu nome?</i></font>
+
+788
+01:01:43,854 --> 01:01:46,396
+<font color=#FFFF00><i>Meu nome...
+Eu sou Mima Kirigoe.</i></font>
+
+789
+01:01:48,064 --> 01:01:51,743
+<font color=#FFFF00>A personalidade original,
+Yoko Takakura, não existe mais.</font>
+
+790
+01:01:51,744 --> 01:01:55,412
+<font color=#FFFF00>Ao matar, e mais tarde
+se tornar sua irmã, a modelo,</font>
+
+791
+01:01:55,413 --> 01:01:57,403
+<font color=#FFFF00>ela resguardou
+seu próprio coração.</font>
+
+792
+01:02:01,660 --> 01:02:03,463
+<font color=#FFFF00>Isso mesmo,
+eu sou uma modelo.</font>
+
+793
+01:02:04,533 --> 01:02:06,123
+<font color=#FFFF00>Certo, tomada completa!</font>
+
+794
+01:02:17,133 --> 01:02:19,050
+<font color=#FFFF00>Conseguimos, Mima.</font>
+
+795
+01:02:19,051 --> 01:02:20,482
+<font color=#FFFF00>Mima.</font>
+
+796
+01:02:21,386 --> 01:02:23,763
+<font color=#FFFF00>Mima, ótimo trabalho.
+Estou tão orgulhosa.</font>
+
+797
+01:02:24,472 --> 01:02:25,781
+<font color=#FFFF00>Rumi.</font>
+
+798
+01:02:26,391 --> 01:02:29,498
+<font color=#FFFF00><i>A partir de agora, Double Bind
+está pronta para ir ao ar.</i></font>
+
+799
+01:02:29,499 --> 01:02:32,522
+<font color=#FFFF00>Excelente trabalho!
+Produção encerrada!</font>
+
+800
+01:02:50,914 --> 01:02:54,125
+<font color=#FFFF00>Mima, você foi fantástica.
+Não achou?</font>
+
+801
+01:02:54,126 --> 01:02:56,378
+<font color=#FFFF00>Ela realmente foi ótima,
+tenho que admitir.</font>
+
+802
+01:02:56,379 --> 01:02:57,837
+<font color=#FFFF00>E o agradecemos por isso.</font>
+
+803
+01:02:58,149 --> 01:03:00,267
+<font color=#FFFF00>- Até a festa final.
+- Até lá então, tchau.</font>
+
+804
+01:03:00,268 --> 01:03:01,798
+<font color=#FFFF00>Ok, então.
+Falaremos com vocês.</font>
+
+805
+01:03:02,988 --> 01:03:04,817
+<font color=#FFFF00>Isso é ótimo.
+Podemos ir?</font>
+
+806
+01:03:04,818 --> 01:03:06,470
+<font color=#FFFF00>Mima, vá se trocar.</font>
+
+807
+01:03:21,943 --> 01:03:23,616
+<font color=#FFFF00>Ah, me desculpe, doutora.</font>
+
+808
+01:03:23,617 --> 01:03:26,988
+<font color=#FFFF00>Oi, Mima. Eu não sou
+mais a Touko! Esqueceu?</font>
+
+809
+01:03:27,776 --> 01:03:30,283
+<font color=#FFFF00>"Ilusões não podem
+se tornar reais."</font>
+
+810
+01:03:31,952 --> 01:03:33,703
+<font color=#FFFF00>Pode parar de sonhar agora.</font>
+
+811
+01:03:46,131 --> 01:03:47,435
+<font color=#FFFF00>Eri?</font>
+
+812
+01:03:51,164 --> 01:03:53,137
+<font color=#FFFF00>Por que a Mima
+está demorando tanto?</font>
+
+813
+01:03:53,494 --> 01:03:56,557
+<font color=#FFFF00>Vou voltar para o escritório.
+Leve a Mima para casa, tá?</font>
+
+814
+01:03:57,642 --> 01:04:01,187
+<font color=#FFFF00>Sr. Tadokoro, disse algo sobre
+o próximo trabalho da Mima?</font>
+
+815
+01:04:01,646 --> 01:04:03,073
+<font color=#FFFF00>Ah, sim. É ótimo.</font>
+
+816
+01:04:03,074 --> 01:04:04,942
+<font color=#FFFF00>Um papel principal
+em um filme B.</font>
+
+817
+01:04:04,943 --> 01:04:08,151
+<font color=#FFFF00>Há algumas cenas picantes,
+mas o que podemos fazer?</font>
+
+818
+01:04:14,413 --> 01:04:16,826
+<font color=#FFFF00>Alguém me ajude!</font>
+
+819
+01:04:17,827 --> 01:04:21,330
+<font color=#FFFF00>Como se alguém
+pudesse te ouvir agora!</font>
+
+820
+01:04:23,833 --> 01:04:26,591
+<font color=#FFFF00>Quem é você?
+Por que está fazendo isso?</font>
+
+821
+01:04:26,592 --> 01:04:29,254
+<font color=#FFFF00>Estou protegendo minha
+querida Mima, o que acha?</font>
+
+822
+01:04:29,255 --> 01:04:32,215
+<font color=#FFFF00>Protegendo?
+Mas eu sou a Mima.</font>
+
+823
+01:04:33,871 --> 01:04:36,060
+<font color=#FFFF00>Não, não, não.</font>
+
+824
+01:04:36,061 --> 01:04:38,740
+<font color=#FFFF00>Droga! Você não sabia
+que eu era o Me-mania.</font>
+
+825
+01:04:38,741 --> 01:04:40,640
+<font color=#FFFF00>Você só está fingindo
+ser a Mima!</font>
+
+826
+01:04:42,434 --> 01:04:43,740
+<font color=#FFFF00>Não, pare!</font>
+
+827
+01:04:44,393 --> 01:04:45,700
+<font color=#FFFF00>Não!</font>
+
+828
+01:04:49,148 --> 01:04:51,319
+<font color=#FFFF00>Você manchou
+o nome da Mima</font>
+
+829
+01:04:51,320 --> 01:04:53,568
+<font color=#FFFF00>chupando o fotógrafo
+e o roteirista</font>
+
+830
+01:04:53,569 --> 01:04:55,945
+<font color=#FFFF00>com essa sua boquinha.</font>
+
+831
+01:04:57,780 --> 01:05:00,532
+<font color=#FFFF00>Não pode ter sido você que...</font>
+
+832
+01:05:00,533 --> 01:05:02,418
+<font color=#FFFF00>A verdadeira Mima é legal,</font>
+
+833
+01:05:02,419 --> 01:05:04,418
+<font color=#FFFF00>ela me manda e-mails
+todos os dias!</font>
+
+834
+01:05:04,419 --> 01:05:06,621
+<font color=#FFFF00>E ela diz que você
+continua a atrapalhando!</font>
+
+835
+01:05:06,622 --> 01:05:08,547
+<font color=#FFFF00>Você os matou?</font>
+
+836
+01:05:08,548 --> 01:05:10,375
+<font color=#FFFF00>E você vai morrer
+em breve também!</font>
+
+837
+01:05:24,577 --> 01:05:28,434
+<font color=#FFFF00>Garota má!
+Tem que seguir o roteiro!</font>
+
+838
+01:05:32,927 --> 01:05:35,148
+<font color=#FFFF00>E... tomada 2!</font>
+
+839
+01:07:10,278 --> 01:07:11,946
+<font color=#FFFF00>Tudo certo! Está bom!</font>
+
+840
+01:07:15,889 --> 01:07:18,378
+<font color=#FFFF00>Você é a melhor, Mima!</font>
+
+841
+01:07:35,134 --> 01:07:36,437
+<font color=#FFFF00>Mima!</font>
+
+842
+01:07:38,179 --> 01:07:39,887
+<font color=#FFFF00>Meu Deus.
+O que houve com você?</font>
+
+843
+01:07:40,431 --> 01:07:42,183
+<font color=#FFFF00>Eu estava procurando por você!</font>
+
+844
+01:07:43,506 --> 01:07:46,227
+<font color=#FFFF00>- É você mesma?
+- O que aconteceu aqui?</font>
+
+845
+01:07:57,985 --> 01:07:59,295
+<font color=#FFFF00>Não pode...</font>
+
+846
+01:07:59,907 --> 01:08:01,855
+<font color=#FFFF00>Tem certeza
+de que não estava sonhando?</font>
+
+847
+01:08:14,503 --> 01:08:15,804
+<font color=#FFFF00>Você está bem?</font>
+
+848
+01:08:16,964 --> 01:08:18,799
+<font color=#FFFF00>Estamos voltando
+ao Quarto da Mima.</font>
+
+849
+01:08:41,292 --> 01:08:44,240
+<font color=#FFFF00>- Rumi, está aqui?
+- Sim, o que foi?</font>
+
+850
+01:08:44,615 --> 01:08:46,075
+<font color=#FFFF00>Ah, nada.</font>
+
+851
+01:08:48,785 --> 01:08:50,541
+<font color=#FFFF00>Preciso ligar
+para o Sr. Tadokoro.</font>
+
+852
+01:09:53,094 --> 01:09:55,929
+<font color=#FFFF00>Não.
+Este não é o meu quarto.</font>
+
+853
+01:09:55,930 --> 01:09:58,516
+<font color=#FFFF00>Claro que não,
+este é o Quarto da Mima!</font>
+
+854
+01:10:00,935 --> 01:10:02,245
+<font color=#FFFF00>Você é...</font>
+
+855
+01:10:02,246 --> 01:10:05,564
+<font color=#FFFF00>Veja! Estou usando o novo traje,
+não é fabuloso?</font>
+
+856
+01:10:06,398 --> 01:10:08,691
+<font color=#FFFF00>Usarei no show de amanhã!</font>
+
+857
+01:10:08,692 --> 01:10:11,403
+<font color=#FFFF00>Não é ótimo?
+É perfeito para mim!</font>
+
+858
+01:10:14,785 --> 01:10:16,715
+<font color=#FFFF00>Mas Rumi, por que você...?</font>
+
+859
+01:10:18,367 --> 01:10:20,119
+<font color=#FFFF00>Por que Rumi está...</font>
+
+860
+01:10:20,554 --> 01:10:21,864
+<font color=#FFFF00>Rumi.</font>
+
+861
+01:10:23,122 --> 01:10:25,248
+<font color=#FFFF00>Ah, está tudo bem,
+Rumi foi para casa.</font>
+
+862
+01:10:25,249 --> 01:10:28,113
+<font color=#FFFF00>Ela disse que estava cansada,
+e precisava dormir um pouco.</font>
+
+863
+01:10:28,114 --> 01:10:29,503
+<font color=#FFFF00>Não fale assim.</font>
+
+864
+01:10:30,594 --> 01:10:32,132
+<font color=#FFFF00>Isso é uma piada,
+não é, Rumi?</font>
+
+865
+01:10:32,133 --> 01:10:35,425
+<font color=#FFFF00><i>Seu coração palpita, palpita
+Quando você está apaixonada</i></font>
+
+866
+01:10:35,426 --> 01:10:39,012
+<font color=#FFFF00><i>Mas ele vibra, vibra
+Quando você é amada de volta</i></font>
+
+867
+01:10:39,573 --> 01:10:41,062
+<font color=#FFFF00>O que acha?
+Perfeito, né?</font>
+
+868
+01:10:41,063 --> 01:10:44,191
+<font color=#FFFF00>Afinal, eu sou uma estrela pop,
+e estrelas pop têm que cantar.</font>
+
+869
+01:10:44,192 --> 01:10:45,725
+<font color=#FFFF00>Mas...</font>
+
+870
+01:10:45,726 --> 01:10:47,770
+<font color=#FFFF00>você continua se metendo
+no meu caminho.</font>
+
+871
+01:10:48,212 --> 01:10:50,491
+<font color=#FFFF00>Rumi ficou muito brava também.</font>
+
+872
+01:10:50,492 --> 01:10:52,816
+<font color=#FFFF00>Não, por favor.
+Pare com isso!</font>
+
+873
+01:10:53,317 --> 01:10:55,111
+<font color=#FFFF00>Mas não precisa se preocupar.</font>
+
+874
+01:10:55,112 --> 01:10:57,450
+<font color=#FFFF00>Uma estrela pop é sempre
+protegida pelos fãs.</font>
+
+875
+01:10:57,451 --> 01:11:00,910
+<font color=#FFFF00>Eles sempre fazem qualquer
+favor que eu, Mima, peça a eles!</font>
+
+876
+01:11:00,911 --> 01:11:03,701
+<font color=#FFFF00>Embora o Sr. Me-mania
+tenha falhado um pouquinho.</font>
+
+877
+01:11:04,369 --> 01:11:05,671
+<font color=#FFFF00>Sr. Me-mania?</font>
+
+878
+01:11:06,996 --> 01:11:08,914
+<font color=#FFFF00>Como você o conhece?</font>
+
+879
+01:11:08,915 --> 01:11:10,873
+<font color=#FFFF00>Mas isso não faz
+nenhuma diferença.</font>
+
+880
+01:11:10,874 --> 01:11:13,668
+<font color=#FFFF00>"Você colhe o que semeia."
+Especialmente você.</font>
+
+881
+01:12:55,932 --> 01:12:58,182
+<font color=#FFFF00>Socorro,
+alguém me ajude!</font>
+
+882
+01:13:11,402 --> 01:13:13,541
+<font color=#FFFF00>Por favor!
+Rumi, é você, não é?</font>
+
+883
+01:13:14,030 --> 01:13:16,866
+<font color=#FFFF00>- Acorde!
+- É você quem precisa acordar.</font>
+
+884
+01:13:24,481 --> 01:13:27,825
+<font color=#FFFF00>Socorro, alguém me ajude!</font>
+
+885
+01:13:27,826 --> 01:13:31,171
+<font color=#FFFF00>Socorro! Socorro!</font>
+
+886
+01:13:34,673 --> 01:13:37,468
+<font color=#FFFF00>Por favor, alguém me ajude!</font>
+
+887
+01:13:37,469 --> 01:13:39,459
+<font color=#FFFF00>Por favor, ajudem-me!</font>
+
+888
+01:13:41,869 --> 01:13:45,038
+<font color=#FFFF00>Socorro! Socorro!</font>
+
+889
+01:14:14,377 --> 01:14:16,295
+<font color=#FFFF00>Vamos acabar com tudo isso.</font>
+
+890
+01:14:16,296 --> 01:14:18,630
+<font color=#FFFF00>Não precisamos
+de duas Mimas, não é?</font>
+
+891
+01:14:18,631 --> 01:14:20,466
+<font color=#FFFF00>Eu sou a Mima!</font>
+
+892
+01:14:21,551 --> 01:14:24,302
+<font color=#FFFF00>Isso é engraçado,
+Mima é uma estrela pop!</font>
+
+893
+01:14:24,636 --> 01:14:27,344
+<font color=#FFFF00>Você é só
+uma impostora velha e suja!</font>
+
+894
+01:14:27,345 --> 01:14:28,932
+<font color=#FFFF00>Você é a impostora!</font>
+
+895
+01:14:28,933 --> 01:14:31,268
+<font color=#FFFF00>Eu não vou mais aguentar isso!</font>
+
+896
+01:15:37,120 --> 01:15:38,430
+<font color=#FFFF00>Merda!</font>
+
+897
+01:15:40,248 --> 01:15:41,878
+<font color=#FFFF00>Cara!
+Isso é grave.</font>
+
+898
+01:15:41,879 --> 01:15:44,298
+<font color=#FFFF00>Chama a polícia!
+Não, chame uma ambulância.</font>
+
+899
+01:15:44,299 --> 01:15:45,609
+<font color=#FFFF00>Eu sei!</font>
+
+900
+01:16:44,575 --> 01:16:47,142
+<font color=#FFFF00>Obrigado pelas flores
+que você sempre traz.</font>
+
+901
+01:16:47,810 --> 01:16:49,394
+<font color=#FFFF00>Vou colocá-las no meu quarto.</font>
+
+902
+01:16:49,395 --> 01:16:52,147
+<font color=#FFFF00>São bonitas, muito bonitas.</font>
+
+903
+01:17:00,003 --> 01:17:01,563
+<font color=#FFFF00>Não sabia que você estava aqui.</font>
+
+904
+01:17:01,564 --> 01:17:03,573
+<font color=#FFFF00>Deve estar muito
+ocupada ultimamente.</font>
+
+905
+01:17:03,574 --> 01:17:05,200
+<font color=#FFFF00>Ah, não.</font>
+
+906
+01:17:05,201 --> 01:17:08,246
+<font color=#FFFF00>De vez em quando, ela retorna
+à personalidade de Rumi.</font>
+
+907
+01:17:09,703 --> 01:17:12,290
+<font color=#FFFF00>Eu sei que nunca mais vou vê-la.</font>
+
+908
+01:17:13,502 --> 01:17:16,712
+<font color=#FFFF00>Mas, graças a ela,
+sou quem sou hoje.</font>
+
+909
+01:17:28,264 --> 01:17:31,421
+<font color=#FFFF00>Está mentindo! Não há como Mima
+Kirigoe estar em um lugar assim.</font>
+
+910
+01:17:31,821 --> 01:17:33,477
+<font color=#FFFF00>Talvez fosse alguém parecido.</font>
+
+911
+01:17:43,000 --> 01:17:44,779
+<font color=#FFFF00>Não, eu sou a verdadeira!</font>
+
+912
+01:17:46,871 --> 01:17:51,871
+<font color=#FFFF00>- Art Subs -
+11 anos fazendo Arte para você!</font>
+
+913
+01:17:51,872 --> 01:17:56,872
+<font color=#FFFF00>Curta a gente no Face:
+facebook.com/ArtSubs</font>
+
+914
+01:18:02,550 --> 01:18:08,550
+<font color=#FFFF00><i>Quando passo por essa estação
+No trem</i></font>
+
+915
+01:18:09,000 --> 01:18:12,468
+<font color=#FFFF00><i>Meu coração se enche</i></font>
+
+916
+01:18:12,469 --> 01:18:15,774
+<font color=#FFFF00><i>De nostalgia</i></font>
+
+917
+01:18:16,217 --> 01:18:20,039
+<font color=#FFFF00><i>De quando eu era feliz</i></font>
+
+918
+01:18:20,040 --> 01:18:26,040
+<font color=#FFFF00><i>E escondia todas
+As minhas tremulantes emoções</i></font>
+
+919
+01:18:26,551 --> 01:18:30,108
+<font color=#FFFF00><i>Debaixo do meu uniforme escolar</i></font>
+
+920
+01:18:30,752 --> 01:18:33,810
+<font color=#FFFF00><i>Leve-me de volta</i></font>
+
+921
+01:18:33,811 --> 01:18:37,771
+<font color=#FFFF00><i>Para a época
+Do meu primeiro amor</i></font>
+
+922
+01:18:37,772 --> 01:18:41,460
+<font color=#FFFF00><i>Àquelas quatro estações</i></font>
+
+923
+01:18:41,461 --> 01:18:45,803
+<font color=#FFFF00><i>Em que eu estava eufórica
+Mas confusa</i></font>
+
+924
+01:18:45,804 --> 01:18:48,667
+<font color=#FFFF00><i>Lembra-se da época</i></font>
+
+925
+01:18:48,668 --> 01:18:52,221
+<font color=#FFFF00><i>Em que estar ao seu lado</i></font>
+
+926
+01:18:52,555 --> 01:18:58,555
+<font color=#FFFF00><i>Fazia nosso amor um pelo outro
+Crescer ainda mais?</i></font>
+
+927
+01:18:58,556 --> 01:19:02,430
+<font color=#FFFF00><i>Independentemente da estação</i></font>
+
+928
+01:19:16,925 --> 01:19:22,925
+<font color=#FFFF00><i>Cortei meu cabelo
+Depois de me formar</i></font>
+
+929
+01:19:22,926 --> 01:19:25,055
+<font color=#FFFF00><i>Me pergunto</i></font>
+
+930
+01:19:25,056 --> 01:19:30,577
+<font color=#FFFF00><i>Se você também mudou</i></font>
+
+931
+01:19:30,578 --> 01:19:34,869
+<font color=#FFFF00><i>Será que mesmo depois
+De tanto tempo</i></font>
+
+932
+01:19:34,870 --> 01:19:37,450
+<font color=#FFFF00><i>Você ainda está à procura
+Daquele sonho</i></font>
+
+933
+01:19:37,451 --> 01:19:40,587
+<font color=#FFFF00><i>Do qual sempre falávamos</i></font>
+
+934
+01:19:40,588 --> 01:19:44,900
+<font color=#FFFF00><i>Enquanto voltávamos para casa?</i></font>
+
+935
+01:19:45,447 --> 01:19:48,279
+<font color=#FFFF00><i>Leve-me à época</i></font>
+
+936
+01:19:48,280 --> 01:19:52,287
+<font color=#FFFF00><i>Em que minhas lágrimas
+Transbordavam</i></font>
+
+937
+01:19:52,288 --> 01:19:54,675
+<font color=#FFFF00><i>Naquelas quatro estações</i></font>
+
+938
+01:19:54,676 --> 01:20:00,288
+<font color=#FFFF00><i>Que eu sentia
+Do fundo do meu coração</i></font>
+
+939
+01:20:00,289 --> 01:20:04,896
+<font color=#FFFF00><i>Lembra-se de que após a escola</i></font>
+
+940
+01:20:04,897 --> 01:20:07,135
+<font color=#FFFF00><i>No pôr do sol</i></font>
+
+941
+01:20:07,136 --> 01:20:11,157
+<font color=#FFFF00><i>Queríamos apenas</i></font>
+
+942
+01:20:11,158 --> 01:20:16,483
+<font color=#FFFF00><i>Ficar juntos e sozinhos?</i></font>
+
+943
+01:20:30,242 --> 01:20:33,062
+<font color=#FFFF00><i>Mesmo nessa nova estação</i></font>
+
+944
+01:20:33,063 --> 01:20:36,914
+<font color=#FFFF00><i>Não consigo me desfazer</i></font>
+
+945
+01:20:36,915 --> 01:20:40,361
+<font color=#FFFF00><i>Do costume de fingir</i></font>
+
+946
+01:20:40,362 --> 01:20:44,915
+<font color=#FFFF00><i>Quando estou triste</i></font>
+
+947
+01:20:44,916 --> 01:20:47,911
+<font color=#FFFF00><i>Tenho certeza</i></font>
+
+948
+01:20:47,912 --> 01:20:51,722
+<font color=#FFFF00><i>De que você sabia</i></font>
+
+949
+01:20:51,723 --> 01:20:55,903
+<font color=#FFFF00><i>Ainda lembro-me dos seus olhos</i></font>
+
+950
+01:20:55,904 --> 01:21:01,904
+<font color=#FFFF00><i>Quando me olhava em silêncio</i></font>
+

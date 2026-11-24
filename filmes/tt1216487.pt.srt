@@ -1,0 +1,4327 @@
+1
+00:00:06,000 --> 00:00:12,074
+-==[ www.OpenSubtitles.org ]==-
+
+2
+00:00:54,713 --> 00:01:00,594
+<b>A GAROTA QUE BRINCAVA COM FOGO</b>
+
+3
+00:01:06,141 --> 00:01:08,185
+<i>Olá. Bem-vinda.</i>
+
+4
+00:01:10,103 --> 00:01:13,773
+<i>Venha aqui.
+Sim, assim. É muito melhor.</i>
+
+5
+00:01:15,609 --> 00:01:17,360
+<i>Vai ser boazinha comigo?</i>
+
+6
+00:01:19,112 --> 00:01:22,699
+<i>Vai ser boazinha comigo?
+Então serei bonzinho com você.</i>
+
+7
+00:01:23,700 --> 00:01:25,994
+<i>É tarde demais.</i>
+
+8
+00:02:34,354 --> 00:02:37,065
+ENCONTRAR BJURMAN
+CONECTANDO COM BJURMAN
+
+9
+00:02:37,399 --> 00:02:40,193
+ABRIR CONEXÃO CODIFICADA
+
+10
+00:02:53,998 --> 00:02:57,127
+SR. NILS BJURMAN, INFORMAMOS A SUA
+CONSULTA PARA REMOÇÃO DE TATUAGENS.
+
+11
+00:02:57,585 --> 00:03:00,463
+POR FAVOR, CONFIRMAR A CONSULTA.
+ESTAMOS ANSIOSOS PARA AJUDÁ-LO.
+
+12
+00:03:00,964 --> 00:03:04,509
+Certo, Srta. Salander, eu comprei
+o apartamento em Estocolmo.
+
+13
+00:03:04,843 --> 00:03:06,469
+Aquela na Fiskargatan.
+
+14
+00:03:08,888 --> 00:03:13,768
+<i>Também aluguei um Caixa Postal
+em nome de Empreendimentos Wasp.</i>
+
+15
+00:03:14,102 --> 00:03:19,816
+Mandarei regularmente extratos de
+suas contas e investimentos em ações...
+
+16
+00:03:20,150 --> 00:03:22,569
+<i>para o que naturalmente
+eu preciso da sua assinatura.</i>
+
+17
+00:03:27,699 --> 00:03:31,202
+Esta é a pequena quantia em
+dinheiro que sua mãe deixou...
+
+18
+00:03:31,536 --> 00:03:34,330
+depois de pagas as despesas
+com o funeral.
+
+19
+00:04:05,403 --> 00:04:07,739
+Advogado Bjurman?
+
+20
+00:04:09,157 --> 00:04:10,867
+Sim?
+
+21
+00:04:11,201 --> 00:04:15,788
+É sobre um arquivo policial
+de 1993. Lisbeth Salander.
+
+22
+00:04:16,873 --> 00:04:19,667
+Meu chefe gostaria de dar
+uma olhada nele.
+
+23
+00:04:23,421 --> 00:04:27,675
+Sério?
+E quem é o seu chefe?
+
+24
+00:04:52,659 --> 00:04:54,327
+Tenho o arquivo guardado
+na minha casa de campo.
+
+25
+00:04:54,661 --> 00:04:57,455
+- Você tem cópias?
+- Não.
+
+26
+00:05:05,171 --> 00:05:09,175
+- Ela ainda está no exterior?
+- Sim, possivelmente.
+
+27
+00:05:25,358 --> 00:05:26,943
+Obrigado.
+
+28
+00:05:28,945 --> 00:05:30,738
+Bjurman?
+
+29
+00:05:33,408 --> 00:05:35,618
+Ficarei em contato.
+
+30
+00:07:33,486 --> 00:07:37,156
+Você tem fazer relatórios sobre
+mim para a Curadoria Pública.
+
+31
+00:07:37,490 --> 00:07:40,117
+- Eu faço.
+- Todo mês. Você é descuidado.
+
+32
+00:07:40,451 --> 00:07:43,663
+- Tenho alguns na minha casa de campo.
+- Cale-se.
+
+33
+00:07:43,996 --> 00:07:46,674
+Se os seus relatórios disserem
+que estou me comportando bem...
+
+34
+00:07:46,707 --> 00:07:49,502
+eu liberarei você quando a minha
+tutela terminar.
+
+35
+00:07:49,835 --> 00:07:53,673
+Mas se falhar, mandarei o nosso
+filme para todos os jornais do país.
+
+36
+00:07:54,006 --> 00:07:57,885
+Se algo me acontecer ou
+eu morrer, o filme será divulgado.
+
+37
+00:07:58,219 --> 00:08:01,639
+E se me tocar de novo,
+eu matarei você.
+
+38
+00:08:01,973 --> 00:08:03,975
+E mais uma coisa.
+
+39
+00:08:04,308 --> 00:08:08,354
+Se visitar a clínica em Marselha
+para remover a tatuagem...
+
+40
+00:08:08,688 --> 00:08:11,732
+eu farei um novo trabalho.
+Na sua testa.
+
+41
+00:08:12,066 --> 00:08:15,319
+- Entendeu?
+- Sim.
+
+42
+00:08:30,626 --> 00:08:32,503
+<i>É Zala?</i>
+
+43
+00:08:32,837 --> 00:08:35,381
+<i>Nils Bjurman.</i>
+
+44
+00:08:35,715 --> 00:08:40,636
+<i>Está interessado no arquivo
+policial sobre Lisbeth Salander.</i>
+
+45
+00:08:40,970 --> 00:08:43,472
+<i>Eu o tenho em um lugar seguro.</i>
+
+46
+00:08:43,806 --> 00:08:48,936
+<i>Você poderá tê-lo, mas só...
+se cuidar de Salander primeiro.</i>
+
+47
+00:08:49,270 --> 00:08:53,065
+<i>Ela tem um DVD que me pertence.</i>
+
+48
+00:08:53,399 --> 00:08:56,318
+<i>Quando eu recebê-lo,
+você terá o arquivo.</i>
+
+49
+00:08:56,652 --> 00:08:59,613
+<i>Ela está de volta à Suécia e não
+será difícil encontrá-la.</i>
+
+50
+00:09:12,710 --> 00:09:15,004
+<i>- Você ainda a vê?
+- Quem?</i>
+
+51
+00:09:15,337 --> 00:09:19,925
+- Lisbeth Salander.
+- Eu não a vejo faz um ano.
+
+52
+00:09:20,259 --> 00:09:22,720
+- Por quê isto?
+- Eu não sei.
+
+53
+00:09:23,053 --> 00:09:27,391
+Um dia conversamos. No outro
+nem atendeu o telefone.
+
+54
+00:09:27,725 --> 00:09:32,354
+Precisamos ir agora. Dag Svensson
+vai à reunião editorial hoje.
+
+55
+00:09:32,688 --> 00:09:36,108
+- Dag quem?
+- Tem uma história sobre tráfico humano.
+
+56
+00:09:36,442 --> 00:09:38,861
+Garotas da Europa Oriental.
+
+57
+00:09:39,612 --> 00:09:43,824
+- Que tipo de cara ele é?
+- Autônomo, jovem e ousado.
+
+58
+00:09:45,284 --> 00:09:48,204
+- Atlético.
+- Atlético?
+
+59
+00:09:48,537 --> 00:09:53,125
+- Há quanto tempo trabalha nisto?
+- Há cerca de quatro anos.
+
+60
+00:09:53,459 --> 00:09:56,629
+Descobri a matéria através
+de minha namorada.
+
+61
+00:09:56,712 --> 00:09:58,756
+Ela está pesquisando sobre sexo
+e é uma criminologista.
+
+62
+00:09:58,881 --> 00:10:01,842
+Ela faz doutorado
+sobre tráfico humano.
+
+63
+00:10:02,176 --> 00:10:03,928
+Vocês trabalham juntos?
+
+64
+00:10:04,261 --> 00:10:07,389
+Não, Mia se concentra
+nas garotas.
+
+65
+00:10:07,723 --> 00:10:12,144
+Eu me concentro mais nos
+distribuidores e na clientela.
+
+66
+00:10:12,478 --> 00:10:13,979
+E o que você descobriu?
+
+67
+00:10:14,313 --> 00:10:17,733
+Descobri vários clientes
+proeminentes.
+
+68
+00:10:18,067 --> 00:10:20,444
+Entre eles, alguém do
+Ministério da Justiça...
+
+69
+00:10:20,778 --> 00:10:23,572
+que participou na elaboração
+na nova lei sobre mercado de sexo.
+
+70
+00:10:23,906 --> 00:10:25,199
+Três policiais...
+
+71
+00:10:25,533 --> 00:10:28,786
+um da Divisão de Costumes,
+um da Polícia de Segurança.
+
+72
+00:10:29,119 --> 00:10:32,122
+Cinco advogados, um juiz
+e um promotor.
+
+73
+00:10:32,456 --> 00:10:34,333
+As garotas envolvidas...
+
+74
+00:10:34,667 --> 00:10:38,671
+são tão baixas na escala social
+que são legalmente irrelevantes.
+
+75
+00:10:39,004 --> 00:10:43,175
+Crimes contra garotas do Leste
+europeu não são prioridade.
+
+76
+00:10:43,509 --> 00:10:45,928
+Uma puta é uma puta.
+Isto...
+
+77
+00:10:46,262 --> 00:10:48,305
+...faz parte do sistema.
+
+78
+00:10:49,181 --> 00:10:53,394
+- Até onde você chegou?
+- Terminei a pesquisa.
+
+79
+00:10:53,727 --> 00:10:56,480
+O que falta é confirmar os fatos...
+
+80
+00:10:56,814 --> 00:10:59,566
+e confrontar os clientes
+que quero desmascarar.
+
+81
+00:10:59,900 --> 00:11:01,527
+Espere, espere, espere.
+
+82
+00:11:01,860 --> 00:11:05,614
+Da última vez que não confirmei
+fatos, passei três meses preso..
+
+83
+00:11:05,948 --> 00:11:08,909
+Todos terão a oportunidade
+de comentar sobre as alegações.
+
+84
+00:11:09,243 --> 00:11:12,788
+Não precisa se preocupar.
+A documentação é sólida.
+
+85
+00:11:17,084 --> 00:11:20,379
+- Parece tranquilizador.
+- Sim.
+
+86
+00:11:29,388 --> 00:11:32,641
+Certo. Não pagamos
+nenhum alto salário.
+
+87
+00:11:32,975 --> 00:11:37,104
+Sugiro um serviço de dois
+meses para o projeto.
+
+88
+00:11:37,438 --> 00:11:39,857
+Pode ficar com aquela mesa.
+
+89
+00:11:41,942 --> 00:11:45,404
+- Parece bem?
+- Sim, excelente.
+
+90
+00:11:45,738 --> 00:11:49,241
+Estamos arriscando o nosso pescoço
+com este caso.
+
+91
+00:11:49,742 --> 00:11:51,577
+Temos que entender isto.
+
+92
+00:11:52,661 --> 00:11:55,664
+Supostamente esta é a razão
+para a Millennium?
+
+93
+00:11:55,998 --> 00:12:00,669
+- Por isso estamos sentados aqui.
+- Sim, bem-vindo à Millennium.
+
+94
+00:12:02,671 --> 00:12:04,256
+Obrigado.
+
+95
+00:12:36,872 --> 00:12:38,165
+Sandström?
+
+96
+00:12:44,505 --> 00:12:47,800
+- Temos um serviço para você.
+- Não acho...
+
+97
+00:12:48,133 --> 00:12:50,761
+Sim, na verdade, temos.
+
+98
+00:13:15,369 --> 00:13:17,371
+Olá, Armanskij.
+
+99
+00:13:22,501 --> 00:13:24,586
+Posso entrar?
+
+100
+00:13:38,350 --> 00:13:40,644
+Faz mais de um ano.
+
+101
+00:13:48,402 --> 00:13:50,988
+O que você quer?
+Precisa de um emprego?
+
+102
+00:13:54,116 --> 00:13:56,702
+Trabalha em outro lugar?
+
+103
+00:14:01,248 --> 00:14:05,210
+Andei viajando. Apenas
+recentemente voltei à Suécia.
+
+104
+00:14:06,920 --> 00:14:09,756
+- Onde você andou?
+- Um pouco em cada lugar.
+
+105
+00:14:10,090 --> 00:14:14,094
+Austrália, Nova Zelândia.
+Os últimos meses no Caribe.
+
+106
+00:14:20,767 --> 00:14:23,353
+Não sei por que
+não me despedi.
+
+107
+00:14:23,687 --> 00:14:27,232
+Porque você realmente não
+se importa com os outros.
+
+108
+00:14:27,566 --> 00:14:32,112
+Trata as pessoas que tentam
+ser suas amigas como merda.
+
+109
+00:14:33,196 --> 00:14:35,532
+É simples assim.
+
+110
+00:14:42,914 --> 00:14:46,001
+Blomkvist anda procurando
+por você.
+
+111
+00:14:46,960 --> 00:14:51,423
+Ele liga ao menos uma vez
+por mês perguntando por você.
+
+112
+00:14:51,757 --> 00:14:56,261
+Ele se importa também.
+O mesmo que Holger Palmgren.
+
+113
+00:14:56,595 --> 00:14:59,222
+Faz dois anos que
+ele teve um derrame...
+
+114
+00:14:59,556 --> 00:15:01,975
+e você sequer foi visitá-lo.
+
+115
+00:15:02,309 --> 00:15:04,186
+Ele está vivo?
+
+116
+00:15:04,519 --> 00:15:08,315
+Você nem sabe se ele está
+vivo ou morto.
+
+117
+00:15:44,810 --> 00:15:47,771
+Você sumiu.
+
+118
+00:15:50,190 --> 00:15:53,193
+Andei viajando. Tinha que
+ficar afastada um tempo.
+
+119
+00:15:53,527 --> 00:15:56,154
+Você anda preocupado?
+
+120
+00:15:57,030 --> 00:15:59,991
+Não. Você não pode
+fazer nada.
+
+121
+00:16:02,119 --> 00:16:04,079
+Sim, é assim que é.
+
+122
+00:16:10,544 --> 00:16:13,588
+Como estão as coisas
+com o novo...
+
+123
+00:16:15,423 --> 00:16:18,009
+...tutor?
+
+124
+00:16:18,802 --> 00:16:20,887
+Bjurman.
+
+125
+00:16:21,221 --> 00:16:24,140
+Ele é legal.
+Tudo bem.
+
+126
+00:16:24,474 --> 00:16:27,853
+Ainda está obrigada a ficar
+sob a supervisão de um tutor?
+
+127
+00:16:28,186 --> 00:16:30,772
+Não se preocupe comigo.
+
+128
+00:16:31,106 --> 00:16:34,359
+Eu dou um jeito.
+Não é mais o seu serviço.
+
+129
+00:16:34,693 --> 00:16:36,987
+Não, estou muito velho.
+
+130
+00:16:37,320 --> 00:16:40,448
+Sou apenas um velho idiota.
+
+131
+00:16:40,782 --> 00:16:42,409
+Sim, você é.
+
+132
+00:16:42,742 --> 00:16:45,954
+Realmente idiota, se pensar nisto.
+
+133
+00:16:54,754 --> 00:16:57,799
+Pensei que estivesse morta
+ou coisa assim.
+
+134
+00:16:57,924 --> 00:16:58,967
+Ou coisa assim.
+
+135
+00:16:59,092 --> 00:17:02,429
+Não nos vimos tanto assim
+antes de você ir embora.
+
+136
+00:17:02,762 --> 00:17:06,141
+- Eu estava ocupada.
+- É bom tê-la de volta.
+
+137
+00:17:06,474 --> 00:17:09,227
+Só conheço uma pessoa que
+ousa bater à porta...
+
+138
+00:17:09,561 --> 00:17:13,607
+depois de ano e meio de silêncio
+e perguntar se quero trepar.
+
+139
+00:17:14,149 --> 00:17:18,278
+...depois rompi com ela e fui
+para Paris. Meus pais moram lá.
+
+140
+00:17:18,612 --> 00:17:21,865
+Trabalhei em um clube
+perto de Clichy.
+
+141
+00:17:22,198 --> 00:17:24,451
+Um lugar fantástico.
+
+142
+00:17:24,784 --> 00:17:28,121
+Mas me inscrevi na Faculdade
+de Direito e fui aceita.
+
+143
+00:17:28,455 --> 00:17:32,709
+- Minha mãe achou a carta e disse...
+- Quer o meu apartamento?
+
+144
+00:17:34,127 --> 00:17:37,088
+- O quê?
+- Você quer o meu apartamento?
+
+145
+00:17:37,422 --> 00:17:40,592
+- Você vai se mudar?
+- Eu já me mudei.
+
+146
+00:17:41,468 --> 00:17:43,845
+Não tenho condições de
+comprar nada, Lisbeth.
+
+147
+00:17:44,179 --> 00:17:47,807
+O aluguel está pago por
+um ano. Você quer?
+
+148
+00:18:01,613 --> 00:18:04,449
+- Só tem uma coisa.
+- Eu imaginei.
+
+149
+00:18:04,783 --> 00:18:05,909
+Ainda estou cadastrada aqui.
+
+150
+00:18:06,117 --> 00:18:08,536
+Minha correspondência é enviada
+para cá.
+
+151
+00:18:08,661 --> 00:18:11,164
+Você cuidará disto.
+
+152
+00:18:12,374 --> 00:18:15,043
+Posso fazer isto.
+Onde está morando?
+
+153
+00:18:15,377 --> 00:18:19,297
+- Em outro lugar.
+- Posso visitá-la?
+
+154
+00:18:21,758 --> 00:18:23,843
+Não. Agora não.
+
+155
+00:18:24,177 --> 00:18:27,889
+Mas você virá trepar comigo
+quando sentir vontade?
+
+156
+00:18:28,223 --> 00:18:31,559
+Gostaria disto, mas não é
+parte do nosso trato.
+
+157
+00:18:32,811 --> 00:18:36,064
+Porra, você não bate bem.
+Está falando sério?
+
+158
+00:18:36,397 --> 00:18:37,607
+Sim.
+
+159
+00:18:42,904 --> 00:18:44,614
+Venha aqui.
+
+160
+00:20:12,869 --> 00:20:15,622
+Droga. Tenho uma coisa
+para você.
+
+161
+00:20:28,718 --> 00:20:31,804
+Aqui está.
+Feliz aniversário.
+
+162
+00:20:32,722 --> 00:20:36,434
+- Não é o meu aniversário.
+- É pelo ano passado.
+
+163
+00:21:02,543 --> 00:21:05,129
+Se vai continuar a fumar
+esta merda...
+
+164
+00:21:05,463 --> 00:21:08,132
+poderia ao menos fazê-lo
+com elegância.
+
+165
+00:21:13,846 --> 00:21:16,933
+Você é ao única que me
+dá presentes.
+
+166
+00:21:31,781 --> 00:21:35,326
+- Como vai?
+- Estou bem. Excelente.
+
+167
+00:21:37,412 --> 00:21:41,249
+Ou apenas bem. Estou tentando
+encontrar um dos clientes.
+
+168
+00:21:41,582 --> 00:21:45,169
+Um policial da Polícia de
+Segurança. Gunnar Björck.
+
+169
+00:21:45,503 --> 00:21:49,382
+Não se encontra em lugar nenhum.
+Como se engolido pela terra.
+
+170
+00:21:49,715 --> 00:21:51,759
+É impossível.
+
+171
+00:21:53,678 --> 00:21:57,306
+- O que você tem?
+- Um endereço de caixa postal.
+
+172
+00:21:58,516 --> 00:22:00,893
+Um endereço de caixa postal?
+
+173
+00:22:03,896 --> 00:22:06,691
+Tente o truque da loteria.
+
+174
+00:22:07,900 --> 00:22:09,944
+- O quê?
+- Truque da loteria.
+
+175
+00:22:10,278 --> 00:22:13,990
+Escreva para a caixa postal
+e diga que ele ganhou...
+
+176
+00:22:14,323 --> 00:22:18,536
+...um celular irado com GPS
+e que ele é um dos 20 escolhidos...
+
+177
+00:22:18,870 --> 00:22:21,455
+para ganhar $100 mil
+se ele participar...
+
+178
+00:22:21,622 --> 00:22:23,583
+de um estudo de pesquisa
+de mercado.
+
+179
+00:22:23,708 --> 00:22:25,459
+Isto é legal?
+
+180
+00:22:25,793 --> 00:22:28,838
+Não pode ser ilegal dar
+um telefone para alguém?
+
+181
+00:22:29,172 --> 00:22:32,925
+Diga que você é do Centro
+Índigo de Pesquisas.
+
+182
+00:22:42,560 --> 00:22:45,897
+Olá, querida. Desculpe ter
+chegado tarde.
+
+183
+00:22:47,398 --> 00:22:50,776
+Vamos publicar a próxima semana,
+então estamos muito ocupados.
+
+184
+00:22:51,110 --> 00:22:54,488
+Você é o único trabalhando
+nesta revista?
+
+185
+00:22:54,822 --> 00:22:58,951
+Todos ralam como animais.
+Preciso mais tempo que os outros.
+
+186
+00:23:01,203 --> 00:23:04,790
+Micke começou a confrontar
+alguns dos clientes.
+
+187
+00:23:05,124 --> 00:23:09,086
+Ele é tão experiente que
+eles se mijam nas calças se ele só...
+
+188
+00:23:09,420 --> 00:23:12,757
+Está terminado. Editado.
+Sim.
+
+189
+00:23:13,090 --> 00:23:17,386
+Já está terminado?
+"Moscou contra 007".
+
+190
+00:23:17,720 --> 00:23:22,350
+"Crime Organizado e
+Seres Humanos".
+
+191
+00:23:22,683 --> 00:23:25,102
+- Por Mia Bergman.
+- Sou eu.
+
+192
+00:23:25,436 --> 00:23:27,188
+Minha garota.
+
+193
+00:23:29,982 --> 00:23:32,234
+- Precisamos comemorar.
+- Sim.
+
+194
+00:23:32,568 --> 00:23:34,320
+Dê-me um beijo.
+
+195
+00:23:34,654 --> 00:23:38,199
+- Dê-me um beijo.
+- Está terminado.
+
+196
+00:23:51,087 --> 00:23:55,007
+Comida deliciosa.
+Muito boa mesmo, Annika.
+
+197
+00:23:55,341 --> 00:23:59,595
+Por que diz para ela?
+Fui eu quem cozinhou.
+
+198
+00:23:59,929 --> 00:24:02,348
+Está bem deliciosa, Annika.
+
+199
+00:24:02,682 --> 00:24:08,229
+- Por que não se casa?
+- Deixe-o em paz, tia Angelina.
+
+200
+00:24:08,562 --> 00:24:11,148
+- Ele não quer.
+- Por quê não?
+
+201
+00:24:11,482 --> 00:24:13,984
+Ele é tão bonito.
+
+202
+00:24:14,318 --> 00:24:17,947
+Mikael, você tem uma mulher?
+Você tem que ter uma mulher.
+
+203
+00:24:18,280 --> 00:24:20,324
+Sim, eu tenho uma mulher.
+
+204
+00:24:20,658 --> 00:24:25,371
+- Então case-se com ela.
+- Adoraria, mas ela já é casada.
+
+205
+00:24:29,250 --> 00:24:31,252
+Olá, estou interrompendo?
+
+206
+00:24:31,585 --> 00:24:35,381
+Não, estou na casa da minha irmã
+e metade da família do marido dela.
+
+207
+00:24:35,714 --> 00:24:39,009
+Parece legal.
+Sobre as fotos...
+
+208
+00:24:39,343 --> 00:24:43,931
+Já estão prontas e Mia e eu
+partimos para Dalarna amanhã.
+
+209
+00:24:44,265 --> 00:24:47,017
+Não sei se devo mandá-las
+por um mensageiro.
+
+210
+00:24:47,351 --> 00:24:52,106
+Não, não use um mensageiro.
+Vou embora logo.
+
+211
+00:24:52,440 --> 00:24:54,650
+Posso lhe dar uma carona.
+
+212
+00:24:54,984 --> 00:24:57,153
+- Eu passo ai.
+- Ótimo.
+
+213
+00:24:57,486 --> 00:24:58,988
+E mais uma coisa.
+
+214
+00:24:59,321 --> 00:25:04,243
+Quero investigar um nome.
+Um criminoso chamado Zala.
+
+215
+00:25:04,577 --> 00:25:08,164
+Diga-lhe que ele é Anton
+na minha tese.
+
+216
+00:25:08,497 --> 00:25:12,042
+- Ouviu isto?
+- Não me dê coisa nova tão tarde.
+
+217
+00:25:12,376 --> 00:25:16,714
+Não, eu sei, mas eu acho
+que pode valer a pena.
+
+218
+00:25:19,258 --> 00:25:22,011
+- Falaremos depois sobre isto.
+- Sim, sim.
+
+219
+00:25:38,194 --> 00:25:40,321
+Dois minutos.
+
+220
+00:25:54,376 --> 00:25:57,796
+- Aconteceu alguma coisa?
+- Pareceu como um tiro.
+
+221
+00:25:58,130 --> 00:26:00,090
+Agora mesmo.
+
+222
+00:26:01,634 --> 00:26:03,636
+Dag?
+
+223
+00:26:04,720 --> 00:26:08,390
+Olá? Olá?
+
+224
+00:26:39,129 --> 00:26:41,757
+Mas foi você que avisou?
+
+225
+00:26:42,925 --> 00:26:44,510
+Sim.
+
+226
+00:26:45,552 --> 00:26:50,641
+- Viu o que aconteceu?
+- Não. Eu os encontrei.
+
+227
+00:26:52,851 --> 00:26:56,939
+Não pode ter sido mais de
+dez minutos depois que...
+
+228
+00:26:57,272 --> 00:27:00,943
+Tem uma descrição?
+Viu alguém fugir do local?
+
+229
+00:27:01,819 --> 00:27:03,862
+Não.
+
+230
+00:27:05,280 --> 00:27:07,700
+Talvez os vizinhos viram
+alguma coisa.
+
+231
+00:27:09,034 --> 00:27:10,953
+Você mora aqui?
+
+232
+00:27:12,871 --> 00:27:17,626
+Não, eu ia visitar o casal
+que mora aqui.
+
+233
+00:27:21,839 --> 00:27:23,757
+Eu voltarei.
+
+234
+00:27:24,091 --> 00:27:27,636
+Olá? Blomkvist?
+Temos algumas perguntas.
+
+235
+00:28:15,100 --> 00:28:17,269
+Não pode ligar isto aqui!
+
+236
+00:28:19,813 --> 00:28:23,942
+O casal assassinado era
+um jornalista e uma criminologista.
+
+237
+00:28:24,276 --> 00:28:28,322
+Foram encontrados por outro jornalista.
+Blomkvist da Millennium.
+
+238
+00:28:28,655 --> 00:28:31,450
+- O que sabemos sobre motivo?
+- Não muito neste momento.
+
+239
+00:28:31,783 --> 00:28:34,620
+A garota ia receber o doutorado
+em algumas semanas.
+
+240
+00:28:34,953 --> 00:28:38,790
+Este caso tem a maior prioridade.
+Reúna uma força-tarefa.
+
+241
+00:28:39,124 --> 00:28:42,252
+- Hans Faste, Jerker Holmberg.
+- Sonja Modig.
+
+242
+00:28:46,465 --> 00:28:50,928
+Você mesmo pode escolher a equipe.
+Mas seja rápido.
+
+243
+00:28:51,553 --> 00:28:54,306
+Ekström, promotor.
+
+244
+00:28:59,394 --> 00:29:03,523
+Você descreveu os assassinatos
+como simples execuções.
+
+245
+00:29:03,857 --> 00:29:07,903
+Quem na lista é capaz disto?
+E conseguir se safar?
+
+246
+00:29:08,237 --> 00:29:12,032
+Estamos a ponto de publicar
+o nome de várias pessoas...
+
+247
+00:29:12,366 --> 00:29:14,993
+que prefeririam ficar longe
+dos holofotes.
+
+248
+00:29:15,327 --> 00:29:18,247
+Algumas já tinham sido
+contatadas por Dag.
+
+249
+00:29:18,580 --> 00:29:21,041
+Vamos especular e adivinhar?
+
+250
+00:29:21,250 --> 00:29:23,460
+Não deveríamos entregar
+a lista para a polícia?
+
+251
+00:29:23,919 --> 00:29:27,172
+- Sim, acho que deveríamos.
+- Não.
+
+252
+00:29:30,425 --> 00:29:33,303
+Eles podem ter o nome
+dos clientes...
+
+253
+00:29:33,470 --> 00:29:36,682
+mas não devemos nunca
+revelar nossas fontes.
+
+254
+00:29:37,015 --> 00:29:42,854
+É sobre a segurança daquelas
+garotas de Mia entrevistou.
+
+255
+00:29:44,022 --> 00:29:46,441
+Pode ser vida ou morte.
+
+256
+00:29:46,775 --> 00:29:50,612
+Voltando à primeira pergunta.
+Vamos publicar isto?
+
+257
+00:29:53,281 --> 00:29:57,619
+- Acho que é o que Dag iria querer.
+- Concordo.
+
+258
+00:29:59,496 --> 00:30:01,415
+Christer?
+
+259
+00:30:04,710 --> 00:30:06,712
+Claro.
+
+260
+00:30:55,969 --> 00:31:00,432
+Recebemos um relatório preliminar
+sobre a arma do crime.
+
+261
+00:31:00,766 --> 00:31:05,228
+- É ilegal?
+- Não, é perfeitamente legal.
+
+262
+00:31:05,562 --> 00:31:09,691
+Pertence ao advogado
+Nils Erik Bjurman.
+
+263
+00:31:10,025 --> 00:31:12,986
+Adquirida em 1983.
+Ele mora na Rua Gardet.
+
+264
+00:31:13,320 --> 00:31:14,946
+Vá lá então.
+
+265
+00:31:15,280 --> 00:31:18,742
+Também pudemos identificar dois
+conjuntos de digitais.
+
+266
+00:31:19,075 --> 00:31:21,912
+Uma mulher nascida em 1981.
+
+267
+00:31:23,371 --> 00:31:28,460
+Presa por agressão em 1998,
+quando foram tiradas as digitais.
+
+268
+00:31:28,793 --> 00:31:33,381
+- Você tem um nome?
+- Seu nome é Lisbeth... Salander.
+
+269
+00:31:36,760 --> 00:31:39,679
+Lisbeth Salander parece
+ser bem perturbada.
+
+270
+00:31:40,013 --> 00:31:43,099
+Ela está sob tutela judicial.
+
+271
+00:31:43,433 --> 00:31:46,061
+Adivinhe quem é
+o seu tutor?
+
+272
+00:31:46,394 --> 00:31:50,524
+Advogado Nils Bjurman. O dono
+da arma do crime em Enskede.
+
+273
+00:31:50,857 --> 00:31:53,485
+Ela já era violenta na escola.
+
+274
+00:31:53,818 --> 00:31:55,862
+Tratamento psiquiátrico
+na adolescência.
+
+275
+00:31:56,112 --> 00:31:57,989
+Achamos que ganha a vida
+com a prostituição.
+
+276
+00:31:58,114 --> 00:32:01,451
+Tendências violentas documentadas.
+
+277
+00:32:02,327 --> 00:32:07,165
+- Temos o endereço de Salander?
+- Lundagatan em Södermalm.
+
+278
+00:32:07,999 --> 00:32:11,086
+Pare! Polícia.
+Atravesse a rua.
+
+279
+00:32:11,419 --> 00:32:16,174
+- Prendeu Salander?
+- Não, estamos esperando reforços.
+
+280
+00:32:16,508 --> 00:32:21,054
+- Ligue-me.
+- Ligarei quando terminarmos.
+
+281
+00:32:22,973 --> 00:32:26,601
+Prostitutas não têm mais classe.
+
+282
+00:32:26,935 --> 00:32:30,689
+Parecem cada dia mais ferradas.
+Você pegaria ela?
+
+283
+00:32:32,899 --> 00:32:35,777
+Tem que haver um modo
+mais simples.
+
+284
+00:32:36,111 --> 00:32:40,448
+Por que chamar a tropa de choque
+para pegar um peixe pequeno?
+
+285
+00:32:40,782 --> 00:32:44,035
+A garota de 1,50 m de altura
+e pesa 40 kg.
+
+286
+00:32:46,329 --> 00:32:49,416
+<i>Entramos, mas o
+apartamento está vazio.</i>
+
+287
+00:32:49,749 --> 00:32:51,584
+Afirmativo.
+
+288
+00:32:56,047 --> 00:32:58,341
+- Faste?
+- Sim?
+
+289
+00:32:58,675 --> 00:33:01,720
+Por que dizia Salander Wu
+na porta?
+
+290
+00:33:03,847 --> 00:33:05,765
+Não faço idéia.
+
+291
+00:33:25,994 --> 00:33:29,039
+<i>Alô, aqui é Bjurman.
+Por favor...</i>
+
+292
+00:33:29,164 --> 00:33:31,916
+<i>deixe um recado e
+eu ligarei de volta.</i>
+
+293
+00:33:47,766 --> 00:33:48,767
+Olá?
+
+294
+00:33:55,648 --> 00:33:56,524
+Olá?
+
+295
+00:34:07,452 --> 00:34:11,456
+Tire uma daquele ângulo
+também para termos tudo.
+
+296
+00:34:14,709 --> 00:34:16,711
+Ela está lá dentro.
+
+297
+00:34:24,886 --> 00:34:27,931
+Obrigado. Estava morrendo
+de vontade de tomar café.
+
+298
+00:34:28,264 --> 00:34:30,099
+O que você encontrou?
+
+299
+00:34:30,433 --> 00:34:33,061
+Bjurman e uma caixa vazia
+de balas para Magnum.
+
+300
+00:34:33,228 --> 00:34:34,979
+Estamos procurando digitais.
+
+301
+00:34:35,522 --> 00:34:38,483
+E cópias dos relatórios
+mensais sobre Salander...
+
+302
+00:34:38,816 --> 00:34:41,903
+que ele enviava para
+a Curadoria Especial.
+
+303
+00:34:43,655 --> 00:34:47,242
+Segundo os relatórios, Salander
+era basicamente um anjo.
+
+304
+00:34:49,494 --> 00:34:53,873
+Nós o viramos. Há uma coisa
+que você deveria ver.
+
+305
+00:34:56,709 --> 00:35:02,966
+"Sou um porco sádico
+e estuprador. "
+
+306
+00:35:05,009 --> 00:35:08,930
+- O que você acha?
+- Um motivo nada mau para matar.
+
+307
+00:35:19,941 --> 00:35:23,319
+LISBETH 28 PROCURADA
+POR TRÊS ASSASSINATOS
+
+308
+00:35:33,413 --> 00:35:35,331
+PROCURADA POR TRÊS
+ASSASSINATOS EM ENSKEDE
+
+309
+00:35:37,125 --> 00:35:38,543
+CAÇADA POR TRÊS
+ASSASSINATOS
+
+310
+00:35:43,131 --> 00:35:45,550
+JORNALISTA BLOMKVIST
+ENCONTROU AS VÍTIMAS
+
+311
+00:36:06,029 --> 00:36:09,824
+<i>Esta tarde outra vítima
+foi encontrada.</i>
+
+312
+00:36:10,158 --> 00:36:14,203
+<i>O benemerente advogado
+de 56 anos foi encontrado...</i>
+
+313
+00:36:14,537 --> 00:36:17,332
+<i>baleado em seu apartamento.</i>
+
+314
+00:36:17,415 --> 00:36:20,418
+<i>A Polícia está investigando se
+os assassinatos estão ligados.</i>
+
+315
+00:36:20,668 --> 00:36:25,006
+<i>O jornalista morto Dag Svensson
+trabalhava para a revista Millennium,</i>
+
+316
+00:36:25,339 --> 00:36:28,843
+<i>onde Blomkvist é o editor
+em chefe.</i>
+
+317
+00:36:29,177 --> 00:36:33,806
+<i>Segundo Blomkvist, Svensson
+estava escrevendo sobre...</i>
+
+318
+00:36:34,140 --> 00:36:37,393
+<i>segurança de computadores
+e invasores.</i>
+
+319
+00:36:37,727 --> 00:36:42,231
+<i>É uma grande perda para
+a sua família e colegas...</i>
+
+320
+00:36:42,565 --> 00:36:45,485
+<i>e para toda a comunidade
+jornalística.</i>
+
+321
+00:36:45,818 --> 00:36:49,822
+<i>Um ataque brutal
+à nossa sociedade livre.</i>
+
+322
+00:36:50,865 --> 00:36:54,118
+- Por que disse aquilo a eles?
+- Porque é verdade.
+
+323
+00:36:55,536 --> 00:36:58,206
+Uma das especialidades de Dag
+era segurança de computadores.
+
+324
+00:36:58,539 --> 00:37:02,085
+Concordamos que seria
+a sua próxima história.
+
+325
+00:37:02,418 --> 00:37:06,923
+E eu quero encontrar certa
+pessoa antes da Polícia.
+
+326
+00:37:07,256 --> 00:37:12,053
+Lisbeth lê tudo o que escrevo.
+Pouco importa onde esteja.
+
+327
+00:37:12,386 --> 00:37:15,598
+E ela é muito interessada
+na assunto.
+
+328
+00:37:15,932 --> 00:37:20,102
+Esta declaração pode fazer
+que entre em contato comigo.
+
+329
+00:37:20,436 --> 00:37:23,856
+- Você não tem dúvidas?
+- Sobre o que?
+
+330
+00:37:25,149 --> 00:37:26,526
+Não.
+
+331
+00:37:29,445 --> 00:37:32,490
+- Não?
+- Lisbeth não assassinou ninguém.
+
+332
+00:37:40,498 --> 00:37:45,294
+- É o telefone de Dag.
+- Eu atendo.
+
+333
+00:37:52,426 --> 00:37:57,223
+<i>- Centro Índigo de Pesquisas.
+- Bom dia, meu nome é Gunnar Björck.</i>
+
+334
+00:37:57,557 --> 00:38:01,644
+<i>Recebi uma oferta
+interessante de vocês.</i>
+
+335
+00:38:09,485 --> 00:38:11,988
+ENCONTRAR BLOMKVIST LAPTOP
+
+336
+00:38:14,740 --> 00:38:17,201
+CONECTAR BLOMKVIST
+
+337
+00:38:51,235 --> 00:38:53,946
+AQUI FOI ONDE A POLÍCIA
+ENCONTROU IRINA
+
+338
+00:38:56,282 --> 00:38:58,284
+CÓPIA DA PESQUISA
+DE DAG SVENSSON
+
+339
+00:39:06,492 --> 00:39:08,880
+<i>Que documentos ela procurava?</i>
+
+340
+00:39:08,981 --> 00:39:11,681
+Meus e-mails com Dag Svensson.
+
+341
+00:39:11,714 --> 00:39:14,050
+Ou a sua pesquisa.
+
+342
+00:39:14,383 --> 00:39:17,970
+- Pode rastreá-la?
+- Não. Ela não trabalha assim.
+
+343
+00:39:18,304 --> 00:39:21,265
+Não, ela tem uma razão para
+ficar escondida.
+
+344
+00:39:22,558 --> 00:39:26,312
+- Também pensa que ela é culpada?
+- Não estou dizendo nada.
+
+345
+00:39:27,605 --> 00:39:32,151
+Sei que ela não fez nada.
+Não desta vez.
+
+346
+00:39:33,903 --> 00:39:36,822
+Por que pergunta isto, mamãe?
+
+347
+00:39:37,156 --> 00:39:42,119
+Escute. A porra da Polícia fez isto.
+Aqueles porcos!
+
+348
+00:39:42,453 --> 00:39:45,122
+A Polícia deixou isto
+um chiqueiro.
+
+349
+00:39:45,456 --> 00:39:49,251
+Sim, estou com medo.
+Ela desapareceu.
+
+350
+00:39:49,585 --> 00:39:52,338
+Espere, tem alguém tocando.
+
+351
+00:39:56,175 --> 00:39:58,511
+Olá, Miriam.
+Tony Scala, jornalista.
+
+352
+00:39:58,844 --> 00:40:01,722
+A sua namorada é suspeita
+de três assassinatos.
+
+353
+00:40:02,056 --> 00:40:05,851
+Pode confirmar que passou um
+tempo no exterior com Salander?
+
+354
+00:40:06,185 --> 00:40:09,647
+Uma hora, terá que falar com a imprensa.
+Eu posso ajudá-la.
+
+355
+00:40:09,980 --> 00:40:12,733
+Vá para um inferno, seu porco!
+
+356
+00:40:21,033 --> 00:40:23,369
+Um expresso duplo.
+
+357
+00:40:26,914 --> 00:40:29,708
+Por que acha que Lisbeth
+é inocente?
+
+358
+00:40:30,042 --> 00:40:33,671
+Ela não tinha motivo para matar
+Dag ou Mia. Especialmente Mia.
+
+359
+00:40:34,004 --> 00:40:37,967
+Mia queria expor o tráfico humano,
+algo que Lisbeth poderia ter feito.
+
+360
+00:40:38,300 --> 00:40:41,095
+Lisbeth detesta homens que
+odeiam mulheres.
+
+361
+00:40:41,428 --> 00:40:44,682
+Temos prova que ela esteve
+na cena do crime.
+
+362
+00:40:45,015 --> 00:40:47,643
+Então achou digitais?
+
+363
+00:40:47,726 --> 00:40:49,562
+Sim, ela está ligada
+à arma do crime.
+
+364
+00:40:49,895 --> 00:40:53,315
+Isto não significa que
+ela puxou o gatilho.
+
+365
+00:40:53,649 --> 00:40:56,235
+E Bjurman? Seu tutor?
+
+366
+00:40:56,360 --> 00:40:58,153
+A resposta está na pesquisa
+de Dag Svensson.
+
+367
+00:40:58,487 --> 00:41:00,322
+Isto é assunto da polícia.
+
+368
+00:41:00,447 --> 00:41:03,200
+Não precisamos de detetives particulares
+com teorias malucas.
+
+369
+00:41:03,534 --> 00:41:05,786
+Não tenho teorias.
+
+370
+00:41:05,953 --> 00:41:08,664
+Estou dizendo que Lisbeth
+não matou Dag e Mia.
+
+371
+00:41:09,039 --> 00:41:12,835
+Quero apresentar provas.
+Quero apontar um outro assassino...
+
+372
+00:41:13,168 --> 00:41:17,131
+e escrever um artigo que você e
+seus colegas...
+
+373
+00:41:17,256 --> 00:41:18,382
+não vão gostar nem um pouco.
+
+374
+00:41:42,948 --> 00:41:46,410
+<i>- Este é Björck.
+- Olá, este é Índigo.</i>
+
+375
+00:41:46,744 --> 00:41:51,498
+<i>- Bom, recebeu as instruções?
+- Sim, não é um problema.</i>
+
+376
+00:41:51,832 --> 00:41:55,169
+<i>Esta loteria e o celular...</i>
+
+377
+00:41:55,502 --> 00:41:58,839
+<i>Você ainda é um dos
+vinte escolhidos.</i>
+
+378
+00:42:04,053 --> 00:42:06,555
+<i>- Já nos encontramos antes?
+- Não.</i>
+
+379
+00:42:06,889 --> 00:42:08,932
+Você parece familiar.
+
+380
+00:42:10,768 --> 00:42:13,395
+Talvez você me tenha visto
+no jornal.
+
+381
+00:42:14,980 --> 00:42:18,442
+- Como é mesmo o seu nome?
+- Mikael Blomkvist. Jornalista.
+
+382
+00:42:18,776 --> 00:42:21,487
+Trabalho para a Millennium.
+
+383
+00:42:21,820 --> 00:42:25,366
+Não sabia que faziam pesquisa
+de mercado.
+
+384
+00:42:26,950 --> 00:42:28,952
+Claro, às vezes.
+
+385
+00:42:29,995 --> 00:42:34,625
+Olhe para estas três fotos
+e diga-me...
+
+386
+00:42:34,958 --> 00:42:38,629
+...que modelo você prefere.
+
+387
+00:42:40,172 --> 00:42:43,258
+A primeira é Lidia Kamarova.
+
+388
+00:42:43,592 --> 00:42:48,597
+Ela tem16 anos e
+é de Minsk na Bielorrússia.
+
+389
+00:42:49,640 --> 00:42:52,810
+Depois temos Myang So Hun.
+
+390
+00:42:53,143 --> 00:42:56,980
+Tem 25 anos, um pouco mais
+velha, mas não parece.
+
+391
+00:42:57,314 --> 00:43:00,734
+Também é chamada de Jo-Jo.
+Ela é da Tailândia.
+
+392
+00:43:02,277 --> 00:43:05,155
+E depois temos Silvia.
+
+393
+00:43:05,364 --> 00:43:08,367
+Seu nome verdadeiro é
+Jelena Barasova.
+
+394
+00:43:09,785 --> 00:43:12,496
+Tem 19 anos e é de Tallinn.
+
+395
+00:43:12,830 --> 00:43:16,208
+Você pagou para fazer sexo
+com todas estas mulheres.
+
+396
+00:43:16,542 --> 00:43:20,504
+Então, o que quero saber é
+qual delas é a sua favorita.
+
+397
+00:43:22,756 --> 00:43:25,926
+- Isto é uma piada?
+- Não.
+
+398
+00:43:27,136 --> 00:43:32,015
+Nosso jornalista Dag Svensson tinha
+documentos provando...
+
+399
+00:43:32,349 --> 00:43:34,726
+que você pagou a elas
+para fazer sexo.
+
+400
+00:43:35,060 --> 00:43:37,563
+- Ele contatou você?
+- Quem?
+
+401
+00:43:37,896 --> 00:43:42,234
+- Dag Svensson.
+- Nunca ouvi este nome.
+
+402
+00:43:43,569 --> 00:43:46,446
+- Agora quero que vá embora.
+- Sim, provavelmente quer.
+
+403
+00:43:46,780 --> 00:43:50,325
+Ele não chegou a confrontá-lo
+com os documentos...
+
+404
+00:43:50,659 --> 00:43:53,245
+antes que alguém atirasse nele.
+
+405
+00:43:53,579 --> 00:43:56,832
+Você conhece o advogado Bjurman,
+que também foi baleado e morto?
+
+406
+00:43:57,165 --> 00:43:59,167
+O que você quer?
+
+407
+00:43:59,501 --> 00:44:04,256
+Quero permitir que os clientes
+do sexo comentem sobre os fatos...
+
+408
+00:44:04,590 --> 00:44:08,468
+na nosso próxima edição
+sobre tráfico humano.
+
+409
+00:44:16,184 --> 00:44:20,188
+Entende que vai arruinar
+a minha vida se publicar isto?
+
+410
+00:44:20,981 --> 00:44:22,524
+Sim.
+
+411
+00:44:38,457 --> 00:44:40,417
+VÁRIAS VISITAS COM IRINA
+VER ANTON = ZALA
+
+412
+00:45:35,597 --> 00:45:37,808
+Vamos. Levante-se.
+
+413
+00:45:39,267 --> 00:45:41,144
+Levante-se.
+
+414
+00:45:44,231 --> 00:45:48,735
+Vou fazer-lhe umas perguntas.
+Se responder, você vive.
+
+415
+00:45:49,069 --> 00:45:53,698
+Caso se recuse, dou-lhe
+outro choque. 100 mil volts.
+
+416
+00:45:54,032 --> 00:45:58,203
+Se mentir ou responder sem nexo,
+dou-lhe um choque.
+
+417
+00:45:58,954 --> 00:46:02,416
+Seus músculos param de funcionar
+e você se enforcará.
+
+418
+00:46:02,749 --> 00:46:06,044
+E eu vou embora.
+Entende?
+
+419
+00:46:10,507 --> 00:46:12,634
+Eu não quero morrer.
+
+420
+00:46:12,968 --> 00:46:16,888
+Erro meu. Não pode falar
+sem a minha permissão.
+
+421
+00:46:28,024 --> 00:46:31,653
+- Esta é a sua filha?
+- Sim. Chegará a qualquer momento...
+
+422
+00:46:31,987 --> 00:46:34,406
+Está desobedecendo às regras
+novamente.
+
+423
+00:46:36,575 --> 00:46:38,994
+- Você quer morrer?
+- Não.
+
+424
+00:46:48,170 --> 00:46:50,881
+Em Janeiro, você visitou
+Irina Hammujärvi...
+
+425
+00:46:51,006 --> 00:46:53,258
+em um apartamento em Norsborg.
+Por quê?
+
+426
+00:46:55,385 --> 00:46:59,389
+Eu não sei. Eu a queria.
+Ela era linda.
+
+427
+00:47:00,807 --> 00:47:02,684
+- Linda?
+- Sim, ela era linda.
+
+428
+00:47:03,018 --> 00:47:06,897
+E isto lhe deu o direito de
+amarrá-la e fodê-la?
+
+429
+00:47:16,198 --> 00:47:19,993
+Você é um porco sádico
+e estuprador.
+
+430
+00:47:21,328 --> 00:47:23,163
+Não é isto mesmo?
+
+431
+00:47:37,052 --> 00:47:39,179
+Quem é Zala?
+
+432
+00:47:40,805 --> 00:47:43,767
+- Eu não sei.
+- Não abuse de sua sorte.
+
+433
+00:47:44,100 --> 00:47:48,438
+Não sei quem é. O jornalista que
+você baleou também perguntou.
+
+434
+00:47:48,772 --> 00:47:51,566
+Se soubesse, eu lhe diria.
+
+435
+00:47:51,900 --> 00:47:54,736
+Só falei com alguém que
+disse que seu nome era Zala.
+
+436
+00:47:55,070 --> 00:47:58,198
+- Um minuto no telefone.
+- Por quê?
+
+437
+00:47:58,531 --> 00:48:02,160
+Eu deveria importar um carro
+com drogas de Tallinn.
+
+438
+00:48:02,494 --> 00:48:04,204
+Eu não queria.
+
+439
+00:48:04,537 --> 00:48:06,665
+Voltaram uns dias depois...
+
+440
+00:48:06,790 --> 00:48:09,709
+e disseram que eu não
+podia recusar.
+
+441
+00:48:10,043 --> 00:48:12,921
+Depois ele me forçaram a
+ir com eles para...
+
+442
+00:48:14,464 --> 00:48:17,676
+- Para?
+- Para um armazém.
+
+443
+00:48:18,009 --> 00:48:22,889
+A primeira coisa que vi foi um
+homem no chão todo espancado.
+
+444
+00:48:24,182 --> 00:48:26,643
+- E ele estava lá...
+- Quem? Zala?
+
+445
+00:48:26,976 --> 00:48:31,439
+Não, um brutamonte loiro.
+Puro músculo.
+
+446
+00:48:31,773 --> 00:48:34,943
+Só tinha visto ele uma vez antes.
+Droga.
+
+447
+00:48:35,276 --> 00:48:38,321
+- Qual o nome dele?
+- Eu não sei.
+
+448
+00:48:40,281 --> 00:48:42,409
+O que mais aconteceu?
+
+449
+00:48:42,742 --> 00:48:46,037
+Disseram que o cara no
+chão era um informante.
+
+450
+00:48:46,371 --> 00:48:50,917
+O loiro o colocou em uma
+cadeira na minha frente.
+
+451
+00:48:51,251 --> 00:48:55,755
+Depois colocou as mão
+em volta do pescoço dele.
+
+452
+00:48:57,924 --> 00:49:00,718
+Ouvi o pescoço estalar.
+
+453
+00:49:02,846 --> 00:49:06,766
+Ele morreu na minha frente.
+
+454
+00:49:10,770 --> 00:49:15,358
+Então o loiro passou as mãos
+em volta do meu pescoço.
+
+455
+00:49:16,192 --> 00:49:19,154
+Magge botou o telefone
+no meu ouvido...
+
+456
+00:49:19,237 --> 00:49:22,073
+e disse que Zala queria
+falar comigo.
+
+457
+00:49:22,407 --> 00:49:25,410
+O que ele disse?
+Zala?
+
+458
+00:49:27,537 --> 00:49:32,584
+Que deveria fazer o que me
+mandavam. Que escolha tive?
+
+459
+00:49:34,627 --> 00:49:36,379
+Olá.
+
+460
+00:50:25,345 --> 00:50:29,390
+Temos que voltar.
+Tenho uma reunião no almoço.
+
+461
+00:50:43,571 --> 00:50:46,532
+Esteve em contato com ela?
+
+462
+00:50:47,867 --> 00:50:49,744
+Quem?
+
+463
+00:50:52,246 --> 00:50:54,832
+Quem você acha?
+
+464
+00:50:56,542 --> 00:51:01,047
+Um velho amigo ligou
+esta manhã.
+
+465
+00:51:01,381 --> 00:51:05,718
+Ele também está convencido
+que Lisbeth Salander é inocente.
+
+466
+00:51:06,052 --> 00:51:08,846
+- Quem?
+- Isto é totalmente errado.
+
+467
+00:51:10,181 --> 00:51:12,308
+Erika?
+
+468
+00:51:12,642 --> 00:51:18,439
+É melhor que se encontrem
+e discutam entre vocês.
+
+469
+00:51:21,150 --> 00:51:24,529
+Soque, Paolo! Vamos!
+Dê-lhe um direto!
+
+470
+00:51:27,490 --> 00:51:31,577
+Mexa os pés, cara. Concentre-se
+no movimento dos pés. Vamos!
+
+471
+00:51:31,911 --> 00:51:33,996
+Não desista.
+
+472
+00:51:35,873 --> 00:51:38,126
+De onde você conhece Lisbeth?
+
+473
+00:51:38,459 --> 00:51:40,920
+Lutamos boxe juntos desde
+que ela tinha 17 anos.
+
+474
+00:51:41,254 --> 00:51:46,801
+- Não na mesma categoria de peso.
+- Ela é bem durona.
+
+475
+00:51:51,389 --> 00:51:53,933
+Ela está encrencada, sim?
+
+476
+00:52:06,779 --> 00:52:11,242
+Ela está muito encrencada.
+Paolo, você tem que me ajudar.
+
+477
+00:52:11,576 --> 00:52:15,538
+Preciso entrar em contato com
+a namorada de Lisbeth, Miriam Wu.
+
+478
+00:52:15,872 --> 00:52:19,542
+- Você leu sobre ela?
+- Eu conheço ela. Kickboxer.
+
+479
+00:52:19,876 --> 00:52:23,671
+Ela se recusa a falar comigo
+porque sou um jornalista.
+
+480
+00:52:24,005 --> 00:52:27,717
+Se você, como um conhecido
+boxeador, falar com ela...
+
+481
+00:52:28,050 --> 00:52:31,721
+E tentar chegar a Lisbeth
+através dela?
+
+482
+00:53:42,375 --> 00:53:45,294
+Porra!
+Vamos!
+
+483
+00:54:28,379 --> 00:54:32,591
+Micke? Você me pediu para
+cavar o passado de Gunnar Björck.
+
+484
+00:54:32,925 --> 00:54:35,511
+Encontrei Nils Bjurman.
+
+485
+00:54:35,845 --> 00:54:39,640
+Ele foi funcionário no Departamento
+de Segurança da Polícia Nacional.
+
+486
+00:54:39,974 --> 00:54:43,644
+- O quê? Quando foi isto?
+- De 76 até 78.
+
+487
+00:54:46,022 --> 00:54:50,776
+- Mesma época que Björck.
+- Porra!
+
+488
+00:56:35,547 --> 00:56:37,967
+- Onde ela está?
+- Quem?
+
+489
+00:56:38,300 --> 00:56:41,553
+- Lisbeth Salander.
+- Já disse, eu não sei!
+
+490
+00:56:41,887 --> 00:56:44,223
+Resposta errada.
+
+491
+00:56:49,395 --> 00:56:53,274
+Tem mais uma chance.
+Depois começarei a usar isto.
+
+492
+00:57:03,617 --> 00:57:05,411
+Corra, Miriam!
+
+493
+01:01:27,506 --> 01:01:30,300
+<i>- Alô?
+- Micke, é Paolo.</i>
+
+494
+01:01:30,634 --> 01:01:33,845
+<i>Estou no hospital
+com Miriam Wu.</i>
+
+495
+01:01:34,179 --> 01:01:37,182
+<i>- O quê?
+- Seria bom se viesse aqui.</i>
+
+496
+01:01:57,661 --> 01:01:59,246
+NÃO ATIREI EM DAG E MIA.
+
+497
+01:01:59,354 --> 01:02:02,248
+SE QUISER AJUDAR,
+ENCONTRE ZALA. LISBETH.
+
+498
+01:02:15,762 --> 01:02:18,390
+<i>Posso bater e apanhar...</i>
+
+499
+01:02:18,723 --> 01:02:22,018
+<i>mas ele não era
+um homem comum.</i>
+
+500
+01:02:22,352 --> 01:02:26,815
+- Como ele se parecia?
+- Loiro. Um robô de furar armadura.
+
+501
+01:02:27,148 --> 01:02:30,652
+- Ele era só músculos.
+- E você nunca viu ele antes?
+
+502
+01:02:30,986 --> 01:02:34,322
+Nunca. Ele se mexia
+como um boxeador.
+
+503
+01:02:34,656 --> 01:02:38,577
+Ele erguia as mãos e
+nem parecia estar ali.
+
+504
+01:02:38,910 --> 01:02:42,914
+- Como não parecia? Drogado?
+- Não, era tão estranho.
+
+505
+01:02:43,248 --> 01:02:47,419
+Como se ele tivesse treinado,
+mas não ouvia o treinador.
+
+506
+01:02:51,131 --> 01:02:54,301
+E depois havia uma coisa
+realmente assustadora.
+
+507
+01:02:55,760 --> 01:02:59,306
+Bati nele realmente duro.
+Cerca de cem golpes diretos.
+
+508
+01:02:59,639 --> 01:03:04,019
+Mas nada aconteceu. Como
+se ele não sentisse nada.
+
+509
+01:03:05,854 --> 01:03:09,649
+- Olá. Ala 1B?
+- Mais adiante no corredor.
+
+510
+01:03:09,983 --> 01:03:11,985
+Jan Bublanski.
+
+511
+01:03:12,861 --> 01:03:15,697
+- Como está?
+- Esplêndido.
+
+512
+01:03:19,784 --> 01:03:23,538
+Vou ver um lugar onde possamos
+conversar sem sermos interrompidos.
+
+513
+01:03:26,583 --> 01:03:30,337
+- Como está Miriam Wu?
+- Ainda está sendo examinada.
+
+514
+01:03:30,670 --> 01:03:33,548
+Parece como eu.
+Mas não estavam atrás dela.
+
+515
+01:03:33,882 --> 01:03:36,551
+Era de Lisbeth Salander.
+
+516
+01:03:36,885 --> 01:03:42,265
+Identificamos 29 clientes e...
+cafetões da lista de Dag.
+
+517
+01:03:42,599 --> 01:03:46,936
+Em teoria, todos tinham um motivo
+para assassinar Dag.
+
+518
+01:03:47,270 --> 01:03:52,776
+Faltam oito nomes. Para eles
+demos pseudônimos.
+
+519
+01:03:53,109 --> 01:03:56,529
+- O que vamos fazer sobre eles?
+- Malin está tentando identificá-los.
+
+520
+01:03:56,863 --> 01:04:00,325
+Alguns dos pseudônimos são
+mencionados na tese de Mia.
+
+521
+01:04:00,658 --> 01:04:05,288
+Podemos encontrar referências nela
+que pode nos levar aos nomes.
+
+522
+01:04:05,622 --> 01:04:10,293
+Primeiro gostaria de visitar
+aqueles que Dag queria expor.
+
+523
+01:04:10,627 --> 01:04:15,256
+- São os que têm mais a perder.
+- Então podemos fazer o seguinte.
+
+524
+01:04:17,175 --> 01:04:20,095
+Sten Falström, feito.
+Está feito.
+
+525
+01:04:20,428 --> 01:04:23,556
+Karl Pettersson, feito.
+Per Åke Sandström.
+
+526
+01:04:23,890 --> 01:04:27,268
+Ele foi confrontado por Dag,
+então vamos expô-lo.
+
+527
+01:04:27,602 --> 01:04:30,605
+E o cara da Força de Segurança
+da Polícia? Björck?
+
+528
+01:04:30,939 --> 01:04:35,151
+E a ligação entre ele e Bjurman?
+E sobre este Zala?
+
+529
+01:04:35,485 --> 01:04:38,905
+Não acabei completamente
+com Björck.
+
+530
+01:04:54,254 --> 01:04:57,715
+- É Björck.
+- Blomkvist aqui. Você nunca ligou.
+
+531
+01:04:58,049 --> 01:04:59,676
+<i>O que você quer?</i>
+
+532
+01:05:00,009 --> 01:05:03,930
+<i>Você me mentiu. Você e Bjurman
+trabalharam juntos na Força em 1970.</i>
+
+533
+01:05:04,264 --> 01:05:08,601
+Por que eu lhe diria
+com quem trabalhei?
+
+534
+01:05:08,935 --> 01:05:13,565
+<i>Amanhã vou dar uma coletiva sobre
+os assassinatos de Dag e Mia.</i>
+
+535
+01:05:13,898 --> 01:05:17,485
+Darei os detalhes na nossa série
+de artigos sobre o comércio do sexo...
+
+536
+01:05:17,819 --> 01:05:20,613
+E você será o único cliente
+que vou expor.
+
+537
+01:05:20,947 --> 01:05:23,741
+<i>Assim, você terá a
+oportunidade de comentar.</i>
+
+538
+01:05:24,075 --> 01:05:27,662
+Você quer destruir a minha vida.
+Por que eu falaria com você?
+
+539
+01:05:27,996 --> 01:05:31,833
+<i>Como conhece, provavelmente
+você conhece Zala também?</i>
+
+540
+01:05:33,167 --> 01:05:34,836
+Alô?
+
+541
+01:05:38,423 --> 01:05:41,009
+<i>Sabe quem ele é?</i>
+
+542
+01:05:43,303 --> 01:05:46,598
+Se eu souber algo sobre Zala,
+quanto isto vale para você?
+
+543
+01:06:02,530 --> 01:06:06,492
+<i>Seu nome verdadeiro é Zalachenko,
+mas ele é chamado de Zala.</i>
+
+544
+01:06:10,705 --> 01:06:14,626
+O que estou para lhe contar agora
+é super confidencial.
+
+545
+01:06:14,959 --> 01:06:20,048
+Entende que me é importante que
+garanta a proteção da fonte.
+
+546
+01:06:20,381 --> 01:06:22,592
+Eu já fiz isto.
+
+547
+01:06:22,925 --> 01:06:27,388
+Zalachenko nasceu 1940 no que
+era então a União Soviética.
+
+548
+01:06:27,722 --> 01:06:32,977
+Os pais morreram durante a guerra.
+Presumo que saiba o que era a GRU?
+
+549
+01:06:33,311 --> 01:06:36,814
+Sim, a inteligência militar.
+
+550
+01:06:37,148 --> 01:06:41,486
+Ele fez carreira na GRU.
+Fala seis línguas fluentemente.
+
+551
+01:06:41,819 --> 01:06:45,573
+Perito em camuflagem e
+técnicas de sobrevivência.
+
+552
+01:06:46,240 --> 01:06:48,910
+Ao longo dos anos, se tornou
+cada vez mais corrupto.
+
+553
+01:06:49,243 --> 01:06:53,581
+A GRU mandou um adido militar...
+
+554
+01:06:53,915 --> 01:06:58,294
+da embaixada em Madrid
+para encontrá-lo...
+
+555
+01:06:58,628 --> 01:07:01,089
+e corrigir-lhe os modos.
+
+556
+01:07:02,840 --> 01:07:07,053
+Alguma coisa deu errado
+durante aquela conversa.
+
+557
+01:07:10,598 --> 01:07:12,683
+Vá direto ao assunto.
+
+558
+01:07:15,228 --> 01:07:18,398
+Zalachenko matou o homem
+da embaixada.
+
+559
+01:07:19,524 --> 01:07:22,318
+Ele percebeu que havia queimado
+todas as suas pontes...
+
+560
+01:07:22,652 --> 01:07:26,239
+veio para a Suécia, contatou a
+Polícia de Segurança e pediu asilo.
+
+561
+01:07:26,572 --> 01:07:29,784
+- E?
+- E o que o governo faz...
+
+562
+01:07:30,118 --> 01:07:34,080
+quando um espião soviético
+pede súbito asilo?
+
+563
+01:07:34,413 --> 01:07:39,502
+Nunca antes um Chefe de Operação
+de um dos comandos de elite da GRU...
+
+564
+01:07:40,920 --> 01:07:42,755
+tinha desertado para a Suécia.
+
+565
+01:07:43,089 --> 01:07:45,216
+- Então ele pôde ficar?
+- Sim.
+
+566
+01:07:45,550 --> 01:07:49,220
+- E foi trabalhar para você?
+- Ele era uma mina de ouro.
+
+567
+01:07:49,554 --> 01:07:53,891
+Demos-lhe um identidade sueca,
+um passaporte e algum dinheiro.
+
+568
+01:07:54,225 --> 01:07:56,477
+Dai, ele cuidou de si mesmo.
+
+569
+01:07:56,811 --> 01:08:00,898
+Em troca, recebeu bons favores
+pela informação que nos fornecia.
+
+570
+01:08:07,029 --> 01:08:10,283
+Que tal Bjurman?
+Onde ele entra nesta história?
+
+571
+01:08:10,616 --> 01:08:12,326
+Bjurman.
+
+572
+01:08:12,660 --> 01:08:16,080
+Nós éramos jovens então.
+Quantos anos tínhamos? 25? 30?
+
+573
+01:08:16,414 --> 01:08:21,460
+Não estávamos qualificados para
+lidar com alguém como Zalachenko.
+
+574
+01:08:22,837 --> 01:08:26,549
+Ele veio até nós no dia
+da eleição em 1976.
+
+575
+01:08:26,883 --> 01:08:30,136
+Quase não tinha uma alma
+na delegacia.
+
+576
+01:08:30,469 --> 01:08:34,724
+Todos estavam de folga
+ou ocupados com a eleição.
+
+577
+01:08:35,057 --> 01:08:36,767
+Eu estava de plantão...
+
+578
+01:08:36,851 --> 01:08:39,687
+e tratei como um problema
+comum de refugiado.
+
+579
+01:08:40,021 --> 01:08:43,441
+Eu fiquei como supervisor
+de Bjurman.
+
+580
+01:08:43,774 --> 01:08:47,945
+Foi por coincidência que Bjurman
+se envolveu no caso Zalachenko.
+
+581
+01:08:48,279 --> 01:08:51,449
+- Coincidência?
+- Sim, certamente.
+
+582
+01:08:51,782 --> 01:08:53,701
+"Praktvindel".
+
+583
+01:08:54,994 --> 01:08:57,413
+- O quê?
+- É assim que é chamado.
+
+584
+01:09:01,000 --> 01:09:04,086
+- Onde está Zalachenko hoje?
+- Eu não sei.
+
+585
+01:09:04,420 --> 01:09:08,674
+Fiquei com o seu caso dele até 1985.
+Recebi então outras tarefas.
+
+586
+01:09:13,012 --> 01:09:16,766
+Você lhe deu uma nova identidade
+com um nome sueco. Qual é?
+
+587
+01:09:17,099 --> 01:09:19,560
+- Isto eu não vou lhe dizer.
+- Vamos lá.
+
+588
+01:09:19,894 --> 01:09:22,063
+Você queria saber
+quem é Zala.
+
+589
+01:09:22,396 --> 01:09:25,191
+Não vou dizer mais nada até
+saber que cumprirá a sua palavra.
+
+590
+01:09:25,524 --> 01:09:27,526
+Acho que Zalachenko cometeu
+três assassinatos.
+
+591
+01:09:27,610 --> 01:09:29,528
+A polícia persegue
+a pessoa errada.
+
+592
+01:09:29,862 --> 01:09:34,116
+Por que Salander não é a assassina?
+Acredito que foi Zalachenko.
+
+593
+01:09:34,450 --> 01:09:36,410
+Errado.
+Você está errado.
+
+594
+01:09:36,744 --> 01:09:40,873
+Zala não matou ninguém. Ele
+tem 69 anos e é um pouco inválido.
+
+595
+01:09:41,207 --> 01:09:45,753
+Anda com muletas. Não está
+correndo por aí atirando em pessoas.
+
+596
+01:09:46,087 --> 01:09:50,132
+Se quisesse matar alguém, teria
+que pedir gratuidade de transporte.
+
+597
+01:09:50,466 --> 01:09:53,803
+Espero não ter que ver o meu
+nome no jornal agora.
+
+598
+01:11:54,632 --> 01:11:56,842
+O que você quer então?
+
+599
+01:11:57,176 --> 01:12:01,096
+Metade. 200 mil.
+Em dinheiro.
+
+600
+01:12:02,681 --> 01:12:06,810
+Certo. Não tenho o dinheiro aqui,
+mas iremos buscá-lo.
+
+601
+01:12:07,144 --> 01:12:09,980
+- Quando?
+- Imediatamente.
+
+602
+01:12:10,314 --> 01:12:12,775
+Eu vou buscar.
+
+603
+01:12:13,609 --> 01:12:17,863
+- Como foi?
+- Com o quê?
+
+604
+01:12:18,864 --> 01:12:20,616
+O que quer dizer?
+
+605
+01:12:20,950 --> 01:12:24,787
+O chalé de Bjurman. Você
+deveria tê-lo queimado todo.
+
+606
+01:12:26,914 --> 01:12:31,293
+Nós... nós íamos fazer agora.
+Ainda não tivemos tempo.
+
+607
+01:12:32,586 --> 01:12:34,296
+Não tiveram tempo?
+
+608
+01:12:34,630 --> 01:12:39,009
+Vamos resolver isto agora.
+Buscaremos o dinheiro depois.
+
+609
+01:12:39,343 --> 01:12:42,721
+Voltaremos logo com
+o dinheiro. Está bem?
+
+610
+01:12:51,522 --> 01:12:53,565
+Esperarei aqui.
+
+611
+01:14:45,469 --> 01:14:48,764
+Que porra...?
+É a sacana da Salander.
+
+612
+01:14:50,390 --> 01:14:52,851
+Porra, estávamos procurando
+por você.
+
+613
+01:14:53,185 --> 01:14:56,396
+Nem mesmo a sua namorada
+sabia onde você estava.
+
+614
+01:14:56,730 --> 01:15:00,525
+Ao menos, foi o que nos disse.
+Certo, Magge?
+
+615
+01:15:00,859 --> 01:15:03,070
+Que porra, hein?
+
+616
+01:15:04,905 --> 01:15:07,574
+Acho que ela precisa
+de uma pica.
+
+617
+01:15:13,538 --> 01:15:15,374
+Experimente.
+
+618
+01:15:15,707 --> 01:15:18,377
+Mexa-se, seu retardo.
+
+619
+01:15:26,927 --> 01:15:29,805
+Que porra está fazendo?
+
+620
+01:15:31,264 --> 01:15:33,308
+Porra.
+
+621
+01:15:36,645 --> 01:15:39,064
+Acabe com ela, cara!
+
+622
+01:17:04,316 --> 01:17:07,277
+<i>- Tem algo que você não sabe.
+- O que é?</i>
+
+623
+01:17:08,528 --> 01:17:10,530
+<i>Sobre Reine.</i>
+
+624
+01:17:11,448 --> 01:17:14,159
+<i>Amor. Nostalgia...</i>
+
+625
+01:17:14,868 --> 01:17:19,789
+<i>Um homem de 35 anos foi baleado
+hoje na área rural de Strängnäs.</i>
+
+626
+01:17:20,123 --> 01:17:25,879
+<i>Ele foi levado para o hospital.
+Seu estado não é crítico.</i>
+
+627
+01:17:26,213 --> 01:17:30,926
+<i>A Polícia diz que isto
+pode estar ligado aos...</i>
+
+628
+01:17:31,259 --> 01:17:37,140
+<i>...assassinatos nos subúrbios
+de Enskede na semana passada.</i>
+
+629
+01:17:48,109 --> 01:17:51,488
+<i>Temos umas informações de
+trânsito da Rádio Stockholm.</i>
+
+630
+01:17:51,821 --> 01:17:56,409
+<i>Veículos de emergência estão
+a caminho de Södertäje para Svävelsjö.</i>
+
+631
+01:17:56,743 --> 01:18:00,455
+<i>Estamos pedindo aos motoristas
+para redobrarem a atenção.</i>
+
+632
+01:18:10,382 --> 01:18:12,300
+Ele concordou em
+se encontrar com você.
+
+633
+01:18:12,634 --> 01:18:16,346
+Mas se não gostar de você,
+chuta você para fora.
+
+634
+01:18:16,680 --> 01:18:20,934
+E não pode entrevistá-lo ou
+escrever nada para publicar.
+
+635
+01:18:32,028 --> 01:18:36,700
+Quem é você que se diz
+amigo de Lisbeth?
+
+636
+01:18:37,033 --> 01:18:39,411
+Meu nome é Mikael Blomkvist.
+
+637
+01:18:39,744 --> 01:18:42,789
+Sei que você tem sido
+incomodado por jornalistas...
+
+638
+01:18:43,123 --> 01:18:46,126
+mas não vim aqui para
+uma entrevista.
+
+639
+01:18:46,459 --> 01:18:48,878
+Estou aqui por Lisbeth.
+
+640
+01:18:51,881 --> 01:18:56,094
+Não acho que ela tenha algo
+a ver com aqueles assassinatos.
+
+641
+01:18:56,428 --> 01:19:00,056
+Acredito que um homem chamado
+Zalachenko está por trás deles.
+
+642
+01:19:06,104 --> 01:19:08,064
+Sente-se.
+
+643
+01:19:12,027 --> 01:19:13,862
+Zalachenko.
+
+644
+01:19:15,697 --> 01:19:20,368
+- Alexander Zalachenko.
+- Sabe quem ele é?
+
+645
+01:19:22,620 --> 01:19:25,290
+Ele é o pai de Lisbeth.
+
+646
+01:19:46,561 --> 01:19:48,688
+<i>A mãe de Lisbeth,
+seu nome era...</i>
+
+647
+01:19:49,022 --> 01:19:51,399
+...Agneta Sjölander.
+
+648
+01:19:52,692 --> 01:19:58,072
+<i>Ela tinha só 17 anos quando
+conheceu Zalachenko.</i>
+
+649
+01:19:58,782 --> 01:20:01,993
+<i>Quando Lisbeth nasceu...</i>
+
+650
+01:20:02,327 --> 01:20:06,080
+<i>sua mãe mudou o seu nome...</i>
+
+651
+01:20:06,414 --> 01:20:09,918
+<i>de Sjölander para Salander.</i>
+
+652
+01:20:10,251 --> 01:20:12,462
+Zala... Salander.
+
+653
+01:20:16,132 --> 01:20:19,219
+Zalachenko raramente
+ficava em casa.
+
+654
+01:20:19,552 --> 01:20:24,349
+Mas ele aparecia no
+apartamento em Lundagatan.
+
+655
+01:20:25,725 --> 01:20:30,146
+Ficava bêbado.
+Abusava da mãe dela.
+
+656
+01:20:30,480 --> 01:20:35,276
+Obrigava ela a fazer sexo.
+Depois desaparecia.
+
+657
+01:20:35,610 --> 01:20:39,531
+Isto aconteceu dezenas
+de vezes.
+
+658
+01:20:39,864 --> 01:20:44,744
+A Assistência Social deveria ter
+intervindo, mas não fez nada.
+
+659
+01:20:46,037 --> 01:20:50,291
+Não até 1993.
+
+660
+01:20:52,710 --> 01:20:54,846
+O que aconteceu então?
+
+661
+01:20:59,677 --> 01:21:02,679
+TENTATIVA DE HOMICÍDIO. TENTOU
+MATAR O PAI COM UMA BOMBA.
+
+662
+01:21:02,804 --> 01:21:06,224
+Lisbeth tinha 12 anos.
+
+663
+01:21:07,308 --> 01:21:11,187
+Zalachenko riu quando Lisbeth
+encontrou a mãe...
+
+664
+01:21:11,521 --> 01:21:14,315
+<i>desmaiada no chão da cozinha.</i>
+
+665
+01:21:15,275 --> 01:21:19,779
+<i>Ele saiu, entrou no carro,
+mas Lisbeth correu atrás dele...</i>
+
+666
+01:21:20,113 --> 01:21:26,327
+<i>...e jogou uma caixa de leite
+cheia de gasolina no carro.</i>
+
+667
+01:21:34,002 --> 01:21:36,796
+<i>O homem queima como uma tocha.</i>
+
+668
+01:21:40,550 --> 01:21:42,552
+Meu Deus.
+
+669
+01:21:42,885 --> 01:21:47,682
+Tudo isto teve consequências.
+
+670
+01:21:48,016 --> 01:21:50,143
+<i>Lisbeth foi levada...</i>
+
+671
+01:21:50,476 --> 01:21:54,772
+<i>e acabou em uma ala psiquiátrica
+infantil em Uppsala.</i>
+
+672
+01:21:56,065 --> 01:22:00,236
+A mãe ficou internada nos
+últimos anos que lhe restaram.
+
+673
+01:22:02,405 --> 01:22:04,949
+Ela nunca se recuperou.
+
+674
+01:22:07,243 --> 01:22:12,081
+- Tinha problemas psiquiátricos...
+- Peter Teleborian.
+
+675
+01:22:12,415 --> 01:22:16,294
+Ele a internou para cuidados
+psiquiátricos.
+
+676
+01:22:19,881 --> 01:22:24,052
+<i>Por outro lado, seu pai,
+Alexander Zalachenko...</i>
+
+677
+01:22:24,218 --> 01:22:25,928
+<i>não foi punido.</i>
+
+678
+01:22:27,847 --> 01:22:29,724
+<i>Droga.</i>
+
+679
+01:22:45,865 --> 01:22:47,366
+Olá.
+
+680
+01:22:48,075 --> 01:22:51,746
+Alexander Zalachenko.
+O nome significa algo?
+
+681
+01:22:52,079 --> 01:22:57,460
+- Não. A coletiva vai começar.
+- Ele é o pai de Lisbeth Salander.
+
+682
+01:22:59,545 --> 01:23:02,465
+Ela o atacou com uma
+bomba de fogo em 1993.
+
+683
+01:23:02,799 --> 01:23:07,804
+Não foi a polícia que investigou,
+mas a Polícia de Segurança.
+
+684
+01:23:08,137 --> 01:23:11,808
+- Por quê?
+- Zalachenko trabalhava para ela.
+
+685
+01:23:12,141 --> 01:23:15,561
+Ele não podia ser identificado.
+Oficialmente não existia.
+
+686
+01:23:15,895 --> 01:23:19,732
+- Não está em nenhum registro público.
+- E como você sabe disto?
+
+687
+01:23:20,066 --> 01:23:24,445
+Vai encontrar o inquérito policial
+em algum lugar.
+
+688
+01:23:28,324 --> 01:23:32,119
+Acho que pode nos levar
+a Zalachenko.
+
+689
+01:23:32,954 --> 01:23:37,166
+Estou certo que ele tem algo
+a ver com os crimes em Enskede.
+
+690
+01:23:37,500 --> 01:23:41,128
+Provavelmente também com
+o assassinato do advogado Bjurman.
+
+691
+01:23:41,462 --> 01:23:44,382
+Ao contrário de Lisbeth Salander?
+
+692
+01:23:44,715 --> 01:23:49,470
+- Suas digitais estavam na arma.
+- Sim, sei que soa estranho.
+
+693
+01:23:49,804 --> 01:23:53,808
+Estranho mesmo. Por que está
+tão interessado em Lisbeth Salander?
+
+694
+01:23:54,141 --> 01:23:56,644
+Se ela é inocente, por que
+não se entrega?
+
+695
+01:23:56,978 --> 01:23:59,063
+Porque Lisbeth é...
+
+696
+01:24:02,316 --> 01:24:05,861
+...uma pessoa muito reservada.
+
+697
+01:24:06,195 --> 01:24:11,242
+Não gosto que fique tentando...
+criar pistas para a polícia.
+
+698
+01:24:11,576 --> 01:24:13,578
+Já temos muitos problemas.
+
+699
+01:24:13,661 --> 01:24:16,080
+Resolveremos isto sem investigadores
+particulares.
+
+700
+01:24:30,553 --> 01:24:32,680
+Volte sempre.
+
+701
+01:24:37,018 --> 01:24:41,272
+PAOLO ROBERTO SALVOU
+MIRIAM DAS CHAMAS
+
+702
+01:24:48,654 --> 01:24:52,283
+<i>Ainda acha que Lisbeth é
+um perigo para o público?</i>
+
+703
+01:24:52,616 --> 01:24:56,120
+<i>Ela atirou em uma pessoa.
+Está armada.</i>
+
+704
+01:24:56,454 --> 01:24:59,373
+<i>Naturalmente queremos
+capturá-la.</i>
+
+705
+01:24:59,707 --> 01:25:02,752
+<i>Sabe quem está por trás
+do sequestro de Miriam?</i>
+
+706
+01:25:03,085 --> 01:25:06,922
+<i>Passarei esta pergunta para
+o investigador Bublanski.</i>
+
+707
+01:25:07,256 --> 01:25:11,177
+<i>Um homem envolvido
+no tiroteio desta manhã...</i>
+
+708
+01:25:11,510 --> 01:25:16,682
+<i>era possivelmente o motorista
+na tentativa anterior de sequestro.</i>
+
+709
+01:25:17,016 --> 01:25:21,103
+<i>- O homem que foi baleado?
+- Sem comentários.</i>
+
+710
+01:25:22,480 --> 01:25:26,734
+<i>Quanto ao que agrediu
+Miriam Wu e Paolo Roberto...</i>
+
+711
+01:25:27,068 --> 01:25:29,278
+<i>não temos nenhuma pista.</i>
+
+712
+01:25:29,612 --> 01:25:32,406
+<i>E não tem nenhuma descrição dele?</i>
+
+713
+01:25:32,740 --> 01:25:36,327
+<i>Temos um retrato falado...</i>
+
+714
+01:25:36,660 --> 01:25:40,498
+<i>baseado em descrição
+de testemunhas.</i>
+
+715
+01:25:40,831 --> 01:25:46,378
+<i>É um homem grande, musculoso,
+de 35 a 40 anos.</i>
+
+716
+01:25:46,712 --> 01:25:51,008
+<i>Tipo halterofilista.
+Cabelo loiro curto.</i>
+
+717
+01:25:51,342 --> 01:25:57,139
+<i>O desenho estará disponível
+para todos depois da coletiva.</i>
+
+718
+01:25:59,183 --> 01:26:03,062
+<i>A Polícia também informou que
+não conseguiu...</i>
+
+719
+01:26:03,187 --> 01:26:05,189
+<i>prender a mulher de 28 anos...</i>
+
+720
+01:26:05,523 --> 01:26:09,151
+<i>que, depois do tiroteio na
+zona rural de Strängnäs...</i>
+
+721
+01:26:09,485 --> 01:26:13,405
+<i>fugiu do local em uma moto.</i>
+
+722
+01:26:13,739 --> 01:26:18,035
+<i>Segundo informações existentes.
+pode ser coisa de gangues.</i>
+
+723
+01:26:19,119 --> 01:26:21,872
+Eles não sabem porra nenhuma!
+
+724
+01:26:23,624 --> 01:26:27,628
+Bublanski não escutou.
+Estão fixados em uma só pista.
+
+725
+01:26:27,962 --> 01:26:32,132
+Se a polícia prender Lisbeth,
+qualquer merda pode acontecer.
+
+726
+01:26:32,466 --> 01:26:34,718
+- Onde você está indo?
+- Para casa.
+
+727
+01:26:35,052 --> 01:26:38,472
+- Devo ir com você?
+- Não, eu não seria uma boa companhia.
+
+728
+01:26:38,806 --> 01:26:42,059
+Você não precisa ser.
+
+729
+01:26:53,612 --> 01:26:56,407
+<i>E você, Peter Teleborian,
+é ainda mais crítico.</i>
+
+730
+01:26:56,740 --> 01:27:01,620
+<i>Chama de escândalo ela não
+ter recebido o tratamento necessário.</i>
+
+731
+01:27:01,954 --> 01:27:05,791
+<i>Não quero discutir casos
+individuais...</i>
+
+732
+01:27:06,125 --> 01:27:11,589
+<i>mas devo dizer que certos
+casos complexos...</i>
+
+733
+01:27:11,922 --> 01:27:14,592
+<i>requerem cuidados especializados.</i>
+
+734
+01:27:14,925 --> 01:27:18,804
+<i>Só posso lamentar que
+três pessoas morreram...</i>
+
+735
+01:27:19,138 --> 01:27:23,767
+<i>como resultado de cortes
+na assistência psiquiátrica.</i>
+
+736
+01:27:24,101 --> 01:27:26,937
+<i>Então, esta mulher deve
+ser mantida trancada?</i>
+
+737
+01:27:29,857 --> 01:27:33,152
+<i>Alguns pacientes deveriam
+ser internados...</i>
+
+738
+01:27:33,485 --> 01:27:37,531
+<i>em vez de se mover livremente
+na sociedade.</i>
+
+739
+01:28:09,521 --> 01:28:11,940
+<i>Lisbeth, sei quem é Zalachenko.</i>
+
+740
+01:28:12,274 --> 01:28:15,694
+<i>Falei com Palmgren e entendi
+o papel de Teleborian...</i>
+
+741
+01:28:16,028 --> 01:28:19,865
+<i>e porque era tão importante
+trancá-la na ala psiquiátrica.</i>
+
+742
+01:28:20,199 --> 01:28:22,659
+<i>Acho que sei quem matou
+Dag e Mia.</i>
+
+743
+01:28:22,993 --> 01:28:25,621
+<i>Mas não entendo o papel
+de Bjurman.</i>
+
+744
+01:28:25,704 --> 01:28:28,540
+<i>Por favor, entregue-se.
+Podemos resolver isto.</i>
+
+745
+01:29:04,552 --> 01:29:07,246
+OBRIGADA POR SER MEU AMIGO.
+
+746
+01:29:31,603 --> 01:29:33,605
+Sou eu.
+
+747
+01:29:34,314 --> 01:29:35,858
+Tudo bem?
+
+748
+01:29:47,828 --> 01:29:50,455
+É ele?
+Era assim que ele se parecia?
+
+749
+01:29:51,707 --> 01:29:56,378
+Foi horrível.
+Era verdadeiro monstro.
+
+750
+01:30:04,678 --> 01:30:07,931
+Porra. Porra.
+Desculpe-me.
+
+751
+01:30:10,100 --> 01:30:13,395
+É você que eles estão procurando.
+Você sabe disto, não é?
+
+752
+01:30:16,273 --> 01:30:18,233
+O que você fez?
+
+753
+01:30:21,153 --> 01:30:25,365
+Paolo disse Blomkvist contatou
+ele para encontrar você.
+
+754
+01:30:27,284 --> 01:30:30,162
+- O que há entre vocês dois?
+- Eu preciso ir.
+
+755
+01:30:30,495 --> 01:30:34,499
+- Onde você vai?
+- Preciso terminar uma coisa.
+
+756
+01:30:34,833 --> 01:30:36,543
+Que porra, Lisbeth...?
+
+757
+01:30:47,137 --> 01:30:50,057
+<i>Havia uma moça aqui.</i>
+
+758
+01:30:50,390 --> 01:30:54,061
+Uma loira baixa.
+Foi embora.
+
+759
+01:30:54,394 --> 01:30:57,856
+Vou pegar algo para você dormir.
+Volto logo.
+
+760
+01:31:32,265 --> 01:31:35,560
+Deveria ter feito isto
+há muito tempo.
+
+761
+01:32:02,587 --> 01:32:04,714
+Para dentro.
+Para dentro!
+
+762
+01:32:06,383 --> 01:32:08,885
+Quero ver os seus registros
+de carros alugados.
+
+763
+01:32:09,219 --> 01:32:12,514
+- Estão no computador.
+- Ligue.
+
+764
+01:32:17,018 --> 01:32:19,563
+Venha. Devagar.
+
+765
+01:32:26,486 --> 01:32:28,446
+Abra o armário.
+
+766
+01:32:30,157 --> 01:32:32,409
+Dê-me o seu celular.
+
+767
+01:32:33,827 --> 01:32:37,747
+Entre no armário.
+Não vou machucá-lo.
+
+768
+01:32:45,130 --> 01:32:50,468
+- Onde guarda os contratos de aluguéis?
+- Em uma pasta vermelha na prateleira.
+
+769
+01:33:01,980 --> 01:33:05,901
+Preciso alugar um carro.
+Estou deixando 10 mil aqui.
+
+770
+01:33:06,234 --> 01:33:08,111
+Receberá seu carro de volta.
+
+771
+01:33:37,724 --> 01:33:40,685
+OBRIGADA POR SER MEU AMIGO.
+
+772
+01:33:54,532 --> 01:33:58,370
+<i>Olá, é Miriam, Miriam Wu.</i>
+
+773
+01:33:59,204 --> 01:34:02,457
+<i>Poderia vir ao hospital?</i>
+
+774
+01:34:04,501 --> 01:34:08,713
+<i>- Então ela esteve aqui? Quando?
+- Há algumas horas atrás.</i>
+
+775
+01:34:09,047 --> 01:34:11,800
+Ela disse onde iria?
+
+776
+01:34:14,636 --> 01:34:16,971
+Não, Lisbeth não faz isto.
+
+777
+01:34:17,305 --> 01:34:21,476
+Se ela conseguir rastrear
+aquele monstro, ele vai matá-la.
+
+778
+01:34:25,522 --> 01:34:27,857
+Tome. Ela esqueceu isto.
+
+779
+01:34:28,191 --> 01:34:30,944
+- Esqueceu?
+- Não, deixou cair.
+
+780
+01:34:31,277 --> 01:34:34,114
+Caíram da sua mochila.
+
+781
+01:34:35,198 --> 01:34:37,617
+Não faço idéia de onde ela mora.
+Você faz?
+
+782
+01:34:37,742 --> 01:34:38,535
+Não.
+
+783
+01:34:42,747 --> 01:34:47,419
+- O que é isto?
+- Parece uma chave de caixa postal.
+
+784
+01:35:06,855 --> 01:35:10,024
+- Pode usar isto?
+- Sim, obrigado.
+
+785
+01:35:28,668 --> 01:35:30,253
+AVENTURAS NOS MARES DO SUL
+
+786
+01:35:31,838 --> 01:35:33,131
+NOTA DE VENDA
+
+787
+01:36:40,198 --> 01:36:41,908
+Alô?
+
+788
+01:37:07,009 --> 01:37:08,709
+ALARME DESATIVADO
+
+789
+01:37:26,035 --> 01:37:27,787
+Lisbeth?
+
+790
+01:38:06,367 --> 01:38:09,412
+<i>Rádio Trânsito de Gotemburgo.
+Houve um acidente...</i>
+
+791
+01:38:09,495 --> 01:38:11,914
+<i>em Grabovägen, na estrada F90.</i>
+
+792
+01:38:12,248 --> 01:38:16,961
+<i>O acidente causou engarrafamento
+e o trânsito se move devagar.</i>
+
+793
+01:38:22,633 --> 01:38:26,304
+<i>O Conselho Social em Biskopsgarden
+pede apoio para medidas...</i>
+
+794
+01:38:26,387 --> 01:38:28,139
+<i>contra violência doméstica.</i>
+
+795
+01:38:31,142 --> 01:38:33,769
+<i>Tem certeza que é o
+miolo quente da maçã?</i>
+
+796
+01:38:34,103 --> 01:38:36,731
+<i>Se retornarmos aos pretensiosos...</i>
+
+797
+01:38:37,064 --> 01:38:40,610
+<i>Vendo na retrospectiva que tem escrito,</i>
+
+798
+01:38:40,693 --> 01:38:42,820
+<i>...qual o mais pretensioso?</i>
+
+799
+01:39:40,878 --> 01:39:45,800
+Esta foto tem 17 anos.
+Seu nome é Ronald Niederman.
+
+800
+01:39:46,133 --> 01:39:50,012
+Ele tinha 18 quando esta foto
+foi tirada, então hoje tem 35.
+
+801
+01:39:50,346 --> 01:39:53,641
+- Onde conseguiu a foto?
+- Dinâmico em Hamburgo.
+
+802
+01:39:53,975 --> 01:39:58,354
+Como disse a Micke, ele não valia
+nada como pugilista.
+
+803
+01:39:58,688 --> 01:40:03,275
+Mas ele se mexia como um, então
+alguém deve ter treinado ele.
+
+804
+01:40:03,609 --> 01:40:07,196
+Mandei e-mail para vários
+ginásios de boxe na Europa.
+
+805
+01:40:07,530 --> 01:40:11,784
+Disse o que havia acontecido e
+tentei descrevê-lo.
+
+806
+01:40:12,785 --> 01:40:16,956
+Este cara tem uma doença.
+Analgesia congênita.
+
+807
+01:40:18,207 --> 01:40:21,669
+- O que é isto?
+- Eu pesquisei. Erro genético.
+
+808
+01:40:22,003 --> 01:40:25,756
+As sinapses nervosas não funcionam.
+Você não sente dor.
+
+809
+01:41:03,085 --> 01:41:05,337
+<i>- Sim?
+- Olá, aqui é Malin.</i>
+
+810
+01:41:05,671 --> 01:41:08,674
+<i>Paolo identificou o loiro.</i>
+
+811
+01:41:09,008 --> 01:41:10,926
+Bom, bom.
+
+812
+01:41:11,260 --> 01:41:15,097
+- Onde você está?
+- É meio difícil dizer.
+
+813
+01:41:15,431 --> 01:41:18,309
+<i>- Você parece estranho.
+- O que você disse?</i>
+
+814
+01:41:18,642 --> 01:41:21,812
+Paolo descobriu quem é
+o pugilista loiro.
+
+815
+01:41:22,146 --> 01:41:25,941
+- Seu nome é Niederman.
+- Bom. Ele tem o endereço?
+
+816
+01:41:27,151 --> 01:41:31,530
+<i>Só temos uma foto de 17 anos
+em Hamburgo, Alemanha.</i>
+
+817
+01:41:33,157 --> 01:41:35,326
+<i>Alô? Micke?</i>
+
+818
+01:41:35,659 --> 01:41:39,371
+Tente achá-lo no catálogo
+telefônico. Estou no celular.
+
+819
+01:42:25,584 --> 01:42:28,254
+<i>Vai ser boazinha comigo?</i>
+
+820
+01:42:34,134 --> 01:42:38,639
+<i>Vai ser boazinha comigo?
+Então serei bonzinho com você.</i>
+
+821
+01:42:41,850 --> 01:42:43,894
+<i>É tarde demais.</i>
+
+822
+01:43:11,880 --> 01:43:15,217
+<i>Olá, é Malin. Acho que tenho
+alguma coisa agora.</i>
+
+823
+01:43:15,551 --> 01:43:19,388
+<i>Não há nenhum Ronald Niederman
+no registros públicos da Suécia.</i>
+
+824
+01:43:19,722 --> 01:43:23,892
+Mas em 1998 uma companhia
+limitada foi registrada...
+
+825
+01:43:24,226 --> 01:43:26,729
+com o nome de KKAB Importações.
+
+826
+01:43:27,062 --> 01:43:32,443
+<i>O diretor do conselho se chamava
+Karl Axel Bodin, nascido em 1944.</i>
+
+827
+01:43:32,776 --> 01:43:37,031
+<i>O terceiro diretor é um homem
+chamado R. Niederman.</i>
+
+828
+01:43:37,364 --> 01:43:39,575
+- Você tem um endereço?
+- Sim.
+
+829
+01:43:39,908 --> 01:43:43,245
+<i>Karl Axel Bodin está registrado
+na Suécia ocidental...</i>
+
+830
+01:43:43,579 --> 01:43:48,417
+com endereço na Caixa Postal 612
+em Gosseberga.
+
+831
+01:43:58,218 --> 01:44:01,096
+Que ótimo...
+
+832
+01:44:03,515 --> 01:44:06,226
+- Erika?
+- Olá. Onde você andou?
+
+833
+01:44:06,560 --> 01:44:08,896
+- Venha!
+- O que é?
+
+834
+01:44:13,942 --> 01:44:17,404
+Não podemos reter informações
+da Polícia...
+
+835
+01:44:17,488 --> 01:44:19,615
+no meio de um caso de assassinato.
+
+836
+01:44:19,948 --> 01:44:21,992
+Não é o que estamos fazendo.
+
+837
+01:44:23,368 --> 01:44:25,287
+Quero pedir-lhe um favor agora.
+
+838
+01:44:27,080 --> 01:44:31,335
+Este é o relatório
+de Björck de 1993...
+
+839
+01:44:31,668 --> 01:44:34,838
+com parte da correspondência
+entre Björck e Teleborian
+
+840
+01:44:35,172 --> 01:44:37,424
+...sobre Lisbeth.
+
+841
+01:44:37,758 --> 01:44:41,929
+Pode fazer uma cópia dele e
+mandar o original para Bublanski?
+
+842
+01:44:42,262 --> 01:44:44,264
+Estou indo para Gotemburg.
+
+843
+01:44:44,598 --> 01:44:48,519
+Quero encontrá-la antes da polícia
+e ficar ao seu lado.
+
+844
+01:44:48,852 --> 01:44:51,271
+Devo isto a ela.
+
+845
+01:44:54,066 --> 01:44:59,029
+Deus, tenha cuidado.
+Mikael, então...
+
+846
+01:48:34,536 --> 01:48:36,329
+Olá, papai.
+
+847
+01:48:50,010 --> 01:48:53,054
+<i>- Sim?
+- Bublanski e Sonja Modig estão aqui.</i>
+
+848
+01:48:53,388 --> 01:48:56,808
+Acabaram de ler o relatório
+sobre Salander de 1993.
+
+849
+01:48:58,643 --> 01:49:03,064
+Agora querem o endereço de Björck.
+Pode dar a eles?
+
+850
+01:49:03,398 --> 01:49:05,859
+Eles mesmo podem procurar.
+
+851
+01:49:06,192 --> 01:49:10,155
+<i>Quanto difícil pode ser?
+Eles são da porra da polícia.</i>
+
+852
+01:49:11,364 --> 01:49:13,742
+Deixe-me falar com ele.
+
+853
+01:49:14,617 --> 01:49:19,331
+<i>Blomkvist, é melhor você vir
+e dar um depoimento formal.</i>
+
+854
+01:49:19,664 --> 01:49:23,001
+Não tenho tempo para isto.
+Não estou em Estocolmo.
+
+855
+01:49:23,335 --> 01:49:24,961
+<i>Onde você está?</i>
+
+856
+01:49:25,295 --> 01:49:29,299
+Sou um simples investigador que
+não sabe porra nenhuma.
+
+857
+01:49:29,632 --> 01:49:33,845
+Não seja infantil. Também
+duvido da culpa de Salander.
+
+858
+01:49:34,679 --> 01:49:37,390
+Posso falar com Erika de novo?
+
+859
+01:49:39,100 --> 01:49:41,895
+<i>- Sim?
+- Dê-lhes o endereço de Björck.</i>
+
+860
+01:49:42,228 --> 01:49:46,274
+<i>Vou desligar meu celular agora.
+Não quero ser rastreado. Tchau.</i>
+
+861
+01:49:51,654 --> 01:49:54,574
+Você disparou todos
+os alarmes da fazenda.
+
+862
+01:49:56,201 --> 01:49:58,536
+- Sensores de movimento?
+- Sim.
+
+863
+01:50:08,129 --> 01:50:10,256
+Você parece ferrada.
+
+864
+01:50:14,260 --> 01:50:16,387
+Mas você tem os meus olhos.
+
+865
+01:50:20,642 --> 01:50:22,602
+Está doendo?
+
+866
+01:50:24,312 --> 01:50:25,438
+Não.
+
+867
+01:50:25,772 --> 01:50:28,566
+Pensei em você um pouco
+durante estes anos.
+
+868
+01:50:29,359 --> 01:50:32,987
+Exatamente cada vez que
+me olhava no espelho.
+
+869
+01:50:33,321 --> 01:50:36,199
+Você deveria ter deixado
+a minha mãe em paz.
+
+870
+01:50:36,533 --> 01:50:39,661
+Sua mãe...
+Sua mãe era uma prostituta.
+
+871
+01:50:39,994 --> 01:50:44,457
+Não. Ela era balconista e
+tentava nos sustentar.
+
+872
+01:50:44,791 --> 01:50:47,919
+Pode pensar o que quiser
+da sua mãe...
+
+873
+01:50:48,253 --> 01:50:50,421
+mas ela era uma prostituta.
+
+874
+01:50:53,091 --> 01:50:55,176
+Eu odiava você.
+
+875
+01:50:59,764 --> 01:51:02,308
+- Mas perdoei você.
+- Mentira!
+
+876
+01:51:02,642 --> 01:51:04,936
+Bjurman contratou você
+para me matar.
+
+877
+01:51:05,270 --> 01:51:09,983
+Isto foi outra coisa.
+Foi puro negócio.
+
+878
+01:51:11,317 --> 01:51:14,571
+Você tinha um filme
+que ele queria.
+
+879
+01:51:16,239 --> 01:51:19,617
+E eu dirijo um pequeno negócio.
+
+880
+01:51:24,414 --> 01:51:26,791
+Ele realmente estuprou você?
+
+881
+01:51:30,336 --> 01:51:34,132
+Puta merda, ele tinha
+um mau gosto para mulheres.
+
+882
+01:51:37,635 --> 01:51:39,053
+Sente-se!
+
+883
+01:51:39,387 --> 01:51:43,516
+Sente-se ou atirarei em você
+como em um cachorro.
+
+884
+01:51:49,188 --> 01:51:54,527
+- Onde você achou este retardado?
+- Você não descobriu ainda?
+
+885
+01:51:56,070 --> 01:52:00,408
+Dizem que você é uma
+pesquisadora muito boa.
+
+886
+01:52:01,367 --> 01:52:03,745
+Obviamente que não.
+
+887
+01:52:06,497 --> 01:52:08,708
+Ele é seu irmão.
+
+888
+01:52:09,751 --> 01:52:14,380
+- O quê?
+- Correção, meio irmão.
+
+889
+01:52:14,714 --> 01:52:19,218
+O resultado de uma diversão
+acidental há muito tempo na Alemanha.
+
+890
+01:52:43,201 --> 01:52:46,996
+Niederman também atirou
+em Bjurman também. Por quê?
+
+891
+01:52:48,331 --> 01:52:53,503
+Bjurman era um idiota e tinha
+documentos que me pertenciam.
+
+892
+01:52:53,836 --> 01:52:57,423
+Ele era um dos poucos que
+sabia do meu passado.
+
+893
+01:52:57,757 --> 01:53:01,260
+Eu não podia confiar nele para
+ficar de boca calada.
+
+894
+01:53:01,594 --> 01:53:05,390
+Especialmente não com jornalistas
+começando se meter em nossos assuntos.
+
+895
+01:53:05,723 --> 01:53:08,101
+Esta foi a gota d'água.
+
+896
+01:53:08,434 --> 01:53:11,896
+Você cometeu muitos erros.
+A Polícia identificará você.
+
+897
+01:53:12,230 --> 01:53:15,316
+Oh, estou assustado.
+
+898
+01:53:17,735 --> 01:53:20,321
+Não, eu não atirei em ninguém.
+
+899
+01:53:20,655 --> 01:53:24,575
+Sou apenas um inválido velho
+e ferido.
+
+900
+01:53:30,039 --> 01:53:32,041
+Pronto?
+
+901
+01:54:04,949 --> 01:54:07,451
+Talvez devesse dizer alguma coisa.
+
+902
+01:54:08,953 --> 01:54:11,873
+Mas não tenho nada para lhe dizer.
+
+903
+01:54:12,206 --> 01:54:15,001
+Tudo bem. Nem eu.
+
+904
+01:54:16,127 --> 01:54:17,795
+Vamos acabar com isso.
+
+905
+01:54:18,129 --> 01:54:20,673
+Felizmente consegui pegar você
+com a mão na massa.
+
+906
+01:54:20,798 --> 01:54:23,509
+A Polícia esta vindo esta noite.
+
+907
+01:54:23,843 --> 01:54:25,720
+Mentira!
+
+908
+01:54:26,596 --> 01:54:29,473
+Estava esperando que
+você blefasse.
+
+909
+01:54:31,142 --> 01:54:35,855
+Veio aqui só para me matar.
+Não falou com ninguém.
+
+910
+01:54:36,188 --> 01:54:38,608
+Posso mostrar-lhe uma coisa?
+
+911
+01:54:47,241 --> 01:54:51,287
+Tudo o que disse na
+última hora saiu na rede.
+
+912
+01:54:53,289 --> 01:54:55,082
+Posso ver?
+
+913
+01:55:03,924 --> 01:55:07,845
+Não... este não é um daqueles.
+
+914
+01:55:27,990 --> 01:55:29,825
+Idiota!
+
+915
+01:55:34,622 --> 01:55:36,666
+O que está esperando?
+
+916
+02:00:12,566 --> 02:00:15,444
+Venha aqui.
+Venha aqui!
+
+917
+02:03:25,458 --> 02:03:26,773
+Sou eu.
+
+918
+02:03:38,980 --> 02:03:41,107
+Lisbeth...
+
+919
+02:03:57,415 --> 02:03:59,709
+Obrigado.
+
+920
+02:05:17,510 --> 02:05:21,510
+Revisão e ressincronia BluRay
+23,976 FPS: ZORAXbr
+
+921
+02:05:22,041 --> 02:05:24,377
+Legendas: TRX
+
+922
+02:05:24,461 --> 02:05:25,462
+ReSync: Puff
+Revisão: Puff
+
+923
+02:05:26,305 --> 02:05:32,486
+-==[ www.OpenSubtitles.org ]==-

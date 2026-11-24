@@ -1,0 +1,577 @@
+1
+00:15:44,403 --> 00:15:46,405
+Hora dos medicamentos, Connor.
+
+2
+00:15:47,364 --> 00:15:48,782
+Tome-os você.
+
+3
+00:15:49,032 --> 00:15:52,202
+Comporte-se bem, o seu caso
+vai hoje à junta médica.
+
+4
+00:15:52,494 --> 00:15:54,204
+Eu não tomo Isso.
+
+5
+00:15:54,496 --> 00:15:57,582
+Eu não quero problemas.
+- Por quê problemas?
+
+6
+00:16:03,922 --> 00:16:05,215
+Choques elétricos.
+
+7
+00:16:15,725 --> 00:16:17,394
+Última chamada querida.
+
+8
+00:16:23,525 --> 00:16:24,943
+Bons sonhos.
+
+9
+00:19:20,452 --> 00:19:22,204
+Sarah.
+
+10
+00:19:23,038 --> 00:19:24,373
+Sarah, acorde!
+
+11
+00:19:32,631 --> 00:19:34,633
+Kyle?
+
+12
+00:19:36,510 --> 00:19:37,594
+Você está morto.
+
+13
+00:19:38,053 --> 00:19:39,638
+Onde está o nosso filho?
+
+14
+00:19:41,056 --> 00:19:43,309
+Levaram-no.
+
+15
+00:19:43,642 --> 00:19:46,186
+Agora ele é o alvo deles.
+- Eu sei.
+
+16
+00:19:46,437 --> 00:19:48,439
+Está sozinho, você tem que protegê-lo.
+
+17
+00:19:48,731 --> 00:19:50,357
+Eu sel.
+
+18
+00:19:50,691 --> 00:19:53,319
+Diga-me o que tenho que fazer.
+
+19
+00:19:53,652 --> 00:19:55,738
+Ele já não acredita em mim.
+
+20
+00:19:56,363 --> 00:19:58,073
+Eu o perdi.
+
+21
+00:19:58,407 --> 00:20:00,034
+Você é forte, Sarah.
+
+22
+00:20:00,451 --> 00:20:01,702
+Mais forte do que pensa.
+- Não.
+
+23
+00:20:03,537 --> 00:20:05,748
+Levante, guerreira.
+
+24
+00:20:07,416 --> 00:20:10,002
+Eu amo você.
+Sempre amarei.
+
+25
+00:20:12,212 --> 00:20:15,007
+Preciso de você.
+- Estarei sempre ao seu lado.
+
+26
+00:20:19,678 --> 00:20:21,597
+Lembra da mensagem?
+
+27
+00:20:22,973 --> 00:20:25,642
+"O futuro não está escrito.
+
+28
+00:20:26,143 --> 00:20:27,561
+O destino não existe.
+Tudo está nas nossas mãos."
+
+29
+00:20:49,958 --> 00:20:51,001
+Fique comigo.
+
+30
+00:20:52,044 --> 00:20:54,838
+O tempo do mundo está acabando, Sarah.
+
+31
+00:21:02,429 --> 00:21:03,806
+Kyle, não vá.
+
+32
+01:09:48,521 --> 01:09:52,150
+Skynet só o ativa
+quando nos manda para fora.
+
+33
+01:09:54,360 --> 01:09:56,613
+Não quer que pensem demais?
+
+34
+01:09:56,779 --> 01:09:57,947
+Exato.
+
+35
+01:09:59,699 --> 01:10:01,409
+Pode-se desligar?
+
+36
+01:10:20,011 --> 01:10:24,182
+Gire o fecho em sentido
+contrário ao do relógio.
+
+37
+01:10:30,188 --> 01:10:31,314
+Faça-o.
+
+38
+01:10:39,572 --> 01:10:41,741
+Agora abre a tampa.
+
+39
+01:10:44,994 --> 01:10:48,122
+Puxe para quebrar o sêlo.
+
+40
+01:10:51,000 --> 01:10:54,087
+Bem, separe
+o dispositivo de bloqueio.
+
+41
+01:10:58,174 --> 01:11:00,552
+Agora tem acesso à CPU.
+
+42
+01:11:01,678 --> 01:11:03,471
+Tá vendo?
+- Sim.
+
+43
+01:11:03,805 --> 01:11:04,305
+Puxe a CPU até o fim.
+
+44
+01:11:07,892 --> 01:11:08,935
+Tire-a.
+
+45
+01:11:46,723 --> 01:11:48,141
+Pode ver algo?
+
+46
+01:11:48,641 --> 01:11:50,059
+Não!
+
+47
+01:11:51,269 --> 01:11:53,730
+Saia do caminho, John.
+- Não o mate.
+
+48
+01:11:54,814 --> 01:11:55,398
+Uma máquina
+não é uma pessoa.
+
+49
+01:11:57,150 --> 01:12:00,695
+Está bem,
+mas precisamos dele.
+
+50
+01:12:01,029 --> 01:12:03,489
+Escute bem.
+
+51
+01:12:03,740 --> 01:12:05,617
+Sozinhos estaremos melhor.
+
+52
+01:12:05,992 --> 01:12:08,953
+Mas é a única prova sobre o futuro.
+
+53
+01:12:10,413 --> 01:12:11,456
+Pode ser.
+
+54
+01:12:14,542 --> 01:12:16,044
+Não confio nele.
+
+55
+01:12:16,461 --> 01:12:17,920
+Mas é meu amigo!
+
+56
+01:12:19,172 --> 01:12:21,841
+Sabe como é difícil destruirmos
+um destes?
+
+57
+01:12:22,175 --> 01:12:24,927
+Se algo falhar, esta poderia ser
+a nossa última oportunidade.
+
+58
+01:12:25,178 --> 01:12:27,972
+Se supõe,
+que vou ser um grande líder...
+
+59
+01:12:28,181 --> 01:12:31,142
+Talvez devesse começar
+a me ouvir!
+
+60
+01:12:34,646 --> 01:12:38,399
+Se a minha própria mãe não o faz,
+por quê devem fazer os outros?
+
+61
+01:12:53,665 --> 01:12:56,209
+Bem, faça o que quiser.
+
+62
+01:13:03,800 --> 01:13:05,468
+Algum problema?
+
+63
+01:13:06,219 --> 01:13:06,886
+Não.
+
+64
+01:13:09,180 --> 01:13:10,223
+Nenhum.
+
+65
+01:15:08,716 --> 01:15:09,842
+Você tem grana?
+
+66
+01:15:10,134 --> 01:15:11,928
+Duas notas de cem.
+
+67
+01:15:12,220 --> 01:15:13,513
+Tome a metade.
+
+68
+01:15:16,766 --> 01:15:18,309
+Vou buscar comida.
+
+69
+01:15:20,728 --> 01:15:22,522
+Não tem senso de humor...
+
+70
+01:15:28,528 --> 01:15:30,196
+Ah, e mais uma coisa.
+
+71
+01:15:30,530 --> 01:15:31,781
+Relaxe, ok?
+
+72
+01:15:33,032 --> 01:15:37,119
+Esse jeito não se usa.
+Está ultrapassado.
+
+73
+01:15:37,370 --> 01:15:38,830
+Ria de vez em quando.
+
+74
+01:15:39,080 --> 01:15:40,414
+Rir?
+
+75
+01:15:40,748 --> 01:15:43,125
+Sim, rir.
+
+76
+01:15:43,459 --> 01:15:44,502
+Olhe.
+
+77
+01:15:45,962 --> 01:15:49,048
+Que lindo local este, como vai indo?
+
+78
+01:15:50,216 --> 01:15:50,758
+Deixe-me em paz.
+
+79
+01:15:53,094 --> 01:15:55,680
+Ok, um mau exemplo.
+
+80
+01:15:56,681 --> 01:15:59,517
+Tá vendo aqueles dois ali?
+Assim é que serri.
+
+81
+01:16:19,787 --> 01:16:20,830
+Está bem assim.
+
+82
+01:16:21,080 --> 01:16:24,000
+Treine diante de um espelho.
+
+83
+01:19:24,055 --> 01:19:27,308
+Miles, vai trabalhar o dia todo?
+- Sinto muito.
+
+84
+01:19:27,642 --> 01:19:29,519
+Isto está me incomodando.
+
+85
+01:19:29,853 --> 01:19:33,732
+É domingo, você prometeu levar
+as crianças a Raging Waters.
+
+86
+01:19:35,650 --> 01:19:37,902
+Não posso.
+Estou totalmente metido nisto.
+
+87
+01:19:52,584 --> 01:19:56,171
+Isto deixará todos espantados,
+um processador "neuronal".
+
+88
+01:19:56,504 --> 01:19:57,797
+Já me contou.
+
+89
+01:19:58,047 --> 01:19:58,506
+Um processador que pensa
+e aprende como nós.
+
+90
+01:20:01,050 --> 01:20:03,595
+Um super condutor
+à temperatura ambiente.
+
+91
+01:20:03,803 --> 01:20:07,807
+Os outros computadores serão
+simples calculadores ao lado dele.
+
+92
+01:20:10,101 --> 01:20:11,770
+Qual é a sua importância?
+
+93
+01:20:12,020 --> 01:20:14,481
+Explique, às vezes penso
+
+94
+01:20:14,814 --> 01:20:17,066
+que vou ficar louca aqui.
+
+95
+01:20:18,610 --> 01:20:19,152
+Tá faltando pouco.
+
+96
+01:20:21,571 --> 01:20:22,614
+Vem aqui.
+
+97
+01:20:24,949 --> 01:20:28,787
+Imagine um avião
+cujo piloto nunca se cansa,
+
+98
+01:20:29,037 --> 01:20:29,454
+nunca comete erros e nunca
+chega com ressaca ao trabalho.
+
+99
+01:20:34,709 --> 01:20:36,544
+Aqui está ele.
+
+100
+01:20:37,128 --> 01:20:41,299
+Por quê casamos e tivemos filhos?
+Você não precisa da gente, Miles.
+
+101
+01:20:41,800 --> 01:20:45,220
+O seu coração e a sua mente
+pertencem a isto.
+
+102
+01:20:45,553 --> 01:20:47,722
+Mas não te ama como nós.
+
+103
+01:20:56,147 --> 01:20:58,566
+Sinto muito de verdade.
+
+104
+01:20:59,067 --> 01:21:02,904
+Por quê não se ocupa um pouco
+mais dos seus próprios filhos?
+
+105
+01:21:05,865 --> 01:21:07,408
+Raging waters!
+- Sim!
+
+106
+01:24:37,327 --> 01:24:40,121
+Enrique, é perigoso ficarem aqui,
+
+107
+01:24:40,413 --> 01:24:43,041
+é melhor irem embora daqui
+esta noite, ok? - Claro.
+
+108
+01:24:44,542 --> 01:24:47,921
+Chega e bagunça minha vida.
+
+109
+01:25:08,066 --> 01:25:12,862
+Quando pegaram a minha mãe
+tive que ir para uma escola normal.
+
+110
+01:25:13,446 --> 01:25:16,699
+Ali todos os meninos
+brincavam com Nintendo.
+
+111
+01:25:31,005 --> 01:25:32,799
+Teve medo alguma vez?
+
+112
+01:25:33,049 --> 01:25:34,342
+Não.
+
+113
+01:25:38,346 --> 01:25:39,597
+Nem de morrer?
+
+114
+01:25:40,890 --> 01:25:41,933
+Não.
+
+115
+01:25:46,938 --> 01:25:50,024
+Não tem emoções
+de alguma forma?
+
+116
+01:25:51,151 --> 01:25:52,026
+Não, tenho de estar funcional,
+
+117
+01:25:53,736 --> 01:25:56,072
+até que a minha missão
+esteja cumprida.
+
+118
+01:26:00,660 --> 01:26:02,620
+Depois já não importa.
+
+119
+01:26:03,121 --> 01:26:06,666
+Eu também tenho que funcionar,
+sou "importante demais”".
+
+120
+01:26:23,433 --> 01:26:24,893
+Combina com você.
+
+121
+01:35:00,032 --> 01:35:02,827
+Para você é indeferente
+se está vivo ou morto.
+
+122
+01:35:03,077 --> 01:35:04,495
+Entre nós é diferente.
+
+123
+01:35:04,745 --> 01:35:08,291
+Temos sentimentos,
+sofremos, temos mêdo.
+
+124
+01:35:10,835 --> 01:35:13,963
+Aprenda isto! Não estou brincando.
+É importante.
+
+125
+01:49:09,464 --> 01:49:13,510
+Todos os discos rígidos
+do meu escritório.
+
+126
+01:49:13,760 --> 01:49:15,804
+Tudo atrás do meu escritório.
+
+127
+01:49:16,054 --> 01:49:17,973
+E esses processadores à esquerda.
+
+128
+01:49:18,223 --> 01:49:19,975
+Destruiremos todos.
+
+129
+01:49:34,280 --> 01:49:35,657
+Poderia...?
+
+130
+01:49:36,157 --> 01:49:37,701
+Desculpa...
+
+131
+01:49:39,911 --> 01:49:42,038
+Pode me emprestar isso?
+
+132
+01:49:51,548 --> 01:49:53,800
+Dediquei muitos anos a isto.
+
+133
+01:49:57,929 --> 01:50:02,100
+Dê novamente o endereçocerto!
+- 2111, Kramer.
+

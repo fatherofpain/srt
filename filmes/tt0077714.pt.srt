@@ -1,0 +1,6585 @@
+1
+00:00:06,000 --> 00:00:12,074
+-==[ www.OpenSubtitles.org ]==-
+
+2
+00:01:20,880 --> 00:01:22,871
+Hei. Mr. Sullivan.
+
+3
+00:01:35,161 --> 00:01:38,130
+Agora, sei que muitos de vocês estão querendo saber
+sobre o show de amanhã à noite.
+
+4
+00:01:38,198 --> 00:01:43,192
+Quem são estes
+jovens de Liverpool
+que se denominam "The Beatles"?
+
+5
+00:01:43,269 --> 00:01:46,796
+O que podemos esperar?
+Bem, deixe-me colocar em perspectiva para vocês.
+
+6
+00:01:46,873 --> 00:01:52,675
+Apenas alguns anos atrás
+tivemos aqui no nosso palco um jovem vocalista
+chamado Elvis Presley.
+
+7
+00:01:52,745 --> 00:01:56,977
+Ele, como alguns de vocês devem se lembrar...
+causou uma sensacional reação...
+
+8
+00:01:57,050 --> 00:01:59,712
+entre os mais jovens
+aqui na nossa platéia
+
+9
+00:01:59,786 --> 00:02:01,879
+Bem, amanhã à noite,
+aqui mesmo no nosso palco,
+
+10
+00:02:01,955 --> 00:02:06,790
+nos teremos aqui
+Elvis Presley quatro vezes!
+
+11
+00:02:06,860 --> 00:02:11,229
+I don't get paid enough for...
+Tudo bem. Simmer fora.
+
+12
+00:02:11,297 --> 00:02:13,788
+Simmer fora, simmer fora.
+
+13
+00:02:13,867 --> 00:02:18,930
+Tudo bem. Algumas semanas atrás
+eu fui até a Inglaterra, e vi
+a performance desses quatro jovens.
+
+14
+00:02:19,005 --> 00:02:23,567
+Tanto Sylvia como eu concordamos que
+o que eles fazem com a platéia
+é verdadeiramente notável
+
+15
+00:02:23,643 --> 00:02:27,670
+Então, hei quero que vocês estejam preparados para...
+
+16
+00:02:27,747 --> 00:02:30,944
+gritaria, histeria,
+
+17
+00:02:31,017 --> 00:02:33,485
+hiperventilação, desmaios,
+
+18
+00:02:33,553 --> 00:02:36,613
+roupas rasgadas, paralisias, convulsões espasmódicas,
+
+19
+00:02:36,689 --> 00:02:40,955
+até mesmo tentativas de suicídios...
+tudo perfeitamente normal.
+
+20
+00:02:41,027 --> 00:02:44,724
+Isto simplesmente significa que estes jovens
+estão adoram a si próprios
+
+21
+00:02:44,797 --> 00:02:47,789
+Agora, eu gostaria de lembrar vocês
+que amanhã à noite...
+
+22
+00:02:47,867 --> 00:02:51,064
+Estaremos transmitindo ao vivo, de costa a costa,
+
+23
+00:02:51,137 --> 00:02:54,402
+para 90 milhões de expectadores
+nos Estados Unidos e Canadá.
+
+24
+00:02:54,474 --> 00:02:59,741
+Só para lembra... agora nada mais vai interferir
+com nossa grande atração.
+
+25
+00:03:06,619 --> 00:03:10,316
+<i># Oh, yeah, I'll tell you something #</i>
+
+26
+00:03:11,324 --> 00:03:13,918
+<i>#I think you'll understand #</i>
+
+27
+00:03:13,993 --> 00:03:17,258
+<i># When I say that something #</i>
+
+28
+00:03:18,264 --> 00:03:21,722
+<i>#I want to hold your hand #</i>
+
+29
+00:03:21,801 --> 00:03:25,328
+<i>#I want to hold your hand #</i>
+
+30
+00:03:25,405 --> 00:03:28,238
+<i>#I want to hold your hand #</i>
+
+31
+00:03:28,308 --> 00:03:31,709
+<i># Oh, please, say to me #</i>
+
+32
+00:03:32,712 --> 00:03:35,476
+<i># You'll let me be your man #</i>
+
+33
+00:03:35,548 --> 00:03:38,813
+<i>#And please, say to me #</i>
+
+34
+00:03:39,819 --> 00:03:43,448
+<i># You'll let me hold your hand #</i>
+
+35
+00:03:43,523 --> 00:03:46,981
+<i>#Now let me hold your hand #</i>
+
+36
+00:03:47,060 --> 00:03:50,029
+<i>#I want to hold your hand #</i>
+
+37
+00:03:51,030 --> 00:03:56,730
+<i>#And when I touch you I feel happy inside #</i>
+
+38
+00:03:58,271 --> 00:04:02,605
+<i>#It's such a feeling that my love #</i>
+
+39
+00:04:02,675 --> 00:04:06,270
+<i>#I can't hide, I can't hide #</i>
+
+40
+00:04:06,346 --> 00:04:10,146
+<i>#I can't hide #</i>
+
+41
+00:04:10,216 --> 00:04:13,617
+<i># Yeah, you got that something #</i>
+
+42
+00:04:14,621 --> 00:04:17,317
+<i>#I think you'll understand #</i>
+
+43
+00:04:17,390 --> 00:04:21,690
+<i># When I say that something #</i>
+
+44
+00:04:22,695 --> 00:04:25,596
+<i>#I want to hold your hand #</i>
+
+45
+00:04:25,665 --> 00:04:29,260
+<i>#I want to hold your hand #</i>
+
+46
+00:04:29,602 --> 00:04:32,162
+<i># I want to hold your hand #</i>
+
+47
+00:04:33,306 --> 00:04:35,536
+#And when I touch you #
+
+48
+00:04:35,608 --> 00:04:39,669
+# I feel happy inside #
+
+49
+00:04:40,713 --> 00:04:44,376
+<i>#It's such a feeling that my love #</i>
+
+50
+00:04:44,450 --> 00:04:48,147
+<i>#I can't hide #</i>
+
+51
+00:04:48,221 --> 00:04:52,749
+<i>#I can't hide, I can't hide #</i>
+
+52
+00:04:52,825 --> 00:04:56,693
+<i># Yeah, you got that something #</i>
+
+53
+00:04:56,763 --> 00:05:00,563
+<i>#I think you'll understand #</i>
+
+54
+00:05:00,633 --> 00:05:04,194
+<i># When I feel that something #</i>
+
+55
+00:05:04,270 --> 00:05:08,104
+<i>#I want to hold your hand #</i>
+
+56
+00:05:08,174 --> 00:05:11,735
+# I want hold your hand #
+
+57
+00:05:11,811 --> 00:05:15,679
+Rosie, não sei porque você
+está me trazendo aqui, i não posso
+gastar meu dinheiro com discos dos Beatles.
+
+58
+00:05:15,748 --> 00:05:18,444
+Hei, escute. O rádio.
+Rosie, você está me escutando?
+
+59
+00:05:18,518 --> 00:05:20,509
+Venha, Pam.
+Rosie!
+
+60
+00:05:20,586 --> 00:05:24,386
+<i> Tudo bem, baby, aqui é o
+Murray o "K" com a música número um...
+Rosie, espera.</i>
+
+61
+00:05:24,457 --> 00:05:26,448
+<i>Desculpe.</i>
+
+62
+00:05:26,526 --> 00:05:30,587
+Rosie, você ouviu o que eu disse?
+I tenho que começar a economizar dinheiro
+para coisas mais importantes.
+
+63
+00:05:30,663 --> 00:05:34,064
+Eu digo, pelo amor de Deus.
+amanhã à noite eu estou indo...
+você sabe...
+
+64
+00:05:34,133 --> 00:05:37,500
+Tudo bem, eu vou dar este para você
+como presente de fuga de namorados
+Shh!
+
+65
+00:05:37,570 --> 00:05:40,198
+Você quer que o mundo inteiro saiba?
+De qualquer forma, se você quiser me dar alguma coisa,
+
+66
+00:05:40,273 --> 00:05:45,108
+Dê-me algo prático,
+que eu possa usar, algo como um "Tupperware".
+
+67
+00:05:45,178 --> 00:05:48,409
+Aah! Oh, meu Deus! Oh, meu Deus!
+
+68
+00:05:48,481 --> 00:05:50,449
+<i>É o Paul! Oh, eu vou morrer!</i>
+
+69
+00:05:50,516 --> 00:05:53,610
+<i>- Oh, meu Deus! É o Paul! É o Paul!
+- Rosie...</i>
+
+70
+00:05:53,686 --> 00:05:58,282
+<i>- Oh, Eu vou morrer aqui e agora!
+Ele é tão bonito, tão sexy!</i>
+
+71
+00:05:58,358 --> 00:06:01,816
+<i>- Ele é uma caixa de papelão
+- #I know you never #</i>
+
+72
+00:06:01,894 --> 00:06:05,261
+<i>#Even try, girl #</i>
+
+73
+00:06:05,331 --> 00:06:07,765
+<i>Yeah. Yeah, well, I know it is.</i>
+
+74
+00:06:07,834 --> 00:06:11,895
+<i>Yeah.
+Os Beatles são uma farsa!</i>
+
+75
+00:06:11,971 --> 00:06:16,465
+Tudo isso é uma conspiração...
+uma conspiração pra fazer vocês gastarem o seu dinheiro!
+Não caiam nesta!
+
+76
+00:06:16,542 --> 00:06:19,272
+<i>Herb, lemme... lemme
+ligo pra você depois, huh?
+Isto é um truque!</i>
+
+77
+00:06:19,345 --> 00:06:22,712
+Oh, você realmente não quer comprar estes discos.
+Apenas pensa no que você está fazendo.
+
+78
+00:06:22,782 --> 00:06:25,478
+<i>Arranque ela daqui!</i>
+
+79
+00:06:25,551 --> 00:06:29,453
+Rosie, você não está
+comprando mais um
+Este não é pra mim. É para a Pam.
+
+80
+00:06:29,522 --> 00:06:32,423
+<i>Apenas para dar dois ingressos
+para o show do Ed Sullivan.</i>
+
+81
+00:06:32,492 --> 00:06:37,452
+Você ouviu isso, baby?
+<i>Se você puder responder esta questão:
+Qual é o verdadeiro nome de Ringo Star?<i>
+
+82
+00:06:37,530 --> 00:06:39,930
+Você está me ouvindo?
+Você ouviu o que eu disse?
+Ohh!
+
+83
+00:06:39,999 --> 00:06:42,695
+<i>#Please please me, whoa, yeah #</i>
+
+84
+00:06:42,769 --> 00:06:45,761
+<i>#Like I please you #
+And right now...</i>
+
+85
+00:06:48,207 --> 00:06:51,370
+Janis, o que você está fazendo?
+
+86
+00:06:51,444 --> 00:06:55,107
+Você está fazendo piquete na minha loja.
+Você está mandando os fregueses embora.
+
+87
+00:06:55,181 --> 00:06:58,742
+Por que?
+Tudo que eu vejo em volta nesta loja
+são discos dos Beatles.
+
+88
+00:06:58,818 --> 00:07:03,482
+O que você me diria de Bob Dylan? Joan Baez?
+Como é que eles não têm
+o mesmo espaço de exposição?
+
+89
+00:07:03,556 --> 00:07:06,491
+Os Beatles vendem.
+"Jane" Baez não vende.
+
+90
+00:07:06,559 --> 00:07:09,289
+Eu gostaria de um pouco mais de respeito
+da minha própria irmã.
+
+91
+00:07:09,362 --> 00:07:12,263
+Você está me constrangendo.
+Eu estou constrangendo você?
+
+92
+00:07:12,331 --> 00:07:15,630
+Sinto com se estivesse conversando com um
+daqueles caras que carregam placas publicitárias.
+
+93
+00:07:15,701 --> 00:07:20,798
+<i>Ei, Janis!
+Janis, você viu a Rosie?</i>
+
+94
+00:07:22,408 --> 00:07:24,569
+<i>deixe-me ver...
+Rosie.</i>
+
+95
+00:07:24,644 --> 00:07:27,704
+Rosie, este é seu 12° sinal de ocupado!
+Você não vai conseguir!
+
+96
+00:07:27,780 --> 00:07:29,771
+Rosie!
+
+97
+00:07:31,851 --> 00:07:34,285
+Rosie, eu tenho uma coisa pra te dizer,
+
+98
+00:07:34,353 --> 00:07:36,719
+mas eu quero que você me prometa
+que você não vai gritar...
+
+99
+00:07:36,789 --> 00:07:39,349
+e que você não vai berrar
+e que você não vai desmaiar.
+
+100
+00:07:39,425 --> 00:07:42,792
+Ahh, meu Deus, Grace. O que é?
+Você promete?
+
+101
+00:07:43,796 --> 00:07:48,290
+Eu encontrei um jeito
+de entrar no hotel dos Beatles.
+
+102
+00:07:48,367 --> 00:07:50,335
+Droga, Rosie! Controle-se!
+
+103
+00:07:50,403 --> 00:07:53,201
+Mas ainda temos um obstáculo
+Nós temos que arranjar $23.
+
+104
+00:07:53,272 --> 00:07:55,240
+Vinte e três dólares?
+
+105
+00:07:55,308 --> 00:07:57,503
+Viu, a gente tem que alugar uma limo.
+Uma limusine.
+
+106
+00:07:57,577 --> 00:08:02,071
+É o único jeito da gente conseguir chegar
+na frente do hotel dos Beatles
+sem ser parados pelos policiais.
+
+107
+00:08:02,148 --> 00:08:05,811
+Quanto dinheiro você tem?
+Uhh, eu tenho três dólares
+em moedas.
+
+108
+00:08:05,885 --> 00:08:08,615
+Isso não é o suficiente, Rosie. Droga!
+
+109
+00:08:08,688 --> 00:08:11,179
+Mas é o suficiente pra alugar um táxi.
+A gente podia dirigir até lá num táxi!
+
+110
+00:08:11,257 --> 00:08:13,748
+Não, acho que não é uma boa idéia.
+Os policiais estão verificando os táxis.
+
+111
+00:08:13,826 --> 00:08:17,193
+Viu, nós precisamos de uma limusine,
+e nós precisamos pra hoje de noite.
+Quero dizer, eu tenho um prazo pra encontrar
+
+112
+00:08:17,263 --> 00:08:20,858
+Yeah.
+Hoje à noite?
+Nós não podemos ir hoje de noite.
+
+113
+00:08:20,933 --> 00:08:23,527
+Vocês não esqueceram de nada?
+
+114
+00:08:23,603 --> 00:08:27,733
+Você não está esquecendo isto?
+Oh, yeah. Isto.
+
+115
+00:08:27,807 --> 00:08:32,005
+Esta é minha última noite como uma mulher solteira.
+Nós precisamos fazer algo especial.
+
+116
+00:08:32,078 --> 00:08:36,276
+Era para nós, supostamente, passar a noite
+na casa da Rosie, 
+e tomar um bom banho ou outra coisa.
+
+117
+00:08:36,349 --> 00:08:41,048
+Hei, Pam,  o que seria melhor
+do que a gente ir
+até o hotel dos beatles juntos...
+
+118
+00:08:41,120 --> 00:08:45,614
+e ver os Beatles em pessoa?
+Yeah! OK, Pam.
+Quanto dinheiro você tem?
+
+119
+00:08:45,691 --> 00:08:49,559
+Era para eu ser uma mulher casada.
+Eu não posso ir nesta caçada atrás dos Beatles,
+e...
+
+120
+00:08:49,629 --> 00:08:53,360
+e isso não é justo com o Eddie.
+Pam, eu quero que vocês
+saiba de um coisa.
+
+121
+00:08:53,432 --> 00:08:56,026
+Parece que você não entende
+como isso é importante pra mim.
+
+122
+00:08:56,102 --> 00:09:00,766
+Quero dizer, quero dizer, eu tenho
+que encontrar com os Beatles.
+Minha carreira inteira depende disso.
+
+123
+00:09:00,840 --> 00:09:06,142
+<i>Se eu conseguir fotos exclusivas dos Beatles,
+Quero dizer, eles publicariam a minha história
+na primeira página do "The Suburban"!</i>
+
+124
+00:09:06,212 --> 00:09:11,206
+<i>Quero dizer, eu também poderia vendê-las
+para a revista "Life" ou outras.
+Você pode imaginar isso?</i>
+
+125
+00:09:11,284 --> 00:09:14,742
+Jesus Cristo.
+Nós vamos sufocar aqui.
+
+126
+00:09:14,820 --> 00:09:17,254
+<i>Ei, Janis.</i>
+
+127
+00:09:17,323 --> 00:09:21,089
+Hei, Janis, você tem algum dinheiro?
+Pra que você quer o dinheiro?
+
+128
+00:09:21,160 --> 00:09:24,618
+Não se preocupe.
+É por uma boa causa.
+Grace, Tem o Larry Dubois.
+
+129
+00:09:27,967 --> 00:09:30,458
+Então o que?
+Então você não sabe
+que é Larry Dubois?
+
+130
+00:09:30,536 --> 00:09:33,164
+Sim, eu sei. Ele é o cara que
+que introduziu a biologia.
+
+131
+00:09:33,239 --> 00:09:37,141
+O pai dele tem um monte de limusines.
+Ele é um empreiteiro.
+
+132
+00:09:47,386 --> 00:09:52,085
+Oi, Larry. Eu não sabia
+que você tocava algum instrumento musical
+Yeah.
+
+133
+00:09:52,158 --> 00:09:54,626
+Você é tão musical.
+
+134
+00:09:54,694 --> 00:09:56,924
+Isso é ridículo.
+Ele nunca vai fazer isso.
+
+135
+00:09:58,130 --> 00:10:02,590
+Huh, Larry, você está ocupado hoje de noite?
+Eu não sei.
+
+136
+00:10:05,605 --> 00:10:07,368
+Ele vai fazer.
+
+137
+00:10:10,676 --> 00:10:13,440
+<i># Oh, oh #</i>
+
+138
+00:10:13,512 --> 00:10:15,878
+Ohh!
+Eu apenas corri pro contêiner.
+
+139
+00:10:15,948 --> 00:10:18,781
+O que você está fazendo 
+com todo esse lixo?
+É onde isso estava
+
+140
+00:10:18,851 --> 00:10:23,550
+Uh-huh.
+Ooh, sh... Oh, tudo bem. Este é um dos
+modelos descontínuos que meu pai jogou fora.
+
+141
+00:10:23,623 --> 00:10:26,558
+Você sabe, ninguém estava lá,
+então o lixeiro vai vir
+e pegar a gente.
+
+142
+00:10:29,762 --> 00:10:33,027
+Jesus, Larry, você não pegou
+o motorista do Ed,
+pelo amor de Deus?
+
+143
+00:10:33,099 --> 00:10:35,863
+Eu te disse que eu não tenho
+carteira de motorista.
+Tudo que eu tenho é uma autorização.
+
+144
+00:10:35,935 --> 00:10:38,062
+Veja, Grace, é melhor
+darmos meia volta agora.
+
+145
+00:10:38,137 --> 00:10:42,130
+É contra lei dirigir sem carteira
+de habilitação ao menos que tenha no carro
+alguém que tenha a licença.
+
+146
+00:10:42,208 --> 00:10:46,645
+Eu tenho a licença, Pamela.
+Você tem? Mas, Grace, Eu pensei
+que seu aniversário não fosse antes de...
+
+147
+00:10:46,712 --> 00:10:48,873
+Você sabe, eu não tenho
+nenhuma apólice de seguro ainda.
+Relaxa, Larry.
+
+148
+00:10:48,948 --> 00:10:53,976
+Veja, eu tenho absoluta confiança
+nas minhas habilidades em lidar com máquinas.
+Qualquer tipo de máquina.
+
+149
+00:10:54,053 --> 00:10:57,921
+Quero dizer, eu tenho visto você
+lidando com aqueles projetores na sala escura.
+
+150
+00:10:57,990 --> 00:11:02,017
+Você é simplesmente o melhor.
+Yeah, eu sou muito bom
+naqueles "Bell & Howells".
+
+151
+00:11:02,094 --> 00:11:05,655
+<i>Yeah.</i>
+
+152
+00:11:05,731 --> 00:11:08,359
+Rosie, nós vamos ouvir os Beatles
+por toda a cidade?
+
+153
+00:11:08,434 --> 00:11:13,531
+Você sabe, Janis.
+Toda vez que alguma coisa popular faz muito sucesso,
+você automaticamente pensa que eles não são tão bons assim.
+
+154
+00:11:13,606 --> 00:11:17,201
+Eu não sei porque nós deixamos
+ela vir, em primeiro lugar.
+Ela está ajudando a pagar o combustível, Rosie.
+
+155
+00:11:17,276 --> 00:11:20,609
+Além disso, alguém deveria estar
+aqui para dizer a verdade.
+
+156
+00:11:20,680 --> 00:11:24,172
+Diga, Rosie, o que você acha
+da minha nova marca?
+
+157
+00:11:24,250 --> 00:11:28,084
+Eu acho que isso é repugnante.
+Quem você espera que vai olhar
+de qualquer jeito?
+
+158
+00:11:28,154 --> 00:11:31,715
+- A imprensa, Rosie, a imprensa.
+- Hei, Larry, Você gosta dos Beatles, não?
+
+159
+00:11:31,791 --> 00:11:34,589
+- Yeah, Sim eles são bons. Eles tem uma boa batida.
+- Oh, Eles são os melhores!
+
+160
+00:11:34,660 --> 00:11:36,924
+- Digo, alucinantes. Aqui, pegue um pouco de "Jelly baby".
+- Um o que?
+
+161
+00:11:36,996 --> 00:11:41,262
+Uma "Jelly Baby". Você sabe, feijões "Jelly".
+Eles chamam de "Jelly babies" na Inglaterra.
+É a comida favorita dos Beatles.
+
+162
+00:11:41,333 --> 00:11:44,860
+Você sabe qual é a bebida favorita deles?
+Coca-cola, com um pouco de Scotch.
+
+163
+00:11:44,937 --> 00:11:49,101
+O que eu estou fazendo aqui?
+O Eddie vai me matar. Ele vai me matar.
+
+164
+00:11:49,175 --> 00:11:52,406
+Eddie odeia os Beatles.
+Ele vai pensar que eu sou imaturo.
+Eu sei disso.
+
+165
+00:11:52,478 --> 00:11:54,946
+Nós vamos ter que ouvir sobre o Eddie
+por todo o caminho na cidade?
+
+166
+00:11:55,014 --> 00:11:57,209
+Pam, posso ver seu anel, por favor?
+Só por um instante?
+
+167
+00:11:57,283 --> 00:12:00,582
+Bem, sem problema,
+mas tenha cuidado com ele.
+
+168
+00:12:00,653 --> 00:12:06,148
+Por que você o deixa nos seus peitos, Pam?
+Você vai perdê-lo de qualquer jeito.
+Você quer que minha mãe veja isso?
+
+169
+00:12:06,225 --> 00:12:08,216
+Pam, você é tão sortuda.
+Yeah, eu acho.
+
+170
+00:12:08,294 --> 00:12:13,425
+Não, falo sério.
+Eu provavelmente vou ganhar um desses.
+Oh, não seja boba, Rosie. Não é grande coisa.
+
+171
+00:12:13,499 --> 00:12:18,664
+Sim. Bem, há apenas um cara com quem
+eu gostaria de me casar de qualquer forma... Paul.
+
+172
+00:12:18,738 --> 00:12:22,071
+- Paul? Quem é Paul?
+- Não importa. Você não o conhece.
+
+173
+00:12:22,141 --> 00:12:25,133
+Larry, eu acho que estamos sendo seguidos.
+Oh, Deus! A polícia!
+
+174
+00:12:25,211 --> 00:12:28,339
+- Relaxa!
+- É o Tony Smerko!
+
+175
+00:12:32,284 --> 00:12:35,776
+#Yeah, yeah, yeah
+I wanna hold your glands #
+
+176
+00:12:39,391 --> 00:12:41,621
+Hei, Janis, o que você acha
+do meu penteado?
+
+177
+00:12:41,694 --> 00:12:44,162
+Oh, É realmente fabuloso!
+Faz você parecer com o Paul!
+
+178
+00:12:44,230 --> 00:12:46,494
+Oh, você gostou? Pode apostar!
+
+179
+00:12:46,565 --> 00:12:49,033
+Hei, onde vocês estão indo?
+Oh, nós vamos ver os Beatles!
+
+180
+00:12:49,101 --> 00:12:53,265
+Os Beatles? Os Beatles são um monte de lixo. 
+Hei, Janis, por que você não vem com a gente?
+
+181
+00:12:53,339 --> 00:12:57,298
+Nós temos uma caixa inteira de cerveja 
+"Miller's High Life"
+aqui, a champagne de todas as cervejas!
+
+182
+00:12:57,376 --> 00:13:01,176
+O que você disse, deslumbrante?
+Aqui, abra uma.
+
+183
+00:13:02,448 --> 00:13:04,541
+Ahh, venha.
+
+184
+00:13:04,617 --> 00:13:06,608
+Janis! Hei!
+
+185
+00:13:06,685 --> 00:13:10,678
+Hei, puxe! Um pouco mais perto.
+
+186
+00:13:11,690 --> 00:13:15,387
+Puxe mais perto... mais perto!
+Hei, Dubois, O que você está fazendo?
+
+187
+00:13:17,463 --> 00:13:20,864
+Puxe mais perto. Puxe mais perto, aqui!
+Você está louco?
+
+188
+00:13:20,933 --> 00:13:23,766
+Hei, você não se importaria se...
+se eu fosse com você, agora, se importaria?
+
+189
+00:13:23,836 --> 00:13:25,963
+Oh, Eu não sei, Tony.
+Eu não tenho seguro ou nada.
+
+190
+00:13:26,038 --> 00:13:28,006
+Ahh, tudo bem. Nem eu!
+
+191
+00:13:28,073 --> 00:13:30,735
+<i>#I've been told when a boy kiss a girl #</i>
+
+192
+00:13:30,810 --> 00:13:33,973
+O que você está fazendo?
+<i># Take a trip around the world #</i>
+
+193
+00:13:34,046 --> 00:13:37,345
+<i>#Hey, Hey #
+#Bop shoo wop, bop bop shoo wop #</i>
+
+194
+00:13:37,416 --> 00:13:40,214
+<i>#Hey, Hey #
+#Bop shoo wop, bop bop shoo wop #</i>
+
+195
+00:13:40,286 --> 00:13:42,914
+<i>#Hey, Hey #
+#Bop shoo wop #</i>
+
+196
+00:13:42,988 --> 00:13:44,979
+<i>#Bop bop shoo wop #
+#She say you do #</i>
+
+197
+00:13:45,057 --> 00:13:47,048
+<i>#Bop shoo wop #</i>
+
+198
+00:13:48,394 --> 00:13:51,090
+<i>#My girl says when I kiss her lips #</i>
+
+199
+00:13:51,163 --> 00:13:53,563
+Droga, Smerko, o que está 
+tentando fazer? Nos matar?
+
+200
+00:13:53,632 --> 00:13:55,759
+Hei, acendam!
+Nenhuma injustiça vai ser feita aqui.
+
+201
+00:13:55,835 --> 00:13:58,565
+Todo mundo vai ter um pouco, Huh!
+
+202
+00:13:58,637 --> 00:14:02,164
+Hmm.
+Ohh! Oh-ho!
+
+203
+00:14:02,241 --> 00:14:06,007
+Quero um barato desse material?
+
+204
+00:14:06,078 --> 00:14:08,911
+Diga, o que é isso?
+Deixe me ver.
+O que você tem?
+
+205
+00:14:08,981 --> 00:14:13,941
+"Beatles"... o que isso diz?
+"Beatles abalo artístico"...
+
+206
+00:14:14,019 --> 00:14:17,682
+Integridade!
+Eu nunca imaginei você
+fosse um fã dos Beatles.
+
+207
+00:14:17,756 --> 00:14:21,123
+Eu detesto os Beatles.
+Eu não. Eu os odeio, uhh!
+
+208
+00:14:21,193 --> 00:14:23,593
+Eu nem consigo ouvir a música deles.
+
+209
+00:14:26,265 --> 00:14:28,927
+- Hei, Dubois, levanta.
+- O que?
+
+210
+00:14:29,001 --> 00:14:32,334
+Eu acho que você sentou no meu pente.
+Pegue-o, Tony?
+
+211
+00:14:34,874 --> 00:14:36,865
+Sim, obrigado.
+Calma.
+
+212
+00:14:39,979 --> 00:14:43,972
+Ooh, hoo-hoo!
+Diga, você tem alguma coleção aqui.
+
+213
+00:14:44,049 --> 00:14:49,954
+Ann-Margret, Nós temos Patty Duke,
+Tuesday Weld, Jackie... Jackie Kennedy?
+
+214
+00:14:50,022 --> 00:14:53,651
+Jesus, Dubois, você tem tesão pela Jackie Kennedy?
+Por que você pegou a minha carteira, Tony.
+
+215
+00:14:53,726 --> 00:14:56,126
+As mão mais rápidas do oeste.
+
+216
+00:14:57,329 --> 00:15:00,423
+Yeah, bem, me devolva...
+
+217
+00:15:04,036 --> 00:15:08,735
+Escutem. Agora, escutem, nada mais 
+de gritaria aqui, Smerko! Nós temos assuntos sérios
+para cuidar aqui em New York!
+
+218
+00:15:08,807 --> 00:15:12,299
+Hei, bem, Eu sou um cara sério.
+Certo. Bem, apenas mantenha as mãos
+longe do Dubois.
+
+219
+00:15:12,378 --> 00:15:15,575
+Hei, eu e Dubois são velhos amigos.
+Não somos, Dubois?
+Yeah.
+
+220
+00:15:15,648 --> 00:15:18,879
+Hei, Dubois, o que aconteceu na cafeteria
+na sexta-feira?
+
+221
+00:15:18,951 --> 00:15:21,044
+Vejam, eu acho que eu devo ter
+escorregado ou alguma coisa do gênero.
+Yeah.
+
+222
+00:15:21,120 --> 00:15:25,352
+Você recebeu todos os aplausos sobre
+a sua cabeça, ok?
+Sem problemas, Tony.
+
+223
+00:15:25,424 --> 00:15:28,450
+Hei, estou cansado de todas essas chacotas!
+Ahhhh, Smerko!
+
+224
+00:15:28,527 --> 00:15:32,156
+Hei, ligue isso de novo
+Estes eram Peter, Paul and Mary!
+
+225
+00:15:32,231 --> 00:15:34,665
+Você e sua estúpida música de protesto.
+Esse material é muito chato.
+
+226
+00:15:34,733 --> 00:15:38,931
+Alguma vez você já prestou atenção nas palavras?
+Você deveria tentar ouvir as palavras qualquer hora.
+
+227
+00:15:39,004 --> 00:15:43,964
+Você já ouviu a letra para "Louie, Louie"?
+Oh, Smerko, deixe-me em paz!
+
+228
+00:15:44,043 --> 00:15:47,274
+<i>Ei, quem continua de pé à uma hora dessas?
+Eu vou descobrir dando dois ingressos 
+para o show de Ed Sullivan...</i>
+
+229
+00:15:47,346 --> 00:15:52,113
+</i>para o primeiro ouvinte que ligar e me
+disser: qual dos Beatles é canhoto?</i>
+
+230
+00:15:52,184 --> 00:15:55,483
+<i>Valendo...</i>
+Oh, meu Deus! Eu sei!
+É o Paul! É o Paul!
+
+231
+00:15:55,554 --> 00:15:58,182
+Essa eu sei! Lá, tem uma cabine telefônica!
+
+232
+00:15:58,257 --> 00:16:01,226
+Pare o carro! Pare o carro!
+Oh, por favor pare o caro! Pare o carro!
+Deixa disso!
+
+233
+00:16:01,293 --> 00:16:05,195
+Você para o carro, ou eu vou pular!
+Continue dirigindo, Larry!
+
+234
+00:16:07,566 --> 00:16:10,729
+Jesus Cristo, Dubois!
+
+235
+00:16:23,615 --> 00:16:26,106
+Que diabos você está tentando fazer,
+Rosie, tentando se matar?
+
+236
+00:16:26,185 --> 00:16:31,350
+Não, mas eu sei a resposta!
+É o Paul!
+
+237
+00:16:31,423 --> 00:16:35,826
+Jesus Cristo!
+Eu não me importo! Não seria pior se eu me matasse
+por eu não ter ganho!
+
+238
+00:16:35,894 --> 00:16:37,828
+Agora, ouça... me ouça muito bem!
+Deus, eu poderia...
+
+239
+00:16:37,896 --> 00:16:42,196
+Esta é a minha única chance de
+conseguir fotos exclusivas dos Beatles,
+e eu não quero ninguém fazendo gritaria!
+
+240
+00:16:42,267 --> 00:16:44,827
+Então todo mundo, por favor, parem!
+
+241
+00:16:44,903 --> 00:16:48,361
+<i># Well, I talk about boys #
+# Yeah, yeah, boys #</i>
+
+242
+00:16:48,440 --> 00:16:51,671
+<i>#Don't you know I mean boys #
+# Yeah, yeah, boys #</i>
+
+243
+00:16:51,744 --> 00:16:55,077
+<i># Well, I talk about boys now #
+# Yeah, yeah, boys #</i>
+
+244
+00:16:55,147 --> 00:16:58,810
+<i>#Ahh-hh-hh #
+# Yeah, yeah, boys #</i>
+
+245
+00:16:58,884 --> 00:17:02,149
+<i># Well, I talk about boys now #
+# Yeah, yeah, boys #</i>
+
+246
+00:17:02,221 --> 00:17:04,587
+<i># What a bundle of joy ##</i>
+
+247
+00:17:11,096 --> 00:17:15,123
+<i>- Ah bey! Ah bey!
+- Uuh! Uuh!</i>
+
+248
+00:17:15,200 --> 00:17:20,536
+<i> Acorde, New York. Aqui é Myurray o "K",
+com 42 xícara de café no "1010 WINS"...</i>
+
+249
+00:17:20,606 --> 00:17:24,372
+<i>toda noite e todo dia,
+pois não deixamos que você
+perca nenhum segundo...</i>
+
+250
+00:17:24,443 --> 00:17:26,502
+<i>deste fabuloso fim-de-semana dos Beatles.</i>
+
+251
+00:17:26,578 --> 00:17:31,345
+<i>E nós vamos por todo o percurso,
+porque nós estamos na estação móvel, baby,
+diretamente da frente do hotel dos Beatles.</i>
+
+252
+00:17:31,417 --> 00:17:37,287
+<i>E meninas, eu tenho um especial pra vocês, uma 
+mensagem pessoal de John Lennon.
+John  me pediu para dizer a vocês para...</i>
+
+253
+00:17:37,356 --> 00:17:41,190
+<i># Well, shake it up, baby, now #
+#Shake it up, baby #</i>
+
+254
+00:17:41,260 --> 00:17:44,661
+<i># Twist and shout #
+# Twist and shout #</i>
+
+255
+00:17:44,730 --> 00:17:48,166
+<i># Come on, come on
+come on, come on, baby, now #
+# Come on, baby #</i>
+
+256
+00:17:48,233 --> 00:17:52,431
+Dubois, acorde!
+O que você está fazendo, 
+caindo no sono em cima de mim, aqui?
+
+257
+00:17:58,477 --> 00:18:04,416
+Ahh! Todo mundo, acordem!
+Acordem, todo mundo. Hei!
+
+258
+00:18:04,483 --> 00:18:07,418
+Eu acho Dubois aqui, 
+merece um monte de aplausos.
+
+259
+00:18:07,486 --> 00:18:11,445
+Como vocês podem ver, ele consegui
+nos trazer a New York, são e salvos.
+
+260
+00:18:11,523 --> 00:18:14,151
+e em tempo recorde, também.
+
+261
+00:18:14,226 --> 00:18:18,128
+Bem, isso apenas tomou dele sete horas.
+
+262
+00:18:18,197 --> 00:18:20,358
+Normalmente isso apenas me toma
+20 minutos, mas porque,
+
+263
+00:18:20,432 --> 00:18:24,630
+eu geralmente não pego e o caminho
+que passa por toda a Filadélfia!</i>
+
+264
+00:18:24,703 --> 00:18:28,161
+Eu pensei que as placas diziam "norte".
+Hei, apenas mantenha os olhos na estrada.
+O hotel é logo ali dobrando a esquina.
+
+265
+00:18:28,240 --> 00:18:31,004
+Onde? Onde? Onde está?
+Logo ali.
+
+266
+00:18:36,215 --> 00:18:38,979
+<i># Well, shake it up, baby, now #
+#Shake it up, baby #</i>
+
+267
+00:18:39,051 --> 00:18:42,646
+<i># Twist and shout #
+# Twist and shout #</i>
+
+268
+00:18:42,721 --> 00:18:45,918
+<i># Come on, come on
+come on, come on, baby, now #
+# Come on, baby #</i>
+
+269
+00:18:45,991 --> 00:18:50,394
+<i># Come on and work it on out #
+# Work it on out #</i>
+
+270
+00:18:50,462 --> 00:18:54,125
+<i># You know you twist it, little girl #
+# Twist it, little girl #</i>
+
+271
+00:18:54,199 --> 00:18:57,464
+<i># You know you twist so fine #
+# Twist so fine #</i>
+
+272
+00:18:57,536 --> 00:19:01,302
+<i># Come on and twist a little closer now #
+# Twist a little closer #</i>
+
+273
+00:19:01,373 --> 00:19:05,207
+<i>#And let me know that you're mine #
+#Let me know you're mine #</i>
+
+274
+00:19:05,277 --> 00:19:09,043
+<i># Well, shake it, shake it
+shake it, baby, now #
+#Shake it up, baby #</i>
+
+275
+00:19:09,114 --> 00:19:13,073
+<i># Well, shake it, shake it
+shake it, baby, now #
+#Shake it up, baby #</i>
+
+276
+00:19:13,152 --> 00:19:16,553
+<i># Well, shake it, shake it
+shake it, baby, now ##
+#Shake it up, baby ##</i>
+
+277
+00:19:16,622 --> 00:19:20,023
+Continue dirigindo, Larry. Dobrando a esquina.
+Estacione na frente do hotel
+como se você soubesse o que você está fazendo.
+
+278
+00:19:20,092 --> 00:19:22,083
+Okay? Aqui, ponha isto.
+
+279
+00:19:22,161 --> 00:19:25,358
+<i>- Nós queremos os Beatles!</i>
+Pam, você vem com a gente?
+
+280
+00:19:25,430 --> 00:19:30,231
+- Yeah, Eu apenas espero que o Eddie
+não descubra nada sobre isso.
+- Certo. Okay, então Rosie e Pam ficam aqui comigo.
+
+281
+00:19:30,302 --> 00:19:33,863
+E o resto de vocês pessoal, nós nos encontramos
+mais tarde na frente do hotel, okay?
+Agora, todo mundo, cai fora.
+
+282
+00:19:33,939 --> 00:19:37,033
+Eu não quero este carro
+ele parece com um ônibus escolar.
+
+283
+00:19:37,109 --> 00:19:40,408
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+284
+00:19:40,479 --> 00:19:43,710
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+285
+00:19:43,782 --> 00:19:47,218
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+286
+00:19:47,286 --> 00:19:50,551
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+287
+00:19:50,622 --> 00:19:54,023
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+288
+00:19:54,092 --> 00:19:58,620
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+289
+00:19:58,697 --> 00:20:02,098
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+Afaste-se! Afaste-se!
+
+290
+00:20:02,167 --> 00:20:05,967
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+291
+00:20:06,038 --> 00:20:09,337
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+292
+00:20:09,408 --> 00:20:12,775
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+293
+00:20:12,844 --> 00:20:15,745
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+Cheque melhor!
+
+294
+00:20:15,814 --> 00:20:18,510
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+Pegue aquele caro! Cheque aquele carro!
+
+295
+00:20:19,518 --> 00:20:22,351
+Yeah, deixe ele passar.
+
+296
+00:20:24,022 --> 00:20:26,490
+Venha, garoto. Mexa-se, mexa-se!
+
+297
+00:20:26,558 --> 00:20:29,755
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+298
+00:20:29,828 --> 00:20:35,164
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+299
+00:20:35,234 --> 00:20:40,570
+Isso não vai funcionar, Grace.
+Isso não vai funcionar.
+Shh! Just tell me when we get to the front door.
+
+300
+00:20:40,639 --> 00:20:43,369
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+301
+00:20:43,442 --> 00:20:46,900
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+302
+00:20:46,979 --> 00:20:50,278
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+303
+00:20:50,349 --> 00:20:53,216
+</i>Nós queremos os Beatles!</i>
+Okay.
+
+304
+00:20:55,420 --> 00:20:59,379
+Venham. Venham.
+
+305
+00:21:01,827 --> 00:21:05,991
+Por que não ainda não estamos lá?
+Yeah, Larry,
+Por que não ainda não estamos lá?
+
+306
+00:21:06,064 --> 00:21:08,259
+Tem uma porção de gente velha
+num táxi lá na frente.
+
+307
+00:21:08,333 --> 00:21:11,325
+Bem, e daí?
+Por que você apenas não toca a buzina?
+
+308
+00:21:11,403 --> 00:21:15,635
+Vocês está louca? Tem milhares
+de garotas gritando lá fora.
+
+309
+00:21:15,707 --> 00:21:19,973
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+310
+00:21:20,045 --> 00:21:22,013
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+311
+00:21:22,080 --> 00:21:26,881
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+Venham, venham.
+
+312
+00:21:26,952 --> 00:21:30,547
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+313
+00:21:30,622 --> 00:21:32,920
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+Venham.
+
+314
+00:21:32,991 --> 00:21:35,551
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+315
+00:21:35,627 --> 00:21:39,825
+<i>Eles estão se movendo.
+Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+316
+00:21:39,898 --> 00:21:43,061
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+317
+00:21:43,135 --> 00:21:46,662
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+318
+00:21:46,738 --> 00:21:50,299
+</i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+#Yeah, yeah, yeah #</i>
+
+319
+00:21:50,375 --> 00:21:53,867
+- # I wanna hold your glands ##
+- É ele!
+
+320
+00:22:35,954 --> 00:22:38,286
+Uuh!
+
+321
+00:23:06,318 --> 00:23:09,378
+Mortos! Você sabe que você quase nos matou?
+
+322
+00:23:09,454 --> 00:23:12,423
+Hei, Dubois! Deixe a animação acontecer!
+Não te graça!
+
+323
+00:23:12,491 --> 00:23:16,723
+Bem, acho que podemos fazer
+nossa própria animação.
+
+324
+00:23:16,795 --> 00:23:22,062
+Hei, espere um minuto!
+Onde vocês está indo?
+Eu vim aqui com um propósito, Smerko!
+
+325
+00:23:24,903 --> 00:23:28,600
+Hei, onde você está indo, Tony?
+Eu vim aqui com um propósito, Dubois.
+
+326
+00:23:34,045 --> 00:23:36,036
+Venha. Vamos lá.
+
+327
+00:23:36,114 --> 00:23:39,345
+Oh, meu Deus, Grace, minha bolsa!
+Eu a deixei no carro.
+
+328
+00:23:39,418 --> 00:23:42,979
+Esqueça sua bolsa, Pam. Você quer ser apanhada?
+Hei, vocês crianças!
+
+329
+00:23:43,054 --> 00:23:45,682
+Segure isso bem ai.
+Vamos. Vamos.
+
+330
+00:23:45,757 --> 00:23:47,748
+Hei, pare ai!
+V amos!
+
+331
+00:23:47,826 --> 00:23:51,819
+Onde você pensa que está indo?
+Volte aqui, eu já disse!
+Oh, Deus!
+
+332
+00:23:51,897 --> 00:23:55,298
+- Pare! Hei!
+- Oh!
+
+333
+00:23:55,367 --> 00:23:57,961
+Volte!
+Pam!
+
+334
+00:23:58,036 --> 00:24:00,027
+Vamos, vamos!
+
+335
+00:24:00,105 --> 00:24:02,665
+Aah!
+
+336
+00:24:02,741 --> 00:24:05,539
+Hey, vocês crianças... Aah!
+
+337
+00:24:05,610 --> 00:24:07,635
+Hey!
+Hey!
+
+338
+00:24:08,747 --> 00:24:11,648
+Ah bey!
+Uuh!
+
+339
+00:24:11,716 --> 00:24:14,514
+- Ah bey!
+- Uuh!
+
+340
+00:24:14,586 --> 00:24:16,520
+Oo-wa-zowa-zowa!
+
+341
+00:24:16,588 --> 00:24:20,490
+<i>Murray o "K" Swinging Soiree!</i>
+
+342
+00:24:20,559 --> 00:24:23,528
+Vamos entrar!
+Tudo bem, escutem.
+
+343
+00:24:23,595 --> 00:24:27,053
+Eu estou saindo daqui só pra que
+você saiba de uma coisa.
+
+344
+00:24:27,132 --> 00:24:31,432
+Nós não queremos que você saia.
+Nós queremos que você fique aqui.
+Nós gostamos da vibração que você transborda.
+
+345
+00:24:31,503 --> 00:24:33,494
+Mas você esteve gritando tão alto.
+Vejam!
+
+346
+00:24:33,572 --> 00:24:37,030
+Você quebrou uma porção de janelas.
+
+347
+00:24:55,026 --> 00:24:58,826
+Oh, ele está vindo!
+Aqui!
+
+348
+00:25:21,186 --> 00:25:23,177
+O elevador está aqui.
+
+349
+00:25:23,255 --> 00:25:25,280
+O elevador está aqui.
+O...
+
+350
+00:25:47,546 --> 00:25:49,605
+Ele se foi!
+Ele se foi. Vamos embora!
+
+351
+00:25:52,951 --> 00:25:56,387
+- Vamos!
+- Meu anel! Eu perdi o meu anel!
+
+352
+00:25:56,454 --> 00:25:58,445
+Vamos!
+Por quanto tempo ela consegue segurar a porta?
+
+353
+00:25:58,523 --> 00:26:01,048
+Bem, então vão sem mim!
+Eu preciso encontrá-lo!
+
+354
+00:26:02,060 --> 00:26:04,494
+Eu achei!
+
+355
+00:26:04,563 --> 00:26:06,554
+Oh!
+
+356
+00:26:12,203 --> 00:26:15,570
+Poderia apertar para o 11° andar?
+Eles estão no 12°, quarto 1232.
+
+357
+00:26:15,640 --> 00:26:19,337
+Eu sei que eles estão no 1232, Rosie,
+mas nós temos que subir até o 11° andar
+e depois subir o resto pelas escadas.
+
+358
+00:26:19,411 --> 00:26:21,902
+Isso é burrice. Se eles estão no 12°
+nós deveríamos descer no 12°.
+
+359
+00:26:21,980 --> 00:26:26,212
+Não seja estúpida, Rosie.
+Deve haver guardas lá em cima no 12°,
+e eles provavelmente devem estar cuidando os elevadores.
+
+360
+00:26:26,284 --> 00:26:30,311
+Mas este é um elevador de serviço.
+Além do mais, como você sabe que lá 
+no 11° não haverão guardas?
+
+361
+00:26:30,388 --> 00:26:33,186
+E se eu for apanhada, eu vou chegar o mais 
+perto possível dos Beatles que eu puder.
+
+362
+00:26:33,258 --> 00:26:36,785
+Você quer ir até o 12°, vá até o 12°, Rosie.
+Eu não vou discutir com você.
+
+363
+00:26:36,861 --> 00:26:40,092
+Você nunca vai conseguir.
+Nós veremos.
+
+364
+00:26:53,244 --> 00:26:55,872
+Hei, você! Venha! vamos! Venha!
+Espere! Vamos logo!
+
+365
+00:26:55,947 --> 00:27:00,008
+Vamos!
+Você tem que me escutar!
+Eu posso explicar! Vamos! Me escute!
+
+366
+00:27:00,085 --> 00:27:02,952
+Hei, sargento, eu acabo de encontrar
+outra garota perdida.
+
+367
+00:27:05,023 --> 00:27:07,583
+Okay, Lou.
+Leve ela para baixo no outro elevador.
+
+368
+00:27:07,659 --> 00:27:11,459
+Oh, eu posso explicar.
+Realmente, eu posso exp...
+Não me diga. Deixe eu adivinhar.
+
+369
+00:27:11,529 --> 00:27:15,727
+Sua avó do Alasca está hospedada no hotel,
+e você se perdeu tentando encontrá-la. Vamos lá.
+
+370
+00:27:15,800 --> 00:27:18,132
+Ajuda! Me ajuda!
+
+371
+00:27:21,973 --> 00:27:24,908
+Quando o Paul descobrir sobre isso,
+você vai ter um monte de problemas!
+
+372
+00:27:32,283 --> 00:27:34,581
+- Entre, Harry.
+- Entendido, sargento.
+
+373
+00:27:34,653 --> 00:27:37,315
+Qual é a situação aí embaixo?
+Tudo calmo por aqui.
+
+374
+00:27:37,389 --> 00:27:42,053
+Okay. Nós estaremos chegando aí embaixo
+em alguns minutos. Eu checo com você mais tarde.
+Certo. Câmbio.
+
+375
+00:27:46,464 --> 00:27:49,160
+Hei, Irving.
+Você já checou aquela saída?
+
+376
+00:28:01,613 --> 00:28:05,344
+Nós temos outro aqui, Stanley.
+Leve ela até o loby e entregue
+para o sargento Bailey.
+
+377
+00:28:05,417 --> 00:28:07,351
+Okay, Lou.
+
+378
+00:28:10,355 --> 00:28:13,791
+Nunca na minha vida vi semelhante 
+repugnância em demonstração de vulgaridade...
+
+379
+00:28:13,858 --> 00:28:15,917
+como testemunhei neste hotel.
+
+380
+00:28:15,994 --> 00:28:20,328
+Jovens garotas gritando
+e correndo parecendo... helter-skelter.
+
+381
+00:28:20,398 --> 00:28:22,798
+Você deveria ter vergonha de si mesmo.
+
+382
+00:28:22,867 --> 00:28:28,601
+Vejam só este hotel, não fui informada
+que a clientela incluía tal ralé.
+Pedimos desculpas pelo inconveniente, madame.
+
+383
+00:28:28,673 --> 00:28:32,700
+Bem, você pode ficar sossegado, 
+eu lhe asseguro que no futuro eu cuidarei 
+dos meus negócios em outro lugar.
+
+384
+00:28:32,777 --> 00:28:34,768
+Seu andar, madame!
+
+385
+00:28:36,781 --> 00:28:39,875
+Você deixou cair alguma coisa, madame.
+
+386
+00:29:34,239 --> 00:29:36,833
+<i>Nós queremos os Beatles!
+Okay. Puxe mais pra cá.</i>
+
+387
+00:29:36,908 --> 00:29:39,274
+Certo. Segure! Segure exatamente aí.
+Muito bom.
+
+388
+00:29:39,344 --> 00:29:41,335
+Eu vou apenas chegar à porta.
+I'll just get the door.
+Sim, claro.
+
+389
+00:29:41,412 --> 00:29:43,903
+<i>Nós queremos os Beatles!
+Nós queremos os Beatles!
+Isto é terrível.</i>
+
+390
+00:29:43,982 --> 00:29:48,316
+<i>Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+Okay, Sarge. Você pode trazê-los para fora.
+
+391
+00:29:48,386 --> 00:29:53,221
+Seu falador.
+Sullivan. Você sabe. Este é um nome judeu.
+
+392
+00:29:53,291 --> 00:29:56,317
+Nós temos queixa do gerente do hotel sobre isso.
+Você é tão ruim como o resto deles.
+
+393
+00:29:56,394 --> 00:30:00,694
+Quem é que ordenou toda essa porcaria?
+Nada melhor que uma posterior passagem cênica,
+eu sempre digo.
+
+394
+00:30:00,765 --> 00:30:02,699
+Entre no carro ou eu vou te aleijar.
+
+395
+00:30:02,767 --> 00:30:05,861
+Parem de me empurrar então.
+Hey, O cara acabou de lamber a minha mão!
+
+396
+00:30:05,937 --> 00:30:08,405
+Oh!
+
+397
+00:30:08,473 --> 00:30:11,772
+Oh! Oh!
+
+398
+00:30:14,112 --> 00:30:16,103
+Mmm.
+
+399
+00:30:17,882 --> 00:30:22,876
+Hey! Você não sabe que quebrar e
+colocar é uma ofensa muito séria?
+
+400
+00:30:22,954 --> 00:30:27,755
+Você está cometendo um erro.
+este é meu quarto. Eu apenas perdi minha chave.
+
+401
+00:30:27,826 --> 00:30:32,320
+Oh, 1232. Eu estou no andar errado.
+Eu estou procurando pelo 1332.
+
+402
+00:30:32,397 --> 00:30:34,388
+Meu erro, oficial.
+
+403
+00:30:36,201 --> 00:30:38,499
+Você está me achando com cara de que,
+algum tipo de idiota completo?
+
+404
+00:30:38,570 --> 00:30:40,731
+E, moça,
+você percorreu todo esse caminho, de...
+Oi, mãe!
+
+405
+00:30:40,805 --> 00:30:45,469
+Buffalo. Eu roubei algum dinheiro da minha mãe
+então eu pude vir até aqui, porque eu amo o John.
+
+406
+00:30:45,543 --> 00:30:48,410
+Na verdade, eu amo todos os Beatles,
+mas especialmente amo o John.
+
+407
+00:30:48,479 --> 00:30:53,007
+Algum dia eu vou casar com o John.
+Mas o John já não é casado?
+
+408
+00:30:53,084 --> 00:30:55,985
+Sim, mas ele pode pedir divórcio
+ou a mulher dele poderia sofrer um acidente aéreo...
+
+409
+00:30:56,054 --> 00:30:59,820
+ou ela poderia se afogar ou qualquer coisa poderia acontecer,
+porque o John tem que casar comigo!
+
+410
+00:30:59,891 --> 00:31:03,156
+Ele tem que, ou também eu posso me matar!
+
+411
+00:31:05,330 --> 00:31:08,595
+Ali vocês tem,
+damas e cavalheiros...
+Beatlemania.
+
+412
+00:31:08,666 --> 00:31:12,227
+Este é Sam David repórter da WGSL
+na frente do ...
+
+413
+00:31:12,303 --> 00:31:14,294
+Exterminem os Beatles!
+
+414
+00:31:14,372 --> 00:31:17,034
+Saia daqui! Hary, corta.
+Tirem ela fora daqui.
+Por que você desligou a câmera?
+
+415
+00:31:17,108 --> 00:31:20,077
+Liga de novo!
+Nunca ouviu falar em reportagem sem discriminação?
+
+416
+00:31:20,144 --> 00:31:22,305
+Yeah, repórter não tendencioso!
+Toda história sempre tem dois lados!
+
+417
+00:31:22,380 --> 00:31:26,146
+Há dois lados. Você não sabia disso?
+Não acredito!
+Qualquer coisa que acontece para objetivar a reportagem?
+
+418
+00:31:26,217 --> 00:31:28,708
+Yeah! Qualquer coisa que acontece a quem?
+Me diga você!
+
+419
+00:31:28,786 --> 00:31:33,314
+Qual é o assunto de agora?
+Não importa.
+Esta é apenas o noticiário da estação local.
+
+420
+00:31:33,391 --> 00:31:36,883
+Eu não sei o que eu tenho que fazer agora.
+Tenho que encontrar os repórteres do noticiário nacional,
+
+421
+00:31:36,961 --> 00:31:40,158
+para que o pais inteiro
+possa ouvir o que eu tenho pra dizer.
+Falar, falar, falar.
+
+422
+00:31:40,231 --> 00:31:44,167
+Isso é tudo o que você quer dizer.
+Eu quero que o pais inteiro
+ouça o que eu tenho pra dizer.
+
+423
+00:31:44,235 --> 00:31:47,796
+Merda. Quando vocês estão carregando suas armas 
+sempre significa alguma coisa?
+Você tem que fazer alguma coisa.
+
+424
+00:31:47,872 --> 00:31:51,706
+Bem, Eu não estou vendo você fazendo nada
+a não ser me seguir por aí.
+Oh, yeah?
+
+425
+00:31:51,776 --> 00:31:54,540
+Yeah!
+Oh, quer me ver fazendo alguma coisa?
+
+426
+00:31:54,612 --> 00:31:57,376
+Tudo... o q..
+Tudo bem. Eu vou fazer alguma coisa!
+
+427
+00:32:04,689 --> 00:32:06,680
+Peguem-no!
+
+428
+00:32:06,758 --> 00:32:09,090
+Veja, eu mesmo vou encontrar uma saída, okay?
+
+429
+00:32:09,160 --> 00:32:11,151
+Me faça feliz!
+
+430
+00:32:48,533 --> 00:32:52,367
+Hei! Hei, você! Não era para você estar aqui!
+Esta é uma área restrita!
+
+431
+00:32:52,437 --> 00:32:56,737
+Você não trabalha aqui!
+Não sabe que esta é uma seção
+do hotel que está completamente fechada?
+
+432
+00:32:56,808 --> 00:32:59,834
+Paul! Paul!
+Você não pode entrar ai.
+De qualquer forma, eu já tentei.
+
+433
+00:32:59,911 --> 00:33:03,142
+Aqueles caras já saíram.
+Quando?
+
+434
+00:33:03,214 --> 00:33:06,183
+Cinco minutos atrás.
+Ohh!
+
+435
+00:33:06,250 --> 00:33:10,880
+Bem, na verdade, está mais perto
+de quatro minutos. 
+
+436
+00:33:13,391 --> 00:33:15,552
+O que? O que?
+
+437
+00:33:15,626 --> 00:33:18,220
+Isso significa que eles andaram nessa grama?
+
+438
+00:33:18,296 --> 00:33:21,788
+Não tire conclusões precipitadas! Eu sou um colecionador!
+Por favor, não pise nela!
+Oh, Paul! Paul!
+
+439
+00:33:21,866 --> 00:33:25,324
+Em nome da decência humana.
+Isto tem um alto valor mercadológico!
+Hei!
+
+440
+00:33:25,403 --> 00:33:28,236
+Oh! Vamos! Corra!
+O que você está fazendo com essa grama?
+
+441
+00:33:28,306 --> 00:33:31,207
+Corra!
+Pelo corredor, Cooper!
+
+442
+00:33:31,275 --> 00:33:34,438
+Me abaixe!
+Eu tenho amigos na causa
+Me abaixe!
+
+443
+00:33:34,512 --> 00:33:36,707
+Pegue isso, bully!
+
+444
+00:33:38,116 --> 00:33:40,107
+Venha, venha!
+Para onde você está me levando?
+
+445
+00:33:40,184 --> 00:33:43,278
+Eu sei para onde estamos indo!
+Apensa venha!
+Aah!
+
+446
+00:33:45,556 --> 00:33:47,751
+Onde estamos indo? Ooh!
+Venha!
+
+447
+00:33:47,825 --> 00:33:50,055
+Me leve com vocês!
+Venha!
+
+448
+00:33:52,030 --> 00:33:54,794
+Eu não posso ir lá!
+Este elevador não está funcionando bem!
+Deus!
+
+449
+00:33:54,866 --> 00:33:58,324
+Ooh! Aah!
+Me leve até o sétimo andar!
+Eu tenho um quarto lá!
+
+450
+00:33:58,403 --> 00:34:00,394
+Certo!
+
+451
+00:34:32,136 --> 00:34:35,628
+Venha! Vamos logo!
+Você não consegue alinhar com o andar?
+
+452
+00:34:35,706 --> 00:34:37,867
+Venha!
+
+453
+00:34:37,942 --> 00:34:39,933
+Por aqui!
+
+454
+00:34:44,048 --> 00:34:48,178
+<i>Nós queremos os Beatles!
+Nós queremos os Beatles!
+Nós queremos os Beatles!</i>
+
+455
+00:34:48,252 --> 00:34:51,380
+<i># Then there was music #
+This is my headquarters.</i>
+
+456
+00:34:51,456 --> 00:34:56,416
+<i>#And wonderful roses, they tell me #</i>
+
+457
+00:34:56,494 --> 00:35:00,123
+<i>#In sweet, fragrant meadows #</i>
+
+458
+00:35:00,198 --> 00:35:04,862
+<i>- # Of dawn and dew #
+- Hey, hey! Don't touch anything!</i>
+
+459
+00:35:05,103 --> 00:35:08,971
+<i>#Yeah, yeah, yeah, yeah, yeah #</i>
+
+460
+00:35:09,040 --> 00:35:11,406
+#Yeah, yeah, yeah ##
+
+461
+00:35:14,679 --> 00:35:18,410
+Hei, Larry, onde você esteve?
+Eu estive te procurando por toda parte.
+
+462
+00:35:18,483 --> 00:35:22,351
+Nós temos que ir pra a CBS agora mesmo.
+Eu descobri que os Beatles
+e eles estão ensaiando por lá.
+
+463
+00:35:22,420 --> 00:35:25,753
+Yeah, bem, eu tenho novidades para você!
+Depois disso, eu vou levar o
+meu carro direto pra casa!
+
+464
+00:35:25,823 --> 00:35:29,350
+Claro, Larry. Qualquer coisa que disser!
+Falo sério, Grace.
+Agora mesmo estou indo.
+
+465
+00:35:32,296 --> 00:35:35,697
+Hey, hey, hey, hey, hey!
+O que está acontecendo?
+
+466
+00:35:35,766 --> 00:35:38,257
+Eles fedem. Eles não tem nenhum talento.
+Eles parecem um bando de garotas!
+
+467
+00:35:38,336 --> 00:35:42,170
+Yeah, cara, eu odeio os Beatles, cara.
+Eles são estrangeiros de outro pais.
+
+468
+00:35:42,240 --> 00:35:47,303
+Eles roubam nossas mulheres de nós.
+cara, mande eles de volta! Mande eles de volta 
+Yeah, os Beatles são um bando de chorões.
+
+469
+00:35:47,378 --> 00:35:52,111
+Todo mundo que ouve a música deles são chorões também.
+O que eles estão tentando provar usando cabelo comprido?
+Vocês estão entendendo mal todo o ponto.
+
+470
+00:35:52,183 --> 00:35:55,880
+Eu não sei o que 
+essas franguinhas vêem nisso de qualquer forma.
+Isto é apenas um truque!
+
+471
+00:35:55,953 --> 00:35:58,444
+Oh, e outra coisa, Murray.
+
+472
+00:35:58,523 --> 00:36:03,586
+WI NS costumava ser a melhor estação re rádio da 
+cidade até começar a tocar toda essa baboseira de Beatles.
+
+473
+00:36:03,661 --> 00:36:07,757
+Agora isso é tudo que eu ouço!
+O que aconteceu com os "Four Seasons"?
+Yeah!
+
+474
+00:36:07,832 --> 00:36:11,825
+Eu nunca mais vou ouvir a 1010 WI NS de novo.
+Nunca mais, nunca mesmo.
+Tudo bem. Espera um minuto.
+
+475
+00:36:11,903 --> 00:36:13,894
+Quer saber de uma coisa?
+O que?
+
+476
+00:36:13,971 --> 00:36:17,304
+Você é uma pessoa degenerada,
+mas continue se queixando.
+
+477
+00:36:25,283 --> 00:36:28,844
+Yeah, Larry, meus olhos estavam me incomodando um pouco
+com toda essa leitura que estava fazendo por aqui.
+
+478
+00:36:28,920 --> 00:36:34,324
+Então eu cheguei e peguei esta lâmpada.
+Esta é realmente uma boa lâmpada. Quero dizer, ela tem três
+interruptores que fazem com que ela brilhe.
+
+479
+00:36:34,392 --> 00:36:36,383
+Excelente para leitura
+
+480
+00:36:36,460 --> 00:36:39,452
+Yeah, tudo bem, Harry.
+O que você acha...
+
+481
+00:36:41,165 --> 00:36:43,326
+O que mais importa para você?
+
+482
+00:36:44,402 --> 00:36:46,870
+Porque você não vai procurar 
+onde você deixou aquela coisa?
+
+483
+00:36:48,206 --> 00:36:51,300
+Harry? Alô, Harry?
+
+484
+00:36:51,375 --> 00:36:54,572
+Bobalhão. Ele quebrou a minha lâmpada.
+
+485
+00:37:38,322 --> 00:37:41,450
+Oh, meu Deus!
+
+486
+00:37:41,525 --> 00:37:45,120
+Oh! Ohh.
+
+487
+00:37:45,196 --> 00:37:47,687
+Oh, Deus.
+
+488
+00:37:47,765 --> 00:37:50,359
+Ohh, Deus!
+
+489
+00:37:50,434 --> 00:37:52,425
+Não acredito nisso...
+
+490
+00:37:53,838 --> 00:37:56,306
+Oh, meu Deus.
+
+491
+00:37:56,374 --> 00:37:58,365
+Oh. Ohh!
+
+492
+00:37:59,777 --> 00:38:01,711
+Oh.
+
+493
+00:38:04,282 --> 00:38:07,046
+<i>#Love, love me do #</i>
+
+494
+00:38:07,118 --> 00:38:10,315
+<i># You know I love you #</i>
+
+495
+00:38:10,388 --> 00:38:13,551
+<i>#I'll always be true #</i>
+
+496
+00:38:13,624 --> 00:38:17,321
+<i>#So, plea-ea-ea-ease #</i>
+
+497
+00:38:17,395 --> 00:38:21,126
+<i>#Love me do #</i>
+
+498
+00:38:21,198 --> 00:38:25,828
+<i># Whoa-oa, love me do #</i>
+
+499
+00:38:25,903 --> 00:38:28,701
+<i>#Love, love me do #</i>
+
+500
+00:38:28,773 --> 00:38:31,674
+<i># You know I love you #</i>
+
+501
+00:38:31,742 --> 00:38:34,973
+<i>#I'll always be true #</i>
+
+502
+00:38:35,046 --> 00:38:39,449
+<i>#So, plea-ea-ea-ease #</i>
+
+503
+00:38:39,517 --> 00:38:42,452
+<i>#Love me do #</i>
+
+504
+00:38:42,520 --> 00:38:46,012
+<i># Whoa-oa, love me do #</i>
+
+505
+00:38:47,024 --> 00:38:50,187
+<i>#Someone to love #</i>
+
+506
+00:38:50,261 --> 00:38:53,753
+<i>#Somebody new #</i>
+
+507
+00:38:53,831 --> 00:38:56,561
+<i>#Someone to love #</i>
+
+508
+00:38:56,634 --> 00:39:00,195
+<i>#Someone like you #</i>
+
+509
+00:39:00,805 --> 00:39:03,433
+Hey, veja o que eu encontrei!
+Uma miniatura dos Beatles.
+
+510
+00:39:03,507 --> 00:39:06,635
+Hey! Hey, venha!
+Hey, o que é isso, um garoto ou uma garota?
+
+511
+00:39:06,711 --> 00:39:08,702
+Hey!
+Eu acho que é uma garota!
+
+512
+00:39:08,779 --> 00:39:11,373
+Isto é uma receita médica!
+Eu sou muito propenso a ter frio na cabeça!
+Hey, alguém tem uma lâmina de barbear?
+
+513
+00:39:11,449 --> 00:39:16,512
+Eu quero ficar com a aparência
+do Yul Brynner, meio loiro. Huh?
+
+514
+00:39:16,587 --> 00:39:20,614
+Ooh! Tudo bem.
+Hei, hei, espere um minuto.
+Eu vou fazer um acordo com você, 
+vou fazer um acordo com você!
+
+515
+00:39:20,691 --> 00:39:24,889
+O que?
+Eu tenho ingressos para o show do Ed Sullivan,
+e você pode ficar com eles se você me deixar ir.
+
+516
+00:39:24,962 --> 00:39:27,522
+Ingressos. Que diabos eu vou fazer com ingressos?
+Eu não quero nenhum ingresso.
+Hei, espere um minuto.
+
+517
+00:39:27,598 --> 00:39:30,965
+Você pode vendê-los por um bom dinheiro!
+Bem, eu vou te dar eles de graça!
+
+518
+00:39:31,035 --> 00:39:34,004
+Oww!
+Tudo bem, Tony. Você já se divertiu.
+Agora deixe ele ir.
+
+519
+00:39:34,071 --> 00:39:38,064
+Hei, lembre-se. Eu disse que você
+precisa fazer alguma coisa. Então eu estou
+Fazendo alguma coisa. E não só falando da boca pra fora.
+
+520
+00:39:38,142 --> 00:39:40,576
+Oww!
+Você realmente desconhece
+o verdadeiro propósito.
+
+521
+00:39:40,644 --> 00:39:44,512
+Você está meramente atacando um sintoma em vez
+chegar realmente à raiz do problema. 
+
+522
+00:39:44,582 --> 00:39:47,176
+Eu vou te conduzir à raiz,
+tudo bem, com isto!
+
+523
+00:39:47,251 --> 00:39:50,084
+Uh, hey, Smerko,
+um policial vem vindo.
+
+524
+00:39:51,088 --> 00:39:53,249
+Eu deveria saber disso antes.
+
+525
+00:39:53,324 --> 00:39:56,885
+Você não é nada mais do que um amante dos Beatles.
+Aqui. Você pega ele.
+Aah!
+
+526
+00:39:56,961 --> 00:39:59,953
+Aqui estão alguns estalos  pra quando 
+os Beatles chegarem ao aeroporto Kennedy.
+
+527
+00:40:00,030 --> 00:40:03,932
+Oh. Você conseguiu tirar alguma foto dos Beatles?
+Yeah, bem, eu não vi exatamente os Beatles,
+
+528
+00:40:04,001 --> 00:40:08,267
+mas eu consegui algumas ótimas
+poses das malas deles.
+Wow.
+
+529
+00:40:08,339 --> 00:40:11,900
+Sabe, você foi o primeiro cara que eu encontrei
+que realmente consigo conversar.
+
+530
+00:40:11,976 --> 00:40:16,572
+Eu digo, falar de verdade.
+Yeah, bem, se você pensa que isso é fabuloso.
+Eu vou te mostrar uma coisa melhor ainda.
+
+531
+00:40:19,216 --> 00:40:24,745
+Hei, eles não costumam arrumar as camas?
+Não. O hotel nem sabe que eu estou aqui
+
+532
+00:40:24,822 --> 00:40:29,225
+Então, como você tem a chave?
+Eu encontrei. Alguém deixou ela na porte
+e eu peguei.
+
+533
+00:40:29,293 --> 00:40:33,855
+Então eu olhei por todo o quarto.
+O hotel nem sabe que estou aqui.
+Se eles soubessem que eu estou aqui, eles me botariam pra fora
+
+534
+00:40:33,931 --> 00:40:38,425
+Agora, aqui. Veja isto, veja isto,
+veja isto, veja isto, veja isto,
+veja isto, veja isto.
+
+535
+00:40:39,437 --> 00:40:41,701
+Aqui. Esta é minha melhor peça.
+
+536
+00:40:42,840 --> 00:40:47,038
+Você sabe o que é isso?
+Isto é na verdade um monte de grama
+em que o Paul pisou.
+
+537
+00:40:47,111 --> 00:40:50,410
+Eu não sei exatamente em qual delas 
+ele pisou, mas estão todas ai.
+É por isso que eu peguei esse monte todo. 
+
+538
+00:40:50,481 --> 00:40:53,473
+Oh, wow! Posso ter um pouco dela?
+Você está louco?
+
+539
+00:40:53,551 --> 00:40:57,351
+Oh, só um pouquinho!
+Eu vou comprar de você!
+Não. Sinto muito, mas não está a venda.
+
+540
+00:40:57,421 --> 00:41:00,652
+Diga, você realmente tem ingressos
+para o Show do Ed Sullivan?
+
+541
+00:41:00,724 --> 00:41:03,852
+Yeah. Fui sortudo em tê-los.
+Meu tio tem uns conhecidos.
+
+542
+00:41:03,928 --> 00:41:08,024
+Você venderia pra mim?
+Uh, não, eu não poderia fazer isso.
+
+543
+00:41:08,098 --> 00:41:10,828
+Heck, você me ajudou a sair de uma
+verdadeira encrenca.
+
+544
+00:41:10,901 --> 00:41:12,926
+Eu vou te dar um de graça.
+Isto é o mínimo que eu posso fazer.
+
+545
+00:41:13,003 --> 00:41:16,097
+Muito obrigado.
+
+546
+00:41:16,173 --> 00:41:18,403
+Que engraçado.
+Eu pensei que eu os tinha aqui comigo.
+
+547
+00:41:18,476 --> 00:41:21,001
+Eu não estou com eles!
+
+548
+00:41:21,078 --> 00:41:25,139
+Peter! Hei, Peter!
+Eu estou com os seus ingressos para o show do Ed Sullivan!
+
+549
+00:41:25,216 --> 00:41:28,310
+Meus ingressos! Como você os conseguiu?
+Não importa como os consegui, 
+o importante é que eu os tenho!
+
+550
+00:41:28,385 --> 00:41:30,910
+Se quiser voltar pra lá, você vai ter que fazer
+a droga do corte de cabelo!
+
+551
+00:41:30,988 --> 00:41:36,722
+Agora, eu encontrei uma barbearia aberta,
+então vamos lá!
+Você não pode fazer isso! É extorsão.
+
+552
+00:41:36,794 --> 00:41:39,126
+Eu posso fazer qualquer droga que quiser!
+Sou seu pai!
+Senhor.
+
+553
+00:41:39,196 --> 00:41:41,892
+Nenhum filho meu vai ficar andando pr ai
+pelas ruas parecendo com uma droga de garota.
+Senhor.
+
+554
+00:41:41,966 --> 00:41:44,560
+Espere um minuto, você vai?
+Bem, eu não vou cortar meu cabelo!
+
+555
+00:41:44,635 --> 00:41:49,732
+E eu não vou fazer isso porque discordo de ti!
+Agora, se você quiser esses ingressos de volta,
+você vai ter que cortar! Agora, pense sobre isso!
+
+556
+00:41:49,807 --> 00:41:53,436
+Eu não preciso pensar sobre isso!
+Por tudo que é importante pra mim, você pode
+pegar aqueles ingressos e enfiá-los onde quiser!
+
+557
+00:41:53,511 --> 00:41:55,502
+Qual o seu nome de qualquer forma?
+
+558
+00:41:55,579 --> 00:41:59,140
+Ringo. Ringo Klaus.
+o que?
+
+559
+00:41:59,216 --> 00:42:01,707
+Bem, na verdade é Richard,
+Richard Klaus.
+
+560
+00:42:01,785 --> 00:42:04,515
+Este é o meu poderoso oficial
+codinome Beatlesmaníaco.
+
+561
+00:42:04,588 --> 00:42:08,547
+De qualquer forma, como fez o Ringo Starr..
+Você saia que ele mudou o nome de Richard para Ring?
+
+562
+00:42:08,626 --> 00:42:11,754
+Bem, foi isso que eu fiz.
+Meu verdadeiro nome é Richard,
+e eu o mudei para Ringo, entendeu?
+
+563
+00:42:11,829 --> 00:42:15,560
+Você sabe, o verdadeiro Ringo tem um monte de anéis?
+Bem, eu já tenho o meu próprio, também, consegue ver?
+Igual ao Ringo.
+
+564
+00:42:15,633 --> 00:42:19,467
+Bem. E sei de tudo isso.
+Escute, eu sei de tudo que há
+pra saber sobre os Beatles.
+
+565
+00:42:19,537 --> 00:42:23,473
+Não existe nada, nada mesmo que eu não saiba sobre os Beatles!
+Eu sou o meio gênio sobre os Beatles
+que pode existir na história do universo.
+
+566
+00:42:23,541 --> 00:42:26,374
+Vá em frente, me pergunte qualquer 
+coisa sobre os Beatles!
+Me pergunte a altura do John.
+
+567
+00:42:26,443 --> 00:42:28,468
+E a resposta vem em seguida:
+And the answer comeback,
+5-foot-11.
+
+568
+00:42:28,546 --> 00:42:33,313
+Me pergunte qual a data de nascimento do George.
+E a resposta vem em seguida:
+25 de fevereiro de 1943.
+
+569
+00:42:33,384 --> 00:42:36,911
+Não existe nada que eu não saiba sobre os Beatles!
+Me pergunte qualquer coisa que possa haver sobre
+os Beatles. Me pergunte qualquer coisa!
+
+570
+00:42:36,987 --> 00:42:39,979
+Quem é o Beatle mais novo?
+
+571
+00:42:40,057 --> 00:42:42,753
+Eu sei a resposta!
+Me dê o telefone!
+Sai pra lá! Eu também sei!
+
+572
+00:42:42,826 --> 00:42:45,556
+Este é meu quarto, e este é meu telefone!
+
+573
+00:42:45,629 --> 00:42:47,597
+Tira a mão!
+Sai! Me deixa!
+
+574
+00:42:47,665 --> 00:42:49,656
+Está chamando!
+
+575
+00:42:49,733 --> 00:42:51,724
+Quem é o Beatle mais novo?
+Ringo!
+George!
+
+576
+00:42:51,802 --> 00:42:54,464
+Aww!
+É o Ringo! Ringo, seu sortudo!
+
+577
+00:42:54,538 --> 00:42:57,735
+Você... você seu estúpido idiota!
+É o George!
+
+578
+00:42:57,808 --> 00:43:02,404
+Ringo é o mais velho!
+Ringo tem 23! George tem 20!
+Bem, esta é uma pergunta-pegadinha.
+
+579
+00:43:02,479 --> 00:43:06,575
+George é o mais jovem em idade,
+mas o Ringo foi o último que entrou para os Beatles,
+então ele é o Beatle mais jovem.
+
+580
+00:43:06,650 --> 00:43:09,551
+Vu? A pergunta foi:
+" Quem é o Beatle mais novo?"
+E isso significa que é o Ringo!
+
+581
+00:43:09,620 --> 00:43:13,021
+Viu? Aah!
+Você que é uma idiota! Uma paspalha!
+
+582
+00:43:13,090 --> 00:43:16,958
+Você é uma rata perdedora!
+E fui eu quem ganhei aqueles ingressos!
+
+583
+00:43:19,263 --> 00:43:22,596
+Aah! Agora eu tenho você
+Sua pequena cabeça-de-merda!
+Quem é que está fazendo a chamada?
+
+584
+00:43:26,837 --> 00:43:28,998
+Aah! Peque aquilo ali, copper!
+
+585
+00:43:30,174 --> 00:43:33,041
+Para trás!
+Veja isso, ele pegou uma lanterna!
+E está brilhando!
+
+586
+00:43:33,110 --> 00:43:36,273
+Ai-yaah!
+Levante-se!
+Você está cercado!
+
+587
+00:43:36,347 --> 00:43:39,043
+Eu vou pular, eu juro, vou pular!
+
+588
+00:43:39,116 --> 00:43:41,482
+Me deixem! Me botem no chão!
+Eu vou buscar uma ação judicial!
+
+589
+00:43:41,552 --> 00:43:43,713
+Parem com isso, me deixem!
+
+590
+00:43:43,787 --> 00:43:46,255
+Então, qual é o seu palpite?
+
+591
+00:43:46,323 --> 00:43:49,690
+Ringo! Nãããoooo!
+
+592
+00:44:08,412 --> 00:44:12,678
+Hey! Que diabos você 
+pensa que está fazendo?
+Não é permito câmeras aqui.
+
+593
+00:44:12,750 --> 00:44:15,480
+Eu apenas estava tirando algumas fotos.
+Eu estou com a imprensa.
+
+594
+00:44:15,552 --> 00:44:18,612
+Yeah? E eu sou o capitão Kangaroo.
+Venha! Dê o fora daqui!
+
+595
+00:44:18,689 --> 00:44:22,386
+Por favor, senhor. Eu só vou tirar algumas fotos
+dos Beatles. Eu faço qualquer coisa pra ficar aqui.
+Yeah?
+
+596
+00:44:22,459 --> 00:44:24,484
+Qualquer coisa.
+O que acharia se eu lhe desse algum?
+
+597
+00:44:24,561 --> 00:44:26,927
+Dez pratas.
+Dez prata?
+O que, você quer me sacanear?
+
+598
+00:44:26,997 --> 00:44:29,761
+Eu vou lhe dizer uma coisa
+Cinqüenta pratas, e você tem um acordo.
+
+599
+00:44:29,833 --> 00:44:32,825
+Cinqüenta pratas? Veja, eu não
+tenho todo esse dinheiro.
+Hey!
+
+600
+00:44:32,903 --> 00:44:35,394
+Você quer entrar lá e ver eles?
+Cinqüenta pratas. Você não gosta disso?
+
+601
+00:44:35,472 --> 00:44:38,635
+Então sai já daqui!
+Tudo bem. Tudo bem, certo.
+Eu encontrei as cinqüenta pratas.
+
+602
+00:44:38,709 --> 00:44:41,701
+Então o que eu faço?
+
+603
+00:44:41,779 --> 00:44:44,179
+Escute, aqui o que acontece é o seguinte.
+
+604
+00:44:44,248 --> 00:44:46,478
+Os Beatles são a última apresentação, certo?
+
+605
+00:44:46,550 --> 00:44:50,611
+Tudo certo. Você espera até o show começar,
+e vem até essa porta a bate desse jeito.
+
+606
+00:44:53,157 --> 00:44:55,682
+Eu abro a porta você me dá as 
+cinqüenta pratas, e você entra.
+
+607
+00:44:55,759 --> 00:44:58,057
+Então agora, sai já daqui!
+Eu preciso comer!
+
+608
+00:45:00,998 --> 00:45:05,401
+Cinqüenta pratas!
+Aonde eu vou conseguir cinqüenta pratas?
+
+609
+00:45:20,150 --> 00:45:22,675
+Mmm. Mmm.
+
+610
+00:45:29,827 --> 00:45:31,818
+Ahh!
+
+611
+00:45:34,164 --> 00:45:36,792
+Mmm. Mmm.
+
+612
+00:45:59,957 --> 00:46:03,154
+Este lugar está ocupado?
+
+613
+00:46:04,928 --> 00:46:07,897
+Me diga, como é a comida por aqui?
+Vocês sempre comem por aqui?
+
+614
+00:46:09,800 --> 00:46:13,531
+Oh? Bem, então, eu imagino que
+vocês não são daqui, huh?
+
+615
+00:46:13,604 --> 00:46:18,098
+Brooklyn.
+Não brinca? Eu sou de Jersey.
+
+616
+00:46:20,711 --> 00:46:24,670
+Hey, hey, vai embora!
+Boa conversa, Shakespeare.
+
+617
+00:46:31,155 --> 00:46:35,649
+Me diga, vocês garotas já estiveram
+no topo do Empire State Building?
+
+618
+00:46:35,726 --> 00:46:41,062
+Bem, eu estou pensando em ir lá em cima
+mais tarde e, uh, talvez vocês gostariam
+de ir junto comigo?
+
+619
+00:46:41,131 --> 00:46:43,793
+Agora, qual foi a piada?
+
+620
+00:46:43,867 --> 00:46:49,169
+Ela acha você parecido com o Paul.
+Oh, yeah. Muita gente me diz que
+sou parecido com o Newman.
+
+621
+00:46:50,841 --> 00:46:56,370
+Não o Paul Newman, Paul McCartney.
+- Paul McCart... Nunca ouvi falar dele.
+
+622
+00:46:57,447 --> 00:46:59,608
+Ele é um dos Beatles.
+
+623
+00:47:02,953 --> 00:47:04,944
+Oh, ho!
+
+624
+00:47:06,156 --> 00:47:10,525
+O que há com você?
+Tem alguma coisa contra os Beatles?
+Quem, eu?
+
+625
+00:47:10,594 --> 00:47:14,997
+Além do fato que a música deles fede,
+e de que odeio o jeito deles...
+
+626
+00:47:15,065 --> 00:47:18,364
+e de que eles não são mais
+do que um bando de garotinhas afeminadas?
+
+627
+00:47:18,435 --> 00:47:20,494
+Não!
+Escute, seu saco de banha.
+
+628
+00:47:20,571 --> 00:47:23,768
+Ninguém pediu que você sentasse aqui, então sai fora!
+Agora, espera aí!
+
+629
+00:47:23,841 --> 00:47:28,107
+Tudo estava indo tão bem,
+estávamos comendo tranquilamente
+e tendo uma pequena conversa,
+
+630
+00:47:28,178 --> 00:47:31,238
+e então você tinha que mencionar os Beatles 
+e me fazer engasgar com a droga da minha comida!
+
+631
+00:47:31,315 --> 00:47:32,942
+Vamos sair daqui.
+Yeah.
+
+632
+00:47:33,016 --> 00:47:37,749
+Hei, esperem!
+E sobre o Empire State Building?
+Por que você não se joga dele?
+
+633
+00:47:37,821 --> 00:47:42,190
+Hei, sabe o que é que eu faço com os Beatles? Eu chut..
+Ohh!
+
+634
+00:47:45,929 --> 00:47:48,329
+Oh!
+
+635
+00:47:48,398 --> 00:47:50,389
+Oh, wow!
+
+636
+00:47:50,467 --> 00:47:53,231
+Oh.
+
+637
+00:48:07,651 --> 00:48:09,642
+Oh.
+
+638
+00:48:14,424 --> 00:48:16,415
+Ohh!
+
+639
+00:48:18,128 --> 00:48:20,824
+Oh, meu Deus.
+
+640
+00:48:20,898 --> 00:48:22,889
+Ohh!
+
+641
+00:48:24,735 --> 00:48:27,067
+Oh, meu Deus.
+
+642
+00:48:27,137 --> 00:48:30,163
+Oh, Deus!
+
+643
+00:49:16,053 --> 00:49:19,352
+<i>#Surfin'U.S.A. #</i>
+
+644
+00:49:19,423 --> 00:49:22,859
+<i>#Everybody's gone surfin'#</i>
+
+645
+00:49:22,926 --> 00:49:27,192
+<i>#Surfin'U.S.A. Com o Murray o "K"##</i>
+
+646
+00:49:27,264 --> 00:49:30,131
+Hei, baby.
+Sarau dançante.
+
+647
+00:49:30,200 --> 00:49:33,397
+<i>Ei, quem é esse Johnny Carson que o Ed
+quer que dediquemos nossa canção de qualquer jeito? </i>
+
+648
+00:49:33,470 --> 00:49:35,734
+</i>Provavelmente um jogador de baseball.
+Não, ele não é o prefeito?</i>
+
+649
+00:49:38,976 --> 00:49:42,912
+Eu estou realmente desapontado com aquele ensaio
+Quero dizer, eu pensei que nós faríamos um som animal.
+
+650
+00:49:42,980 --> 00:49:46,711
+Ah, deixa disso. Tudo que precisa fazer é sorrir,
+piscar o olho, que todos eles vão gritar.
+
+651
+00:49:48,618 --> 00:49:51,712
+Hei, bem, como é que vocês sabe?
+Isso continua funcionando.
+
+652
+00:49:51,788 --> 00:49:54,951
+Murray continua falando.
+Hei, parece que alguém esteve 
+mexendo no meu baixo.
+
+653
+00:49:55,025 --> 00:49:59,052
+Yuck! Tem alguma coisa pegajosa nele.
+Uuh! O que poderia ter acontecido?
+
+654
+00:49:59,129 --> 00:50:02,724
+Por que você não bota aquela 
+foto sua no armário?
+Acho que o lugar poderia ficar bem melhor.
+
+655
+00:50:02,799 --> 00:50:04,960
+Então é isso.
+Bem?
+
+656
+00:50:05,035 --> 00:50:08,004
+<i>Bem aqui na 1010 WINS,
+logo depois do show do Ed Sullivan.</i>
+
+657
+00:50:08,071 --> 00:50:12,371
+Alguém vai chamar o carregador aqui?
+Eu preciso de calças limpas.
+Então, tire elas.
+
+658
+00:50:12,442 --> 00:50:15,707
+Digo, você sabe, ele não vai poder limpá-las
+com vocês estando nelas.
+Ótima idéia.
+
+659
+00:50:15,779 --> 00:50:18,247
+Ohh!
+
+660
+00:50:18,315 --> 00:50:22,308
+E minhas meias...
+minhas meias de nylon oficiais dos Beatles
+sumiram.
+
+661
+00:50:22,386 --> 00:50:25,514
+Aqueles idiotas do hotel roubaram as minhas 
+coisas, e você sabe por quê?
+
+662
+00:50:25,589 --> 00:50:28,615
+Eles devem saber que metade das
+minhas coisas deve custar por volta de U$500,00.
+
+663
+00:50:28,692 --> 00:50:30,853
+Eu vou processá-los. É o que eu vou fazer.
+Vou processá-los.
+
+664
+00:50:30,927 --> 00:50:35,296
+Eu só acho que somos sortudos de
+eles não nos mandarem para a cadeia.
+Eles não podem nos mandar pra cadeia.
+
+665
+00:50:35,365 --> 00:50:39,995
+Nós dois temos menos de 18 anos. Portanto,
+somos menores de idade. Portanto, eles não podem
+nos mandar pra cadeia, e esta é a lei.
+
+666
+00:50:40,070 --> 00:50:44,871
+Se há alguma coisa que eu realmente sei, é
+sobre a lei. De qualquer forma, vou voltar
+para o hotel e pegar minhas coisas de volta.
+
+667
+00:50:44,941 --> 00:50:48,274
+Eu sei. Eu vou roubar um elevador.
+Eu vou seqüestrar um com você fez.
+
+668
+00:50:48,345 --> 00:50:51,041
+Rosie, venha aqui!
+Eu tenho que te contar uma coisa!
+
+669
+00:50:51,114 --> 00:50:53,981
+Grace! Grace!
+Onde você esteve? Conseguiu
+tirar as fotos dos Beatles?
+
+670
+00:50:54,051 --> 00:50:56,315
+Grace, você sabe, é, uhh,
+proibido estacionar aqui.
+
+671
+00:50:56,386 --> 00:50:58,320
+Nós não estamos estacionando, Larry.
+Estamos apenas parando.
+Hei, onde você esteve?
+
+672
+00:50:58,388 --> 00:51:02,085
+Conseguiu tirar as fotos?
+Não, ainda não. Escute, Rosie, eu realmente
+preciso que me empreste algum dinheiro, okay?
+
+673
+00:51:02,159 --> 00:51:05,492
+Oh, Grace, não...
+Não me sobrou nenhum dinheiro.
+Em que foi que você gastou?
+
+674
+00:51:05,562 --> 00:51:07,587
+Nisso.
+O que é isso?
+
+675
+00:51:07,664 --> 00:51:10,064
+Lençóis dos Beatles.
+Lençóis dos Beatles?
+
+676
+00:51:10,133 --> 00:51:14,593
+Estes são realmente os lençóis
+em que os Beatles dormiram sexta-feira.
+Só duas pratas por centímetro quadrado.
+
+677
+00:51:14,671 --> 00:51:17,902
+Quer dizer que você pagou duas pratas
+por esse pequeno pedaço de nada?
+Eles até baixaram o preço em cinco pratas.
+
+678
+00:51:17,974 --> 00:51:20,101
+Grace, quando foi que você
+pensou que estávamos indo pra casa?
+Oh, yeah?
+
+679
+00:51:20,177 --> 00:51:24,045
+Como você sabe que estes são
+realmente os lençóis dos Beatles?
+Os caras disseram que eram autênticos.
+
+680
+00:51:24,114 --> 00:51:26,639
+E não se pode mentir sobre algo como isso.
+Isso deveria ser contra lei.
+
+681
+00:51:26,716 --> 00:51:29,480
+Grace, você realmente deveria estar
+indo pra casa. Eu não quero perder o 
+show do Ed Sullivan.
+
+682
+00:51:29,553 --> 00:51:32,750
+Me diz uma coisa. Aonde é que tem
+um monte de gente comprando essas coisas?
+Oh, heck, yeah.
+
+683
+00:51:32,823 --> 00:51:35,291
+Quer que eu te mostre onde está o
+cara que vendeu eles pra mim?
+Aqui. Pegue este.
+
+684
+00:51:35,358 --> 00:51:37,690
+Vamos, Larry.
+Vamos sair daqui.
+Esperem. Vocês tem que me levar com vocês.
+
+685
+00:51:37,761 --> 00:51:41,197
+Eu sou a única que sabe onde o cara que
+me vendeu essas esse material está.
+Vocês tem que me levar com vocês.
+
+686
+00:51:41,264 --> 00:51:43,789
+O que tem de errado contigo?
+Quem é o cara, Rosie?
+Da onde ele veio? Marte?
+
+687
+00:51:43,867 --> 00:51:47,667
+Oh, Este é Richard Klaus.
+Ele é meu namorado.
+Seu namorado?
+
+688
+00:51:47,737 --> 00:51:51,696
+Grace, espere.
+E sobre o show do Ed Sullivan?
+Bem, você não acha melhor encontrar o estúdio,
+
+689
+00:51:51,775 --> 00:51:54,767
+porque eu ainda tenho que
+conseguir tirar as minhas fotos.
+
+690
+00:51:56,179 --> 00:52:00,548
+Seu namorado? Qual foi a tua idéia em dizer
+liberal que eu era seu namorado?
+Eu não sou seu namorado.
+
+691
+00:52:00,617 --> 00:52:03,484
+Mas eu pensei que você e eu...
+Bem, parece que nós formamos um 
+bonito e completo casal.
+
+692
+00:52:03,553 --> 00:52:06,886
+yeah? Eu acho que você está
+apaixonada pelo Paul.
+
+693
+00:52:06,957 --> 00:52:09,892
+Bem, eu sou, mas é diferente
+com o Paul.
+
+694
+00:52:09,960 --> 00:52:13,919
+Digo, Paul... ele é um Beatle.
+É apenas diferente.
+Yeah. Eu entendo.
+
+695
+00:52:13,997 --> 00:52:18,024
+Você apenas igual a todo mundo. Você está apaixonada
+por um Beatle até que alguém melhor apareça, huh?
+
+696
+00:52:18,101 --> 00:52:21,195
+Bem, eu tenho novidades pra você.
+De onde eu venho, eles tem um nome
+para pessoas como você.
+
+697
+00:52:21,271 --> 00:52:25,230
+Você é um traidor, e eu não me 
+associo com traidores, então
+você pode parar de me rotular.
+
+698
+00:52:25,308 --> 00:52:27,674
+"Irmã de Amscray"!
+
+699
+00:52:27,744 --> 00:52:30,645
+Eu não sou um traidor!
+Eu amo o Paul!
+
+700
+00:52:30,714 --> 00:52:34,810
+Eu sempre vou amar o Paul!
+
+701
+00:52:34,885 --> 00:52:38,377
+Eu nunca vou amar ninguém mais, mesmo!
+
+702
+00:52:38,455 --> 00:52:42,482
+<i>#I love you #</i>
+
+703
+00:52:43,927 --> 00:52:47,624
+Você sabe, que vai tornar as coisas
+muito mais fáceis se cortar seus cabelo.
+
+704
+00:52:49,733 --> 00:52:52,668
+Hei, espere.
+Eu acho que entendi.
+
+705
+00:52:52,736 --> 00:52:55,136
+Hei!
+Vamos sair daqui!
+
+706
+00:52:55,205 --> 00:52:59,141
+Hei, garoto!
+Volte.
+Vamos! Por aqui!
+
+707
+00:52:59,209 --> 00:53:01,769
+Volte já aqui!
+Vamos, Vamos consegui-los!
+
+708
+00:53:01,845 --> 00:53:03,836
+Você está bem?
+
+709
+00:53:03,914 --> 00:53:05,848
+Segurança dos Beatles.
+Por aqui!
+
+710
+00:53:05,916 --> 00:53:10,080
+De vez em quando, os Beatles 
+tem que se disfarçar...
+
+711
+00:53:10,153 --> 00:53:14,180
+para ir de lugar a outro sem
+serem "rasgados" por todas aquelas garotas.
+Com licença.
+
+712
+00:53:14,257 --> 00:53:16,885
+Para onde?
+Para onde eles foram?
+Lá pra baixo.
+
+713
+00:53:16,960 --> 00:53:21,454
+<i>Nós temos mais uma que
+vocês ainda não ouviram desse
+disco inglês muito louco.</i>
+
+714
+00:53:21,531 --> 00:53:25,228
+<i>Você está ouvindo em primeira mão 
+aqui com o "K" naquilo que vocês chama de
+sarau dançante.</i>
+
+715
+00:53:25,302 --> 00:53:31,104
+<i>De fato, acho que vou
+manda uma carta para vocês.
+# Oh, yeah, wait a minute, Mr. Postman #</i>
+
+716
+00:53:31,174 --> 00:53:33,836
+Hei, Reese,
+Meu cabelo é único.
+Deixe ele ir!
+
+717
+00:53:33,910 --> 00:53:36,105
+Ele não estava fazendo nada.
+Pegue ela também.
+
+718
+00:53:36,179 --> 00:53:39,239
+Você só está com ele
+porque ele tem cabelo comprido.
+Cala boca.
+
+719
+00:53:39,316 --> 00:53:41,944
+Deixe o garoto ir embora.
+Yeah. Deixe ele ir.
+
+720
+00:53:42,018 --> 00:53:45,044
+Só porque ele tem cabelo comprido
+não significa que possa fazer tudo aquilo.
+Larga ele!
+
+721
+00:53:48,091 --> 00:53:51,026
+Hei, o que está aco...
+Tudo bem! Volte aqui!
+
+722
+00:53:51,094 --> 00:53:55,827
+Volta! Volte aqui!
+Volte aqui agora mesmo!
+
+723
+00:53:55,899 --> 00:53:58,197
+Volta! Volte aqui!
+
+724
+00:53:58,268 --> 00:54:01,101
+Volte já! Eu estou te avisando.
+Agora, volte já aqui!
+
+725
+00:54:02,672 --> 00:54:04,663
+Mexa-se.
+
+726
+00:54:08,111 --> 00:54:11,410
+Volte!
+Traga aquela turma de volta!
+
+727
+00:54:11,481 --> 00:54:14,678
+Volte aqui agora mesmo!
+Volte aqui!
+
+728
+00:54:14,751 --> 00:54:18,812
+Reese, Foley, deixe eles irem!
+Mas, sargento, eles estão tentando
+invadir o estúdio de gravação.
+
+729
+00:54:18,888 --> 00:54:22,949
+Que droga, eu disse pra deixar eles irem!
+Eu não quero nenhuma confusa nas minhas mãos.
+
+730
+00:54:23,026 --> 00:54:26,462
+Tudo bem. Vão.
+Saiam já daqui. Caiam fora.
+
+731
+00:54:28,131 --> 00:54:31,862
+Wow. Você viu aquilo?
+Tem noção do que acabou de acontecer aqui?
+
+732
+00:54:31,935 --> 00:54:35,063
+Yeah. Nós quase fomos parar na cadeia.
+Você estava certo todo o tempo.
+
+733
+00:54:35,138 --> 00:54:38,835
+O único jeito de nós conseguirmos
+entrar lá é cortar o meu cabelo.
+Você não pode fazer isso.
+
+734
+00:54:38,908 --> 00:54:43,470
+O que?
+Não pode cortar o seu cabelo.
+Não agora. Não depois de tudo isso.
+
+735
+00:54:43,546 --> 00:54:47,846
+Não estou te entendendo.
+Quero dizer, você não quer ir
+assistir o show?
+
+736
+00:54:47,917 --> 00:54:52,911
+Veja, todo esse tempo eu estive errado
+sobre os Beatles. Eu vou descobrir um
+outro jeito de conseguir aqueles ingressos de volta.
+
+737
+00:54:52,989 --> 00:54:55,389
+O que? Do meu velho?
+
+738
+00:54:55,458 --> 00:54:58,256
+Não tem jeito. A única maneira
+de você conseguir aqueles ingressos
+dele é roubá-los.
+
+739
+00:54:58,795 --> 00:55:02,060
+Pedaços genuínos
+dos lençóis dos Beatles,
+só por um dólar!
+
+740
+00:55:02,132 --> 00:55:05,295
+Senhoras, eles são abraçáveis,
+ele são beijáveis. Não lavados, garotas...
+
+741
+00:55:05,368 --> 00:55:08,030
+lençóis não lavados do Beatles...
+e todos eles por apenas um dólar!
+
+742
+00:55:08,104 --> 00:55:10,129
+Maiores e melhores!
+Lençóis dos Beatles!
+Você tem um do John?
+
+743
+00:55:10,206 --> 00:55:12,231
+Do John. Aqui, um do John.
+Um dólar.
+Você tem um do George?
+
+744
+00:55:12,309 --> 00:55:14,971
+Aqui, um do George.
+Um dólar.
+Hei, tem certeza que estes são verdadeiros?
+
+745
+00:55:15,045 --> 00:55:17,741
+Estes não parece com aqueles
+que eles estão vendendo logo ali.
+Isso porque os deles são mais novos.
+
+746
+00:55:17,814 --> 00:55:21,079
+Eles acabaram de vir das camas dos Beatles
+esta exata manhã.
+Vejam com eles estão amassados!
+
+747
+00:55:21,151 --> 00:55:24,518
+Okay. Mais alguém?
+Eu quero comprar 40 pratas pro
+fã clube inteiro.
+
+748
+00:55:24,587 --> 00:55:27,750
+Dez pratas de cada Beatle.
+Dez pratas de cada Beatle?
+
+749
+00:55:27,824 --> 00:55:30,759
+Bem.. veja bem.
+Eu só tenho 23 aqui,
+mas tenho como conseguir mais.
+
+750
+00:55:30,827 --> 00:55:32,795
+Eu encontro com você aqui
+dentro de dez minutos, okay?
+Okay!
+
+751
+00:55:32,862 --> 00:55:35,854
+Hei. Quer comprar algum lençol dos Beatles?
+Eles dormiram neles.
+
+752
+00:55:35,932 --> 00:55:38,230
+Por um dólar?
+
+753
+00:55:38,301 --> 00:55:41,600
+Hei. Você gostaria de comprar lençóis
+dos Beatles por apenas um dólar?
+
+754
+00:55:45,608 --> 00:55:48,543
+Por amor de Deus, Dubois,
+que diabos você está fazendo?
+
+755
+00:55:48,611 --> 00:55:52,377
+Eu estou vendendo lençóis dos beatles.
+Isso eu posso ver.
+
+756
+00:55:52,449 --> 00:55:57,352
+Puxa! Como foi que você conseguiu isso?
+Você ficou parado lá na rua com a mão
+cheia de trapos como um maldito mendigo?
+
+757
+00:55:57,420 --> 00:56:00,321
+Você não tem respeito próprio?
+Livre-se dessa merda!
+
+758
+00:56:01,324 --> 00:56:03,986
+Que droga, Dubois.
+Como você pode se tornar um "batedor
+de carteiras" desse jeito?
+
+759
+00:56:04,060 --> 00:56:07,393
+Você sabe que ela fez de você
+um completo idiota. Você sabe disso, não sabe?
+Uma droga de um estúpido!
+
+760
+00:56:07,464 --> 00:56:11,025
+Yeah. Eu só tava querendo
+conseguir algumas fotos para ele, Tony.
+Quero dizer, ela precisa das fotos...
+
+761
+00:56:11,101 --> 00:56:14,628
+Yeah, yeah, yeah, yeah.
+Eu sei que isso não é culpa sua.
+É que isso é... ser puxa-saco.
+
+762
+00:56:14,704 --> 00:56:19,607
+É como se a droga do mundo inteiro
+estivesse sacudindo ou coisa parecida.
+
+763
+00:56:19,676 --> 00:56:25,046
+Você sabe o que me aconteceu hoje?
+Eu tentei ficar com sete garotas diferente. Sete.
+
+764
+00:56:25,115 --> 00:56:28,209
+E todas elas me mandaram pastar.
+Me mandaram a merda! mas uma semana atrás,
+isso nunca teria acontecido.
+
+765
+00:56:28,284 --> 00:56:31,219
+Eu sou um bobalhão. Eu tive
+que vir até aqui e ver todo essa porcaria.
+
+766
+00:56:31,287 --> 00:56:34,484
+Alguma coisa precisa ser feita.
+Alguma coisa precisa ser feita
+pra parar isso...
+
+767
+00:56:34,557 --> 00:56:37,253
+Eu não sei o que...
+mas isso precisa ser feito agora
+antes que isso se espalhe mais.
+
+768
+00:56:37,327 --> 00:56:40,922
+Isso é como uma droga de doença, pelo amor de Deus!
+Você está entendendo tudo que estou dizendo aqui?
+
+769
+00:56:40,997 --> 00:56:44,865
+Yeah. Yeah.
+Bem, Vou voltar de volta para o carro, Tony, então...
+
+770
+00:56:46,503 --> 00:56:49,995
+Yeah. Pode ir.
+Vá logo. Eu vou... pensar sobre essa merda toda.
+
+771
+00:56:50,073 --> 00:56:55,773
+#We love you, Beatles
+oh, yes, we do #
+
+772
+00:56:55,845 --> 00:56:59,679
+#We don't love anyone
+as much as you #
+
+773
+00:56:59,749 --> 00:57:04,277
+#When you're not near us
+we're blue #
+
+774
+00:57:04,354 --> 00:57:08,085
+# Oh, Beatles, we love you #
+
+775
+00:57:08,158 --> 00:57:12,424
+#We love you, Beatles
+oh, yes, we do ##
+
+776
+00:57:26,042 --> 00:57:29,569
+Bem, se ninguém quer comprar nada,
+então onde está os lençóis?
+
+777
+00:57:29,646 --> 00:57:32,877
+Bem, eu, uhhh... eu não sei.
+Eu me desfiz deles.
+
+778
+00:57:32,949 --> 00:57:35,747
+Que droga, Larry.
+Venha aqui, então.
+
+779
+00:57:35,819 --> 00:57:39,983
+Me ajude a rasgar esta merda.
+Só mais 17 pedaços, e eu vou pra
+casa de graça.
+
+780
+00:57:41,191 --> 00:57:43,250
+<i>#I got arms that long to hold you #</i>
+
+781
+00:57:43,326 --> 00:57:46,261
+<i>#And keep you by my side #</i>
+
+782
+00:57:46,329 --> 00:57:50,322
+<i>#I got lips that long to kiss you #</i>
+
+783
+00:57:50,400 --> 00:57:53,335
+<i>#And keep you satisfied #</i>
+
+784
+00:57:53,403 --> 00:57:55,735
+<i>#If there's anything that you want #
+Hi.</i>
+
+785
+00:57:55,805 --> 00:57:59,434
+<i>#If there's anything I can do #</i>
+
+786
+00:57:59,509 --> 00:58:02,137
+Grace?
+Você poderia cortar isso?
+
+787
+00:58:02,212 --> 00:58:05,272
+Grace?
+<i>#And I'll send it along
+with love from me to you #</i>
+
+788
+00:58:05,348 --> 00:58:08,476
+Mexa essas mãos, miolo mole.
+O que?
+
+789
+00:58:08,551 --> 00:58:11,019
+Nossos dinheiro.
+Esses são falsos.
+
+790
+00:58:12,222 --> 00:58:15,783
+Oh, deve ter alguma coisa errada aqui.
+Droga. Veja isso aqui.
+
+791
+00:58:15,859 --> 00:58:19,295
+Eu sei, de fato, que eles não usam
+lençóis da "J.C. Penney's" no hotel.
+
+792
+00:58:19,362 --> 00:58:22,388
+Isso eu te juro...
+Eu já te disse que esses lençóis
+são genuínos. Eles realmente são.
+
+793
+00:58:22,465 --> 00:58:25,923
+Dá o nosso dinheiro de volta
+ou nós vamos arrebentar a tua cara.
+Hei, hei.
+
+794
+00:58:26,002 --> 00:58:29,267
+Vamos lá, garotas.
+Vamos... vamos ser razoáveis.
+
+795
+00:58:29,339 --> 00:58:32,706
+Escuta aqui seu magricelo
+Eu vou partir a tua cara.
+
+796
+00:58:32,775 --> 00:58:38,179
+Grace, acho que eles tem razão.
+<i>#If there's anything
+that you want #</i>
+
+797
+00:58:38,248 --> 00:58:41,308
+<i>#If there's anything I can do #</i>
+
+798
+00:58:41,384 --> 00:58:44,876
+<i>#Just call on me
+and I'll send it along #</i>
+
+799
+00:58:44,954 --> 00:58:48,355
+<i># With love from me to you #
+Looks like
+you're out of business.</i>
+
+800
+00:58:48,424 --> 00:58:51,689
+<i># To you, to you #</i>
+
+801
+00:58:51,761 --> 00:58:53,752
+<i># To you ##</i>
+
+802
+00:58:55,198 --> 00:58:57,723
+<i>Okay. Continuamos aqui na  T.C.B.
+cuidando dos negócios...</i>
+
+803
+00:58:57,800 --> 00:59:00,291
+<i>e assim cobrimos este fabuloso
+final de semana dos Beatles.</i>
+
+804
+00:59:00,537 --> 00:59:04,974
+<i>E provavelmente você não ouviu
+o que aconteceu lá...
+e nem toda a gritaria...<i>
+
+805
+00:59:05,041 --> 00:59:10,206
+<i>porque há 33 minutos atrás, todos
+que estavam aqui com essa multidão saíram...</i>
+
+806
+00:59:10,280 --> 00:59:13,113
+<i>Isso porque os Beatles estão
+indo para o show do Ed Sullivan...</i>
+
+807
+00:59:13,182 --> 00:59:16,117
+para a primeira apresentação
+na TV em solo dos Estados Unidos.
+
+808
+00:59:16,185 --> 00:59:18,176
+E você quer ver isso.
+E eu vou estar lá.
+
+809
+00:59:25,395 --> 00:59:28,762
+Hey Grace, você ouviu sobre
+o baile dos namorados nesta
+sexta-feira a noite?
+
+810
+00:59:28,831 --> 00:59:33,131
+Sei tudo sobre isso, Larry.
+Por que você não vai beber alguma coisa, okay?
+
+811
+00:59:33,202 --> 00:59:36,660
+É melhor não. Sabe o que dizem
+sobre beber e dirigir.
+
+812
+00:59:36,739 --> 00:59:40,004
+Frankie? Yeah.
+Estive pensando.
+
+813
+00:59:40,076 --> 00:59:43,341
+Estou feliz que ainda tenha contato com você.
+Ainda tenho algumas horas
+antes de deixar a cidade,
+
+814
+00:59:43,413 --> 00:59:47,543
+e eu poderia usar um pouco da sua companhia,
+sabe o que quero dizer, não?
+
+815
+00:59:47,617 --> 00:59:50,245
+Você sabe, Grace, isso é um pouco difícil...
+Yeah. Ginger está disponível?
+
+816
+00:59:50,320 --> 00:59:54,620
+Eu tive sorte de poder pensar
+em tudo que nós passamos juntos.
+E a de cabeça vermelha? Como é mesmo o nome dela?
+
+817
+00:59:54,691 --> 00:59:57,023
+Judy. Yeah. Ela está... Não.
+
+818
+00:59:57,093 --> 01:00:02,156
+De qualquer jeito o que você acha, Frankie.
+Faz tanto tempo que ela está do lado de outros,
+sabe o que quero dizer, não?
+
+819
+01:00:02,231 --> 01:00:06,600
+Um colégio misto?
+É, bem, você provavelmente vai estar ocupado,
+então esqueça.
+
+820
+01:00:06,669 --> 01:00:11,697
+Shh.
+Hey, nem brinque!
+
+821
+01:00:12,775 --> 01:00:15,300
+Hey, yeah. Tudo bem.
+Quarto 909.
+
+822
+01:00:15,378 --> 01:00:18,142
+Mm-hmm. Muito bom.
+Por que você não manda ela pra lá?
+
+823
+01:00:18,214 --> 01:00:20,978
+Yeah. Que tal...
+daqui a uma hora?
+
+824
+01:00:21,050 --> 01:00:23,018
+Yeah.
+
+825
+01:00:23,086 --> 01:00:25,816
+Daqui a meia hora seria melhor, Frankie. Yeah.
+
+826
+01:00:25,888 --> 01:00:29,585
+Obrigado, Frankie.
+
+827
+01:00:29,659 --> 01:00:32,287
+Grace, está ficando meio tarde,
+talvez fosse melhor a gente ir.
+
+828
+01:00:32,362 --> 01:00:36,389
+Larry, que idade acha que tenho?
+
+829
+01:00:38,401 --> 01:00:44,135
+Não sei.
+Quero dizer, acha que eu consigo
+passar por uma estudante colegial?
+
+830
+01:00:44,207 --> 01:00:47,802
+Claro. Claro.
+Você tem muita classe.
+
+831
+01:00:49,312 --> 01:00:55,114
+Larry, tem uma coisa que quero fazer.
+Eu quero que você me encontre aqui de novo
+daqui a uma hora.
+
+832
+01:00:55,184 --> 01:01:00,349
+Espere. Aonde você vai?
+Eu apenas pensei numa coisa.
+Eu poderia negociar.
+
+833
+01:01:00,423 --> 01:01:03,551
+Por que você não me disse?
+Talvez eu pudesse negociar também.
+
+834
+01:01:03,626 --> 01:01:08,222
+Acho que não, Larry.
+Só espere por mim, okay?
+
+835
+01:01:08,297 --> 01:01:13,701
+Grace, você não pode!
+Eu não posso te deixar fazer isso.
+
+836
+01:01:13,770 --> 01:01:16,762
+Fazer o que?
+Você sabe.
+
+837
+01:01:16,839 --> 01:01:19,399
+O que?
+Você sabe.
+
+838
+01:01:19,475 --> 01:01:24,071
+Larry, eu sei exatamente
+o que eu estou fazendo,
+então apenas relaxe.
+
+839
+01:01:24,147 --> 01:01:28,811
+Volte para o que estava fazendo e
+termine tudo, okay?
+E me encontre aqui daqui a pouco.
+
+840
+01:01:28,885 --> 01:01:33,879
+Bem, Grace,
+pense bem no que está fazendo.
+Quero dizer, isso é... isso é pecado.
+
+841
+01:01:39,495 --> 01:01:41,486
+Ohh.
+
+842
+01:01:44,701 --> 01:01:46,692
+Você nunca poderá voltar atrás.
+
+843
+01:01:54,277 --> 01:01:57,110
+Oh, merda.
+Deixei cair minha "pneumonia."
+
+844
+01:02:05,822 --> 01:02:08,518
+Hey, espera aí.
+
+845
+01:02:10,359 --> 01:02:13,760
+Tudo bem.
+Você fique longe daqui.
+Está louca?
+
+846
+01:02:13,830 --> 01:02:16,993
+Aquele cara me odeia.
+Ele não vai fazer nada...
+não pra mim.
+
+847
+01:02:17,066 --> 01:02:20,558
+Não, mas provavelmente ele faça isso por mim.
+
+848
+01:02:22,805 --> 01:02:25,774
+Três dos Beatles fizeram um passeio
+no Central Park, ontem...
+
+849
+01:02:25,842 --> 01:02:28,709
+enquanto o George estava de cama
+cuidando de uma inflamação na garganta.
+
+850
+01:02:28,778 --> 01:02:32,407
+<i>Notícias que o George...</i>
+Hey! Hey, o que você está fazendo?
+Eu estou assistindo isso.
+
+851
+01:02:32,482 --> 01:02:35,883
+Sinto muito. É hora do show.
+Mas não parece que entendeu!
+
+852
+01:02:35,952 --> 01:02:40,821
+O show do Ed Sullivan está pra começar.
+Querida, nós temos nosso próprios problemas.
+
+853
+01:02:40,890 --> 01:02:45,122
+Quando aquele show começar lá,
+trem vai partir. É uma regra.
+When that show goes on in there,
+
+854
+01:02:45,194 --> 01:02:49,062
+Ohhh. Bem, quando é que isso vai acontecer?
+
+855
+01:02:49,132 --> 01:02:51,692
+Meia-noite.
+
+856
+01:02:51,768 --> 01:02:54,134
+Quer um outro?
+
+857
+01:03:02,278 --> 01:03:06,874
+Pro inferno com isso.
+Não quero mais escutar isso.
+Espera! Eu vou te contar! Só ouça!
+
+858
+01:03:06,949 --> 01:03:10,077
+Este cara é o pai do garoto.
+E na carteira dele estão os ingressos
+para o show dos Beatles.
+
+859
+01:03:10,153 --> 01:03:12,587
+Isso é tudo que queremos
+Você pode ficar com o dinheiro dele.
+O que você me diz?
+
+860
+01:03:12,655 --> 01:03:14,589
+Eu digo que você pode ficar
+com todo o dinheiro dele.
+Não, não, não, não.
+
+861
+01:03:14,657 --> 01:03:18,821
+Você disse alguma coisa sobre ingressos.
+Os ingressos para o show do Ed Sullivan.
+Isso é tudo que precisamos.
+
+862
+01:03:18,895 --> 01:03:21,864
+Quantos ingressos ele tem?
+Três.
+
+863
+01:03:27,570 --> 01:03:30,505
+Eu faço,
+mas eu quero um dos ingressos.
+
+864
+01:03:30,573 --> 01:03:34,441
+Sinto muito, realmente sinto.
+Isso foi apenas um acidente.
+Eu não queria vir até aqui...
+
+865
+01:03:34,510 --> 01:03:36,501
+e me meter em confusão
+ou qualquer coisa parecida.
+
+866
+01:03:36,579 --> 01:03:39,377
+Eu nem mesmo queria ter vindo aqui hoje.
+Eles me fizeram fazer isso.
+
+867
+01:03:39,448 --> 01:03:42,315
+Isto não me agrada nem um pouco.
+Quero dizer, eu apenas não
+faço coisas como estas,
+
+868
+01:03:42,385 --> 01:03:44,979
+e isso tudo
+é muito confuso pra mim.
+
+869
+01:03:45,054 --> 01:03:49,457
+Você tem que acreditar em mim, por favor.
+Eu acredito. Tudo bem. Tudo bem.
+
+870
+01:03:49,525 --> 01:03:52,153
+Veja, todo mundo vai ficar bem.
+
+871
+01:03:52,228 --> 01:03:54,992
+Agora, você conhece alguém
+que possa chamar e te pegar aqui?
+
+872
+01:03:55,064 --> 01:03:58,556
+Tem um telefone logo ali.
+Por que você não vai lá e faz a chamada?
+
+873
+01:04:00,036 --> 01:04:02,903
+Sargento.
+
+874
+01:04:02,972 --> 01:04:05,304
+Veja todo esse lixo.
+
+875
+01:04:06,375 --> 01:04:09,105
+Isso é um "pássaro" embaixo da cama do Lennon?
+Um "pássaro"?
+
+876
+01:04:09,178 --> 01:04:11,112
+Uma garota.
+Garota. Garota. É ela.
+
+877
+01:04:11,180 --> 01:04:14,343
+Bem, eu já falei pro Brian.
+É muito importante que permaneça aqui
+por mais alguns momentos, okay?
+
+878
+01:04:14,417 --> 01:04:16,351
+Não brinca.
+Eu te peço desculpas?
+
+879
+01:04:16,419 --> 01:04:21,186
+Uh, sem problema.
+Alô? Eddie?
+Você pode vir aqui e me pegar, por favor?
+
+880
+01:04:24,460 --> 01:04:27,793
+<i># The best things in life
+are free #</i>
+
+881
+01:04:27,864 --> 01:04:30,389
+<i>#But you can keep 'em
+for the birds and bees #</i>
+
+882
+01:04:30,466 --> 01:04:34,368
+<i>#Now, give me money #
+# That's what I want #</i>
+
+883
+01:04:34,437 --> 01:04:38,100
+<i># That's what I want #
+# That's what I want #</i>
+
+884
+01:04:38,174 --> 01:04:41,803
+<i># That's what I wa-a-a-ant, yeah #</i>
+
+885
+01:04:42,812 --> 01:04:46,509
+<i># That's what I want #</i>
+
+886
+01:04:46,582 --> 01:04:50,143
+<i># Your lovin'give me a thrill #</i>
+
+887
+01:04:50,219 --> 01:04:52,915
+<i>#But your lovin'
+don't pay my bills #</i>
+
+888
+01:04:52,989 --> 01:04:56,618
+<i>#Now, give me money #
+# That's what I want #</i>
+
+889
+01:04:56,692 --> 01:05:00,423
+<i># That's what I want #
+# That's what I want #</i>
+
+890
+01:05:00,496 --> 01:05:05,263
+<i># That's what I want
+oh, yeah #
+# That's what I want #</i>
+
+891
+01:05:05,334 --> 01:05:08,997
+<i># That's what I want ##</i>
+
+892
+01:05:29,859 --> 01:05:33,420
+O que?
+
+893
+01:06:29,352 --> 01:06:31,616
+Capturada como um rato.
+
+894
+01:06:31,687 --> 01:06:36,989
+Hei, espera um minuto. Eu disse
+que cortaria o cabelo, mas não
+esperava ter que pagar por isso, 
+você vai não pagar?
+
+895
+01:06:39,895 --> 01:06:43,558
+Okay. E não se esqueça de me
+devolver os ingressos.
+
+896
+01:06:45,368 --> 01:06:47,427
+Tudo acertado então.
+
+897
+01:06:51,741 --> 01:06:54,733
+Vamos lá?
+
+898
+01:06:54,810 --> 01:06:57,779
+Sete, por favor.
+
+899
+01:06:57,847 --> 01:07:01,783
+</i>#There's a place
+There's a place #</i>
+
+900
+01:07:01,851 --> 01:07:06,481
+</i>Hey, baby, aqui é o "K."
+Eu estou interrompendo meu próprio programa para 
+dar a vocês um importante boletim sobre os Beatles.</i>
+
+901
+01:07:06,555 --> 01:07:10,514
+</i> Eu acabo de descobrir outro par
+de ingressos para o Ed Sullivan que eu
+esqueci de dar para vocÊs.</i>
+
+902
+01:07:10,593 --> 01:07:12,584
+</i>Agora, já que estamos com apenas
+pouco minutos longe do começo do show,</i>
+
+903
+01:07:12,661 --> 01:07:16,392
+</i>os parceiros que estiverem perto da CBS
+digo a vocês  que ainda podem ir mesmo
+que você chegarem alguns minutos atrasados,</i>
+
+904
+01:07:16,465 --> 01:07:19,923
+</i>providenciando, é claro, a resposta correta 
+para a nossa última pergunta.</i>
+
+905
+01:07:20,002 --> 01:07:22,095
+</i> Por favor! Apressem-se!
+Tenho mais sete minutos!</i>
+
+906
+01:07:22,171 --> 01:07:26,699
+</i>Se você mora fora da ilha, no condado de
+If you live out on the Island,
+Westchester, Jersey, de qualquer jeito,
+não telefone já que não vai conseguir ir ao show.</i>
+
+907
+01:07:26,776 --> 01:07:29,267
+</i>Tudo bem. Aqui vamos nós com
+uma pergunta bem difícil sobre os Beatles.</i>
+
+908
+01:07:29,345 --> 01:07:34,305
+</i>Qual Beatle em particular é
+ao mesmo tempo o mais velho e o 
+membro mais novo...</i>
+
+909
+01:07:34,383 --> 01:07:40,083
+Ohh!
+</i># I wanna be your lover, baby
+I wanna be your man #</i>
+
+910
+01:07:40,156 --> 01:07:43,683
+</i># I wanna be your lover, baby #</i>
+Ow! Ooh!
+
+911
+01:07:43,759 --> 01:07:47,320
+Sorry.
+</i># Love you like no other, baby #</i>
+
+912
+01:07:47,396 --> 01:07:49,762
+<i>#Like no other can #</i>
+
+913
+01:07:49,832 --> 01:07:54,860
+<i>#Love you like no other, baby
+like no other can #</i>
+
+914
+01:07:54,937 --> 01:07:57,030
+<i>#I wanna be your man #</i>
+
+915
+01:07:57,106 --> 01:08:00,667
+<i>#I wanna be your man #
+Oh, please, God. Let me get through.
+Please let me get through.</i>
+
+916
+01:08:03,712 --> 01:08:07,045
+</i>Yo. Qual Beatles é ao mesmo tempo
+o mais velho e o mais novo?</i>
+
+917
+01:08:07,116 --> 01:08:10,142
+Ringo?
+</i>Espere....
+Ringo?</i>
+
+918
+01:08:10,219 --> 01:08:12,244
+</i>Sim.
+Esta correta!</i>
+
+919
+01:08:12,321 --> 01:08:15,017
+</i>Seus ingressos estarão esperando
+por você no teatro do Ed Sullivan.</i>
+
+920
+01:08:15,091 --> 01:08:17,286
+</i>Qual o seu nome, baby?
+qual o seu nome?</i>
+
+921
+01:08:17,359 --> 01:08:19,725
+Rosie!
+É Rosie Petrofsky!
+
+922
+01:08:19,795 --> 01:08:22,025
+</i>Tudo bem, Rosie! Você é a vencedora!
+Meus parabéns!</i>
+
+923
+01:08:22,098 --> 01:08:24,589
+Oh, obrigado!
+Muito.. muito obrigado!
+
+924
+01:08:24,667 --> 01:08:27,363
+Obrigado por ter me deixado usar seu telefone.
+
+925
+01:08:31,173 --> 01:08:35,473
+Eu ganhei.
+</i># I wanna be your man
+I wanna be your man #</i>
+
+926
+01:08:40,316 --> 01:08:42,409
+Oh... Oh!
+
+927
+01:08:48,858 --> 01:08:52,658
+Lobby, por favor.
+</i># I wanna be your lover, baby #</i>
+
+928
+01:08:52,728 --> 01:08:55,162
+<i>#I wanna be your man #</i>
+
+929
+01:08:55,231 --> 01:08:59,998
+<i>#I wanna be your lover, baby
+I wanna be your man #</i>
+
+930
+01:09:00,069 --> 01:09:03,402
+<i>#Love you like no other, baby ##</i>
+
+931
+01:09:05,908 --> 01:09:11,107
+O que houve? O que tem
+de errado com esse elevador?
+
+932
+01:09:11,180 --> 01:09:13,978
+Você!
+Olá, Rosie.
+
+933
+01:09:14,049 --> 01:09:16,984
+Você explodiu-o!
+Você quebrou o elevador!
+
+934
+01:09:17,052 --> 01:09:21,648
+Calma. Relaxe. Eu vou consertá-lo num instante.
+Eu sobre tudo o que há pra saber sobre elevadores.
+
+935
+01:09:23,592 --> 01:09:27,358
+Você o quebrou!
+Você o quebrou de propósito!
+Espere um minuto. Eu sei.
+
+936
+01:09:27,429 --> 01:09:31,832
+Apenas me deixe consertar isso aqui.
+Socorro!
+Alguém nos tire daqui!
+
+937
+01:09:31,901 --> 01:09:34,734
+Nos estamos presos!
+Oh, estou arruinada!
+
+938
+01:09:34,803 --> 01:09:37,738
+Minha vida inteira está em ruínas!
+
+939
+01:09:37,806 --> 01:09:42,004
+Não se preocupe.
+Eu vou conseguir tirar a gente dessa confusão.
+Alguém do hotel provavelmente está vindo nos salvar.
+
+940
+01:09:42,077 --> 01:09:47,379
+Eles vão vir e vão nos resgatar 
+como uma cavalaria. Não se preocupe.
+Não é como se nós fossemos sufocar.
+
+941
+01:09:47,449 --> 01:09:50,350
+Tem um monte de ar fresco por aqui.
+
+942
+01:09:50,619 --> 01:09:55,215
+Oh, antes que eu me esqueça...
+Tenho uma pequena coisa que talvez seja 
+de interessante de vocês garotos e minha,
+Oh, before I forget...
+Here's a little something for you
+on behalf of the boys and myself,
+
+943
+01:09:55,291 --> 01:09:57,919
+apenas para mostrar que não tenho ressentimentos.
+
+944
+01:09:57,993 --> 01:10:02,521
+É um passe para a performance dos "caras"
+hoje de noite.
+Oh, meu Deus!
+
+945
+01:10:02,598 --> 01:10:05,795
+Obrigado.
+Oh, a propósito, tem um monte de
+repórteres lá em baixo.
+
+946
+01:10:05,868 --> 01:10:10,737
+Eles gostariam de falar com você um pouquinho.
+Você não tem nenhuma objeção, tem?
+
+947
+01:10:10,806 --> 01:10:13,468
+Repórteres? Bem...
+Bem, o que eles iriam querer
+falar comigo?
+
+948
+01:10:13,542 --> 01:10:15,669
+Eles apenas querem fazer 
+algumas pouca perguntas.
+
+949
+01:10:17,012 --> 01:10:20,504
+Você deve ser o Al. Oi, eu sou a Cindy.
+Oi, Cindy. Eu estou contente que você conseguiu.
+
+950
+01:10:20,583 --> 01:10:22,813
+Uh, posso...
+posso pegar o seu casaco?
+
+951
+01:10:22,885 --> 01:10:24,819
+Yeah. Claro.
+Posso pegar uma bebida pra você?
+
+952
+01:10:24,887 --> 01:10:27,879
+Uma Coca, por favor.
+[Man Announcing]
+
+953
+01:10:27,957 --> 01:10:31,017
+Bem, que tipo de festa você
+tem em mente, Al?
+
+954
+01:10:31,093 --> 01:10:36,156
+Bem, uh, na realidade, Cindy,
+é mais como se fosse um piquenique.
+
+955
+01:10:36,232 --> 01:10:38,325
+Veja aquilo.
+
+956
+01:10:38,400 --> 01:10:42,302
+Tudo bem. Ela provavelmente vai
+entrar numa daquela casa.
+
+957
+01:10:42,371 --> 01:10:45,534
+Ela está entrando numa daquela casa.
+
+958
+01:10:45,608 --> 01:10:48,441
+É tudo culpa sua.
+
+959
+01:10:54,116 --> 01:10:58,075
+Hey. Aqui vem ela.
+Que tal um grande sorriso para a câmera?
+
+960
+01:10:58,153 --> 01:11:01,816
+Aqui vai você.
+Como é se sentir no
+foco das atenções?
+
+961
+01:11:01,890 --> 01:11:06,918
+Você poderia fazer isso de novo?
+Eu não sei. Eu não...
+
+962
+01:11:06,996 --> 01:11:09,897
+Parada exatamente aí.
+Era isso. Obrigada.
+
+963
+01:11:12,468 --> 01:11:15,528
+<i>Diferentes gerações estão aqui.</i>
+
+964
+01:11:17,373 --> 01:11:21,207
+Okay. Vocês da frente poderiam se sentar
+para que aqueles que estão atrás se beneficiem?
+
+965
+01:11:21,277 --> 01:11:24,371
+Obrigado. Agora, eu gostaria
+que apresentar a vocês esta jovem moça...
+
+966
+01:11:24,446 --> 01:11:27,506
+Eu lhe mostro: senhorita Pam Mitchell.
+
+967
+01:11:27,583 --> 01:11:30,450
+</i>Como é se sentir a fã número um dos
+Beatles aqui em New Your?</i>
+
+968
+01:11:38,527 --> 01:11:42,486
+<i>Senhorita Mitchell?
+Senhorita Mitchell?</i>
+
+969
+01:11:42,564 --> 01:11:46,056
+Milhões de jovem garotas em 
+todo o pais sonham com o que
+você conseguiu hoje.
+
+970
+01:11:46,135 --> 01:11:48,501
+Talvez você gostaria de lhes dizer...
+Como você se sente...
+
+971
+01:11:48,570 --> 01:11:52,700
+É verdade que tudo começou
+no quarto dos Beatles no hotel?
+
+972
+01:11:52,775 --> 01:11:54,800
+Bem, eu, um...
+
+973
+01:11:55,811 --> 01:11:59,713
+É meio difícil colocar 
+isso em palavras, mas...
+
+974
+01:11:59,782 --> 01:12:03,274
+Eu acho que isso... isso foi...
+
+975
+01:12:05,120 --> 01:12:07,987
+isso foi maravilhoso.
+
+976
+01:12:08,057 --> 01:12:11,754
+A mais maravilhosa sensação que eu
+já tive em toda a minha vida.
+
+977
+01:12:11,827 --> 01:12:15,490
+Al, você se importaria
+se eu ligasse no Ed Sullivan?
+É porque os Beatles vão estar lá
+
+978
+01:12:15,564 --> 01:12:18,192
+Eu não me importo.
+Tudo que você quiser.
+Obrigada.
+
+979
+01:12:18,267 --> 01:12:21,134
+Tente ajustar num desses aqui.
+[Static]
+
+980
+01:12:21,203 --> 01:12:26,368
+Obrigado.
+Muito obrigado. Yeah.
+Algo muito bom acaba de acontecer aqui.
+
+981
+01:12:26,442 --> 01:12:31,744
+Os Beatles conseguiram uma verdadeira
+façanha aqui, e porque nós recebemos influência
+ou eles receberam...
+
+982
+01:12:31,814 --> 01:12:34,749
+do Elvis Presley
+e do coronel Tom Parker...
+
+983
+01:12:34,817 --> 01:12:38,378
+desejando deles
+o mais estrondoso sucesso
+em nosso pais.
+
+984
+01:12:38,454 --> 01:12:41,548
+Eu acho que foi realmente,
+realmente muito bom.
+
+985
+01:12:41,623 --> 01:12:44,717
+Agora, como vocês devem saber,
+esta temporada em particular tem
+sido de muitos, muitos atos excitantes,
+
+986
+01:12:44,793 --> 01:12:49,526
+Como do pequeno rato italiano,
+Topo Gigio, Belgium's Singing Nun,
+Sister Sourire...
+
+987
+01:12:49,598 --> 01:12:55,298
+Bem, crianças, parece que seus pais
+realmente estão orgulhosos de vocês agora.
+
+988
+01:12:55,371 --> 01:12:58,135
+O show do Sullivan já começou.
+Você deve ir de volta pra casa.
+
+989
+01:12:58,207 --> 01:13:02,075
+Oh, no. Eles iam deixar a gente entrar,
+mesmo que fosse tarde, da mesma maneira
+de como conseguimos os ingressos, okay?
+
+990
+01:13:05,047 --> 01:13:08,483
+Me dê um dos meus genuínos lençóis
+dos Beatles. Você pode ter um do Paul.
+
+991
+01:13:08,550 --> 01:13:12,111
+Eu vou senti falta
+do show do Ed Sullivan.
+Não.
+
+992
+01:13:12,187 --> 01:13:14,678
+Não tem jeito da gente perder
+o show do Ed Sullivan.
+Eu sei onde tem uma TV,
+
+993
+01:13:14,757 --> 01:13:16,691
+e de qualquer forma,
+os Beatles são a última atração.
+
+994
+01:13:16,759 --> 01:13:20,160
+Eles sempre deixam por último a melhor atração.
+Desse jeito você vai se sentar e ainda
+assistir todos aqueles comerciais.
+
+995
+01:13:20,229 --> 01:13:23,596
+Eu tenho ingressos para vê-los em pessoa.
+
+996
+01:13:23,665 --> 01:13:25,826
+Eu os ganhei no rádio!
+
+997
+01:13:25,901 --> 01:13:28,836
+Yeah, bem,
+era isso que eu estava dizendo.
+
+998
+01:13:28,904 --> 01:13:32,135
+Nós estamos... não... espere...
+Nós estamos presos!
+
+999
+01:13:32,207 --> 01:13:36,007
+Oh, por favor, tire a gente daqui!
+Alguém nos resgate!
+Estamos presos igual a ratos!
+
+1000
+01:13:38,480 --> 01:13:41,278
+Tudo bem. Tudo limpo.
+Tudo bem. Volte.
+
+1001
+01:13:41,350 --> 01:13:43,375
+Tudo bem. Segure-se.
+Abra logo.
+
+1002
+01:13:43,452 --> 01:13:46,751
+Pam, você conseguiu tocá-los?
+Posso te tocar aonde você tocou neles?
+Eu não encostei neles.
+
+1003
+01:13:46,822 --> 01:13:48,790
+POsso ter o seu autógrafo?
+Claro.
+
+1004
+01:13:48,857 --> 01:13:53,021
+Pam, podemos ter o seu autógrafo?
+Assine meu programa.
+
+1005
+01:13:55,531 --> 01:13:58,364
+É melhor você se apressar
+se quiser ver o show.
+Posso tocar em você?
+
+1006
+01:14:02,604 --> 01:14:05,038
+Com licença.
+Tchau.
+
+1007
+01:14:05,107 --> 01:14:07,667
+Tchau-tchau. Cuide-se
+Tchau.
+
+1008
+01:14:07,743 --> 01:14:10,678
+Quem é aquele cara?
+Oh, aquele é o Neil.
+Ele é bem legal. Você gostaria dele.
+
+1009
+01:14:10,746 --> 01:14:13,442
+Yeah, vamos lá. Você me preocupou;
+Espero que saiba disso.
+Sinto muito,
+
+1010
+01:14:13,515 --> 01:14:15,574
+mas hoje
+foi tão inacreditavelmente importante...
+
+1011
+01:14:15,651 --> 01:14:19,246
+Eu vou deixar pra lá dessa vez,
+mas você deveria começar a agir
+de forma um pouco mais responsável.
+
+1012
+01:14:19,321 --> 01:14:22,188
+Você está me perseguindo.
+
+1013
+01:14:22,257 --> 01:14:25,522
+Pam, onde está o meu anel?
+
+1014
+01:14:25,594 --> 01:14:27,585
+O que?
+Meu anel.
+
+1015
+01:14:27,663 --> 01:14:32,066
+Um paguei cento e...
+Eu paguei U$175 pelo anel.
+Onde ele está?
+
+1016
+01:14:32,134 --> 01:14:36,503
+Está, hum... está no meu sapato.
+Eu o botei no meu sapato.
+
+1017
+01:14:36,572 --> 01:14:40,941
+Bem, tire ele da droga dos seus sapatos.
+Eu só pensei que seria o lugar mais seguro 
+pra ele quando eu estava correndo por aqui.
+
+1018
+01:14:41,009 --> 01:14:45,878
+Eu não pude pensar em qualquer
+outra coisa pra fazer com ele,
+uma vez que perdi a minha bolsa no caminho pra cá.
+
+1019
+01:14:45,948 --> 01:14:50,510
+Ela está no carro,
+e eu sinto muito, L...
+Venha. Vamos sair já daqui.
+
+1020
+01:14:54,056 --> 01:14:57,583
+Hey. Psst. Lá está ele.
+
+1021
+01:15:14,743 --> 01:15:18,235
+Hey, cuidado por onde você anda!
+Este é um pais livre.
+Posso andar aonde eu quero!
+
+1022
+01:15:18,313 --> 01:15:20,781
+Então ande numa via expressa!
+
+1023
+01:15:23,719 --> 01:15:25,778
+Okay. Venham. Vamos lá.
+Esperem. Tem os ingressos?
+
+1024
+01:15:25,854 --> 01:15:28,288
+Claro que eu tenho os ingressos!
+
+1025
+01:15:28,357 --> 01:15:32,316
+Vamos. Mostre-os.
+
+1026
+01:15:36,865 --> 01:15:39,732
+Não tem nenhum ingresso aqui!
+Vejam!
+
+1027
+01:15:41,937 --> 01:15:44,337
+Venha.
+Vamos logo.
+
+1028
+01:15:47,576 --> 01:15:51,205
+Não Pai!
+
+1029
+01:15:52,814 --> 01:15:54,805
+Não.
+
+1030
+01:15:57,619 --> 01:16:00,053
+Não.
+
+1031
+01:16:07,629 --> 01:16:11,030
+Pai! Oh, pai!
+Agora, sente-se ali!
+
+1032
+01:16:11,099 --> 01:16:14,364
+Eu disse senta ali!
+Oh, Jesus, Não.
+
+1033
+01:16:15,804 --> 01:16:19,240
+Eu disse pra ficar naquela cadeira.
+Você quer ver aquele show ou não?
+
+1034
+01:16:19,308 --> 01:16:23,642
+Veja isto. Você já viu um
+corte de cabelo como este antes?
+Uh-uh.
+
+1035
+01:16:23,712 --> 01:16:26,704
+Isso não é um troço? Gostaria de
+ter um filho como este?
+Uh-uh.
+
+1036
+01:16:26,782 --> 01:16:30,411
+Cheguei na cidade na noite passada,
+e vi ele de costas...
+até pensei que era a minha filha.
+
+1037
+01:16:30,485 --> 01:16:33,852
+Mm.
+Eu a ele: "Se você não cortar o cabelo,
+você vai ficar marcado."
+
+1038
+01:16:33,922 --> 01:16:36,288
+Não é um troço?
+
+1039
+01:16:36,358 --> 01:16:39,452
+Mm-hmm.
+Tudo bem, então. Vamos trabalhar.
+
+1040
+01:16:41,296 --> 01:16:44,163
+Tudo bem.
+Agora, vá com calma.
+Ninguém vai te machucar.
+
+1041
+01:16:44,232 --> 01:16:47,395
+Agora, seja um homem,
+que tudo ficará bem.
+
+1042
+01:16:50,339 --> 01:16:52,899
+Aah.
+
+1043
+01:17:09,524 --> 01:17:11,822
+Tudo bem, criança.
+Como você vai querer?
+
+1044
+01:17:11,893 --> 01:17:16,660
+Eu quero que ele pareça com um marinheiro.
+
+1045
+01:17:49,197 --> 01:17:53,258
+Oh, meu Deus!
+Ele acabou de ser atropelado por um ônibus!
+
+1046
+01:17:53,335 --> 01:17:56,304
+L... Acho que ele está em choque!
+
+1047
+01:17:56,371 --> 01:18:01,001
+Senhor, por favor. Posso usar o seu casaco?
+Nós temos que mantê-lo coberto.
+
+1048
+01:18:04,446 --> 01:18:09,008
+Ele parece bem mau. Talvez fosse melhor
+você fazer uma ressucitação boca-a-boca.
+
+1049
+01:18:09,084 --> 01:18:11,780
+Uh, tudo bem. Uh, poderia chamar 
+uma ambulância, por favor?
+
+1050
+01:18:11,853 --> 01:18:14,947
+Tem um telefone logo ali no outro lado.
+Okay, Okay.
+Faça uma ressucitação boca-a-boca.
+
+1051
+01:18:15,023 --> 01:18:17,287
+Você ouviu o que eu disse?
+Faça uma ressucitação boca-a-boca.
+
+1052
+01:18:22,931 --> 01:18:26,799
+Mais oxigênio!
+
+1053
+01:18:38,113 --> 01:18:40,809
+Oh, bom. Vamos.
+Mas que...
+
+1054
+01:18:47,122 --> 01:18:50,182
+Alô? Alô?
+
+1055
+01:18:50,258 --> 01:18:52,954
+Aah. Ele está morto
+Ele está completamente morto,
+
+1056
+01:18:53,028 --> 01:18:55,622
+assim como tudo nessa armadilha.
+
+1057
+01:18:55,697 --> 01:18:58,996
+Eu sabia.
+Eu sabia que isso aconteceria.
+
+1058
+01:18:59,067 --> 01:19:04,334
+Isto é porque estou sendo punido.
+Eu estou sendo punido porque
+eu perdi Mass esta manhã.
+
+1059
+01:19:06,808 --> 01:19:09,800
+Hey, Uma escotilha
+Claro! Uma escotilha!
+
+1060
+01:19:09,878 --> 01:19:14,212
+Todos os elevadores devem ter escotilhas. É a lei!
+Com ela, você pode rastejar até o quinto andar!
+
+1061
+01:19:14,282 --> 01:19:17,376
+Oh, não. É melhor não.
+Isto parece um tanto perigoso.
+
+1062
+01:19:17,452 --> 01:19:20,012
+Perigosos?
+Por que? Isso aqui não é perigoso.
+
+1063
+01:19:20,088 --> 01:19:23,387
+Vou te dizer o que é perigoso...
+quando eu me joguei pelo parapeito
+da ponte de Long Island.
+
+1064
+01:19:23,458 --> 01:19:28,020
+Agora sim, isso foi perigoso.
+Isso não está nem se mexendo!
+
+1065
+01:19:39,941 --> 01:19:44,173
+Não. É por isso que eu estava com medo de...
+um engate seguro.
+
+1066
+01:19:44,246 --> 01:19:46,407
+Nunca conseguiremos abrir essas porta.
+
+1067
+01:19:46,481 --> 01:19:50,941
+Oh, Isto é desesperador.
+O show já começou.
+Talvez devêssemos esquecer sobre isso.
+
+1068
+01:19:51,019 --> 01:19:55,080
+Esquecer sobre isso?
+Esquecer sobre os Beatles?
+Você é um miolo-mole ou o que?
+
+1069
+01:19:55,157 --> 01:19:58,649
+O que mais podemos fazer?
+Nós devemos tentar tudo ao alcance.
+
+1070
+01:19:58,727 --> 01:20:01,890
+Isto é apenas uma lâmina de vidro
+de dois oitavos de polegadas.
+
+1071
+01:20:01,963 --> 01:20:07,731
+Estas portas são extremamente finas,
+como tudo neste pardieiro.
+Então?
+
+1072
+01:20:13,141 --> 01:20:15,302
+vamos!
+
+1073
+01:20:15,377 --> 01:20:18,312
+O que é que você está esperando?
+
+1074
+01:20:24,786 --> 01:20:28,051
+Apenas pense. Em poucas horas
+você vai ser a senhora Eddie Lupus.
+
+1075
+01:20:29,724 --> 01:20:33,251
+Senhora Eddie Lupus.
+Eu gosto do jeito que isso soa.
+
+1076
+01:20:33,328 --> 01:20:36,627
+Hey, isso vai ser a melhor coisa
+para as nossas vidas, senhora Lupus.
+
+1077
+01:20:36,698 --> 01:20:42,159
+E por que não seria?
+Eu tenho um ótimo trabalho. Heck, eu estou
+indo para o primeiro escalão de algo realmente grande.
+
+1078
+01:20:42,237 --> 01:20:46,571
+Este negócio de móveis de plásticos
+são coisas do futuro.
+Temos que economizar nos primeiros anos...
+
+1079
+01:20:46,641 --> 01:20:50,407
+e conseguiremos estar aptos
+para ter muito mais, mas quem se importa?
+
+1080
+01:20:50,478 --> 01:20:55,711
+Nós vamos ter um ao outro.
+Senhor e senhora Eddie Lupus,
+até que a morte nos separe.
+
+1081
+01:20:55,784 --> 01:20:58,617
+Eu prefiro ver os Beatles.
+O que?
+
+1082
+01:20:58,687 --> 01:21:01,850
+Eddie, pare o carro. Eu quero descer.
+Do que você está falando?
+
+1083
+01:21:01,923 --> 01:21:05,950
+Eu tenho este ingresso para ver os Beatles,
+e eu não quero perder isso.
+
+1084
+01:21:06,027 --> 01:21:11,863
+Nós vamos casar!
+Eu não posso fazer isso, Eddie.
+Eu não posso casar com você.
+
+1085
+01:21:11,933 --> 01:21:15,892
+O que foi que você disse?
+Que eu não quero casar com você.
+Eu não quero casar com mais ninguém.
+
+1086
+01:21:15,971 --> 01:21:18,303
+Pam, que diabos você esteve
+fazendo aqui em New York?
+
+1087
+01:21:18,373 --> 01:21:23,572
+Eu apenas descobri que existe muito mais
+coisas na vida pra mim do que o casamento.
+Mais coisas... como o que?
+
+1088
+01:21:23,645 --> 01:21:26,910
+Como os Beatles.
+Pamela!
+
+1089
+01:21:26,982 --> 01:21:29,815
+Pamela! Volte já pra cá!
+Você me ouviu?
+
+1090
+01:21:29,885 --> 01:21:32,080
+Você me ouviu?
+Volte já pra cá!
+
+1091
+01:21:32,721 --> 01:21:37,090
+<i>[Mulher narrando, indiscrições]
+[Al]
+Mais, mais. Oh, yeah.</i>
+
+1092
+01:21:37,158 --> 01:21:41,288
+<i>Mais rápido, mais rápido, mais rápido.
+Quando menos se espera, você é uma estrela.</i>
+
+1093
+01:21:41,363 --> 01:21:45,356
+<i>Não perca o "Candid Camera" está noite
+as 10:00, 9:00 na área Central, aqui na CBS.
+- Ooh, yeah.</i>
+
+1094
+01:21:45,433 --> 01:21:47,663
+<i>"Candid Camera". É isso!</i>
+
+1095
+01:21:47,736 --> 01:21:52,605
+Vamos, Larry.
+Vamos.
+
+1096
+01:22:09,090 --> 01:22:11,957
+Hey, Tony, o que você realmente
+que fazer com aquele ingresso?
+
+1097
+01:22:12,027 --> 01:22:14,552
+Eu já te digo. Eu vou estraçalhá-lo.
+Você se importa?
+
+1098
+01:22:14,629 --> 01:22:18,360
+Sabe, Rosie poderia realmente usar
+esse ingresso. Se você apenas ia 
+vendê-lo para um estranho qualquer...
+
+1099
+01:22:18,433 --> 01:22:23,427
+Veja, como é que vou encontrar a Rosie?
+Você quer que a Rosie tenha o ingresso, 
+você encontra ela e dê os seus ingressos a ela.
+
+1100
+01:22:23,505 --> 01:22:27,601
+<i>Oh, meu Deus! É ela!
+Ela está aqui! Rosie! Hey, Rosie!
+
+1101
+01:22:27,676 --> 01:22:30,167
+Janis!
+Espere!
+
+1102
+01:22:30,245 --> 01:22:34,011
+Eu ganhei ingressos no rád...
+Você ganhou eles também! Oh!
+
+1103
+01:22:34,082 --> 01:22:36,209
+Vamos!
+
+1104
+01:22:36,284 --> 01:22:38,514
+<i>E agora, agora mesmo, de Paris, França, 
+Bom. Esfregue aqui. Esfregue aqui.</i>
+
+1105
+01:22:38,586 --> 01:22:44,081
+<i>Mais rápido. Mais rápido. Oh!
+aqui está Pierre Porlier
+e seus poodles performáticos.</i>
+
+1106
+01:22:44,159 --> 01:22:47,151
+Então vamos brindá-los com um
+grande boas-vindas, devemos? Vamos lá.
+
+1107
+01:22:59,074 --> 01:23:01,508
+Me desculpe. Me desculpe.
+
+1108
+01:23:01,576 --> 01:23:04,101
+Me desculpe. Eu sinto muito.
+Me desculpe.
+
+1109
+01:23:04,179 --> 01:23:07,706
+<i>Hey!
+Me desculpe.</i>
+
+1110
+01:23:10,885 --> 01:23:13,251
+Pam!
+Rosie!
+
+1111
+01:23:13,321 --> 01:23:15,585
+O que você está fazendo aqui?
+Oh, eu tenho esse ingresso aqui.
+
+1112
+01:23:15,657 --> 01:23:19,115
+Hey. tire esses vira-latas do palco!
+Nós queremos ver um show de verdade.
+
+1113
+01:23:19,194 --> 01:23:21,162
+Eu odeio cachorros,
+e sempre vou odiar.
+
+1114
+01:23:35,343 --> 01:23:37,903
+<i>Ohh!</i>
+
+1115
+01:23:39,080 --> 01:23:42,208
+<i>Isso é excelente. Oh... Ooh.
+Mais rápido. Mais rápido. Mais rápido.</i>
+
+1116
+01:23:42,283 --> 01:23:46,185
+Oh, isso é muito bom.
+Agora, pegue o ketchup. Pegue o ketchup.
+
+1117
+01:23:46,254 --> 01:23:49,314
+Ponha um pouco ketchup
+no lado. Ketchup.
+
+1118
+01:23:49,391 --> 01:23:52,292
+<i>Sorria. Você no "Candid Camera"!</i>
+
+1119
+01:23:52,360 --> 01:23:54,920
+Hey! Hey!
+Olhe o passarinho!
+Diga:"cheese"!
+
+1120
+01:23:54,996 --> 01:23:57,055
+O que está fazendo?
+Que diabos vocês está fazendo?
+Veja. Não se preocupe.
+
+1121
+01:23:57,132 --> 01:24:01,501
+Eu tenho essas provas para enviar pra sua casa,
+e você e sua esposa podem escolher as fotos
+que vocês acharem mais convenientes.
+
+1122
+01:24:01,569 --> 01:24:04,629
+O que é que você está fazendo comigo?
+O que você quer?
+Se você preferir ter os negativos...
+
+1123
+01:24:04,706 --> 01:24:08,506
+processados em algum outro lugar, eu ficaria
+mais do que feliz em vede-los pra você pela
+inacreditável quantia....
+processed somewhere else, I'd be
+more than happy to sell them to you
+at the incredible discount rate...
+
+1124
+01:24:08,576 --> 01:24:10,669
+de apenas U$ 50,00.
+
+1125
+01:24:10,745 --> 01:24:13,475
+Cinqüenta pratas? Isso é chantagem!
+Veja, Al, ficaria feliz se você se apressasse!
+
+1126
+01:24:13,548 --> 01:24:16,540
+Tudo bem. Okay. Okay.
+Cinqüenta pratas.
+
+1127
+01:24:18,720 --> 01:24:20,654
+Fique tranqüilo, Al.
+
+1128
+01:24:20,722 --> 01:24:24,886
+Você nunca vai se arrepender disso.
+Você sabe, eu estou permitindo que você 
+saia dessa bem facilmente..
+
+1129
+01:24:24,959 --> 01:24:27,553
+Aqui está o seu filme, Al.
+
+1130
+01:24:30,098 --> 01:24:33,067
+Você não vai a lugar nenhum
+com o meu dinheiro.
+
+1131
+01:24:33,134 --> 01:24:35,625
+No! No! No!
+
+1132
+01:24:37,906 --> 01:24:43,037
+Tire as suas malditas mãos dela, seu..
+
+1133
+01:24:43,111 --> 01:24:45,238
+[Aplausos da platéia]
+
+1134
+01:24:47,449 --> 01:24:49,713
+Oh, Larry,
+você foi maravilhoso!
+
+1135
+01:24:49,784 --> 01:24:53,618
+Vamos dar o fora daqui.
+Vamos. Vamos. Vamos
+
+1136
+01:24:53,688 --> 01:24:58,148
+<i>Apenas... apenas sensacional.
+Nós já estaremos de volta com os Beatles...</i>
+
+1137
+01:24:58,226 --> 01:25:00,456
+<i>logo após estas palavras sobre o "Aeroshave".</i>
+
+1138
+01:25:00,528 --> 01:25:04,259
+Agora, damas e cavalheiros
+aqui mesmo no nosso estúdio,
+
+1139
+01:25:04,332 --> 01:25:08,200
+logo depois desse anúncio comercial,
+nós vamos lhe trazer os Beatles.
+
+1140
+01:25:12,307 --> 01:25:17,768
+<i>Tudo bem agora.
+Apenas acalmam-se.
+Acalmam-se. Relaxem.</i>
+
+1141
+01:25:17,846 --> 01:25:20,644
+<i>Apenas vamos tentar
+pegar mais leve.</i>
+
+1142
+01:25:24,519 --> 01:25:27,488
+Merda!
+
+1143
+01:25:27,555 --> 01:25:30,422
+Assim as coisas funcionam bem melhor.
+
+1144
+01:25:32,327 --> 01:25:37,196
+Agora, i gostaria de lembrá-los...
+a todos vocês... para permanecerem sentados.
+
+1145
+01:25:37,265 --> 01:25:39,563
+E permaneçam sentados o show inteiro.
+
+1146
+01:25:39,634 --> 01:25:44,628
+Todos vocês fiquem sentados em seus assentos,
+especialmente vocês aí em cima no balcão.
+
+1147
+01:25:44,706 --> 01:25:49,143
+Você... o jovem aí em cima...
+você poderia por favor sentar-se,
+por favor?
+
+1148
+01:25:49,210 --> 01:25:51,610
+Quem, eu?
+Sim, você.
+
+1149
+01:25:51,679 --> 01:25:54,648
+Agora, vocês poderiam, por favor,
+tirar esses chapéus ridículos?
+
+1150
+01:25:54,716 --> 01:25:57,446
+Okay, Ed.
+Como é que as pessoas atrás de vocês...
+
+1151
+01:25:57,519 --> 01:25:59,987
+podem conseguir ver qualquer coisa
+com esses chapéus ridículos atrapalhando?
+
+1152
+01:26:00,054 --> 01:26:05,151
+Tudo bem, Ed.
+Por favor. Vamos evitar mais
+explosões como estas.
+
+1153
+01:26:05,226 --> 01:26:07,990
+Vamos dar um bom exemplo...
+Poderia tirar o meu casaco também?
+
+1154
+01:26:08,062 --> 01:26:11,361
+Tufo bem. Pode tirá-lo, também,
+mas sente-se, por favor.
+
+1155
+01:26:11,432 --> 01:26:14,094
+Jesus Cristo.
+
+1156
+01:26:14,169 --> 01:26:17,195
+Whoo-hoo!
+
+1157
+01:26:24,279 --> 01:26:26,839
+Vamos lá! O que você acha que é isso,
+um funeral ou coisa parecida?
+Come on! What do you think this is,
+
+1158
+01:26:26,915 --> 01:26:31,352
+Larry, isto é um sinal vermelho!
+
+1159
+01:26:31,419 --> 01:26:34,183
+Eu posso ver que a luz está vermelha!
+
+1160
+01:26:37,192 --> 01:26:40,389
+<i>Nós queremos os Beatles! 
+Nós queremos os Beatles!</i>
+Lembrem-se, vocês prometeram.
+
+1161
+01:26:40,461 --> 01:26:44,921
+Vocês prometeram.
+Vejam, então pelo resto da noite
+vocês devem se comportar muito bem.
+
+1162
+01:26:44,999 --> 01:26:49,459
+Agora, não vamos estragar tudo.
+Eu não quero ter que trazer
+um barbeiro pra cá.
+
+1163
+01:26:49,537 --> 01:26:53,132
+Tudo bem. Eu vou tentar conseguir um
+barbeiro apenas por garantia.
+
+1164
+01:26:53,208 --> 01:26:57,042
+Ele vai sair e vai tosar
+todos aqueles jovens com a sua tesoura.
+
+1165
+01:26:57,111 --> 01:27:00,774
+Eu não estou brincando.
+</i># Brylcreem, a little dab'll do ya #</i>
+
+1166
+01:27:00,848 --> 01:27:03,510
+</i># Brylcreem, you look so debonair #</i>
+
+1167
+01:27:03,585 --> 01:27:08,113
+</i># Brylcreem, the gals'll all pursue ya #</i>
+
+1168
+01:27:08,189 --> 01:27:10,657
+</i>#They love to get their fingers
+in your hair ##</i>
+
+1169
+01:27:14,395 --> 01:27:17,728
+Seu burro!
+
+1170
+01:27:19,534 --> 01:27:22,162
+Faço o serviço bem, seu cretino!
+
+1171
+01:27:25,273 --> 01:27:29,107
+</i>Quando a dor chega até a boca,
+você se sente monótono, depressivo, com os 
+nervos a flor da pele.
+Por favor pegue aqueles cartazes numerados e 
+coloque-os em foco.</i>
+
+1172
+01:27:29,177 --> 01:27:31,907
+Você não consegue ler essa merda.
+Como é que eu vou saber qual deles é o Ringo?
+
+1173
+01:27:31,980 --> 01:27:35,143
+Eu acho que ele toca guitarra.
+Qual guitarra?
+Tem três guitarras.
+
+1174
+01:27:35,216 --> 01:27:39,414
+Jesus Cristo. Eu tô com dor de cabeça
+deve ter algum chiado saindo das minhas orelhas.
+Aonde diabos é o Ed.
+
+1175
+01:27:45,960 --> 01:27:48,520
+Esta é uma rua de mão-única!
+Eu estou indo só numa direção.
+
+1176
+01:28:38,946 --> 01:28:41,437
+Você tem os U$50?
+
+1177
+01:28:41,516 --> 01:28:43,609
+Yeah.
+Venha.
+
+1178
+01:29:16,851 --> 01:29:19,820
+Tudo bem garoto.
+Você estava descendo numa rua 
+de mão-única no sentido errado.
+
+1179
+01:29:19,887 --> 01:29:22,947
+Deixe-me ver a sua habilitação.
+
+1180
+01:29:23,024 --> 01:29:27,961
+Eu não tenho habilitação.
+Você não tem habilitação, huh?
+Então a quem pertence esse carro?
+
+1181
+01:29:28,029 --> 01:29:30,896
+É o carro do meu pai.
+Okay, garoto.
+
+1182
+01:29:30,965 --> 01:29:34,128
+Você vai ter que descer até
+a estação e chamar o seu pai
+até aqui. Fora do carro.
+
+1183
+01:29:34,202 --> 01:29:38,730
+Com licença.
+Com licença, oficial.
+Este garoto aqui...
+
+1184
+01:29:38,806 --> 01:29:42,401
+Este garoto, ele é...
+ele é meu namorado,
+
+1185
+01:29:42,477 --> 01:29:45,344
+e, uhh,
+eu apenas estava querendo saber...
+
+1186
+01:29:45,413 --> 01:29:48,473
+se haveria alguma outra forma de
+conseguirmos cuidar disso.
+
+1187
+01:29:48,549 --> 01:29:51,416
+Dirigir sem uma habilitação
+é uma infração muito séria.
+
+1188
+01:29:51,486 --> 01:29:54,512
+Eu sei, oficial,
+mas, uh,
+
+1189
+01:29:54,589 --> 01:30:00,152
+Você acha que a multa pode ser
+mais do que U$50?
+
+1190
+01:30:02,563 --> 01:30:05,430
+Não. Isso me parece certo.
+
+1191
+01:30:12,407 --> 01:30:15,843
+Bem, um, Oficial,
+
+1192
+01:30:15,910 --> 01:30:18,902
+meu amigo e eu estamos realmente
+com um pouco de pressa.
+
+1193
+01:30:18,980 --> 01:30:23,144
+E eu estava querendo saber..
+se poderíamos pagar a multa agora mesmo,
+
+1194
+01:30:23,217 --> 01:30:27,119
+Você poderia cuidar disso pra gente?
+
+1195
+01:30:27,188 --> 01:30:31,625
+Bem, isso é um procedimento irregular,
+mas neste caso,
+eu farei uma exceção.
+
+1196
+01:30:31,692 --> 01:30:34,456
+Obrigado.
+
+1197
+01:30:36,197 --> 01:30:40,395
+Tudo bem, garoto.
+Desta vez eu apenas vou te dar uma advertência.
+Obrigado, senhor.
+
+1198
+01:30:40,468 --> 01:30:43,562
+Mas que isso sirva de lição pra você.
+
+1199
+01:30:48,109 --> 01:30:52,443
+Muito obrigado, Grace.
+Esqueça.
+
+1200
+01:30:52,513 --> 01:30:55,243
+E você sabe,
+todos os dias, amanhã e hoje,
+
+1201
+01:30:55,316 --> 01:30:58,308
+o teatro vai estar absolutamente repleto
+de jornaleiros.
+Oh, meu Deus.
+
+1202
+01:30:58,386 --> 01:31:01,082
+Eu vou ver o Paul.
+E os fotógrafos, e se todos 
+eles concordarem nunca houve nada...
+
+1203
+01:31:01,155 --> 01:31:03,316
+além desse excitamento causado por isso...
+Eu vou ver o Paul bem aqui.
+
+1204
+01:31:03,391 --> 01:31:08,055
+Preparem-se. Um minuto. Quando eles saírem
+daqui, eu quero que você fique com o áudio baixo,
+mister. Eu não quero ver aquela excitação...
+
+1205
+01:31:15,036 --> 01:31:18,904
+Tony! Tony, não faça isso!
+
+1206
+01:31:21,542 --> 01:31:24,067
+Janis, que diabos você acha que está fazendo?
+
+1207
+01:31:24,145 --> 01:31:27,342
+O que você está fazendo?
+Eu sei o que estou fazendo.
+
+1208
+01:31:27,415 --> 01:31:30,077
+Eu estou botando um fim
+em toda essa besteira de Beatles
+de uma vez por todas.
+
+1209
+01:31:30,151 --> 01:31:35,612
+Isso é loucura, Tony!
+Você pode ser eletrocutado!
+Você pode explodir todo o prédio!
+
+1210
+01:31:35,690 --> 01:31:38,454
+Você só vai conseguir ser morto!
+
+1211
+01:31:38,526 --> 01:31:41,393
+Yeah? Bem, e sobre aquele cabelo "scuzzy"?
+
+1212
+01:31:41,462 --> 01:31:45,125
+E se todo mundo começar a andar
+por aí parecendo com aquilo?
+Oh, por favor, Tony! Por favor!
+
+1213
+01:31:45,199 --> 01:31:50,136
+Apenas me escute por um momento.
+Esqueça isso, Janis! Cinqüenta milhões
+de televisões vão sair fora do ar,
+
+1214
+01:31:50,204 --> 01:31:54,436
+e não há nenhuma droga de coisa que você
+ou qualquer outro possa fazer a respeito!
+
+1215
+01:32:03,284 --> 01:32:05,514
+Okay! Tudo bem!
+
+1216
+01:32:05,586 --> 01:32:08,316
+Você os quer?
+Você os tem. Você os tem
+
+1217
+01:32:09,924 --> 01:32:11,653
+Oh, merda!
+
+1218
+01:32:11,959 --> 01:32:16,055
+Então agora, damas e cavalheiros,
+aqui estão eles... os Beatles!
+
+1219
+01:32:16,130 --> 01:32:21,397
+<i># She loves you
+yeah, yeah, yeah #<i>
+
+1220
+01:32:21,469 --> 01:32:24,495
+<i># She loves you
+yeah, yeah, yeah #<i>
+
+1221
+01:32:24,572 --> 01:32:30,477
+<i># She loves you
+yeah, yeah, yeah, yeah #<i>
+
+1222
+01:32:30,545 --> 01:32:33,207
+<i>#You think you've lost your love #<i>
+
+1223
+01:32:33,281 --> 01:32:36,580
+<i>#Well, I saw her yesterday #<i>
+
+1224
+01:32:36,651 --> 01:32:42,214
+<i>#It's you she's thinkin'of
+and she told me what to say #</i>
+
+1225
+01:32:42,290 --> 01:32:44,349
+<i>#She says she loves you #</i>
+
+1226
+01:32:44,425 --> 01:32:48,919
+<i>#And you know that can't be bad #<i>
+
+1227
+01:32:48,996 --> 01:32:53,990
+<i># Yes, she loves you
+and you know you should be glad #</i>
+
+1228
+01:32:55,670 --> 01:32:58,764
+<i># She said you hurt her so #<i>
+
+1229
+01:32:58,839 --> 01:33:01,967
+<i># She almost lost her mind #<i>
+
+1230
+01:33:02,043 --> 01:33:05,035
+<i># But now she says she knows #<i>
+
+1231
+01:33:05,112 --> 01:33:07,945
+<i>#You're not the hurting kind #<i>
+
+1232
+01:33:08,015 --> 01:33:13,920
+<i># She says she loves you
+and you know that can't be bad #<i>
+
+1233
+01:33:13,988 --> 01:33:19,449
+<i># Yes, she loves you
+and you know you should be glad #</i>
+
+1234
+01:33:19,527 --> 01:33:24,123
+<i>#Whoo
+She loves you, yeah, yeah, yeah #<i>
+
+1235
+01:33:24,198 --> 01:33:26,564
+<i>#She loves you
+yeah, yeah, yeah #</i>
+
+1236
+01:33:26,634 --> 01:33:31,333
+<i>#And with a love like that
+you know you should be glad #<i>
+
+1237
+01:33:32,974 --> 01:33:36,341
+<i>#You know it's up to you #<i>
+
+1238
+01:33:36,410 --> 01:33:39,470
+<i># I think it's only fair #<i>
+
+1239
+01:33:39,547 --> 01:33:42,710
+<i>#And pride can hurt you too #<i>
+
+1240
+01:33:42,783 --> 01:33:45,775
+<i>#Apologize to her #<i>
+
+1241
+01:33:45,853 --> 01:33:50,722
+<i>#Because she loves you
+and you know that can't be bad #</i>
+
+1242
+01:33:52,393 --> 01:33:57,023
+<i>#She loves you
+and you know you should be glad #</i>
+
+1243
+01:33:57,098 --> 01:34:01,694
+<i># Ooh, she loves you
+yeah, yeah, yeah #</i>
+
+1244
+01:34:01,769 --> 01:34:04,738
+<i># She loves you
+yeah, yeah, yeah #<i>
+
+1245
+01:34:04,805 --> 01:34:09,265
+<i>#With a love like that
+you know you should be glad #<i>
+
+1246
+01:34:10,978 --> 01:34:15,711
+<i># With a love like that
+you know you should be glad #</i>
+
+1247
+01:34:17,218 --> 01:34:21,848
+<i>#With a love like that
+you know you should #<i>
+
+1248
+01:34:21,922 --> 01:34:25,619
+<i># Be glad #<i>
+
+1249
+01:34:25,693 --> 01:34:28,685
+<i># Yeah, yeah, yeah #</i>
+
+1250
+01:34:28,763 --> 01:34:34,463
+<i># Yeah, yeah, yeah, yeah ##</i>
+
+1251
+01:34:51,852 --> 01:34:54,548
+Eu não acredito nisso.
+
+1252
+01:34:56,757 --> 01:35:00,750
+<i>Eu vou dedicar todas essas
+excelentes canções...</i>
+
+1253
+01:35:00,828 --> 01:35:04,389
+<i>a Johnny Carson, Randy Parr
+e Earl Wilson.</i>
+
+1254
+01:35:04,465 --> 01:35:07,491
+Só para relembrá-los: Os Beatles estarão 
+de volta próxima semana direto de Miami Beach.
+
+1255
+01:35:07,568 --> 01:35:12,028
+Também, as fabulosas bailarinas de Budapeste,
+uma jovem impressionante que teve
+uma grande impressão de mim...
+
+1256
+01:35:12,106 --> 01:35:14,574
+Will Jordan...
+e a toda a multidão, 
+de excelentes atos.
+
+1257
+01:35:14,642 --> 01:35:18,669
+Por favor, dirijam com cuidado, e nos veremos
+novamente próxima semana. Boa noite. Boa Noite.
+Rosie. Rosie.
+
+1258
+01:35:18,746 --> 01:35:21,874
+Rosie. Rosie.
+
+1259
+01:35:21,949 --> 01:35:24,577
+O que aconteceu?
+O que aconteceu?
+
+1260
+01:35:24,652 --> 01:35:30,090
+Rosie, você desmaiou.
+Você perdeu o show inteiro.
+
+1261
+01:35:31,826 --> 01:35:34,192
+Eu sei.
+Venha.
+Vamos ir embora daqui.
+
+1262
+01:35:34,261 --> 01:35:37,094
+Isso é tudo minha culpa.
+Isso é tudo minha culpa.
+Esqueça. Esqueça.
+
+1263
+01:35:37,164 --> 01:35:39,394
+Você não conseguiu as suas fotos,
+e tudo isso é culpa minha.
+Oh, pelo amor de Deus.
+
+1264
+01:35:39,467 --> 01:35:43,130
+Vamos apenas deixar pra lá, okay?
+Não vamos mais sobre isso de novo.
+
+1265
+01:35:43,204 --> 01:35:46,298
+Por que não falamos de outra coisa qualquer?
+
+1266
+01:35:46,373 --> 01:35:50,434
+Por que não falamos sobre a festa
+de sexta-feira a noite, Larry?
+
+1267
+01:35:50,511 --> 01:35:55,210
+A que horas você quer me pegar?
+Você quer ir a festa comigo?
+
+1268
+01:35:55,282 --> 01:35:57,250
+Claro.
+Yeah?
+
+1269
+01:35:57,318 --> 01:35:59,946
+Então você está me perguntando?
+Yeah.
+
+1270
+01:36:00,020 --> 01:36:03,820
+Yeah. Yeah.
+É a festa dos namorados, huh?
+
+1271
+01:36:03,891 --> 01:36:06,883
+Tudo vai ser demais.
+
+1272
+01:36:10,197 --> 01:36:13,689
+Aqui vai o melhor.
+Eu vou vomitar.
+
+1273
+01:36:16,137 --> 01:36:18,469
+Veja isso.
+Você está nas minhas mãos.
+Eu não estou nas suas mãos.
+
+1274
+01:36:18,539 --> 01:36:21,440
+Este não é o carro certo.
+Este não é o carro certo.
+
+1275
+01:36:21,509 --> 01:36:24,706
+Este é o carro! O carro deles!
+Impossível!!!
+
+1276
+01:36:24,779 --> 01:36:26,713
+O que você está fazendo com ele?
+Pegue e leve esses garotos para fora daqui.
+
+1277
+01:36:26,781 --> 01:36:29,579
+Claro, mister. Claro.
+Você me ouviu?
+Pelo amor de Deus, tire os garotos daqui...
+
+1278
+01:36:29,650 --> 01:36:32,949
+antes que eles sejam pisoteados até a morte.
+
+1279
+01:36:33,020 --> 01:36:35,284
+Dirija, Larry. Dirija!
+
+1280
+01:36:39,193 --> 01:36:43,562
+Oh, isso é ótimo.
+
+1281
+01:36:43,631 --> 01:36:46,065
+Vamos lá, vamos lá, motorista.
+Poderia me dar um tempo?
+
+1282
+01:36:46,133 --> 01:36:49,125
+Puxe o afogador.
+
+1283
+01:36:56,510 --> 01:37:00,139
+Vejam! Lá vão eles.
+Hey, esperem.
+
+1284
+01:37:00,214 --> 01:37:03,877
+Aquela limusine tem placas de Jersey.
+
+1285
+01:37:03,951 --> 01:37:06,078
+Nah. Não podem ser eles.
+
+1286
+01:37:06,153 --> 01:37:09,213
+<i>#She loves you
+yeah, yeah, yeah #</i>
+
+1287
+01:37:09,290 --> 01:37:12,316
+<i>#She loves you
+yeah, yeah, yeah #</i>
+
+1288
+01:37:12,393 --> 01:37:16,727
+<i>#She loves you
+yeah, yeah, yeah, yeah #</i>
+
+1289
+01:37:19,099 --> 01:37:21,329
+<i># You think you've lost your love #</i>
+
+1290
+01:37:21,402 --> 01:37:24,735
+<i># Well, I saw her yesterday #</i>
+
+1291
+01:37:24,805 --> 01:37:30,368
+<i>#It's you she's thinkin'of
+and she told me what to say #</i>
+
+1292
+01:37:30,444 --> 01:37:36,314
+<i>#She says she loves you
+and you know that can't be bad #</i>
+
+1293
+01:37:37,318 --> 01:37:42,950
+<i># Yes, she loves you
+and you know you should be glad #</i>
+
+1294
+01:37:43,958 --> 01:37:46,927
+<i>#She said you hurt her so #</i>
+
+1295
+01:37:46,994 --> 01:37:50,122
+<i>#She almost lost her mind #</i>
+
+1296
+01:37:50,197 --> 01:37:53,462
+<i>#But now she says she knows #</i>
+
+1297
+01:37:53,534 --> 01:37:56,094
+<i># You're not the hurting kind #</i>
+
+1298
+01:37:56,170 --> 01:38:02,075
+<i>#She says she loves you
+and you know that can't be bad #</i>
+
+1299
+01:38:02,142 --> 01:38:07,603
+<i># Yes, she loves you
+and you know you should be glad #</i>
+
+1300
+01:38:07,681 --> 01:38:12,277
+<i># Whoo
+She loves you, yeah, yeah, yeah #</i>
+
+1301
+01:38:12,353 --> 01:38:15,618
+<i>#She loves you
+yeah, yeah, yeah #</i>
+
+1302
+01:38:15,689 --> 01:38:20,353
+<i># With a love like that
+you know you should be glad #</i>
+
+1303
+01:38:22,062 --> 01:38:27,295
+<i># With a love like that
+you know you should be glad #</i>
+
+1304
+01:38:28,435 --> 01:38:33,134
+<i># With a love like that
+you know you should #</i>
+
+1305
+01:38:33,207 --> 01:38:37,644
+<i>#Be glad #</i>
+
+1306
+01:38:37,711 --> 01:38:40,737
+<i># Yeah, yeah, yeah #</i>
+
+1307
+01:38:40,814 --> 01:38:45,251
+<i># Yeah, yeah, yeah, yeah ##</i>
+
+1308
+01:38:46,814 --> 01:39:45,252
+Legenda - CRESPO220 - RAFAEL MARTIN
+
+1309
+01:39:46,305 --> 01:39:52,943
+-==[ www.OpenSubtitles.org ]==-

@@ -1,0 +1,2460 @@
+1
+00:00:24,275 --> 00:00:27,645
+Base Lunar ARK
+Campo de exploração mineral
+
+2
+00:00:27,708 --> 00:00:34,159
+Número de tripulantes: 4
+Dia 187 do primeiro ano de missão
+
+3
+00:00:38,400 --> 00:00:40,890
+Alarme.
+Aproximação de tempestade.
+
+4
+00:00:43,036 --> 00:00:45,537
+Alarme.
+Aproximação de tempestade.
+
+5
+00:01:01,831 --> 00:01:04,233
+Alarme.
+Aproximação de tempestade.
+
+6
+00:01:08,429 --> 00:01:12,000
+Temos uma situação de emergência.
+Aproxima-se uma chuva de meteoritos.
+
+7
+00:01:12,400 --> 00:01:15,367
+É uma tempestade inesperada.
+Só agora é que a detectamos.
+
+8
+00:01:15,447 --> 00:01:18,611
+Porque é que eu não fui avisado?
+Eu estou tão no escuro como vocês.
+
+9
+00:01:18,712 --> 00:01:20,576
+Isso não é o suficiente.
+
+10
+00:01:23,127 --> 00:01:25,140
+Quero um relatório de danos.
+
+11
+00:01:25,341 --> 00:01:27,784
+Descompressão no edifício
+de fornecimento de ar.
+
+12
+00:01:30,062 --> 00:01:32,843
+Foi atingida a nossa segunda
+cápsula de sobrevivência.
+
+13
+00:01:36,758 --> 00:01:37,746
+Mas que merda...
+
+14
+00:01:37,878 --> 00:01:40,980
+Madsen? Consegue ouvir?
+Sim...
+
+15
+00:01:42,202 --> 00:01:44,629
+As comunicações foram cortadas.
+
+16
+00:01:54,782 --> 00:01:55,555
+Ah merda...
+
+17
+00:01:55,690 --> 00:01:58,820
+Alarme de emergência. Toda a
+tripulação aos seus postos.
+
+18
+00:02:00,444 --> 00:02:03,016
+Alarme de emergência. Toda a
+tripulação aos seus postos.
+
+19
+00:02:03,880 --> 00:02:07,888
+Johns, vamos... acorda.
+Temos uma emergência.
+
+20
+00:02:09,889 --> 00:02:12,612
+Vamos, mexa essas malditas
+pernas e levante-se.
+
+21
+00:02:14,567 --> 00:02:16,799
+Falha de energia na Zona 1 e 2.
+
+22
+00:02:21,859 --> 00:02:23,681
+A energia está caindo.
+
+23
+00:02:25,269 --> 00:02:27,804
+Aqui é o Comandante Gerard Brauckman
+da Base Lunar ARK.
+
+24
+00:02:27,949 --> 00:02:32,658
+Pedido oficial de código nove. Evacuação
+imediata de toda a tripulação para a Terra.
+
+25
+00:02:34,338 --> 00:02:38,966
+Pedido de lançamento da nave de resgate.
+Evacuação da tripulação para a Terra.
+
+26
+00:02:41,434 --> 00:02:45,343
+Filtro de oxigênio falhando na Zona 3.
+Nível 4 aumentando.
+
+27
+00:02:45,394 --> 00:02:47,457
+Mas O que aconteceu
+do nível 1 ao 3?
+
+28
+00:02:47,558 --> 00:02:49,733
+Fomos atingidos por uma tempestade
+de meteoritos. Estamos sem comunicação.
+
+29
+00:02:49,768 --> 00:02:53,718
+Estamos com energia de emergência,
+e perdemos uma cápsula de sobrevivência.
+
+30
+00:02:54,451 --> 00:02:58,741
+Perdemos o controle dos dois painéis solares.
+Alguém pode desligar isso?
+
+31
+00:02:59,658 --> 00:03:00,622
+Tente outra vez.
+
+32
+00:03:01,122 --> 00:03:02,135
+Não dá!
+
+33
+00:03:02,270 --> 00:03:03,956
+Veja se consegue pôr a gente
+online na sala de controle.
+
+34
+00:03:04,057 --> 00:03:05,057
+Ok.
+
+35
+00:03:47,417 --> 00:03:49,602
+Eu não consigo respirar...
+
+36
+00:04:20,939 --> 00:04:23,504
+Krauss. Liga o fornecimento
+de oxigênio de emergência.
+
+37
+00:04:37,432 --> 00:04:40,219
+Johns, você está bem?
+Sim, estou bem.
+
+38
+00:04:40,420 --> 00:04:45,043
+Sistemas de backup online.
+Funções mínimas disponíveis.
+
+39
+00:04:45,054 --> 00:04:46,687
+O nível de oxigênio está estabilizando.
+
+40
+00:04:49,584 --> 00:04:53,144
+Um meteorito fez em buraco
+no telhado da Zona 3.
+
+41
+00:04:53,145 --> 00:04:55,444
+O filtro do monóxido de carbono
+foi atingido.
+
+42
+00:04:55,445 --> 00:04:58,110
+Johns, vem cá depressa,
+temos que isolar esta área.
+
+43
+00:04:58,230 --> 00:05:00,336
+...e rápido, porque ela libera
+veneno para o resto da estação.
+
+44
+00:05:00,337 --> 00:05:02,263
+Levem o kit de solda.
+Selem a escotilha.
+
+45
+00:05:02,606 --> 00:05:03,438
+Feito...
+
+46
+00:05:04,815 --> 00:05:06,485
+Eu vou...
+Não, não pode.
+
+47
+00:05:06,486 --> 00:05:08,400
+Eu fiz a última simulação.
+Vou ficar bem.
+
+48
+00:05:12,589 --> 00:05:18,255
+Ok. Feche cada porta depois que entrar.
+Caso contrário, pode criar uma reação em cadeia.
+
+49
+00:05:18,356 --> 00:05:20,113
+e a descompressão cria uma explosão
+que nos manda para o Inferno.
+
+50
+00:05:20,314 --> 00:05:22,014
+Então vai ser sem pressão...
+
+51
+00:05:22,889 --> 00:05:25,975
+Dock, preciso que vá para as células de
+energia, para termos mais tempo.
+
+52
+00:05:26,016 --> 00:05:28,577
+para ativar os filtros de emergência.
+Já vou.
+
+53
+00:05:47,220 --> 00:05:48,703
+Está pronta, Cameron?
+
+54
+00:05:51,139 --> 00:05:53,058
+Pronta.
+Quando eu abrir a escotilha.
+
+55
+00:05:53,093 --> 00:05:55,859
+Haverá uma grande quantidade de detritos
+e de monóxido de carbono comprimido.
+
+56
+00:05:55,960 --> 00:05:58,789
+Vá o mais rápido possível.
+Entendido.
+
+57
+00:06:18,918 --> 00:06:21,523
+Cameron, Está ouvindo?
+Sim.
+
+58
+00:06:22,400 --> 00:06:27,285
+Todos os trajes, exceto um, foram destruídos.
+Está um pouco queimado, mas dá pra usar.
+
+59
+00:06:27,328 --> 00:06:28,257
+É muito perigoso.
+
+60
+00:06:28,358 --> 00:06:31,940
+Cameron, o menor rasgão no traje
+e pode ser sugada para o vácuo.
+
+61
+00:06:35,298 --> 00:06:37,012
+Vamos abortar a missão?
+
+62
+00:06:39,212 --> 00:06:41,276
+Estou na escotilha 3.
+
+63
+00:06:42,367 --> 00:06:44,265
+Anti-gravidade acionada.
+
+64
+00:06:44,812 --> 00:06:47,636
+Estamos ficando sem tempo.
+Vamos embora.
+
+65
+00:06:47,859 --> 00:06:51,760
+Sem heroísmo.
+Se achar que não vai dar, cancele.
+
+66
+00:06:52,061 --> 00:06:54,518
+Espere por mim.
+Eu vou entrar.
+
+67
+00:06:57,043 --> 00:06:59,259
+Eu vou abrir a escotilha
+com o controle manual.
+
+68
+00:06:59,972 --> 00:07:01,805
+Sim, chefe...
+
+69
+00:07:30,126 --> 00:07:33,792
+A escotilha 3 não fechou
+Ela está presa.
+
+70
+00:07:34,705 --> 00:07:36,393
+A porta emperrou.
+
+71
+00:07:36,485 --> 00:07:39,670
+Não deveríamos abortar?
+Ainda temos vazamentos na Estação.
+
+72
+00:07:39,705 --> 00:07:41,279
+A escotilha 2 está aguentando.
+
+73
+00:07:42,743 --> 00:07:44,266
+Continue com a missão.
+
+74
+00:08:17,771 --> 00:08:19,498
+Quais são os danos?
+
+75
+00:08:23,810 --> 00:08:25,307
+Ainda aguenta.
+
+76
+00:08:38,589 --> 00:08:41,071
+O nível de monóxido de
+carbono está muito alto.
+
+77
+00:08:50,241 --> 00:08:52,931
+O impato nos causou uma
+série de prejuízos.
+
+78
+00:09:01,952 --> 00:09:04,855
+A Zona 4 está muito danificada.
+
+79
+00:09:11,605 --> 00:09:15,115
+O monóxido de carbono é a nossa primeira
+preocupação. Ela tem de desligar isso.
+
+80
+00:09:15,305 --> 00:09:18,578
+Temos que desligar esta unidade de
+filtragem e te tirar daí.
+
+81
+00:09:22,531 --> 00:09:23,998
+Conseguem ver o que temos aqui?
+
+82
+00:09:24,900 --> 00:09:27,534
+Não conseguimos ver nada,
+Está por sua conta.
+
+83
+00:09:28,880 --> 00:09:31,132
+Onde é que está o meteorito, exatamente?
+
+84
+00:09:31,991 --> 00:09:35,999
+Entre o cilindro 9 e o filtro.
+
+85
+00:09:40,198 --> 00:09:44,644
+O meteorito está preso.
+Esperem, vou tentar tirá-lo.
+
+86
+00:09:59,818 --> 00:10:01,317
+Cameron, responda...
+
+87
+00:10:04,139 --> 00:10:05,100
+Está me ouvindo?
+
+88
+00:10:05,865 --> 00:10:08,371
+Eu não vou a lugar nenhum.
+
+89
+00:10:10,779 --> 00:10:15,131
+Preciso que me guie até a válvula de fechamento.
+Ela está depois da curva.
+
+90
+00:10:15,961 --> 00:10:19,801
+A válvula deverá estar imediatamente
+depois da curva, do lado direito.
+
+91
+00:10:25,365 --> 00:10:27,835
+A válvula está danificada.
+Ainda temos vazamentos.
+
+92
+00:10:27,959 --> 00:10:31,271
+O vazamento do monóxido de carbono
+continua. A unidade não aguenta.
+
+93
+00:10:32,353 --> 00:10:35,865
+Estamos à beira de um colapso catastrófico.
+Cameron, sai daí. Está me ouvindo?
+
+94
+00:10:48,880 --> 00:10:51,123
+Cameron... Cameron...
+Consegue me ouvir?
+
+95
+00:10:52,501 --> 00:10:53,609
+Cameron, tá ouvindo?
+
+96
+00:10:53,987 --> 00:10:55,802
+Vamos lá, Tenente.
+
+97
+00:10:56,386 --> 00:10:57,884
+Estou na escotilha 3.
+
+98
+00:10:57,885 --> 00:11:01,320
+Sai daí. Se não conseguir fechar,
+proteja-se na escotilha 2.
+
+99
+00:11:04,529 --> 00:11:08,922
+Coronel, o calor está aumentando.
+A Zona 4 está prestes a colapsar.
+
+100
+00:11:16,923 --> 00:11:18,849
+A Cameron ainda está lá dentro.
+
+101
+00:11:28,929 --> 00:11:31,249
+Coloca a máscara.
+
+102
+00:11:43,577 --> 00:11:45,231
+Eva.
+
+103
+00:11:45,860 --> 00:11:50,476
+Cameron. Onde você está?
+
+104
+00:11:50,511 --> 00:11:53,303
+Aqui.
+Ouviu isso?
+
+105
+00:11:56,456 --> 00:11:57,739
+Está bem?
+
+106
+00:11:57,840 --> 00:12:00,913
+Se conseguir mover isso,
+posso rastejar para fora.
+
+107
+00:12:02,195 --> 00:12:04,311
+Ajude-me a levantar isso.
+Ok.
+
+108
+00:12:11,057 --> 00:12:14,197
+Vamos embora. Está tudo bem?
+Graças a Deus, pensei que tinha te perdido.
+
+109
+00:12:14,398 --> 00:12:17,136
+Está tudo bem.
+Eu vou sobreviver.
+
+110
+00:12:21,031 --> 00:12:25,003
+Bruce, você deve dar uma atenção
+especial a isso.
+
+111
+00:12:25,922 --> 00:12:30,226
+Há uma espécie de fungo aqui.
+Vocês dois, vamos sair daqui.
+
+112
+00:12:32,256 --> 00:12:36,690
+Quanto menos vazamentos de gás
+houver na estação, melhor será.
+
+113
+00:12:37,777 --> 00:12:38,720
+Ok, vão...
+
+114
+00:12:48,049 --> 00:12:52,851
+Ok, o selo está aguentando. Ele evita
+o vazamento para a área de lazer.
+
+115
+00:12:53,687 --> 00:12:57,008
+Nos Proporcionou um bom espetáculo.
+Obrigado.
+
+116
+00:12:58,305 --> 00:13:01,845
+Tenente, esteve exposta a
+produtos químicos, vai tomar um banho.
+
+117
+00:13:02,855 --> 00:13:04,327
+Tenente...
+
+118
+00:13:07,160 --> 00:13:12,038
+... bom trabalho.
+você também.
+
+119
+00:13:16,490 --> 00:13:20,085
+O que você acha?
+Bem, podemos continuar.
+
+120
+00:13:20,136 --> 00:13:22,217
+Foi por pouco...
+
+121
+00:14:08,446 --> 00:14:11,076
+95% da base está sem energia,
+por isso...
+
+122
+00:14:11,177 --> 00:14:14,750
+enquanto não tivermos a luz de emergência,
+vamos ter que continuar a trabalhar no escuro.
+
+123
+00:14:14,827 --> 00:14:16,333
+Nós temos apenas 72 horas.
+
+124
+00:14:16,334 --> 00:14:21,225
+Eles seguem os procedimentos de emergência padrão,
+e precisam de 92 horas para preparar o lançamento
+
+125
+00:14:21,326 --> 00:14:25,266
+e outras 72 horas para lançar o resgate até
+nós, então, precisamos de mais tempo.
+
+126
+00:14:25,621 --> 00:14:29,202
+E a cápsula de sobrevivência?
+Só leva dois, não é uma opção.
+
+127
+00:14:29,535 --> 00:14:33,992
+Ainda temos vestígios do vazamento. O nível de
+monóxido de carbono está acima do normal.
+
+128
+00:14:37,917 --> 00:14:39,326
+Johns.
+
+129
+00:14:43,172 --> 00:14:46,962
+O monóxido de carbono não tem
+cheiro, nem cor, nem sabor.
+
+130
+00:14:46,963 --> 00:14:48,954
+Os sintomas neurológicos de uma
+intoxicação por monóxido de carbono,
+
+131
+00:14:49,029 --> 00:14:54,211
+incluem alucinações, desorientação, dor de cabeça,
+gangrena gasosa, distúrbios visuais e,
+
+132
+00:14:54,357 --> 00:14:56,847
+por último, a morte.
+Ótimo, mais boas notícias.
+
+133
+00:14:56,947 --> 00:14:59,136
+Soluções?
+Fiquem atentos.
+
+134
+00:14:59,137 --> 00:15:02,246
+Ficamos próximos uns dos outros,
+e se algum de vocês vir outro
+
+135
+00:15:02,281 --> 00:15:05,587
+apresentar um destes sintomas, falem
+diretamente comigo, entendido?
+
+136
+00:15:05,622 --> 00:15:09,288
+Entendido. Bem, eu quero logo que possível,
+eliminar este monóxido de carbono
+
+137
+00:15:09,389 --> 00:15:13,334
+e, abrir os filtros que ainda
+funcionam. Selem a escotilha.
+
+138
+00:15:22,701 --> 00:15:25,603
+Perigo. Câmara de vácuo aberta.
+
+139
+00:15:36,301 --> 00:15:40,075
+Ok, funcionou, boas notícias. O
+nível de monóxido de carbono é mínimo.
+
+140
+00:15:40,110 --> 00:15:42,365
+A má notícia é que ele
+gastou muita energia das células.
+
+141
+00:15:42,366 --> 00:15:44,903
+E, então, vamos reparar os painéis solares?
+Os fusíveis queimaram.
+
+142
+00:15:44,904 --> 00:15:47,886
+Merda, estamos realmente presos.
+Johns, você é o engenheiro.
+
+143
+00:15:47,997 --> 00:15:49,921
+Invente qualquer coisa, talvez
+possa respirar no espaço...
+
+144
+00:15:49,992 --> 00:15:53,453
+Lance, desligue a perfuradora,
+está gastando energia do sistema vital.
+
+145
+00:15:53,554 --> 00:15:55,370
+Tudo bem...
+Estou indo.
+
+146
+00:15:55,471 --> 00:15:58,255
+Se eu puder analisar o meteorito.
+Têm uma espécie de fungo agarrado.
+
+147
+00:15:58,308 --> 00:16:01,250
+Fungos? Isso soa-me a uma
+fonte extraterrestre de infecção.
+
+148
+00:16:01,251 --> 00:16:03,330
+Tem que ser colocado imediatamente
+em quarentena.
+
+149
+00:16:03,431 --> 00:16:07,130
+Nós aqui não fazemos investigação.
+O objetivo é nos salvarmos.
+
+150
+00:16:07,533 --> 00:16:08,562
+Entendido?
+
+151
+00:16:08,663 --> 00:16:10,036
+Eu resolvo isso.
+
+152
+00:16:10,141 --> 00:16:15,476
+E, torno a repetir, se alguém se sentir
+confuso ou alguma coisa fora do normal
+
+153
+00:16:15,497 --> 00:16:19,546
+como alucinações auditivas ou
+visuais, fale imediatamente comigo.
+
+154
+00:16:28,184 --> 00:16:30,069
+Cientistas...
+
+155
+00:17:24,787 --> 00:17:26,903
+O equipamento de perfuração vai parar.
+
+156
+00:17:28,904 --> 00:17:31,139
+Isso vai reduzir o
+nosso consumo de energia.
+
+157
+00:17:32,178 --> 00:17:35,177
+Eva, pode vir aqui?
+Tem que ver isso.
+
+158
+00:17:43,163 --> 00:17:44,687
+Está sob controle?
+
+159
+00:17:46,121 --> 00:17:47,826
+Sim, vem aqui ver isso.
+
+160
+00:17:52,105 --> 00:17:53,812
+Nunca vi nada assim.
+
+161
+00:17:53,913 --> 00:17:57,779
+Um tipo de estrutura celular antiga
+que se divide incrivelmente rápido.
+
+162
+00:17:57,880 --> 00:17:59,367
+O quê?
+
+163
+00:18:00,255 --> 00:18:03,488
+tem uma amostra ali, faça um
+diagnóstico e veja o que consegue encontrar.
+
+164
+00:19:02,328 --> 00:19:06,987
+Base Lunar ARK, Coronel Brauckman
+para o controle de Missão, respondam...
+
+165
+00:19:07,520 --> 00:19:10,454
+Madsen? Está aí?
+Consegue me ouvir?
+
+166
+00:19:12,022 --> 00:19:13,142
+Madsen...
+
+167
+00:19:13,395 --> 00:19:17,485
+Se puder me ouvir, eu
+encerrei toda a linha de perfuração.
+
+168
+00:19:17,486 --> 00:19:20,180
+A energia foi reduzida para
+os sistemas de emergência.
+
+169
+00:19:20,281 --> 00:19:23,251
+Por favor, confirmem o
+pedido transporte de resgate.
+
+170
+00:19:27,467 --> 00:19:33,292
+Esta é a Base Lunar americana ARK.
+Coronel Brauckman para o controle de Missão.
+
+171
+00:19:33,293 --> 00:19:34,293
+Respondam...
+
+172
+00:19:45,232 --> 00:19:48,916
+Ela fez três diagnósticos diferentes,
+todos com resultados idênticos.
+
+173
+00:19:49,953 --> 00:19:54,611
+O fungo propaga-se sem carbono,
+oxigênio, hidrogénio ou nitrogénio.
+
+174
+00:19:54,696 --> 00:19:57,306
+Parece apenas precisar de luz.
+
+175
+00:19:57,307 --> 00:20:02,168
+Se ele realmente é o que você diz,
+estamos num filme de ficção científica.
+
+176
+00:20:02,378 --> 00:20:05,141
+Ele pode dividir-se e produzir
+nutrientes totalmente sozinho.
+
+177
+00:20:05,465 --> 00:20:08,022
+Como as bactérias?
+Só que muito mais inteligente.
+
+178
+00:20:08,192 --> 00:20:12,380
+Ele é apenas um código em branco,
+ninguém sabe como vai ser após a divisão.
+
+179
+00:20:12,998 --> 00:20:16,246
+Ele pode mudar totalmente, evoluir.
+
+180
+00:20:16,433 --> 00:20:17,742
+Evoluir para quê?
+
+181
+00:20:18,527 --> 00:20:19,774
+Quem sabe?
+
+182
+00:20:19,968 --> 00:20:25,433
+A taxa de crescimento é especial. Ele cresce
+cem vezes mais depressa do que uma célula humana.
+
+183
+00:20:28,930 --> 00:20:30,437
+Está bem?
+
+184
+00:20:31,205 --> 00:20:33,027
+Sim...
+
+185
+00:20:34,186 --> 00:20:39,068
+Estou me sentindo um pouco
+enjoada. Deixe-me ir agora.
+
+186
+00:21:49,653 --> 00:21:53,249
+Devagar... Engole...
+
+187
+00:22:00,954 --> 00:22:02,202
+Onde é que eu estou?
+
+188
+00:22:06,836 --> 00:22:08,779
+Na enfermaria.
+
+189
+00:22:09,584 --> 00:22:13,507
+Porque está aqui?
+O que está acontecendo?
+
+190
+00:22:24,402 --> 00:22:25,725
+O que está acontecendo?
+
+191
+00:22:26,103 --> 00:22:27,970
+Merda...
+
+192
+00:22:28,268 --> 00:22:31,031
+Vamos, Johns. Para o corredor, agora!
+
+193
+00:22:34,314 --> 00:22:35,679
+Olha para mim.
+
+194
+00:22:37,169 --> 00:22:42,073
+Ouça... Tem que respirar
+fundo. Mas, com calma. Fique calma...
+
+195
+00:22:45,464 --> 00:22:48,788
+Eu estou aqui.
+Escute o que vou te falar, ok?
+
+196
+00:22:53,878 --> 00:22:57,474
+Parece que Está com
+uma gravidez acelerada.
+
+197
+00:22:59,909 --> 00:23:04,296
+Eu não consigo explicá-la,
+mas não pode ser tão rápida.
+
+198
+00:23:05,766 --> 00:23:08,813
+Não pode.
+
+199
+00:23:11,988 --> 00:23:14,065
+Porque é que eles estão discutindo?
+
+200
+00:23:17,623 --> 00:23:20,583
+O Gerard está apenas mais
+cauteloso do que o habitual.
+
+201
+00:23:22,881 --> 00:23:25,749
+Vou checar a fundo isso.
+Eu prometo.
+
+202
+00:23:26,472 --> 00:23:29,514
+Não se preocupe com isso.
+Precisa descansar.
+
+203
+00:23:34,604 --> 00:23:37,359
+Eu tenho que ir agora.
+Não vá...
+
+204
+00:23:37,597 --> 00:23:41,436
+Eu venho já.
+Está segura aqui. Está tudo bem.
+
+205
+00:23:54,544 --> 00:23:56,497
+Ele quer prendê-la.
+
+206
+00:23:56,868 --> 00:24:00,096
+Ela tem de ser colocada em quarentena.
+Tem que me apoiar nisso.
+
+207
+00:24:00,260 --> 00:24:03,386
+Ela tem uma forma de crescimento acelerado.
+Sem o equipamento certo,
+
+208
+00:24:03,551 --> 00:24:05,095
+não posso fazer um diagnóstico correto.
+
+209
+00:24:05,230 --> 00:24:06,943
+Você e ela...
+Por favor.
+
+210
+00:24:07,205 --> 00:24:10,033
+Grávida de seis meses em 24 Horas?
+Não me funda a cabeça...
+
+211
+00:24:10,239 --> 00:24:13,606
+Ela está tendo uma reação química à exposição.
+Nós temos que ter acesso para tratá-la.
+
+212
+00:24:13,652 --> 00:24:17,002
+Ela está em isolamento. Eu não vou
+arriscar a segurança da Estação.
+
+213
+00:24:17,037 --> 00:24:20,552
+Mas, não pode trancá-la.
+Ela precisa de supervisão médica.
+
+214
+00:24:20,813 --> 00:24:26,167
+Ela está infectada e, pelo protocolo, deve ser
+colocada em quarentena e observada durante 48 horas.
+
+215
+00:24:26,297 --> 00:24:27,553
+E se ela morrer ali?
+
+216
+00:24:29,787 --> 00:24:35,337
+Tem acesso privilegiado.
+Mas, a porta permanece trancada.
+
+217
+00:25:38,787 --> 00:25:40,830
+Acesso negado.
+
+218
+00:25:41,252 --> 00:25:46,960
+Coronel, este protocolo é inaceitável.
+Eu devia ter acesso à Eva, 24 Horas por dia.
+
+219
+00:25:48,683 --> 00:25:50,847
+Coronel, está me ouvindo?
+
+220
+00:25:51,523 --> 00:25:55,018
+Estou tão preocupado
+com a Cameron quanto você.
+
+221
+00:25:55,959 --> 00:25:58,182
+Como Comandante, eu
+sou limitado por regras.
+
+222
+00:25:58,443 --> 00:26:02,981
+Ela permanece no isolamento. Tem acesso
+quando for necessário, mas preciso ser avisado.
+
+223
+00:26:03,179 --> 00:26:04,853
+E agora?
+
+224
+00:26:15,511 --> 00:26:18,046
+Eu não sou médico, mas estou
+de acordo com suas notas.
+
+225
+00:26:18,047 --> 00:26:22,197
+Ela está no último trimestre e os órgãos
+do bebé estão totalmente desenvolvidos?
+
+226
+00:26:22,874 --> 00:26:24,825
+Como é que isso é possível?
+
+227
+00:26:25,469 --> 00:26:29,517
+O diagnóstico mais racional é que
+se trata de algum tipo de metástase.
+
+228
+00:26:30,022 --> 00:26:34,124
+Mas, um câncer de crescimento rápido
+disfarçado de gravidez é estranho.
+
+229
+00:26:34,709 --> 00:26:38,029
+E se o fungo a infectou, de alguma forma?
+
+230
+00:26:39,913 --> 00:26:41,936
+Então, estamos realmente ferrados.
+
+231
+00:28:04,557 --> 00:28:08,090
+Meu Deus.
+Não a toque.
+
+232
+00:28:08,264 --> 00:28:11,470
+Ela está morrendo, meu...
+Cameron, vamos lá.
+
+233
+00:28:11,505 --> 00:28:16,811
+Eva, acorda.
+Está me ouvindo?
+
+234
+00:28:20,931 --> 00:28:23,432
+O que são estas coisas?
+
+235
+00:28:25,669 --> 00:28:28,388
+Coronel, eu preciso de luz.
+
+236
+00:28:28,936 --> 00:28:31,657
+Bruce, sai da frente, me dê luz.
+
+237
+00:28:32,506 --> 00:28:36,221
+O que aconteceu?
+O que provocou o inchaço, desapareceu.
+
+238
+00:28:37,069 --> 00:28:40,759
+Ela tem uma hemorragia interna, eu preciso
+de antibióticos. Estão na prateleira de cima.
+
+239
+00:28:43,630 --> 00:28:48,019
+Meus senhores, temos que sair daqui.
+Ela morrerá se não fizermos alguma coisa.
+
+240
+00:28:48,054 --> 00:28:51,616
+Esta sala está, agora, oficialmente sob quarentena.
+Não pode me trancar aqui.
+
+241
+00:28:51,651 --> 00:28:53,684
+Deite aí. Deixe eu te ajudar.
+
+242
+00:28:54,008 --> 00:28:55,205
+Eu não vou deixá-la sozinha.
+
+243
+00:28:55,410 --> 00:28:57,801
+Porque quer me prender?
+O que está acontecendo contigo?
+
+244
+00:29:00,608 --> 00:29:02,701
+Bruce, vai.
+Eu paro a hemorragia.
+
+245
+00:29:02,819 --> 00:29:05,335
+Coronel, não tem jurisdição nenhuma aqui
+eu é que sou o médico da Estação.
+
+246
+00:29:05,905 --> 00:29:08,565
+A enfermaria é sua. Faça um relatório
+assim que finalizar.
+
+247
+00:29:09,330 --> 00:29:10,788
+Brauckman, seu filho da puta...
+
+248
+00:29:17,848 --> 00:29:19,828
+Ela está infetada e você
+também pode estar agora.
+
+249
+00:29:19,986 --> 00:29:22,392
+Ela arriscou a vida por nós
+e é assim que retribui?
+
+250
+00:29:22,461 --> 00:29:24,706
+Concentre-se na reparação do
+sistema de comunicações.
+
+251
+00:29:25,000 --> 00:29:28,133
+Entretanto vou decidir o que fazer
+com ela. Até lá, siga as minhas ordens.
+
+252
+00:29:28,309 --> 00:29:31,213
+Claro... Claro...
+A seu serviço...
+
+253
+00:30:07,614 --> 00:30:09,794
+Temo que estejamos todos
+meio claustrofóbicos.
+
+254
+00:30:09,920 --> 00:30:12,099
+Talvez um pouco envenenados
+pelo monóxido de carbono.
+
+255
+00:30:12,240 --> 00:30:15,271
+O nosso Capitão ordenou
+o isolamento da Eva e...
+
+256
+00:30:15,630 --> 00:30:21,005
+talvez um desses fungos que a infetou
+tenham criado alguma coisa estranha
+
+257
+00:30:21,424 --> 00:30:24,575
+e ainda temos que descobrir o que é.
+
+258
+00:30:26,083 --> 00:30:30,521
+O aquecimento está desligado há 7 horas.
+Estou começando a sentir frio.
+
+259
+00:30:33,115 --> 00:30:34,888
+De volta ao trabalho...
+
+260
+00:30:35,044 --> 00:30:39,200
+Engenheiro Senior, Bruce Johns
+Base Lunar ARK.
+
+261
+00:31:22,872 --> 00:31:24,513
+Eva, O que Está fazendo?
+
+262
+00:31:42,114 --> 00:31:44,473
+Deixe-a.
+Fique calmo.
+
+263
+00:31:44,872 --> 00:31:46,895
+a coloquem na cama.
+
+264
+00:31:48,474 --> 00:31:51,145
+Eva, calma.
+Segurem-na.
+
+265
+00:31:52,692 --> 00:31:55,091
+Mas que merda está acontecendo contigo?
+Fique calmo!
+
+266
+00:31:56,684 --> 00:31:59,066
+Johns... Johns...
+Precisamos da sua ajuda.
+
+267
+00:32:02,003 --> 00:32:05,270
+Ele me mordeu.
+Do que Está  falando?
+
+268
+00:32:05,685 --> 00:32:07,989
+Ele me mordeu.
+
+269
+00:32:10,528 --> 00:32:12,310
+Tinha alguma coisa aqui.
+
+270
+00:32:16,114 --> 00:32:18,333
+Tinha alguma coisa aqui.
+
+271
+00:32:24,605 --> 00:32:26,571
+Não há nada aqui...
+
+272
+00:32:26,745 --> 00:32:30,361
+Sim, mas, alguma coisa me deu
+uma grande dentada na perna.
+
+273
+00:32:31,255 --> 00:32:33,526
+Olha.
+Bruce, ouça bem.
+
+274
+00:32:33,703 --> 00:32:38,675
+Provavelmente, se cortou com pedaço de vidro
+do armário ou uma garrafa quebrada. Não há nada...
+
+275
+00:32:38,755 --> 00:32:44,653
+Não, ouça. Há alguma coisa aqui.
+Bem ali. Eu juro. Olha.
+
+276
+00:32:44,818 --> 00:32:46,497
+Vamos, olha!
+
+277
+00:32:47,912 --> 00:32:51,341
+Eu vou trancar esta sala,
+avise-me quando tiver terminado.
+
+278
+00:32:51,482 --> 00:32:55,068
+Trate dele, tem todos os sinais de
+envenenamento pelo monóxido de carbono.
+
+279
+00:33:04,560 --> 00:33:08,130
+Alguma coisa estava em cima de mim.
+
+280
+00:33:08,794 --> 00:33:11,708
+Eu senti o peso em cima do meu peito.
+
+281
+00:33:13,232 --> 00:33:17,865
+Esta coisa, esta criatura estava
+se alimentando no meu peito.
+
+282
+00:33:18,042 --> 00:33:23,970
+Não era real. Não há nada
+aqui Eva. Não há nada aqui.
+
+283
+00:33:24,307 --> 00:33:27,908
+Está percebendo?
+Está tendo alucinação.
+
+284
+00:33:29,549 --> 00:33:33,803
+Vá se deitar. Eu tenho que dar uma conferida
+na ferida do Bruce. Já Volto.
+
+285
+00:33:35,655 --> 00:33:39,650
+Bruce, encontre comigo na
+sala do servidor, para eu ver essa ferida.
+
+286
+00:33:48,017 --> 00:33:51,259
+Eu sei que tinha alguma
+coisa aqui comigo.
+
+287
+00:33:56,408 --> 00:33:58,946
+Eu sei que você também viu.
+
+288
+00:34:00,837 --> 00:34:04,048
+É possível que eu tenha
+dado à luz alguma coisa?
+
+289
+00:34:05,892 --> 00:34:08,220
+Eu não sei...
+
+290
+00:35:06,514 --> 00:35:09,561
+Se fechar os olhos é tão puro
+malte quanto um 25 anos.
+
+291
+00:35:11,460 --> 00:35:13,701
+O vidro te cortou bastante fundo.
+
+292
+00:35:14,688 --> 00:35:16,198
+Alguma coisa me mordeu.
+
+293
+00:35:19,132 --> 00:35:21,577
+Isso que está supondo não está ajudando.
+
+294
+00:35:22,030 --> 00:35:25,491
+Eu juro. Eu vi alguma coisa, lá dentro.
+
+295
+00:35:28,374 --> 00:35:30,146
+Também está ouvindo coisas?
+
+296
+00:35:32,007 --> 00:35:36,467
+Não acredita em mim?
+Não, você e a Eva têm muitos sintomas em comum.
+
+297
+00:35:38,161 --> 00:35:43,216
+Ok... e se alguma coisa utilizou
+a Eva para poder se reproduzir?
+
+298
+00:35:43,904 --> 00:35:46,874
+Aquela criatura não tem DNA.
+
+299
+00:35:48,966 --> 00:35:54,428
+Está pensando, outra vez, no fungo?
+Vai, admite que é possível.
+
+300
+00:35:55,929 --> 00:36:01,051
+Quando eu tiver oportunidade de analisar a Eva,
+poderei chegar a uma conclusão.
+
+301
+00:36:01,330 --> 00:36:06,779
+Mas, até lá, o mais lógico e razoável é
+que seja um parto falso provocado pelo mioma.
+
+302
+00:36:08,270 --> 00:36:10,551
+E, não há nada naquela sala
+que me prove o contrário.
+
+303
+00:36:13,778 --> 00:36:17,137
+Eu quero que vá descansar
+um pouco e, isso é uma ordem.
+
+304
+00:36:17,690 --> 00:36:22,262
+O Coronel quer as comunicações de volta,
+se ele me questionar, estamos ferrados.
+
+305
+00:36:23,106 --> 00:36:25,188
+que está tentando nos destruir.
+
+306
+00:37:47,799 --> 00:37:49,798
+Mas que m...
+
+307
+00:38:26,876 --> 00:38:28,431
+Merda.
+
+308
+00:39:05,142 --> 00:39:10,837
+Johns, Está trabalhando nos painéis
+solares? Precisamos de energia.
+
+309
+00:40:39,921 --> 00:40:44,249
+Olha para isso, restabelecemos a comunicação
+já podemos descobrir como sair desta rocha.
+
+310
+00:40:44,885 --> 00:40:47,501
+Johns me informou que a
+antena está destruída.
+
+311
+00:40:49,735 --> 00:40:52,423
+Em que condições que ele está?
+Está apto para o serviço? Preciso dele.
+
+312
+00:40:52,682 --> 00:40:57,432
+Estou preocupado, ele tem sintomas de
+paranoia. Está tendo alucinações.
+
+313
+00:40:57,650 --> 00:40:59,750
+Está bebendo?
+Moderadamente mas...
+
+314
+00:40:59,883 --> 00:41:04,696
+sofre claramente de uma exposição química
+e, não tenho equipamento para tratá-lo.
+
+315
+00:41:04,860 --> 00:41:06,860
+Muito menos para um diagnóstico adequado.
+
+316
+00:41:07,251 --> 00:41:09,642
+Bem, Doutor, parece que vamos ser só nós dois.
+
+317
+00:41:10,507 --> 00:41:12,632
+Por enquanto...
+
+318
+00:44:02,585 --> 00:44:04,538
+Eu não estou enlouquecendo...
+
+319
+00:45:02,651 --> 00:45:05,118
+Olha... já chega.
+
+320
+00:45:05,331 --> 00:45:07,704
+Quero você na esteira para
+limpar o álcool no seu sistema.
+
+321
+00:45:07,784 --> 00:45:10,486
+E, então, eu vou tratar o envenenamento
+por monóxido de carbono.
+
+322
+00:45:10,596 --> 00:45:14,042
+isso vai resolver seu problema e
+preciso de você ápto novamente.
+
+323
+00:46:21,847 --> 00:46:25,386
+Filha da mãe, eu sabia.
+
+324
+00:46:35,416 --> 00:46:36,939
+O quê?
+
+325
+00:46:38,260 --> 00:46:41,034
+O que está fazendo?
+Eu preciso de ver o seu dedo.
+
+326
+00:46:42,120 --> 00:46:44,471
+Teve contato direto com o fungo.
+
+327
+00:46:44,611 --> 00:46:47,112
+Porque que não disse isso ao médico?
+você conhece as regras.
+
+328
+00:46:47,220 --> 00:46:49,298
+Sabe tudo sobre as regras,
+não é, Coronel?
+
+329
+00:46:49,393 --> 00:46:52,877
+Temos diretivas nesta Estação por alguma razão.
+diretivas?
+
+330
+00:46:53,018 --> 00:46:57,596
+Elas dizem o que fazer quando um membro da equipe
+fica doente por ter salvo a vida dos outros?
+
+331
+00:46:58,345 --> 00:47:03,141
+Até o Dr. Krauss descobrir o que há com você,
+tenho que mantê-la sob vigilância.
+
+332
+00:47:03,221 --> 00:47:06,917
+Quer dizer trancada, se não me soltar,
+está colocando sua própria vida em perigo.
+
+333
+00:47:07,815 --> 00:47:12,510
+Sabe que não recebo ameaças de ninguém.
+Quando isso terminar vai enfrentar o Tribunal Militar.
+
+334
+00:47:17,909 --> 00:47:20,909
+Eu sei que vi alguma
+coisa, não era um pesadelo.
+
+335
+00:47:21,213 --> 00:47:24,330
+Se não me deixar ir colocará a sua própria
+vida em perigo e de todos os outros.
+
+336
+00:47:24,432 --> 00:47:29,080
+Não há nada ali, Está sofrendo da infecção,
+e vou ter que te colocar numa cela de isolamento.
+
+337
+00:47:31,151 --> 00:47:34,729
+Volta aqui. Deixe-me ir.
+
+338
+00:47:46,049 --> 00:47:47,486
+Coronel.
+
+339
+00:47:49,588 --> 00:47:51,471
+Deixe-me ver.
+
+340
+00:47:54,603 --> 00:47:56,885
+Vamos ver isso.
+
+341
+00:48:14,438 --> 00:48:16,304
+O que aconteceu no corredor?
+
+342
+00:48:16,412 --> 00:48:21,131
+Parece que a cadeia de comando foi quebrada.
+O Bruce me atacou. Perdeu o maldito juízo.
+
+343
+00:48:21,328 --> 00:48:24,374
+Encontre-o, quero uma explicação.
+
+344
+00:48:27,351 --> 00:48:28,898
+A porta.
+
+345
+00:49:47,734 --> 00:49:49,984
+Eu sei que está aqui.
+
+346
+00:49:50,727 --> 00:49:53,547
+Já não tenho medo de você.
+
+347
+00:50:17,141 --> 00:50:20,156
+Mas que merda é essa que está acontecendo comigo?
+
+348
+00:51:17,796 --> 00:51:21,219
+Vamos lá, acorde.
+Pára de brincar.
+
+349
+00:51:23,258 --> 00:51:25,665
+Quem te libertou?
+
+350
+00:51:26,258 --> 00:51:28,696
+Vou deixar que me machuque.
+
+351
+00:51:30,288 --> 00:51:32,453
+Não estou aqui para te machucar.
+
+352
+00:51:32,847 --> 00:51:36,165
+São as regras da Companhia
+que dizem que tenho de te deter.
+
+353
+00:51:36,696 --> 00:51:38,883
+Não vai me pôr nessa cela.
+
+354
+00:51:39,087 --> 00:51:43,798
+Algo está acontecendo aqui
+e você não acredita em mim.
+
+355
+00:51:44,157 --> 00:51:47,173
+Por favor, não me obrigue a fazer
+isso da pior maneira.
+
+356
+00:52:09,822 --> 00:52:11,758
+Mas que merda que aconteceu aqui?
+
+357
+00:52:12,219 --> 00:52:16,921
+Eles me atacaram.
+Vamos amarrá-la.
+
+358
+00:52:33,680 --> 00:52:35,891
+Deixe-me verificar.
+
+359
+00:52:37,250 --> 00:52:38,766
+Espera... Espera...
+
+360
+00:53:09,281 --> 00:53:11,664
+O que você quer?
+
+361
+00:54:13,587 --> 00:54:15,571
+O que significa isso?
+
+362
+00:54:19,134 --> 00:54:24,414
+Eles ameaçaram as diretivas.
+
+363
+00:54:24,602 --> 00:54:29,618
+Regras que me obrigam a colocá-la na solitária,
+ela não está pensando com clareza.
+
+364
+00:54:29,758 --> 00:54:33,477
+Ela estava em contenção até você
+entrar sem me consultar.
+
+365
+00:54:33,570 --> 00:54:36,344
+Quem a libertou?  O Bruce.
+
+366
+00:54:38,337 --> 00:54:41,391
+Eu verifiquei as imagens de segurança.
+
+367
+00:54:41,548 --> 00:54:46,477
+A Cameron cortou o dedo num dos
+tubos de ensaio com os esporos do fungo.
+
+368
+00:54:47,196 --> 00:54:51,256
+Não acredita em mim? Dá uma
+olhada no dedo indicador direito.
+
+369
+00:54:52,649 --> 00:54:54,790
+Ela está infetada.
+
+370
+00:54:58,508 --> 00:55:00,867
+O que é isso?
+Um alarme.
+
+371
+00:55:01,321 --> 00:55:04,281
+Eu sei o que é. Porquê?
+É uma precaução extra.
+
+372
+00:55:04,368 --> 00:55:08,149
+Eu o tenho sobre observação, os antibióticos
+que dei a ele são bastante fortes.
+
+373
+00:55:26,939 --> 00:55:31,337
+Tenho que me proteger.
+Não sou doida.
+
+374
+00:55:36,367 --> 00:55:41,548
+Porque escondeu isso de mim?
+Eu estava com medo.
+
+375
+00:55:43,611 --> 00:55:47,017
+Alguma coisa saiu de mim, não foi?
+
+376
+00:55:48,486 --> 00:55:50,634
+Me Diga...
+
+377
+00:55:51,846 --> 00:55:54,939
+Eu vi alguma coisa aqui.
+Não estava sonhando.
+
+378
+00:55:56,376 --> 00:55:58,954
+Tem que me libertar.
+
+379
+00:56:00,713 --> 00:56:03,025
+Eu não posso fazer isso agora.
+
+380
+00:56:04,236 --> 00:56:08,964
+Está fazendo uma grande besteira.
+
+381
+00:56:12,166 --> 00:56:14,508
+Pergunte ao Bruce.
+
+382
+00:57:15,379 --> 00:57:17,770
+Bruce, abra a porta!
+
+383
+00:57:18,887 --> 00:57:20,746
+Bruce abra!
+
+384
+00:58:39,437 --> 00:58:41,413
+O que quer que saiu da Eva.
+
+385
+00:58:43,306 --> 00:58:44,610
+Está aqui.
+
+386
+00:58:45,832 --> 00:58:47,043
+Eu consigo vê-lo...
+
+387
+00:58:47,820 --> 00:58:51,558
+... aquela coisa de merda
+está me perseguindo...
+
+388
+00:58:55,039 --> 00:59:00,530
+... está me deixando doido.
+Acho que vou morrer.
+
+389
+00:59:47,603 --> 00:59:51,002
+O que aconteceu?
+Foi o Bruce.
+
+390
+00:59:53,206 --> 00:59:55,455
+Ele tentou me matar.
+
+391
+00:59:57,706 --> 01:00:01,580
+Quando?
+Agora, há apenas alguns segundos.
+
+392
+01:00:02,735 --> 01:00:06,979
+O Bruce está morto.
+Isso é impossível, ele estava bem aqui.
+
+393
+01:00:07,682 --> 01:00:12,713
+O que você acha que viu,
+era qualquer coisa menos o Bruce.
+
+394
+01:00:16,422 --> 01:00:19,257
+Há mais alguma coisa nesta estação
+além de nós.
+
+395
+01:00:20,440 --> 01:00:25,487
+Foi gerado na Eva e
+se transformou numa cópia do Bruce.
+
+396
+01:00:25,620 --> 01:00:28,425
+Ambos foram infetados pelos esporos.
+
+397
+01:00:30,573 --> 01:00:34,627
+Utilize os tubos da
+ventilação para se movimentar.
+
+398
+01:00:36,768 --> 01:00:39,244
+Vamos ter que mata-lo.
+
+399
+01:00:42,089 --> 01:00:44,628
+E precisamos que a Eva nos ajude.
+
+400
+01:01:09,925 --> 01:01:12,385
+O Bruce está morto.
+
+401
+01:01:13,611 --> 01:01:16,267
+Como é que sabe disso?
+
+402
+01:01:17,933 --> 01:01:20,589
+Eu consigo sentir o que ele está fazendo.
+
+403
+01:01:23,354 --> 01:01:27,690
+Vamos precisar da sua ajuda, talvez
+seja a única que consegue controla-lo.
+
+404
+01:01:27,886 --> 01:01:29,722
+Ainda não.
+
+405
+01:01:30,573 --> 01:01:34,902
+Talvez ele tenha me usado para nascer, mas agora
+sou uma ameaça tão grande como você.
+
+406
+01:01:36,908 --> 01:01:41,713
+O meu palpite é que ele ficou com uma amostra
+do DNA do Bruce, quando o mordeu.
+
+407
+01:01:42,619 --> 01:01:48,401
+Ele sabia que um homem seria forte o suficiente e
+se copiou nele para poder sobreviver.
+
+408
+01:01:50,456 --> 01:01:55,620
+Nós ainda precisamos de sua
+ajuda. Podemos confiar em você?
+
+409
+01:01:56,916 --> 01:01:59,815
+Podem.
+
+410
+01:02:24,877 --> 01:02:29,672
+Base Lunar ARK. Entrada do Código 184.
+Temos provas da existência de vida extraterrestre.
+
+411
+01:02:29,752 --> 01:02:35,970
+O corpo da Tenente Cameron foi usado como um
+hospedeiro e transformou-se numa forma de vida viável.
+
+412
+01:02:36,050 --> 01:02:37,667
+E, está determinado a nos matar.
+
+413
+01:02:37,777 --> 01:02:40,227
+Ele tem uma forma humana, por isso,
+agora é mais fácil de encontrar.
+
+414
+01:02:40,307 --> 01:02:42,057
+Alguma coisa está errada.
+
+415
+01:02:43,331 --> 01:02:45,109
+Falha nos compressores.
+
+416
+01:02:46,330 --> 01:02:48,243
+Ele está cortando nosso oxigênio.
+
+417
+01:02:49,278 --> 01:02:52,573
+A ventilação não está respondendo.
+Ele quer que o sistema entre em colapso.
+
+418
+01:02:52,659 --> 01:02:56,659
+Não faz sentido, Se a estação
+implodir ele morrerá com a gente.
+
+419
+01:02:57,706 --> 01:03:00,878
+Ele sabe onde está a cápsula de
+sobrevivência, pelo Bruce.
+
+420
+01:03:02,027 --> 01:03:06,495
+Vou tentar reiniciar o sistema.
+Vê se o consegue encontrar.
+
+421
+01:03:07,254 --> 01:03:09,659
+Eu vou contigo.
+
+422
+01:03:14,894 --> 01:03:17,277
+O compressor está falhando.
+
+423
+01:03:20,932 --> 01:03:23,659
+Me dê a luz.
+
+424
+01:03:32,729 --> 01:03:36,905
+O tubo foi cortado.
+Consegue fazer um desvio?
+
+425
+01:03:47,129 --> 01:03:50,956
+Como é que está?
+O oxigênio está ligado.
+
+426
+01:03:53,730 --> 01:03:57,581
+Vamos, vamos rápido. mexa-se.
+
+427
+01:03:59,590 --> 01:04:03,164
+O que Está fazendo?
+Ele sabe que vamos tentar matá-lo.
+
+428
+01:04:05,668 --> 01:04:08,410
+Ele sabe nossa localização
+através de mim.
+
+429
+01:04:09,409 --> 01:04:12,925
+Cameron fica conosco, volta!
+
+430
+01:04:19,410 --> 01:04:21,589
+Filho da mãe...
+
+431
+01:04:30,261 --> 01:04:31,527
+Espera.
+
+432
+01:04:38,835 --> 01:04:42,391
+Traga a Eva em segurança.
+Eu fecho a escotilha.
+
+433
+01:04:43,017 --> 01:04:47,337
+Isso é uma loucura. Não podemos
+manobrar a porta a partir daqui.
+
+434
+01:04:52,087 --> 01:04:55,712
+Perigo. Câmara de vácuo aberta.
+Falha no sistema.
+
+435
+01:05:26,494 --> 01:05:29,166
+me dê a sua mão.
+
+436
+01:05:40,854 --> 01:05:42,846
+Sistema reiniciado.
+
+437
+01:05:53,723 --> 01:05:57,926
+Sistema bloqueado.
+Evacuação em 30 segundos.
+
+438
+01:06:00,183 --> 01:06:03,067
+Sistema bloqueado.
+Acesso negado.
+
+439
+01:06:06,425 --> 01:06:07,800
+Tirem-me daqui.
+
+440
+01:06:10,528 --> 01:06:13,684
+Tente novamente.
+Ele não funciona.
+
+441
+01:07:13,918 --> 01:07:16,653
+Ele está voltando.
+
+442
+01:07:17,137 --> 01:07:19,923
+Eu não posso parar.
+Ok, vamos para a sala do Bruce.
+
+443
+01:07:20,003 --> 01:07:23,198
+Talvez ele tenha descoberto algo
+que possa nos ajudar. Vamos.
+
+444
+01:07:46,809 --> 01:07:49,012
+Que grande merda.
+
+445
+01:08:20,574 --> 01:08:23,285
+Ele tem algo gravado no diário.
+
+446
+01:08:28,528 --> 01:08:31,223
+Essa coisa cresceu na Eva.
+
+447
+01:08:32,254 --> 01:08:35,996
+Eu não podia revelar à tripulação
+que eu estava infetado.
+
+448
+01:08:36,497 --> 01:08:39,629
+Eu não posso correr o risco de
+ser posto no isolamento.
+
+449
+01:08:39,755 --> 01:08:43,989
+Eu sei o que fazer,
+ele se clonou em mim.
+
+450
+01:08:44,153 --> 01:08:49,403
+Eu sou de quem ele se replicou.
+Tenho medo que ele possa vir atrás de mim.
+
+451
+01:08:49,567 --> 01:08:52,380
+E qual seria a sua forma original.
+
+452
+01:08:54,058 --> 01:08:57,222
+Talvez...
+
+453
+01:08:57,567 --> 01:09:01,613
+... ao crescer na forma humana
+seja mais fácil de matar.
+
+454
+01:09:01,981 --> 01:09:04,535
+Eu acho que o monóxido de carbono...
+
+455
+01:09:05,270 --> 01:09:09,957
+Se estão vendo isso agora,
+a única forma de sobreviverem...
+
+456
+01:09:10,044 --> 01:09:12,965
+... é fugirem na cápsula de sobrevivência.
+
+457
+01:09:14,387 --> 01:09:18,129
+Quanto tempo leva para preparar a cápsula?
+Muito tempo...
+
+458
+01:09:20,327 --> 01:09:22,085
+A menos...
+
+459
+01:09:22,843 --> 01:09:28,428
+Desligamos a estação para converter
+toda a energia para cápsula para uma partida rápida.
+
+460
+01:09:28,929 --> 01:09:30,624
+Vamos fazê-lo.
+
+461
+01:09:43,686 --> 01:09:48,069
+Quando fizermos isso, não há como voltar atrás.
+Só temos uma chance.
+
+462
+01:09:48,826 --> 01:09:50,899
+Então nós temos que fazer
+com que funcione.
+
+463
+01:10:05,577 --> 01:10:08,014
+Precisamos disso para preparar
+a cápsula para a descida,
+
+464
+01:10:08,108 --> 01:10:11,457
+há um painel de emergência na cápsula,
+é para plugar isso lá.
+
+465
+01:10:17,459 --> 01:10:19,365
+Ele está vindo para cá.
+
+466
+01:10:22,387 --> 01:10:23,928
+Eva...
+
+467
+01:10:24,538 --> 01:10:26,733
+Nós conseguimos fazer...
+
+468
+01:11:09,854 --> 01:11:12,854
+Vamos ver o que temos aqui.
+
+469
+01:11:18,283 --> 01:11:22,712
+Eu tenho as linhas de combustível preparadas.
+Ative a energia quando estiver pronto.
+
+470
+01:11:30,212 --> 01:11:32,110
+Estou a caminho.
+
+471
+01:11:43,767 --> 01:11:45,650
+Ele está voltando.
+
+472
+01:12:10,008 --> 01:12:11,970
+Não vejo nada.
+
+473
+01:12:12,095 --> 01:12:15,349
+Está preparada?
+As baterias estarão a 80% quando chegarmos lá.
+
+474
+01:12:15,429 --> 01:12:17,226
+Ok, vamos embora.
+
+475
+01:12:17,775 --> 01:12:20,462
+Eu não tenho uma lanterna.
+Eu tenho, vamos lá.
+
+476
+01:12:32,806 --> 01:12:37,313
+Perigo. Monóxido de carbono
+no nível 4 e aumentando.
+
+477
+01:12:49,236 --> 01:12:52,532
+Perigo.
+Nível de oxigênio comprometido.
+
+478
+01:12:52,673 --> 01:12:55,398
+Trata-se de monóxido de carbono. isso não
+faz sentido, ele vai nos envenenar.
+
+479
+01:12:55,478 --> 01:12:58,515
+Ele está tentando fazer o que
+Bruce disse. Que nos mataria.
+
+480
+01:12:58,595 --> 01:13:00,993
+Ele está abrindo as escotilhas em B2.
+
+481
+01:13:01,720 --> 01:13:04,829
+Vá para a cápsula e
+inicie a sequência de lançamento.
+
+482
+01:13:06,587 --> 01:13:10,220
+Não, nós temos que ficar juntos.
+
+483
+01:13:10,955 --> 01:13:13,712
+Eu não posso coordenar o
+lançamento, se estiver lá.
+
+484
+01:13:18,422 --> 01:13:21,992
+Perigo.
+Nível de oxigênio comprometido.
+
+485
+01:13:22,148 --> 01:13:26,399
+Perigo. Monóxido de carbono no nível 2 e aumentando.
+Desgraçado.
+
+486
+01:13:37,891 --> 01:13:39,218
+Que merda... Não...
+
+487
+01:13:39,313 --> 01:13:42,703
+Procedimento de lançamento iniciado.
+
+488
+01:13:47,946 --> 01:13:51,634
+Eva, eu iniciei o lançamento,
+agora, digite o código.
+
+489
+01:13:57,770 --> 01:13:59,140
+Eva, está me ouvindo?
+
+490
+01:14:00,678 --> 01:14:02,075
+Eva...
+
+491
+01:14:01,574 --> 01:14:04,501
+Monóxido de carbono no nível 3.
+
+492
+01:14:23,477 --> 01:14:28,406
+Lançamento em 3 minutos.
+Estamos a 80%.
+
+493
+01:14:29,506 --> 01:14:30,390
+Gerard...
+
+494
+01:14:30,836 --> 01:14:33,328
+Vem aqui.
+
+495
+01:14:56,088 --> 01:14:59,995
+Perigo.
+Nível de oxigênio comprometido.
+
+496
+01:15:01,854 --> 01:15:04,650
+Ele está aqui.
+Na área de lançamento.
+
+497
+01:15:38,253 --> 01:15:41,495
+Lançamento em 2 minutos.
+
+498
+01:16:22,039 --> 01:16:25,086
+Lançamento em 1 minuto.
+
+499
+01:16:26,437 --> 01:16:29,632
+Está trancada.
+Não podemos abrir.
+
+500
+01:16:31,164 --> 01:16:33,687
+Temos que parar o lançamento.
+
+501
+01:16:54,812 --> 01:16:57,968
+Lançamento em 30 segundos.
+
+502
+01:17:01,217 --> 01:17:03,436
+Vamos... para dentro.
+
+503
+01:17:13,163 --> 01:17:16,577
+Todos os sistemas estão
+prontos. Lançamento iniciado.
+
+504
+01:17:16,672 --> 01:17:20,414
+Feche a cobertura do silo da cápsula.
+É o que eu estou tentando fazer.
+
+505
+01:18:12,083 --> 01:18:16,067
+Estamos ferrados.
+As unidades estão vazias.
+
+506
+01:18:16,325 --> 01:18:19,091
+Confirme os tanques de emergência.
+
+507
+01:18:40,732 --> 01:18:43,802
+17 minutos de oxigênio.
+
+508
+01:18:56,145 --> 01:18:59,013
+Ainda temos 17 minutos.
+
+509
+01:19:24,200 --> 01:19:26,504
+Isso é real?
+
+510
+01:19:34,738 --> 01:19:36,621
+Este é o Coronel Brauckman.
+
+511
+01:19:36,707 --> 01:19:41,363
+Eu tenho uma mensagem urgente.
+Perdemos o contato com o controle na Terra.
+
+512
+01:19:41,480 --> 01:19:45,074
+Eu tenho uma mensagem urgente
+para o Capitão Madsen.
+
+513
+01:19:45,417 --> 01:19:49,325
+Esta é uma mensagem urgente
+do Coronel Brauckman.
+
+514
+01:19:51,286 --> 01:19:53,458
+Respondam...
+
+515
+01:20:02,294 --> 01:20:07,263
+Este é o transporte de resgate.
+Já não era sem tempo.
+
+516
+01:20:09,622 --> 01:20:11,434
+Está pousando.
+
+517
+01:20:13,739 --> 01:20:17,106
+Acha que eles conseguem?
+50/50.
+
+518
+01:20:27,981 --> 01:20:32,207
+Ou ficamos aqui rezando
+para que eles cheguem a tempo
+
+519
+01:20:32,958 --> 01:20:36,637
+ou são 3,5 minutos até
+ao cais de embarque.
+
+520
+01:20:37,965 --> 01:20:40,363
+Consegue prender a respiração
+durante 3,5 minutos e correr?
+
+521
+01:20:40,464 --> 01:20:41,264
+Sim...
+
+522
+01:20:45,352 --> 01:20:51,216
+Cara, esperamos...
+Coroa, corremos igual malucos.
+
+523
+01:21:00,451 --> 01:21:02,800
+Caramba, vamos!
+
+524
+01:22:03,819 --> 01:22:09,006
+Ainda não há comunicação da Base Lunar.
+Tudo o que temos é a cápsula de sobrevivência.
+
+525
+01:22:15,598 --> 01:22:18,008
+A porta deve ter aberto com o impacto.
+
+526
+01:22:18,856 --> 01:22:20,204
+Não há sinais de vida.
+
+527
+01:22:21,124 --> 01:22:24,022
+Ninguém saiu daqui, veríamos os rastos.
+
+528
+01:22:25,811 --> 01:22:29,453
+A equipe de resgate já deve ter desembarcado.
+Esperemos ter algumas respostas.
+
+529
+01:22:29,488 --> 01:22:31,608
+Até lá, vamos manter isso em segredo.
+
+530
+01:22:32,036 --> 01:22:34,601
+Você ligou para a força de intervenção?
+Eles estarão aqui em dez minutos.
+
+531
+01:22:34,749 --> 01:22:39,538
+Embrulhe tudo e mande para a base.
+Se alguém souber disso, acabará tudo na Internet.
+
+532
+01:22:39,976 --> 01:22:43,038
+Isolem esta área, ninguém entra nem sai.
+
+533
+01:23:04,617 --> 01:23:07,608
+Senhor, eu acho que devia ver isso.
+
+534
+01:23:10,937 --> 01:23:16,218
+controle de Missão, aqui é o
+Coronel Brauckman falando da USS Magellan.
+
+535
+01:23:16,374 --> 01:23:20,406
+Madsen, o que quer que saia desta
+cápsula é para matar. Não é amigável.
+
+536
+01:23:20,508 --> 01:23:26,015
+Matou o Krauss e o Johns.
+É uma ameaça para a humanidade.
+

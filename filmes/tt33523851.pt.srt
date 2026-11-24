@@ -1,0 +1,2348 @@
+1
+00:01:26,955 --> 00:01:28,388
+-Olá?
+
+2
+00:01:49,877 --> 00:01:51,546
+Você está bem?
+
+3
+00:01:53,113 --> 00:01:54,716
+Ei, você precisa de ajuda?
+
+4
+00:03:48,096 --> 00:03:50,765
+O que faz você confiar em uma seguradora de automóveis?
+
+5
+00:03:50,832 --> 00:03:51,833
+Um animal falante?
+
+6
+00:03:51,899 --> 00:03:53,501
+Uma cenoura falante?
+
+7
+00:03:53,568 --> 00:03:55,536
+E quando o cliente de uma empresa...
+
+8
+00:04:31,939 --> 00:04:34,374
+Oh meu Deus.
+
+9
+00:04:36,443 --> 00:04:37,712
+Você me deu um susto danado.
+
+10
+00:04:37,779 --> 00:04:40,681
+Você não deveria estar parado no meio da rua.
+
+11
+00:04:40,748 --> 00:04:43,450
+Tudo no seu equipamento. Eu poderia ter te acertado facilmente.
+
+12
+00:04:48,488 --> 00:04:50,558
+A temporada de caça ao alce só começa na próxima semana.
+
+13
+00:04:53,561 --> 00:04:55,295
+Por que você está aqui fora, afinal?
+
+14
+00:05:04,038 --> 00:05:05,940
+Você está aqui sozinho?
+
+15
+00:05:09,210 --> 00:05:11,378
+-Dale disse que eu...
+
+16
+00:05:12,847 --> 00:05:14,715
+Não posso falar com você.
+
+17
+00:05:16,117 --> 00:05:17,718
+-Quem é Dale?
+
+18
+00:05:17,785 --> 00:05:19,854
+Ele está aqui com você?
+
+19
+00:05:19,921 --> 00:05:22,455
+— Bem, isso depende de quem está perguntando.
+
+20
+00:05:23,758 --> 00:05:26,794
+Eu disse para ele ficar longe
+
+21
+00:05:26,861 --> 00:05:30,264
+a estrada de acesso 20 vezes na última temporada.
+
+22
+00:05:30,330 --> 00:05:31,866
+Não foi, Skeeter?
+
+23
+00:05:32,800 --> 00:05:35,736
+Ele não é muito de ouvir, mas...
+
+24
+00:05:35,803 --> 00:05:37,672
+...ele é um ás com aquela besta.
+
+25
+00:05:40,107 --> 00:05:41,609
+— Vai caçar um pouco?
+
+26
+00:05:41,676 --> 00:05:44,946
+— Não, não, senhora. Só um pequeno reconhecimento, nada mais.
+
+27
+00:05:45,813 --> 00:05:47,347
+-Bom.
+
+28
+00:05:47,414 --> 00:05:50,117
+Porque devo lembrar que a caça fora de temporada
+
+29
+00:05:50,184 --> 00:05:51,319
+é um crime.
+
+30
+00:05:51,418 --> 00:05:53,588
+-Não, jamais faríamos algo assim.
+
+31
+00:05:53,654 --> 00:05:55,923
+Nós somos, hum, ambientalistas.
+
+32
+00:05:57,825 --> 00:05:59,426
+-Hum.
+
+33
+00:06:00,194 --> 00:06:02,263
+-Bem, isto...
+
+34
+00:06:02,330 --> 00:06:04,765
+...é para, hum, autoproteção.
+
+35
+00:06:04,832 --> 00:06:07,134
+Aqui na floresta, nunca é demais ter cuidado.
+
+36
+00:06:07,201 --> 00:06:08,636
+Há muitos...
+
+37
+00:06:09,503 --> 00:06:11,806
+...tem muita gente doente por aqui.
+
+38
+00:06:14,709 --> 00:06:17,645
+-Veja bem, você está fazendo uma suposição.
+
+39
+00:06:17,712 --> 00:06:19,881
+Até onde eu sei, não há lei contra
+
+40
+00:06:19,947 --> 00:06:21,782
+Testarmos os nossos equipamentos.
+
+41
+00:06:27,255 --> 00:06:29,123
+-Tente não matar nada até a semana que vem.
+
+42
+00:06:29,190 --> 00:06:30,925
+Está certo.
+
+43
+00:06:30,992 --> 00:06:32,660
+Vamos.
+
+44
+00:06:32,727 --> 00:06:33,728
+Andem!
+
+45
+00:06:39,100 --> 00:06:40,568
+Guarda-florestal.
+
+46
+00:10:52,587 --> 00:10:56,323
+-Ah! Olá, você deve ser o Billy.
+
+47
+00:10:56,390 --> 00:10:58,192
+- Me atrasei.
+
+48
+00:11:01,195 --> 00:11:04,365
+-Melissa. Sinto muito por isso.
+
+49
+00:11:04,431 --> 00:11:05,799
+Acabei me envolvendo.
+
+50
+00:11:05,866 --> 00:11:07,668
+— É, o Capitão Edgewood não gosta muito de desculpas.
+
+51
+00:11:07,735 --> 00:11:08,936
+Tente ser pontual enquanto estiver aqui.
+
+52
+00:11:09,003 --> 00:11:10,804
+A menos que você goste de levar bronca.
+
+53
+00:11:10,871 --> 00:11:12,473
+Tudo o que você precisa saber está às claras.
+
+54
+00:11:12,541 --> 00:11:14,308
+Não é nenhum bicho de sete cabeças.
+
+55
+00:11:14,375 --> 00:11:16,010
+— Sim, eu meio que esperava, já que vou estar
+
+56
+00:11:16,076 --> 00:11:16,877
+Aqui fora eu teria algum tempo.
+
+57
+00:11:16,944 --> 00:11:18,312
+É um turno longo.
+
+58
+00:11:18,379 --> 00:11:20,814
+Basicamente, você trabalha cerca de seis minutos por dia.
+
+59
+00:11:20,881 --> 00:11:23,652
+Assim você terá tempo para fazer o que quiser.
+
+60
+00:11:23,717 --> 00:11:26,420
+Só não irrite Edgewood.
+
+61
+00:11:26,487 --> 00:11:28,155
+Ou tente não fazer isso de qualquer maneira.
+
+62
+00:11:29,123 --> 00:11:31,158
+A parte mais difícil é não enlouquecer.
+
+63
+00:11:31,225 --> 00:11:32,627
+Quer dizer, você com certeza vai ficar um pouco maluco,
+
+64
+00:11:32,693 --> 00:11:34,828
+Mas tente se manter ocupado.
+
+65
+00:11:34,895 --> 00:11:36,730
+Você não acreditaria nas coisas horríveis que começam a acontecer por aqui.
+
+66
+00:11:36,797 --> 00:11:38,332
+Depois de um mês inteiro sozinha.
+
+67
+00:11:45,306 --> 00:11:46,407
+Chaves.
+
+68
+00:11:46,473 --> 00:11:49,076
+-Ah, desculpe, sim.
+
+69
+00:11:49,143 --> 00:11:50,945
+-Então, o abastecimento é feito uma vez por semana.
+
+70
+00:11:51,011 --> 00:11:53,247
+O primeiro apareceu há alguns dias.
+
+71
+00:11:53,314 --> 00:11:55,082
+Ah, e tem uma pia, mas não tem água corrente.
+
+72
+00:11:56,250 --> 00:11:58,152
+-Obrigado.
+
+73
+00:14:19,627 --> 00:14:21,295
+Obrigado, Billy.
+
+74
+00:15:02,169 --> 00:15:03,337
+Merda!
+
+75
+00:15:05,205 --> 00:15:07,207
+- Guarda Florestal Weston!
+
+76
+00:15:11,311 --> 00:15:12,479
+-Sim, senhor?
+
+77
+00:15:12,547 --> 00:15:14,248
+— Bom, que alívio!
+
+78
+00:15:14,314 --> 00:15:15,717
+Ouvir sua voz, Ranger.
+
+79
+00:15:15,784 --> 00:15:17,519
+Quando as 9h chegaram e passaram, eu presumi
+
+80
+00:15:17,585 --> 00:15:19,987
+Algo verdadeiramente apocalíptico deve ter acontecido com você.
+
+81
+00:15:20,053 --> 00:15:21,321
+perder o seu primeiro check-in
+
+82
+00:15:21,388 --> 00:15:24,258
+Logo no seu primeiro dia, no seu primeiro turno de trabalho na torre.
+
+83
+00:15:24,324 --> 00:15:25,426
+— Me desculpe, senhor.
+
+84
+00:15:25,492 --> 00:15:28,962
+A bateria estava descarregada e o gerador de reserva estava sem bateria.
+
+85
+00:15:29,029 --> 00:15:30,364
+- O tipo de indivíduo que se destaca
+
+86
+00:15:30,431 --> 00:15:32,634
+Na sua posição, você é um profissional proativo.
+
+87
+00:15:32,700 --> 00:15:35,603
+que verifica seus equipamentos com bastante antecedência ao uso.
+
+88
+00:15:35,670 --> 00:15:37,137
+— Me desculpe, senhor.
+
+89
+00:15:37,204 --> 00:15:39,173
+É o seu primeiro dia, então vamos relevar isso.
+
+90
+00:15:39,239 --> 00:15:41,408
+sendo momentaneamente dominado
+
+91
+00:15:41,475 --> 00:15:43,511
+pela significativa responsabilidade
+
+92
+00:15:43,578 --> 00:15:45,012
+que foi colocada sobre seus ombros
+
+93
+00:15:45,078 --> 00:15:45,979
+pelos próximos 30 dias.
+
+94
+00:15:46,046 --> 00:15:47,582
+— Me desculpe, senhor.
+
+95
+00:15:47,649 --> 00:15:48,949
+- Eu não quero um Ranger arrependido,
+
+96
+00:15:49,016 --> 00:15:50,984
+Quero um guarda florestal competente.
+
+97
+00:15:51,051 --> 00:15:52,386
+Entendido?
+
+98
+00:15:52,453 --> 00:15:53,954
+-Sim, senhor.
+
+99
+00:15:56,457 --> 00:15:58,893
+— Vai fazer o seu trabalho agora?
+
+100
+00:15:58,959 --> 00:16:00,762
+Ou você está esperando um convite?
+
+101
+00:16:00,829 --> 00:16:03,631
+— Desculpe, senhor. Sim. Quer dizer, estou cuidando disso.
+
+102
+00:16:06,901 --> 00:16:09,571
+Esta é a Torre de Observação de Lantern Ridge.
+
+103
+00:16:09,637 --> 00:16:13,073
+São aproximadamente 9h05 da manhã.
+
+104
+00:16:13,974 --> 00:16:14,909
+Visibilidade é--
+
+105
+00:16:14,975 --> 00:16:15,877
+Jesus!
+
+106
+00:16:20,280 --> 00:16:21,683
+Você ainda está conosco?
+
+107
+00:16:21,749 --> 00:16:23,551
+Ou será que o bom Deus veio para te levar embora?
+
+108
+00:16:23,618 --> 00:16:25,520
+—Não, senhor. Eu--
+
+109
+00:16:26,788 --> 00:16:29,056
+Um pássaro acabou de voar contra a janela.
+
+110
+00:16:29,122 --> 00:16:30,457
+Acho que está morto.
+
+111
+00:16:30,525 --> 00:16:32,894
+Enterre-o para que não atraia outros animais.
+
+112
+00:16:32,961 --> 00:16:34,428
+-Sim, senhor.
+
+113
+00:16:36,296 --> 00:16:40,067
+A visibilidade na torre de observação de Lantern Ridge está ótima.
+
+114
+00:16:41,536 --> 00:16:42,937
+16-17 quilômetros.
+
+115
+00:16:43,003 --> 00:16:45,372
+Entendido. Às cinco em ponto.
+
+116
+00:16:45,439 --> 00:16:47,876
+— Se for conveniente para você. 
+— Sim, senhor.
+
+117
+00:16:47,942 --> 00:16:50,545
+Sim, senhor.
+
+118
+00:16:52,379 --> 00:16:54,582
+- Não se esqueça de enterrar o pássaro.
+
+119
+00:18:28,610 --> 00:18:32,279
+Esta é a torre de observação de Lantern Ridge, na estação.
+
+120
+00:18:32,346 --> 00:18:34,015
+- Vá até a estação.
+
+121
+00:18:34,082 --> 00:18:36,416
+-Torre de Observação de Lantern Ridge.
+
+122
+00:18:36,483 --> 00:18:38,185
+Cinco da tarde
+
+123
+00:18:39,186 --> 00:18:40,588
+Visibilidade clara.
+
+124
+00:18:42,690 --> 00:18:44,659
+8-9 milhas.
+
+125
+00:18:44,726 --> 00:18:45,793
+- Entendido.
+
+126
+00:19:45,352 --> 00:19:48,321
+- Montanha Azul para Lantern Ridge.
+
+127
+00:19:52,994 --> 00:19:54,829
+Lantern Ridge, entre.
+
+128
+00:19:59,934 --> 00:20:01,401
+-Vá para Lantern Ridge.
+
+129
+00:20:01,468 --> 00:20:02,937
+Acesse o canal 12.
+
+130
+00:20:03,004 --> 00:20:04,138
+Edgewood não gosta
+
+131
+00:20:04,204 --> 00:20:06,641
+Conversas não oficiais em canais oficiais.
+
+132
+00:20:10,611 --> 00:20:12,345
+— Muito bem. Bem-vindo(a) à Montanha Azul.
+
+133
+00:20:12,412 --> 00:20:14,347
+Guarda Florestal Weston. Não posso te dizer
+
+134
+00:20:14,414 --> 00:20:17,051
+Que alegria ouvir uma voz nova!
+
+135
+00:20:17,118 --> 00:20:18,653
+— Faz muito tempo. 
+— Obrigado.
+
+136
+00:20:18,720 --> 00:20:19,821
+Roy, certo?
+
+137
+00:20:19,887 --> 00:20:20,955
+- Sim.
+
+138
+00:20:21,022 --> 00:20:22,724
+-Problemas no paraíso?
+
+139
+00:20:22,790 --> 00:20:24,458
+- Sim e sim.
+
+140
+00:20:24,525 --> 00:20:26,694
+Tenho certeza que você viu com seus próprios olhos.
+
+141
+00:20:26,761 --> 00:20:27,829
+quando você chegou lá.
+
+142
+00:20:27,895 --> 00:20:29,097
+Você conheceu o Billy, não é?
+
+143
+00:20:29,163 --> 00:20:30,464
+-Mais ou menos.
+
+144
+00:20:30,531 --> 00:20:32,232
+Nunca conheci ninguém que descesse correndo.
+
+145
+00:20:32,299 --> 00:20:34,102
+um lance de escadas tão rápido quanto ele fez.
+
+146
+00:20:34,168 --> 00:20:35,302
+- Oh sim.
+
+147
+00:20:35,368 --> 00:20:37,337
+Ele estava contando os minutos.
+
+148
+00:20:37,404 --> 00:20:38,673
+Este não é um bom emprego para alguém.
+
+149
+00:20:38,740 --> 00:20:40,141
+que não conseguem se lembrar de como é.
+
+150
+00:20:40,208 --> 00:20:43,578
+Ficar 30 segundos sem um telefone na mão.
+
+151
+00:20:43,644 --> 00:20:44,478
+-Ah, qual é.
+
+152
+00:20:44,545 --> 00:20:46,379
+Nem todos nós somos casos perdidos.
+
+153
+00:20:46,446 --> 00:20:48,883
+— Ah, que bom. Isso é ótimo.
+
+154
+00:20:48,950 --> 00:20:50,317
+Ufa!
+
+155
+00:20:50,383 --> 00:20:52,620
+Após um mês conversando apenas com Billy e o capitão,
+
+156
+00:20:52,687 --> 00:20:56,190
+Estou pronto para conversar com um ser humano de verdade.
+
+157
+00:20:56,256 --> 00:20:58,192
+-Espere, você não deveria ir para casa em breve?
+
+158
+00:20:58,258 --> 00:21:00,293
+— Não, não antes de dois meses.
+
+159
+00:21:00,360 --> 00:21:02,797
+Posso ser velho, mas sou durão.
+
+160
+00:21:02,864 --> 00:21:03,998
+Três turnos seguidos.
+
+161
+00:21:04,065 --> 00:21:05,233
+Toda temporada de incêndios.
+
+162
+00:21:05,298 --> 00:21:08,870
+-Uau, não sei se devo ficar impressionado.
+
+163
+00:21:08,936 --> 00:21:10,505
+ou preocupada com você.
+
+164
+00:21:10,571 --> 00:21:13,107
+— Hum... provavelmente ambos.
+
+165
+00:21:13,174 --> 00:21:15,143
+Antes, todos brigavam pelo turno da torre.
+
+166
+00:21:15,209 --> 00:21:16,443
+Mas agora é uma luta.
+
+167
+00:21:16,511 --> 00:21:19,080
+para conseguir voluntários suficientes para preencher a agenda.
+
+168
+00:21:19,147 --> 00:21:20,515
+Não há nenhum outro lugar onde eu preferiria estar.
+
+169
+00:21:20,581 --> 00:21:24,585
+— Bem, você e eu temos algo em comum, Roy.
+
+170
+00:21:24,652 --> 00:21:28,388
+Porque eu me ofereci para fazer o turno também.
+
+171
+00:21:28,455 --> 00:21:30,691
+- Nossa! Que coisa!
+
+172
+00:21:30,758 --> 00:21:34,361
+Talvez ainda haja esperança para a sua geração.
+
+173
+00:21:34,427 --> 00:21:36,798
+Então você está aqui para perseguir ou para fugir?
+
+174
+00:21:36,864 --> 00:21:38,398
+-O que você quer dizer?
+
+175
+00:21:38,465 --> 00:21:39,767
+— Quer dizer, do jeito que eu vejo
+
+176
+00:21:39,834 --> 00:21:41,368
+Existem apenas dois tipos de guardas florestais.
+
+177
+00:21:41,434 --> 00:21:42,837
+que se voluntariam para um turno na torre.
+
+178
+00:21:42,904 --> 00:21:44,471
+O tipo de pessoa que está em busca de algo
+
+179
+00:21:44,539 --> 00:21:47,141
+e aqueles que estão fugindo de alguma coisa.
+
+180
+00:21:47,208 --> 00:21:49,476
+Qual deles... Qual deles você é?
+
+181
+00:21:50,511 --> 00:21:53,413
+Espera, espera. Na verdade, não me conta ainda.
+
+182
+00:21:53,480 --> 00:21:55,550
+Isso nos dará assunto para conversar amanhã.
+
+183
+00:21:55,616 --> 00:21:57,185
+Foi um prazer conhecê-la, Melissa.
+
+184
+00:21:57,251 --> 00:21:59,187
+— O prazer foi todo meu, Roy.
+
+185
+00:21:59,253 --> 00:22:01,122
+- Você tem um lugar tranquilo
+
+186
+00:22:01,189 --> 00:22:02,890
+e uma noite agradável.
+
+187
+00:22:02,957 --> 00:22:04,292
+-Você também.
+
+188
+00:26:19,847 --> 00:26:22,283
+-Torre de observação de Lantern Ridge para a estação.
+
+189
+00:26:22,349 --> 00:26:23,617
+- Vá até a estação.
+
+190
+00:26:23,684 --> 00:26:25,186
+-Torre de Observação de Lantern Ridge.
+
+191
+00:26:25,252 --> 00:26:26,754
+São 9 da manhã.
+
+192
+00:26:26,821 --> 00:26:28,689
+A visibilidade é clara.
+
+193
+00:26:30,257 --> 00:26:33,027
+Aproximadamente 18 milhas.
+
+194
+00:26:33,094 --> 00:26:34,228
+- Entendido.
+
+195
+00:26:36,597 --> 00:26:38,099
+Bom dia para você também.
+
+196
+00:29:35,042 --> 00:29:37,612
+Oh meu Deus!
+
+197
+00:29:37,679 --> 00:29:39,113
+Você está bem?
+
+198
+00:29:39,748 --> 00:29:41,148
+-Eu não o tenho.
+
+199
+00:29:41,215 --> 00:29:42,149
+Eu não o tenho.
+
+200
+00:29:42,216 --> 00:29:43,784
+-O que aconteceu?
+
+201
+00:29:43,851 --> 00:29:45,687
+-Eu não o tenho.
+
+202
+00:29:45,754 --> 00:29:47,488
+— Você não tem o quê?
+
+203
+00:29:47,555 --> 00:29:49,390
+-Eu não o tenho.
+
+204
+00:29:49,456 --> 00:29:51,091
+- Oh meu Deus.
+
+205
+00:29:51,158 --> 00:29:53,494
+Suas pernas!
+
+206
+00:29:53,561 --> 00:29:54,729
+Oh!
+
+207
+00:29:54,795 --> 00:29:58,098
+— Olha, você está muito queimado.
+
+208
+00:29:59,500 --> 00:30:00,602
+Você precisa de atendimento médico.
+
+209
+00:30:00,669 --> 00:30:02,870
+Você não vai conseguir isso por aqui.
+
+210
+00:30:02,936 --> 00:30:05,005
+Você está em choque agora e logo estará também.
+
+211
+00:30:05,072 --> 00:30:07,542
+Você não vai conseguir andar.
+
+212
+00:30:07,609 --> 00:30:09,343
+Tudo bem.
+
+213
+00:30:10,878 --> 00:30:12,614
+Olhe para mim. Está tudo bem.
+
+214
+00:30:14,683 --> 00:30:17,151
+-Minha torre fica um pouco longe.
+
+215
+00:30:17,217 --> 00:30:18,986
+Mas nós vamos chegar lá juntos, só você e eu, tá bom?
+
+216
+00:30:19,053 --> 00:30:21,021
+Com calma e devagar, prometo.
+
+217
+00:30:21,088 --> 00:30:22,456
+OK?
+
+218
+00:30:23,758 --> 00:30:25,225
+Com calma e devagar.
+
+219
+00:30:25,292 --> 00:30:27,027
+Vamos respirar fundo juntos.
+
+220
+00:30:27,094 --> 00:30:28,329
+Ao mesmo tempo. Preparados?
+
+221
+00:30:30,998 --> 00:30:35,035
+E deixe sair.
+
+222
+00:30:35,102 --> 00:30:38,872
+Ótimo. Qual é o seu nome?
+
+223
+00:30:38,939 --> 00:30:41,576
+-Senhorita Conley.
+
+224
+00:30:41,643 --> 00:30:43,444
+-Melissa.
+
+225
+00:30:44,945 --> 00:30:47,047
+Vamos, vamos sair daqui.
+
+226
+00:30:48,182 --> 00:30:49,283
+Entendi.
+
+227
+00:30:52,520 --> 00:30:53,588
+OK.
+
+228
+00:31:16,276 --> 00:31:17,444
+Bem ali.
+
+229
+00:31:17,512 --> 00:31:20,447
+Vamos dar uma volta por aqui, ok?
+
+230
+00:31:23,917 --> 00:31:26,053
+Pronto.
+
+231
+00:31:26,120 --> 00:31:27,856
+Pronto. Você entendeu.
+
+232
+00:31:33,828 --> 00:31:35,764
+Certo, vamos sentar bem aqui, ok?
+
+233
+00:31:35,830 --> 00:31:37,431
+Vou te ajudar.
+
+234
+00:31:37,498 --> 00:31:38,432
+Entendi.
+
+235
+00:31:40,769 --> 00:31:43,070
+Ah, sim, aí está.
+
+236
+00:31:43,137 --> 00:31:44,238
+OK.
+
+237
+00:31:44,304 --> 00:31:46,407
+Vou tentar ligar para pedir ajuda, ok?
+
+238
+00:31:46,473 --> 00:31:50,377
+E tente encontrar algo para aliviar essas queimaduras.
+
+239
+00:31:51,613 --> 00:31:53,947
+-Eu não o tenho.
+
+240
+00:31:54,014 --> 00:31:55,416
+Eu não o tenho.
+
+241
+00:31:55,482 --> 00:31:56,450
+-OK.
+
+242
+00:31:56,518 --> 00:31:57,519
+-Eu não o tenho.
+
+243
+00:31:57,585 --> 00:31:59,821
+-Certo, fique aqui, já volto.
+
+244
+00:32:11,533 --> 00:32:14,268
+- Ah Merda!
+
+245
+00:32:18,138 --> 00:32:20,174
+Torre de observação Lantern Ridge para a estação.
+
+246
+00:32:20,240 --> 00:32:22,042
+Torre de observação Lantern Ridge para a estação.
+
+247
+00:32:22,109 --> 00:32:23,578
+É uma emergência.
+
+248
+00:32:23,645 --> 00:32:25,145
+— Esta é a estação. Qual é a sua emergência?
+
+249
+00:32:25,212 --> 00:32:27,047
+-Encontrei um excursionista ferido.
+
+250
+00:32:27,114 --> 00:32:29,316
+Ela tem queimaduras graves nas pernas.
+
+251
+00:32:29,383 --> 00:32:31,285
+Ela precisa de atendimento médico de emergência.
+
+252
+00:32:31,351 --> 00:32:32,319
+Ela está em estado de choque.
+
+253
+00:32:32,386 --> 00:32:33,755
+— Certo. O fogo ainda está aceso?
+
+254
+00:32:33,822 --> 00:32:35,623
+-Sem fogo. Apenas o excursionista queimado.
+
+255
+00:32:35,690 --> 00:32:37,491
+- Entendido.
+
+256
+00:32:37,559 --> 00:32:39,727
+O Capitão Edgewood está em patrulha não muito longe de você.
+
+257
+00:32:39,794 --> 00:32:41,161
+Aguente firme.
+
+258
+00:33:15,395 --> 00:33:17,665
+Posto para o Capitão Edgewood.
+
+259
+00:33:26,741 --> 00:33:28,141
+— É melhor que isso seja bom.
+
+260
+00:33:29,544 --> 00:33:31,546
+- Há um excursionista ferido na Torre Lantern Ridge.
+
+261
+00:33:31,613 --> 00:33:34,181
+Ela precisa de assistência médica de emergência.
+
+262
+00:33:35,382 --> 00:33:38,218
+-O que diabos um excursionista está fazendo na torre?
+
+263
+00:33:38,887 --> 00:33:41,856
+Eu não sei, senhor.
+
+264
+00:33:41,923 --> 00:33:43,257
+Ela não disse nada.
+
+265
+00:33:45,660 --> 00:33:46,761
+-Já estou a caminho.
+
+266
+00:34:11,653 --> 00:34:13,387
+— Senhorita Conley?
+
+267
+00:34:22,830 --> 00:34:26,935
+Ei. Que tal te levarmos de volta para as escadas, tudo bem?
+
+268
+00:34:27,001 --> 00:34:28,670
+Vamos lá. A ajuda chegará em breve.
+
+269
+00:34:35,475 --> 00:34:37,444
+Existe algo lá fora?
+
+270
+00:34:47,889 --> 00:34:51,158
+Que tal darmos uma olhada melhor nessas pernas, hein?
+
+271
+00:34:51,224 --> 00:34:53,226
+Vamos lá. Eu te entendo.
+
+272
+00:34:55,630 --> 00:34:56,731
+Vamos.
+
+273
+00:34:59,901 --> 00:35:01,368
+Te peguei.
+
+274
+00:35:06,841 --> 00:35:08,175
+Tudo bem.
+
+275
+00:35:22,657 --> 00:35:24,191
+-O que aconteceu?
+
+276
+00:35:24,257 --> 00:35:26,126
+Ela tem queimaduras graves nas pernas.
+
+277
+00:35:26,193 --> 00:35:28,029
+E ela não se lembra de como os conseguiu.
+
+278
+00:35:28,096 --> 00:35:30,430
+Ela está em estado de choque e dissociada.
+
+279
+00:35:32,533 --> 00:35:34,334
+-Gostei do seu chapéu.
+
+280
+00:35:34,401 --> 00:35:35,770
+— Eu também gosto, senhora.
+
+281
+00:35:44,946 --> 00:35:46,814
+-Obrigado, Capitão.
+
+282
+00:35:46,881 --> 00:35:48,482
+-Que diabos você está fazendo?
+
+283
+00:35:48,549 --> 00:35:49,483
+-Com licença?
+
+284
+00:35:49,550 --> 00:35:51,052
+-Você está de vigia contra incêndios, guarda florestal.
+
+285
+00:35:51,119 --> 00:35:52,152
+-Eu havia terminado o check-in.
+
+286
+00:35:52,219 --> 00:35:54,354
+— E eu pensei... 
+— Pare. Vou repetir.
+
+287
+00:35:54,421 --> 00:35:56,323
+Você está de vigia contra incêndios, guarda florestal.
+
+288
+00:35:56,390 --> 00:35:57,725
+O check-in foi realizado, senhor.
+
+289
+00:35:57,792 --> 00:35:59,426
+Fazer o check-in não é sua função.
+
+290
+00:35:59,493 --> 00:36:01,729
+Brincar na floresta não é sua obrigação.
+
+291
+00:36:01,796 --> 00:36:04,065
+Seu trabalho é sentar a sua bunda naquela torre.
+
+292
+00:36:04,132 --> 00:36:05,700
+Dia e noite, fique atento a incêndios.
+
+293
+00:36:05,767 --> 00:36:06,901
+Acorde, coma uma banana,
+
+294
+00:36:06,968 --> 00:36:07,935
+Fique atento a incêndios.
+
+295
+00:36:08,002 --> 00:36:09,837
+Leia um livro, fique atento a incêndios.
+
+296
+00:36:09,904 --> 00:36:11,338
+Faça uma sopa e fique de olho em possíveis incêndios.
+
+297
+00:36:11,405 --> 00:36:14,307
+Desça as escadas por exatamente 30 segundos para cagar.
+
+298
+00:36:14,374 --> 00:36:17,078
+E depois voltem imediatamente para cima e fiquem de olho em possíveis incêndios.
+
+299
+00:36:17,145 --> 00:36:19,013
+A parte mais emocionante do seu dia,
+
+300
+00:36:19,080 --> 00:36:20,347
+Se Deus quiser, não haverá incêndios.
+
+301
+00:36:20,414 --> 00:36:23,851
+está falando comigo naquele rádio.
+
+302
+00:36:23,918 --> 00:36:25,218
+-Sim, eu entendo isso--
+
+303
+00:36:25,285 --> 00:36:26,954
+— Não, obviamente você não entende.
+
+304
+00:36:27,021 --> 00:36:29,023
+Então, deixe-me ser bem claro.
+
+305
+00:36:29,090 --> 00:36:31,391
+É 1605?
+
+306
+00:36:33,094 --> 00:36:34,162
+-O que?
+
+307
+00:36:34,227 --> 00:36:37,364
+-É o ano de Nosso Senhor, 1605?
+
+308
+00:36:37,431 --> 00:36:38,432
+-Não.
+
+309
+00:36:38,498 --> 00:36:41,301
+-Estamos aproveitando uma noite quente de verão em Londres?
+
+310
+00:36:41,368 --> 00:36:44,038
+Será que estamos comendo berbigões no Globe Theatre?
+
+311
+00:36:44,105 --> 00:36:46,107
+-Eu sou William Shakespeare? 
+-Não.
+
+312
+00:36:46,174 --> 00:36:48,710
+— Então por que você está se pavoneando como Titânia?
+
+313
+00:36:48,776 --> 00:36:50,912
+A rainha das fadas da floresta, porra?
+
+314
+00:36:52,714 --> 00:36:55,282
+Se recomponha, Ranger!
+
+315
+00:36:55,348 --> 00:36:57,484
+E comece a agir como um adulto.
+
+316
+00:36:58,720 --> 00:36:59,620
+-Sim, senhor.
+
+317
+00:37:01,288 --> 00:37:03,658
+-E conserte esse equipamento até às 17h.
+
+318
+00:37:06,661 --> 00:37:07,595
+Preparem-se, pessoal.
+
+319
+00:37:09,262 --> 00:37:10,464
+-Sim, senhor.
+
+320
+00:38:24,906 --> 00:38:27,474
+-Torre de observação de Lantern Ridge para a estação.
+
+321
+00:38:27,542 --> 00:38:28,543
+- Vá até a estação.
+
+322
+00:38:28,609 --> 00:38:32,213
+-A visibilidade está boa, a 15 milhas de distância.
+
+323
+00:38:32,280 --> 00:38:34,782
+São 17h02.
+
+324
+00:38:37,384 --> 00:38:39,921
+- Entendido. Vou anotar às 16h.
+
+325
+00:38:41,421 --> 00:38:42,523
+-Obrigado.
+
+326
+00:38:42,590 --> 00:38:44,491
+- Sim, sem problema.
+
+327
+00:39:46,787 --> 00:39:48,956
+Eu não o tenho.
+
+328
+00:39:49,023 --> 00:39:50,490
+O que aconteceu?
+
+329
+00:39:50,558 --> 00:39:52,827
+Eu não o tenho.
+
+330
+00:39:52,894 --> 00:39:54,128
+Eu não o tenho.
+
+331
+00:39:55,229 --> 00:39:56,631
+- Guarda Florestal Weston,
+
+332
+00:39:56,697 --> 00:39:59,667
+Sua presença é solicitada no deck da piscina.
+
+333
+00:39:59,734 --> 00:40:01,769
+Passageiros e tripulação estão todos animados.
+
+334
+00:40:01,836 --> 00:40:04,437
+para ver seus movimentos no deck da piscina.
+
+335
+00:40:04,505 --> 00:40:07,375
+-Mudando para cinco.
+
+336
+00:40:09,677 --> 00:40:11,411
+E aí, Roy, como foi seu dia?
+
+337
+00:40:11,478 --> 00:40:14,215
+— Bem, apenas mais um dia no paraíso.
+
+338
+00:40:14,282 --> 00:40:16,483
+O sol brilhava, os pássaros cantavam,
+
+339
+00:40:16,550 --> 00:40:17,952
+Nada pegou fogo.
+
+340
+00:40:18,019 --> 00:40:19,987
+— Não literalmente, pelo menos.
+
+341
+00:40:20,054 --> 00:40:21,389
+Ah, entendi.
+
+342
+00:40:22,056 --> 00:40:24,225
+Sim, eu também ouvi dizer que a mulher que você ajudou hoje
+
+343
+00:40:24,292 --> 00:40:25,660
+Vai ficar tudo bem.
+
+344
+00:40:25,726 --> 00:40:27,361
+Se você não a tivesse encontrado,
+
+345
+00:40:27,427 --> 00:40:29,397
+Ela provavelmente ainda estaria lá fora sozinha.
+
+346
+00:40:29,462 --> 00:40:32,800
+— Obrigado, Roy. Eu precisava ouvir isso.
+
+347
+00:40:32,867 --> 00:40:33,901
+Você sabe,
+
+348
+00:40:35,036 --> 00:40:37,004
+Se você parar para pensar, eu sou uma espécie de herói.
+
+349
+00:40:37,071 --> 00:40:39,073
+— Eu não queria dizer nada.
+
+350
+00:40:39,140 --> 00:40:40,775
+Mas eu estava pensando nisso.
+
+351
+00:41:17,511 --> 00:41:19,447
+— Sabe, estou realmente muito animado
+
+352
+00:41:19,513 --> 00:41:21,015
+para esta tempestade.
+
+353
+00:41:21,882 --> 00:41:26,153
+Há sempre uma luz linda na manhã seguinte a uma tempestade.
+
+354
+00:41:26,220 --> 00:41:27,487
+- Você é pintor?
+
+355
+00:41:27,555 --> 00:41:29,390
+-Fotógrafo.
+
+356
+00:41:29,457 --> 00:41:31,292
+— Cuidado, Ansel Adams.
+
+357
+00:41:31,359 --> 00:41:33,094
+Temos um fotógrafo em nossa equipe.
+
+358
+00:41:33,160 --> 00:41:36,897
+— Sim, o primeiro do mundo completamente
+
+359
+00:41:36,964 --> 00:41:38,032
+Forma de arte descartável.
+
+360
+00:41:38,099 --> 00:41:39,200
+- Ah, de jeito nenhum.
+
+361
+00:41:39,266 --> 00:41:42,036
+Escute, existem bilhões de pessoas no mundo,
+
+362
+00:41:42,103 --> 00:41:44,271
+mas apenas um deles tem a sua perspectiva.
+
+363
+00:41:46,907 --> 00:41:48,609
+-Obrigado, Roy.
+
+364
+00:41:48,676 --> 00:41:49,610
+- Tudo bem.
+
+365
+00:43:10,458 --> 00:43:11,759
+-Roy?
+
+366
+00:43:38,452 --> 00:43:39,954
+- É meu!
+
+367
+00:45:15,650 --> 00:45:16,784
+Policial--
+
+368
+00:46:02,564 --> 00:46:04,298
+- Uau! O que aconteceu aqui?
+
+369
+00:46:06,166 --> 00:46:08,068
+Desculpe, não queria te assustar.
+
+370
+00:46:11,438 --> 00:46:12,406
+-Não sei.
+
+371
+00:46:15,376 --> 00:46:16,277
+-Talvez um urso?
+
+372
+00:46:18,647 --> 00:46:20,180
+Estou acampando a cerca de 800 metros daqui.
+
+373
+00:46:20,247 --> 00:46:21,516
+Devo me preocupar?
+
+374
+00:46:21,583 --> 00:46:23,384
+— Não acho que tenha sido um urso, não.
+
+375
+00:46:26,854 --> 00:46:28,422
+Você disse que ia acampar?
+
+376
+00:46:29,823 --> 00:46:33,427
+-Sim. Hum, estou bem na base da crista.
+
+377
+00:46:35,462 --> 00:46:38,065
+Você notou algo incomum ontem à noite?
+
+378
+00:46:39,601 --> 00:46:41,135
+— Que tempestade daquelas!
+
+379
+00:46:42,537 --> 00:46:44,238
+Além disso, incomum é relativo.
+
+380
+00:46:45,239 --> 00:46:46,840
+Algo totalmente horrível para você
+
+381
+00:46:46,907 --> 00:46:48,809
+Para mim, isso pode ser totalmente normal.
+
+382
+00:46:56,016 --> 00:47:00,321
+Hum, acho que vou arrumar meu acampamento.
+
+383
+00:47:01,756 --> 00:47:03,324
+Tenha um bom dia.
+
+384
+00:47:04,458 --> 00:47:05,527
+-Obrigado.
+
+385
+00:47:06,795 --> 00:47:08,128
+Fique seguro, guarda florestal.
+
+386
+00:47:43,864 --> 00:47:44,799
+Sim, a floresta está cheia.
+
+387
+00:47:44,865 --> 00:47:46,601
+com pessoas solitárias e socialmente desajeitadas.
+
+388
+00:47:46,668 --> 00:47:48,035
+Como eu disse, corredores e perseguidores.
+
+389
+00:47:48,102 --> 00:47:49,103
+— Sim, eu só estava esperando
+
+390
+00:47:49,169 --> 00:47:50,705
+Seria mais uma metáfora,
+
+391
+00:47:50,772 --> 00:47:53,641
+e não eu tendo que fugir de alguém que está me perseguindo.
+
+392
+00:47:53,708 --> 00:47:56,811
+- Sim, bem,
+
+393
+00:47:56,877 --> 00:47:58,646
+De que você está fugindo?
+
+394
+00:48:00,247 --> 00:48:02,082
+Desculpe, não quero ser intrometida.
+
+395
+00:48:02,149 --> 00:48:03,350
+Minha esposa era psiquiatra.
+
+396
+00:48:03,417 --> 00:48:05,085
+Acho que, sabe, depois de todos esses anos
+
+397
+00:48:05,152 --> 00:48:06,654
+Eu simplesmente não consigo me controlar.
+
+398
+00:48:06,721 --> 00:48:09,791
+-Uau, um médico. Arrasa, Roy!
+
+399
+00:48:10,958 --> 00:48:13,561
+Isso mesmo. Dra. Maggie Walters.
+
+400
+00:48:13,628 --> 00:48:14,995
+Bonito também, e engraçado.
+
+401
+00:48:15,062 --> 00:48:16,063
+-Uma tripla ameaça.
+
+402
+00:48:16,130 --> 00:48:17,699
+— Ela desejava.
+
+403
+00:48:17,766 --> 00:48:19,900
+-Uh! Roy!
+
+404
+00:48:21,101 --> 00:48:23,605
+Nossa, no fundo ela sempre quis
+
+405
+00:48:23,671 --> 00:48:25,973
+Ser artista.
+
+406
+00:48:26,039 --> 00:48:27,575
+Começamos a vir para cá todo verão.
+
+407
+00:48:27,642 --> 00:48:28,810
+para que ela pudesse pintar,
+
+408
+00:48:28,877 --> 00:48:32,045
+Mas acabou que ela era uma pintora péssima.
+
+409
+00:48:32,112 --> 00:48:34,516
+Mas nós nos apaixonamos mesmo por este lugar.
+
+410
+00:48:34,582 --> 00:48:36,718
+Sempre dissemos que nos aposentaríamos aqui.
+
+411
+00:48:36,785 --> 00:48:38,218
+— Pensei que você tivesse dito que era apenas
+
+412
+00:48:38,285 --> 00:48:40,387
+Existem muitos solitários socialmente desajeitados por aí.
+
+413
+00:48:40,454 --> 00:48:44,057
+— Éramos nós. Sozinhos, juntos.
+
+414
+00:48:47,394 --> 00:48:49,096
+— Sinto muito, Roy.
+
+415
+00:48:49,163 --> 00:48:50,565
+— Ah, não seja assim.
+
+416
+00:48:51,733 --> 00:48:54,401
+Ainda dói, mas quando me sento aqui
+
+417
+00:48:54,468 --> 00:48:56,838
+e o sol se derrama sobre as montanhas,
+
+418
+00:48:56,905 --> 00:48:58,773
+ela se espalha pela floresta,
+
+419
+00:48:59,641 --> 00:49:02,009
+Não consigo deixar de pensar em como tudo isso,
+
+420
+00:49:02,075 --> 00:49:05,112
+Maggie, eu, estas árvores, as montanhas,
+
+421
+00:49:05,179 --> 00:49:06,346
+Está tudo interligado.
+
+422
+00:49:06,413 --> 00:49:09,016
+Pequenos fragmentos de um todo maior.
+
+423
+00:49:09,082 --> 00:49:12,286
+Às vezes, sentir-se pequeno é uma sensação boa.
+
+424
+00:49:14,656 --> 00:49:17,991
+— Sabe, eu ia te dizer,
+
+425
+00:49:20,494 --> 00:49:23,731
+Na verdade, estou aqui em busca de algo.
+
+426
+00:49:24,899 --> 00:49:26,333
+- Eu pensei assim.
+
+427
+00:49:26,400 --> 00:49:27,769
+Tudo simplesmente começou a acontecer.
+
+428
+00:49:27,836 --> 00:49:29,102
+tudo de uma vez na minha vida,
+
+429
+00:49:29,169 --> 00:49:34,041
+E comecei a sentir que estava me perdendo.
+
+430
+00:49:35,677 --> 00:49:37,779
+Pensei que conseguiria me encontrar aqui,
+
+431
+00:49:37,846 --> 00:49:39,146
+redescobrir minhas paixões,
+
+432
+00:49:39,213 --> 00:49:41,148
+Mas, para ser sincero,
+
+433
+00:49:41,215 --> 00:49:44,485
+Na verdade, o que estou fazendo é fugir de mim mesmo.
+
+434
+00:49:46,487 --> 00:49:48,857
+- É isso que nós, que trabalhamos no ramo, fazemos.
+
+435
+00:49:48,923 --> 00:49:50,991
+chamar isso de avanço.
+
+436
+00:49:51,058 --> 00:49:52,827
+Maggie ficaria orgulhosa.
+
+437
+00:49:52,894 --> 00:49:55,630
+— Sim, acho que sim.
+
+438
+00:51:09,136 --> 00:51:11,171
+Vá até a estação.
+
+439
+00:51:11,238 --> 00:51:13,708
+-Visibilidade clara. Onze milhas.
+
+440
+00:51:13,775 --> 00:51:14,776
+- Entendido.
+
+441
+00:53:28,241 --> 00:53:29,510
+-Você está bem, Ranger?
+
+442
+00:53:31,179 --> 00:53:32,714
+— Ah, graças a Deus.
+
+443
+00:53:34,281 --> 00:53:35,415
+-Deixe-me ajudá-lo(a).
+
+444
+00:53:48,295 --> 00:53:49,630
+Oh!
+
+445
+00:53:52,033 --> 00:53:53,400
+Obrigado.
+
+446
+00:53:54,267 --> 00:53:56,871
+— Vamos lá, levante-se! Vamos lá.
+
+447
+00:53:56,938 --> 00:53:59,006
+Vamos lá. Está tudo bem.
+
+448
+00:54:02,510 --> 00:54:04,145
+Acho que não consigo andar sobre isso.
+
+449
+00:54:04,979 --> 00:54:08,082
+— Vamos, me deixe ajudar a voltar para o sua torre de vigia.
+
+450
+00:54:10,752 --> 00:54:13,921
+— Eu não te disse que estava em uma torre.
+
+451
+00:54:15,322 --> 00:54:17,625
+— Sim, você disse. Ontem.
+
+452
+00:54:20,628 --> 00:54:23,030
+-Não, eu não disse isso.
+
+453
+00:54:23,097 --> 00:54:24,832
+-Hum. Tenho quase certeza que disse sim.
+
+454
+00:54:28,803 --> 00:54:32,405
+-Não. Eu não disse.
+
+455
+00:54:32,472 --> 00:54:35,209
+— Hum. Talvez eu tenha juntado as peças.
+
+456
+00:54:35,275 --> 00:54:37,111
+Uma guarda florestal aqui sozinho
+
+457
+00:54:37,178 --> 00:54:39,981
+Sem rádio e sem veículo.
+
+458
+00:54:41,816 --> 00:54:42,784
+Olhe!
+
+459
+00:54:43,785 --> 00:54:46,988
+Agradeço sua ajuda, mas não preciso dela.
+
+460
+00:54:47,054 --> 00:54:49,957
+— Eu realmente gostaria de poder te ajudar também.
+
+461
+00:54:50,024 --> 00:54:51,793
+— Eu disse não, obrigada.
+
+462
+00:54:51,859 --> 00:54:53,928
+— Eu insisto.
+
+463
+00:54:53,995 --> 00:54:55,362
+-Hum.
+
+464
+00:54:56,496 --> 00:54:58,633
+— Isso não é nada legal.
+
+465
+00:55:00,300 --> 00:55:01,301
+Não vou repetir.
+
+466
+00:55:01,368 --> 00:55:03,237
+Vamos até a sua torre.
+
+467
+00:55:03,303 --> 00:55:04,939
+Você tem algo que eu preciso.
+
+468
+00:55:12,880 --> 00:55:13,881
+-Você já terminou?
+
+469
+00:55:15,348 --> 00:55:16,617
+Vamos.
+
+470
+00:55:18,519 --> 00:55:21,321
+— Acho que a guarda florestal mandou você se foder.
+
+471
+00:55:24,125 --> 00:55:24,992
+-Oh.
+
+472
+00:55:27,061 --> 00:55:28,328
+Vocês dois de novo.
+
+473
+00:55:29,664 --> 00:55:31,933
+Estou realmente farto disto.
+
+474
+00:55:37,404 --> 00:55:39,372
+-Precisamos sair daqui agora.
+
+475
+00:55:40,141 --> 00:55:42,710
+Se ele se aproximar mais, atire nele bem no coração.
+
+476
+00:55:50,450 --> 00:55:51,451
+-Para onde vamos?
+
+477
+00:55:51,519 --> 00:55:52,920
+-O caminhão está logo ali na frente.
+
+478
+00:55:54,322 --> 00:55:56,057
+— Vou atirar em você.
+
+479
+00:55:57,191 --> 00:55:58,826
+Devolva.
+
+480
+00:56:12,106 --> 00:56:13,274
+-Buck!
+
+481
+00:56:13,341 --> 00:56:15,843
+- Corra!
+
+482
+00:56:19,347 --> 00:56:20,715
+— Aqui está você.
+
+483
+00:57:16,137 --> 00:57:17,104
+O que você está fazendo?
+
+484
+00:57:17,171 --> 00:57:18,606
+-Não sou eu!
+
+485
+00:57:27,715 --> 00:57:29,583
+-Até breve, Ranger.
+
+486
+00:58:02,116 --> 00:58:04,986
+— Eu te disse que havia algumas pessoas doentes por aqui.
+
+487
+00:58:10,324 --> 00:58:11,892
+-Que diabos foi isso?
+
+488
+00:58:13,260 --> 00:58:14,628
+— O diabo.
+
+489
+00:58:18,132 --> 00:58:19,233
+-Onde está Skeeter?
+
+490
+00:58:42,423 --> 00:58:44,058
+— Espere aqui. Já volto.
+
+491
+00:59:01,108 --> 00:59:02,977
+- Não, vamos lá!
+
+492
+00:59:05,413 --> 00:59:08,049
+Vamos lá!
+
+493
+00:59:14,255 --> 00:59:15,723
+— Ei, seu idiota.
+
+494
+00:59:55,329 --> 00:59:57,331
+— Não é tão durão sem a sua pedrinha, né?
+
+495
+01:00:19,053 --> 01:00:19,987
+-Ei, seu idiota.
+
+496
+01:01:09,436 --> 01:01:11,105
+-Por que você está prolongando isso?
+
+497
+01:01:13,240 --> 01:01:14,408
+Eu sei que você está aqui.
+
+498
+01:01:33,827 --> 01:01:35,930
+Você sabe que eu vou conseguir o que quero.
+
+499
+01:01:43,037 --> 01:01:44,905
+Você pode simplesmente me dar.
+
+500
+01:01:47,274 --> 01:01:49,376
+Ou eu posso aceitar!
+
+501
+01:01:52,880 --> 01:01:54,882
+Não há mais para onde você fugir.
+
+502
+01:01:56,585 --> 01:01:58,485
+Não sobrou nenhum amiguinho para te ajudar.
+
+503
+01:02:06,628 --> 01:02:08,028
+Aqui está você.
+
+504
+01:02:16,804 --> 01:02:19,139
+Deixe-a em paz!
+
+505
+01:02:22,644 --> 01:02:25,412
+Que diabos você fez comigo?
+
+506
+01:02:25,479 --> 01:02:26,780
+-O que eu te fiz?
+
+507
+01:02:26,847 --> 01:02:28,516
+Eu te dei um presente.
+
+508
+01:02:30,117 --> 01:02:31,318
+Eu te mostrei o que é possível,
+
+509
+01:02:31,385 --> 01:02:34,088
+do que seu patético navio é realmente capaz.
+
+510
+01:02:35,724 --> 01:02:36,824
+— Saia daqui, guarda florestal.
+
+511
+01:02:36,890 --> 01:02:38,759
+Eu vou cuidar disso!
+
+512
+01:02:39,628 --> 01:02:41,095
+-É isso que você vai fazer?
+
+513
+01:02:41,161 --> 01:02:43,163
+Você vai cuidar disso?
+
+514
+01:02:43,998 --> 01:02:47,501
+-Esta é para Dale... e Buck.
+
+515
+01:02:53,274 --> 01:02:54,375
+-Faça isso.
+
+516
+01:03:06,086 --> 01:03:08,956
+Você só está dificultando as coisas para si mesmo.
+
+517
+01:03:09,023 --> 01:03:10,558
+-Por que você está fazendo isso?
+
+518
+01:03:13,394 --> 01:03:15,129
+O que você quer de mim?
+
+519
+01:03:15,195 --> 01:03:16,765
+-Eu te disse.
+
+520
+01:03:16,830 --> 01:03:18,667
+Você tem algo que me pertence.
+
+521
+01:03:18,733 --> 01:03:21,935
+-Não tenho nada que lhe pertença!
+
+522
+01:03:23,904 --> 01:03:25,640
+Você nem sabe o que tem.
+
+523
+01:03:27,709 --> 01:03:30,010
+-Qual é a sua estratégia aqui, Ranger?
+
+524
+01:03:30,077 --> 01:03:30,978
+O que você está tentando fazer?
+
+525
+01:03:33,615 --> 01:03:35,916
+-Nossa, você é fraco!
+
+526
+01:03:35,983 --> 01:03:38,152
+Fraqueza eu posso perdoar, mas não estupidez.
+
+527
+01:03:39,621 --> 01:03:41,455
+— Não seja estúpido, Ranger.
+
+528
+01:03:41,523 --> 01:03:42,624
+Diga-me onde fica.
+
+529
+01:03:42,691 --> 01:03:43,758
+— Eu já te disse.
+
+530
+01:03:43,824 --> 01:03:46,427
+Eu não tenho o que você quer.
+
+531
+01:03:46,493 --> 01:03:48,228
+Sim, você faz.
+
+532
+01:03:51,566 --> 01:03:54,501
+-Ah, isto? É apenas um fragmento.
+
+533
+01:03:54,569 --> 01:03:55,903
+Não é praticamente nada.
+
+534
+01:03:56,970 --> 01:03:58,439
+Você vai entender em breve.
+
+535
+01:06:08,670 --> 01:06:09,970
+Quem diabos é você?
+
+536
+01:06:11,539 --> 01:06:13,006
+-Eu sou Roy.
+
+537
+01:06:15,743 --> 01:06:16,977
+-Roy!
+
+538
+01:06:38,265 --> 01:06:41,001
+Ei! É isso que você quer?
+
+539
+01:06:42,436 --> 01:06:43,671
+- Não!
+
+540
+01:07:01,388 --> 01:07:04,224
+— Roy, não se mexa. Não se mexa, ok?
+
+541
+01:07:04,291 --> 01:07:07,227
+Meu Deus! Meu Deus!
+
+542
+01:07:08,563 --> 01:07:10,765
+Sinto muito. Sinto muito mesmo.
+
+543
+01:07:10,832 --> 01:07:12,399
+Ei, olhe para mim.
+
+544
+01:07:12,466 --> 01:07:13,635
+-Vamos.
+
+545
+01:07:13,701 --> 01:07:15,168
+Vamos!
+
+546
+01:07:17,906 --> 01:07:21,241
+Que diabos é isso?
+
+547
+01:07:21,308 --> 01:07:22,977
+-Uma pedra.
+
+548
+01:07:25,312 --> 01:07:27,114
+-Suficiente!
+
+549
+01:07:30,785 --> 01:07:33,555
+Por que você está fazendo isso comigo?
+
+550
+01:07:35,657 --> 01:07:37,692
+Me dê agora!
+
+551
+01:07:41,596 --> 01:07:43,463
+Agora!
+
+552
+01:07:48,670 --> 01:07:50,738
+Você não pode continuar correndo para sempre.
+
+553
+01:07:50,805 --> 01:07:52,840
+-Eu sou um perseguidor, filho da puta!
+
+554
+01:09:02,442 --> 01:09:03,645
+-Roy?
+
+555
+01:09:13,087 --> 01:09:14,321
+Que diabos?
+
+556
+01:09:32,106 --> 01:09:34,142
+Ainda não acabou!
+
+557
+01:09:34,207 --> 01:09:36,476
+É meu.
+
+558
+01:09:36,544 --> 01:09:40,480
+Eu não vou parar.
+
+559
+01:09:46,020 --> 01:09:49,624
+Me dá isso!
+
+560
+01:09:50,992 --> 01:09:52,160
+É meu.
+
+561
+01:09:53,161 --> 01:09:55,663
+Sinto muito, Roy.
+
+562
+01:09:55,730 --> 01:10:00,233
+Vou te matar!
+
+563
+01:10:00,300 --> 01:10:01,301
+-Eu sinto muito.
+
+564
+01:10:01,368 --> 01:10:04,438
+Venha aqui!
+
+565
+01:10:15,883 --> 01:10:18,553
+-Hã? Meu Deus.
+
+566
+01:10:20,287 --> 01:10:21,823
+Roy, meu Deus!
+
+567
+01:10:24,291 --> 01:10:27,260
+Ei. Você está bem.
+
+568
+01:10:30,131 --> 01:10:31,599
+Vamos tirar você daqui, hein?
+
+569
+01:13:16,764 --> 01:13:19,466
+— Jesus!
+— O que aconteceu?
+
+570
+01:13:19,533 --> 01:13:20,935
+— Cala a boca, Billy.
+
+571
+01:13:22,770 --> 01:13:23,838
+Guarda-florestal?
+
+572
+01:13:44,625 --> 01:13:46,294
+Vamos lá, Melissa. Vamos embora.
+
+573
+01:13:46,360 --> 01:13:47,460
+Vai ficar tudo bem.
+
+574
+01:14:14,956 --> 01:14:16,724
+Vou subir e pegar suas coisas.
+
+575
+01:14:16,791 --> 01:14:19,193
+Fique aí esperando que eu já volto.
+
+576
+01:14:19,260 --> 01:14:21,729
+Vou te levar para casa. Tudo bem?
+
+577
+01:14:23,998 --> 01:14:25,299
+-Obrigado.
+
+578
+01:14:25,366 --> 01:14:26,567
+- Sim.
+
+579
+01:14:32,006 --> 01:14:32,940
+- Uau!
+
+580
+01:14:34,175 --> 01:14:36,811
+-Billy, venha aqui agora mesmo.
+
+581
+01:14:54,261 --> 01:14:55,229
+- Uau.
+
+582
+01:14:56,964 --> 01:14:59,033
+-Vai levar algumas semanas para conseguirmos dois novos Rangers.
+
+583
+01:14:59,100 --> 01:15:00,101
+Viemos para cá para dominar.
+
+584
+01:15:00,167 --> 01:15:01,702
+Vou precisar que você cubra o turno.
+
+585
+01:15:03,503 --> 01:15:05,406
+Tente manter a calma, Billy.
+
+586
+01:15:05,473 --> 01:15:06,640
+-Sim, senhor.

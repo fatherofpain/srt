@@ -1,0 +1,3647 @@
+1
+00:00:55,548 --> 00:00:57,539
+<i>Eu vou ficar bem.</i>
+
+2
+00:00:57,617 --> 00:00:59,983
+<i>Eu vou ficar bem.</i>
+
+3
+00:01:06,592 --> 00:01:08,184
+<i>Estou bem.</i>
+
+4
+00:01:13,599 --> 00:01:15,362
+<i>Eu vou ficar bem.</i>
+
+5
+00:01:16,302 --> 00:01:17,667
+Eu vou ficar bem.
+
+6
+00:01:18,571 --> 00:01:20,471
+Eu vou ficar bem.
+
+7
+00:01:23,609 --> 00:01:25,543
+Estou bem.
+
+8
+00:01:27,513 --> 00:01:29,606
+<i>Agora eu estou bem.</i>
+
+9
+00:03:10,149 --> 00:03:11,946
+<i>Hei! menina. Como está você?</i>
+
+10
+00:03:12,652 --> 00:03:15,212
+<i>Estressada. Qual a novidade nisso?</i>
+
+11
+00:03:15,288 --> 00:03:17,415
+<i>Eu sei. Eu também.
+É uma loucura aqui.</i>
+
+12
+00:03:17,490 --> 00:03:20,152
+<i>Olha, não vou poder chegar a
+tempo para o jantar esta noite.</i>
+
+13
+00:03:20,226 --> 00:03:21,318
+Por que? O que aconteceu?
+
+14
+00:03:21,394 --> 00:03:24,386
+<i>É o Hansen. Ele remarcou a
+maldita reunião de novo.</i>
+
+15
+00:03:24,463 --> 00:03:25,896
+Eu tenho de fechar este acordo.
+
+16
+00:03:25,965 --> 00:03:30,163
+Ah, Randy. É a terceira
+vez nesta semana.
+
+17
+00:03:30,236 --> 00:03:32,101
+<i>Eu sei.</i>
+
+18
+00:03:32,171 --> 00:03:34,071
+<i>Eu te compensarei. Prometo.</i>
+
+19
+00:03:34,140 --> 00:03:35,573
+Certo.
+
+20
+00:03:35,641 --> 00:03:38,041
+<i>Tem certeza? Porque posso
+cancelar tudo isso.</i>
+
+21
+00:03:38,110 --> 00:03:39,338
+<i>Tem certeza?</i>
+
+22
+00:03:39,412 --> 00:03:40,436
+Tenho.
+
+23
+00:03:42,682 --> 00:03:43,740
+Oh, meu Deus.
+
+24
+00:03:43,816 --> 00:03:45,477
+<i>Danika!</i>
+
+25
+00:03:47,653 --> 00:03:48,847
+<i>O que aconteceu?</i>
+
+26
+00:03:48,921 --> 00:03:49,910
+Randy?
+
+27
+00:03:49,989 --> 00:03:51,115
+<i>O quê?</i>
+
+28
+00:03:51,190 --> 00:03:52,521
+Espere. Espere.
+
+29
+00:03:52,592 --> 00:03:53,923
+<i>O que está havendo?</i>
+
+30
+00:03:53,993 --> 00:03:55,824
+Não, não. Alguém apenas...
+
+31
+00:03:57,129 --> 00:03:59,063
+Tudo bem. Esqueça.
+
+32
+00:03:59,131 --> 00:04:01,031
+Foi só, foi só um susto.
+
+33
+00:04:01,100 --> 00:04:02,658
+<i>Certo. Eu te amo.</i>
+
+34
+00:04:02,735 --> 00:04:04,669
+Tenha apenas uma boa reunião, certo?
+
+35
+00:04:10,476 --> 00:04:14,810
+<i>Espero que tenha se mantido seco
+após esta chuva bizarra de hoje cedo.</i>
+
+36
+00:04:14,880 --> 00:04:17,246
+<i>Infelizmente, temos notícias
+tristes para relatar...</i>
+
+37
+00:04:17,316 --> 00:04:19,750
+<i>...da mesa do noticiário WRNN.</i>
+
+38
+00:04:19,819 --> 00:04:22,515
+<i>O corpo de uma garota de 8 anos
+de idade foi achado hoje...</i>
+
+39
+00:04:22,588 --> 00:04:25,421
+<i>...em um campo de futebol a
+cerca de 3 km da casa dela.</i>
+
+40
+00:04:25,491 --> 00:04:29,325
+<i>A polícia a identificou como
+sendo a desaparecida Lizzie Geralds</i>
+
+41
+00:04:49,582 --> 00:04:51,106
+Oi.
+
+42
+00:04:54,153 --> 00:04:56,121
+Está esperando por alguém?
+
+43
+00:04:58,190 --> 00:05:00,158
+Onde estão seus pais?
+
+44
+00:05:00,760 --> 00:05:03,194
+Eles estão vindo te buscar?
+
+45
+00:05:03,262 --> 00:05:05,321
+Bem, aí está você.
+
+46
+00:05:07,166 --> 00:05:10,329
+Vamos, Lizzie. Vamos.
+
+47
+00:05:40,466 --> 00:05:41,899
+Boa tarde, Danika.
+
+48
+00:05:41,967 --> 00:05:42,991
+Oi.
+
+49
+00:05:43,069 --> 00:05:46,038
+Por favor, posso te
+ver em meu escritório?
+
+50
+00:05:46,105 --> 00:05:48,039
+Com certeza.
+
+51
+00:05:58,184 --> 00:05:59,549
+Entre.
+
+52
+00:06:02,455 --> 00:06:03,786
+Feche a porta.
+
+53
+00:06:07,893 --> 00:06:09,690
+Por favor, sente-se.
+
+54
+00:06:13,999 --> 00:06:16,695
+Eu sei que estou atrasada.
+Não achei que fosse demorar tanto.
+
+55
+00:06:16,769 --> 00:06:21,069
+Só 15 minutos. Eu tive de deixar
+minha filha na aula de piano.
+
+56
+00:06:23,642 --> 00:06:26,270
+Você ouviu falar da
+garotinha desaparecida?
+
+57
+00:06:26,345 --> 00:06:27,369
+Acharam o corpo dela.
+
+58
+00:06:27,446 --> 00:06:29,607
+O que uma coisa tem
+a ver com a outra?
+
+59
+00:06:30,383 --> 00:06:32,078
+Certo. Não acontecerá de novo.
+
+60
+00:06:32,151 --> 00:06:35,120
+Não é apenas o atraso, Danika.
+Nós temos um problema.
+
+61
+00:06:35,187 --> 00:06:38,020
+Suas contas estão erradas de novo.
+
+62
+00:06:38,090 --> 00:06:39,557
+Não. Está brincando comigo.
+
+63
+00:06:40,192 --> 00:06:43,389
+Os fatos são o que os fatos
+dizem. Você está errada.
+
+64
+00:06:47,433 --> 00:06:49,060
+Eu não...
+
+65
+00:06:49,135 --> 00:06:51,103
+Me desculpe.
+Me desculpe de verdade.
+
+66
+00:06:51,170 --> 00:06:55,004
+Vou reunir o conselho
+e discutir a respeito.
+
+67
+00:06:56,442 --> 00:06:58,740
+<i>Sim.</i>
+
+68
+00:06:58,811 --> 00:07:00,574
+<i>Já estou indo.</i>
+
+69
+00:07:02,014 --> 00:07:05,006
+Certo. Ligue para eles e resolva isso.
+
+70
+00:07:05,084 --> 00:07:07,052
+Quero isso arrumado até o final do dia.
+
+71
+00:07:07,119 --> 00:07:08,245
+Até o fim de hoje?
+
+72
+00:07:08,320 --> 00:07:09,844
+Sim.
+
+73
+00:07:09,922 --> 00:07:12,686
+Certo. Eu arrumarei tudo.
+
+74
+00:07:12,758 --> 00:07:16,023
+E não os incomode com os papéis.
+Use meu escritório.
+
+75
+00:07:22,868 --> 00:07:24,096
+Te verei mais tarde.
+
+76
+00:07:24,170 --> 00:07:26,070
+Tudo bem. Tenha um bom dia.
+
+77
+00:07:34,680 --> 00:07:36,671
+<i>Abaixem-se!</i>
+
+78
+00:07:36,749 --> 00:07:39,240
+Não olhe para mim.
+Ponha o dinheiro na sacola.
+
+79
+00:07:41,787 --> 00:07:42,776
+<i>Parado!</i>
+
+80
+00:07:43,689 --> 00:07:46,214
+<i>Deite-se no chão. Agora!</i>
+
+81
+00:07:47,927 --> 00:07:50,191
+<i>Tudo certo. Ninguém se mova.</i>
+
+82
+00:07:50,262 --> 00:07:52,253
+<i>Você vai...</i>
+
+83
+00:07:52,832 --> 00:07:54,390
+<i>Ninguém se mexe!</i>
+
+84
+00:08:00,206 --> 00:08:02,572
+<i>Não me olhe.</i>
+
+85
+00:08:02,641 --> 00:08:04,438
+<i>Ou vai se machucar!</i>
+
+86
+00:08:09,582 --> 00:08:11,140
+Estamos fodidos!
+
+87
+00:08:12,117 --> 00:08:14,779
+<i>Quem é o encarregado aqui? Heim?</i>
+
+88
+00:08:15,921 --> 00:08:17,548
+<i>Quem é o encarregado?</i>
+
+89
+00:08:17,623 --> 00:08:19,352
+<i>Sou eu.</i>
+
+90
+00:08:19,425 --> 00:08:22,121
+<i>Por favor. Por favor, se acalme.</i>
+
+91
+00:08:22,194 --> 00:08:23,855
+<i>Onde é o sistema de câmeras?</i>
+
+92
+00:08:23,929 --> 00:08:25,988
+Onde é o sistema de câmeras?
+
+93
+00:08:30,703 --> 00:08:32,102
+<i>Vamos!</i>
+
+94
+00:08:35,040 --> 00:08:37,838
+Onde é o maldito sistema de câmeras?
+
+95
+00:08:40,312 --> 00:08:41,904
+<i>Onde é, vaca?</i>
+
+96
+00:08:41,981 --> 00:08:44,779
+Lá. No escritório.
+
+97
+00:08:45,718 --> 00:08:47,379
+Vai.
+
+98
+00:09:16,549 --> 00:09:17,641
+Danika?
+
+99
+00:09:18,517 --> 00:09:20,485
+Danika, você está bem?
+
+100
+00:09:22,755 --> 00:09:24,450
+<i>Tudo bem?</i>
+
+101
+00:09:27,960 --> 00:09:29,985
+O que há de errado com você?
+
+102
+00:11:39,591 --> 00:11:41,422
+Randy?
+
+103
+00:11:50,069 --> 00:11:51,832
+Brian?
+
+104
+00:12:10,756 --> 00:12:12,451
+Lauren?
+
+105
+00:12:37,850 --> 00:12:39,408
+Surpresa!
+
+106
+00:12:39,485 --> 00:12:42,852
+<i>Feliz aniversário!</i>
+
+107
+00:12:46,291 --> 00:12:48,725
+Esqueci que era meu aniversário.
+
+108
+00:12:48,794 --> 00:12:50,352
+Eu esqueci.
+
+109
+00:12:50,429 --> 00:12:52,090
+Você esqueceu?
+
+110
+00:12:52,164 --> 00:12:54,155
+Esqueci que era meu aniversário.
+
+111
+00:12:54,233 --> 00:12:56,326
+Gostou do bolo?
+
+112
+00:12:56,401 --> 00:12:57,663
+Ah, Amei!
+
+113
+00:12:57,736 --> 00:12:58,828
+Fui em quem fez.
+
+114
+00:12:58,904 --> 00:13:00,132
+E eu ajudei, também.
+
+115
+00:13:01,373 --> 00:13:03,898
+<i>Eu te fiz um cachecol, mãe.
+Está ali.</i>
+
+116
+00:13:03,976 --> 00:13:05,739
+Kurt e eu vamos te dar um certificado.
+
+117
+00:13:05,811 --> 00:13:07,403
+Para o quê?
+
+118
+00:13:07,479 --> 00:13:10,471
+<i>É um certificado
+para um tipo de spa.</i>
+
+119
+00:13:11,583 --> 00:13:14,279
+<i>Legal. Sutil.</i>
+
+120
+00:13:14,353 --> 00:13:16,218
+<i>Feliz aniversário, querida.</i>
+
+121
+00:13:18,957 --> 00:13:20,948
+Me sinto sortuda.
+
+122
+00:13:23,529 --> 00:13:24,996
+Quem quer bolo? Bolo!
+
+123
+00:13:25,063 --> 00:13:26,087
+Eu quero. Eu quero.
+
+124
+00:13:26,165 --> 00:13:28,531
+Vamos comer bolo.
+Pode se levantar, por favor?
+
+125
+00:13:28,600 --> 00:13:30,693
+Por que está tão cansado?
+Estava trabalhando?
+
+126
+00:13:31,804 --> 00:13:34,705
+Você teve um longo dia. Vamos!
+
+127
+00:13:40,379 --> 00:13:42,210
+Como começamos isto?
+
+128
+00:13:44,449 --> 00:13:46,576
+Porque você não conta
+por que está aqui?
+
+129
+00:13:47,753 --> 00:13:49,380
+Oh, bem eu...
+
+130
+00:13:50,255 --> 00:13:52,280
+Estava me referindo a você, Dra. Harris.
+
+131
+00:13:52,357 --> 00:13:54,723
+Evelyn. Por favor, me chame de Evelyn.
+
+132
+00:13:54,793 --> 00:13:57,921
+E eu sei a quem você
+estava se referindo.
+
+133
+00:13:57,996 --> 00:14:00,556
+Mas você acha que
+está aqui por quê?
+
+134
+00:14:09,341 --> 00:14:11,332
+Eu devo estar ficando louca.
+
+135
+00:14:13,579 --> 00:14:17,071
+Você vai ter que fazer um bom trabalho
+para me convencer disso, Danika.
+
+136
+00:14:18,784 --> 00:14:21,981
+Vamos começar com você me
+dizendo um pouco sobre você mesma.
+
+137
+00:14:22,054 --> 00:14:23,749
+Mmm, me desculpe.
+
+138
+00:14:23,822 --> 00:14:25,585
+Quantos anos tem?
+
+139
+00:14:27,392 --> 00:14:29,019
+Tenho 28.
+
+140
+00:14:30,162 --> 00:14:34,030
+Você aparenta ser tão jovem para
+ser uma Psiquiatra e eu...
+
+141
+00:14:36,301 --> 00:14:40,795
+eu... estava esperando por
+alguém um pouco mais velha.
+
+142
+00:14:40,873 --> 00:14:43,865
+Eu passei pela escola
+muito rapidamente.
+
+143
+00:14:46,278 --> 00:14:50,078
+Veja, se se sente mais confortável
+falando com alguém mais velho...
+
+144
+00:14:50,148 --> 00:14:54,050
+...isso não vai me magoar de jeito
+nenhum. Eu posso recomendar um par...
+
+145
+00:14:54,119 --> 00:14:56,451
+Não, não. Não. Quer dizer...
+
+146
+00:14:57,356 --> 00:14:59,449
+...vamos ver.
+
+147
+00:15:01,760 --> 00:15:03,990
+É difícil para mim confiar em alguém.
+
+148
+00:15:04,062 --> 00:15:06,860
+Oh, você pode confiar em mim.
+
+149
+00:15:09,268 --> 00:15:12,260
+Eu não tenho falado sobre meus
+sentimentos há muito tempo. Eles...
+
+150
+00:15:13,338 --> 00:15:15,465
+...estão engarrafados.
+
+151
+00:15:15,540 --> 00:15:18,509
+Por que você acha que está
+se sentindo deste modo?
+
+152
+00:15:20,979 --> 00:15:23,174
+É o que estou tentando descobrir.
+
+153
+00:15:25,684 --> 00:15:27,447
+Evelyn.
+
+154
+00:15:33,558 --> 00:15:36,925
+Sim. Sim, Eu reparei.
+
+155
+00:15:37,629 --> 00:15:39,563
+De onde esses copos vieram?
+
+156
+00:15:39,631 --> 00:15:40,620
+Oh!
+
+157
+00:15:42,868 --> 00:15:44,597
+Tudo bem?
+
+158
+00:15:48,840 --> 00:15:50,705
+Certo.
+
+159
+00:15:54,179 --> 00:15:56,977
+Não, não, não, não.
+Tem vidro espalhado!
+
+160
+00:15:57,049 --> 00:16:00,382
+Já vi. Estou calçado! Meu Deus!
+
+161
+00:16:02,988 --> 00:16:04,478
+Posso pegar o carro?
+
+162
+00:16:06,325 --> 00:16:07,553
+Aonde você vai?
+
+163
+00:16:07,626 --> 00:16:10,356
+Uhm... te ligo depois.
+
+164
+00:16:10,429 --> 00:16:12,158
+Ao cinema.
+
+165
+00:16:12,230 --> 00:16:13,219
+Com quem?
+
+166
+00:16:13,298 --> 00:16:15,095
+Com a Myra.
+
+167
+00:16:15,167 --> 00:16:16,600
+Quem é a Myra?
+
+168
+00:16:16,668 --> 00:16:19,296
+Uh, é só uma garota.
+
+169
+00:16:20,205 --> 00:16:21,263
+Eu não a conheço.
+
+170
+00:16:21,340 --> 00:16:23,638
+Eu terminarei isso.
+Me dê essa coisa.
+
+171
+00:16:23,709 --> 00:16:26,872
+Então, posso... posso ir, por favor?
+
+172
+00:16:26,945 --> 00:16:28,105
+Tenho que pedir ao seu pai.
+
+173
+00:16:28,180 --> 00:16:30,614
+Mãe, qual é. É só um cineminha.
+
+174
+00:16:30,682 --> 00:16:33,583
+Você estará saindo de carro
+com alguém que eu não conheço.
+
+175
+00:16:33,652 --> 00:16:34,914
+Me dá um tempo!
+Você está...
+
+176
+00:16:34,987 --> 00:16:36,249
+<i>Randy!</i>
+
+177
+00:16:36,321 --> 00:16:38,312
+Ele está no jardim, mãe.
+
+178
+00:16:38,390 --> 00:16:39,482
+Mãe!
+
+179
+00:16:47,165 --> 00:16:49,827
+Randy! Ran.
+
+180
+00:16:49,901 --> 00:16:51,869
+E aí?
+
+181
+00:16:51,937 --> 00:16:54,462
+Hei. Oh, obrigado.
+
+182
+00:16:56,274 --> 00:16:58,902
+Oh, que belezinha.
+
+183
+00:16:58,977 --> 00:17:01,605
+Oh, eu gostaria de poder levar
+o crédito. Ela não é minha.
+
+184
+00:17:03,115 --> 00:17:04,377
+Sou apenas a babá.
+
+185
+00:17:04,449 --> 00:17:06,246
+Oh. De quem...
+
+186
+00:17:06,318 --> 00:17:08,616
+Dos Thompsons. Mais abaixo na rua.
+
+187
+00:17:08,687 --> 00:17:10,314
+Sim. Ambos trabalham bem duro.
+
+188
+00:17:10,389 --> 00:17:13,881
+Eu costumava trabalhar também. Mas as
+crianças realmente precisam dos pais.
+
+189
+00:17:15,093 --> 00:17:17,960
+Tenho certeza que faz um
+excelente trabalho para eles.
+
+190
+00:17:21,166 --> 00:17:24,624
+Bem, tenho umas coisas a fazer.
+Foi um prazer conhecê-los.
+
+191
+00:17:24,703 --> 00:17:26,534
+Também. Tchau.
+
+192
+00:17:26,605 --> 00:17:29,005
+Ela é tão adorável.
+
+193
+00:17:34,012 --> 00:17:38,472
+Eu quis dizer que uma babá não
+substitui os pais. Só isso.
+
+194
+00:18:30,001 --> 00:18:32,834
+Lauren? Boa noite querida.
+
+195
+00:18:32,904 --> 00:18:34,872
+Boa noite.
+
+196
+00:18:40,912 --> 00:18:43,210
+Brian?
+
+197
+00:18:43,281 --> 00:18:45,181
+Desligue a luz!
+
+198
+00:18:45,250 --> 00:18:46,979
+<i>Boa noite.</i>
+
+199
+00:18:47,052 --> 00:18:49,919
+Sinto sua falta!
+
+200
+00:18:50,889 --> 00:18:53,449
+Sinto sua falta!
+
+201
+00:18:54,960 --> 00:18:56,757
+De verdade!
+
+202
+00:19:01,466 --> 00:19:02,728
+Escutou isso?
+
+203
+00:19:02,801 --> 00:19:04,792
+Escutei o quê?
+
+204
+00:19:07,506 --> 00:19:09,133
+Nada.
+
+205
+00:19:16,515 --> 00:19:19,507
+Randy. Foi horrível.
+
+206
+00:19:19,584 --> 00:19:23,520
+Eu não pude dizer a ela o que vi,
+ou ela iria pensar que estou louca.
+
+207
+00:19:23,588 --> 00:19:26,250
+De qualquer jeito, esse
+trabalho te estressa.
+
+208
+00:19:27,225 --> 00:19:28,920
+É.
+
+209
+00:19:28,994 --> 00:19:31,588
+Eu acho que será para melhor
+se eu tirar uns dias de folga.
+
+210
+00:19:31,663 --> 00:19:33,995
+É o que eu estava te dizendo.
+
+211
+00:19:34,065 --> 00:19:36,795
+Eu posso arcar com as despesas se
+você ficar em casa por um tempo.
+
+212
+00:19:37,869 --> 00:19:39,530
+É.
+
+213
+00:19:39,604 --> 00:19:41,868
+Me faria uma mãe melhor.
+
+214
+00:19:41,940 --> 00:19:44,340
+Não precisaríamos daquela babá.
+
+215
+00:19:44,409 --> 00:19:46,775
+Ninguém poderia ser uma mãe melhor.
+
+216
+00:19:49,414 --> 00:19:51,974
+Tem muita maldade acontecendo no mundo.
+
+217
+00:19:52,050 --> 00:19:54,109
+Sabe, eu estava lendo
+no jornal de hoje...
+
+218
+00:19:54,186 --> 00:19:57,485
+...como é fácil para um terrorista
+soltar uma bomba na cidade.
+
+219
+00:19:57,556 --> 00:20:00,821
+É por isso que eu digo como
+você é mórbida.
+
+220
+00:20:00,892 --> 00:20:03,986
+Com o que você se preocupa?
+Você tem três filhos fantásticos.
+
+221
+00:20:04,062 --> 00:20:06,860
+Apenas relaxe até você achar
+que pode voltar ao trabalho.
+
+222
+00:20:10,502 --> 00:20:12,561
+Você e as crianças e tudo o mais...
+
+223
+00:20:17,142 --> 00:20:18,541
+Alô?
+
+224
+00:20:19,411 --> 00:20:20,708
+Alô?
+
+225
+00:20:21,446 --> 00:20:22,470
+Alô.
+
+226
+00:20:25,617 --> 00:20:26,845
+Quem é?
+
+227
+00:20:26,918 --> 00:20:29,250
+Ninguém. Eu odeio isso.
+
+228
+00:20:30,455 --> 00:20:32,218
+Eu queria apenas que este dia acabasse.
+
+229
+00:20:32,290 --> 00:20:34,451
+Eu queria que você me fizesse esquecer.
+
+230
+00:20:35,493 --> 00:20:38,155
+Randy, acha que estou louca?
+
+231
+00:20:38,230 --> 00:20:39,959
+Sim.
+
+232
+00:20:45,537 --> 00:20:47,835
+Eu queria fazer você se sentir melhor.
+
+233
+00:20:52,811 --> 00:20:54,870
+Já é um bom começo.
+
+234
+00:20:56,581 --> 00:20:59,106
+Você não faz idéia de quanto te amo.
+
+235
+00:21:11,863 --> 00:21:14,798
+Hei. Garotinha.
+
+236
+00:21:14,866 --> 00:21:17,892
+Você está me deixando excitada.
+
+237
+00:21:17,969 --> 00:21:19,527
+Venha mulher.
+
+238
+00:21:21,806 --> 00:21:24,639
+Lauren? Que está fazendo?
+O que está escrevendo?
+
+239
+00:21:24,709 --> 00:21:27,109
+Tenho medo que minha mãe me apanhe.
+
+240
+00:21:27,178 --> 00:21:28,805
+Ela é muito malvada.
+
+241
+00:21:30,148 --> 00:21:31,240
+Senti sua falta.
+
+242
+00:21:33,251 --> 00:21:34,240
+Eu te quero.
+
+243
+00:21:34,319 --> 00:21:35,343
+Lauren?
+
+244
+00:21:36,788 --> 00:21:39,188
+Lauren. Lauren!
+
+245
+00:21:39,257 --> 00:21:41,225
+Venha comigo.
+
+246
+00:21:43,795 --> 00:21:45,023
+Mãe!
+
+247
+00:21:55,206 --> 00:21:56,639
+O que está fazendo?
+
+248
+00:21:56,708 --> 00:21:59,302
+Checando. Eu tive um sonho.
+
+249
+00:21:59,377 --> 00:22:01,004
+Brian?
+
+250
+00:22:02,180 --> 00:22:04,375
+Ele não está aqui.
+Ele não está aqui.
+
+251
+00:22:04,449 --> 00:22:05,848
+Brian!
+
+252
+00:22:06,518 --> 00:22:07,542
+Brian!
+
+253
+00:22:09,921 --> 00:22:11,252
+<i>Brian?</i>
+
+254
+00:22:12,791 --> 00:22:14,315
+Mamãe!
+
+255
+00:22:18,763 --> 00:22:22,426
+Por que diabos seu filho está nadando
+na minha piscina às 3:00 da madrugada?
+
+256
+00:22:23,568 --> 00:22:24,626
+Venha aqui.
+
+257
+00:22:24,703 --> 00:22:26,170
+Cale-se, Jackson.
+
+258
+00:22:26,237 --> 00:22:27,261
+O cachorro vai me morder.
+
+259
+00:22:27,339 --> 00:22:29,068
+Venha aqui.
+
+260
+00:22:29,774 --> 00:22:31,901
+Vai. Vai para o seu pai.
+
+261
+00:22:34,379 --> 00:22:37,576
+Desculpe. Kurt faz isso
+de vez em quando.
+
+262
+00:22:37,649 --> 00:22:40,812
+Olhe garoto, você poderia ter
+sido seriamente machucado.
+
+263
+00:22:40,885 --> 00:22:43,854
+Você acha que pode ir no jardim de
+alguém a qualquer hora que queira...
+
+264
+00:22:43,922 --> 00:22:47,289
+...e nada vá acontecer com você.
+Suponha que meu cachorro te mordesse.
+
+265
+00:22:47,359 --> 00:22:50,385
+Sabe o que fariam?
+Eles o levariam embora.
+
+266
+00:22:50,462 --> 00:22:51,861
+Desculpe.
+
+267
+00:22:51,930 --> 00:22:55,525
+Sr. Johnson, desculpe. Nós vamos
+conversar com ele a respeito.
+
+268
+00:22:55,600 --> 00:22:57,795
+3:00 da manhã. Pelo amor de Deus.
+
+269
+00:22:57,869 --> 00:22:59,496
+Eu seu. Desculpe.
+
+270
+00:23:02,340 --> 00:23:03,466
+Tenha uma boa noite..
+
+271
+00:23:03,541 --> 00:23:05,008
+Vamos, Jackson.
+
+272
+00:23:07,746 --> 00:23:11,580
+Certo. Ninguém vai até o vizinho.
+
+273
+00:23:11,649 --> 00:23:14,140
+Não quero problemas.
+Brian podia ter sido morto.
+
+274
+00:23:14,219 --> 00:23:16,312
+Você está agindo como se
+eu o tivesse forçado.
+
+275
+00:23:16,388 --> 00:23:17,582
+Por que você está agindo como...
+
+276
+00:23:17,655 --> 00:23:20,089
+Cale-se. E vá para sua cama!
+
+277
+00:24:21,853 --> 00:24:23,013
+Posso te ajudar?
+
+278
+00:24:23,087 --> 00:24:25,954
+Sim. Estou procurando por
+um jogo para o meu filho.
+
+279
+00:24:26,024 --> 00:24:28,584
+Ele vai se formar na terceira série.
+
+280
+00:24:28,660 --> 00:24:31,823
+Parabéns. Ele merece algo especial.
+
+281
+00:24:33,465 --> 00:24:35,092
+Definitivamente ele vai gostar deste.
+
+282
+00:24:35,166 --> 00:24:36,326
+Mesmo? É violento?
+
+283
+00:24:36,401 --> 00:24:38,596
+Não, não. É maravilhoso.
+É divertido.
+
+284
+00:24:38,670 --> 00:24:41,662
+Você entra neste mundo de conto de
+fadas onde nada de mal acontece.
+
+285
+00:24:41,739 --> 00:24:43,434
+Há quinze minutos atrás.
+
+286
+00:24:43,508 --> 00:24:46,500
+...um ônibus escolar explodiu
+na Rua Montgomery...
+
+287
+00:24:46,578 --> 00:24:51,447
+...não foi relatada nenhuma vítima
+ainda. O ônibus estava cheio de...
+
+288
+00:24:51,516 --> 00:24:54,451
+...crianças. Testemunhas viram
+um homem subindo no ônibus...
+
+289
+00:24:54,519 --> 00:24:56,214
+...um pouco antes de ele explodir.
+
+290
+00:24:56,287 --> 00:24:59,222
+O que realmente aconteceu
+está sendo investigado.
+
+291
+00:24:59,290 --> 00:25:01,383
+Vamos agora ao local do acidente.
+
+292
+00:25:01,459 --> 00:25:03,552
+Don, temos agora os relatórios...
+
+293
+00:25:03,628 --> 00:25:05,789
+...indicando que o homem
+pode ter detonado...
+
+294
+00:25:05,864 --> 00:25:09,197
+...algum tipo de dispositivo explosivo
+que estava amarrado a ele.
+
+295
+00:25:09,267 --> 00:25:12,634
+Não temos idéia dos motivos por
+detrás de um ato tão terrível...
+
+296
+00:25:12,704 --> 00:25:15,764
+...mas nem precisamos dizer que
+estamos num de verdadeiro caos aqui.
+
+297
+00:25:15,840 --> 00:25:19,708
+Os pais foram instruídos a ligar para as
+crianças nas escolas para maiores...
+
+298
+00:25:33,358 --> 00:25:35,189
+Alô?
+
+299
+00:25:37,262 --> 00:25:38,752
+Alô?
+
+300
+00:26:34,652 --> 00:26:35,778
+Randy!
+
+301
+00:26:39,757 --> 00:26:40,951
+Lauren.
+
+302
+00:26:46,030 --> 00:26:47,622
+Ran!
+
+303
+00:27:07,885 --> 00:27:10,285
+Eu vou ficar bem!
+
+304
+00:27:11,155 --> 00:27:13,248
+Estou bem!
+
+305
+00:27:26,971 --> 00:27:28,962
+Odeio as notícias.
+
+306
+00:27:31,009 --> 00:27:33,170
+Quais notícias recentemente
+te perturbaram?
+
+307
+00:27:34,612 --> 00:27:37,080
+Você não escutou?
+Completamente insano.
+
+308
+00:27:38,383 --> 00:27:41,875
+Todo mundo sabe sobre elas. Estou
+surpresa que não chegaram até você.
+
+309
+00:27:41,953 --> 00:27:43,853
+Você não deve ter TV a cabo.
+
+310
+00:27:50,094 --> 00:27:54,622
+Você diz que você... vê coisas.
+
+311
+00:27:57,001 --> 00:27:58,832
+Pode se dizer.
+
+312
+00:28:00,171 --> 00:28:04,039
+Eu tenho estas visões, mas
+não são realmente visões.
+
+313
+00:28:04,108 --> 00:28:08,943
+Elas... sinto como se realmente
+estivessem acontecendo.
+
+314
+00:28:13,418 --> 00:28:15,352
+Me sinto, amaldiçoada.
+
+315
+00:28:17,221 --> 00:28:23,888
+Acho o que você viu,
+apenas... desafortunado.
+
+316
+00:28:28,399 --> 00:28:30,924
+Isso é o que as pessoas
+diziam para minha mãe.
+
+317
+00:28:31,536 --> 00:28:32,935
+O que quer dizer?
+
+318
+00:28:38,076 --> 00:28:39,668
+Eu estava...
+
+319
+00:28:39,744 --> 00:28:42,577
+...estava brincando com meu irmão
+no jardim quando eu tinha seis anos.
+
+320
+00:28:45,983 --> 00:28:48,281
+...e minha mãe não estava
+prestando atenção.
+
+321
+00:29:16,214 --> 00:29:18,478
+Eu nunca a perdoei.
+
+322
+00:29:46,811 --> 00:29:49,143
+Mãe, estou lendo.
+
+323
+00:29:49,747 --> 00:29:51,078
+Certo.
+
+324
+00:29:51,149 --> 00:29:53,617
+Sem risos. Prometo.
+
+325
+00:29:53,684 --> 00:29:55,311
+Mãe.
+
+326
+00:29:55,953 --> 00:29:57,682
+Esta é Myra.
+
+327
+00:29:57,755 --> 00:29:59,154
+Ooh, Myra!
+
+328
+00:29:59,223 --> 00:30:00,383
+Ooh, cale-se!
+
+329
+00:30:00,458 --> 00:30:02,119
+Prazer em te conhecer, Sra. Merrick.
+
+330
+00:30:02,193 --> 00:30:04,354
+Oi, Myra. Prazer em te conhecer também.
+
+331
+00:30:04,428 --> 00:30:07,864
+Myra é da Espanha. Ela está num
+programa de intercâmbio cultural.
+
+332
+00:30:07,932 --> 00:30:09,229
+Ah!
+
+333
+00:30:10,067 --> 00:30:12,331
+Muito interessante.
+
+334
+00:30:12,403 --> 00:30:14,928
+Seus pais deixaram você
+vir aqui sozinha?
+
+335
+00:30:15,006 --> 00:30:16,098
+Sim.
+
+336
+00:30:16,174 --> 00:30:18,642
+Quantos... quantos anos você tem?
+Dezesseis?
+
+337
+00:30:18,709 --> 00:30:21,473
+Mãe, nós temos que ir, Certo?
+
+338
+00:30:21,546 --> 00:30:23,173
+Então, vamos.
+
+339
+00:30:23,247 --> 00:30:24,714
+Vão ao cinema?
+
+340
+00:30:24,782 --> 00:30:26,875
+Sim, e de lá vamos para
+a festa do Andy.
+
+341
+00:30:26,951 --> 00:30:28,418
+Os pais dele estão em casa, certo?
+
+342
+00:30:28,486 --> 00:30:29,475
+Com certeza.
+
+343
+00:30:29,554 --> 00:30:30,748
+Eu tenho o número dele?
+
+344
+00:30:30,822 --> 00:30:33,450
+Está no telefone.
+Mas, por favor, não ligue.
+
+345
+00:30:35,726 --> 00:30:37,353
+É meu dever preocupar-me.
+
+346
+00:30:37,428 --> 00:30:39,521
+Minha mãe não se importa
+com o que estou fazendo.
+
+347
+00:30:40,398 --> 00:30:41,888
+Estou preocupada com meus filhos.
+
+348
+00:30:42,633 --> 00:30:43,964
+Olhe, estaremos bem, certo?
+
+349
+00:30:44,936 --> 00:30:46,164
+Prometo.
+
+350
+00:30:46,237 --> 00:30:51,869
+Você fica aqui e eu irei para
+um lugar onde é legal e seguro.
+
+351
+00:30:51,943 --> 00:30:53,740
+Tchau!
+
+352
+00:30:53,811 --> 00:30:55,244
+Tomem cuidado!
+
+353
+00:30:55,313 --> 00:30:56,940
+Tomaremos.
+
+354
+00:31:05,089 --> 00:31:06,215
+Mãe?
+
+355
+00:31:06,290 --> 00:31:07,587
+Sim?
+
+356
+00:31:08,793 --> 00:31:09,885
+O que é uma xereca?
+
+357
+00:31:10,428 --> 00:31:11,554
+O quê?
+
+358
+00:31:14,031 --> 00:31:15,999
+Uma xereca.
+
+359
+00:31:18,035 --> 00:31:19,730
+O que você está lendo?
+
+360
+00:31:19,804 --> 00:31:22,329
+Este é um livro que nossa
+estúpida professora de inglês...
+
+361
+00:31:22,406 --> 00:31:24,772
+...Sra. Zachary, está
+fazendo a gente ler.
+
+362
+00:31:29,213 --> 00:31:32,740
+Isto é muito adulto. Não é apropriado
+para alunos da sexta série.
+
+363
+00:31:32,817 --> 00:31:35,809
+É o que eu disse para ela, mas ela
+insistiu que lêssemos de qualquer jeito
+
+364
+00:31:35,887 --> 00:31:37,320
+Sra. Zachary?
+
+365
+00:31:37,388 --> 00:31:38,685
+É.
+
+366
+00:31:38,756 --> 00:31:41,520
+Bem, vou falar com ela na segunda-feira.
+
+367
+00:31:42,326 --> 00:31:46,285
+Tenho certeza que o diretor vai gostar
+de saber o que as crianças estão lendo.
+
+368
+00:31:48,699 --> 00:31:50,530
+Gostaria que ela morresse.
+
+369
+00:31:51,469 --> 00:31:52,936
+Lauren.
+
+370
+00:31:53,905 --> 00:31:56,703
+Não sabia que é feio dizer algo assim?
+
+371
+00:31:56,774 --> 00:31:58,503
+Bem, é verdade.
+
+372
+00:31:58,576 --> 00:32:01,977
+Gostaria que ela morresse
+uma morte horrível e desgostosa.
+
+373
+00:32:05,816 --> 00:32:06,908
+Lauren?
+
+374
+00:32:06,984 --> 00:32:10,818
+Vá para o seu quarto. Você não deve
+fazer um desejo tão feio como esse.
+
+375
+00:32:14,992 --> 00:32:16,118
+Hei.
+
+376
+00:32:16,193 --> 00:32:17,319
+O que está havendo?
+
+377
+00:32:17,395 --> 00:32:19,590
+Não acredito no que ela
+acabou de dizer.
+
+378
+00:32:19,664 --> 00:32:23,100
+Ela disse que gostaria que sua
+professora morresse e ela falou a sério.
+
+379
+00:32:23,167 --> 00:32:24,691
+É a idade.
+
+380
+00:32:25,836 --> 00:32:28,999
+Quando que você já ouviu a
+Lauren dizer algo assim?
+
+381
+00:32:29,073 --> 00:32:32,201
+Lizzie Geralds desapareceu
+de um playground...
+
+382
+00:32:32,276 --> 00:32:34,073
+...onde ela estava brincando
+esta manhã.
+
+383
+00:32:34,145 --> 00:32:36,124
+Uma força tarefa voluntária está
+
+384
+00:32:36,125 --> 00:32:38,104
+ajudando a polícia a
+procurar pela garota.
+
+385
+00:32:38,182 --> 00:32:42,175
+Por favor, se você está com a
+minha Lizzie não a machuque.
+
+386
+00:32:42,253 --> 00:32:44,187
+Nós daremos qualquer coisa que queira.
+
+387
+00:32:48,059 --> 00:32:51,028
+Mas eu... eu a vi.
+
+388
+00:32:51,929 --> 00:32:53,260
+Mas ela não estava...
+
+389
+00:32:54,231 --> 00:32:57,029
+Por favor.
+
+390
+00:32:57,101 --> 00:32:59,661
+Mas ela não estava, ela não estava...
+ela não estava viva.
+
+391
+00:32:59,737 --> 00:33:01,500
+O que você está falando?
+
+392
+00:33:01,572 --> 00:33:03,130
+Ela não está... viva.
+
+393
+00:33:05,743 --> 00:33:08,678
+Estou imaginando isso.
+Eu devo estar imaginando isso.
+
+394
+00:33:08,746 --> 00:33:10,543
+...garota de cabelos castanhos.
+
+395
+00:33:10,614 --> 00:33:12,343
+Contate a policia local imediatamente.
+
+396
+00:33:12,416 --> 00:33:14,407
+<i>Não!</i>
+
+397
+00:33:14,485 --> 00:33:15,509
+O que foi agora?
+
+398
+00:33:15,586 --> 00:33:17,019
+<i>Socorro!</i>
+
+399
+00:34:21,252 --> 00:34:24,016
+Brian! Tudo bem?
+
+400
+00:34:24,622 --> 00:34:25,782
+Estou bem!
+
+401
+00:34:33,798 --> 00:34:35,425
+Estou faminto.
+
+402
+00:34:35,499 --> 00:34:38,866
+Vamos à doceria e pegaremos algo
+para comermos mais tarde.
+
+403
+00:34:38,936 --> 00:34:40,927
+Lemme, cuidado com seu joelho.
+
+404
+00:34:42,339 --> 00:34:44,705
+Ooh! Esse é bom!
+
+405
+00:34:44,775 --> 00:34:47,903
+Esse é bom. Deve ser o melhor, é.
+
+406
+00:35:08,232 --> 00:35:09,699
+Lauren?
+
+407
+00:35:09,767 --> 00:35:12,497
+Você quer me ajudar a fazer o jantar?
+
+408
+00:35:12,570 --> 00:35:14,367
+Com certeza.
+
+409
+00:35:14,438 --> 00:35:17,464
+Porque lasanha precisa de dois chefes.
+
+410
+00:35:26,917 --> 00:35:28,077
+<i>Mãe?</i>
+
+411
+00:35:29,720 --> 00:35:32,814
+Você acha que eu vou
+ter peitos grandes?
+
+412
+00:35:32,890 --> 00:35:34,221
+O quê?
+
+413
+00:35:35,025 --> 00:35:36,492
+Meus peitos.
+
+414
+00:35:36,560 --> 00:35:39,552
+Você acha que eu vou ter peitões
+quando eu for mais velha?
+
+415
+00:35:42,399 --> 00:35:44,333
+Lauren.
+
+416
+00:35:45,069 --> 00:35:47,162
+Isto é do livro que eu
+te disse para não ler?
+
+417
+00:35:48,939 --> 00:35:51,669
+O que está havendo nesta casa?
+O que significa toda esta baixaria?
+
+418
+00:35:53,077 --> 00:35:55,068
+Eu pus aquele livro no lixo.
+
+419
+00:35:55,146 --> 00:35:57,273
+Você o pegou do lixo?
+
+420
+00:35:58,782 --> 00:36:00,181
+Lauren, estou falando com você.
+
+421
+00:36:03,654 --> 00:36:05,019
+Me dê o livro.
+
+422
+00:36:08,526 --> 00:36:09,515
+Ótimo.
+
+423
+00:36:09,593 --> 00:36:10,651
+Saia.
+
+424
+00:36:10,728 --> 00:36:13,026
+Estou tão brava com você
+como estou com a Sra. Zachary.
+
+425
+00:36:41,625 --> 00:36:43,718
+Saiam da casa.
+
+426
+00:36:43,794 --> 00:36:46,262
+Corra, corra, siga a sua irmã.
+
+427
+00:36:46,330 --> 00:36:48,890
+Saia da casa.
+
+428
+00:36:48,966 --> 00:36:51,400
+Corra! Só corra!
+
+429
+00:36:51,468 --> 00:36:53,060
+Saia.
+
+430
+00:36:53,137 --> 00:36:54,161
+Houve um assassinato.
+
+431
+00:36:54,238 --> 00:36:55,227
+O quê?
+
+432
+00:36:55,306 --> 00:36:57,536
+Chame a polícia.
+É uma assassinato!
+
+433
+00:36:57,608 --> 00:37:00,907
+Houve um assassinato na casa.
+Chame a polícia.
+
+434
+00:37:00,978 --> 00:37:03,412
+Alô?
+
+435
+00:37:38,515 --> 00:37:40,574
+<i>Madame?</i>
+
+436
+00:37:43,520 --> 00:37:45,044
+Não achamos nada.
+
+437
+00:37:45,122 --> 00:37:47,113
+Tudo aparenta estar normal.
+
+438
+00:37:50,861 --> 00:37:55,924
+Mas eu vi. Estava na casa.
+Estava na cozinha.
+
+439
+00:37:57,501 --> 00:37:59,662
+Senhor, posso falar com
+você por um segundo?
+
+440
+00:37:59,737 --> 00:38:01,796
+Estarei logo ali.
+
+441
+00:38:15,085 --> 00:38:19,044
+Ela é uma pessoa normal.
+Ela está em choque.
+
+442
+00:38:20,858 --> 00:38:23,656
+Um pouco estressada. É o trabalho.
+
+443
+00:38:30,634 --> 00:38:32,033
+Talvez deva considerar..
+
+444
+00:38:32,102 --> 00:38:35,333
+...contratar alguém para tomar
+conta das crianças por um tempo.
+
+445
+00:38:35,406 --> 00:38:37,897
+Acho que sua esposa vá apreciar
+um tempo de descanso.
+
+446
+00:38:41,478 --> 00:38:42,945
+Me ligue se precisar de algo.
+
+447
+00:38:43,013 --> 00:38:44,002
+Obrigado.
+
+448
+00:39:03,500 --> 00:39:05,764
+O que você acha que
+está errado comigo?
+
+449
+00:39:05,969 --> 00:39:07,960
+Eu não sou um psiquiatra, Dani.
+
+450
+00:39:08,839 --> 00:39:10,864
+Se sente bem tendo alguém para falar?
+
+451
+00:39:10,941 --> 00:39:13,068
+Sim, Eu gosto dela.
+
+452
+00:39:14,745 --> 00:39:17,213
+Ela é bem normal e tudo o mais.
+
+453
+00:39:17,881 --> 00:39:20,111
+Tudo o que eu não sou.
+
+454
+00:39:21,118 --> 00:39:24,019
+Acho que você apenas está com
+um pouco de pressão ultimamente.
+
+455
+00:39:25,589 --> 00:39:27,022
+Você tem de clarear a mente.
+
+456
+00:39:27,091 --> 00:39:28,456
+É.
+
+457
+00:39:28,525 --> 00:39:32,928
+Eu sou... uma pessoa racional, vivendo
+no mundo real. Eu não sei como...
+
+458
+00:39:32,996 --> 00:39:35,897
+Deixa pra lá.
+
+459
+00:39:35,966 --> 00:39:37,957
+Estou realmente preocupado
+é com as crianças.
+
+460
+00:39:38,035 --> 00:39:40,697
+Não se preocupe com as crianças.
+Elas estão bem.
+
+461
+00:39:40,771 --> 00:39:42,966
+Você precisa apenas relaxar.
+
+462
+00:39:46,043 --> 00:39:50,503
+O que acha de contratarmos alguém
+para te ajudar com as crianças?
+
+463
+00:39:50,581 --> 00:39:52,481
+Não.
+
+464
+00:39:52,549 --> 00:39:54,574
+Está fora de questão.
+
+465
+00:39:54,651 --> 00:39:57,950
+Achei que seria útil se você
+tivesse alguém para te ajudar.
+
+466
+00:40:01,158 --> 00:40:03,319
+Você acha que
+isso iria me proteger?
+
+467
+00:40:03,394 --> 00:40:04,622
+De quê?
+
+468
+00:40:04,695 --> 00:40:05,753
+Rubera.
+
+469
+00:40:05,829 --> 00:40:06,853
+O que é isso?
+
+470
+00:40:06,930 --> 00:40:09,922
+É o meu trabalho de ciências.
+É uma doença transmitida por ratos.
+
+471
+00:40:10,000 --> 00:40:13,492
+Matou centenas de pessoas na Europa
+nos anos 20. Foi uma loucura.
+
+472
+00:40:13,570 --> 00:40:15,316
+Não poderia ter feito
+algo sobre a Energia
+
+473
+00:40:15,317 --> 00:40:17,062
+solar. Ou sobre como
+os pulmões funcionam?
+
+474
+00:40:17,141 --> 00:40:20,577
+Não. Porque isso seria entediante.
+
+475
+00:40:21,111 --> 00:40:22,703
+Oh. Ei.
+
+476
+00:40:22,780 --> 00:40:24,771
+Alô, Sra. Merrick.
+
+477
+00:40:24,848 --> 00:40:26,509
+Oh. Myra.
+
+478
+00:40:27,351 --> 00:40:28,875
+Não sabia que estava aqui.
+
+479
+00:40:28,952 --> 00:40:30,214
+Sr. Merrick.
+
+480
+00:40:30,287 --> 00:40:32,050
+Nós... estávamos
+lá em cima trabalhando
+
+481
+00:40:32,051 --> 00:40:33,814
+ela está fazendo um trabalho
+sobre uma doença também.
+
+482
+00:40:33,891 --> 00:40:36,485
+É. Só que a minha é mais comum.
+AIDS
+
+483
+00:40:37,227 --> 00:40:38,660
+Bem, é bom ver vocês dois...
+
+484
+00:40:38,729 --> 00:40:40,720
+...trabalhando juntos para
+resolver os problemas do mundo.
+
+485
+00:40:40,798 --> 00:40:43,289
+Obrigado, pai.
+
+486
+00:40:43,367 --> 00:40:47,565
+Vamos voltar lá pra
+cima e terminar o trabalho.
+
+487
+00:40:47,638 --> 00:40:48,764
+Não é muito tarde?
+
+488
+00:40:48,839 --> 00:40:50,932
+São 8:30.
+
+489
+00:40:51,008 --> 00:40:52,771
+Obrigado, pai. Boa noite, gente.
+
+490
+00:40:56,713 --> 00:41:00,046
+Viu? Você não é a única
+louca nesta casa.
+
+491
+00:41:00,117 --> 00:41:02,108
+Viu como a namorada dele é quente?
+
+492
+00:41:02,886 --> 00:41:05,116
+Já não se fazem mais como elas.
+
+493
+00:41:05,189 --> 00:41:07,749
+O que 16 anos, e ele já
+está maluco por ela?
+
+494
+00:41:09,126 --> 00:41:10,821
+Você devia tentar uma chance com ela.
+
+495
+00:41:11,495 --> 00:41:13,224
+Oh, qual é!
+
+496
+00:41:14,364 --> 00:41:17,231
+Eu não gosto desse tipo de conversa.
+
+497
+00:41:17,301 --> 00:41:22,068
+Dani, o Kurt vai aprender
+sobre amor e sexo um dia, certo?
+
+498
+00:41:22,840 --> 00:41:25,536
+Sabe, eu não queria que ele se
+machucasse ou fosse enganado.
+
+499
+00:41:25,609 --> 00:41:29,204
+Eu sei como isso machuca, e não
+quero que ele tenha uma desilusão.
+
+500
+00:41:31,748 --> 00:41:35,240
+Por que trazer à tona isso? Você não
+vai me deixar esquecer aquilo, vai?
+
+501
+00:41:35,319 --> 00:41:38,015
+Desculpe. Apenas saiu. Desculpe.
+
+502
+00:41:38,088 --> 00:41:41,114
+Eu não queria fazer aquilo a você.
+Eu nunca mais te machucarei de novo.
+
+503
+00:41:49,299 --> 00:41:51,460
+Venha aqui. Venha aqui.
+
+504
+00:42:08,785 --> 00:42:10,753
+Você nunca mais falou com ela, falou?
+
+505
+00:42:10,821 --> 00:42:11,913
+Não.
+
+506
+00:42:11,989 --> 00:42:14,389
+Ela nunca seria uma
+mãe melhor do que eu.
+
+507
+00:42:15,926 --> 00:42:17,826
+Diga a eles que eu não estou.
+
+508
+00:42:25,736 --> 00:42:27,033
+Alô?
+
+509
+00:42:27,971 --> 00:42:30,235
+Alô? Alô?
+
+510
+00:42:33,410 --> 00:42:34,468
+Quem era.
+
+511
+00:42:34,545 --> 00:42:35,534
+Novamente ninguém.
+
+512
+00:42:38,482 --> 00:42:39,574
+Alô.
+
+513
+00:42:39,650 --> 00:42:41,515
+Alô. Sra. Merrick?
+
+514
+00:42:41,585 --> 00:42:44,053
+É a Sra. Zachary.
+A professora de Inglês da Lauren.
+
+515
+00:42:44,121 --> 00:42:47,682
+Oh, Sra. Zachary! Sim, eu
+queria falar com você.
+
+516
+00:42:47,758 --> 00:42:49,089
+Bom.
+
+517
+00:42:49,159 --> 00:42:51,059
+Eu também queria falar com você.
+
+518
+00:42:51,128 --> 00:42:55,656
+Eu estava pensando se poderíamos nos
+encontrar amanhã. Talvez após a escola?
+
+519
+00:42:55,732 --> 00:42:58,963
+Sim. Eu... seria ótimo. Eu gostaria.
+
+520
+00:42:59,036 --> 00:43:02,494
+Ótimo. Estarei esperando para
+te encontrar Sra. Merrick.
+
+521
+00:43:02,573 --> 00:43:03,938
+Boa noite.
+
+522
+00:43:55,592 --> 00:43:57,287
+Sra. Merrick.
+
+523
+00:43:57,361 --> 00:44:00,524
+Estou contente que pôde vir
+num prazo tão curto.
+
+524
+00:44:03,600 --> 00:44:05,329
+<i>Sra. Merrick?</i>
+
+525
+00:44:05,402 --> 00:44:07,393
+<i> Sra. Merrick.</i>
+
+526
+00:44:07,471 --> 00:44:08,733
+Sra. Merrick?
+
+527
+00:44:11,775 --> 00:44:13,367
+Sra. Merrick.
+
+528
+00:44:15,946 --> 00:44:18,938
+Sra. Merrick, está tudo bem?
+
+529
+00:44:19,016 --> 00:44:20,677
+Você está bem?
+
+530
+00:44:21,585 --> 00:44:23,416
+Sim, com certeza.
+
+531
+00:44:25,756 --> 00:44:27,747
+Me senti um pouco tonta.
+
+532
+00:44:30,761 --> 00:44:32,251
+Talvez deva ir para casa.
+
+533
+00:44:32,329 --> 00:44:34,320
+Podemos ter nossa reunião
+uma outra hora.
+
+534
+00:44:34,398 --> 00:44:37,265
+Não. Eu... onde está minha bolsa?
+
+535
+00:44:41,204 --> 00:44:42,432
+Está aqui.
+
+536
+00:44:42,506 --> 00:44:46,772
+Queria saber por que escolheu
+este livro para minha filha?
+
+537
+00:44:48,545 --> 00:44:50,706
+Eu nunca vi este livro
+antes na minha vida.
+
+538
+00:44:50,781 --> 00:44:54,046
+Lauren disse que você fez eles lerem isso.
+
+539
+00:44:54,117 --> 00:44:55,914
+Por Deus. Não, nunca.
+
+540
+00:44:55,986 --> 00:44:58,045
+Na verdade, o que eu queria
+conversar com você é sobre...
+
+541
+00:44:58,121 --> 00:45:01,613
+Lauren que estar com
+certos problemas na classe.
+
+542
+00:45:01,692 --> 00:45:04,820
+Ela é muito... uma jovem muito mundana.
+
+543
+00:45:04,895 --> 00:45:06,590
+O que quer dizer?
+
+544
+00:45:06,663 --> 00:45:10,690
+Ela fala vulgaridades. Eu quero dizer,
+palavras de baixo calão.
+
+545
+00:45:10,767 --> 00:45:13,998
+Não, não. Lauren nunca
+falaria desse modo. Nunca
+
+546
+00:45:14,071 --> 00:45:15,629
+Eu te garanto.
+
+547
+00:45:15,706 --> 00:45:17,435
+Bem, provavelmente não é nada.
+
+548
+00:45:17,507 --> 00:45:20,567
+A menos que haja algo havendo em casa.
+
+549
+00:45:22,145 --> 00:45:25,114
+As crianças passam por várias fases.
+Pequenas rebeliões.
+
+550
+00:45:25,182 --> 00:45:28,208
+E algumas vezes a linguagem é a
+maneira de elas se demonstrarem.
+
+551
+00:45:28,285 --> 00:45:30,879
+Não, nem em um milhão de anos
+eu permitiria a Lauren...
+
+552
+00:45:30,954 --> 00:45:33,855
+...ter acesso a um livro como esse.
+
+553
+00:45:33,924 --> 00:45:36,688
+Veja Sra. Merrick, tenho certeza
+que é uma mãe maravilhosa.
+
+554
+00:45:36,760 --> 00:45:39,194
+Então não se envergonhe,
+mas isto é algo...
+
+555
+00:45:39,262 --> 00:45:40,923
+<i>Lauren!</i>
+
+556
+00:45:44,801 --> 00:45:46,666
+Pare!
+
+557
+00:45:46,737 --> 00:45:47,726
+Volte!
+
+558
+00:45:48,939 --> 00:45:49,928
+Pare!
+
+559
+00:45:53,610 --> 00:45:54,941
+Lauren!
+
+560
+00:46:09,092 --> 00:46:10,582
+Lauren.
+
+561
+00:46:11,294 --> 00:46:12,556
+Lauren.
+
+562
+00:46:15,432 --> 00:46:17,366
+Por que você não tentou me ajudar?
+
+563
+00:46:19,202 --> 00:46:22,694
+Você sabia, mas não fez nada.
+
+564
+00:46:24,141 --> 00:46:26,769
+Sra. Merrick. Tem algo errado?
+
+565
+00:46:58,308 --> 00:47:01,402
+Não é segredo que sua mãe tem estado
+sob muito estresse ultimamente.
+
+566
+00:47:01,478 --> 00:47:04,470
+Você acha? Digo, ela está paranóica
+por cada estupidez...
+
+567
+00:47:04,548 --> 00:47:05,913
+Deixe disso.
+
+568
+00:47:07,083 --> 00:47:08,380
+Desculpe
+
+569
+00:47:13,723 --> 00:47:15,918
+Acho que ela precisa de
+um pouco de descanso.
+
+570
+00:47:16,626 --> 00:47:19,527
+E... ela se preocupa demais.
+
+571
+00:47:19,596 --> 00:47:20,585
+Ela está bem?
+
+572
+00:47:20,664 --> 00:47:23,462
+Sim, ela está bem. Ela vai ficar bem.
+
+573
+00:47:23,533 --> 00:47:26,696
+Mas, preciso que vocês me
+ajudem com isso, certo?
+
+574
+00:47:26,770 --> 00:47:27,759
+Como?
+
+575
+00:47:27,838 --> 00:47:29,499
+Sendo prestativos.
+
+576
+00:47:30,273 --> 00:47:32,468
+Apenas tentem não deixar
+ela agitada, certo?
+
+577
+00:47:32,542 --> 00:47:34,635
+Não deixem ela
+sobrecarregada com nada.
+
+578
+00:47:34,711 --> 00:47:37,202
+Se houvesse algo com a mamãe, ela nunca
+iria querer que deixássemos a casa.
+
+579
+00:47:37,280 --> 00:47:38,747
+Ela nem ao menos acredita na gente.
+
+580
+00:47:40,517 --> 00:47:43,645
+Isso não é verdadeiro. Eu não confio
+em você porque você mentiu para mim.
+
+581
+00:47:43,720 --> 00:47:44,709
+Danika...
+
+582
+00:47:44,788 --> 00:47:46,813
+Você mentiu para mim!
+
+583
+00:47:46,890 --> 00:47:48,016
+Desculpe.
+
+584
+00:47:48,091 --> 00:47:49,642
+Randy, ela mentiu para mim!
+
+585
+00:47:49,643 --> 00:47:51,993
+Ela escolheu o livro.
+A Sra. Zachary nunca o recomendou!
+
+586
+00:47:52,062 --> 00:47:53,086
+Desculpa.
+
+587
+00:47:53,163 --> 00:47:55,893
+"Desculpa" não é o suficiente.
+A Sra. Zachary se foi.
+
+588
+00:47:55,966 --> 00:47:57,900
+Entenda, quando se está morto,
+se vai para sempre.
+
+589
+00:47:58,501 --> 00:48:01,026
+Desculpe. Desculpe.
+
+590
+00:48:01,104 --> 00:48:03,299
+Qual o problema com você?
+
+591
+00:48:16,786 --> 00:48:18,219
+Lauren?
+
+592
+00:48:19,556 --> 00:48:21,023
+Querida?
+
+593
+00:48:46,716 --> 00:48:48,411
+Não fique brava, mamãe.
+
+594
+00:48:49,519 --> 00:48:51,453
+Eu não estou brava.
+
+595
+00:48:53,156 --> 00:48:56,319
+Eu nunca serei má novamente. Prometo.
+
+596
+00:48:57,260 --> 00:48:58,818
+Eu sei, querida.
+
+597
+00:49:03,433 --> 00:49:05,458
+Eu sei.
+
+598
+00:49:09,239 --> 00:49:11,867
+Sabe que sempre irei
+te proteger, certo?
+
+599
+00:49:15,578 --> 00:49:17,671
+<i>Danika.</i>
+
+600
+00:49:17,747 --> 00:49:20,113
+Está tudo bem aqui?
+
+601
+00:49:21,217 --> 00:49:22,514
+Está.
+
+602
+00:49:25,155 --> 00:49:26,247
+Estamos ótimas.
+
+603
+00:49:27,157 --> 00:49:29,557
+Tudo está muito, muito bem.
+
+604
+00:49:30,226 --> 00:49:31,716
+Certo?
+
+605
+00:49:33,496 --> 00:49:34,986
+Certo.
+
+606
+00:49:51,414 --> 00:49:52,608
+Você está bem?
+
+607
+00:49:52,682 --> 00:49:54,081
+Sim, pai.
+
+608
+00:50:01,958 --> 00:50:04,586
+Você vai me levar a algum lugar?
+
+609
+00:50:04,661 --> 00:50:06,959
+Onde?
+
+610
+00:50:07,664 --> 00:50:11,031
+Ao hospital. Ao hospital.
+
+611
+00:50:19,743 --> 00:50:21,438
+Tudo vai ficar bem.
+
+612
+00:50:23,380 --> 00:50:25,644
+Certo? Sim.
+
+613
+00:50:46,236 --> 00:50:49,205
+Eu gostaria de poder parar o tempo.
+
+614
+00:50:50,173 --> 00:50:56,635
+Naqueles momentos quando tudo
+é apenas felicidade e perfeição.
+
+615
+00:51:01,851 --> 00:51:04,012
+Isto não deveria ter acontecido.
+
+616
+00:51:35,919 --> 00:51:40,754
+Bem, medicamente, você está ótima.
+Não há nada anormal que pude detectar.
+
+617
+00:51:40,824 --> 00:51:42,086
+Tem certeza?
+
+618
+00:51:42,158 --> 00:51:45,286
+A tomografia cerebral está normal.
+Completamente normal.
+
+619
+00:51:46,763 --> 00:51:48,731
+O que há? Você parece não ter gostado.
+
+620
+00:52:02,445 --> 00:52:04,811
+Então isto prova, não prova?
+
+621
+00:52:05,882 --> 00:52:07,611
+Prova o quê?
+
+622
+00:52:07,684 --> 00:52:11,279
+Estas são ótimas noticias, e você não
+está no lado negro como sempre.
+
+623
+00:52:11,354 --> 00:52:13,049
+Randy.
+
+624
+00:52:13,123 --> 00:52:16,183
+Significa que estou tendo alucinações.
+Isto não é normal.
+
+625
+00:52:16,259 --> 00:52:18,989
+Sim, más é tratável.
+Os remédios vão te ajudar.
+
+626
+00:52:19,062 --> 00:52:20,461
+Certo, posso dizer.
+
+627
+00:52:20,530 --> 00:52:22,191
+Iremos passar por isso juntos.
+
+628
+00:52:29,939 --> 00:52:31,600
+Certo.
+
+629
+00:52:33,510 --> 00:52:35,478
+Não, não posso mostrar
+aquela casa agora.
+
+630
+00:52:36,846 --> 00:52:38,871
+Bel, eles apenas vão ter de esperar.
+
+631
+00:52:56,666 --> 00:52:58,190
+Você confia nos seus filhos?
+
+632
+00:52:58,935 --> 00:53:01,130
+Seu marido?
+
+633
+00:53:05,341 --> 00:53:07,241
+Bem.
+
+634
+00:53:08,211 --> 00:53:10,645
+É difícil.
+
+635
+00:53:10,713 --> 00:53:12,112
+No outro dia...
+
+636
+00:53:13,616 --> 00:53:16,050
+...Kurt estava estudando
+com sua namorada e eu...
+
+637
+00:53:18,154 --> 00:53:19,985
+...e eu não pude me conter.
+
+638
+00:53:21,157 --> 00:53:22,249
+Kurt.
+
+639
+00:53:24,794 --> 00:53:25,988
+Você não bateu?
+
+640
+00:53:29,098 --> 00:53:31,999
+Meus pais costumavam
+fazer a mesma coisa.
+
+641
+00:53:32,068 --> 00:53:34,332
+Sempre tentando
+controlar a minha vida.
+
+642
+00:53:35,104 --> 00:53:36,969
+Você vai fazer o Kurt odiar...
+
+643
+00:53:37,040 --> 00:53:39,372
+Saia da minha casa.
+
+644
+00:53:47,317 --> 00:53:49,251
+Você passa a sua vida inteira...
+
+645
+00:53:50,687 --> 00:53:55,351
+...tentando proteger ele do mal e de
+influências maléficas. Digo, apenas...
+
+646
+00:53:57,727 --> 00:53:58,853
+...eles não entendem.
+
+647
+00:54:02,198 --> 00:54:04,063
+São muito jovens.
+
+648
+00:54:05,368 --> 00:54:09,429
+Eles não entendem como a vida
+pode desaparecer tão rapidamente.
+
+649
+00:54:12,775 --> 00:54:14,572
+Você não acha...
+
+650
+00:54:14,644 --> 00:54:19,707
+...você não acha que talvez você esteja
+sendo muito protetora com seus filhos?
+
+651
+00:54:23,620 --> 00:54:25,053
+O quê?
+
+652
+00:54:26,356 --> 00:54:27,448
+Você quer dizer...
+
+653
+00:54:28,858 --> 00:54:29,984
+Não é possível
+
+654
+00:54:33,129 --> 00:54:34,221
+Você tem filhos?
+
+655
+00:54:35,465 --> 00:54:36,557
+Não.
+
+656
+00:54:40,203 --> 00:54:41,795
+Então você não sabe.
+
+657
+00:54:43,773 --> 00:54:45,968
+Você não sabe.
+
+658
+00:54:51,214 --> 00:54:53,375
+Neste mundo coisas ruins acontecem.
+
+659
+00:54:55,151 --> 00:54:56,778
+Isso é vida.
+
+660
+00:54:57,553 --> 00:55:00,613
+Eu não gosto disso.
+Não aceito isso.
+
+661
+00:55:00,690 --> 00:55:02,453
+Não aceito isso.
+
+662
+00:55:02,525 --> 00:55:05,255
+Você pode apenas fazer o melhor que pode.
+
+663
+00:55:05,328 --> 00:55:08,991
+Me parece que você é uma
+mãe excelente, Danika.
+
+664
+00:55:09,065 --> 00:55:12,091
+Mas você tem de explicar para mim, por
+que as pessoas estão mentindo para mim.
+
+665
+00:55:12,168 --> 00:55:15,968
+Por que minha garotinha inventou
+aquela história sobre o livro?
+
+666
+00:55:16,039 --> 00:55:18,439
+Meu filho está envolvido
+com um predador. Meu marido...
+
+667
+00:55:18,508 --> 00:55:19,998
+Pare!
+
+668
+00:55:20,076 --> 00:55:23,944
+Você não pode protegê-los de tudo.
+
+669
+00:55:26,182 --> 00:55:28,207
+Não é saudável.
+
+670
+00:55:31,554 --> 00:55:34,148
+Talvez você deva deixar o teu
+marido te ajudar mais.
+
+671
+00:55:34,223 --> 00:55:36,384
+O que você sabe sobre o Randy?
+
+672
+00:55:39,128 --> 00:55:41,187
+Não me diga como criar os meus filhos.
+
+673
+00:55:57,980 --> 00:55:59,709
+Mãe!
+
+674
+00:56:13,696 --> 00:56:15,095
+Certo!
+
+675
+00:56:17,133 --> 00:56:18,430
+Tome estes.
+
+676
+00:56:27,343 --> 00:56:28,935
+Estou assustada.
+
+677
+00:56:29,011 --> 00:56:30,444
+Não fique.
+
+678
+00:56:37,353 --> 00:56:39,947
+Me diga que tudo vai ficar bem.
+
+679
+00:56:42,191 --> 00:56:44,557
+Tudo vai ficar bem.
+
+680
+00:57:01,911 --> 00:57:03,742
+Randy.
+
+681
+00:57:05,581 --> 00:57:08,243
+Oi, Sra. Merrick.
+
+682
+00:57:13,222 --> 00:57:14,712
+Desculpe sobre isso.
+
+683
+00:57:19,929 --> 00:57:22,124
+O que aconteceu com você?
+
+684
+00:57:27,937 --> 00:57:30,030
+Eu tenho AIDS.
+
+685
+00:57:33,209 --> 00:57:35,677
+Você tem de ver um médico.
+
+686
+00:57:38,381 --> 00:57:40,246
+Por quê?
+
+687
+00:57:41,584 --> 00:57:43,381
+Você precisa de ajuda.
+
+688
+00:57:45,488 --> 00:57:46,853
+Não.
+
+689
+00:58:13,249 --> 00:58:16,343
+O que eu preciso é de uma boa trepada.
+
+690
+00:58:16,419 --> 00:58:19,115
+Boa trepada. Boa trepada.
+
+691
+00:58:19,188 --> 00:58:20,621
+Myra?
+
+692
+00:58:21,924 --> 00:58:24,757
+Kurt.
+
+693
+00:58:24,827 --> 00:58:27,125
+Eu gosto do Kurt.
+
+694
+00:58:28,865 --> 00:58:31,732
+Gosto muito dele.
+
+695
+00:58:34,770 --> 00:58:35,964
+Te vejo mais tarde.
+
+696
+00:58:38,674 --> 00:58:42,041
+Ele é o meu bebê.
+
+697
+00:58:49,285 --> 00:58:51,981
+Ele é o meu bebê.
+
+698
+00:58:59,662 --> 00:59:02,324
+Ele é o meu bebê.
+
+699
+00:59:04,800 --> 00:59:05,789
+Alô?
+
+700
+00:59:05,868 --> 00:59:07,267
+Eles estão em um motel.
+
+701
+00:59:07,336 --> 00:59:09,361
+O motel Cuesta, na rua Frontage.
+
+702
+00:59:09,438 --> 00:59:11,303
+Quarto dois. Desculpe.
+
+703
+00:59:21,183 --> 00:59:24,641
+Você me deu um monte de remédios,
+e eu não gostei.
+
+704
+00:59:26,222 --> 00:59:27,917
+Drogas nunca foram a
+minha primeira escolha...
+
+705
+00:59:27,990 --> 00:59:30,857
+...mas sinto que não tenho
+outra opção para você.
+
+706
+00:59:31,694 --> 00:59:33,423
+Bem, elas não estão funcionando.
+
+707
+00:59:33,496 --> 00:59:36,624
+Estou tendo pesadelos. Me sinto pior.
+Estou preocupada com meus filhos.
+
+708
+00:59:37,433 --> 00:59:39,424
+Seus filhos estão bem, Danika.
+
+709
+00:59:42,171 --> 00:59:44,571
+Sabe o que eu ouvi no rádio hoje?
+
+710
+00:59:46,342 --> 00:59:49,470
+Um lunático explodiu a
+si mesmo em um ônibus.
+
+711
+00:59:49,545 --> 00:59:51,843
+Cheio de criancinhas.
+
+712
+00:59:53,182 --> 00:59:55,980
+Mas você sabe que isso não é verdade.
+
+713
+00:59:56,986 --> 00:59:58,851
+Eu não sei isso.
+
+714
+01:00:00,923 --> 01:00:03,687
+E eu não sei o que eu posso
+fazer a respeito.
+
+715
+01:00:03,759 --> 01:00:05,818
+Eu poderia ter ajudado
+aquela garotinha...
+
+716
+01:00:05,895 --> 01:00:07,692
+...e eu não sabia o que
+fazer a respeito.
+
+717
+01:00:07,763 --> 01:00:11,995
+Para de se culpar Danika.
+Você não tem esse poder.
+
+718
+01:00:12,068 --> 01:00:13,602
+Você tem de parar de se
+preocupar com o exterior.
+
+719
+01:00:13,603 --> 01:00:15,936
+Sobre as coisas que você
+não tem o poder de controlar.
+
+720
+01:00:16,005 --> 01:00:18,439
+E começar a olhar para si mesma.
+
+721
+01:00:18,507 --> 01:00:20,600
+Tem pessoas preocupadas com você.
+
+722
+01:00:20,676 --> 01:00:25,170
+E, honestamente, seus medos
+não ajudam ninguém.
+
+723
+01:00:27,984 --> 01:00:30,316
+Estou apavorando a todos.
+
+724
+01:00:31,053 --> 01:00:33,544
+As crianças.
+
+725
+01:00:33,623 --> 01:00:35,147
+Randy.
+
+726
+01:00:36,592 --> 01:00:39,652
+Todos dizem que ele realmente
+me amava, mas...
+
+727
+01:00:40,696 --> 01:00:42,755
+...por que ele teve de ter outra?
+
+728
+01:00:45,368 --> 01:00:46,801
+Ele teve um caso?
+
+729
+01:00:49,438 --> 01:00:51,599
+Foi com a babá das crianças.
+
+730
+01:00:54,043 --> 01:00:55,340
+Isso é terrível.
+
+731
+01:01:03,386 --> 01:01:05,320
+Eu realmente confiava nela.
+
+732
+01:01:07,590 --> 01:01:10,024
+E eu disse a ela tudo.
+
+733
+01:01:11,193 --> 01:01:13,354
+E ela tomou conta das minhas crianças!
+
+734
+01:01:20,136 --> 01:01:22,161
+Com descobriu?
+
+735
+01:01:23,506 --> 01:01:25,201
+Contratei um detetive.
+
+736
+01:01:28,944 --> 01:01:30,741
+Então o que houve com ela?
+
+737
+01:01:31,580 --> 01:01:33,377
+Ela se foi.
+
+738
+01:01:33,449 --> 01:01:35,508
+Era eu e as crianças ou ela.
+
+739
+01:01:36,118 --> 01:01:38,848
+Randy voltou e implorou por perdão.
+
+740
+01:01:39,822 --> 01:01:41,722
+E você o perdoou?
+
+741
+01:01:47,897 --> 01:01:49,364
+Somos uma família.
+
+742
+01:01:50,232 --> 01:01:54,191
+E eu não vou jogar algo que
+alguém mais possa vir e ganhar.
+
+743
+01:01:59,508 --> 01:02:01,305
+Eu vou ficar bem.
+
+744
+01:02:02,278 --> 01:02:04,337
+Eu vou ficar bem agora.
+
+745
+01:02:05,014 --> 01:02:06,538
+Eu vou ficar bem.
+
+746
+01:02:07,316 --> 01:02:09,341
+Eu vou ficar bem.
+
+747
+01:02:12,221 --> 01:02:14,451
+Estou bem.
+
+748
+01:02:18,594 --> 01:02:19,754
+<i>Mãe?</i>
+
+749
+01:02:23,332 --> 01:02:25,562
+Oh, querido.
+
+750
+01:02:25,634 --> 01:02:27,067
+Tem alguma coisa errada?
+
+751
+01:02:29,038 --> 01:02:32,405
+Não. Mamãe só não está
+se sentindo bem.
+
+752
+01:02:33,476 --> 01:02:37,037
+Eu tinha a seu presente de
+formatura na mão me esqueci dele.
+
+753
+01:02:38,647 --> 01:02:40,205
+Você está brincando de esconde-esconde?
+
+754
+01:02:46,889 --> 01:02:50,620
+Mãe, nós vamos ao McDonalds?
+
+755
+01:02:50,693 --> 01:02:54,129
+Sim. Tudo que quiser hoje.
+
+756
+01:02:54,196 --> 01:02:56,426
+Você é a melhor mãe do mundo.
+
+757
+01:02:57,266 --> 01:03:00,394
+E você é o melhor filho.
+
+758
+01:03:16,018 --> 01:03:18,043
+Alô?
+
+759
+01:03:18,120 --> 01:03:19,553
+Eles estão em um motel.
+
+760
+01:03:19,622 --> 01:03:21,852
+O Motel Cuesta na rua Frontage.
+
+761
+01:03:21,924 --> 01:03:23,255
+Quarto dois.
+
+762
+01:03:24,026 --> 01:03:25,618
+Desculpe.
+
+763
+01:03:37,406 --> 01:03:38,566
+Mãe.
+
+764
+01:03:51,120 --> 01:03:52,451
+Alô?
+
+765
+01:03:52,521 --> 01:03:54,682
+Você está planejando voltar?
+
+766
+01:03:59,028 --> 01:04:00,518
+Não posso.
+
+767
+01:04:00,596 --> 01:04:03,292
+Seus cálculos estão errados de novo, Danika.
+
+768
+01:04:03,365 --> 01:04:06,095
+Você precisa voltar
+agora e tomar conta disso.
+
+769
+01:04:06,168 --> 01:04:09,535
+Eu deixei Brian com minha babá,
+mas ela não está aqui.
+
+770
+01:04:11,373 --> 01:04:13,739
+Supostamente era para
+ela tomar conta dele.
+
+771
+01:04:13,809 --> 01:04:15,436
+Eu não posso voltar agora.
+
+772
+01:04:15,511 --> 01:04:18,036
+Então talvez você não deva voltar mais.
+
+773
+01:04:20,316 --> 01:04:21,442
+Danika?
+
+774
+01:04:21,517 --> 01:04:23,314
+Vamos sair daqui.
+
+775
+01:04:23,385 --> 01:04:24,977
+Parados!
+
+776
+01:04:26,622 --> 01:04:28,487
+Aonde você vai?
+
+777
+01:04:28,557 --> 01:04:31,583
+Vou pegar Kurt e Karen na escola.
+
+778
+01:05:13,469 --> 01:05:16,529
+Senti sua falta, também.
+
+779
+01:05:16,605 --> 01:05:18,095
+Senti sua falta, também.
+
+780
+01:05:37,760 --> 01:05:40,160
+Oh, meu Deus. Oh meu Deus.
+
+781
+01:05:40,229 --> 01:05:42,823
+Sra. Merrick. Desculpe.
+
+782
+01:05:43,499 --> 01:05:46,559
+Eu tenho que dizer algo.
+Este não é o modo que eu...
+
+783
+01:05:46,635 --> 01:05:48,159
+Foda-se. Foda-se!
+
+784
+01:05:55,878 --> 01:05:58,938
+Você queria que tudo fosse
+perfeito, não queria?
+
+785
+01:05:59,014 --> 01:06:01,209
+Você queria estar a salvo.
+Nada está a salvo.
+
+786
+01:06:02,251 --> 01:06:06,654
+Estou farto das suas paranóias. Estou
+farto dos seus medos malucos de merda!
+
+787
+01:06:07,389 --> 01:06:08,788
+Sra. Merrick.
+
+788
+01:06:10,292 --> 01:06:11,623
+Desculpe.
+
+789
+01:06:11,694 --> 01:06:14,720
+Eu te contratei para ser a babá
+dos meus filhos. Cale-se Evelyn.
+
+790
+01:06:14,797 --> 01:06:18,130
+Eu tentei te avisar mas você não queria
+ouvir. Você estava com medo de tudo!
+
+791
+01:06:18,200 --> 01:06:19,861
+Do que você está falando?
+
+792
+01:06:19,935 --> 01:06:21,129
+Você não percebeu ainda, não é?
+
+793
+01:06:21,203 --> 01:06:22,602
+O quê?
+
+794
+01:06:26,709 --> 01:06:28,574
+O quê?
+
+795
+01:06:31,146 --> 01:06:33,706
+Seus filhos merecem coisa melhor.
+
+796
+01:06:42,291 --> 01:06:43,383
+Você!
+
+797
+01:06:43,459 --> 01:06:46,019
+Se afaste dos meus filhos!
+
+798
+01:08:03,405 --> 01:08:05,566
+Ponham seus cintos de segurança.
+
+799
+01:08:16,752 --> 01:08:18,379
+Você está bem, mãe?
+
+800
+01:08:22,524 --> 01:08:25,357
+Mãe, o que aconteceu com você?
+
+801
+01:08:31,733 --> 01:08:33,064
+Nada.
+
+802
+01:08:33,135 --> 01:08:35,899
+Mãe, nós vamos ao Mcdonalds?
+
+803
+01:08:36,505 --> 01:08:39,440
+É. Essa é uma boa idéia.
+
+804
+01:08:42,411 --> 01:08:44,436
+Essa é uma boa idéia.
+
+805
+01:09:25,988 --> 01:09:28,456
+É difícil pra mim confiar em alguém.
+
+806
+01:09:32,261 --> 01:09:35,128
+Ela não teria sido uma
+mãe melhor do que eu.
+
+807
+01:09:48,510 --> 01:09:50,876
+Você e as crianças e tudo o mais.
+
+808
+01:10:16,305 --> 01:10:18,068
+Mãe!
+
+809
+01:11:15,797 --> 01:11:18,027
+Mais uma maca aqui.
+
+810
+01:11:25,941 --> 01:11:27,499
+É so ela.
+
+811
+01:11:30,112 --> 01:11:31,807
+Ela vai conseguir?
+
+812
+01:11:31,880 --> 01:11:33,780
+Sim, ela vai.
+
+813
+01:11:34,549 --> 01:11:35,948
+Mas...
+
+814
+01:11:40,989 --> 01:11:44,254
+...digo, como você vai conseguir
+viver depois de algo assim?
+
+815
+01:11:45,761 --> 01:11:47,388
+Não tenho idéia
+
+816
+01:11:56,371 --> 01:11:58,066
+Vamos por na ambulância.
+
+817
+01:11:59,274 --> 01:12:00,969
+Um, dois, três.
+
+818
+01:12:05,814 --> 01:12:07,145
+Onde estão as crianças?
+
+819
+01:12:07,215 --> 01:12:09,342
+Ela está perguntando pelas crianças.
+
+820
+01:12:09,418 --> 01:12:10,476
+Madame, me escute.
+
+821
+01:12:10,552 --> 01:12:14,386
+Estamos fazendo tudo que podemos até
+agora. Deixe-nos tomar conta de você.
+
+822
+01:12:14,456 --> 01:12:16,185
+Tudo vai ficar bem.
+
+823
+01:12:23,131 --> 01:12:24,621
+Mãe.
+
+824
+01:12:26,835 --> 01:12:28,700
+Ei. Mãe
+
+825
+01:12:31,440 --> 01:12:32,907
+O que aconteceu? Você está bem?
+
+826
+01:12:39,648 --> 01:12:40,945
+Me ajude.
+
+827
+01:12:56,665 --> 01:12:59,156
+Havia caminhões de
+bombeiro tão grandes...
+
+828
+01:12:59,234 --> 01:13:01,828
+...que o motorista era na parte de trás.
+
+829
+01:13:05,340 --> 01:13:07,501
+É aniversário de alguém.
+
+830
+01:13:07,576 --> 01:13:09,237
+Feliz aniversário, mãe.
+
+831
+01:13:34,102 --> 01:13:36,263
+Você diz que vê coisas.
+
+832
+01:13:36,338 --> 01:13:40,138
+Eu tenho estas visões, mas parece
+que elas realmente acontecem.
+
+833
+01:13:41,943 --> 01:13:44,411
+Sou uma pessoal racional,
+vivendo num mundo real.
+
+834
+01:13:44,479 --> 01:13:46,709
+Não sei como estou vendo estas coisas.
+
+835
+01:13:46,782 --> 01:13:48,875
+Você está fazendo um bom trabalho...
+
+836
+01:13:48,950 --> 01:13:50,508
+...me convencendo disso, Danika.
+
+837
+01:13:50,585 --> 01:13:52,780
+Sinto come se estivesse
+machucando minha família.
+
+838
+01:13:52,854 --> 01:13:54,412
+Não sei o que está acontecendo.
+
+839
+01:13:54,489 --> 01:13:58,289
+Eu tenho estas coisas na minha cabeça,
+e não sei o que é real e o que não é.
+
+840
+01:13:58,360 --> 01:14:00,487
+Houve um assassinato!
+
+841
+01:14:00,562 --> 01:14:03,861
+Você compreende que quando está
+morta você se vai para sempre?
+
+842
+01:14:03,932 --> 01:14:06,765
+Esqueci que era meu aniversário.
+
+843
+01:14:06,835 --> 01:14:08,700
+Eu queria que ela estivesse morta.
+
+844
+01:14:08,770 --> 01:14:10,670
+Estou imaginando isso.
+
+845
+01:14:10,739 --> 01:14:12,400
+Você vai me levar a algum lugar?
+
+846
+01:14:12,474 --> 01:14:13,668
+Onde?
+
+847
+01:14:13,742 --> 01:14:16,734
+Ao hospital. Devo estar ficando Louca.
+
+848
+01:14:16,812 --> 01:14:19,747
+Você é uma mãe maravilhosa Danika,
+você sabe disso.
+
+849
+01:14:19,815 --> 01:14:23,717
+Por favor, se você vir minha
+Lizzie, não a machuque.
+
+850
+01:14:23,785 --> 01:14:27,778
+Eu te darei qualquer coisa que queira.
+Apenas a traga de volta a salvo.
+
+851
+01:14:28,356 --> 01:14:32,588
+Tenho certeza que você é
+uma mãe maravilhosa.
+
+852
+01:14:32,661 --> 01:14:36,358
+Acho que estou louca.
+
+853
+01:14:36,431 --> 01:14:40,026
+Tenho certeza que você é
+uma mãe maravilhosa.
+

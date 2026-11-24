@@ -1,0 +1,5709 @@
+1
+00:00:55,986 --> 00:01:00,986
+
+2
+00:01:01,359 --> 00:01:03,227
+Controle da Missão, temos um distúrbio EM
+
+3
+00:01:03,293 --> 00:01:05,896
+irradiando de 40 graus a bombordo.
+
+4
+00:01:05,963 --> 00:01:08,667
+Verifique a liberação do tráfego de satélite. Sobre.
+
+5
+00:01:08,733 --> 00:01:10,168
+Roger, ISS
+
+6
+00:01:10,233 --> 00:01:12,236
+Há uma assinatura a bombordo.
+
+7
+00:01:12,304 --> 00:01:14,004
+Mas o JPL determina que pode ser
+
+8
+00:01:14,070 --> 00:01:16,439
+de um evento solar de baixa emissão.
+
+9
+00:01:16,507 --> 00:01:20,011
+Copiar, Controlar, mas não temos assinatura de partícula.
+
+10
+00:01:20,078 --> 00:01:22,280
+Capitão Peters realizará uma caminhada de manutenção
+
+11
+00:01:22,346 --> 00:01:24,180
+e quer confirmar a liberação.
+
+12
+00:01:24,248 --> 00:01:25,617
+ISS, temos uma visão de algo incomum
+
+13
+00:01:25,683 --> 00:01:28,219
+a bombordo.
+
+14
+00:01:28,284 --> 00:01:29,853
+Se o Capitão Peters se preparou para essa caminhada,
+
+15
+00:01:29,921 --> 00:01:32,157
+ele pode ter uma ideia do que é.
+
+16
+00:01:33,424 --> 00:01:35,860
+Uh, Controle da Missão, este é o Capitão Peters.
+
+17
+00:01:35,927 --> 00:01:41,066
+Eu... há algo fora da nave.
+
+18
+00:01:41,132 --> 00:01:44,169
+Capitão, há uma grande massa a bombordo.
+
+19
+00:01:44,234 --> 00:01:46,304
+Telemetria de radar e observatório
+
+20
+00:01:46,370 --> 00:01:48,073
+estão tentando aproximar o que é.
+
+21
+00:01:49,373 --> 00:01:51,676
+Pode ser apenas poeira soprada da nossa fuselagem
+
+22
+00:01:51,742 --> 00:01:53,077
+da válvula evacuadora.
+
+23
+00:01:53,144 --> 00:01:56,213
+Ou espere. Eu tenho um visual.
+
+24
+00:01:56,280 --> 00:02:00,051
+Está escuro. Parece ser...
+
+25
+00:02:24,776 --> 00:02:27,379
+Às 6h08, horário padrão, o Delta da Ucrânia...
+
+26
+00:02:28,913 --> 00:02:29,847
+Henry, você está segurando o aparelho muito perto
+
+27
+00:02:29,913 --> 00:02:31,316
+para o receptor novamente!
+
+28
+00:02:34,618 --> 00:02:38,923
+O que eu estava dizendo era às 6h08,
+horário padrão do leste,
+
+29
+00:02:38,990 --> 00:02:41,192
+Observatório Delta da Ucrânia
+
+30
+00:02:41,258 --> 00:02:43,794
+gravou exatamente o que você previu:
+
+31
+00:02:43,861 --> 00:02:47,799
+um aumento de dióxido de carbono e sódio
+
+32
+00:02:47,866 --> 00:02:49,166
+na troposfera marciana.
+
+33
+00:02:49,233 --> 00:02:51,168
+Você foi ao sistema de PA para isso?
+
+34
+00:02:51,235 --> 00:02:53,538
+Isso não confirma de uma vez por todas?
+
+35
+00:02:53,604 --> 00:02:56,106
+Bem, estou apenas olhando
+essas imagens mais recentes.
+
+36
+00:02:56,173 --> 00:02:57,775
+E?
+
+37
+00:02:57,842 --> 00:02:59,910
+Eu estava correto.
+
+38
+00:02:59,977 --> 00:03:01,746
+O Monte Olimpo vai entrar em erupção hoje.
+
+39
+00:03:01,812 --> 00:03:04,081
+Ver? Eu te disse!
+
+40
+00:03:04,147 --> 00:03:06,251
+Sim, escolhi um dia e tanto para fazer isso.
+
+41
+00:03:06,317 --> 00:03:07,552
+Quero dizer, isso confirma isso.
+
+42
+00:03:07,617 --> 00:03:09,419
+Só estou tentando adicionar um pouco de alarde, querido.
+
+43
+00:03:09,485 --> 00:03:10,887
+Você acabou de fazer história!
+
+44
+00:03:10,955 --> 00:03:12,790
+Quero dizer, uma erupção do Olympus Mons deste tamanho
+
+45
+00:03:12,856 --> 00:03:14,290
+é sem precedentes.
+
+46
+00:03:14,358 --> 00:03:16,560
+A maioria dos cientistas pensava
+que o vulcão estava adormecido.
+
+47
+00:03:16,627 --> 00:03:19,064
+Acredite em mim, ok? Eu me sinto validado.
+
+48
+00:03:20,564 --> 00:03:23,401
+Após 10 anos de cansaço visual
+acompanhando mudanças topográficas
+
+49
+00:03:23,467 --> 00:03:25,735
+e assinaturas químicas no Monte Olimpo,
+
+50
+00:03:25,802 --> 00:03:27,739
+Eu não ia perder isso.
+
+51
+00:03:28,939 --> 00:03:31,074
+Presumo que Junie não aceitou exatamente bem
+
+52
+00:03:31,141 --> 00:03:32,842
+quando você foi chamado.
+
+53
+00:03:32,909 --> 00:03:34,978
+Ela estava furiosa.
+
+54
+00:03:35,045 --> 00:03:36,381
+Eu prometi a ela que estaria com ela hoje
+
+55
+00:03:36,447 --> 00:03:39,283
+para o check-up pós-operatório quando você ligou.
+
+56
+00:03:40,450 --> 00:03:42,085
+Quero dizer, Mark está com ela,
+
+57
+00:03:42,152 --> 00:03:44,253
+mas não vou ganhar o prêmio de "Madrasta do Ano".
+
+58
+00:03:46,123 --> 00:03:49,525
+Olha, eu poderia assumir por você.
+
+59
+00:03:49,592 --> 00:03:51,528
+Você poderia me dar uma promoção.
+
+60
+00:03:51,596 --> 00:03:53,396
+Estou cansado de me esconder
+na sua sombra de qualquer maneira.
+
+61
+00:03:53,463 --> 00:03:55,265
+Sim, e como seria isso?
+
+62
+00:03:55,332 --> 00:03:57,367
+Não posso promover você! Você é meu irmão!
+
+63
+00:03:57,433 --> 00:03:58,868
+Pareceria que estou jogando favoritos.
+
+64
+00:03:58,936 --> 00:04:01,504
+Sim! Você é!
+
+65
+00:04:01,572 --> 00:04:03,174
+Além disso, você me deve!
+
+66
+00:04:03,240 --> 00:04:04,308
+Devo-lhe?
+
+67
+00:04:04,375 --> 00:04:05,876
+Absolutamente!
+
+68
+00:04:05,943 --> 00:04:08,112
+Todas aquelas vezes que cobri para você.
+
+69
+00:04:08,179 --> 00:04:10,381
+Eu fechei os olhos quando você pegou meu Trans Am
+
+70
+00:04:10,447 --> 00:04:13,050
+em suas pequenas corridas à meia-noite... piscadela.
+
+71
+00:04:13,116 --> 00:04:14,718
+Tudo bem, não vale promoção.
+
+72
+00:04:14,786 --> 00:04:17,320
+Você tinha 12 anos.
+
+73
+00:04:17,388 --> 00:04:18,322
+Bem, isso é estranho.
+
+74
+00:04:18,389 --> 00:04:19,590
+O que é?
+
+75
+00:04:19,656 --> 00:04:21,358
+Espere. Deixe-me colocar isso no monitor.
+
+76
+00:04:27,098 --> 00:04:28,900
+Nosso telescópio capturou essas três imagens
+
+77
+00:04:28,966 --> 00:04:31,201
+de Marte de 15 minutos atrás.
+
+78
+00:04:32,637 --> 00:04:34,038
+Uau.
+
+79
+00:04:34,105 --> 00:04:35,838
+Sim, você vê isso?
+
+80
+00:04:35,906 --> 00:04:39,343
+Esse material ejetado estava
+viajando incrivelmente rápido.
+
+81
+00:04:39,410 --> 00:04:41,312
+Isso é da erupção inicial?
+
+82
+00:04:41,379 --> 00:04:42,847
+Parece que sim.
+
+83
+00:04:44,314 --> 00:04:46,082
+Uau.
+
+84
+00:04:46,149 --> 00:04:49,553
+A quantidade de força para ejetar algo assim
+
+85
+00:04:49,620 --> 00:04:51,956
+na órbita marciana deve ter sido imensa.
+
+86
+00:04:52,023 --> 00:04:53,825
+Quero dizer, nessa velocidade, rocha sólida
+
+87
+00:04:53,891 --> 00:04:55,692
+teria se desintegrado na atmosfera.
+
+88
+00:04:55,759 --> 00:04:59,264
+Sua camada externa deve conter
+algum tipo de elemento cristalizado.
+
+89
+00:05:01,331 --> 00:05:03,567
+Você sabe, agora que é um asteróide, dada a sua direção,
+
+90
+00:05:03,634 --> 00:05:06,103
+poderia se qualificar como um NEO.
+
+91
+00:05:06,170 --> 00:05:09,140
+Você quer que eu soe o alerta?
+
+92
+00:05:10,375 --> 00:05:12,642
+Sim.
+
+93
+00:05:12,709 --> 00:05:15,211
+Cc todas as agências: NASA, JPL,
+
+94
+00:05:15,278 --> 00:05:19,082
+sociedades meteorológicas, todos.
+
+95
+00:05:19,149 --> 00:05:21,851
+Também tem uma assinatura química muito estranha,
+
+96
+00:05:21,918 --> 00:05:23,987
+algum tipo de gás cloreto.
+
+97
+00:05:24,055 --> 00:05:26,456
+E uma enorme redução de nitrogênio
+ao longo de seu caminho.
+
+98
+00:05:28,291 --> 00:05:31,528
+Não consigo descobrir o que está gerando o cloreto.
+
+99
+00:05:31,596 --> 00:05:33,396
+Espere um minuto.
+
+100
+00:05:33,463 --> 00:05:35,499
+Espere, são todos de Washington, DC
+
+101
+00:05:35,565 --> 00:05:39,303
+"Todos os observatórios em
+prontidão para orientação militar."
+
+102
+00:05:51,348 --> 00:05:53,317
+Tenente, qual é o tempo decorrido
+desde o impacto da ISS?
+
+103
+00:05:53,384 --> 00:05:54,552
+11 minutos, senhor.
+
+104
+00:05:55,786 --> 00:05:57,355
+Oh garoto.
+
+105
+00:05:57,420 --> 00:05:59,524
+Verifique o sistema de segurança. Já temos companhia.
+
+106
+00:06:01,391 --> 00:06:03,793
+Oh, essa deve ser a orientação militar
+
+107
+00:06:03,860 --> 00:06:05,161
+nosso alerta nos alertou sobre.
+
+108
+00:06:05,228 --> 00:06:07,396
+Alguma informação adicional do Pentágono?
+
+109
+00:06:07,463 --> 00:06:08,800
+Não senhor.
+
+110
+00:06:08,865 --> 00:06:11,468
+Apenas "Conheça a Dra. Allison Fisher no Falcon Observatory
+
+111
+00:06:11,536 --> 00:06:12,735
+e proceda de acordo com as instruções."
+
+112
+00:06:12,802 --> 00:06:13,903
+Me ouça com atenção.
+
+113
+00:06:13,971 --> 00:06:15,338
+Isso vai aumentar rapidamente.
+
+114
+00:06:15,406 --> 00:06:16,906
+Esta é uma resposta de ameaça a um asteróide que se aproxima.
+
+115
+00:06:16,973 --> 00:06:18,408
+- Você entende? - Senhor.
+
+116
+00:06:18,475 --> 00:06:20,177
+O Estado-Maior Conjunto mencionou que a natureza do
+
+117
+00:06:20,244 --> 00:06:22,146
+objeto permanece aberto até que possamos confirmá-lo.
+
+118
+00:06:22,213 --> 00:06:23,514
+Eu entendi aquilo.
+
+119
+00:06:23,581 --> 00:06:25,116
+Mas se a nossa mensagem não for precisa,
+
+120
+00:06:25,182 --> 00:06:26,884
+todos os chapéus de papel alumínio
+num raio de 160 quilômetros estarão lá.
+
+121
+00:06:26,951 --> 00:06:28,386
+- Você entende? - Senhor!
+
+122
+00:06:28,452 --> 00:06:29,486
+Vamos.
+
+123
+00:06:30,855 --> 00:06:32,657
+Vamos ver o que eles querem?
+
+124
+00:06:32,723 --> 00:06:34,225
+Tudo bem.
+
+125
+00:06:35,024 --> 00:06:36,661
+Acabei de receber um alerta.
+
+126
+00:06:37,927 --> 00:06:40,230
+“A ISS saiu do radar”?
+
+127
+00:06:40,298 --> 00:06:42,466
+O que?
+
+128
+00:06:42,533 --> 00:06:45,336
+Havia uma dúzia de astronautas a bordo.
+
+129
+00:06:45,403 --> 00:06:47,338
+Trabalhei com esses caras por mais de um ano.
+
+130
+00:06:47,404 --> 00:06:49,472
+Ok, pode ser apenas uma falha no receptor em algum lugar.
+
+131
+00:06:49,540 --> 00:06:52,543
+Não, não, não, quero dizer, eu sei.
+
+132
+00:06:52,610 --> 00:06:54,110
+Veja esta leitura?
+
+133
+00:06:54,177 --> 00:06:57,281
+Um objeto grande ficou extremamente próximo do sensor.
+
+134
+00:06:57,348 --> 00:06:59,684
+É aproximadamente o mesmo tamanho do objeto
+
+135
+00:06:59,750 --> 00:07:01,418
+detectamos inicialmente em Marte.
+
+136
+00:07:05,788 --> 00:07:07,125
+Espere!
+
+137
+00:07:07,190 --> 00:07:08,591
+O modelo de trajetória apenas traçou seu caminho
+
+138
+00:07:08,658 --> 00:07:10,661
+nos últimos minutos, todo o caminho de volta a Marte.
+
+139
+00:07:10,728 --> 00:07:13,497
+Este é exatamente o mesmo material
+ejetado que acabamos de ver.
+
+140
+00:07:13,564 --> 00:07:16,934
+Como pode ser?
+
+141
+00:07:17,000 --> 00:07:19,469
+Vamos. São necessários 14 minutos
+para obter um sinal de rádio de Marte.
+
+142
+00:07:19,536 --> 00:07:21,604
+Você está tentando me dizer algo ejetado
+
+143
+00:07:21,672 --> 00:07:25,109
+do Monte Olimpo percorrendo
+três milhões de quilômetros por minuto?
+
+144
+00:07:28,312 --> 00:07:30,514
+Bem, seja o mesmo objeto ou não,
+
+145
+00:07:30,581 --> 00:07:32,950
+modelo preditivo dá uma probabilidade de 50%
+
+146
+00:07:33,016 --> 00:07:34,718
+de impacto num raio de 1.200 milhas da cidade.
+
+147
+00:07:36,420 --> 00:07:39,622
+O que podemos fazer por você, senhor...
+
+148
+00:07:39,689 --> 00:07:40,990
+Dra. Allison Fisher?
+
+149
+00:07:41,057 --> 00:07:42,492
+Desculpe. O que está acontecendo?
+
+150
+00:07:42,559 --> 00:07:44,529
+Esta facilidade é apenas para pessoal autorizado!
+
+151
+00:07:44,595 --> 00:07:47,064
+Sou o General Reed, de Fort Garrison, Nova York.
+
+152
+00:07:47,130 --> 00:07:48,164
+Esse é o Tenente Harris.
+
+153
+00:07:48,232 --> 00:07:49,733
+Ok, espere.
+
+154
+00:07:49,800 --> 00:07:51,501
+General, General, estamos fazendo um trabalho delicado aqui.
+
+155
+00:07:51,567 --> 00:07:52,702
+Preciso de confirmação do Comando.
+
+156
+00:07:52,769 --> 00:07:54,337
+Certo.
+
+157
+00:07:54,403 --> 00:07:56,240
+Estas são nossas ordens oficiais e uma confirmação do DOD
+
+158
+00:07:56,305 --> 00:07:58,140
+para uma ameaça nacional.
+
+159
+00:07:58,208 --> 00:07:59,209
+Aqui, me dê isso.
+
+160
+00:07:59,276 --> 00:08:00,944
+Com licença, General!
+
+161
+00:08:01,011 --> 00:08:03,580
+Entregar esta instalação normalmente não é algo que fazemos!
+
+162
+00:08:03,646 --> 00:08:05,248
+Fui informado sobre esta instalação
+
+163
+00:08:05,315 --> 00:08:06,316
+e entenda que é o que há de mais moderno.
+
+164
+00:08:06,384 --> 00:08:07,985
+- Isso está correto? - Sim.
+
+165
+00:08:08,052 --> 00:08:09,487
+Está equipado com orientação laser nanométrica
+
+166
+00:08:09,552 --> 00:08:11,754
+um laboratório de alcance telescópico
+Deep Field e análise de meteoros.
+
+167
+00:08:11,822 --> 00:08:14,057
+Isso é exatamente o que precisamos
+para descobrir o que é isso,
+
+168
+00:08:14,125 --> 00:08:15,994
+do que é feito e para onde está indo.
+
+169
+00:08:17,862 --> 00:08:20,129
+NASA e outras estações espaciais enviadas
+
+170
+00:08:20,197 --> 00:08:21,564
+uma barragem de sinais sem resposta, senhor.
+
+171
+00:08:21,632 --> 00:08:23,466
+Nenhuma resposta esperada, Tenente.
+
+172
+00:08:23,533 --> 00:08:25,235
+Dê ao banco de dados do Observatório Falcon
+um bloqueio de segurança.
+
+173
+00:08:25,302 --> 00:08:26,937
+Espera espera. O que você está fazendo?
+
+174
+00:08:27,004 --> 00:08:30,107
+Vou demorar um pouco para violar
+o firewall do observatório.
+
+175
+00:08:30,173 --> 00:08:32,842
+Mas todas as transmissões ao vivo são seguras e confidenciais.
+
+176
+00:08:32,910 --> 00:08:34,545
+Você não pode desligar nosso sistema!
+
+177
+00:08:34,611 --> 00:08:36,712
+Precisamos saber do que é feito esse objeto.
+
+178
+00:08:36,779 --> 00:08:38,281
+Teremos uma análise espectral em um minuto.
+
+179
+00:08:38,349 --> 00:08:39,817
+E quais são suas dimensões.
+
+180
+00:08:39,884 --> 00:08:42,385
+OK. Bem, os dados iniciais indicam que é oblongo...
+
+181
+00:08:42,452 --> 00:08:44,520
+Espere. O que você acabou de fazer
+com nosso banco de dados compartilhado?
+
+182
+00:08:44,587 --> 00:08:46,756
+Estamos fechando o feed internacional ao vivo,
+então a implantação
+
+183
+00:08:46,823 --> 00:08:49,092
+dos nossos recursos militares não serão
+comprometidos com os nossos inimigos.
+
+184
+00:08:49,159 --> 00:08:50,626
+OK?
+
+185
+00:08:50,693 --> 00:08:52,663
+Precisamos que você nos leve ao seu Centro de Comando agora.
+
+186
+00:08:52,730 --> 00:08:54,498
+Cristo.
+
+187
+00:08:54,565 --> 00:08:56,433
+Não...
+
+188
+00:08:56,500 --> 00:08:58,402
+Estamos abrangidos pela cláusula de segurança da ONU.
+
+189
+00:08:58,469 --> 00:09:01,272
+Todos os dados entre observatórios devem fluir nos dois sentidos!
+
+190
+00:09:01,337 --> 00:09:04,174
+Não podemos coletar dados em um sistema fechado!
+
+191
+00:09:04,241 --> 00:09:06,711
+Senhor, o Doutor Fisher tem razão:
+
+192
+00:09:06,777 --> 00:09:09,213
+Se ela receber atualizações de observatórios mais a leste,
+
+193
+00:09:09,278 --> 00:09:12,549
+ela pode preceder nossa confirmação visual.
+
+194
+00:09:12,616 --> 00:09:14,485
+Tenente, o protocolo exige que não
+
+195
+00:09:14,552 --> 00:09:15,686
+anunciar segurança orbital.
+
+196
+00:09:15,753 --> 00:09:17,321
+Sim senhor!
+
+197
+00:09:17,388 --> 00:09:20,557
+General, desaconselho fortemente o bloqueio do nosso sistema!
+
+198
+00:09:20,625 --> 00:09:21,692
+Doutor, estou ciente.
+
+199
+00:09:21,759 --> 00:09:23,461
+Esta é uma questão de segurança nacional.
+
+200
+00:09:23,528 --> 00:09:26,363
+Geral, temos um banco de dados aberto por um motivo!
+
+201
+00:09:26,429 --> 00:09:28,665
+Os nossos homólogos na Ucrânia
+conseguiram transmitir uma série de
+
+202
+00:09:28,732 --> 00:09:30,333
+de dióxido de carbono e sódio por hora
+
+203
+00:09:30,400 --> 00:09:31,835
+antes que pudéssemos detectá-lo nós mesmos...
+
+204
+00:09:31,902 --> 00:09:33,737
+Dr. Fisher, é imperativo que tratemos isto
+
+205
+00:09:33,803 --> 00:09:36,307
+pelo que é, um desastre natural
+
+206
+00:09:36,374 --> 00:09:38,509
+abordado pelos militares dos Estados Unidos!
+
+207
+00:09:38,576 --> 00:09:40,845
+General, preciso desse banco de dados aberto!
+
+208
+00:09:40,910 --> 00:09:44,413
+Henry, por favor, avise sua irmã a não se enganar
+
+209
+00:09:44,480 --> 00:09:48,217
+sua experiência em astronomia
+para uma posição de comando!
+
+210
+00:09:48,284 --> 00:09:50,187
+Senhor, Henry é de reconhecimento orbital.
+
+211
+00:09:50,254 --> 00:09:51,622
+Eu aconselho ele!
+
+212
+00:09:51,688 --> 00:09:54,224
+Eu sou o astrônomo principal aqui e isso é física.
+
+213
+00:09:54,291 --> 00:09:56,494
+Quanto mais você se dedica à defesa contra os humanos,
+
+214
+00:09:56,559 --> 00:09:58,661
+menos você dedica à defesa contra essa ameaça.
+
+215
+00:09:58,729 --> 00:10:01,531
+Agora não posso... não vou deixar você entrar aqui
+
+216
+00:10:01,597 --> 00:10:04,200
+até que este banco de dados esteja aberto e sob meu controle!
+
+217
+00:10:04,268 --> 00:10:08,105
+É seu, Dr. Fisher, é seu.
+
+218
+00:10:08,172 --> 00:10:10,274
+Obtenha-me um título atualizado.
+
+219
+00:10:15,779 --> 00:10:17,113
+OK.
+
+220
+00:10:17,181 --> 00:10:18,615
+Eu executei um programa de código aberto para garantir
+
+221
+00:10:18,682 --> 00:10:22,186
+que esta base de dados permaneça aberta... permanentemente.
+
+222
+00:10:22,253 --> 00:10:25,389
+Confirmado. Os dados são globais.
+
+223
+00:10:25,456 --> 00:10:28,158
+Ok, precisarei de atualizações contínuas.
+
+224
+00:10:28,225 --> 00:10:30,193
+Ei, acabei de receber um APB.
+
+225
+00:10:30,260 --> 00:10:32,663
+A Força Espacial e meu ex-comandante estão dizendo
+
+226
+00:10:32,730 --> 00:10:34,563
+eles não conseguem acompanhar esse objeto.
+
+227
+00:10:34,630 --> 00:10:36,632
+Essa coisa fez uma curva de 90 graus
+
+228
+00:10:36,700 --> 00:10:38,469
+segundos depois de entrar na atmosfera.
+
+229
+00:10:38,534 --> 00:10:40,070
+Não quero tirar conclusões precipitadas aqui
+
+230
+00:10:40,136 --> 00:10:44,106
+mas qualquer coisa acima de um ajuste
+de trajetória de 30 graus,
+
+231
+00:10:44,173 --> 00:10:45,241
+isso é um OVNI.
+
+232
+00:10:45,308 --> 00:10:47,077
+Ok, é uma descida incomum,
+
+233
+00:10:47,144 --> 00:10:49,547
+mas isso não significa necessariamente
+que seja uma espaçonave.
+
+234
+00:10:52,115 --> 00:10:53,115
+Ah, isso não pode estar certo.
+
+235
+00:10:54,851 --> 00:10:56,653
+Isso indica que o objeto está desacelerando.
+
+236
+00:10:56,721 --> 00:10:59,023
+JPL e NASA confirmam que o objeto
+
+237
+00:10:59,090 --> 00:11:01,559
+caiu para 800 quilômetros por hora.
+
+238
+00:11:01,625 --> 00:11:03,994
+Novas atualizações projetadas, probabilidade de 58%
+
+239
+00:11:04,059 --> 00:11:06,396
+isso vai impactar DC
+
+240
+00:11:06,464 --> 00:11:08,899
+Outra coisa foi ejetada da superfície marciana.
+
+241
+00:11:08,966 --> 00:11:10,366
+O que?
+
+242
+00:11:10,433 --> 00:11:14,403
+Isto diz nove objetos voando em formação em V.
+
+243
+00:11:14,471 --> 00:11:17,307
+Vamos, Allie, estas são naves espaciais.
+
+244
+00:11:20,510 --> 00:11:22,411
+Pentágono, Nível de Comando Omega.
+
+245
+00:11:22,479 --> 00:11:26,149
+A inteligência orbital registra objetos zero-9 recebidos.
+
+246
+00:11:26,216 --> 00:11:27,817
+Recebemos alerta de prioridade.
+
+247
+00:11:27,884 --> 00:11:30,888
+Todas as agências confirmaram e todas as unidades estão ativadas.
+
+248
+00:11:30,955 --> 00:11:33,490
+Aguardando uma resposta coordenada.
+
+249
+00:11:33,557 --> 00:11:35,792
+OK. Henry, pegue um modelo de trajetória.
+
+250
+00:11:35,859 --> 00:11:38,396
+Torne-o um algoritmo de base deslizante
+com base em sua velocidade atual.
+
+251
+00:11:39,697 --> 00:11:42,798
+Geral, com este objeto em nossa atmosfera
+
+252
+00:11:42,865 --> 00:11:44,800
+e essas outras nove naves a caminho,
+
+253
+00:11:44,868 --> 00:11:47,405
+isso não é mais um desastre natural.
+
+254
+00:11:47,471 --> 00:11:49,539
+OK, doutor, me dê dados sobre sua propulsão.
+
+255
+00:11:49,606 --> 00:11:50,707
+A Força Aérea precisará saber
+
+256
+00:11:50,774 --> 00:11:52,309
+os limites de sua manobrabilidade.
+
+257
+00:11:52,375 --> 00:11:53,943
+Execute um algoritmo de múltiplas
+fontes em uma trajetória.
+
+258
+00:11:54,010 --> 00:11:56,646
+Mapeie-o para todos os meios de propulsão
+conhecidos aqui na Terra.
+
+259
+00:11:58,481 --> 00:12:01,350
+Feito. Este algoritmo tem como padrão zero.
+
+260
+00:12:01,418 --> 00:12:04,488
+A assinatura térmica é zero.
+
+261
+00:12:04,554 --> 00:12:08,291
+Quero dizer, não tem uma esteira atmosférica.
+
+262
+00:12:08,359 --> 00:12:10,927
+É como se não tivesse sistema de propulsão.
+
+263
+00:12:13,797 --> 00:12:16,567
+OK. Estou reduzindo o filtro polarizado
+
+264
+00:12:16,634 --> 00:12:19,870
+e estreitando a abertura da lente.
+
+265
+00:12:19,937 --> 00:12:20,971
+Tente de novo.
+
+266
+00:12:22,572 --> 00:12:23,941
+Nada.
+
+267
+00:12:24,008 --> 00:12:26,244
+Vamos, este telescópio não está faltando nada.
+
+268
+00:12:29,879 --> 00:12:32,081
+Harris, certifique-se de que o Comando
+saiba como colocar esses jatos no ar.
+
+269
+00:12:32,149 --> 00:12:33,283
+Senhor!
+
+270
+00:12:33,350 --> 00:12:35,018
+Atenção, todas as unidades!
+
+271
+00:12:35,085 --> 00:12:38,822
+Este é o Comando Omega.
+Precisamos de todos os pássaros no céu.
+
+272
+00:12:38,889 --> 00:12:41,024
+Preciso de unidades terrestres lá há cinco minutos!
+
+273
+00:12:41,091 --> 00:12:42,925
+Repito, todas as unidades, saiam.
+
+274
+00:12:42,993 --> 00:12:45,429
+Isto não é um exercício.
+
+275
+00:12:45,495 --> 00:12:48,130
+Aqui é o B-2 Spirit, a caminho.
+
+276
+00:12:48,197 --> 00:12:50,033
+Qual é o nosso ETA atualizado?
+
+277
+00:12:50,100 --> 00:12:52,702
+40 minutos para impactar DC
+
+278
+00:12:52,769 --> 00:12:55,338
+OK. Os relatórios de imagens espectrais estão completos
+
+279
+00:12:55,405 --> 00:12:58,474
+e sem vestígios de ionização.
+
+280
+00:12:58,542 --> 00:13:00,344
+A imagem térmica ainda não mostra nada.
+
+281
+00:13:00,410 --> 00:13:02,378
+Senhor, o DOD diz que precisa de informações imediatas
+
+282
+00:13:02,445 --> 00:13:03,781
+no casco do objeto.
+
+283
+00:13:03,846 --> 00:13:06,417
+Não há como saber, pelo menos ainda não.
+
+284
+00:13:06,484 --> 00:13:08,085
+E de acordo com o ângulo de sua descida,
+
+285
+00:13:08,152 --> 00:13:11,221
+não está mais indo para Washington, DC
+
+286
+00:13:11,288 --> 00:13:12,822
+Vai direto para Nova York.
+
+287
+00:13:12,889 --> 00:13:14,325
+Como podemos ter certeza de que esses bichos-papões
+
+288
+00:13:14,392 --> 00:13:15,992
+não são da Rússia ou da China?
+
+289
+00:13:16,058 --> 00:13:17,493
+General, nada na Terra é capaz de se mover tão rápido
+
+290
+00:13:17,561 --> 00:13:18,995
+sem quebrar a barreira do som.
+
+291
+00:13:19,062 --> 00:13:21,498
+Isso desencadeou uma resposta global completa à ameaça!
+
+292
+00:13:21,565 --> 00:13:24,067
+O DOD está enviando o Capitão da Força Aérea Ogilvy
+
+293
+00:13:24,134 --> 00:13:26,937
+para gerenciar a logística no local de pouso projetado.
+
+294
+00:13:27,004 --> 00:13:30,206
+Estas naves podem estar testando o planeta viável mais próximo...
+
+295
+00:13:30,274 --> 00:13:31,674
+Terra.
+
+296
+00:13:31,741 --> 00:13:33,076
+Olha, há muitas incógnitas.
+
+297
+00:13:33,144 --> 00:13:34,411
+Se o Pentágono der a ordem,
+
+298
+00:13:34,477 --> 00:13:36,178
+todos os militares agirão para aniquilá-lo.
+
+299
+00:13:36,245 --> 00:13:37,280
+Espere!
+
+300
+00:13:37,347 --> 00:13:39,716
+Ele reajustou seu rumo novamente!
+
+301
+00:13:39,783 --> 00:13:41,817
+OK. O modelo preditivo mostra 91% de chance de que isso aconteça
+
+302
+00:13:41,884 --> 00:13:43,419
+para pousar no Parque Estadual Rockefeller.
+
+303
+00:13:43,486 --> 00:13:46,789
+São 40 quilômetros ao norte de Manhattan.
+
+304
+00:13:46,856 --> 00:13:48,991
+Olha, precisamos de informações em primeira mão no terreno
+
+305
+00:13:49,058 --> 00:13:50,593
+para avaliar suas vulnerabilidades.
+
+306
+00:13:50,660 --> 00:13:52,829
+Dr. Você é o especialista no ambiente de Marte.
+
+307
+00:13:52,897 --> 00:13:55,365
+O que você pode nos dizer do campo?
+
+308
+00:13:55,432 --> 00:13:57,668
+Posso executar varreduras telemétricas para medir
+
+309
+00:13:57,734 --> 00:13:59,235
+sua integridade estrutural,
+
+310
+00:13:59,302 --> 00:14:01,437
+talvez até consiga algumas amostras de qualquer forma de vida
+
+311
+00:14:01,504 --> 00:14:02,706
+pode estar dentro.
+
+312
+00:14:02,773 --> 00:14:04,074
+Ei, olhe. Servi com Ogilvy.
+
+313
+00:14:04,140 --> 00:14:05,307
+Se alguém estiver indo para o local de pouso,
+
+314
+00:14:05,375 --> 00:14:06,677
+serei eu.
+
+315
+00:14:06,744 --> 00:14:08,144
+O que? Não.
+
+316
+00:14:08,211 --> 00:14:10,179
+Henry, você nem sabe que tipo de dados eu preciso.
+
+317
+00:14:10,246 --> 00:14:11,481
+- Você é o Recon.
+- Exatamente.
+
+318
+00:14:11,548 --> 00:14:13,149
+Ok, esse é o meu ponto.
+
+319
+00:14:13,216 --> 00:14:14,918
+Temos nove naves chegando.
+
+320
+00:14:14,985 --> 00:14:19,389
+Precisamos fornecer dados de varredura
+em tempo real às tropas terrestres.
+
+321
+00:14:19,456 --> 00:14:21,390
+Eu posso ir lá. Eu posso configurar isso.
+
+322
+00:14:21,457 --> 00:14:23,961
+posso avaliar. Eu posso fazer os testes.
+
+323
+00:14:24,028 --> 00:14:25,495
+É o seu programa.
+
+324
+00:14:26,629 --> 00:14:28,564
+Dado o status militar anterior de Henry,
+
+325
+00:14:28,631 --> 00:14:30,734
+isso nos poupa tempo para conseguir autorização para ele.
+
+326
+00:14:30,801 --> 00:14:33,836
+Doutor, recomendo que nos ajude
+a rastrear os outros nove objetos.
+
+327
+00:14:33,903 --> 00:14:36,572
+Você pode se juntar ao seu irmão depois
+que a zona de pouso estiver segura.
+
+328
+00:14:36,639 --> 00:14:38,375
+Ok, Henry, quando você chegar ao local de pouso,
+
+329
+00:14:38,442 --> 00:14:41,177
+basta nos enviar telemetria ao vivo da densidade do casco do navio
+
+330
+00:14:41,245 --> 00:14:42,745
+e tudo o mais que possa estar dentro.
+
+331
+00:14:42,812 --> 00:14:44,548
+Vou mantê-lo em uma varredura contínua.
+
+332
+00:14:45,883 --> 00:14:47,716
+Apenas tenha cuidado.
+
+333
+00:14:47,783 --> 00:14:49,586
+Você é o único irmão que tenho.
+
+334
+00:15:09,373 --> 00:15:11,206
+Puxar! Puxar! Vamos!
+
+335
+00:15:11,274 --> 00:15:14,043
+Fisher, você está comigo. Volte para o perímetro.
+
+336
+00:15:14,110 --> 00:15:15,511
+O Comando disse que o Observatório Falcon
+
+337
+00:15:15,577 --> 00:15:16,947
+estava enviando você.
+
+338
+00:15:17,014 --> 00:15:18,347
+Eu queria saber quanto tempo levaria para você
+
+339
+00:15:18,414 --> 00:15:20,783
+para voltar para a Força Espacial.
+
+340
+00:15:20,850 --> 00:15:22,619
+Adorei meu tempo na ISS
+
+341
+00:15:22,686 --> 00:15:24,153
+Mas achei que estava melhor servido no Recon.
+
+342
+00:15:24,221 --> 00:15:25,923
+Bem, você fez a escolha certa hoje.
+
+343
+00:15:25,990 --> 00:15:28,658
+A ISS foi destruída. Perdemos mais de uma dúzia de homens.
+
+344
+00:15:29,525 --> 00:15:30,760
+Você não sabia.
+
+345
+00:15:31,961 --> 00:15:34,096
+Desculpe, Henrique.
+
+346
+00:15:34,163 --> 00:15:38,634
+Tive medo de que fosse esse o caso quando perdemos contato.
+
+347
+00:15:38,701 --> 00:15:40,971
+Olha, vamos querer vingança pela ISS:
+
+348
+00:15:41,038 --> 00:15:43,472
+você, eu, o DOD.
+
+349
+00:15:43,539 --> 00:15:46,476
+Mas honestamente não faz sentido
+
+350
+00:15:46,543 --> 00:15:48,946
+para intensificar uma luta com nove naves que se aproximam.
+
+351
+00:15:50,279 --> 00:15:52,249
+Ok, estou ao vivo aqui no local de pouso!
+
+352
+00:15:52,316 --> 00:15:53,917
+Já se passou mais de uma hora desde que comecei a transmitir.
+
+353
+00:15:53,982 --> 00:15:55,384
+Ei! Ei! Ei! Saia daqui!
+
+354
+00:15:55,451 --> 00:15:57,419
+Saia daqui! Sair!
+
+355
+00:15:57,486 --> 00:16:00,557
+Esta área está fechada. Escolta.
+
+356
+00:16:00,624 --> 00:16:01,825
+Veja com o que estamos lidando aqui?
+
+357
+00:16:01,892 --> 00:16:03,260
+Estou lhe dizendo, toda essa situação
+
+358
+00:16:03,326 --> 00:16:05,495
+poderia explodir na nossa cara num piscar de olhos.
+
+359
+00:16:05,562 --> 00:16:06,795
+Estamos expulsando as crianças daqui,
+
+360
+00:16:06,863 --> 00:16:08,566
+tirar as pessoas de suas casas
+
+361
+00:16:08,631 --> 00:16:10,566
+enquanto o DOD mantém fogo para reduzir o risco de retaliação.
+
+362
+00:16:10,634 --> 00:16:13,202
+Se eles decidirem atacar, qual é o plano?
+
+363
+00:16:13,269 --> 00:16:14,670
+Recue 200, artilharia.
+
+364
+00:16:14,738 --> 00:16:16,540
+Então, todas as armas pesadas que temos,
+exceto uma bomba nuclear.
+
+365
+00:16:16,605 --> 00:16:18,207
+E se isso não funcionar?
+
+366
+00:16:18,274 --> 00:16:20,076
+Capitão, o Pentágono diz que as outras nove naves
+
+367
+00:16:20,143 --> 00:16:21,979
+estão chegando a noroeste, 10 graus.
+
+368
+00:16:27,551 --> 00:16:29,453
+Copie, Graves. Mantenha a formação de combate.
+
+369
+00:16:29,519 --> 00:16:31,355
+Sustente o perímetro.
+
+370
+00:16:31,422 --> 00:16:33,691
+Se armas pesadas não funcionarem?
+
+371
+00:16:34,524 --> 00:16:37,093
+Não sei. OK?
+
+372
+00:16:37,160 --> 00:16:39,562
+Esgotamos todos os sinais possíveis
+
+373
+00:16:39,629 --> 00:16:41,130
+e frequências tentando entrar em contato com essa coisa.
+
+374
+00:16:41,197 --> 00:16:42,765
+Agora estou reduzido a um alto-falante e um holofote.
+
+375
+00:16:42,832 --> 00:16:44,634
+Olha, eu preciso aprender tudo que puder
+
+376
+00:16:44,701 --> 00:16:47,771
+sobre as criaturas e seu ofício.
+
+377
+00:16:47,837 --> 00:16:50,039
+Preciso que você me leve o mais perto possível dessa coisa.
+
+378
+00:16:50,105 --> 00:16:51,741
+Posso levá-lo para a linha de frente.
+
+379
+00:16:51,808 --> 00:16:54,211
+Mas lembre-se, estamos indo às cegas, Henry.
+
+380
+00:16:54,278 --> 00:16:55,778
+Não sabemos o que pode acontecer.
+
+381
+00:16:55,846 --> 00:16:57,714
+Está apenas sentado lá esperando.
+
+382
+00:16:57,780 --> 00:17:00,149
+O que você acha?
+
+383
+00:17:00,216 --> 00:17:03,886
+Ouça, você era um homem assustador no básico.
+
+384
+00:17:03,953 --> 00:17:07,156
+Mas isso? Nós não mexemos com isso.
+
+385
+00:17:07,222 --> 00:17:10,594
+Entre, faça suas leituras, saia, ok?
+
+386
+00:17:12,462 --> 00:17:13,396
+Sim.
+
+387
+00:17:13,462 --> 00:17:15,531
+- Pronto?
+- Sim.
+
+388
+00:17:15,597 --> 00:17:16,966
+Eu assumirei a posição de ponta.
+
+389
+00:17:19,636 --> 00:17:22,338
+Senhor? Recebi um pedido da 22ª Infantaria.
+
+390
+00:17:22,404 --> 00:17:26,175
+OC diz, entre aspas: "O General Reed sabe que precisamos rasgar
+
+391
+00:17:26,241 --> 00:17:27,845
+"as gargantas de tudo o que está naquele navio.
+
+392
+00:17:27,911 --> 00:17:29,913
+Encaminhe o pedido de greve ao Estado-Maior Conjunto."
+
+393
+00:17:29,980 --> 00:17:32,583
+Diga ao seu comandante para parar de atirar.
+
+394
+00:17:32,650 --> 00:17:34,150
+Talvez possamos desescalar.
+
+395
+00:17:34,217 --> 00:17:35,384
+Senhor.
+
+396
+00:17:35,451 --> 00:17:37,354
+Dr. Fisher, alguma atualização?
+
+397
+00:17:37,420 --> 00:17:38,622
+Sim, sim...
+
+398
+00:17:38,689 --> 00:17:41,458
+Tenho Henry enviando dados ao vivo.
+
+399
+00:17:41,523 --> 00:17:44,227
+Parece que as ondas de rádio são nominais,
+
+400
+00:17:44,294 --> 00:17:49,232
+infravermelho, térmico, óptico, microondas...
+
+401
+00:17:49,298 --> 00:17:52,568
+Espere um minuto.
+
+402
+00:17:52,635 --> 00:17:54,037
+Estamos obtendo uma leitura térmica.
+
+403
+00:17:54,104 --> 00:17:56,673
+Há movimento dentro da nave!
+
+404
+00:18:03,012 --> 00:18:04,047
+OK.
+
+405
+00:18:04,114 --> 00:18:05,848
+Lembre-se, se isso der errado,
+
+406
+00:18:05,915 --> 00:18:07,784
+temos o mundo inteiro pronto para brindar a isso.
+
+407
+00:18:07,851 --> 00:18:11,821
+Tenho soldados postados lá... ali... e ali.
+
+408
+00:18:11,887 --> 00:18:13,389
+As equipes de notícias estão a cerca de duzentos metros
+
+409
+00:18:13,457 --> 00:18:15,158
+atrás de nós, atrás de uma barricada.
+
+410
+00:18:15,224 --> 00:18:17,461
+Considere isso como o marcador de reserva inicial.
+
+411
+00:18:17,527 --> 00:18:20,663
+Este é o Pentágono, Omega, do General Reed.
+
+412
+00:18:20,730 --> 00:18:22,231
+Vá para o General Reed!
+
+413
+00:18:22,298 --> 00:18:25,000
+Em geral, os ativos envolverão o alvo
+
+414
+00:18:25,067 --> 00:18:26,703
+antes de iniciar sua próxima manobra.
+
+415
+00:18:26,769 --> 00:18:28,403
+Temos uma coalizão da Força Aérea funcionando
+
+416
+00:18:28,471 --> 00:18:30,740
+manobras cronometradas abrangendo toda a região Nordeste.
+
+417
+00:18:30,807 --> 00:18:34,310
+Se o Falcon detectar mais alguma entrada, poderemos emitir Defcon.
+
+418
+00:18:34,377 --> 00:18:36,545
+Copie, Ômega.
+
+419
+00:18:36,613 --> 00:18:38,480
+Ok, eles estão a 28.000 pés.
+
+420
+00:18:38,548 --> 00:18:43,720
+Agora eles estão voltando para Nova York, ETA 28 minutos.
+
+421
+00:18:43,787 --> 00:18:45,655
+Henry, os navios deles estão se aproximando rapidamente!
+
+422
+00:18:45,721 --> 00:18:47,257
+Se você vai fazer contato, faça agora!
+
+423
+00:18:47,323 --> 00:18:49,092
+Fisher, se não tivermos notícias destes navios em 30 segundos,
+
+424
+00:18:49,159 --> 00:18:50,694
+há uma boa chance do DOD
+
+425
+00:18:50,759 --> 00:18:52,261
+lançará um ataque de terra arrasada contra eles.
+
+426
+00:18:52,328 --> 00:18:55,331
+A linha entre ação e informação é muito tênue aqui.
+
+427
+00:18:55,397 --> 00:18:57,300
+Ômega, estamos aguardando.
+
+428
+00:18:57,367 --> 00:18:59,935
+Cópia de. Informações astronômicas
+guiarão a resposta estratégica
+
+429
+00:19:00,002 --> 00:19:01,770
+até decidirmos o contrário.
+
+430
+00:19:01,837 --> 00:19:05,209
+Não podemos permitir a perda de vidas,
+mesmo por um extraterrestre.
+
+431
+00:19:09,445 --> 00:19:10,813
+OK.
+
+432
+00:19:10,881 --> 00:19:13,383
+Vamos tentar dois pulsos curtos de luz,
+
+433
+00:19:13,450 --> 00:19:15,152
+depois um pulso longo.
+
+434
+00:19:20,656 --> 00:19:21,924
+OK.
+
+435
+00:19:21,991 --> 00:19:22,992
+Agora tente o mesmo com o alto-falante.
+
+436
+00:19:23,058 --> 00:19:25,295
+Puxar! Puxar!
+
+437
+00:19:29,266 --> 00:19:31,000
+Esse som veio de baixo do navio!
+
+438
+00:19:31,067 --> 00:19:34,503
+Há algo se movendo lá embaixo,
+
+439
+00:19:34,570 --> 00:19:35,805
+mas não posso dizer o que é.
+
+440
+00:19:49,152 --> 00:19:50,688
+Obrigado.
+
+441
+00:19:59,797 --> 00:20:02,065
+Uma das naves espaciais está no parque agora.
+
+442
+00:20:02,132 --> 00:20:04,301
+Pai, quando Allison volta para casa?
+
+443
+00:20:06,002 --> 00:20:09,772
+A notícia diz que as naves vieram realmente de Marte.
+
+444
+00:20:09,839 --> 00:20:11,907
+Espere. Allison ainda está no observatório?
+
+445
+00:20:11,974 --> 00:20:14,711
+É isso que estou tentando descobrir, querido.
+
+446
+00:20:14,778 --> 00:20:15,813
+Ei, como está sua perna?
+
+447
+00:20:15,878 --> 00:20:17,446
+Um a 10?
+
+448
+00:20:17,513 --> 00:20:20,115
+Pois mesmo. Mas, pai, não quero ficar aqui.
+
+449
+00:20:20,182 --> 00:20:21,784
+Prefiro lidar com isso em casa.
+
+450
+00:20:21,851 --> 00:20:24,621
+Allison vai ter que ir lá?
+
+451
+00:20:24,686 --> 00:20:28,192
+Não, querido. Ela estuda planetas.
+
+452
+00:20:28,258 --> 00:20:31,260
+Ela não tem que lidar com nada, você sabe...
+
+453
+00:20:31,326 --> 00:20:32,362
+perigoso.
+
+454
+00:20:32,429 --> 00:20:34,364
+Bem, se você falar com ela, você pode dizer a ela
+
+455
+00:20:34,431 --> 00:20:36,566
+que não estou bravo por ela não estar
+aqui enquanto eles consertaram minha perna?
+
+456
+00:20:36,633 --> 00:20:39,736
+E dizem que as naves espaciais podem ser hostis.
+
+457
+00:20:39,803 --> 00:20:42,272
+E apenas... E se ela...
+
+458
+00:20:42,338 --> 00:20:45,775
+Querida, Allie sabe o que está fazendo.
+
+459
+00:20:45,842 --> 00:20:49,112
+Ela está segura, certo?
+
+460
+00:20:49,179 --> 00:20:51,315
+E ela sabe por que você está chateado.
+
+461
+00:20:52,915 --> 00:20:55,785
+Pai! Oh meu Deus! Veja isso!
+
+462
+00:20:55,853 --> 00:20:57,888
+Meu Deus, o navio está abrindo.
+
+463
+00:21:04,894 --> 00:21:08,331
+Henry, você precisa me contar
+o que está acontecendo lá embaixo agora!
+
+464
+00:21:08,397 --> 00:21:12,869
+Há algum tipo de abertura no fundo do navio.
+
+465
+00:21:12,935 --> 00:21:14,837
+Acho que eles estão saindo do navio!
+
+466
+00:21:16,440 --> 00:21:18,274
+Olha, Henry não faça nada estúpido, ok?
+
+467
+00:21:18,340 --> 00:21:20,810
+Basta pegar os dados e voltar aqui!
+
+468
+00:21:22,077 --> 00:21:23,480
+Henrique, o que você vê?
+
+469
+00:21:34,057 --> 00:21:36,226
+Acho que eles estão tentando se comunicar conosco.
+
+470
+00:21:36,291 --> 00:21:40,230
+Se eles agirem de forma agressiva, terei que abrir fogo.
+
+471
+00:21:48,337 --> 00:21:50,906
+Apenas certifique-se de fazer o que for preciso
+
+472
+00:21:50,973 --> 00:21:53,576
+para fugir e ficar claro, ok?
+
+473
+00:21:56,945 --> 00:22:00,817
+Allie, acabamos de fazer contato.
+
+474
+00:22:00,884 --> 00:22:02,251
+Eles são reais.
+
+475
+00:22:03,987 --> 00:22:05,521
+Espere um minuto!
+
+476
+00:22:05,587 --> 00:22:07,124
+Esse é o tio Henry!
+
+477
+00:22:15,664 --> 00:22:17,901
+Capitão, saia daí!
+
+478
+00:22:32,715 --> 00:22:34,449
+Henrique, o que está acontecendo?
+
+479
+00:22:34,517 --> 00:22:35,952
+Ogilvy!
+
+480
+00:22:38,086 --> 00:22:40,624
+Abrir fogo! Abrir fogo!
+
+481
+00:22:53,702 --> 00:22:55,003
+Ah!
+
+482
+00:22:55,070 --> 00:22:56,939
+Senhor! A nave disparou uma arma
+
+483
+00:22:57,006 --> 00:22:58,575
+e destruiu completamente todas as nossas unidades terrestres!
+
+484
+00:22:58,642 --> 00:23:01,510
+Todas as unidades! Volte para o perímetro dentro de uma milha!
+
+485
+00:23:01,577 --> 00:23:03,445
+Leve todos os civis nas proximidades para dentro!
+
+486
+00:23:03,512 --> 00:23:05,848
+Senhor, recebi a confirmação
+
+487
+00:23:05,915 --> 00:23:08,250
+que tudo nessa área está perdido!
+
+488
+00:23:08,317 --> 00:23:11,788
+Todos os helicópteros de ataque, toda a artilharia,
+
+489
+00:23:11,855 --> 00:23:15,224
+e cerca de 100 homens... desaparecidos, senhor.
+
+490
+00:23:15,991 --> 00:23:18,027
+Esteja preparado para evacuar!
+
+491
+00:23:18,094 --> 00:23:20,462
+Doutor, precisamos desses dados agora.
+
+492
+00:23:20,529 --> 00:23:22,699
+Henry, você está ouvindo?
+
+493
+00:23:22,765 --> 00:23:24,001
+Henrique, entre!
+
+494
+00:23:24,866 --> 00:23:27,069
+Allie, eles dispararam uma arma!
+
+495
+00:23:27,136 --> 00:23:28,471
+Algum tipo de laser!
+
+496
+00:23:28,538 --> 00:23:30,941
+Tudo está pegando fogo agora!
+
+497
+00:23:32,643 --> 00:23:34,711
+Tudo foi vaporizado!
+
+498
+00:23:34,778 --> 00:23:37,380
+Você conseguiu a leitura?
+
+499
+00:23:37,446 --> 00:23:39,615
+Sim. Sim, consegui uma leitura.
+
+500
+00:23:39,682 --> 00:23:43,819
+É cinco vezes mais poderoso que um raio.
+
+501
+00:23:43,886 --> 00:23:46,990
+Seu sistema de armas é elétrico.
+
+502
+00:23:52,828 --> 00:23:55,031
+Eles estão ligando novamente.
+
+503
+00:23:55,097 --> 00:23:57,567
+Eles vão disparar seu laser para o céu desta vez!
+
+504
+00:23:59,868 --> 00:24:00,869
+Ah!
+
+505
+00:24:02,806 --> 00:24:04,973
+Henry, você conseguiu avaliar a estrutura da nave?
+
+506
+00:24:05,040 --> 00:24:07,277
+Sim!
+
+507
+00:24:07,344 --> 00:24:10,212
+Eles abriram algum tipo de portal na frente da nave,
+
+508
+00:24:10,279 --> 00:24:12,281
+embora pareça perfeito.
+
+509
+00:24:12,348 --> 00:24:14,383
+Quando a criatura saiu, parece
+
+510
+00:24:14,450 --> 00:24:17,319
+eles estavam tentando se aclimatar ao nosso ambiente.
+
+511
+00:24:17,386 --> 00:24:20,522
+Você sabe, eles mudaram de cor, como um polvo.
+
+512
+00:24:20,589 --> 00:24:21,857
+OK.
+
+513
+00:24:21,924 --> 00:24:24,626
+Olha, fiz um perfil inicial dos dados que você enviou.
+
+514
+00:24:24,693 --> 00:24:26,695
+Parece que seus cascos parecem ser feitos de
+
+515
+00:24:26,762 --> 00:24:28,932
+uma liga de cálcio, ferro e carbono.
+
+516
+00:24:28,998 --> 00:24:31,601
+Está interagindo com algum tipo de matéria biológica.
+
+517
+00:24:33,502 --> 00:24:36,005
+Mas também emitiu enormes quantidades de cloro.
+
+518
+00:24:37,374 --> 00:24:39,675
+Mas não está produzindo ozônio.
+
+519
+00:24:39,742 --> 00:24:41,577
+Ok, e a pele?
+
+520
+00:24:41,644 --> 00:24:44,213
+Você disse que estava mudando de cor como um polvo?
+
+521
+00:24:45,715 --> 00:24:47,817
+Henrique?
+
+522
+00:24:47,884 --> 00:24:50,019
+Henrique, entre!
+
+523
+00:24:50,086 --> 00:24:52,889
+Ômega, C-duplo-zero... todas as unidades!
+
+524
+00:24:52,955 --> 00:24:55,625
+O alvo tem... a cidade!
+
+525
+00:24:55,692 --> 00:24:58,495
+Todos os nove alvos estão descendo para 50.000 pés...!
+
+526
+00:24:58,561 --> 00:25:01,597
+Comando Theta, NASA, Falcon,
+
+527
+00:25:01,664 --> 00:25:03,566
+recue para Bravo Point Garrison!
+
+528
+00:25:03,633 --> 00:25:05,434
+Senhor, eles estão desmantelando
+o reconhecimento de campo
+
+529
+00:25:05,501 --> 00:25:07,769
+e ordenando que todas as postagens recuem.
+
+530
+00:25:07,836 --> 00:25:11,339
+Doutor, você deveria arrumar
+todas as provisões que precisar
+
+531
+00:25:11,406 --> 00:25:13,076
+e saia conosco imediatamente.
+
+532
+00:25:14,376 --> 00:25:16,445
+General, não posso sair com você!
+
+533
+00:25:16,512 --> 00:25:18,413
+Se você quiser que eu fique e processe dados,
+
+534
+00:25:18,480 --> 00:25:21,984
+Preciso do telescópio, dos programas de imagem,
+
+535
+00:25:22,050 --> 00:25:23,385
+o laboratório!
+
+536
+00:25:23,451 --> 00:25:25,020
+Doutor, esta cidade, toda esta área,
+
+537
+00:25:25,087 --> 00:25:26,422
+pode ser reduzido a cinzas em breve.
+
+538
+00:25:26,489 --> 00:25:28,191
+Eles estão começando a evacuar a cidade agora.
+
+539
+00:25:28,258 --> 00:25:31,528
+Mas minha família está na cidade. Eu não posso deixá-los.
+
+540
+00:25:31,595 --> 00:25:33,863
+Eu entendo, mas você é um recurso de missão crítica.
+
+541
+00:25:33,930 --> 00:25:37,199
+Não posso deixar você sair para uma zona militar ativa.
+
+542
+00:25:37,266 --> 00:25:39,336
+Bem, você não está me detendo, está?
+
+543
+00:25:39,402 --> 00:25:41,805
+Não, absolutamente não. Você é um civil.
+
+544
+00:25:41,871 --> 00:25:44,207
+Você não tem obrigação de seguir ordens.
+
+545
+00:25:44,273 --> 00:25:47,242
+Eu estou te implorando, trabalhe comigo
+
+546
+00:25:47,309 --> 00:25:49,512
+e você salvará vidas.
+
+547
+00:25:51,547 --> 00:25:55,250
+Sinto muito, General. Eu não posso ir com você.
+
+548
+00:25:55,317 --> 00:25:57,220
+Olha, posso arrumar alguns equipamentos
+
+549
+00:25:57,287 --> 00:25:59,055
+e montar um laboratório improvisado
+assim que minha família estiver segura
+
+550
+00:25:59,122 --> 00:26:00,056
+e fora da cidade.
+
+551
+00:26:00,123 --> 00:26:01,825
+Mas não posso ir com você.
+
+552
+00:26:01,892 --> 00:26:03,326
+Ok, olhe.
+
+553
+00:26:03,393 --> 00:26:05,662
+Leve seu rádio, fique em contato comigo.
+
+554
+00:26:05,729 --> 00:26:07,130
+Faz o que podes.
+
+555
+00:26:07,196 --> 00:26:09,465
+Qualquer informação que você puder me dar será útil.
+
+556
+00:26:09,532 --> 00:26:10,567
+OK.
+
+557
+00:26:12,501 --> 00:26:13,702
+Vamos!
+
+558
+00:26:17,539 --> 00:26:18,875
+Ei o que está acontecendo?
+
+559
+00:26:18,942 --> 00:26:20,410
+Você e Henry estão seguros?
+
+560
+00:26:20,477 --> 00:26:23,245
+Henry estava na zona de pouso. Ele saiu vivo.
+
+561
+00:26:23,311 --> 00:26:25,347
+Estou indo buscá-lo agora mesmo.
+
+562
+00:26:25,414 --> 00:26:27,383
+Se a outra espaçonave for para a cidade
+
+563
+00:26:27,450 --> 00:26:29,519
+e algo acontece com qualquer um de nós...
+
+564
+00:26:32,154 --> 00:26:33,221
+Junho está bem
+
+565
+00:26:33,288 --> 00:26:34,789
+Sim, ela está melhor,
+
+566
+00:26:34,856 --> 00:26:37,193
+mas acho que a perna dela ainda a incomoda.
+
+567
+00:26:37,259 --> 00:26:38,927
+Fazendo ela entrar e sair do táxi esta manhã
+
+568
+00:26:38,994 --> 00:26:40,562
+também não ajudou.
+
+569
+00:26:40,630 --> 00:26:43,299
+Bem, diga a ela que estou indo buscar vocês dois.
+
+570
+00:26:43,365 --> 00:26:45,201
+Vou levar vocês para o bunker
+
+571
+00:26:45,268 --> 00:26:46,236
+na fazenda de sua família.
+
+572
+00:26:46,301 --> 00:26:47,369
+Então estamos evacuando?
+
+573
+00:26:47,435 --> 00:26:49,239
+Sim, estamos evacuando o mais rápido possível!
+
+574
+00:26:49,306 --> 00:26:50,907
+Olha, prepare-a, estou quase lá.
+
+575
+00:26:50,973 --> 00:26:52,274
+OK. Ei escute.
+
+576
+00:26:52,342 --> 00:26:54,076
+Tome cuidado.
+
+577
+00:26:54,143 --> 00:26:56,211
+- Eu te amo.
+- Eu te amo.
+
+578
+00:26:56,278 --> 00:26:58,347
+Todas as estações se preparam para
+movimentar todos os pacientes não críticos...
+
+579
+00:26:58,413 --> 00:27:00,416
+Pai, o que está acontecendo?
+
+580
+00:27:03,385 --> 00:27:05,187
+Temos que sair daqui imediatamente.
+
+581
+00:27:07,990 --> 00:27:09,459
+Allison está vindo?
+
+582
+00:27:09,526 --> 00:27:11,294
+Sim, ela está a caminho agora.
+
+583
+00:27:11,361 --> 00:27:13,162
+E nós vamos para a fazenda da vovó e do vovô
+
+584
+00:27:13,229 --> 00:27:14,998
+até que seja mais seguro voltar.
+
+585
+00:27:15,064 --> 00:27:16,533
+Esta pronto? Segure para mim.
+
+586
+00:27:36,419 --> 00:27:40,390
+Informações do Falcão?
+Este é o Fischer. Esta ouvindo?
+
+587
+00:27:44,161 --> 00:27:46,363
+Falcão, este é o Fisher. Esta ouvindo?
+
+588
+00:27:49,531 --> 00:27:51,333
+Eu estava preocupado que você não conseguisse voltar.
+
+589
+00:27:51,401 --> 00:27:52,769
+Tem muita gente trabalhando muito
+
+590
+00:27:52,836 --> 00:27:54,971
+para ter certeza de que todos nós estamos bem, inclusive eu.
+
+591
+00:27:55,037 --> 00:27:56,471
+Ei, Allie, você realmente acha que encontrar um impasse
+
+592
+00:27:56,538 --> 00:27:57,740
+o melhor caminho a seguir?
+
+593
+00:27:57,807 --> 00:27:59,442
+Querida, eu ouço o que você está dizendo,
+
+594
+00:27:59,508 --> 00:28:00,410
+mas ficar aqui também não vai nos ajudar.
+
+595
+00:28:00,476 --> 00:28:01,912
+Você vê o que eles fizeram?
+
+596
+00:28:01,978 --> 00:28:04,180
+Sim eu fiz. Nós dois fizemos.
+
+597
+00:28:04,247 --> 00:28:05,582
+Temos que sair antes que eles nos prendam
+
+598
+00:28:05,647 --> 00:28:07,683
+e os navios começam a atacar a cidade.
+
+599
+00:28:07,750 --> 00:28:08,518
+Como está sua perna?
+
+600
+00:28:08,584 --> 00:28:09,885
+Estou bem agora.
+
+601
+00:28:09,952 --> 00:28:11,654
+Eles só tiveram que colocar mais quatro pinos.
+
+602
+00:28:11,721 --> 00:28:13,222
+Só quatro, né?
+
+603
+00:28:15,924 --> 00:28:17,860
+Se eu me mover muito rápido, é como uma dor aguda.
+
+604
+00:28:17,926 --> 00:28:20,996
+Nós vamos levar você para algum lugar são e salvo.
+
+605
+00:28:21,063 --> 00:28:23,199
+E me prometa que não fará mais deslizamentos de trem
+
+606
+00:28:23,265 --> 00:28:24,934
+de três lances de escada?
+
+607
+00:28:25,000 --> 00:28:26,568
+Ok, isso se chama grind
+
+608
+00:28:26,635 --> 00:28:29,838
+e era apenas um lance de escada, e eu prometo.
+
+609
+00:28:32,708 --> 00:28:35,044
+Será que vamos conseguir sair daqui?
+
+610
+00:28:35,111 --> 00:28:38,982
+Sim. Ficaremos bem quando passarmos pela ponte Queensboro.
+
+611
+00:28:40,849 --> 00:28:42,251
+Eles são eles!
+
+612
+00:28:42,318 --> 00:28:43,853
+Eles estão voando em formação.
+
+613
+00:29:07,476 --> 00:29:10,813
+Despacho! Este é o Capitão Fisher da inteligência Falcon!
+
+614
+00:29:10,880 --> 00:29:11,981
+Entre!
+
+615
+00:29:12,048 --> 00:29:14,683
+Capitão, aqui é o Despacho de Comando.
+
+616
+00:29:14,750 --> 00:29:17,420
+Nós... todos chegando...
+
+617
+00:29:17,487 --> 00:29:18,888
+Despacho de Comando, este é o Capitão Fisher.
+
+618
+00:29:18,954 --> 00:29:21,089
+Todos os nossos transportes foram destruídos!
+
+619
+00:29:21,156 --> 00:29:23,491
+Precisamos de evacuação agora! Entre!
+
+620
+00:29:23,558 --> 00:29:27,163
+Este é o General Reed. Vá para Henry Fisher.
+
+621
+00:29:27,229 --> 00:29:29,432
+Esse é o Fischer! Vá, vá!
+
+622
+00:29:29,499 --> 00:29:31,300
+A presença dos nove ofícios está criando
+
+623
+00:29:31,366 --> 00:29:34,269
+uma perturbação eletromagnética...
+
+624
+00:29:34,336 --> 00:29:37,039
+Saia agora! Saia agora!
+
+625
+00:29:40,375 --> 00:29:42,110
+Por favor, esta é a nossa única saída da cidade.
+
+626
+00:29:42,178 --> 00:29:44,780
+Saiam, vocês dois, agora! Agora!
+
+627
+00:29:49,318 --> 00:29:51,319
+Você está bem?
+
+628
+00:29:51,386 --> 00:29:54,256
+- Sim, ok.
+- Você está bem?
+
+629
+00:29:54,324 --> 00:29:57,527
+Ei, você está indo para o sul?
+
+630
+00:29:57,594 --> 00:29:59,495
+Desculpe. Não podemos levá-lo aonde você precisa ir.
+
+631
+00:29:59,561 --> 00:30:01,229
+Rebecca, precisamos chegar até minha mãe.
+
+632
+00:30:01,297 --> 00:30:02,265
+Vamos! Não, não, não, não!
+
+633
+00:30:02,330 --> 00:30:04,332
+Esta é a minha identificação aqui.
+
+634
+00:30:04,400 --> 00:30:06,035
+Sou um ex-oficial militar.
+
+635
+00:30:06,102 --> 00:30:09,105
+Por favor. Acabei de chegar do local de pouso.
+
+636
+00:30:09,171 --> 00:30:10,506
+Eu trabalho em um observatório!
+
+637
+00:30:10,573 --> 00:30:13,209
+Estamos fazendo pesquisas sobre o ataque.
+
+638
+00:30:13,276 --> 00:30:14,611
+Por favor?
+
+639
+00:30:14,676 --> 00:30:17,446
+Ele simplesmente nos impediu de sermos assaltados.
+
+640
+00:30:17,513 --> 00:30:18,981
+Mas você disse que estamos sem gasolina.
+
+641
+00:30:19,048 --> 00:30:21,417
+Não vamos parar para gasolina!
+
+642
+00:30:23,219 --> 00:30:25,355
+- Ok, entre.
+- Obrigado.
+
+643
+00:30:34,963 --> 00:30:38,099
+O primeiro navio a pousar juntou-se aos outros nove.
+
+644
+00:30:38,166 --> 00:30:39,701
+Pessoal, olhem isso.
+
+645
+00:30:39,768 --> 00:30:42,270
+Estou com tanto medo. Eu não sei o que te dizer.
+
+646
+00:30:42,337 --> 00:30:44,240
+Eles conseguiram chegar à cidade.
+
+647
+00:30:44,307 --> 00:30:46,041
+Não há como atacá-los agora
+
+648
+00:30:46,108 --> 00:30:47,776
+sem colocar todos em perigo.
+
+649
+00:30:47,844 --> 00:30:51,580
+Já vi cerca de 50 caças circulando por aí.
+
+650
+00:30:51,646 --> 00:30:54,716
+Eu não sei o que eles vão fazer.
+
+651
+00:30:54,784 --> 00:30:59,455
+As pessoas estão, tipo, evacuando.
+
+652
+00:30:59,521 --> 00:31:01,057
+A cidade está um caos!
+
+653
+00:31:05,560 --> 00:31:07,730
+O bunker fica nos fundos.
+
+654
+00:31:07,797 --> 00:31:09,432
+Bem, sinta-se em casa.
+
+655
+00:31:14,136 --> 00:31:16,004
+- Você está bem? - Sim.
+
+656
+00:31:18,807 --> 00:31:21,377
+Você realmente acha que seremos capazes de detê-los?
+
+657
+00:31:22,678 --> 00:31:24,981
+Não se preocupe com isso agora, ok?
+
+658
+00:31:25,048 --> 00:31:26,816
+Os militares estão fazendo tudo o que podem
+
+659
+00:31:26,882 --> 00:31:28,751
+para nos manter seguros e estou tentando ajudar.
+
+660
+00:31:34,623 --> 00:31:36,726
+O que você está configurando?
+
+661
+00:31:36,792 --> 00:31:39,594
+Um laboratório, mais ou menos como temos no trabalho.
+
+662
+00:31:39,662 --> 00:31:42,664
+Não parece muito um laboratório.
+
+663
+00:31:42,731 --> 00:31:45,567
+Oh sim? Quantos laboratórios você trouxe?
+
+664
+00:31:53,643 --> 00:31:56,211
+O que é aquilo?
+
+665
+00:31:56,278 --> 00:31:58,180
+Esta é uma imagem do que a NASA acredita ser
+
+666
+00:31:58,247 --> 00:32:02,919
+bactérias retiradas da amostra do nosso Mars Rover Opportunity.
+
+667
+00:32:02,984 --> 00:32:05,620
+E isso é do meteorito que atingiu a Terra
+
+668
+00:32:05,688 --> 00:32:08,524
+há cerca de um ano, verificou-se que era de Marte.
+
+669
+00:32:08,590 --> 00:32:13,028
+E esta é uma foto do casco do navio tirada esta manhã.
+
+670
+00:32:13,096 --> 00:32:16,332
+Quando vi o casco, quis compará-los.
+
+671
+00:32:16,398 --> 00:32:18,033
+Todos eles parecem iguais.
+
+672
+00:32:18,101 --> 00:32:19,602
+Sim.
+
+673
+00:32:19,669 --> 00:32:21,037
+Sim, isso é porque o casco do navio
+
+674
+00:32:21,104 --> 00:32:23,605
+é uma liga de proteína de ferro, cálcio e carbono.
+
+675
+00:32:23,673 --> 00:32:25,208
+E então tanto a amostra Rover
+
+676
+00:32:25,273 --> 00:32:29,077
+e as amostras de meteoritos mostram esses vacúolos de cálcio
+
+677
+00:32:29,144 --> 00:32:33,016
+deixado para trás por algum processo químico não identificado.
+
+678
+00:32:38,186 --> 00:32:40,423
+Mas veja, esse processo de calcificação ocorreu
+
+679
+00:32:40,490 --> 00:32:41,824
+extremamente rapidamente.
+
+680
+00:32:41,891 --> 00:32:44,127
+Quero dizer, ao longo de dias, não de anos.
+
+681
+00:32:45,827 --> 00:32:47,863
+Acho que os alienígenas podem ter enviado este meteorito
+
+682
+00:32:47,930 --> 00:32:50,833
+para testar como nossa atmosfera os afetaria.
+
+683
+00:32:50,900 --> 00:32:54,704
+O que poderia nos dar pistas sobre como detê-los.
+
+684
+00:32:56,571 --> 00:32:58,574
+Allison, olha isso!
+
+685
+00:33:24,232 --> 00:33:26,067
+O que... O que está acontecendo?
+
+686
+00:33:26,134 --> 00:33:27,502
+O que é isso?
+
+687
+00:33:27,568 --> 00:33:29,071
+O carro está morto.
+
+688
+00:33:33,741 --> 00:33:36,678
+É um pulso eletromagnético.
+
+689
+00:33:36,746 --> 00:33:39,381
+Felizmente, este dispositivo está protegido contra EMPs.
+
+690
+00:33:39,448 --> 00:33:42,418
+Sim, mas por que eles estão atirando direto para o céu?
+
+691
+00:33:42,484 --> 00:33:45,221
+Bem, as armas deles emitem uma enorme carga elétrica.
+
+692
+00:33:45,288 --> 00:33:49,391
+Mas quero dizer, pode ser deliberado,
+
+693
+00:33:49,458 --> 00:33:50,793
+para emitir esses EMPs,
+
+694
+00:33:50,858 --> 00:33:53,596
+para eliminar a eletricidade tanto quanto possível.
+
+695
+00:33:53,663 --> 00:33:56,531
+Aliado? Entre, Allie. Este é o Henrique.
+
+696
+00:33:56,598 --> 00:33:59,034
+Parece que eles estão indo para o leste. Você pode confirmar isso?
+
+697
+00:33:59,102 --> 00:34:00,236
+Aliado?
+
+698
+00:34:01,604 --> 00:34:04,173
+- Algum sinal? - Nada.
+
+699
+00:34:04,239 --> 00:34:05,674
+Está morto.
+
+700
+00:34:07,509 --> 00:34:08,876
+Você viu aquilo?
+
+701
+00:34:08,943 --> 00:34:11,047
+Nossas armas mal os arranharam!
+
+702
+00:34:14,250 --> 00:34:17,820
+Sim, é como se eles tivessem algum tipo de escudo.
+
+703
+00:34:17,885 --> 00:34:19,621
+Você sabe, Henry conseguiu uma leitura de
+
+704
+00:34:19,688 --> 00:34:21,690
+a verdadeira explosão do raio de calor do navio.
+
+705
+00:34:21,757 --> 00:34:23,492
+Ele disse que a carga era elétrica,
+
+706
+00:34:23,559 --> 00:34:25,260
+mas não gerou nenhum ozônio.
+
+707
+00:34:25,327 --> 00:34:28,731
+Não é esse o cheiro que você sente depois de um raio?
+
+708
+00:34:28,797 --> 00:34:30,699
+Sim está certo.
+
+709
+00:34:30,766 --> 00:34:33,903
+Mas gerou uma tonelada de cloro.
+
+710
+00:34:36,405 --> 00:34:38,306
+OK.
+
+711
+00:34:38,373 --> 00:34:40,775
+Tudo bem, então eles disparam eletricidade direto
+
+712
+00:34:40,842 --> 00:34:44,413
+no ar para não criar ozônio
+
+713
+00:34:44,478 --> 00:34:47,082
+mas porque eles sabem que irão interagir com o sódio
+
+714
+00:34:47,150 --> 00:34:49,619
+em nosso vapor de água em nossa atmosfera.
+
+715
+00:34:51,887 --> 00:34:54,890
+Eles estão tentando criar seus próprios clorofluorcarbonos
+
+716
+00:34:54,956 --> 00:34:56,391
+para destruir nossa camada de ozônio!
+
+717
+00:34:56,458 --> 00:34:58,161
+Sim, mas por que eles iriam querer fazer isso?
+
+718
+00:34:58,226 --> 00:35:00,261
+Porque Marte não tem camada de ozônio.
+
+719
+00:35:00,329 --> 00:35:01,997
+Eles sabem que não sobreviverão a menos que possam
+
+720
+00:35:02,063 --> 00:35:03,799
+transforme a Terra em um novo Marte!
+
+721
+00:35:03,865 --> 00:35:07,302
+Quero dizer, a eliminação do ozônio, o esgotamento do nitrogênio,
+
+722
+00:35:07,369 --> 00:35:09,172
+afinamento da atmosfera?
+
+723
+00:35:09,237 --> 00:35:11,272
+É por isso que eles têm escudos de energia!
+
+724
+00:35:11,340 --> 00:35:13,175
+Porque eles sabem que seus sistemas orgânicos
+
+725
+00:35:13,242 --> 00:35:15,711
+provavelmente falhará quando exposto à nossa atmosfera,
+
+726
+00:35:15,777 --> 00:35:17,179
+deixando para trás depósitos de cálcio
+
+727
+00:35:17,246 --> 00:35:19,615
+iguais aos daquela foto!
+
+728
+00:35:28,724 --> 00:35:32,327
+Todos os componentes eletrônicos foram
+destruídos por um pulso eletromagnético.
+
+729
+00:35:41,903 --> 00:35:44,739
+Como um pulso eletromagnético poderia derrubar meu carro?
+
+730
+00:35:44,806 --> 00:35:46,074
+Eu não entendo.
+
+731
+00:35:46,141 --> 00:35:48,676
+Olha, um pulso como esse é de longo alcance.
+
+732
+00:35:48,744 --> 00:35:51,146
+Afeta o campo magnético da Terra.
+
+733
+00:35:51,213 --> 00:35:54,516
+É como uma explosão solar ou uma bomba atômica.
+
+734
+00:35:54,583 --> 00:35:57,552
+Você não está dizendo que eles detonaram uma arma nuclear, está?
+
+735
+00:35:57,619 --> 00:35:59,121
+Ah, não, não.
+
+736
+00:35:59,188 --> 00:36:00,756
+Eles teriam nos eliminado com isso.
+
+737
+00:36:00,822 --> 00:36:03,558
+Ouça, o Departamento de Defesa está tentando
+
+738
+00:36:03,626 --> 00:36:06,362
+cada manobra tática para chegar a uma boa defesa.
+
+739
+00:36:06,429 --> 00:36:08,664
+Lançando uma bomba nuclear na cidade de Nova York
+
+740
+00:36:08,731 --> 00:36:10,232
+não faz nenhum sentido agora.
+
+741
+00:36:10,298 --> 00:36:12,367
+A minha mãe está num lar de idosos na ilha.
+
+742
+00:36:12,434 --> 00:36:13,769
+Aline...
+
+743
+00:36:13,835 --> 00:36:15,670
+Esse cheiro é muito mais forte aqui agora.
+
+744
+00:36:15,737 --> 00:36:16,739
+Estamos sendo envenenados agora?
+
+745
+00:36:16,806 --> 00:36:17,807
+Não, ouça.
+
+746
+00:36:17,873 --> 00:36:19,375
+Dada a sua tecnologia avançada,
+
+747
+00:36:19,442 --> 00:36:21,677
+se eles realmente fossem implantar algum tipo de agente,
+
+748
+00:36:21,744 --> 00:36:24,113
+isso já teria nos matado.
+
+749
+00:36:24,179 --> 00:36:26,514
+Olha, se conseguirmos chegar ao observatório,
+
+750
+00:36:26,581 --> 00:36:29,451
+é protegido pelos militares.
+
+751
+00:36:29,518 --> 00:36:33,956
+E quando for seguro, podemos encontrar a tua mãe.
+
+752
+00:36:34,023 --> 00:36:35,591
+Alina, você viu o vídeo do que é aquele navio
+
+753
+00:36:35,657 --> 00:36:37,359
+fez com aqueles helicópteros.
+
+754
+00:36:37,425 --> 00:36:39,061
+Agora há 10 deles.
+
+755
+00:36:39,128 --> 00:36:40,997
+Bem, não temos rádio. A bateria do carro está frita.
+
+756
+00:36:41,063 --> 00:36:43,031
+O observatório fica a apenas alguns quilômetros de distância.
+
+757
+00:36:43,099 --> 00:36:45,001
+É hora de começar a caminhar.
+
+758
+00:36:53,275 --> 00:36:56,012
+Obrigado por nos ajudar no observatório.
+
+759
+00:36:56,079 --> 00:36:58,414
+E obrigado por nos ajudar lá atrás.
+
+760
+00:36:58,481 --> 00:37:01,117
+Obrigado por me dar uma carona.
+
+761
+00:37:01,182 --> 00:37:03,452
+Só não entendo por que estão nos atacando.
+
+762
+00:37:03,518 --> 00:37:05,319
+Bem, já que não houve mais do que
+
+763
+00:37:05,387 --> 00:37:06,755
+as 10 aeronaves iniciais,
+
+764
+00:37:06,822 --> 00:37:08,157
+Eu suspeito que eles estejam usando a cidade de Nova York
+
+765
+00:37:08,222 --> 00:37:11,360
+como um teste para um ataque muito maior.
+
+766
+00:37:11,427 --> 00:37:15,164
+Se for esse o caso, significa que pretendem ficar aqui.
+
+767
+00:37:15,231 --> 00:37:17,166
+E se eles pretendem ficar aqui,
+
+768
+00:37:17,233 --> 00:37:19,368
+eles vão ter que tornar este lugar muito mais
+
+769
+00:37:19,434 --> 00:37:21,302
+habitável como Marte.
+
+770
+00:37:21,369 --> 00:37:23,137
+Como você sabe que eles são de Marte?
+
+771
+00:37:23,204 --> 00:37:26,375
+Confirmámos isso através dos nossos telescópios no observatório.
+
+772
+00:37:26,440 --> 00:37:31,113
+Seus navios produzem um gás cloreto que mata o nitrogênio.
+
+773
+00:37:32,547 --> 00:37:34,482
+Se quiserem tornar isto mais habitável,
+
+774
+00:37:34,548 --> 00:37:37,286
+eles terão que tornar nossa atmosfera livre de ozônio.
+
+775
+00:37:37,353 --> 00:37:38,921
+Mas isso levaria muito tempo, não é?
+
+776
+00:37:38,987 --> 00:37:41,923
+Porque há apenas 10 deles, certo?
+
+777
+00:37:41,990 --> 00:37:43,492
+Não necessariamente.
+
+778
+00:37:43,559 --> 00:37:46,762
+Quero dizer, os navios deles produzem gás clorofluorocarbono.
+
+779
+00:37:46,829 --> 00:37:50,332
+Este gás destrói rapidamente a nossa atmosfera.
+
+780
+00:37:50,398 --> 00:37:54,536
+E se eles vão tornar a Terra mais habitável como Marte,
+
+781
+00:37:54,603 --> 00:37:56,771
+eles vão ter que eliminar o ozônio
+
+782
+00:37:56,838 --> 00:37:59,041
+e não deixe nada além de oxigênio.
+
+783
+00:37:59,108 --> 00:38:01,910
+E isso afetaria a massa de todo o planeta?
+
+784
+00:38:01,976 --> 00:38:03,545
+Isso não pode ser possível.
+
+785
+00:38:03,612 --> 00:38:05,847
+Se eles acenderem o oxigênio, ele queimará os oceanos.
+
+786
+00:38:05,914 --> 00:38:07,449
+E a terra é principalmente oceano.
+
+787
+00:38:07,516 --> 00:38:09,518
+O que tornaria a atração gravitacional da Terra
+
+788
+00:38:09,585 --> 00:38:10,853
+o mesmo que Marte.
+
+789
+00:38:14,322 --> 00:38:16,025
+Não consigo o que preciso aqui.
+
+790
+00:38:17,525 --> 00:38:18,560
+Eu tenho que voltar.
+
+791
+00:38:29,036 --> 00:38:30,505
+O que você está fazendo?
+
+792
+00:38:30,572 --> 00:38:33,276
+Preciso ir ao observatório. É a única maneira.
+
+793
+00:38:34,242 --> 00:38:35,277
+O que?
+
+794
+00:38:37,780 --> 00:38:39,181
+Olha, estamos seguros aqui por um tempo,
+
+795
+00:38:39,248 --> 00:38:42,284
+mas não para sempre e não por muito tempo.
+
+796
+00:38:42,351 --> 00:38:45,054
+Eles tinham tropas, Força Aérea, armas pesadas
+
+797
+00:38:45,119 --> 00:38:47,088
+todos os cercando, todos atirando neles
+
+798
+00:38:47,155 --> 00:38:49,258
+tentando detê-los, e não adiantou nada.
+
+799
+00:38:49,324 --> 00:38:51,359
+- Allie...
+- E agora eles estão em movimento
+
+800
+00:38:51,425 --> 00:38:52,961
+e não sabemos para onde eles estão indo ou quão rápido
+
+801
+00:38:53,027 --> 00:38:55,096
+ou o que mais eles podem fazer.
+
+802
+00:38:55,164 --> 00:38:58,567
+Mas sabemos que eles querem nos eliminar, tanto quanto possível.
+
+803
+00:38:58,634 --> 00:39:00,769
+Alguém tem que detê-los.
+
+804
+00:39:00,835 --> 00:39:02,403
+Aliado...
+
+805
+00:39:02,471 --> 00:39:03,905
+Eu tenho que detê-los.
+
+806
+00:39:07,309 --> 00:39:09,912
+Allison, você não pode voltar lá!
+
+807
+00:39:09,978 --> 00:39:12,914
+Ouça, quando nos evacuaram esta manhã,
+
+808
+00:39:12,981 --> 00:39:15,382
+Eu queria que os militares acabassem com eles!
+
+809
+00:39:15,449 --> 00:39:19,721
+Eu pensei que eles iriam, mas eles não fizeram.
+
+810
+00:39:19,788 --> 00:39:23,626
+Olha, eles me enviaram um de seus principais generais esta manhã
+
+811
+00:39:23,692 --> 00:39:25,860
+porque a NASA nem sabe o que está fazendo.
+
+812
+00:39:25,927 --> 00:39:28,297
+Eles me consultaram.
+
+813
+00:39:28,364 --> 00:39:29,865
+A única maneira de garantir que os alienígenas
+
+814
+00:39:29,931 --> 00:39:32,601
+não chegue até você e Junie irá detê-los!
+
+815
+00:39:36,405 --> 00:39:38,975
+Tenho estudado Marte durante toda a minha vida.
+
+816
+00:39:40,842 --> 00:39:42,143
+Eu posso vencê-los.
+
+817
+00:39:45,847 --> 00:39:48,217
+Você entende o que eu estou dizendo?
+
+818
+00:39:51,686 --> 00:39:52,922
+Aliado...
+
+819
+00:39:58,260 --> 00:40:00,129
+O carro está estacionado no subsolo.
+
+820
+00:40:00,195 --> 00:40:01,929
+Não deveria ter sido afetado pelo EMP.
+
+821
+00:40:01,996 --> 00:40:03,565
+Allison, não!
+
+822
+00:40:07,101 --> 00:40:10,605
+Querida, eu sei, ok? Eu sei.
+
+823
+00:40:10,672 --> 00:40:13,541
+Mas temos que ser fortes para passarmos por isso juntos, ok?
+
+824
+00:40:14,909 --> 00:40:16,311
+- Sim.
+- OK.
+
+825
+00:40:25,519 --> 00:40:28,423
+Vocês estarão seguros aqui, ok?
+
+826
+00:40:32,460 --> 00:40:34,930
+- Eu te amo.
+- Eu te amo.
+
+827
+00:40:42,103 --> 00:40:43,571
+Eu estou voltando.
+
+828
+00:41:07,663 --> 00:41:08,896
+Senhor, não consigo
+
+829
+00:41:08,963 --> 00:41:10,599
+nossos sistemas de comunicação online novamente.
+
+830
+00:41:10,664 --> 00:41:13,534
+Precisamos estabelecer um novo perímetro fora da cidade.
+
+831
+00:41:13,601 --> 00:41:15,170
+Não não.
+
+832
+00:41:15,237 --> 00:41:17,206
+Você viu a filmagem com seus próprios olhos.
+
+833
+00:41:17,273 --> 00:41:19,408
+Nossas tropas foram derrotadas toda vez que foram enfrentá-los.
+
+834
+00:41:19,474 --> 00:41:23,711
+Senhor... o DOD evacuou várias instalações militares
+
+835
+00:41:23,778 --> 00:41:25,414
+em todo o estado de Nova York,
+
+836
+00:41:25,481 --> 00:41:28,351
+com transporte direto para o Pentágono.
+
+837
+00:41:28,416 --> 00:41:30,685
+Podemos querer considerar fazer o mesmo.
+
+838
+00:41:30,753 --> 00:41:32,188
+Eles evacuaram este?
+
+839
+00:41:33,655 --> 00:41:35,290
+Não senhor.
+
+840
+00:41:35,356 --> 00:41:36,458
+É que alguns dos outros oficiais recomendaram...
+
+841
+00:41:36,525 --> 00:41:40,061
+O que? O que? Que evacuemos?
+
+842
+00:41:41,362 --> 00:41:43,465
+Senhor.
+
+843
+00:41:43,532 --> 00:41:48,170
+Até que o Pentágono dê a ordem, nós ficamos!
+
+844
+00:41:50,239 --> 00:41:52,340
+Você salvou os dados do observatório, abra-os.
+
+845
+00:41:52,407 --> 00:41:53,708
+Sim senhor.
+
+846
+00:41:57,012 --> 00:41:58,714
+Tenente...
+
+847
+00:41:58,780 --> 00:42:00,682
+Tenente, me escute.
+
+848
+00:42:02,550 --> 00:42:06,121
+Podemos correr. Eu te escuto.
+
+849
+00:42:06,186 --> 00:42:09,990
+Podemos correr ou podemos ficar
+
+850
+00:42:10,057 --> 00:42:12,059
+e defender a vida das pessoas.
+
+851
+00:42:12,126 --> 00:42:14,096
+Essas criaturas possuem um escudo de energia.
+
+852
+00:42:14,163 --> 00:42:18,632
+Nada passaria por isso, mas não é perfeito.
+
+853
+00:42:18,699 --> 00:42:21,335
+Não me importa com qual inimigo estamos lidando.
+
+854
+00:42:21,402 --> 00:42:24,606
+Ninguém tem recursos ilimitados.
+
+855
+00:42:24,672 --> 00:42:28,176
+Vamos descobrir sua imperfeição
+
+856
+00:42:28,242 --> 00:42:31,313
+e usaremos isso para destruí-los.
+
+857
+00:42:34,182 --> 00:42:36,318
+Este é o Observatório Fisher to Falcon!
+
+858
+00:42:37,885 --> 00:42:39,554
+Fisher para o Observatório Falcon!
+
+859
+00:42:39,621 --> 00:42:40,722
+Entre, Falcão!
+
+860
+00:43:40,481 --> 00:43:41,550
+Senhor! Senhor, desculpe-me.
+
+861
+00:43:41,617 --> 00:43:43,018
+Senhora, o que você está fazendo aqui?
+
+862
+00:43:43,083 --> 00:43:44,786
+Eu tenho que voltar...
+
+863
+00:43:44,853 --> 00:43:47,322
+Nova York está sob evacuação obrigatória ou abrigo.
+
+864
+00:43:47,389 --> 00:43:49,057
+Não há tráfego de pedestres por aqui!
+
+865
+00:43:49,123 --> 00:43:51,726
+Tenho assuntos a tratar com o General Reed no Observatório Falcon.
+
+866
+00:43:51,793 --> 00:43:53,261
+Sou a Dra. Allison Fisher.
+
+867
+00:43:53,329 --> 00:43:54,295
+Esta é uma zona de guerra activa, admitindo
+
+868
+00:43:54,362 --> 00:43:55,530
+somente pessoal autorizado.
+
+869
+00:43:55,597 --> 00:43:56,831
+OK.
+
+870
+00:44:01,603 --> 00:44:03,438
+O observatório está bem longe,
+
+871
+00:44:03,505 --> 00:44:05,507
+provavelmente mais oito quilômetros.
+
+872
+00:44:05,574 --> 00:44:08,244
+Alguém conseguiu restabelecer a comunicação?
+
+873
+00:44:08,309 --> 00:44:10,711
+Há alguns geradores, a maioria deles fritos.
+
+874
+00:44:10,778 --> 00:44:14,115
+Mas conseguimos carregar alguns dos rádios.
+
+875
+00:44:14,181 --> 00:44:15,683
+Eles estão se reunindo novamente.
+
+876
+00:44:15,751 --> 00:44:19,488
+Eles se separaram, nos atacaram e se reuniram novamente.
+
+877
+00:44:19,554 --> 00:44:21,623
+São tripés, foi assim que o Comando os chamou.
+
+878
+00:44:24,460 --> 00:44:26,528
+Easton? O que você vê?
+
+879
+00:44:26,594 --> 00:44:28,496
+Eles estão a cerca de três quilômetros de mim, Sargento.
+
+880
+00:44:28,563 --> 00:44:32,166
+Eu os vi logo acima da linha das árvores.
+
+881
+00:44:32,233 --> 00:44:33,735
+Sim.
+
+882
+00:44:35,003 --> 00:44:39,340
+Eles começaram a atacar algumas áreas residenciais.
+
+883
+00:44:39,407 --> 00:44:42,878
+Era um matadouro.
+
+884
+00:44:42,943 --> 00:44:44,813
+Não fomos capazes de recuar rápido o suficiente.
+
+885
+00:44:45,681 --> 00:44:48,250
+Aviões caindo do céu,
+
+886
+00:44:48,317 --> 00:44:51,286
+corpos por toda parte como sombras.
+
+887
+00:44:51,353 --> 00:44:53,355
+Cinzas por toda parte.
+
+888
+00:44:56,958 --> 00:44:59,527
+Você ouviu o rádio. São cerca de três quilômetros naquela direção.
+
+889
+00:44:59,594 --> 00:45:01,296
+Qual é o seu negócio com o general?
+
+890
+00:45:01,362 --> 00:45:04,766
+Eu... eu tenho que ir ao observatório.
+
+891
+00:45:04,833 --> 00:45:07,202
+Tenho informações sobre os marcianos que podem nos ajudar
+
+892
+00:45:07,268 --> 00:45:08,736
+desenvolver uma arma para usar contra eles.
+
+893
+00:45:08,804 --> 00:45:12,141
+Mas tenho que ir ao laboratório
+do observatório para fazer o teste!
+
+894
+00:45:12,208 --> 00:45:14,843
+Este é o Sargento Holleran da Intel One.
+
+895
+00:45:14,909 --> 00:45:16,777
+Intel One, vá!
+
+896
+00:45:16,844 --> 00:45:18,512
+Tenho a Dra. Allison Fisher da Falcon solicitando
+
+897
+00:45:18,579 --> 00:45:20,047
+transporte para o teatro.
+
+898
+00:45:20,114 --> 00:45:21,715
+O inimigo chegou a trezentos metros
+
+899
+00:45:21,782 --> 00:45:23,617
+do observatório há cerca de uma hora.
+
+900
+00:45:23,684 --> 00:45:25,653
+Sem aviões ou satélites, não podemos dizer se
+
+901
+00:45:25,721 --> 00:45:27,722
+o observatório ainda está de pé.
+
+902
+00:45:31,927 --> 00:45:34,229
+Sargento, alguma de suas unidades conseguiu
+
+903
+00:45:34,295 --> 00:45:35,764
+causar danos aos tripés?
+
+904
+00:45:35,829 --> 00:45:37,465
+Não que eu tenha visto, mas vamos pegá-los.
+
+905
+00:45:37,532 --> 00:45:39,300
+Estamos enviando alguns tanques grandes com armas grandes
+
+906
+00:45:39,367 --> 00:45:41,702
+como você nunca viu antes, coisas pesadas,
+
+907
+00:45:41,769 --> 00:45:43,070
+coisas ultrassecretas.
+
+908
+00:45:43,137 --> 00:45:44,905
+Preciso que você me leve direto para a linha de frente.
+
+909
+00:45:44,972 --> 00:45:46,307
+Acredite em mim, você não quer ver o que essas coisas podem fazer.
+
+910
+00:45:46,375 --> 00:45:48,077
+Eu sei exatamente o que eles podem fazer!
+
+911
+00:45:48,143 --> 00:45:50,711
+Agora, preciso chegar perto o suficiente para estudá-los
+
+912
+00:45:50,778 --> 00:45:52,579
+para ter uma boa ideia de como eles funcionam,
+
+913
+00:45:52,646 --> 00:45:54,415
+quais são suas fraquezas.
+
+914
+00:45:54,481 --> 00:45:55,949
+Caso contrário, há uma boa chance de nossas armas
+
+915
+00:45:56,016 --> 00:45:57,385
+nem vai arranhá-los.
+
+916
+00:46:01,188 --> 00:46:02,724
+Temos que nos mudar agora!
+
+917
+00:46:06,260 --> 00:46:07,663
+Olhar!
+
+918
+00:46:10,599 --> 00:46:12,468
+Eles estão ligando novamente. Abaixe-se!
+
+919
+00:46:12,534 --> 00:46:14,169
+Eles vão atirar na atmosfera!
+
+920
+00:46:14,235 --> 00:46:15,670
+Abaixe-se! Abaixe-se!
+
+921
+00:46:25,079 --> 00:46:27,750
+Fique atrás. Fique ali mesmo.
+
+922
+00:46:30,851 --> 00:46:33,120
+Eles estão se espalhando agora, entende?
+
+923
+00:46:33,188 --> 00:46:34,490
+Eles estão prestes a atacar.
+
+924
+00:46:35,255 --> 00:46:36,858
+Eu não entendo.
+
+925
+00:46:36,925 --> 00:46:38,393
+Nossas armas nem sequer os estão afetando!
+
+926
+00:46:38,460 --> 00:46:40,262
+Elas vão. Temos mais chegando.
+
+927
+00:46:40,329 --> 00:46:43,332
+Você tem que ficar aqui, fique seguro.
+
+928
+00:46:43,398 --> 00:46:44,767
+Você tem que chegar ao observatório.
+
+929
+00:46:46,400 --> 00:46:47,902
+Espera espera! Onde você está indo?
+
+930
+00:46:47,969 --> 00:46:50,838
+Esses são meus homens. Eu tenho que fazer minha parte.
+
+931
+00:46:50,905 --> 00:46:52,373
+Espere, não!
+
+932
+00:47:04,284 --> 00:47:05,520
+Oh!
+
+933
+00:47:11,259 --> 00:47:12,961
+Eles vão atirar de novo?
+
+934
+00:47:16,597 --> 00:47:20,001
+Correr! Ir!
+
+935
+00:47:33,681 --> 00:47:35,649
+Por favor! Ajude-me, por favor!
+
+936
+00:47:35,717 --> 00:47:38,052
+Tire isso de mim! Ajude-me, por favor!
+
+937
+00:47:38,119 --> 00:47:39,621
+- Vamos.
+- Tire isso de mim!
+
+938
+00:47:39,688 --> 00:47:42,390
+- Por favor, tire isso de mim, por favor! - Puxe, puxe!
+
+939
+00:47:42,456 --> 00:47:44,492
+Tire isso de mim! Tire isso de mim!
+
+940
+00:47:44,559 --> 00:47:47,195
+- Por favor, tire isso de mim! - Puxar!
+
+941
+00:47:47,262 --> 00:47:50,065
+Tire isso de mim! Ah!
+
+942
+00:47:51,032 --> 00:47:52,800
+Vá, vá! Vamos.
+
+943
+00:47:59,574 --> 00:48:01,242
+Essas criaturas ou o que quer que fossem,
+
+944
+00:48:01,309 --> 00:48:03,644
+como eles conseguiram derrubar uma ponte inteira?
+
+945
+00:48:03,711 --> 00:48:05,313
+Parecia que eles foram atraídos diretamente para nós,
+
+946
+00:48:05,380 --> 00:48:06,314
+como se estivessem tentando nos matar!
+
+947
+00:48:06,380 --> 00:48:07,748
+Ok, espere.
+
+948
+00:48:07,815 --> 00:48:10,451
+Acho que eles são atraídos por qualquer coisa orgânica.
+
+949
+00:48:10,518 --> 00:48:13,053
+Veja, é como uma videira Kudzu com esteróides.
+
+950
+00:48:13,121 --> 00:48:14,722
+Espere. O que isso significa?
+
+951
+00:48:14,789 --> 00:48:16,557
+Quando eu estava estacionado no Japão,
+
+952
+00:48:16,623 --> 00:48:18,092
+eles tinham essas vinhas, essas vinhas Kudzu.
+
+953
+00:48:18,159 --> 00:48:20,828
+E os habitantes locais tiveram que podá-los constantemente
+
+954
+00:48:20,896 --> 00:48:22,964
+ou matá-los, ou qualquer coisa.
+
+955
+00:48:23,030 --> 00:48:25,199
+Caso contrário, eles ultrapassariam a aldeia.
+
+956
+00:48:25,266 --> 00:48:27,469
+Então os marcianos plantaram uma espécie invasora?
+
+957
+00:48:27,536 --> 00:48:29,403
+Eles estão tentando. É basicamente isso.
+
+958
+00:48:29,471 --> 00:48:31,139
+Alimentando-se de nitrogênio,
+
+959
+00:48:31,206 --> 00:48:33,142
+eles poderiam ter isso terraformado em uma semana.
+
+960
+00:49:12,313 --> 00:49:15,783
+Basta seguir a linha das árvores e ficar quieto.
+
+961
+00:49:19,353 --> 00:49:21,088
+Correr!
+
+962
+00:49:21,155 --> 00:49:22,858
+Vamos!
+
+963
+00:49:32,166 --> 00:49:34,670
+Vamos! Aqui! Venha aqui, venha aqui!
+
+964
+00:49:49,751 --> 00:49:51,752
+Ir! Vai! Vai! Vai! Vai! Vai! Vai!
+
+965
+00:49:51,818 --> 00:49:53,621
+Dessa maneira. Dessa forma... agora!
+
+966
+00:50:10,472 --> 00:50:13,842
+Vamos! Entre! Entre!
+
+967
+00:50:13,907 --> 00:50:16,344
+Coloque um pano embaixo da porta! Bloqueie as janelas!
+
+968
+00:50:16,411 --> 00:50:17,945
+Ainda tem gente por aí!
+
+969
+00:50:22,184 --> 00:50:25,452
+- Abra a porta! - Não! Não abra!
+
+970
+00:50:25,519 --> 00:50:26,454
+Não abra a porta!
+
+971
+00:50:26,521 --> 00:50:28,823
+O que fazemos agora?
+
+972
+00:50:28,889 --> 00:50:31,625
+Não sei, mas tenho que ir ao observatório
+
+973
+00:50:31,693 --> 00:50:34,763
+ou todos esses dados são em vão.
+
+974
+00:50:34,829 --> 00:50:37,398
+Reproduza a filmagem do Central Park novamente.
+
+975
+00:50:37,465 --> 00:50:39,468
+Você pode ver isso. Aqui.
+
+976
+00:50:39,534 --> 00:50:41,403
+Um F-35 colide com o escudo.
+
+977
+00:50:41,469 --> 00:50:42,903
+Nenhum efeito na espaçonave.
+
+978
+00:50:42,971 --> 00:50:44,204
+Espere. Pare aí mesmo.
+
+979
+00:50:44,271 --> 00:50:45,673
+O que é isso?
+
+980
+00:50:45,740 --> 00:50:47,175
+É um padrão de interferência na tela.
+
+981
+00:50:47,240 --> 00:50:49,244
+Nem sempre consegue lidar com imagens de alta resolução
+
+982
+00:50:49,309 --> 00:50:50,578
+do observatório.
+
+983
+00:50:50,646 --> 00:50:51,946
+Ele para logo além da espaçonave.
+
+984
+00:50:52,012 --> 00:50:53,114
+Qual é a resolução deste laptop?
+
+985
+00:50:53,181 --> 00:50:54,650
+1080.
+
+986
+00:50:54,715 --> 00:50:56,483
+E estes são comprimentos de onda
+de interferência, Tenente?
+
+987
+00:50:56,550 --> 00:51:00,121
+O escudo de energia está vibrando
+em uma frequência incrivelmente alta.
+
+988
+00:51:00,188 --> 00:51:03,925
+Se as armas convencionais não
+funcionarem numa frequência tão densa,
+
+989
+00:51:03,992 --> 00:51:06,861
+então nem mesmo a radiação irá romper.
+
+990
+00:51:06,927 --> 00:51:11,165
+Precisaríamos de algo medindo pelo menos 400 quilojoules,
+
+991
+00:51:11,233 --> 00:51:12,934
+e um Hertz ultra-alto.
+
+992
+00:51:13,001 --> 00:51:15,136
+Temos armas laser aqui e no Pentágono, certo?
+
+993
+00:51:15,202 --> 00:51:16,838
+Todas as nossas armas laser de nível militar
+
+994
+00:51:16,905 --> 00:51:18,973
+foram desativados do EMP.
+
+995
+00:51:19,039 --> 00:51:21,143
+O Observatório Falcon possui um laser.
+
+996
+00:51:21,208 --> 00:51:23,444
+Pode ser modificado para disparar contra eles?
+
+997
+00:51:23,512 --> 00:51:26,648
+Teoricamente, poderíamos direcionar
+toda a energia para o laser
+
+998
+00:51:26,715 --> 00:51:30,251
+e recalibre-o para disparar em
+uma frequência extremamente alta.
+
+999
+00:51:30,318 --> 00:51:32,620
+Mas todos os sistemas de observação estão desligados
+
+1000
+00:51:32,686 --> 00:51:33,688
+por causa do PEM.
+
+1001
+00:51:33,753 --> 00:51:35,089
+Não importa.
+
+1002
+00:51:35,155 --> 00:51:37,291
+Envie um alerta prioritário pela rede deles
+
+1003
+00:51:37,358 --> 00:51:38,592
+repetindo a cada 15 minutos.
+
+1004
+00:51:38,659 --> 00:51:39,827
+Dê-lhes as especificações.
+
+1005
+00:51:39,894 --> 00:51:41,862
+Vamos apenas esperar que um deles,
+
+1006
+00:51:41,929 --> 00:51:44,231
+você sabe, volta a tempo de recebê-lo.
+
+1007
+00:51:44,298 --> 00:51:45,333
+Senhor.
+
+1008
+00:51:54,742 --> 00:51:57,077
+Ei, ei, ei! Aqui, aqui.
+
+1009
+00:51:57,144 --> 00:51:59,079
+Abaixe-se!
+
+1010
+00:51:59,146 --> 00:52:01,349
+Eu sei onde há abrigo.
+
+1011
+00:52:01,416 --> 00:52:03,385
+- Eu sou Chris.
+- Alisson.
+
+1012
+00:52:06,653 --> 00:52:08,422
+Esses são os outros.
+
+1013
+00:52:08,489 --> 00:52:12,059
+Estávamos na ponte sul quando
+essas gigantescas vinhas vermelhas
+
+1014
+00:52:12,126 --> 00:52:14,596
+derrubou toda a ponte.
+
+1015
+00:52:14,663 --> 00:52:16,297
+Eu e alguns outros conseguimos sair.
+
+1016
+00:52:16,364 --> 00:52:20,434
+Mas as máquinas continuaram seguindo
+
+1017
+00:52:20,501 --> 00:52:22,771
+e nos matando em rebanhos.
+
+1018
+00:52:22,838 --> 00:52:26,307
+Eles estão nos caçando e matando desde a ponte.
+
+1019
+00:52:26,373 --> 00:52:32,313
+Eles nos seguiram até as árvores e começaram a nos comer.
+
+1020
+00:52:32,380 --> 00:52:34,516
+Espere. Isso é...
+
+1021
+00:52:34,583 --> 00:52:35,849
+É por isso que eles não apenas começaram
+
+1022
+00:52:35,916 --> 00:52:37,485
+pulverizar o planeta e plantar.
+
+1023
+00:52:37,550 --> 00:52:38,953
+Eles não têm comida,
+
+1024
+00:52:39,021 --> 00:52:42,256
+então eles têm que nos comer para continuar.
+
+1025
+00:52:42,322 --> 00:52:44,960
+Você disse que as vinhas eram vermelhas
+e se movem de forma independente?
+
+1026
+00:52:45,027 --> 00:52:46,226
+Sim.
+
+1027
+00:52:46,293 --> 00:52:47,661
+Eles apenas mantiveram...
+
+1028
+00:53:13,655 --> 00:53:16,758
+Aí está. Estamos quase lá.
+
+1029
+00:53:17,657 --> 00:53:19,094
+OK, vamos lá.
+
+1030
+00:53:29,336 --> 00:53:32,706
+Ei, Chris? O que você está fazendo?
+
+1031
+00:53:32,773 --> 00:53:35,143
+Sou mecânico de aeronaves.
+
+1032
+00:53:35,208 --> 00:53:38,312
+Trabalhei para uma empresa no 
+Novo México por mais de 30 anos.
+
+1033
+00:53:41,248 --> 00:53:44,251
+O motor parecia intacto visto de fora.
+
+1034
+00:53:44,318 --> 00:53:48,188
+O medidor de combustível mostraria
+vazio se houvesse vazamento.
+
+1035
+00:53:48,255 --> 00:53:52,025
+Este avião está desligado porque
+um circuito foi interrompido com o impacto.
+
+1036
+00:53:52,092 --> 00:53:54,795
+E geralmente, há um pequeno kit de ferramentas
+
+1037
+00:53:54,862 --> 00:53:57,732
+acima do lado do copiloto para reparos de emergência.
+
+1038
+00:54:00,467 --> 00:54:05,272
+E se você puder me dar uma mão e talvez ele vá embora...
+
+1039
+00:54:07,574 --> 00:54:10,811
+você pode selar a conexão com o regulador de combustível.
+
+1040
+00:54:18,585 --> 00:54:20,221
+Chris, fale baixo.
+
+1041
+00:54:25,960 --> 00:54:28,329
+Tenho certeza que eles se foram.
+
+1042
+00:54:39,173 --> 00:54:40,976
+Por favor, por favor, por favor, por favor.
+
+1043
+00:54:59,561 --> 00:55:02,297
+Chris, eles estão lá fora.
+
+1044
+00:55:04,965 --> 00:55:06,833
+Ok, rápido!
+
+1045
+00:55:06,900 --> 00:55:08,168
+Feche todas as cortinas!
+
+1046
+00:55:09,036 --> 00:55:10,504
+Controle-se!
+
+1047
+00:55:15,043 --> 00:55:16,478
+Não deixe que eles nos ouçam.
+
+1048
+00:55:27,789 --> 00:55:28,990
+O que isso está fazendo?
+
+1049
+00:55:29,056 --> 00:55:30,559
+Está apenas parado ali.
+
+1050
+00:55:36,530 --> 00:55:39,766
+O sol está começando a se pôr.
+
+1051
+00:55:39,833 --> 00:55:41,835
+Não está nem se movendo. É apenas...
+
+1052
+00:55:41,902 --> 00:55:43,571
+É como se estivesse em posição de sentido.
+
+1053
+00:55:46,407 --> 00:55:48,809
+Eu não posso ficar aqui.
+
+1054
+00:55:48,876 --> 00:55:51,046
+Tenho que ir ao observatório.
+
+1055
+00:55:51,112 --> 00:55:52,579
+Mas eu sei que se um de nós for lá,
+
+1056
+00:55:52,646 --> 00:55:55,615
+isso só vai nos pegar na grama.
+
+1057
+00:56:03,291 --> 00:56:07,394
+Bem, não podemos simplesmente deixá-lo lá fora,
+esperando que nos mate.
+
+1058
+00:56:16,170 --> 00:56:19,441
+É como se estivesse guardando o avião.
+
+1059
+00:56:23,811 --> 00:56:26,581
+Teremos que ficar aqui até que ele vá embora.
+
+1060
+00:56:27,215 --> 00:56:28,617
+Tente ficar quieto.
+
+1061
+00:56:34,956 --> 00:56:35,890
+Ei.
+
+1062
+00:56:35,956 --> 00:56:37,391
+Onde você está indo?
+
+1063
+00:56:39,793 --> 00:56:41,161
+Cris?
+
+1064
+00:56:42,030 --> 00:56:43,265
+Cris?
+
+1065
+00:56:44,699 --> 00:56:46,634
+O que você está fazendo?
+
+1066
+00:56:46,701 --> 00:56:49,704
+Parece que eles têm sanduíches de peru frios.
+
+1067
+00:56:49,771 --> 00:56:51,106
+Quero um?
+
+1068
+00:56:52,974 --> 00:56:54,409
+Tipo.
+
+1069
+00:56:56,311 --> 00:56:57,946
+Obrigado.
+
+1070
+00:57:07,989 --> 00:57:11,458
+O rádio da cabine está quebrado,
+
+1071
+00:57:11,525 --> 00:57:15,128
+mas acho que posso consertar alguns fios em curto.
+
+1072
+00:57:15,195 --> 00:57:17,197
+Vamos esperar até que eles saiam para fazer isso.
+
+1073
+00:57:18,831 --> 00:57:20,367
+É uma boa ideia, no entanto.
+
+1074
+00:57:25,405 --> 00:57:27,041
+As coisas estão doendo muito, hein?
+
+1075
+00:57:27,108 --> 00:57:30,278
+Sim. Ainda dói muito.
+
+1076
+00:57:33,914 --> 00:57:35,182
+Ok, espere.
+
+1077
+00:57:45,092 --> 00:57:46,560
+Aqui.
+
+1078
+00:57:51,132 --> 00:57:53,001
+Aqui. Levante o braço.
+
+1079
+00:57:57,639 --> 00:57:59,541
+Ainda dói.
+
+1080
+00:58:06,447 --> 00:58:09,451
+Você acha que essas criaturas do Tripé dormem?
+
+1081
+00:58:11,619 --> 00:58:13,721
+Apenas feche seus olhos.
+
+1082
+00:58:13,786 --> 00:58:15,356
+Tente descansar um pouco.
+
+1083
+00:58:16,956 --> 00:58:18,659
+Eu vou fazer o primeiro turno.
+
+1084
+00:58:18,726 --> 00:58:21,429
+Não não. Eu vou fazer isso.
+
+1085
+00:58:21,496 --> 00:58:23,731
+Você está no Departamento de Defesa.
+
+1086
+00:58:23,797 --> 00:58:26,768
+Você precisará se concentrar.
+
+1087
+00:58:26,833 --> 00:58:28,569
+Eu vou pegar o primeiro relógio
+
+1088
+00:58:30,338 --> 00:58:32,240
+Vou te acordar em algumas horas.
+
+1089
+00:58:40,947 --> 00:58:42,516
+Obrigado.
+
+1090
+00:59:05,105 --> 00:59:08,074
+O que é que foi isso?
+
+1091
+00:59:08,141 --> 00:59:09,409
+Está se movendo de novo!
+
+1092
+00:59:09,476 --> 00:59:11,512
+E simplesmente disparou contra algo lá fora!
+
+1093
+00:59:12,914 --> 00:59:14,782
+Cris!
+
+1094
+00:59:14,849 --> 00:59:16,284
+Cris, não! Temos que ir!
+
+1095
+00:59:19,052 --> 00:59:22,623
+Consertei o avião e não vamos sair sem brigar!
+
+1096
+00:59:22,690 --> 00:59:24,791
+Vamos vê-los parar um míssil voador!
+
+1097
+00:59:24,858 --> 00:59:26,193
+Não, Chris, pare!
+
+1098
+00:59:29,463 --> 00:59:30,831
+Merda!
+
+1099
+01:00:11,938 --> 01:00:13,406
+Tem certeza que está bem?
+
+1100
+01:00:13,474 --> 01:00:15,009
+Sim. Você sabe que não posso simplesmente ficar aí deitado.
+
+1101
+01:00:15,074 --> 01:00:16,409
+Vou me deixar louco.
+
+1102
+01:00:16,476 --> 01:00:18,712
+Bem, então tome cuidado com a perna.
+
+1103
+01:00:22,583 --> 01:00:24,585
+Eu não sei o que diabos essas coisas fizeram,
+
+1104
+01:00:24,652 --> 01:00:28,155
+mas a fiação da casa está totalmente frita.
+
+1105
+01:00:30,791 --> 01:00:32,493
+Mesmo com o gerador, vai demorar dias
+
+1106
+01:00:32,559 --> 01:00:33,994
+antes que eu possa colocar este
+lugar de volta em funcionamento
+
+1107
+01:00:34,061 --> 01:00:35,430
+sem eletricista.
+
+1108
+01:00:35,496 --> 01:00:38,699
+Bem, tenho certeza que tio Henry poderia consertar isso.
+
+1109
+01:00:38,766 --> 01:00:41,735
+Sim. Eu também poderia fazer
+isso se tivesse todo o tempo do mundo.
+
+1110
+01:00:41,802 --> 01:00:44,838
+E daí? Sua agenda está lotada agora?
+
+1111
+01:00:44,905 --> 01:00:45,839
+Totalmente embalado.
+
+1112
+01:00:49,610 --> 01:00:53,080
+Ei, vá com calma, sim?
+
+1113
+01:00:53,148 --> 01:00:54,916
+Não quero que você se machuque novamente.
+
+1114
+01:00:54,983 --> 01:00:56,550
+Quero dizer, eu sei que você está entediado
+
+1115
+01:00:56,617 --> 01:00:58,586
+e você quer ajudar, mas não precisa se apressar.
+
+1116
+01:00:59,853 --> 01:01:01,855
+Você acha que Allison vai ficar bem?
+
+1117
+01:01:01,922 --> 01:01:04,257
+Espero que sim, junho.
+
+1118
+01:01:04,324 --> 01:01:07,960
+Teremos apenas que esperar até ela voltar.
+
+1119
+01:01:08,027 --> 01:01:09,663
+Ela vai conseguir voltar.
+
+1120
+01:01:19,641 --> 01:01:21,474
+Oh meu Deus!
+
+1121
+01:01:21,541 --> 01:01:23,244
+É um braço de uma das máquinas!
+
+1122
+01:01:23,311 --> 01:01:25,180
+Abaixe-se! Ficar no chão.
+
+1123
+01:01:44,065 --> 01:01:45,465
+Junie, isso machucou você?
+
+1124
+01:01:45,532 --> 01:01:47,768
+Não, eu estou bem. Não me machucou.
+
+1125
+01:01:47,835 --> 01:01:49,070
+Você está bem?
+
+1126
+01:01:49,137 --> 01:01:50,705
+Sim eu sou.
+
+1127
+01:01:57,744 --> 01:01:59,880
+Parecia que algo estava chamando isso.
+
+1128
+01:02:01,148 --> 01:02:03,983
+De qualquer forma, pai, você salvou minha vida.
+
+1129
+01:02:04,050 --> 01:02:05,987
+Isso foi incrível.
+
+1130
+01:02:12,059 --> 01:02:14,796
+Apenas descanse um pouco.
+
+1131
+01:03:05,246 --> 01:03:07,014
+A fumaça foi dissipada.
+
+1132
+01:03:07,081 --> 01:03:10,251
+Agora, o observatório fica a 1,6 km da estrada principal.
+
+1133
+01:03:10,318 --> 01:03:12,119
+Desculpe. Não podemos ir com você, Henry.
+
+1134
+01:03:12,186 --> 01:03:15,454
+Mesmo que ainda possa haver perigo em Manhattan,
+
+1135
+01:03:15,521 --> 01:03:16,757
+temos que ir para lá.
+
+1136
+01:03:18,057 --> 01:03:18,992
+Obrigado por me ajudar.
+
+1137
+01:03:19,059 --> 01:03:20,795
+Obrigado por nos ajudar.
+
+1138
+01:03:22,061 --> 01:03:23,463
+Esteja a salvo.
+
+1139
+01:04:31,331 --> 01:04:32,567
+Ah!
+
+1140
+01:04:41,007 --> 01:04:42,710
+Ah!
+
+1141
+01:04:46,880 --> 01:04:48,115
+Aliado?
+
+1142
+01:04:51,918 --> 01:04:53,121
+Você está aqui?
+
+1143
+01:04:59,458 --> 01:05:01,227
+Allie, este é Henry.
+
+1144
+01:05:01,295 --> 01:05:02,797
+Entre.
+
+1145
+01:05:05,632 --> 01:05:09,503
+Allie, este é o Henry! Entre!
+
+1146
+01:05:27,788 --> 01:05:30,858
+Fique onde você está, onde quer que esteja.
+
+1147
+01:05:38,666 --> 01:05:40,401
+Por favor, apenas me dê alguma coisa, me dê alguma coisa!
+
+1148
+01:05:40,467 --> 01:05:42,068
+Preciso saber que você está aí!
+
+1149
+01:05:48,108 --> 01:05:49,577
+Aliado...
+
+1150
+01:05:51,378 --> 01:05:52,846
+Estou indo para a sala de máquinas.
+
+1151
+01:05:54,648 --> 01:05:56,083
+Vou verificar a iluminação.
+
+1152
+01:06:19,840 --> 01:06:21,608
+Ha!
+
+1153
+01:06:28,916 --> 01:06:30,517
+- Aliado! - Henrique!
+
+1154
+01:06:30,583 --> 01:06:32,886
+- Oh meu Deus.
+- Estou tão feliz que você conseguiu.
+
+1155
+01:06:34,856 --> 01:06:37,024
+Onde estão Junie e Mark? Eles estão bem?
+
+1156
+01:06:37,090 --> 01:06:38,125
+Deus, espero que sim.
+
+1157
+01:06:38,192 --> 01:06:39,693
+Tive que deixá-los na casa da fazenda.
+
+1158
+01:06:39,760 --> 01:06:41,128
+Não consegui verificá-los.
+
+1159
+01:06:41,193 --> 01:06:42,728
+Mas, Henry, eu vi um.
+
+1160
+01:06:42,795 --> 01:06:44,163
+Eu vi um dos marcianos.
+
+1161
+01:06:44,231 --> 01:06:45,599
+Fora da máquina?
+
+1162
+01:06:45,666 --> 01:06:49,536
+Não, cara a cara, do lado de fora da cabine.
+
+1163
+01:06:49,603 --> 01:06:51,105
+Espere. Você já viu as ervas daninhas vermelhas?
+
+1164
+01:06:51,170 --> 01:06:53,373
+Sim. Um deles tentou me sufocar
+
+1165
+01:06:53,440 --> 01:06:55,074
+no meio da floresta.
+
+1166
+01:06:55,141 --> 01:06:57,510
+Eles tentaram nos matar na ponte sul.
+
+1167
+01:06:57,577 --> 01:06:59,346
+Quem somos nós?
+
+1168
+01:06:59,413 --> 01:07:02,449
+Bom, ontem passei o dia viajando com duas meninas.
+
+1169
+01:07:02,516 --> 01:07:05,920
+Viajamos juntos, depois passei a noite em uma cabana.
+
+1170
+01:07:05,987 --> 01:07:07,121
+Onde vocês se esconderam?
+
+1171
+01:07:07,188 --> 01:07:08,588
+Longa história.
+
+1172
+01:07:08,655 --> 01:07:10,190
+Mas você sabe o que os marcianos estão fazendo, certo?
+
+1173
+01:07:10,257 --> 01:07:12,659
+Sim. Eles estão tentando transformar a Terra em um novo Marte.
+
+1174
+01:07:12,726 --> 01:07:14,827
+Eles estão tentando destruir todo o nitrogênio
+
+1175
+01:07:14,894 --> 01:07:18,632
+na atmosfera através do plantio
+de culturas que devoram nitrogênio.
+
+1176
+01:07:18,699 --> 01:07:20,233
+Quando eles estiverem reduzidos a nada além de oxigênio,
+
+1177
+01:07:20,300 --> 01:07:21,567
+eles vão inflamar a atmosfera
+
+1178
+01:07:21,635 --> 01:07:23,436
+e isso vai vaporizar o oceano.
+
+1179
+01:07:23,503 --> 01:07:25,072
+Isso reduz a massa da Terra!
+
+1180
+01:07:25,139 --> 01:07:28,175
+Sim, e isso, além de destruir a nossa camada de ozono,
+
+1181
+01:07:28,242 --> 01:07:30,945
+deveria tornar nosso planeta praticamente um lar para eles.
+
+1182
+01:07:31,012 --> 01:07:32,580
+OK.
+
+1183
+01:07:32,646 --> 01:07:34,181
+Então peguei esse espécime há cerca de uma hora
+
+1184
+01:07:34,248 --> 01:07:35,749
+e é preto azeviche, certo?
+
+1185
+01:07:35,815 --> 01:07:38,551
+Se a minha teoria estiver correta,
+quando exposto a bactérias,
+
+1186
+01:07:38,617 --> 01:07:40,453
+ficará branco e morrerá.
+
+1187
+01:07:40,521 --> 01:07:41,956
+Eu vi isso acontecer com esse marciano
+
+1188
+01:07:42,021 --> 01:07:43,824
+que consumiu um homem com um braço gravemente infectado.
+
+1189
+01:07:43,891 --> 01:07:45,226
+Eca.
+
+1190
+01:07:45,291 --> 01:07:46,592
+Sim, ficou branco como osso e morreu em poucos minutos.
+
+1191
+01:07:46,659 --> 01:07:48,194
+Isso é um alerta?
+
+1192
+01:07:48,260 --> 01:07:51,798
+Abri o quadro de mensagens, é de 12 horas atrás.
+
+1193
+01:07:51,865 --> 01:07:54,134
+Aqui, espere. Todo o sistema está embaralhado.
+
+1194
+01:07:54,201 --> 01:07:55,670
+Tenho que deixá-lo funcionar antes de poder reiniciá-lo.
+
+1195
+01:07:55,735 --> 01:07:57,203
+Tudo bem.
+
+1196
+01:07:57,271 --> 01:07:59,907
+Portanto, Marte tem metade do
+conteúdo de oxigênio do que a Terra.
+
+1197
+01:07:59,972 --> 01:08:02,509
+Portanto, suas espécies têm que
+produzir hemoglobina em excesso
+
+1198
+01:08:02,576 --> 01:08:04,378
+para absorver o máximo de oxigênio possível.
+
+1199
+01:08:04,445 --> 01:08:07,981
+Assim como o nosso sangue,
+o ferro é fundamental para a absorção de oxigênio.
+
+1200
+01:08:08,047 --> 01:08:09,816
+Então eles criam o dobro disso.
+
+1201
+01:08:09,882 --> 01:08:11,684
+Agora você foi capaz de fazer uma varredura na pele deles
+
+1202
+01:08:11,751 --> 01:08:13,621
+antes do primeiro ataque, lembra?
+
+1203
+01:08:13,688 --> 01:08:14,988
+Sim.
+
+1204
+01:08:15,054 --> 01:08:16,556
+Era cálcio, carbono, proteína e ferro.
+
+1205
+01:08:16,623 --> 01:08:18,824
+Agora eu suspeito que quando essas criaturas morrerem,
+
+1206
+01:08:18,891 --> 01:08:20,827
+seu sistema vascular se apodera,
+
+1207
+01:08:20,894 --> 01:08:23,764
+e então drena todo o ferro do seu corpo.
+
+1208
+01:08:23,829 --> 01:08:26,000
+Mais ou menos como nosso sistema linfático empurra fluido.
+
+1209
+01:08:26,067 --> 01:08:27,667
+Sim, é isso que estou pensando.
+
+1210
+01:08:27,734 --> 01:08:29,870
+Então, tudo o que precisamos fazer é isolar quais bactérias
+
+1211
+01:08:29,936 --> 01:08:31,572
+os marcianos são suscetíveis.
+
+1212
+01:08:31,637 --> 01:08:32,872
+Quando o ferro drenar,
+
+1213
+01:08:32,939 --> 01:08:33,806
+só vai deixar o cálcio,
+
+1214
+01:08:33,873 --> 01:08:35,507
+tornando-os brancos como ossos.
+
+1215
+01:08:35,574 --> 01:08:36,710
+Assim como quando eles recuaram para o navio, certo?
+
+1216
+01:08:36,777 --> 01:08:38,444
+Isso mesmo.
+
+1217
+01:08:38,511 --> 01:08:40,947
+Então podemos identificá-los
+um por um com a função ID da biblioteca
+
+1218
+01:08:41,014 --> 01:08:43,083
+até identificarmos qual bactéria
+
+1219
+01:08:43,149 --> 01:08:48,121
+é ácido o suficiente para matar o tecido vivo da pele.
+
+1220
+01:08:49,622 --> 01:08:51,023
+Tudo bem, sim, como sabemos que isso vai funcionar?
+
+1221
+01:08:51,091 --> 01:08:52,659
+Porque sua estrutura vascular
+
+1222
+01:08:52,725 --> 01:08:55,261
+é um sistema fechado como o nosso.
+
+1223
+01:08:55,328 --> 01:08:58,599
+Eles precisam do dobro de ferro
+para fornecer oxigênio em Marte, certo?
+
+1224
+01:08:58,666 --> 01:08:59,967
+OK.
+
+1225
+01:09:00,033 --> 01:09:01,634
+Então isso é o dobro dos glóbulos vermelhos.
+
+1226
+01:09:01,702 --> 01:09:03,804
+Isso deixará apenas metade do
+espaço para os glóbulos brancos.
+
+1227
+01:09:03,871 --> 01:09:06,039
+Henry, eles não têm sistema imunológico.
+
+1228
+01:09:19,353 --> 01:09:22,322
+Ok, então separei uma única bactéria.
+
+1229
+01:09:22,389 --> 01:09:25,792
+Você executa o programa e me diz como ele o identifica.
+
+1230
+01:09:25,859 --> 01:09:27,494
+Ok, entendi.
+
+1231
+01:09:27,560 --> 01:09:29,828
+O programa diz... Clostridium perfrigens.
+
+1232
+01:09:29,895 --> 01:09:31,698
+O nome comum é gangrena.
+
+1233
+01:09:31,765 --> 01:09:33,500
+Perfeito.
+
+1234
+01:09:33,567 --> 01:09:37,471
+O alienígena do qual tirei
+a amostra morreu segundos depois.
+
+1235
+01:09:37,537 --> 01:09:40,307
+Então deve ter apenas vestígios de gangrena.
+
+1236
+01:09:41,442 --> 01:09:44,110
+- Ok, não é isso.
+- Não é isso.
+
+1237
+01:09:44,177 --> 01:09:45,445
+Vamos tentar de novo.
+
+1238
+01:09:45,511 --> 01:09:47,014
+Tudo bem, deixe-me trazer outra amostra aqui.
+
+1239
+01:09:47,881 --> 01:09:51,050
+- Ok, você está pronto? - Sim.
+
+1240
+01:09:51,118 --> 01:09:53,154
+Ok, esta é uma bactéria pleomórfica.
+
+1241
+01:09:53,220 --> 01:09:54,954
+Isso é apenas uma bactéria
+comum transmitida pelo sangue.
+
+1242
+01:09:55,021 --> 01:09:58,257
+Tudo bem, aqui vai nada...
+
+1243
+01:09:58,324 --> 01:09:59,326
+e não fez nada.
+
+1244
+01:09:59,393 --> 01:10:01,095
+Deve haver pelo menos 12 cepas
+
+1245
+01:10:01,162 --> 01:10:02,695
+de bactérias nesta amostra.
+
+1246
+01:10:02,761 --> 01:10:04,363
+Ai Jesus.
+
+1247
+01:10:04,430 --> 01:10:05,765
+Eles estão se aproximando.
+
+1248
+01:10:05,832 --> 01:10:07,367
+Podemos fazer três ou quatro de cada vez?
+
+1249
+01:10:07,434 --> 01:10:08,668
+Não, infelizmente não.
+
+1250
+01:10:08,734 --> 01:10:11,037
+Isso comprometeria os resultados.
+
+1251
+01:10:11,104 --> 01:10:12,805
+Ok, vá!
+
+1252
+01:10:12,872 --> 01:10:14,673
+Ok, isso é... estreptococo.
+
+1253
+01:10:14,740 --> 01:10:16,277
+Essa é a estreptococo comum.
+
+1254
+01:10:16,342 --> 01:10:17,478
+Tudo bem.
+
+1255
+01:10:21,614 --> 01:10:23,149
+É isso! É isso.
+
+1256
+01:10:23,216 --> 01:10:26,486
+Bem, ok, não, essa é apenas a primeira amostra.
+
+1257
+01:10:26,552 --> 01:10:28,756
+Esse é apenas o controle.
+
+1258
+01:10:28,823 --> 01:10:30,324
+Agora preciso reproduzir o experimento.
+
+1259
+01:10:33,493 --> 01:10:34,929
+E...
+
+1260
+01:10:36,896 --> 01:10:39,032
+- É isso! Ali! - Aí está.
+
+1261
+01:10:39,099 --> 01:10:40,900
+- É a estreptococo.
+- Oh Deus!
+
+1262
+01:10:40,967 --> 01:10:42,935
+Jesus.
+
+1263
+01:10:43,002 --> 01:10:44,971
+Este é o U2 Spirit, acabou.
+
+1264
+01:10:45,037 --> 01:10:46,906
+Alguém mais ainda está voando?
+
+1265
+01:10:46,972 --> 01:10:49,109
+Copie, Espírito. Este é Rex, acabou.
+
+1266
+01:10:52,445 --> 01:10:55,349
+Copie, Rex, tenho imagens dos tripés.
+
+1267
+01:10:55,414 --> 01:10:56,850
+A carga útil está preparada.
+
+1268
+01:10:56,917 --> 01:10:59,520
+Tão perto da cidade? Tem certeza?
+
+1269
+01:11:00,921 --> 01:11:03,390
+Rex!
+
+1270
+01:11:03,457 --> 01:11:06,994
+É isso! Armas quentes! Vamos fumar esses bastardos!
+
+1271
+01:11:35,588 --> 01:11:36,890
+O que temos?
+
+1272
+01:11:36,957 --> 01:11:38,191
+OK. Bem, isso é do último paramédico.
+
+1273
+01:11:38,257 --> 01:11:39,559
+Quero dizer, isso causou falhas em todo o sistema.
+
+1274
+01:11:39,626 --> 01:11:40,894
+Ainda está formatando.
+
+1275
+01:11:40,961 --> 01:11:42,628
+- O que diz? - São quatro colunas.
+
+1276
+01:11:42,695 --> 01:11:45,532
+O primeiro é 400, 400.
+
+1277
+01:11:45,599 --> 01:11:46,600
+Isso é uma e outra vez.
+
+1278
+01:11:46,666 --> 01:11:49,601
+E KJ, KJ, repita KJ.
+
+1279
+01:11:49,668 --> 01:11:51,238
+Ok, isso são quilojoules.
+
+1280
+01:11:51,305 --> 01:11:52,405
+Estrondo.
+
+1281
+01:11:53,472 --> 01:11:54,774
+Uau.
+
+1282
+01:11:54,841 --> 01:11:56,076
+Ok, isso é definitivamente um tiroteio.
+
+1283
+01:11:56,143 --> 01:11:57,543
+Eles estão definitivamente se aproximando.
+
+1284
+01:11:57,610 --> 01:11:59,211
+Imagino que há tropas no terreno
+
+1285
+01:11:59,279 --> 01:12:00,514
+que provavelmente estão apenas tentando manter sua posição.
+
+1286
+01:12:00,581 --> 01:12:02,449
+O que diz a terceira coluna?
+
+1287
+01:12:02,515 --> 01:12:06,286
+181818 e depois khz, khz.
+
+1288
+01:12:06,353 --> 01:12:07,386
+Isso é quilohertz.
+
+1289
+01:12:07,453 --> 01:12:09,288
+Então eles estão falando sobre o raio de calor?
+
+1290
+01:12:09,355 --> 01:12:11,724
+Não. Isso é cinco vezes a resistência de um parafuso elétrico.
+
+1291
+01:12:11,792 --> 01:12:13,360
+A eletricidade não circula tão rápido.
+
+1292
+01:12:13,426 --> 01:12:14,627
+Isso é baseado em luz.
+
+1293
+01:12:14,694 --> 01:12:16,764
+Ok, então o que eles estavam dizendo sobre quilojoules?
+
+1294
+01:12:16,829 --> 01:12:18,532
+Bem, 400 é 400.
+
+1295
+01:12:18,599 --> 01:12:21,368
+O 18 é cinco vezes a frequência de um raio de luz.
+
+1296
+01:12:21,435 --> 01:12:24,003
+Se eles não estão falando sobre um raio de calor,
+
+1297
+01:12:24,069 --> 01:12:25,905
+eles estão falando sobre um laser.
+
+1298
+01:12:27,307 --> 01:12:29,208
+Ok, ok, e a última coluna?
+
+1299
+01:12:29,275 --> 01:12:33,145
+Apenas "Reed" repetidamente,
+a cada 15 minutos durante horas.
+
+1300
+01:12:33,212 --> 01:12:34,814
+O fato de haver uma frequência
+
+1301
+01:12:34,881 --> 01:12:37,016
+isso corresponde a um laser de alta potência, me diz
+
+1302
+01:12:37,083 --> 01:12:39,752
+esta é uma arma que podemos usar contra os alienígenas.
+
+1303
+01:12:39,819 --> 01:12:41,988
+Então, se maximizarmos o nosso laser,
+
+1304
+01:12:42,055 --> 01:12:43,624
+poderíamos penetrar seus escudos de energia.
+
+1305
+01:12:43,689 --> 01:12:46,025
+Quero dizer, teoricamente.
+
+1306
+01:12:46,092 --> 01:12:47,426
+Quero dizer, poderia.
+
+1307
+01:12:47,493 --> 01:12:49,762
+Poderia, poderia, poderia. Poderia!
+
+1308
+01:12:49,829 --> 01:12:52,099
+O nosso foi projetado para orientação, no entanto.
+
+1309
+01:12:52,164 --> 01:12:53,600
+Quero dizer, não foi concebido como uma arma.
+
+1310
+01:12:53,666 --> 01:12:56,302
+Talvez pudéssemos dar um, talvez dois tiros.
+
+1311
+01:12:56,369 --> 01:12:58,070
+Então a coisa toda vai derreter
+
+1312
+01:12:58,137 --> 01:12:59,773
+- e seremos alvos fáceis.
+- Certo, certo, certo.
+
+1313
+01:12:59,840 --> 01:13:02,307
+Ok, se você pudesse atirar em um deles e romper seu casco,
+
+1314
+01:13:02,375 --> 01:13:05,845
+Eu poderia usar o sistema de
+distribuição de fumaça e atirar no resto.
+
+1315
+01:13:05,912 --> 01:13:07,814
+Você quer dizer entrar na máquina?
+
+1316
+01:13:07,881 --> 01:13:09,182
+Sim.
+
+1317
+01:13:09,248 --> 01:13:10,550
+Quando tirei a amostra do alienígena,
+
+1318
+01:13:10,617 --> 01:13:12,286
+Eu vi o recipiente de fumaça na cabine.
+
+1319
+01:13:12,353 --> 01:13:14,988
+Eu poderia usar os reagentes para fazer uma dose letal.
+
+1320
+01:13:15,055 --> 01:13:19,059
+Acho que 500 partes por mililitro devem bastar.
+
+1321
+01:13:19,126 --> 01:13:21,695
+Sim, eu poderia borrifar no
+sistema de distribuição de fumaça
+
+1322
+01:13:21,761 --> 01:13:24,163
+no tripé e depois atire no resto deles.
+
+1323
+01:13:24,230 --> 01:13:25,465
+Oh Deus!
+
+1324
+01:13:25,532 --> 01:13:28,001
+Podemos lançar a fumaça deles, isso matará você.
+
+1325
+01:13:28,068 --> 01:13:29,403
+Não. Temos todo esse equipamento de laboratório.
+
+1326
+01:13:29,469 --> 01:13:32,005
+Temos máscaras de proteção química.
+
+1327
+01:13:32,072 --> 01:13:34,140
+Temos o pulverizador que pulverizamos em meteoritos.
+
+1328
+01:13:34,207 --> 01:13:35,943
+- Poderíamos nos proteger.
+- OK.
+
+1329
+01:13:36,010 --> 01:13:37,511
+Aqui.
+
+1330
+01:13:40,247 --> 01:13:41,682
+Preencha isso até o topo.
+
+1331
+01:13:41,747 --> 01:13:44,817
+Quando eles chegarem aqui, geraremos o suficiente.
+
+1332
+01:13:44,885 --> 01:13:46,320
+OK.
+
+1333
+01:13:46,386 --> 01:13:47,653
+E trabalhando.
+
+1334
+01:13:47,720 --> 01:13:51,791
+Eu gostaria que pudéssemos fazer
+algo para atraí-los para cá.
+
+1335
+01:13:51,859 --> 01:13:53,560
+Use o sistema de PA.
+
+1336
+01:13:53,627 --> 01:13:57,130
+Você aproxima o microfone o suficiente
+do receptor e ele retorna.
+
+1337
+01:13:57,197 --> 01:13:58,332
+Você acha que isso vai funcionar?
+
+1338
+01:13:58,399 --> 01:14:00,367
+Não vai soar humano.
+
+1339
+01:14:02,202 --> 01:14:04,570
+Isso é estreptococo, tome cuidado com isso.
+
+1340
+01:14:15,782 --> 01:14:17,318
+Vamos tentar.
+
+1341
+01:14:53,252 --> 01:14:55,655
+Tudo bem, vamos ver se eles mordem a isca.
+
+1342
+01:15:07,900 --> 01:15:09,369
+Está a caminho.
+
+1343
+01:15:27,787 --> 01:15:32,292
+Allie, a potência do laser está no máximo.
+
+1344
+01:15:32,359 --> 01:15:34,528
+Os recursos de energia dizem que vai aguentar.
+
+1345
+01:15:34,594 --> 01:15:36,563
+Eu posso ver isso! Está logo além da linha das árvores!
+
+1346
+01:15:36,628 --> 01:15:38,097
+Estou dirigindo a solução, indo para fora!
+
+1347
+01:15:38,164 --> 01:15:39,431
+Merda!
+
+1348
+01:15:39,498 --> 01:15:41,167
+Aliado, não vá! Não está aguentando!
+
+1349
+01:15:41,234 --> 01:15:44,337
+O circuito não aguentou! Não vá! Segure firme!
+
+1350
+01:15:45,404 --> 01:15:47,039
+Henry, não temos muito tempo!
+
+1351
+01:15:47,106 --> 01:15:51,244
+Eles estarão ao alcance para disparar
+seus raios de calor a qualquer segundo!
+
+1352
+01:15:58,784 --> 01:16:01,054
+OK...
+
+1353
+01:16:26,845 --> 01:16:30,316
+Ok, eu redirecionei toda a energia de tudo
+
+1354
+01:16:30,382 --> 01:16:32,552
+esse não é o laser.
+
+1355
+01:16:32,618 --> 01:16:34,487
+Quero dizer, não há como dizer quantas vezes
+
+1356
+01:16:34,555 --> 01:16:37,257
+Posso disparar esta coisa antes que exploda.
+
+1357
+01:16:37,323 --> 01:16:39,791
+Apenas faça. É tudo que temos.
+
+1358
+01:16:39,859 --> 01:16:41,562
+Qual é a trajetória deles?
+
+1359
+01:16:41,627 --> 01:16:44,965
+Aponte o laser diretamente para o leste.
+Você verá isso a qualquer momento.
+
+1360
+01:16:48,001 --> 01:16:50,471
+Henrique, está aqui.
+
+1361
+01:16:55,507 --> 01:16:56,609
+Deus.
+
+1362
+01:17:10,224 --> 01:17:11,891
+Eu entendi.
+
+1363
+01:17:11,957 --> 01:17:13,559
+Eu entendi, eu entendi, eu entendi.
+
+1364
+01:17:21,167 --> 01:17:22,736
+Sim!
+
+1365
+01:18:00,439 --> 01:18:03,676
+Allie, você está aí? Eu só quero ouvir de você.
+
+1366
+01:18:15,454 --> 01:18:16,957
+Pronto para disparar.
+
+1367
+01:18:29,336 --> 01:18:30,771
+Henrique!
+
+1368
+01:18:53,693 --> 01:18:54,894
+Ah!
+
+1369
+01:18:59,198 --> 01:19:01,301
+Oh!
+
+1370
+01:19:06,072 --> 01:19:07,807
+Ah!
+
+1371
+01:19:53,819 --> 01:19:55,188
+No!
+
+1372
+01:19:55,253 --> 01:19:57,122
+Por aqui!
+
+1373
+01:19:57,189 --> 01:19:58,724
+Venha aqui!
+
+1374
+01:19:59,525 --> 01:20:01,360
+Vamos, seu filho da puta!
+
+1375
+01:20:07,167 --> 01:20:10,971
+General Reed! General Reed!
+
+1376
+01:20:11,037 --> 01:20:12,105
+Por aqui!
+
+1377
+01:20:12,171 --> 01:20:14,473
+Seus escudos estão abaixados!
+
+1378
+01:20:17,176 --> 01:20:18,478
+Aqui!
+
+1379
+01:20:18,545 --> 01:20:19,779
+Não! Por aqui!
+
+1380
+01:20:26,051 --> 01:20:28,054
+Vimos o laser disparando no cume desde a base!
+
+1381
+01:20:28,121 --> 01:20:29,555
+Sabíamos que você estava tentando eliminá-los!
+
+1382
+01:20:29,622 --> 01:20:31,358
+- Continue circulando! - Por aqui!
+
+1383
+01:20:33,693 --> 01:20:37,497
+Por aqui! Por aqui!
+
+1384
+01:20:38,430 --> 01:20:40,067
+Pessoal, olhem para mim!
+
+1385
+01:21:46,032 --> 01:21:47,400
+Vamos.
+
+1386
+01:21:49,735 --> 01:21:51,771
+Eca! Oh!
+
+1387
+01:22:25,305 --> 01:22:27,039
+Aliado!
+
+1388
+01:22:39,286 --> 01:22:40,520
+Aliado!
+
+1389
+01:22:41,319 --> 01:22:42,922
+Venha aqui.
+
+1390
+01:22:44,823 --> 01:22:46,525
+Eu sabia que voce poderia fazer isso.
+
+1391
+01:22:46,591 --> 01:22:49,595
+Venha aqui. Venha aqui, sente-se.
+
+1392
+01:22:52,666 --> 01:22:55,268
+Eu te disse, você é o único irmão que tenho.
+
+1393
+01:22:55,335 --> 01:22:58,371
+Conseguimos! Eu sabia que iríamos!
+
+1394
+01:22:58,438 --> 01:23:01,507
+Você é muito inteligente. É de família, eu acho.
+
+1395
+01:23:01,573 --> 01:23:02,942
+Cale a boca, Henrique.
+
+1396
+01:23:39,345 --> 01:23:41,481
+Você conseguiu. Graças a Deus.
+
+1397
+01:23:41,547 --> 01:23:43,282
+Espere, junho!
+
+1398
+01:23:43,349 --> 01:23:44,382
+Junho está bem
+
+1399
+01:23:44,449 --> 01:23:46,152
+- Mãe! - Bebê.
+
+1400
+01:23:46,217 --> 01:23:48,622
+Eu estava com medo que você não conseguisse voltar!
+
+1401
+01:23:51,457 --> 01:23:52,859
+Como está sua perna?
+
+1402
+01:23:52,926 --> 01:23:55,795
+É melhor. Tudo parece melhor.
+
+1403
+01:23:55,862 --> 01:23:58,998
+Eu concordo, tudo parece melhor.
+
+1404
+01:23:59,064 --> 01:24:01,067
+Ei. Como vai?
+
+1405
+01:24:01,132 --> 01:24:03,235
+Oh meu Deus.
+

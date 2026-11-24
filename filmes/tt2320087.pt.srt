@@ -1,0 +1,3591 @@
+1
+00:00:56,129 --> 00:01:01,066
+ESCREVENDO UMA NOVA VIDA
+
+2
+00:01:01,167 --> 00:01:04,067
+Resync by DanDee
+
+3
+00:02:51,144 --> 00:02:53,044
+PRIMEIRA CLASSE
+
+4
+00:03:24,578 --> 00:03:27,380
+Quando A é menor que zero
+e B é maior que 1...
+
+5
+00:03:27,415 --> 00:03:30,684
+Y é igual a AB elevado a X.
+
+6
+00:03:30,719 --> 00:03:33,987
+Esse é um exemplo de
+crescimento exponencial negativo.
+
+7
+00:03:34,022 --> 00:03:37,090
+Façam uma função exponencial para
+exemplificar o crescimento negativo...
+
+8
+00:03:37,125 --> 00:03:39,859
+e a situação que poderá
+ter como modelo a sua função.
+
+9
+00:03:39,894 --> 00:03:42,362
+Explique a diferença entre
+o crescimento exponencial negativo...
+
+10
+00:03:42,397 --> 00:03:45,799
+e queda exponencial. Reparem que
+as funções de cada gráfico abaixo...
+
+11
+00:03:45,834 --> 00:03:50,634
+são da fórmula
+Y é igual a AB elevado a X.
+
+12
+00:03:52,138 --> 00:03:56,541
+Maggy! Maggy! Maggy!
+Maggy! Maggy! Maggy!
+
+13
+00:04:09,356 --> 00:04:10,516
+Maggy?
+
+14
+00:04:11,758 --> 00:04:13,020
+Maggy?
+
+15
+00:04:13,927 --> 00:04:15,690
+-Maggy?
+-Maggy?
+
+16
+00:04:21,067 --> 00:04:25,872
+Imaginem duas transformações
+ocorrendo no mesmo ponto.
+
+17
+00:04:25,907 --> 00:04:27,840
+Uma translação e uma reflexão.
+
+18
+00:04:30,110 --> 00:04:34,147
+O desempenho da sua filha
+decaiu nas últimas semanas.
+
+19
+00:04:34,182 --> 00:04:37,017
+Estamos preocupados
+com sua falta de foco.
+
+20
+00:04:37,052 --> 00:04:40,748
+Essa é a terceira vez que
+ela dorme na sala de aula.
+
+21
+00:04:42,522 --> 00:04:45,825
+Sabe, Maggy. Você é egoísta
+e irresponsável. Igualzinho ao seu pai.
+
+22
+00:04:45,860 --> 00:04:48,995
+-Só sabe reclamar.
+-Só sabe falar isso, mãe.
+
+23
+00:04:49,030 --> 00:04:53,433
+-Você só vê meus defeitos.
+-Bem, preste atenção.
+
+24
+00:04:53,468 --> 00:04:57,070
+Se suas notas não melhorarem
+imediatamente, pode esquecer a banda.
+
+25
+00:04:57,105 --> 00:04:58,805
+-Está me ouvindo?
+-Não pode fazer isso, mãe!
+
+26
+00:04:58,840 --> 00:05:01,708
+É a única coisa que eu tenho!
+A única coisa em que sou boa!
+
+27
+00:05:01,743 --> 00:05:03,376
+Bem...
+
+28
+00:05:03,411 --> 00:05:06,675
+Tem uma escolha a fazer, Maggy.
+Estou falando sério.
+
+29
+00:05:14,988 --> 00:05:17,691
+-Oi, Maggy.
+-Oi, amigão. Tudo bem?
+
+30
+00:05:17,726 --> 00:05:20,393
+-Tudo. Está triste?
+-Não.
+
+31
+00:05:20,428 --> 00:05:22,696
+Na verdade, estou muito feliz
+em te ver, Michael.
+
+32
+00:05:22,731 --> 00:05:25,290
+Tenho figurinhas novas.
+Quer brincar?
+
+33
+00:05:26,533 --> 00:05:28,364
+Claro. O que tem aí?
+
+34
+00:05:36,476 --> 00:05:38,341
+Abaixe isso!
+
+35
+00:05:52,992 --> 00:05:57,497
+queime a casa
+Você me perdeu nas sombras
+
+36
+00:05:57,532 --> 00:06:01,866
+Estamos respirando isso agora
+Correndo da luz do dia
+
+37
+00:06:29,996 --> 00:06:31,691
+Certo. Já chega por hoje.
+
+38
+00:06:32,198 --> 00:06:35,368
+Vamos tocar mais uma música.
+Só temos mais uma semana.
+
+39
+00:06:35,403 --> 00:06:37,303
+Acho que não estamos prontos
+para fazer esse show.
+
+40
+00:06:37,338 --> 00:06:39,773
+Temos que começar a tocar
+de verdade alguma hora.
+
+41
+00:06:39,808 --> 00:06:42,442
+Eu sei, mas vamos tocar
+em mais algumas festas antes.
+
+42
+00:06:42,477 --> 00:06:45,245
+-Pode ser menos vergonhoso.
+-Como assim, "vergonhoso"?
+
+43
+00:06:45,280 --> 00:06:47,814
+-Não somos tão ruins assim.
+-Qual é, Maggy.
+
+44
+00:06:47,849 --> 00:06:48,803
+O que foi?
+
+45
+00:06:49,449 --> 00:06:52,077
+Todos sabemos por que
+você está na banda.
+
+46
+00:06:53,853 --> 00:06:56,344
+É melhor eu ir também.
+
+47
+00:07:02,328 --> 00:07:04,387
+Qual é o problema dele?
+
+48
+00:07:05,865 --> 00:07:08,891
+Está com inveja.
+Vai superar.
+
+49
+00:07:25,652 --> 00:07:29,155
+-É verdade o que Pete disse?
+-O quê?
+
+50
+00:07:29,190 --> 00:07:31,282
+Que só estou na banda
+por sua causa?
+
+51
+00:07:32,892 --> 00:07:34,655
+Ele não disse isso.
+
+52
+00:07:35,228 --> 00:07:38,898
+Ele não gosta de mim
+e acha que não sei cantar.
+
+53
+00:07:38,933 --> 00:07:42,902
+Maggy, deixa isso pra lá.
+Você tem uma voz linda.
+
+54
+00:07:42,937 --> 00:07:45,496
+Nossa música só é diferente.
+
+55
+00:07:55,882 --> 00:07:59,045
+Por que ainda não levantou?
+A aula começa em dez minutos. Levante!
+
+56
+00:08:02,222 --> 00:08:04,690
+Consigo me arrumar
+em cinco minutos.
+
+57
+00:08:06,259 --> 00:08:08,695
+Quando vai aprender
+a ser responsável, Maggy?
+
+58
+00:08:08,730 --> 00:08:11,664
+Esqueci de colocar o despertador.
+Não é um crime.
+
+59
+00:08:14,267 --> 00:08:17,168
+Detesto matemática.
+Minha mãe vai me odiar.
+
+60
+00:08:17,637 --> 00:08:19,672
+É a segunda prova
+em que levo bomba esse ano.
+
+61
+00:08:19,707 --> 00:08:22,075
+Se me ouvisse,
+não teria esse problema.
+
+62
+00:08:22,110 --> 00:08:24,511
+Minha mãe me mataria
+se me pegassem colando.
+
+63
+00:08:24,546 --> 00:08:28,208
+Por que iriam te pegar? Ela quer que
+suas notas melhorem, certo?
+
+64
+00:08:28,781 --> 00:08:31,045
+Isso vai te animar.
+
+65
+00:08:31,484 --> 00:08:34,888
+O ingresso custa 20 dólares,
+mas vale a pena. Você tem que ir.
+
+66
+00:08:34,923 --> 00:08:37,357
+Pode levar o Jay, se quiser.
+Conheço o guitarrista.
+
+67
+00:08:37,392 --> 00:08:39,893
+Podemos ir nos bastidores
+e ficar com a banda.
+
+68
+00:08:39,928 --> 00:08:42,929
+-Não dar ótimos conselhos para você.
+-Isso seria muito legal.
+
+69
+00:08:42,964 --> 00:08:45,164
+O Fred me disse que vão assinar
+com uma grande gravadora...
+
+70
+00:08:45,199 --> 00:08:48,868
+e sair em turnê nacional.
+Devia mesmo conhecê-los.
+
+71
+00:08:48,903 --> 00:08:53,396
+-Sim. Obrigada, Kimmy. Você é demais.
+-Para que servem as amigas? Até amanhã.
+
+72
+00:09:18,631 --> 00:09:20,155
+CARTAS
+
+73
+00:09:46,626 --> 00:09:48,428
+Minha querida Maggy...
+
+74
+00:09:48,463 --> 00:09:51,664
+espero que quando ler essa carta,
+você esteja bem de saúde.
+
+75
+00:09:51,699 --> 00:09:56,402
+Já faz tempo que eu queria
+lhe escrever. Estou velho agora...
+
+76
+00:09:56,437 --> 00:09:58,870
+e gostaria de saber o que aconteceu
+com você durante todos esses anos.
+
+77
+00:09:59,839 --> 00:10:04,742
+Espero que goste da sua vida
+e da fonte da qual ela brota.
+
+78
+00:10:04,844 --> 00:10:08,348
+Lembre-se sempre de que
+você é bonita e graciosa...
+
+79
+00:10:08,383 --> 00:10:11,476
+e que está aqui
+por um propósito singular.
+
+80
+00:10:12,719 --> 00:10:15,288
+Sei que a vida pode ser difícil.
+
+81
+00:10:15,323 --> 00:10:18,324
+É fácil perder de vista as coisas
+que realmente importam.
+
+82
+00:10:18,359 --> 00:10:23,284
+Mas espero que, lá no fundo, você
+saiba o que é precioso na sua vida.
+
+83
+00:10:24,097 --> 00:10:26,799
+Lembre-se de fazer pelo menos
+uma coisa todos os dias...
+
+84
+00:10:26,834 --> 00:10:29,927
+que dê sentido à sua existência.
+
+85
+00:10:34,340 --> 00:10:38,411
+Olhe ao redor em busca de mensagens
+ocultas de beleza e verdade.
+
+86
+00:10:38,446 --> 00:10:42,181
+Pode encontrá-las em todas
+as árvores e flores...
+
+87
+00:10:42,216 --> 00:10:44,877
+em todo ser humano.
+
+88
+00:10:44,984 --> 00:10:49,656
+Estamos todos ligados
+e esperamos o incentivo...
+
+89
+00:10:49,691 --> 00:10:52,284
+a compreensão
+e o amor do próximo.
+
+90
+00:10:53,092 --> 00:10:55,962
+" Espero que saiba
+que é profundamente amada.
+
+91
+00:10:55,997 --> 00:11:01,628
+Muitos lhe admiram e encontram em você
+um exemplo que os inspira e os anima."
+
+92
+00:11:02,535 --> 00:11:04,696
+O que acha disso?
+
+93
+00:11:05,705 --> 00:11:08,503
+Eu sei. Quem escreve assim?
+
+94
+00:11:10,610 --> 00:11:17,106
+Não pode ser ninguém da escola.
+É a letra de uma pessoa mais velha.
+
+95
+00:11:18,584 --> 00:11:21,417
+Está assinado por alguém
+chamado Sam.
+
+96
+00:11:21,988 --> 00:11:25,890
+Minha mãe acabou de chegar.
+Tenho que ir. Tchau.
+
+97
+00:11:27,960 --> 00:11:30,697
+" Obrigado por ser
+uma pessoa tão boa.
+
+98
+00:11:30,732 --> 00:11:34,333
+Desde pequena, você estava
+destinada a grandes coisas.
+
+99
+00:11:34,368 --> 00:11:37,737
+Seus pais sempre souberam
+que tinha um espírito especial.
+
+100
+00:11:37,772 --> 00:11:42,108
+Você tem o dom de fazer outras pessoas
+se sentirem bem com elas mesmas...
+
+101
+00:11:42,143 --> 00:11:44,269
+de ser gentil e atenciosa.
+
+102
+00:11:47,046 --> 00:11:51,017
+Que o Senhor sempre te abençoe.
+Seu amigo, Sam."
+
+103
+00:11:51,052 --> 00:11:54,817
+Não tem endereço, mas diz que
+o sobrenome dele é Worthington.
+
+104
+00:11:55,388 --> 00:11:58,755
+-Sam Worthington?
+-Sam Worthington?
+
+105
+00:11:59,625 --> 00:12:04,528
+-Não faço ideia de quem seja, Maggy.
+-Mas deve conhecê-lo, mãe.
+
+106
+00:12:04,864 --> 00:12:08,356
+Ele deve ser um parente
+ou um velho amigo.
+
+107
+00:12:08,634 --> 00:12:13,333
+Se for, acho que pode
+ser um primo distante...
+
+108
+00:12:14,373 --> 00:12:17,399
+ou talvez alguém
+da família do seu pai.
+
+109
+00:12:18,344 --> 00:12:22,582
+Eu gostaria de ajudar, querida, mas
+não lembro de ninguém com esse nome.
+
+110
+00:12:22,617 --> 00:12:24,675
+Tenho que ir.
+
+111
+00:12:25,518 --> 00:12:27,509
+Até mais tarde.
+
+112
+00:12:52,411 --> 00:12:55,778
+-Talvez seja uma brincadeira.
+-Uma brincadeira?
+
+113
+00:12:56,249 --> 00:12:59,412
+Mas é muito gentil,
+do fundo do coração.
+
+114
+00:12:59,852 --> 00:13:02,150
+Como se eu fosse
+a melhor pessoa do mundo.
+
+115
+00:13:02,588 --> 00:13:06,292
+Isso é estranho.
+Talvez seja uma brincadeira gentil.
+
+116
+00:13:06,327 --> 00:13:10,329
+-Mas quem faria isso?
+-Vocês vieram.
+
+117
+00:13:10,364 --> 00:13:11,921
+Venham comigo.
+
+118
+00:13:15,168 --> 00:13:18,763
+SALÃO
+
+119
+00:13:19,806 --> 00:13:22,141
+-Oi, Fred.
+-Oi.
+
+120
+00:13:22,176 --> 00:13:26,612
+Então, esses são Maggy e Jay,
+da banda The Threshold que te falei.
+
+121
+00:13:26,647 --> 00:13:30,583
+-Oi. Obrigado por terem vindo.
+-Estamos animados para ver vocês.
+
+122
+00:13:30,618 --> 00:13:33,920
+-Ouvimos muita coisa boa sobre vocês.
+-Estamos muito animados.
+
+123
+00:13:33,955 --> 00:13:38,050
+-Vocês são demais.
+-Obrigado. Estamos animados para tocar.
+
+124
+00:13:40,593 --> 00:13:43,095
+-Quero te fazer uma pergunta.
+-Claro.
+
+125
+00:13:43,130 --> 00:13:45,631
+O que eles teriam de fazer
+para abrir um show...
+
+126
+00:13:45,666 --> 00:13:47,826
+ou tocar em um lugar assim?
+
+127
+00:13:49,001 --> 00:13:52,266
+Podem gravar uma demo
+com algumas músicas.
+
+128
+00:13:52,605 --> 00:13:56,803
+Tocar em algumas festas,
+fazer shows pequenos...
+
+129
+00:13:57,243 --> 00:13:58,911
+-e ir subindo devagar, sabem?
+-Eles são muito bons.
+
+130
+00:13:58,946 --> 00:14:01,180
+-O Jay é um ótimo guitarrista.
+-É mesmo?
+
+131
+00:14:01,215 --> 00:14:03,683
+Devia ouvi-lo tocar.
+Toque alguma coisa, Jay.
+
+132
+00:14:03,718 --> 00:14:05,484
+-Não, tudo bem.
+-Vamos lá.
+
+133
+00:14:05,519 --> 00:14:10,581
+Tome. Pode usar esse.
+Só vamos tocar daqui a meia hora.
+
+134
+00:14:19,298 --> 00:14:23,257
+-O que você toca, Maggy?
+-Nada.
+
+135
+00:14:23,469 --> 00:14:27,235
+Ela tem uma voz linda.
+Devia ouvir.
+
+136
+00:14:30,610 --> 00:14:32,339
+Cante, Maggy.
+
+137
+00:14:33,212 --> 00:14:34,736
+Não, tudo bem.
+
+138
+00:15:09,849 --> 00:15:11,646
+Mãe?
+
+139
+00:16:06,272 --> 00:16:08,474
+-Como foi?
+-Bem o bastante.
+
+140
+00:16:08,509 --> 00:16:10,109
+Você podia ter ido também.
+
+141
+00:16:10,144 --> 00:16:11,811
+Não sei por que sou
+uma grande fracassada.
+
+142
+00:16:11,846 --> 00:16:15,577
+Lembre-se que é um exemplo
+que inspira e anima.
+
+143
+00:16:15,781 --> 00:16:18,341
+Ainda não faço ideia
+de quem escreveu essa carta.
+
+144
+00:16:20,319 --> 00:16:23,856
+-Talvez eu vá visitar meu pai hoje.
+-Achei que estivesse cheia dele.
+
+145
+00:16:23,891 --> 00:16:28,694
+Estou... Mais ou menos. Mas talvez
+ele saiba quem é esse tal de Sam.
+
+146
+00:16:28,729 --> 00:16:30,252
+Boa sorte com isso.
+
+147
+00:16:42,641 --> 00:16:43,665
+Maggy?
+
+148
+00:16:45,111 --> 00:16:50,708
+-Oi. Meu pai está em casa?
+-Sim, entre.
+
+149
+00:17:05,998 --> 00:17:07,590
+Você cresceu.
+
+150
+00:17:13,839 --> 00:17:15,807
+Como está a sua mãe?
+
+151
+00:17:16,742 --> 00:17:19,905
+Bem. Ela se preocupa muito.
+
+152
+00:17:22,381 --> 00:17:25,714
+Como está a escola?
+Ou você já terminou?
+
+153
+00:17:28,120 --> 00:17:30,054
+A escola vai bem.
+
+154
+00:17:38,230 --> 00:17:42,360
+Ouça, pai.
+Recebi uma carta outro dia.
+
+155
+00:17:42,668 --> 00:17:46,536
+É de um cara chamado Sam Worthington.
+Você sabe quem é?
+
+156
+00:17:47,373 --> 00:17:49,466
+Sam Worthington?
+
+157
+00:17:49,809 --> 00:17:53,768
+-Não. Nunca ouvi falar.
+-Tem certeza?
+
+158
+00:17:58,684 --> 00:18:00,619
+A caligrafia parece
+de uma pessoa mais velha.
+
+159
+00:18:00,654 --> 00:18:02,917
+Sim, foi o que pensei.
+
+160
+00:18:07,359 --> 00:18:09,657
+Desculpe por não poder te ajudar.
+
+161
+00:18:11,897 --> 00:18:13,455
+Tudo bem.
+
+162
+00:18:14,667 --> 00:18:17,329
+Você devia vir
+nos visitar mais vezes.
+
+163
+00:18:31,183 --> 00:18:35,955
+Às vezes, pode se sentir sozinha
+nesse mundo, mas não está.
+
+164
+00:18:35,990 --> 00:18:39,358
+Alguém está cuidando de você
+e abençoando a sua vida...
+
+165
+00:18:39,393 --> 00:18:42,657
+mesmo que, às vezes,
+não pareça.
+
+166
+00:18:43,496 --> 00:18:48,667
+Sua felicidade é a recompensa
+da felicidade que causa nos outros.
+
+167
+00:18:48,702 --> 00:18:53,506
+Garanto que se você se doar,
+receberá em troca...
+
+168
+00:18:53,541 --> 00:18:57,840
+as bênçãos de uma vida
+cheia de propósito e alegria.
+
+169
+00:19:02,548 --> 00:19:03,776
+Certo.
+
+170
+00:19:09,421 --> 00:19:15,060
+Aqui. Espero que possam ir.
+Aqui. Oi, vocês deviam ir. Vai ser bom.
+
+171
+00:19:15,095 --> 00:19:17,596
+Pelo que ouvi,
+você nem sabe cantar.
+
+172
+00:19:17,631 --> 00:19:19,798
+É mesmo?
+O que sabe sobre isso?
+
+173
+00:19:19,833 --> 00:19:21,629
+Só está com inveja
+porque não está em uma banda.
+
+174
+00:19:28,707 --> 00:19:31,505
+CORREIO
+
+175
+00:19:34,513 --> 00:19:36,276
+Obrigada.
+
+176
+00:19:39,451 --> 00:19:40,440
+Oi.
+
+177
+00:19:42,621 --> 00:19:46,192
+Se essa carta foi carimbada aqui,
+deve ter sido deixada aqui, certo?
+
+178
+00:19:46,227 --> 00:19:47,826
+Isso mesmo.
+
+179
+00:19:47,861 --> 00:19:51,592
+Posso perguntar uma coisa?
+É muito importante.
+
+180
+00:19:52,298 --> 00:19:56,602
+"Espero que mantenha
+o espírito alegre e que esteja bem.
+
+181
+00:19:56,637 --> 00:20:00,873
+Por ora, lhe envio um profundo
+sentimento de gratidão e alegria."
+
+182
+00:20:00,908 --> 00:20:05,377
+É uma bela carta. Tem certeza
+de que não sabe quem a escreveu?
+
+183
+00:20:05,412 --> 00:20:08,005
+Parece alguém
+que te conhece muito bem.
+
+184
+00:20:08,614 --> 00:20:10,878
+Isso é que é estranho.
+
+185
+00:20:12,751 --> 00:20:13,979
+Nada.
+
+186
+00:20:15,521 --> 00:20:17,284
+Oi, Bob.
+
+187
+00:20:18,724 --> 00:20:21,393
+Sim. Acho que sei
+quem escreveu essa carta.
+
+188
+00:20:21,428 --> 00:20:22,828
+-É mesmo?
+-Sim.
+
+189
+00:20:22,863 --> 00:20:27,032
+Não sei quem é exatamente,
+mas é alguém do Asilo Maple Hill.
+
+190
+00:20:27,067 --> 00:20:29,557
+Pego uma dessa todo dia.
+
+191
+00:20:32,137 --> 00:20:33,263
+Aqui está.
+
+192
+00:20:55,794 --> 00:20:59,958
+Oi. Estou procurando alguém
+chamado Sam Worthington.
+
+193
+00:21:02,401 --> 00:21:05,029
+Não temos ninguém aqui
+com esse nome.
+
+194
+00:21:05,871 --> 00:21:07,668
+Pode verificar?
+
+195
+00:21:18,217 --> 00:21:21,787
+-Não. Desculpe.
+-Mas isso é impossível.
+
+196
+00:21:21,822 --> 00:21:23,778
+Ele tem que morar aqui.
+
+197
+00:21:53,519 --> 00:21:55,646
+Você é Sam Worthington?
+
+198
+00:21:56,855 --> 00:21:58,948
+Quem quer saber?
+
+199
+00:22:00,993 --> 00:22:02,761
+Acho que me escreveu uma carta.
+
+200
+00:22:02,796 --> 00:22:05,059
+O que a faz pensar
+que lhe escrevi uma carta?
+
+201
+00:22:05,497 --> 00:22:09,835
+-Seu carteiro me disse.
+-É impossível. Há leis de privacidade.
+
+202
+00:22:09,870 --> 00:22:13,202
+-Pode processá-lo.
+-Talvez eu faça isso.
+
+203
+00:22:14,173 --> 00:22:15,868
+Então escreveu essa carta?
+
+204
+00:22:19,878 --> 00:22:23,370
+Está me fazendo perguntas
+muito pessoais, mocinha.
+
+205
+00:22:23,649 --> 00:22:26,948
+Você me escreveu uma carta
+muito pessoal, Sam Worthington.
+
+206
+00:22:31,924 --> 00:22:34,017
+Então escolhe os nomes
+na lista telefônica?
+
+207
+00:22:34,760 --> 00:22:38,161
+-Talvez.
+-Mas não estou na lista.
+
+208
+00:22:38,564 --> 00:22:41,397
+-Não pode ser.
+-Não estou.
+
+209
+00:22:52,177 --> 00:22:54,546
+O nome da minha mãe é Nancy
+e esse é o meu endereço...
+
+210
+00:22:54,581 --> 00:22:57,282
+mas não sei quem é
+essa Maggy Fuller.
+
+211
+00:22:57,317 --> 00:23:01,378
+Deve ter visto o nome errado
+quando escreveu o endereço.
+
+212
+00:23:01,620 --> 00:23:04,145
+Isso não é estranho?
+
+213
+00:23:05,124 --> 00:23:08,227
+Sam Worthington
+é o meu pseudônimo.
+
+214
+00:23:08,262 --> 00:23:11,730
+Seu pseudônimo para escrever cartas
+para pessoas que não conhece?
+
+215
+00:23:11,765 --> 00:23:15,634
+Sim, isso mesmo.
+Olhe para mim, estou velho.
+
+216
+00:23:15,669 --> 00:23:19,070
+Não saio mais tanto assim.
+Tenho que fazer alguma coisa.
+
+217
+00:23:19,605 --> 00:23:21,874
+Sim, mas por que escrever cartas
+para pessoas que não conhece?
+
+218
+00:23:21,909 --> 00:23:25,867
+Sou bom nisso.
+Não gostou da sua carta?
+
+219
+00:23:26,311 --> 00:23:29,782
+Sim, com certeza. Mas fiquei louca
+por não saber quem a escreveu.
+
+220
+00:23:29,817 --> 00:23:32,618
+Faz alguma diferença
+quem escreveu?
+
+221
+00:23:32,653 --> 00:23:36,755
+Achei que fosse um parente,
+alguém que conhece os meus pais.
+
+222
+00:23:36,790 --> 00:23:39,091
+Viu? Não é o bastante?
+
+223
+00:23:39,126 --> 00:23:42,527
+Por que teve que bisbilhotar
+e me encontrar?
+
+224
+00:23:43,195 --> 00:23:44,958
+Não sei.
+
+225
+00:23:45,597 --> 00:23:49,226
+É a única pessoa que disse
+algo de bom sobre mim.
+
+226
+00:23:50,469 --> 00:23:55,040
+-E agora nem significa nada.
+-Não diga isso.
+
+227
+00:23:55,075 --> 00:23:57,643
+Cada palavra saiu
+do fundo do meu coração.
+
+228
+00:23:57,678 --> 00:24:01,513
+-Você nem me conhece.
+-Mocinha, se eu sou a única pessoa...
+
+229
+00:24:01,548 --> 00:24:06,917
+que disse algo de bom sobre você,
+então a conheço melhor do que ninguém.
+
+230
+00:24:15,360 --> 00:24:18,523
+-Michael, ainda está acordado?
+-Não consigo dormir.
+
+231
+00:24:24,903 --> 00:24:27,929
+-Quer ler uma história para mim?
+-Claro.
+
+232
+00:24:32,211 --> 00:24:34,713
+"A neve branca
+de novembro destaca...
+
+233
+00:24:34,748 --> 00:24:38,684
+o vermelho e o verde
+do Natal de dezembro.
+
+234
+00:24:38,719 --> 00:24:40,719
+Nos lugares em que
+as crianças brincavam...
+
+235
+00:24:40,754 --> 00:24:43,916
+elas viam os sinais
+de que o Natal chegaria logo."
+
+236
+00:25:18,490 --> 00:25:21,894
+Conheço um estúdio de gravação que
+faz preços especiais para bandas novas.
+
+237
+00:25:21,929 --> 00:25:24,830
+Por 200 dólares,
+podem gravar três músicas.
+
+238
+00:25:24,865 --> 00:25:28,100
+-O que é perfeito para uma demo.
+-Precisamos de uma boa demo...
+
+239
+00:25:28,135 --> 00:25:29,801
+se queremos fazer mais shows.
+
+240
+00:25:29,836 --> 00:25:34,106
+Normalmente agendam para daqui a alguns
+meses, mas têm uma vaga amanhã à tarde.
+
+241
+00:25:34,141 --> 00:25:37,200
+Vocês terão de pagar adiantado,
+mas o CD é mixado na hora.
+
+242
+00:25:37,609 --> 00:25:40,646
+Isso é demais, Kimmy.
+Devia ser a nossa agente.
+
+243
+00:25:40,681 --> 00:25:42,180
+Eu sei. É divertido.
+
+244
+00:25:42,215 --> 00:25:45,384
+E podemos recuperar esse valor
+facilmente com um ou dois shows.
+
+245
+00:25:45,419 --> 00:25:48,353
+-Temos que fazer.
+-Também acho.
+
+246
+00:25:48,388 --> 00:25:49,820
+Eu também.
+
+247
+00:25:51,456 --> 00:25:53,390
+Tudo bem. Estou dentro.
+
+248
+00:26:13,111 --> 00:26:14,237
+Estou indo.
+
+249
+00:26:16,682 --> 00:26:21,210
+-Não me falou que foi ver seu pai.
+-Como descobriu?
+
+250
+00:26:21,520 --> 00:26:23,283
+Ele ligou hoje.
+
+251
+00:26:25,190 --> 00:26:28,956
+Queria saber se você gostaria
+de almoçar com ele na semana que vem.
+
+252
+00:26:29,528 --> 00:26:32,331
+-Por quê?
+-Não sei.
+
+253
+00:26:32,366 --> 00:26:35,528
+Talvez você o tenha lembrado
+de que ele é seu pai.
+
+254
+00:26:38,937 --> 00:26:39,904
+Mãe?
+
+255
+00:26:40,772 --> 00:26:43,138
+Pode me emprestar 50 dólares?
+
+256
+00:26:44,676 --> 00:26:48,407
+-Para quê?
+-Minha banda está fazendo uma demo.
+
+257
+00:26:48,847 --> 00:26:53,251
+Maggie, já conversamos sobre isso.
+Não tenho 50 dólares sobrando.
+
+258
+00:26:53,286 --> 00:26:55,687
+E preciso ver alguma melhora
+na escola primeiro.
+
+259
+00:26:55,722 --> 00:26:59,024
+Isso é muito importante para mim.
+Eu devolvo o dinheiro.
+
+260
+00:26:59,059 --> 00:27:02,561
+Não posso deixar a minha banda na mão.
+Prometo que vou melhorar na escola.
+
+261
+00:27:02,596 --> 00:27:04,256
+Desculpe, Maggy.
+
+262
+00:27:04,963 --> 00:27:07,955
+Primeiro vai ter que me provar
+que é responsável.
+
+263
+00:27:10,068 --> 00:27:13,765
+Outras mães apoiariam
+os talentos dos filhos, mas...
+
+264
+00:27:14,306 --> 00:27:17,009
+você não liga para o que é
+importante pra mim.
+
+265
+00:27:17,044 --> 00:27:21,412
+Vou te apoiar quando
+definir suas prioridades.
+
+266
+00:28:10,095 --> 00:28:14,599
+queime a casa
+Você me perdeu nas sombras
+
+267
+00:28:14,634 --> 00:28:18,770
+Estamos respirando isso agora
+Correndo da luz do dia
+
+268
+00:28:18,805 --> 00:28:23,275
+Eu exagero
+Grito como um demônio
+
+269
+00:28:23,310 --> 00:28:27,713
+Estou me sentindo tão mal
+Está queimando aqui
+
+270
+00:28:27,748 --> 00:28:31,950
+Cavo fundo em cinzas
+Caio como pó
+
+271
+00:28:31,985 --> 00:28:36,410
+Fotos e dinheiro
+Isso não importa
+
+272
+00:28:45,964 --> 00:28:48,300
+ABERTO
+
+273
+00:28:48,335 --> 00:28:51,036
+-Cara, nós arrasamos!
+-Com certeza.
+
+274
+00:28:51,071 --> 00:28:53,872
+-Ele disse que irá tocar logo.
+-É isso aí!
+
+275
+00:28:53,907 --> 00:28:57,569
+Essa foi a melhor experiência de todas.
+Eu podia fazer isso pelo resto da vida.
+
+276
+00:28:58,110 --> 00:29:00,305
+Tom disse que fizeram
+um ótimo trabalho.
+
+277
+00:29:05,751 --> 00:29:07,552
+queime a casa
+
+278
+00:29:07,587 --> 00:29:10,248
+É muito legal ouvir
+o seu som bem gravado.
+
+279
+00:29:10,722 --> 00:29:13,458
+-A propósito, adorei o seu solo.
+-Valeu, cara.
+
+280
+00:29:13,493 --> 00:29:16,194
+Com essa demo, podemos organizar
+nossa primeira turnê.
+
+281
+00:29:16,229 --> 00:29:18,363
+Parece que somos
+uma banda de verdade agora.
+
+282
+00:29:18,398 --> 00:29:20,695
+-À banda.
+-À banda.
+
+283
+00:29:25,470 --> 00:29:28,132
+Hoje foi o melhor dia
+da minha vida.
+
+284
+00:29:29,674 --> 00:29:33,542
+-Graças a você.
+-Eu não fiz nada.
+
+285
+00:29:33,745 --> 00:29:36,270
+Você me deixou fazer
+o teste para banda.
+
+286
+00:29:37,048 --> 00:29:38,982
+Acreditou em mim.
+
+287
+00:29:47,125 --> 00:29:48,592
+Eu te amo, Jay.
+
+288
+00:29:50,695 --> 00:29:52,356
+Também te amo, gatinha.
+
+289
+00:30:46,251 --> 00:30:49,516
+Aí está você.
+Eu estava te esperando.
+
+290
+00:30:49,821 --> 00:30:52,724
+-Sabia que eu vinha?
+-Claro que sim.
+
+291
+00:30:52,759 --> 00:30:55,160
+-Quem é o sortudo de hoje?
+-Não sei...
+
+292
+00:30:55,195 --> 00:30:58,061
+mas tenho um bom
+pressentimento sobre esse.
+
+293
+00:30:59,030 --> 00:31:01,266
+Teve um bom pressentimento
+quando escreveu a minha?
+
+294
+00:31:01,301 --> 00:31:05,635
+Um pressentimento muito bom,
+tipo "presente dos céus".
+
+295
+00:31:06,071 --> 00:31:08,005
+A propósito, obrigado por isso.
+
+296
+00:31:08,807 --> 00:31:11,910
+-Então escreve uma por dia?
+-Sim. Tenho que fazer isso todo dia...
+
+297
+00:31:11,945 --> 00:31:15,580
+-ou não vai acontecer.
+-Aonde vamos?
+
+298
+00:31:15,615 --> 00:31:17,377
+Você vai ver.
+
+299
+00:31:18,049 --> 00:31:21,416
+-Olá, Stanley.
+-Stanley?
+
+300
+00:31:22,053 --> 00:31:26,786
+Stanley é o meu nome verdadeiro.
+Ainda pode me chamar de Sam.
+
+301
+00:31:27,125 --> 00:31:31,562
+Minha querida Stella, quero que
+conheça minha grande amiga, Maggy.
+
+302
+00:31:31,897 --> 00:31:36,698
+-Stella, Maggy. Maggy, Stella.
+-Está pronta para se divertir?
+
+303
+00:31:37,102 --> 00:31:42,107
+O que vamos fazer? O Sam...
+O Stanley ainda não me disse.
+
+304
+00:31:42,142 --> 00:31:46,441
+Vai abençoar a vida de outras pessoas.
+É muito divertido.
+
+305
+00:31:46,645 --> 00:31:50,315
+Te vejo hoje à noite, Stanley.
+Foi um prazer conhecê-la.
+
+306
+00:31:50,350 --> 00:31:52,249
+Igualmente, Stella.
+
+307
+00:31:55,153 --> 00:31:57,856
+-Um por envelope.
+-Para que isso?
+
+308
+00:31:57,891 --> 00:32:01,660
+São recadinhos para pessoas
+que precisam deles hoje.
+
+309
+00:32:01,695 --> 00:32:05,997
+-Como sabe quem precisa?
+-Você sente no coração.
+
+310
+00:32:06,032 --> 00:32:09,865
+Precisa de um pouco de prática,
+mas fica cada vez mais fácil.
+
+311
+00:32:09,968 --> 00:32:13,705
+Então escreve cartas
+e recadinhos todo dia?
+
+312
+00:32:13,740 --> 00:32:16,765
+Tenho que ter um motivo
+para sair um pouco.
+
+313
+00:32:17,108 --> 00:32:18,666
+E quem as recebe?
+
+314
+00:32:19,377 --> 00:32:23,473
+Ainda não sei.
+Vamos dar uma olhada.
+
+315
+00:32:31,356 --> 00:32:35,417
+-Sente alguma coisa?
+-Eu? Na verdade, não.
+
+316
+00:32:36,294 --> 00:32:38,888
+Também não tenho certeza.
+
+317
+00:32:45,603 --> 00:32:49,369
+Sentiu alguma coisa?
+Eu também.
+
+318
+00:33:04,889 --> 00:33:06,191
+O que falou para ela?
+
+319
+00:33:06,226 --> 00:33:09,561
+Que escrevi dez notas
+de encorajamento esta manhã...
+
+320
+00:33:09,596 --> 00:33:13,031
+e que quando passei,
+senti que uma era para ela.
+
+321
+00:33:13,066 --> 00:33:15,133
+-E o que ela disse?
+-"Obrigada".
+
+322
+00:33:15,168 --> 00:33:18,899
+-Só isso?
+-O que queria que ela dissesse?
+
+323
+00:33:45,964 --> 00:33:47,829
+Vá em frente.
+
+324
+00:33:48,166 --> 00:33:50,760
+-Eu?
+-Claro.
+
+325
+00:34:24,636 --> 00:34:27,628
+Não foi tão ruim, foi?
+
+326
+00:34:27,939 --> 00:34:31,409
+Mas talvez deva me deixar ler as notas
+antes de entregá-las para alguém.
+
+327
+00:34:31,444 --> 00:34:33,900
+Vai lá saber o que escreveu.
+
+328
+00:34:36,981 --> 00:34:38,573
+Obrigada!
+
+329
+00:35:38,376 --> 00:35:41,946
+Há um equilíbrio em todas as coisas.
+Se você dá, recebe.
+
+330
+00:35:41,981 --> 00:35:44,437
+Se der muito, será rica.
+
+331
+00:35:45,316 --> 00:35:48,119
+Entendo o que quer dizer,
+mas acho que não é tão simples assim.
+
+332
+00:35:48,154 --> 00:35:52,215
+A maioria das pessoas está absorta
+em suas vidas para enxergar isso.
+
+333
+00:35:53,391 --> 00:35:55,760
+Talvez tenham tentado,
+mas não deu certo...
+
+334
+00:35:55,795 --> 00:35:58,129
+-então pararam de tentar.
+-Mas dá certo.
+
+335
+00:35:58,164 --> 00:36:03,001
+Se você se doar, será recompensado.
+A vida é como um espelho.
+
+336
+00:36:03,036 --> 00:36:06,404
+Você é o reflexo
+das pessoas ao seu redor.
+
+337
+00:36:06,439 --> 00:36:09,674
+-Como meus amigos.
+-Sim, como eles.
+
+338
+00:36:09,709 --> 00:36:14,679
+Por exemplo, se alguém rouba
+ou é desonesto em proveito próprio...
+
+339
+00:36:14,714 --> 00:36:20,084
+atrai pessoas para sua vida que
+também roubam e são desonestas.
+
+340
+00:36:20,119 --> 00:36:24,689
+O bom é que pode escolher
+quem e o que entra na sua vida.
+
+341
+00:36:24,724 --> 00:36:29,327
+Se quer pessoas boas e prestativas
+à sua volta, seja boa e prestativa.
+
+342
+00:36:29,362 --> 00:36:32,558
+É mágico e funciona para mim.
+
+343
+00:36:33,164 --> 00:36:36,361
+Normalmente não sou boa
+e prestativa.
+
+344
+00:36:37,068 --> 00:36:40,572
+Você não me conhece.
+Sou uma pessoa muito má.
+
+345
+00:36:40,607 --> 00:36:45,009
+Já disse que te conheço bem.
+Foi boa e prestativa comigo.
+
+346
+00:36:45,044 --> 00:36:50,174
+Tive sorte de receber isso de você.
+Viu? Funciona para mim.
+
+347
+00:36:54,619 --> 00:36:57,417
+-Posso ficar com um desses?
+-Claro.
+
+348
+00:36:58,389 --> 00:37:01,586
+-Isso significa que ainda sobrou um.
+-É melhor se livrar dele logo.
+
+349
+00:37:03,194 --> 00:37:05,389
+-Aqui está sua conta.
+-Obrigado.
+
+350
+00:37:12,704 --> 00:37:16,663
+-Eu inventei isso.
+-Não inventou, não.
+
+351
+00:37:19,143 --> 00:37:20,701
+Foi mesmo?
+
+352
+00:37:22,714 --> 00:37:27,742
+-Olá, Stella.
+-Estão de volta. Se divertiram?
+
+353
+00:37:29,420 --> 00:37:32,651
+É melhor fazer isso de novo
+em breve. Vira um vício.
+
+354
+00:37:33,224 --> 00:37:36,628
+Talvez na semana que vem.
+Tenho um show na sexta.
+
+355
+00:37:36,663 --> 00:37:39,931
+Uma show?.
+Que instrumento você toca?
+
+356
+00:37:39,966 --> 00:37:43,334
+Nenhum. Sou só a cantora.
+
+357
+00:37:43,369 --> 00:37:48,873
+Só? A voz é o instrumento
+mais belo de todos.
+
+358
+00:37:48,908 --> 00:37:52,277
+-A Stella era cantora de ópera.
+-Por que não apoiamos a Maggy...
+
+359
+00:37:52,312 --> 00:37:55,780
+-e vamos ao seu show?.
+-É uma ótima ideia.
+
+360
+00:37:55,815 --> 00:37:59,884
+Não. Acho que não vão gostar.
+Não é esse tipo de show.
+
+361
+00:37:59,919 --> 00:38:02,079
+É com a minha banda.
+É meio barulhento.
+
+362
+00:38:02,654 --> 00:38:07,058
+-É música para...
+-Jovens?
+
+363
+00:38:07,093 --> 00:38:12,428
+Não para velhos como nós?
+Vamos envergonhá-la se formos.
+
+364
+00:38:13,097 --> 00:38:17,368
+-Não foi isso...
+-Por que não nos deixa decidir?
+
+365
+00:38:17,403 --> 00:38:20,132
+Não somos tão velhos
+quanto parecemos, sabia?
+
+366
+00:38:41,826 --> 00:38:44,662
+Bom trabalho, Maggy.
+Finalmente vi alguma melhora.
+
+367
+00:38:44,697 --> 00:38:47,688
+-Continue assim.
+-Obrigada.
+
+368
+00:38:48,399 --> 00:38:52,529
+Nada mal, Maggy. Parece que,
+finalmente, pegou o jeito.
+
+369
+00:38:53,004 --> 00:38:57,441
+-Minha mãe vai ficar feliz.
+-De nada.
+
+370
+00:39:00,945 --> 00:39:06,076
+Me sinto culpado por negligenciar você
+todos esses anos.
+
+371
+00:39:07,652 --> 00:39:09,882
+Sinto muito.
+
+372
+00:39:13,057 --> 00:39:16,618
+Só estou curiosa para saber por que
+demorou tanto para perceber isso.
+
+373
+00:39:17,128 --> 00:39:19,897
+Não é como se eu vivesse
+em outro planeta.
+
+374
+00:39:19,932 --> 00:39:22,233
+É complicado.
+
+375
+00:39:22,268 --> 00:39:26,033
+Não queria te deixar confusa.
+Nem a sua mãe.
+
+376
+00:39:26,704 --> 00:39:30,875
+Só achei que sumir
+seria melhor para todos.
+
+377
+00:39:30,910 --> 00:39:34,641
+Claro. Sumir.
+É melhor assim.
+
+378
+00:39:36,047 --> 00:39:39,450
+Faz uma grande diferença
+quando magoa alguém.
+
+379
+00:39:39,485 --> 00:39:41,918
+Maggy, por favor, me perdoe.
+
+380
+00:39:42,587 --> 00:39:45,256
+Fiz o que achei que tinha
+que fazer na época.
+
+381
+00:39:45,291 --> 00:39:50,261
+E quando te vi no outro dia,
+percebi como fui estúpido...
+
+382
+00:39:50,296 --> 00:39:53,253
+como perdi todos esses
+anos importantes da sua vida.
+
+383
+00:39:54,532 --> 00:39:55,965
+Eu quero...
+
+384
+00:39:57,435 --> 00:40:00,336
+-O quê?
+-Nada.
+
+385
+00:40:02,473 --> 00:40:07,745
+Estou muito orgulhoso de você.
+É uma jovem linda. Tem muito potencial.
+
+386
+00:40:07,780 --> 00:40:12,483
+Quando liguei para sua mãe, ela ficou
+me dizendo como você é maravilhosa.
+
+387
+00:40:12,518 --> 00:40:15,686
+A mamãe? Duvido.
+
+388
+00:40:15,721 --> 00:40:18,356
+Ela nunca tem nada de bom
+para dizer sobre mim.
+
+389
+00:40:18,391 --> 00:40:20,722
+Não é verdade.
+Ela tem muito orgulho de você.
+
+390
+00:40:24,595 --> 00:40:28,399
+Amanhã é nosso primeiro
+show de verdade.
+
+391
+00:40:28,434 --> 00:40:31,769
+É um tiro no escuro,
+mas é o que quero fazer.
+
+392
+00:40:31,804 --> 00:40:34,602
+Acho que deve seguir
+seus sonhos, Maggy.
+
+393
+00:40:35,740 --> 00:40:37,435
+Como você fez?
+
+394
+00:40:40,678 --> 00:40:45,411
+Sei que consegue,
+mas nunca desista.
+
+395
+00:41:32,396 --> 00:41:33,556
+OBRIGADO
+
+396
+00:41:36,801 --> 00:41:40,338
+Caro escritor da carta,
+obrigado pelas amáveis palavras.
+
+397
+00:41:40,373 --> 00:41:42,840
+Você me fez sorrir
+e minha mamãe chorar.
+
+398
+00:41:42,875 --> 00:41:46,344
+Lágrimas de felicidade.
+Obrigado por pensar em mim.
+
+399
+00:41:46,379 --> 00:41:49,614
+Da próxima vez, fique para
+tomar leite e comer torta de maçã.
+
+400
+00:41:49,649 --> 00:41:51,878
+Seu amigo, Michael.
+
+401
+00:41:57,488 --> 00:42:01,626
+O sol está saindo
+Vamos seguir pelas ruas
+
+402
+00:42:01,661 --> 00:42:06,330
+Estamos saindo daqui
+Encontramos nosso caminho
+
+403
+00:42:06,365 --> 00:42:10,701
+Eu exagero
+Grito como um demônio
+
+404
+00:42:10,736 --> 00:42:15,138
+Estou me sentindo tão mal
+Está queimando aqui
+
+405
+00:42:15,306 --> 00:42:19,410
+Cavo fundo em cinzas
+Caio como pó
+
+406
+00:42:19,445 --> 00:42:24,245
+Fotos e dinheiro
+Isso não importa
+
+407
+00:43:16,601 --> 00:43:17,761
+Oi.
+
+408
+00:43:19,570 --> 00:43:24,507
+-Achei que não viessem.
+-A Stella me forçou.
+
+409
+00:43:26,711 --> 00:43:28,346
+Espero que não tenha sido
+alto demais.
+
+410
+00:43:28,381 --> 00:43:32,043
+Foi ótimo. Só tive que tirar
+meu aparelho auditivo.
+
+411
+00:43:34,151 --> 00:43:36,854
+Sam, se importa
+se eu passar lá amanhã?
+
+412
+00:43:36,889 --> 00:43:40,813
+-Estava esperando por isso.
+-Legal.
+
+413
+00:43:43,995 --> 00:43:46,555
+Pode me ensinar a escrever cartas
+como você, Sam?
+
+414
+00:43:48,432 --> 00:43:52,129
+-Não sei.
+-Como assim?
+
+415
+00:43:52,803 --> 00:43:54,998
+Depende de você.
+
+416
+00:43:55,406 --> 00:43:59,243
+Em cada ser humano,
+há um dom dado por Deus...
+
+417
+00:43:59,278 --> 00:44:04,806
+que, se encontrá-lo e alimentá-lo,
+poderá abençoar a vida de outros.
+
+418
+00:44:05,116 --> 00:44:07,175
+O meu dom é escrever cartas.
+
+419
+00:44:08,719 --> 00:44:13,088
+-E o meu?
+-Terá que descobrir sozinha.
+
+420
+00:44:13,557 --> 00:44:16,685
+-Como?
+-Vai sentir em seu coração.
+
+421
+00:44:16,961 --> 00:44:21,298
+Quando encontrá-lo, sentirá
+uma força e poder dentro de você...
+
+422
+00:44:21,333 --> 00:44:25,836
+que é maior do que você mesma.
+Vai se sentir ligada ao divino.
+
+423
+00:44:25,871 --> 00:44:31,672
+Não tem nada mais fortalecedor
+do que se sentir ligado ao divino.
+
+424
+00:44:33,177 --> 00:44:36,881
+Não sei escrever como você.
+Tentei a manhã toda...
+
+425
+00:44:36,916 --> 00:44:43,020
+-mas não saiu do jeito que eu queria.
+-Você fica bom naquilo que sempre faz.
+
+426
+00:44:43,055 --> 00:44:45,923
+É só uma questão
+de prática e vontade.
+
+427
+00:44:45,958 --> 00:44:51,896
+Juro que se fizer algo todo dia,
+vai acabar dominando isso.
+
+428
+00:44:51,931 --> 00:44:56,424
+quando os outros ajudantes
+Fracassam e o conforto foge
+
+429
+00:44:57,768 --> 00:45:02,139
+A ajuda dos desamparados
+
+430
+00:45:02,174 --> 00:45:08,601
+Fica comigo
+
+431
+00:45:15,753 --> 00:45:17,088
+Olá, Maggy.
+
+432
+00:45:17,123 --> 00:45:20,387
+Disse ao nosso grupo que talvez
+teríamos uma cantora conosco hoje.
+
+433
+00:45:20,491 --> 00:45:25,062
+-Se importaria de cantar para nós?
+-Não sei se consigo.
+
+434
+00:45:25,097 --> 00:45:27,292
+Acho que devia.
+
+435
+00:45:28,032 --> 00:45:32,303
+Vinde, fonte de toda benção
+
+436
+00:45:32,338 --> 00:45:36,540
+Afine meu coração
+Para que eu cante o Teu louvor
+
+437
+00:45:36,575 --> 00:45:40,578
+Riachos de misericórdia incessante
+
+438
+00:45:40,613 --> 00:45:44,381
+Clamam por canções
+Jubilosas de louvor
+
+439
+00:45:44,416 --> 00:45:48,552
+Ensina-me algum harmonioso soneto
+
+440
+00:45:48,587 --> 00:45:52,890
+Entoado por línguas flamejantes
+Nos céus
+
+441
+00:45:52,925 --> 00:45:57,027
+Louvado seja
+O monte em que me firmo
+
+442
+00:45:57,062 --> 00:46:01,088
+O monte do Teu amor redentor
+
+443
+00:46:05,736 --> 00:46:09,607
+Venha, povo agradecido, venha
+
+444
+00:46:09,642 --> 00:46:13,477
+Entoe a canção da colheita
+
+445
+00:46:13,512 --> 00:46:17,281
+Todos estão reunidos em segurança
+
+446
+00:46:17,316 --> 00:46:20,651
+que as tempestades
+De inverno comecem
+
+447
+00:46:20,686 --> 00:46:22,820
+O aniversário do Sam
+é daqui a duas semanas...
+
+448
+00:46:22,855 --> 00:46:25,723
+e pensamos em surpreendê-lo
+com uma pequena apresentação.
+
+449
+00:46:25,758 --> 00:46:27,024
+Parece ótimo!
+
+450
+00:46:27,059 --> 00:46:31,061
+Pensamos em cantar
+todos juntos em um coral.
+
+451
+00:46:31,096 --> 00:46:35,099
+Notamos e decidimos que você
+deve ser a nossa regente.
+
+452
+00:46:35,134 --> 00:46:36,589
+Eu?
+
+453
+00:46:37,868 --> 00:46:40,838
+-Não sei o que isso significa.
+-Significa que deve se certificar...
+
+454
+00:46:40,873 --> 00:46:46,071
+de que não passaremos vergonha
+e que cantaremos juntos em harmonia.
+
+455
+00:46:47,411 --> 00:46:50,514
+-Não sei se consigo fazer isso.
+-Sei que consegue.
+
+456
+00:46:50,549 --> 00:46:53,584
+E não conte nada
+para o Sam, certo?
+
+457
+00:46:53,619 --> 00:46:55,017
+Certo.
+
+458
+00:46:55,786 --> 00:46:59,023
+Significaria muito para ele
+se fosse visitá-lo.
+
+459
+00:46:59,058 --> 00:47:01,292
+Ele está doente há algum tempo.
+
+460
+00:47:01,327 --> 00:47:05,626
+Quem pode recusar
+leite e torta de maçã?
+
+461
+00:47:08,299 --> 00:47:10,267
+Vou avisá-lo.
+
+462
+00:47:12,269 --> 00:47:16,672
+Como descobriu seu talento, Sam?
+Por que escreve cartas?
+
+463
+00:47:17,775 --> 00:47:19,333
+Palavras.
+
+464
+00:47:21,111 --> 00:47:25,445
+Há muitos anos, discuti feio
+com uma amiga.
+
+465
+00:47:26,250 --> 00:47:30,654
+Logo depois, ela morreu.
+De repente, me dei conta...
+
+466
+00:47:30,689 --> 00:47:34,124
+que estava usando palavras
+para ferir as pessoas...
+
+467
+00:47:34,159 --> 00:47:38,462
+e eu era muito bom nisso.
+Naquele momento...
+
+468
+00:47:38,497 --> 00:47:40,831
+e pareceu uma eternidade
+
+469
+00:47:40,866 --> 00:47:46,770
+entendi toda a dor que causei.
+
+470
+00:47:47,204 --> 00:47:51,609
+O pior é que era tarde demais
+para pedir desculpas...
+
+471
+00:47:51,644 --> 00:47:53,839
+e fazer as pazes com minha amiga.
+
+472
+00:47:56,714 --> 00:48:00,241
+Então, escrever cartas
+é uma terapia pra você.
+
+473
+00:48:00,484 --> 00:48:05,689
+Eu sabia que tinha que mudar.
+Decidi, naquele momento...
+
+474
+00:48:05,724 --> 00:48:10,794
+que, pelo resto da vida,
+só usaria as palavras para o bem...
+
+475
+00:48:10,829 --> 00:48:14,665
+para consertar os corações partidos
+e curar os feridos.
+
+476
+00:48:14,700 --> 00:48:19,864
+E esse tem sido o meu desejo
+e propósito desde então.
+
+477
+00:48:23,841 --> 00:48:25,331
+Oi, mãe.
+
+478
+00:48:30,648 --> 00:48:32,206
+Está me roubando?
+
+479
+00:48:35,085 --> 00:48:38,919
+Pegando emprestado.
+Eu planejava devolver.
+
+480
+00:48:39,790 --> 00:48:41,781
+Não lembro de lhe dar permissão.
+
+481
+00:48:44,528 --> 00:48:51,058
+-Minha filha está me roubando.
+-Sinto muito, mamãe.
+
+482
+00:48:51,702 --> 00:48:55,263
+Eu queria devolver
+antes de você descobrir.
+
+483
+00:49:01,145 --> 00:49:03,670
+Mãe, é verdade. Por favor.
+
+484
+00:49:08,052 --> 00:49:10,020
+No começo, não percebi,
+mas depois vi...
+
+485
+00:49:10,055 --> 00:49:14,892
+que as duas tinham as mesmas
+respostas certas e erradas.
+
+486
+00:49:14,927 --> 00:49:19,630
+O que é uma clara evidência de cola.
+Então, quem colou?
+
+487
+00:49:19,665 --> 00:49:23,828
+Kim? Maggy? As duas?
+
+488
+00:49:24,101 --> 00:49:27,332
+Se não falarem,
+vou suspender as duas.
+
+489
+00:49:30,007 --> 00:49:36,606
+Não copiei dela.
+Eu mesma faço as minhas provas.
+
+490
+00:49:37,114 --> 00:49:40,208
+A nota da Kim é consistente
+com as outras...
+
+491
+00:49:42,186 --> 00:49:47,556
+-enquanto a da Maggy não é.
+-Então admite que colou, Maggy?
+
+492
+00:49:52,730 --> 00:49:54,698
+Sim, eu colei.
+
+493
+00:49:56,867 --> 00:50:00,667
+-Desculpe.
+-Vou ter que te dar zero.
+
+494
+00:50:02,573 --> 00:50:04,939
+E não pode mais se sentar
+ao lado da Kim.
+
+495
+00:50:05,576 --> 00:50:08,679
+Se te pegarmos colando de novo,
+vamos avisar os seus pais...
+
+496
+00:50:08,714 --> 00:50:11,239
+e tomaremos medidas disciplinares.
+
+497
+00:50:13,751 --> 00:50:15,616
+Sinto muito, Maggy.
+
+498
+00:50:17,588 --> 00:50:21,615
+Tudo bem. Ainda bem
+que não foi pega.
+
+499
+00:50:24,428 --> 00:50:27,397
+Da próxima, deveria fazer
+sua própria cola.
+
+500
+00:50:31,502 --> 00:50:34,960
+Por favor, não me odeie.
+
+501
+00:51:01,331 --> 00:51:02,958
+Vamos.
+
+502
+00:51:05,135 --> 00:51:06,363
+Qual é o problema?
+
+503
+00:51:08,806 --> 00:51:10,068
+Maggy...
+
+504
+00:51:11,175 --> 00:51:15,746
+acho que é melhor
+para nós dois se terminarmos.
+
+505
+00:51:15,781 --> 00:51:19,682
+O quê? Por que é melhor?
+
+506
+00:51:21,985 --> 00:51:26,490
+Acho que não temos futuro juntos.
+Eu gostaria de seguir em frente.
+
+507
+00:51:26,525 --> 00:51:28,458
+"Seguir em frente"?
+
+508
+00:51:30,727 --> 00:51:35,027
+-Mas e a banda?
+-A banda também acabou.
+
+509
+00:51:35,599 --> 00:51:38,295
+O Pete estava com problemas.
+
+510
+00:51:38,802 --> 00:51:41,771
+Podemos começar uma banda nova,
+só você e eu.
+
+511
+00:51:42,973 --> 00:51:48,809
+Por que não? Se não quer ficar comigo,
+tudo bem. Mas a banda?
+
+512
+00:51:49,580 --> 00:51:52,640
+Por favor, não tire
+a banda de mim.
+
+513
+00:51:53,884 --> 00:51:58,021
+Maggy, por favor.
+Sabe que não daria certo.
+
+514
+00:51:58,056 --> 00:52:01,286
+-Por quê?
+-Porque acabou.
+
+515
+00:52:02,292 --> 00:52:03,987
+Só por isso.
+
+516
+00:52:18,041 --> 00:52:20,601
+Maggy! Oi.
+
+517
+00:52:21,945 --> 00:52:23,242
+O que está acontecendo?
+
+518
+00:52:24,114 --> 00:52:25,672
+Estamos nos mudando
+para a Carolina do Norte.
+
+519
+00:52:27,417 --> 00:52:29,078
+O quê?
+
+520
+00:52:29,586 --> 00:52:31,451
+Achei que o Jason
+tinha te contado.
+
+521
+00:52:37,060 --> 00:52:39,028
+Maggy, espere!
+
+522
+00:53:04,621 --> 00:53:06,248
+Kimmy, espere!
+
+523
+00:53:34,518 --> 00:53:36,315
+Desculpe, Maggy.
+Queria ter te contado.
+
+524
+00:53:36,920 --> 00:53:38,717
+O quê?
+Que vai sumir de novo?
+
+525
+00:53:39,590 --> 00:53:41,792
+Pensei que, se passássemos
+um tempo juntos...
+
+526
+00:53:41,827 --> 00:53:44,294
+seria mais fácil
+para você ir me visitar.
+
+527
+00:53:44,329 --> 00:53:47,263
+-Quando vai embora?
+-Amanhã.
+
+528
+00:53:49,566 --> 00:53:53,434
+-Foi bom te ver.
+-Maggy, isso é para você.
+
+529
+00:53:54,171 --> 00:53:56,298
+Por favor, mantenha contato.
+
+530
+00:54:03,213 --> 00:54:05,015
+Está atrasada hoje.
+
+531
+00:54:05,050 --> 00:54:08,151
+Eu sei, mas tenho
+uma ótima notícia para você.
+
+532
+00:54:08,186 --> 00:54:09,253
+O que foi?
+
+533
+00:54:09,288 --> 00:54:12,956
+Dei seu cupom para o escritor da carta
+e ele aceitou o convite.
+
+534
+00:54:12,991 --> 00:54:16,893
+-Sério? Como fez isso?
+-Tenho meus métodos.
+
+535
+00:54:16,928 --> 00:54:18,862
+-Quando tem um tempo?
+-Minha mãe disse...
+
+536
+00:54:18,897 --> 00:54:23,567
+que terei de voltar ao hospital
+em breve. Ele pode vir amanhã?
+
+537
+00:54:23,602 --> 00:54:25,535
+Vou ver o que posso fazer.
+
+538
+00:54:26,737 --> 00:54:30,764
+-Michael, pode me mostrar sua carta?
+-Claro. Sem problemas.
+
+539
+00:54:36,780 --> 00:54:40,317
+Escrevo para uma das almas mais
+corajosas conhecidas pelo homem.
+
+540
+00:54:40,352 --> 00:54:44,988
+Seu espírito é inquebrável,
+mesmo tendo que lutar tanto.
+
+541
+00:54:45,023 --> 00:54:49,259
+Você tem a força de um leão.
+E apesar da dor e do sofrimento...
+
+542
+00:54:49,294 --> 00:54:51,795
+seu sorriso é tão brilhante
+quanto o Sol.
+
+543
+00:54:51,830 --> 00:54:55,265
+E o céu sorri lá em cima
+com carinho.
+
+544
+00:54:55,300 --> 00:54:58,135
+O amor de Deus vai segui-lo
+por onde for...
+
+545
+00:54:58,170 --> 00:55:02,071
+e sua luz brilhará
+por toda a eternidade.
+
+546
+00:55:02,606 --> 00:55:04,733
+Não é uma boa carta?
+
+547
+00:55:05,876 --> 00:55:08,470
+É, sim, Michael.
+
+548
+00:55:09,579 --> 00:55:11,715
+Então, leite e torta de maçã
+amanhã, certo?
+
+549
+00:55:11,750 --> 00:55:13,080
+Conto com isso.
+
+550
+00:55:24,861 --> 00:55:26,328
+UM BREVE ADEUS
+
+551
+00:55:28,465 --> 00:55:32,526
+VENHA NOS VISITAR LOGO,
+ESTOU ORGULHOSO DE VOCÊ. PAI
+
+552
+00:55:49,086 --> 00:55:50,246
+Sr. Hansen.
+
+553
+00:55:51,655 --> 00:55:53,816
+Eu queria me desculpar.
+
+554
+00:55:54,825 --> 00:55:59,096
+Cometi um grande erro
+e te decepcionei.
+
+555
+00:55:59,131 --> 00:56:03,032
+-Como posso consertar isso?
+-Sei que pode se sair melhor, Maggy.
+
+556
+00:56:04,067 --> 00:56:06,763
+Só mostre que está
+falando sério, certo?
+
+557
+00:56:08,839 --> 00:56:11,467
+Posso fazer isso. Obrigada.
+
+558
+00:56:28,725 --> 00:56:30,056
+Sam.
+
+559
+00:56:31,395 --> 00:56:33,989
+Sam? Sam!
+
+560
+00:56:35,532 --> 00:56:36,829
+Sam!
+
+561
+00:56:37,734 --> 00:56:41,204
+-Você salvou a minha vida.
+-Me deu um grande susto.
+
+562
+00:56:41,239 --> 00:56:43,832
+Nunca mais faça isso comigo.
+
+563
+00:56:48,011 --> 00:56:52,880
+Desculpe, Maggy.
+Sou um velho fraco.
+
+564
+00:56:53,717 --> 00:56:57,988
+O mundo ainda precisa de você.
+Tem centenas de cartas para escrever.
+
+565
+00:56:58,023 --> 00:57:03,527
+-Talvez seja a sua vez agora.
+-Sou péssima em escrever cartas.
+
+566
+00:57:03,562 --> 00:57:06,196
+Você vai dar um jeito.
+
+567
+00:57:06,231 --> 00:57:11,935
+Não se cobre tanto.
+Sei que tem isso dentro de si.
+
+568
+00:57:11,970 --> 00:57:18,807
+Vai encontrar a sua voz.
+Só tem que deixá-la brilhar e cantar.
+
+569
+00:57:58,915 --> 00:58:01,509
+O que está acontecendo, Kimmy?
+Acha que sou idiota?
+
+570
+00:58:02,085 --> 00:58:05,088
+-Do que está falando?
+-Vi você com o Jay ontem.
+
+571
+00:58:05,123 --> 00:58:07,524
+-Não é o que está pensando.
+-Então o que é?
+
+572
+00:58:07,559 --> 00:58:10,393
+Não é nada.
+E por que se importa?
+
+573
+00:58:10,428 --> 00:58:12,657
+Achei que tinham terminado.
+
+574
+00:58:17,968 --> 00:58:20,937
+Parece que sua banda
+está indo muito bem sem você.
+
+575
+00:58:27,811 --> 00:58:29,472
+Surpresa!
+
+576
+00:58:30,413 --> 00:58:33,683
+Quero apresentar
+meus dois melhores amigos.
+
+577
+00:58:33,718 --> 00:58:36,286
+Sam, esse é o Michael.
+Michael, esse é o Sam.
+
+578
+00:58:36,321 --> 00:58:37,921
+Oi, Michael.
+
+579
+00:58:37,956 --> 00:58:39,823
+O Michael trouxe
+leite e torta de maçã.
+
+580
+00:58:39,858 --> 00:58:41,620
+Ótimo.
+
+581
+00:58:43,994 --> 00:58:48,965
+-Obrigado por sua carta, Sam.
+-Obrigado pela sua, Michael.
+
+582
+00:58:49,000 --> 00:58:53,670
+E pelo convite também.
+Leite e torta de maçã.
+
+583
+00:58:53,705 --> 00:58:56,298
+Que ideia maravilhosa.
+
+584
+00:59:00,277 --> 00:59:02,074
+Adoro isso.
+
+585
+00:59:02,612 --> 00:59:04,978
+Desculpe ter pego o dinheiro.
+
+586
+00:59:06,116 --> 00:59:10,314
+Sei que foi errado.
+Nunca mais vou fazer isso.
+
+587
+00:59:13,223 --> 00:59:16,124
+Quero que você
+possa confiar em mim.
+
+588
+00:59:27,837 --> 00:59:30,974
+Sempre esperei que o papai
+estivesse lá quando precisasse...
+
+589
+00:59:31,009 --> 00:59:32,965
+mas ele nunca esteve.
+
+590
+00:59:35,312 --> 00:59:36,939
+Bem...
+
+591
+00:59:38,782 --> 00:59:42,274
+A culpa não é só dele
+pelas coisas não terem dado certo.
+
+592
+00:59:43,186 --> 00:59:46,121
+Posso ser muito
+teimosa também, sabia?
+
+593
+00:59:50,226 --> 00:59:52,660
+Não estou mais brava com ele.
+
+594
+00:59:55,231 --> 00:59:59,102
+Ele tem uma família agora
+e precisa cuidar dela.
+
+595
+00:59:59,137 --> 01:00:02,071
+Posso até ir visitá-los algum dia.
+
+596
+01:00:06,276 --> 01:00:12,916
+Mas agora sei que ele não está lá
+quando eu precisar.
+
+597
+01:00:12,951 --> 01:00:16,977
+Provavelmente nunca estará,
+mas você sempre está, mãe.
+
+598
+01:00:19,923 --> 01:00:23,359
+E eu nunca agradeci
+pelo que fez por mim.
+
+599
+01:00:30,467 --> 01:00:35,632
+Só quero que seja feliz
+e faça boas escolhas.
+
+600
+01:00:39,809 --> 01:00:41,674
+Te amo, querida.
+
+601
+01:00:42,946 --> 01:00:47,474
+Vinde, fonte de toda benção
+
+602
+01:00:48,918 --> 01:00:55,158
+Vinde, fonte de toda benção
+
+603
+01:00:55,193 --> 01:01:01,731
+Afine meu coração
+Para que eu cante o Teu louvor
+
+604
+01:01:01,766 --> 01:01:08,371
+Riachos de misericórdia incessante
+
+605
+01:01:08,406 --> 01:01:14,037
+Clamam por canções
+Jubilosas de louvor
+
+606
+01:01:17,881 --> 01:01:21,578
+Sinto muito.
+Ele faleceu hoje de manhã.
+
+607
+01:01:24,654 --> 01:01:29,659
+Não, ele estava se sentindo melhor.
+Ia ter alta no final da semana.
+
+608
+01:01:29,694 --> 01:01:35,097
+-Tem certeza?
+-Sim. Sinto muito.
+
+609
+01:02:34,858 --> 01:02:37,418
+Sem festa de aniversário surpresa.
+
+610
+01:02:37,894 --> 01:02:43,066
+Ele teve uma vida boa
+e fechou com chave de ouro.
+
+611
+01:02:43,101 --> 01:02:45,557
+-Você acha?
+-Sei que sim.
+
+612
+01:02:45,802 --> 01:02:49,572
+Ele ficou muito impressionado com você
+e te via como uma aprendiz.
+
+613
+01:02:49,607 --> 01:02:51,975
+Ele queria que você
+continuasse seu trabalho.
+
+614
+01:02:52,010 --> 01:02:55,578
+Mas não sou escritora de cartas.
+Não sei escrever como ele.
+
+615
+01:02:55,613 --> 01:02:58,547
+Não se preocupe.
+Você saberá o que fazer.
+
+616
+01:03:01,084 --> 01:03:04,788
+Vamos cantar a nossa música.
+Vai nos animar.
+
+617
+01:03:04,823 --> 01:03:09,418
+-O Sam teria gostado disso.
+-Desculpe. Eu só...
+
+618
+01:03:09,926 --> 01:03:12,918
+Não estou com vontade
+de cantar hoje.
+
+619
+01:04:27,503 --> 01:04:31,269
+Eu sou a ressurreição. Amém.
+
+620
+01:05:22,191 --> 01:05:27,857
+LOGO VOCÊ DESCOBRIRÁ
+O SEU VERDADEIRO TALENTO
+
+621
+01:05:40,777 --> 01:05:45,181
+queime a casa
+Você me perdeu nas sombras
+
+622
+01:05:45,216 --> 01:05:49,419
+Estamos respirando isso agora
+Correndo da luz do dia
+
+623
+01:05:49,454 --> 01:05:52,322
+-Eu exagero
+-É a minha música.
+
+624
+01:05:52,357 --> 01:05:55,959
+-Grito como um demônio
+-Estão tocando a minha música.
+
+625
+01:05:55,994 --> 01:05:58,594
+Está queimando aqui
+
+626
+01:05:58,629 --> 01:06:02,532
+Cavo fundo em cinzas
+Caio como pó
+
+627
+01:06:02,567 --> 01:06:07,437
+Fotos e dinheiro
+Isso não importa
+
+628
+01:06:07,472 --> 01:06:08,597
+Kimmy?
+
+629
+01:06:10,707 --> 01:06:17,613
+Sabe, a vida é como um espelho.
+O que você vê, será o que receberá.
+
+630
+01:06:17,947 --> 01:06:20,438
+Em algum momento,
+tudo refletirá em você.
+
+631
+01:06:21,851 --> 01:06:25,981
+Vi você no show. Doeu.
+
+632
+01:06:29,125 --> 01:06:33,323
+Mas tenho que admitir
+que você foi ótima.
+
+633
+01:06:35,531 --> 01:06:38,659
+Abanda tem muita sorte
+em ter você.
+
+634
+01:06:42,005 --> 01:06:45,463
+Espero que encontre
+o que está procurando.
+
+635
+01:06:53,116 --> 01:06:56,643
+Agora entendo o que o Sam
+estava tentando me ensinar.
+
+636
+01:06:57,754 --> 01:06:59,654
+E o que era?
+
+637
+01:07:00,556 --> 01:07:03,354
+Ele não queria que eu fosse
+uma escritora de cartas.
+
+638
+01:07:04,727 --> 01:07:07,997
+Queria que eu usasse meu talento
+para abençoar a vida dos outros...
+
+639
+01:07:08,032 --> 01:07:12,368
+como fez com o seu.
+E agora sei qual é.
+
+640
+01:07:12,403 --> 01:07:15,138
+-Sabe?
+-É a minha voz.
+
+641
+01:07:15,173 --> 01:07:17,607
+Esse é o meu talento.
+
+642
+01:07:17,642 --> 01:07:21,805
+Amo cantar, mas nunca usei
+para o bem ou para ajudar os outros.
+
+643
+01:07:22,178 --> 01:07:24,914
+-Sempre soube disso, não é?
+-Sim.
+
+644
+01:07:24,949 --> 01:07:27,350
+E o Sam também devia saber.
+
+645
+01:07:27,385 --> 01:07:29,978
+Por isso que você me pediu
+para entrar para o coral.
+
+646
+01:07:33,189 --> 01:07:36,625
+Adoro o coral
+e adoro cantar com você.
+
+647
+01:07:40,563 --> 01:07:42,588
+Tenho algo para você.
+
+648
+01:07:44,267 --> 01:07:48,931
+Sam queria que ficasse com isso,
+assim que estivesse pronta.
+
+649
+01:07:50,740 --> 01:07:52,674
+Agora está pronta.
+
+650
+01:08:26,442 --> 01:08:31,581
+querida Maggy, fui abençoado
+com a sua presença na minha vida.
+
+651
+01:08:31,616 --> 01:08:35,885
+Agora que parti, está na hora
+de passar essa chave para você.
+
+652
+01:08:35,920 --> 01:08:39,388
+É um símbolo da sua capacidade
+de abrir qualquer porta...
+
+653
+01:08:39,423 --> 01:08:44,060
+no seu caminho para a felicidade.
+Ela representa uma chave dourada...
+
+654
+01:08:44,095 --> 01:08:46,756
+de oportunidades e potencial.
+
+655
+01:08:47,296 --> 01:08:50,666
+Escolha sabiamente.
+Provavelmente não sabia...
+
+656
+01:08:50,701 --> 01:08:53,469
+mas essa chave esteve com você
+durante toda a vida.
+
+657
+01:08:53,504 --> 01:08:56,305
+Só não tinha aprendido a usá-la.
+
+658
+01:08:56,340 --> 01:09:00,810
+O que quiser fazer na sua vida,
+tem a chave para isso.
+
+659
+01:09:00,845 --> 01:09:04,413
+É a mesma chave que permite
+que encontre a felicidade...
+
+660
+01:09:04,448 --> 01:09:09,680
+e a realização nessa vida.
+E, com ela, pode abençoar os outros.
+
+661
+01:09:10,486 --> 01:09:15,358
+Lembre-se sempre
+que essa chave é só sua.
+
+662
+01:09:15,393 --> 01:09:19,762
+Sempre que culpar os outros
+por suas circunstâncias...
+
+663
+01:09:19,797 --> 01:09:24,066
+olhe para a chave.
+Ela não pode ser tirada de você.
+
+664
+01:09:24,101 --> 01:09:29,539
+Só você decide quais portas abrir
+e quais caminhos seguir.
+
+665
+01:09:29,574 --> 01:09:33,805
+Esse é o presente da sua vida
+e só você tem a chave para ele.
+
+666
+01:09:36,345 --> 01:09:39,849
+"Um relâmpago rasgou o céu...
+
+667
+01:09:39,884 --> 01:09:41,684
+e o capitão teve
+um mau pressentimento...
+
+668
+01:09:41,719 --> 01:09:44,050
+de que devia ter virado
+o barco antes."
+
+669
+01:09:44,153 --> 01:09:46,747
+Por que eu devia
+deixar você fazer isso?
+
+670
+01:09:48,491 --> 01:09:53,629
+Porque sei que posso fazer melhor.
+Eu posso ser melhor.
+
+671
+01:09:53,664 --> 01:09:55,722
+Só quero deixar
+minha mãe orgulhosa.
+
+672
+01:09:56,999 --> 01:09:58,432
+Tudo bem.
+
+673
+01:09:59,769 --> 01:10:01,100
+Vou ver o que posso fazer.
+
+674
+01:10:02,805 --> 01:10:09,512
+Louvado seja
+O monte em que me firmo
+
+675
+01:10:09,547 --> 01:10:15,417
+O monte do Teu amor redentor
+
+676
+01:10:46,749 --> 01:10:50,286
+Um relâmpago rasgou o céu...
+
+677
+01:10:50,321 --> 01:10:51,988
+e o capitão teve
+um mau pressentimento...
+
+678
+01:10:52,023 --> 01:10:54,724
+de que devia ter virado
+o barco antes.
+
+679
+01:10:54,759 --> 01:10:58,820
+Um dos pescadores locais tinha
+lhe avisado que seria lua cheia.
+
+680
+01:11:30,493 --> 01:11:31,794
+MÃE
+
+681
+01:11:31,829 --> 01:11:37,633
+Louvado seja
+O monte em que me firmo
+
+682
+01:11:37,668 --> 01:11:43,503
+O monte do Teu amor redentor
+
+683
+01:11:46,108 --> 01:11:48,311
+Trouxemos leite
+e torta de maçã para você.
+
+684
+01:11:48,346 --> 01:11:49,539
+Obrigado.
+
+685
+01:11:49,779 --> 01:11:53,649
+E aqui está o seu convite.
+Espero que consiga ir.
+
+686
+01:11:53,684 --> 01:11:58,487
+Minha mãe disse que estou muito melhor
+e que logo poderei ir pra casa.
+
+687
+01:11:58,522 --> 01:12:00,589
+Essa é a melhor notícia
+que já ouvi, Michael.
+
+688
+01:12:00,624 --> 01:12:03,717
+E adivinhem só?
+Meu cabelo vai voltar a crescer.
+
+689
+01:12:25,514 --> 01:12:26,811
+Oi.
+
+690
+01:12:27,550 --> 01:12:28,744
+Ainda está acordada?
+
+691
+01:12:35,925 --> 01:12:38,189
+Acha que poderá ir amanhã?
+
+692
+01:12:39,695 --> 01:12:43,566
+Vou fazer o que puder
+para sair do trabalho.
+
+693
+01:12:43,601 --> 01:12:45,033
+Mas sabe como eles podem ser.
+
+694
+01:12:51,107 --> 01:12:52,699
+Obrigada, mãe.
+
+695
+01:12:53,909 --> 01:12:56,810
+Obrigada por não desistir de mim.
+
+696
+01:12:58,147 --> 01:12:59,876
+Tudo bem.
+
+697
+01:13:01,384 --> 01:13:03,409
+Queria que as coisas
+fossem diferentes.
+
+698
+01:13:05,254 --> 01:13:08,891
+Queria que ainda tivéssemos
+um lar feliz...
+
+699
+01:13:08,926 --> 01:13:10,756
+e que eu pudesse te apoiar mais.
+
+700
+01:13:13,763 --> 01:13:18,701
+Querida, sinto muito por
+seu pai e eu termos nos divorciado...
+
+701
+01:13:18,736 --> 01:13:21,033
+e por você ter de passar
+por tudo isso.
+
+702
+01:13:23,506 --> 01:13:25,736
+Ainda podemos ter um lar feliz.
+
+703
+01:13:31,380 --> 01:13:34,508
+Tenho muita sorte
+de você ser a minha mãe.
+
+704
+01:14:12,288 --> 01:14:14,190
+-Vai dar tudo certo.
+-Vai, sim.
+
+705
+01:14:14,225 --> 01:14:16,091
+Certo, pessoal. No três!
+
+706
+01:14:16,126 --> 01:14:19,492
+Um, dois, três, detonar!
+
+707
+01:14:23,999 --> 01:14:26,602
+-Está pronta?
+-Estou.
+
+708
+01:14:26,637 --> 01:14:28,035
+Vamos lá.
+
+709
+01:14:29,638 --> 01:14:33,576
+E com essa programação, desejamos
+a todos um feliz Dia de Ação de Graças.
+
+710
+01:14:33,611 --> 01:14:35,066
+Obrigada.
+
+711
+01:15:18,420 --> 01:15:23,153
+Agora temos uma apresentação especial
+de uma das nossas alunas.
+
+712
+01:15:24,260 --> 01:15:26,251
+Maggy Fuller.
+
+713
+01:15:55,090 --> 01:16:01,723
+Quero dedicar essa música ao Sam,
+que me mostrou a chave da felicidade...
+
+714
+01:16:03,899 --> 01:16:05,560
+ao Michael...
+
+715
+01:16:06,068 --> 01:16:09,799
+cujo lindo espírito jamais
+poderá ser quebrado...
+
+716
+01:16:11,707 --> 01:16:15,511
+e à minha mãe,
+que trabalha incansavelmente...
+
+717
+01:16:15,546 --> 01:16:18,969
+me atura e nunca recebe
+nada em troca.
+
+718
+01:16:21,884 --> 01:16:23,181
+Te amo, mãe.
+
+719
+01:16:43,672 --> 01:16:48,132
+Você é uma flor que se abre
+Em um novo amanhecer
+
+720
+01:16:49,511 --> 01:16:54,717
+As cores ao redor do Sol poente
+Uma vela no escuro
+
+721
+01:16:54,752 --> 01:17:00,489
+É o farol de todo marinheiro
+Na costa
+
+722
+01:17:00,524 --> 01:17:03,292
+É cada metáfora perfeita
+
+723
+01:17:03,327 --> 01:17:07,160
+Há uma ação culminante
+De uma música
+
+724
+01:17:09,131 --> 01:17:14,403
+Às vezes, milagres acontecem
+E nossas mãos fazem o trabalho
+
+725
+01:17:14,438 --> 01:17:19,705
+E para cada ação
+Você move essas coisas junto
+
+726
+01:17:20,809 --> 01:17:24,267
+Tudo o que você faz
+Move essas coisas junto
+
+727
+01:17:25,981 --> 01:17:31,720
+Anjos se escondem
+Nas ações dos humanos
+
+728
+01:17:31,755 --> 01:17:35,486
+Anjos estão por perto
+Para nos ajudar
+
+729
+01:17:36,859 --> 01:17:42,865
+Somos anjos escondidos
+Nos ossos dos humanos
+
+730
+01:17:42,900 --> 01:17:46,266
+Ajudando em todos esses milagres
+
+731
+01:17:48,070 --> 01:17:52,302
+Há uma chave dourada
+que abre qualquer fechadura
+
+732
+01:17:53,809 --> 01:17:59,114
+O caminho para conseguir o que quer
+Nunca está bloqueado
+
+733
+01:17:59,149 --> 01:18:04,887
+E você é o acompanhante
+De todas as pessoas até a porta
+
+734
+01:18:04,922 --> 01:18:09,119
+E as outras pessoas são o seu
+
+735
+01:18:10,726 --> 01:18:14,093
+As outras pessoas são o seu
+
+736
+01:18:15,664 --> 01:18:21,103
+Anjos se escondem
+Nas ações dos humanos
+
+737
+01:18:21,138 --> 01:18:25,699
+Anjos estão por perto
+Para nos ajudar
+
+738
+01:18:26,141 --> 01:18:32,014
+Somos anjos escondidos
+Nos ossos dos humanos
+
+739
+01:18:32,049 --> 01:18:35,711
+Ajudando em todos esses milagres
+
+740
+01:18:59,308 --> 01:19:04,813
+Anjos se escondem
+Nas ações dos humanos
+
+741
+01:19:04,848 --> 01:19:08,544
+Anjos estão por perto
+Para nos ajudar
+
+742
+01:19:09,818 --> 01:19:15,858
+Somos anjos escondidos
+Nos ossos dos humanos
+
+743
+01:19:15,893 --> 01:19:19,259
+Ajudando em todos esses milagres
+
+744
+01:19:21,063 --> 01:19:23,224
+Ajudando
+
+745
+01:19:58,534 --> 01:20:00,195
+Querida, isso foi...
+
+746
+01:20:01,003 --> 01:20:03,301
+Foi lindo.
+
+747
+01:20:07,442 --> 01:20:09,205
+Obrigada, mãe.
+
+748
+01:20:10,512 --> 01:20:12,241
+Por tudo.
+
+749
+01:20:14,416 --> 01:20:15,974
+Venha aqui.
+
+750
+01:20:29,298 --> 01:20:35,362
+EM MEMÓRIA DE BERNIE DIAMOND
+
+751
+01:20:56,325 --> 01:21:01,196
+"Querido Sam. Você nos deixou
+e sentimos muito a sua falta.
+
+752
+01:21:01,231 --> 01:21:04,188
+Mas ainda podemos sentir
+a sua presença e o seu amor.
+
+753
+01:21:04,499 --> 01:21:07,559
+Viemos aqui hoje
+para celebrar a sua vida.
+
+754
+01:21:08,103 --> 01:21:10,196
+Feliz aniversário, Sam.
+
+755
+01:21:10,906 --> 01:21:13,807
+Você sempre viverá
+em nossos corações".
+
+756
+01:21:24,887 --> 01:21:30,883
+Vinde, fonte de toda benção
+
+757
+01:21:31,293 --> 01:21:37,459
+Afine meu coração
+Para que eu cante o Teu louvor
+
+758
+01:21:37,799 --> 01:21:44,506
+Riachos de misericórdia incessante
+
+759
+01:21:44,541 --> 01:21:51,346
+Clamam por canções
+Jubilosas de louvor
+
+760
+01:21:51,381 --> 01:21:57,452
+Ensina-me algum harmonioso soneto
+
+761
+01:21:57,487 --> 01:22:03,926
+Entoado por línguas flamejantes
+Nos céus
+
+762
+01:22:03,961 --> 01:22:10,999
+Louvado seja
+o monte em que me firmo
+
+763
+01:22:11,034 --> 01:22:17,837
+O monte do Teu amor redentor
+
+764
+01:22:22,838 --> 01:22:25,838
+Subpack e Resync
+by DanDee

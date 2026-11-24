@@ -1,0 +1,3104 @@
+1
+00:00:06,000 --> 00:00:12,074
+api.OpenSubtitles.org is deprecated, please
+implement REST API from OpenSubtitles.com
+
+2
+00:01:01,603 --> 00:01:08,569
+TARASCON, FRANÇA
+
+3
+2
+00:01:16,159 --> 00:01:18,579
+-Está atrasado, Jacques.
+-Desculpa, padre.
+
+4
+00:01:18,662 --> 00:01:19,872
+Vá buscar o vinho.
+
+5
+00:01:20,497 --> 00:01:21,915
+Por que o senhor não vai?
+
+6
+00:01:21,999 --> 00:01:24,042
+-O que disse?
+-Nada.
+
+7
+00:01:50,819 --> 00:01:54,031
+Que seu espírito pouse sobre
+estas oferendas e as torne sagradas
+
+8
+00:01:54,865 --> 00:01:57,117
+para que elas possam ser para nós
+
+9
+00:01:57,201 --> 00:02:02,080
+o corpo e o sangue
+de Nosso Senhor Jesus Cristo.
+
+10
+00:02:06,960 --> 00:02:08,086
+<i>Corpo de Cristo.</i>
+
+11
+00:02:08,169 --> 00:02:09,213
+Amém.
+
+12
+00:02:12,299 --> 00:02:14,676
+-O sangue de Cristo.
+-Amém.
+
+13
+00:04:24,473 --> 00:04:25,516
+-Padre.
+-Sim?
+
+14
+00:04:25,599 --> 00:04:27,392
+-Tem alguém aqui.
+-Onde?
+
+15
+00:05:02,261 --> 00:05:03,428
+Quem está aí?
+
+16
+00:05:05,264 --> 00:05:09,226
+Seja você quem for, seja qual for
+o motivo pelo qual está aqui,
+
+17
+00:05:09,309 --> 00:05:10,477
+está na casa de Deus.
+
+18
+00:05:12,354 --> 00:05:13,480
+E Ele está vendo você.
+
+19
+00:07:05,509 --> 00:07:07,135
+Ponham isto sob o outro pneu.
+
+20
+00:07:35,914 --> 00:07:39,376
+Irmã Irene! Irmã Irene!
+
+21
+00:07:41,545 --> 00:07:42,462
+Irmã Debra.
+
+22
+00:07:42,546 --> 00:07:44,173
+É a irmã Debra.
+
+23
+00:07:44,548 --> 00:07:47,885
+Ela é um problema.
+Todo dia arruma encrenca.
+
+24
+00:07:48,510 --> 00:07:51,263
+E, agora, ela se recusa
+a fazer a confissão.
+
+25
+00:07:54,016 --> 00:07:55,642
+E sabe por quê?
+
+26
+00:07:55,726 --> 00:07:59,980
+Ela acha
+que não tem nada para confessar.
+
+27
+00:08:00,063 --> 00:08:02,441
+Só por isso,
+ela já deveria se confessar.
+
+28
+00:08:02,941 --> 00:08:04,735
+Vou falar com ela,
+Reverenda Madre.
+
+29
+00:08:04,818 --> 00:08:06,195
+<i>Grazie,</i> irmã.
+
+30
+00:08:16,955 --> 00:08:18,123
+Irmã Debra?
+
+31
+00:08:19,291 --> 00:08:21,126
+Irmã Irene.
+
+32
+00:08:22,002 --> 00:08:23,212
+É sobre a confissão?
+
+33
+00:08:23,670 --> 00:08:25,297
+Vai fazer a madre ter um infarto.
+
+34
+00:08:25,380 --> 00:08:27,716
+Aí, talvez, eu tenha algo pra confessar.
+
+35
+00:08:38,101 --> 00:08:39,770
+Seu pai te mandou pra cá, não?
+
+36
+00:08:41,938 --> 00:08:42,940
+Sim.
+
+37
+00:08:43,023 --> 00:08:44,358
+Eu era diferente.
+
+38
+00:08:44,608 --> 00:08:48,278
+Mandar-me pra cá era mais fácil
+do que tentar entender quem eu era.
+
+39
+00:08:49,947 --> 00:08:51,907
+O que sua mãe achou disso?
+
+40
+00:08:57,913 --> 00:08:59,665
+Eu mal me lembro dela.
+
+41
+00:09:00,958 --> 00:09:03,585
+Mas meu pai sempre dizia
+que eu era igual a ela.
+
+42
+00:09:05,629 --> 00:09:07,422
+Pra ele não devia ser um elogio.
+
+43
+00:09:11,635 --> 00:09:15,055
+Bom, minha família é do Mississippi,
+
+44
+00:09:15,806 --> 00:09:17,891
+mas nós tivemos alguns problemas lá.
+
+45
+00:09:18,267 --> 00:09:21,436
+Quando eu tinha quatro anos,
+brancos descobriram onde estávamos
+
+46
+00:09:21,520 --> 00:09:22,896
+e incendiaram nossa casa.
+
+47
+00:09:24,690 --> 00:09:27,901
+Depois disso,
+meus irmãos entraram pro exército.
+
+48
+00:09:27,985 --> 00:09:31,113
+Meu pai pensou:
+"Se meus filhos podem servir ao país,
+
+49
+00:09:31,196 --> 00:09:33,949
+minha filha pode servir a Deus."
+
+50
+00:09:34,908 --> 00:09:38,495
+Eu nunca, jamais, poderia imaginar
+que viria parar aqui.
+
+51
+00:09:41,915 --> 00:09:44,251
+Ainda tenho que fazer a confissão?
+
+52
+00:09:46,086 --> 00:09:47,754
+Acho que confessou o bastante.
+
+53
+00:09:49,464 --> 00:09:53,844
+E, uma a uma, as irmãs
+foram sendo assassinadas.
+
+54
+00:09:54,303 --> 00:09:58,640
+Enforcadas em janelas.
+Gargantas cortadas.
+
+55
+00:09:59,057 --> 00:10:03,270
+Atos de suicídio,
+às vezes coisa pior.
+
+56
+00:10:03,854 --> 00:10:09,943
+Elas souberam que, sob a longínqua
+abadia, havia um segredo terrível.
+
+57
+00:10:10,027 --> 00:10:12,779
+Um portal para o inferno.
+
+58
+00:10:12,863 --> 00:10:18,202
+E, por esse portal,
+um demônio havia escapado.
+
+59
+00:10:19,953 --> 00:10:23,373
+Bem, nós sabemos que os demônios
+podem assumir qualquer forma,
+
+60
+00:10:23,498 --> 00:10:27,753
+mas eles escolhem uma forma
+que desafie a fé de vocês
+
+61
+00:10:27,836 --> 00:10:30,088
+e enfraqueça o espírito de vocês.
+
+62
+00:10:31,840 --> 00:10:35,260
+Pois bem, para as freiras
+de Santa Carta,
+
+63
+00:10:36,094 --> 00:10:39,556
+esse demônio
+escolheu a forma mais profana,
+
+64
+00:10:40,265 --> 00:10:43,477
+a forma mais blasfema.
+
+65
+00:10:43,977 --> 00:10:47,731
+Ele escolheu
+se parecer com uma delas.
+
+66
+00:10:49,525 --> 00:10:51,193
+E o que aconteceu depois?
+
+67
+00:10:51,276 --> 00:10:54,321
+O Vaticano enviou uma dupla
+de caçadores de demônios.
+
+68
+00:10:55,197 --> 00:10:57,950
+Um padre e uma freira.
+
+69
+00:10:59,243 --> 00:11:02,329
+-E como eles o detiveram?
+-Ótima pergunta.
+
+70
+00:11:02,412 --> 00:11:04,831
+Eles usaram uma relíquia antiga.
+
+71
+00:11:04,915 --> 00:11:10,879
+Um frasco que continha
+o sangue de Jesus Cristo.
+
+72
+00:11:12,005 --> 00:11:16,093
+Assim, eles voltaram como heróis,
+beijaram o anel do Papa.
+
+73
+00:11:16,176 --> 00:11:18,345
+O padre foi ordenado bispo.
+
+74
+00:11:18,720 --> 00:11:20,472
+O que aconteceu com a freira?
+
+75
+00:11:21,181 --> 00:11:23,100
+Bem, na verdade, ninguém sabe.
+
+76
+00:11:23,600 --> 00:11:26,436
+Dizem que a experiência
+foi demais pra ela.
+
+77
+00:11:27,396 --> 00:11:29,815
+Alguns dizem que ela enlouqueceu.
+
+78
+00:11:30,983 --> 00:11:35,028
+O Vaticano teve que interná-la
+num hospício.
+
+79
+00:11:49,459 --> 00:11:51,211
+Consegui! Depressa!
+
+80
+00:11:52,296 --> 00:11:54,256
+Por que a Madame tem tantos vinhos?
+
+81
+00:11:54,339 --> 00:11:58,051
+Isto era um monastério.
+Os monges eram todos bêbados gordos.
+
+82
+00:12:16,195 --> 00:12:19,489
+Meninas, todas pra baixo, por favor.
+São quase oito horas.
+
+83
+00:12:19,573 --> 00:12:20,657
+Andem logo.
+
+84
+00:12:26,079 --> 00:12:27,539
+Consegui.
+
+85
+00:12:29,416 --> 00:12:30,751
+Demorou muito.
+
+86
+00:12:56,276 --> 00:12:58,570
+Ave Maria, cheia de graça,
+o Senhor é convosco.
+
+87
+00:12:58,654 --> 00:13:00,572
+Bendita sois vós entre as mulheres,
+
+88
+00:13:00,656 --> 00:13:03,909
+e bendito é o fruto
+do vosso ventre, Jesus.
+
+89
+00:13:03,992 --> 00:13:08,038
+Santa Maria, mãe de Deus, rogai
+por nós, pecadores, agora e na hora...
+
+90
+00:13:09,122 --> 00:13:10,415
+Santo Deus!
+
+91
+00:13:10,499 --> 00:13:11,500
+Maldição!
+
+92
+00:13:30,686 --> 00:13:31,854
+Kate.
+
+93
+00:13:32,855 --> 00:13:33,814
+Bom dia.
+
+94
+00:13:33,897 --> 00:13:35,482
+Já dando duro no trabalho?
+
+95
+00:13:35,566 --> 00:13:36,608
+Sempre.
+
+96
+00:13:39,486 --> 00:13:40,529
+Bom dia, Maurice.
+
+97
+00:13:41,905 --> 00:13:43,073
+Capitã!
+
+98
+00:13:45,325 --> 00:13:46,660
+Agora vamos, Sophie.
+
+99
+00:13:49,621 --> 00:13:51,748
+-Oi, Maurice.
+-Bom dia.
+
+100
+00:13:51,832 --> 00:13:53,584
+-Bom dia, Maurice.
+-Mocinhas.
+
+101
+00:13:54,168 --> 00:13:56,670
+Maurice, quer jogar beisebol
+com a gente hoje?
+
+102
+00:13:56,753 --> 00:13:58,297
+Claro que sim. Quer saber?
+
+103
+00:13:58,380 --> 00:14:00,674
+Vou ensinar vocês
+a arremessar a bola com efeito.
+
+104
+00:14:02,342 --> 00:14:04,553
+-Maurice! Maurice!
+-Capitã Sophie.
+
+105
+00:14:05,095 --> 00:14:06,430
+Tenente.
+
+106
+00:14:07,055 --> 00:14:09,975
+Fiz isto pra você.
+É uma pulseira da amizade.
+
+107
+00:14:10,058 --> 00:14:12,144
+Cada conta
+é uma qualidade de um bom amigo.
+
+108
+00:14:12,227 --> 00:14:14,771
+Uau. Ela é linda. Sophie.
+Obrigado.
+
+109
+00:14:17,566 --> 00:14:20,402
+Está pedindo seu namorado
+em casamento, Sophie?
+
+110
+00:14:24,072 --> 00:14:25,782
+-Devolva.
+-Não pode me obrigar.
+
+111
+00:14:25,866 --> 00:14:28,702
+Você não é um professor.
+É um servente.
+
+112
+00:14:38,629 --> 00:14:43,133
+Até um servente sabe que se deve tratar
+todo mundo com gentileza e respeito.
+
+113
+00:14:47,012 --> 00:14:49,223
+Meninas, o que vocês estão fazendo?
+
+114
+00:14:50,766 --> 00:14:54,228
+Isto aqui não é um parquinho.
+
+115
+00:14:54,311 --> 00:14:55,938
+Vão pra sala de aula!
+
+116
+00:14:56,021 --> 00:14:58,607
+E você... Maurice.
+
+117
+00:14:59,358 --> 00:15:01,902
+Tem uma barata
+nos meus aposentos de novo.
+
+118
+00:15:01,985 --> 00:15:03,111
+Que infortúnio.
+
+119
+00:15:03,195 --> 00:15:05,614
+É uma infestação. É nojento.
+
+120
+00:15:05,697 --> 00:15:07,491
+Vou cuidar disso agora mesmo.
+
+121
+00:15:08,492 --> 00:15:10,369
+-Acho bom mesmo.
+-Eu prometo.
+
+122
+00:15:12,412 --> 00:15:15,165
+Capitã! Capitã! Espera.
+
+123
+00:15:25,676 --> 00:15:26,552
+Como fez isso?
+
+124
+00:15:26,635 --> 00:15:28,470
+Habilidades de uma outra vida.
+
+125
+00:15:29,555 --> 00:15:30,597
+Como estou?
+
+126
+00:15:31,557 --> 00:15:33,183
+Anda, vai pra aula, depressa.
+
+127
+00:16:17,769 --> 00:16:19,062
+Entrega.
+
+128
+00:18:08,881 --> 00:18:10,299
+O senhor está bem?
+
+129
+00:19:22,788 --> 00:19:23,789
+Irmã.
+
+130
+00:19:26,208 --> 00:19:27,876
+Você tem visita.
+
+131
+00:19:54,111 --> 00:19:55,571
+Reverenda Madre?
+
+132
+00:20:20,679 --> 00:20:21,722
+Maurice?
+
+133
+00:20:26,310 --> 00:20:27,561
+Salve-me, irmã.
+
+134
+00:20:29,897 --> 00:20:32,232
+Irene! Está tudo bem. Tudo bem.
+
+135
+00:20:32,316 --> 00:20:34,109
+Você está bem.
+
+136
+00:20:34,818 --> 00:20:36,153
+Seu nariz.
+
+137
+00:20:56,590 --> 00:20:57,883
+Irmã Irene.
+
+138
+00:20:59,384 --> 00:21:01,053
+Você tem visita.
+
+139
+00:21:27,037 --> 00:21:28,664
+Irmã Irene.
+
+140
+00:21:28,747 --> 00:21:30,123
+Vossa Eminência.
+
+141
+00:21:31,708 --> 00:21:33,502
+Houve um incidente.
+
+142
+00:21:34,503 --> 00:21:36,171
+Uma série de incidentes.
+
+143
+00:21:36,880 --> 00:21:40,300
+Szeleste, um pequeno povoado na Hungria.
+
+144
+00:21:40,384 --> 00:21:43,512
+Uma freira de 90 anos
+se deu um tiro na escadaria da igreja.
+
+145
+00:21:44,179 --> 00:21:46,098
+Graz, Áustria.
+
+146
+00:21:46,181 --> 00:21:49,768
+Um padre cortou a garganta com
+um terço durante a missa de Natal.
+
+147
+00:21:50,227 --> 00:21:51,395
+Edolo, Itália.
+
+148
+00:21:51,478 --> 00:21:54,356
+Uma noviça se jogou de uma janela.
+
+149
+00:21:54,773 --> 00:21:55,941
+Soa familiar?
+
+150
+00:21:57,109 --> 00:21:59,653
+Há apenas um mês,
+em Tarascon, França,
+
+151
+00:21:59,736 --> 00:22:02,281
+outro padre morto
+dentro da igreja dele.
+
+152
+00:22:02,364 --> 00:22:03,657
+Incinerado.
+
+153
+00:22:03,991 --> 00:22:05,450
+Percebe um padrão?
+
+154
+00:22:05,534 --> 00:22:09,872
+Está indo para oeste pela Europa,
+mas a origem aponta para a Romênia.
+
+155
+00:22:10,289 --> 00:22:11,248
+Não pode ser.
+
+156
+00:22:11,331 --> 00:22:13,292
+O demônio está vivo.
+
+157
+00:22:13,917 --> 00:22:15,210
+Falou com o padre Burke?
+
+158
+00:22:15,294 --> 00:22:16,837
+O padre Burke está morto.
+
+159
+00:22:18,547 --> 00:22:19,840
+-Como?
+-Cólera.
+
+160
+00:22:21,175 --> 00:22:24,428
+Você é a única pessoa viva
+que já lidou com algo assim.
+
+161
+00:22:24,511 --> 00:22:27,472
+A Igreja gostaria
+que você investigasse.
+
+162
+00:22:27,556 --> 00:22:31,685
+Descubra o que ele quer
+e aonde ele vai a seguir.
+
+163
+00:22:33,020 --> 00:22:33,896
+Não.
+
+164
+00:22:35,647 --> 00:22:36,857
+O que disse?
+
+165
+00:22:37,441 --> 00:22:38,692
+Eu disse "não".
+
+166
+00:22:39,735 --> 00:22:41,862
+-Eu não posso.
+-Não pode ou não quer?
+
+167
+00:22:41,945 --> 00:22:43,739
+Não sabe o que houve em Santa Carta.
+
+168
+00:22:44,948 --> 00:22:46,533
+Tive sorte de sair com vida.
+
+169
+00:22:46,617 --> 00:22:49,286
+Tem razão.
+Não sei o que você enfrentou lá.
+
+170
+00:22:49,369 --> 00:22:53,582
+Mas naquela abadia, irmã,
+você realizou um milagre.
+
+171
+00:22:53,707 --> 00:22:55,959
+A Igreja precisa de outro.
+
+172
+00:23:15,812 --> 00:23:17,314
+-Achei você.
+-Irmã?
+
+173
+00:23:17,397 --> 00:23:19,650
+Tive receio de ter entrado
+no trem errado.
+
+174
+00:23:19,733 --> 00:23:21,109
+O que está fazendo aqui?
+
+175
+00:23:21,193 --> 00:23:22,736
+Cuidando de você.
+
+176
+00:23:22,819 --> 00:23:25,280
+-Alguém tem que cuidar.
+-Você pode ser expulsa.
+
+177
+00:23:26,156 --> 00:23:27,741
+Por que está aqui?
+
+178
+00:23:36,041 --> 00:23:37,334
+Minha mãe.
+
+179
+00:23:38,544 --> 00:23:40,295
+Ela morreu no incêndio.
+
+180
+00:23:40,379 --> 00:23:42,005
+Ela era minha igreja.
+
+181
+00:23:43,966 --> 00:23:46,677
+Eu quero acreditar em milagres.
+
+182
+00:23:47,010 --> 00:23:48,679
+Mas quando vejo o padre de pé,
+
+183
+00:23:48,762 --> 00:23:51,765
+dizendo que transformou o vinho
+em sangue de Cristo,
+
+184
+00:23:51,849 --> 00:23:53,767
+é meio difícil de acreditar.
+
+185
+00:23:53,851 --> 00:23:55,060
+É um ato de fé.
+
+186
+00:23:55,185 --> 00:23:57,521
+Ele só diz um monte de palavras
+para o vinho.
+
+187
+00:23:57,604 --> 00:24:01,066
+O vinho se torna o sangue de Cristo
+porque nós acreditamos.
+
+188
+00:24:01,733 --> 00:24:05,904
+As partes mais extraordinárias da nossa fé
+só são reais porque acreditamos nelas.
+
+189
+00:24:07,948 --> 00:24:09,199
+Suponho que sim.
+
+190
+00:24:10,826 --> 00:24:11,994
+Você não está pronta.
+
+191
+00:24:12,786 --> 00:24:13,537
+Por quê?
+
+192
+00:24:13,620 --> 00:24:16,331
+Um convento de freiras morreu
+enfrentando essa coisa.
+
+193
+00:24:17,416 --> 00:24:19,668
+Mulheres que dedicaram
+a vida à fé.
+
+194
+00:24:20,335 --> 00:24:23,172
+E sacrificaram a vida
+por acreditarem em algo maior.
+
+195
+00:24:24,840 --> 00:24:26,175
+Você precisa de mim.
+
+196
+00:24:29,928 --> 00:24:33,056
+Só espero que você encontre sua fé
+quando chegar a hora.
+
+197
+00:24:48,530 --> 00:24:50,782
+"Pois vá.
+Quem é que a impede?"
+
+198
+00:24:50,866 --> 00:24:52,826
+"Um coração tolo
+que aqui eu deixo."
+
+199
+00:24:52,910 --> 00:24:54,161
+"O quê? Com Lisandro?"
+
+200
+00:24:54,578 --> 00:24:56,121
+"Com Demétrio."
+
+201
+00:24:56,205 --> 00:24:59,124
+"Não tema.
+Ela não te machucará, Helena."
+
+202
+00:24:59,208 --> 00:25:02,586
+"Não, senhor, não machucará,
+embora ela tenha seu apoio."
+
+203
+00:25:02,878 --> 00:25:06,465
+"Quando está zangada,
+ela fica sorrateira e sagaz.
+
+204
+00:25:07,007 --> 00:25:09,343
+Ela já era má quando estava na escola.
+
+205
+00:25:09,426 --> 00:25:12,638
+E, apesar de ser pequena,
+ela é feroz."
+
+206
+00:25:12,721 --> 00:25:14,264
+"Pequena outra vez!
+
+207
+00:25:14,348 --> 00:25:18,393
+Nada senão baixa e pequena.
+Como deixa que ela...?"
+
+208
+00:25:18,477 --> 00:25:21,104
+Vamos fazer um intervalo.
+Quinze minutos.
+
+209
+00:25:21,188 --> 00:25:22,898
+Eu estava entrando na personagem.
+
+210
+00:25:23,273 --> 00:25:25,400
+É, uma personagem horrível.
+
+211
+00:25:26,401 --> 00:25:28,862
+-Devagar, meninas. Devagar.
+-Meninas.
+
+212
+00:25:28,946 --> 00:25:31,323
+Querida, leve isto para o escritório.
+
+213
+00:25:37,329 --> 00:25:38,413
+Você é a melhor.
+
+214
+00:25:42,501 --> 00:25:44,920
+Ouvi dizer
+que tinha um armário com defeito.
+
+215
+00:25:46,547 --> 00:25:47,589
+O trinco não abre.
+
+216
+00:25:48,173 --> 00:25:49,591
+-Posso?
+-Por favor.
+
+217
+00:25:56,890 --> 00:25:58,141
+Está emperrado.
+
+218
+00:25:58,225 --> 00:26:01,395
+Pode, por favor,
+pressionar um pouco aqui?
+
+219
+00:26:01,478 --> 00:26:03,480
+É. Bem aqui.
+
+220
+00:26:04,565 --> 00:26:06,149
+Isso. Obrigado.
+
+221
+00:26:09,528 --> 00:26:11,572
+Parece que estamos na última moda.
+
+222
+00:26:14,366 --> 00:26:15,325
+Acho que sim.
+
+223
+00:26:16,034 --> 00:26:17,244
+Beleza.
+
+224
+00:26:25,460 --> 00:26:28,088
+-Pronto.
+-Muito obrigada.
+
+225
+00:26:28,505 --> 00:26:29,590
+De nada.
+
+226
+00:26:31,175 --> 00:26:32,301
+Ok.
+
+227
+00:26:35,846 --> 00:26:39,349
+Ela é uma ótima menina.
+Deve estar orgulhosa.
+
+228
+00:26:40,642 --> 00:26:41,727
+Eu estou.
+
+229
+00:27:00,370 --> 00:27:01,371
+Precisa de ajuda?
+
+230
+00:27:03,207 --> 00:27:04,291
+Não, obrigada.
+
+231
+00:27:05,000 --> 00:27:08,253
+Relaxa, Sophie.
+Nós não vamos fazer nada.
+
+232
+00:27:09,755 --> 00:27:10,756
+Juro por Deus.
+
+233
+00:27:13,467 --> 00:27:15,886
+Foi muita maldade nossa antes.
+
+234
+00:27:17,012 --> 00:27:18,639
+Eu fui perversa.
+
+235
+00:27:22,392 --> 00:27:23,310
+Tudo bem.
+
+236
+00:27:24,520 --> 00:27:25,896
+O que vai fazer depois?
+
+237
+00:27:26,355 --> 00:27:28,273
+Temos que voltar pra sala.
+
+238
+00:27:28,357 --> 00:27:30,025
+Só daqui a dez minutos.
+
+239
+00:27:30,108 --> 00:27:32,027
+Quer se divertir um pouco?
+
+240
+00:27:42,871 --> 00:27:45,082
+É proibido entrar na capela.
+
+241
+00:27:45,666 --> 00:27:47,042
+Eu sei.
+
+242
+00:28:59,948 --> 00:29:01,325
+O que viemos fazer aqui?
+
+243
+00:29:01,408 --> 00:29:02,451
+É uma brincadeira.
+
+244
+00:29:03,243 --> 00:29:06,288
+Chama-se "Desafiar o Diabo".
+
+245
+00:29:07,915 --> 00:29:09,458
+Não estou vendo nenhum diabo.
+
+246
+00:29:12,544 --> 00:29:14,880
+O diabo está sempre aqui.
+
+247
+00:29:14,963 --> 00:29:17,424
+Você só não está olhando atentamente.
+
+248
+00:29:21,136 --> 00:29:26,558
+Depende de onde você está
+e quando olha.
+
+249
+00:29:28,435 --> 00:29:30,145
+Na hora certa do dia,
+
+250
+00:29:31,188 --> 00:29:35,484
+o sol bate no vidro
+no ângulo certo.
+
+251
+00:29:36,276 --> 00:29:40,614
+E, se estiver olhando com atenção,
+ele encara você.
+
+252
+00:29:42,157 --> 00:29:45,160
+Dizem que, se você desviar o olhar,
+
+253
+00:29:45,244 --> 00:29:50,249
+o diabo vai aparecer
+na forma de um bode monstruoso.
+
+254
+00:29:56,380 --> 00:29:59,216
+Viu? Ele está observando você.
+
+255
+00:30:01,260 --> 00:30:07,641
+O que quer que você faça,
+o que quer que ouça, não desvie o olhar.
+
+256
+00:31:17,961 --> 00:31:19,796
+Deixem-me sair!
+
+257
+00:31:56,375 --> 00:31:59,586
+Sophie? O que está havendo?
+O que aconteceu?
+
+258
+00:32:02,798 --> 00:32:05,175
+Ei, ei. Está tudo bem.
+
+259
+00:32:06,718 --> 00:32:07,761
+O que aconteceu?
+
+260
+00:32:09,513 --> 00:32:10,430
+O que aconteceu?
+
+261
+00:32:10,514 --> 00:32:13,350
+O namorado veio salvá-la, é claro.
+
+262
+00:32:17,020 --> 00:32:18,480
+Vocês acham engraçado?
+
+263
+00:32:21,316 --> 00:32:22,359
+Acham?
+
+264
+00:32:32,035 --> 00:32:34,997
+Está tudo bem. Acabou.
+
+265
+00:32:37,875 --> 00:32:39,501
+O que aconteceu lá?
+
+266
+00:32:40,919 --> 00:32:42,171
+Pode me contar.
+
+267
+00:32:45,591 --> 00:32:47,092
+-Nada.
+-Sophie?
+
+268
+00:32:50,179 --> 00:32:51,597
+Por que não está na sala?
+
+269
+00:32:52,764 --> 00:32:53,765
+Não é culpa dela.
+
+270
+00:32:53,849 --> 00:32:55,475
+Foram as meninas mais velhas.
+
+271
+00:32:55,559 --> 00:32:56,810
+Desculpa, mãe.
+
+272
+00:32:58,604 --> 00:32:59,688
+Se nos dá licença.
+
+273
+00:33:00,564 --> 00:33:01,607
+Claro.
+
+274
+00:33:02,191 --> 00:33:03,358
+Você está bem?
+
+275
+00:33:19,124 --> 00:33:20,000
+<i>Irmã Astrid?</i>
+
+276
+00:33:20,083 --> 00:33:23,253
+Bem-vinda a Tarascon.
+Por favor, entrem.
+
+277
+00:33:24,004 --> 00:33:27,466
+Ainda temos missas, mas ninguém vem.
+
+278
+00:33:27,549 --> 00:33:29,927
+As pessoas acreditam que foi o diabo.
+
+279
+00:33:30,010 --> 00:33:34,640
+Dizem que nossa igreja está amaldiçoada,
+que Deus nos abandonou.
+
+280
+00:33:48,570 --> 00:33:50,113
+Foi aqui que o encontramos.
+
+281
+00:35:03,145 --> 00:35:04,479
+Irmã?
+
+282
+00:35:08,442 --> 00:35:09,610
+Você está bem?
+
+283
+00:35:12,362 --> 00:35:13,447
+Eu estou bem.
+
+284
+00:35:18,118 --> 00:35:20,829
+Podemos ver o quarto do padre Noiret,
+por favor?
+
+285
+00:35:21,580 --> 00:35:22,664
+É claro.
+
+286
+00:35:31,673 --> 00:35:32,549
+Sinistro.
+
+287
+00:35:33,967 --> 00:35:35,010
+Santa Luzia.
+
+288
+00:35:35,093 --> 00:35:37,095
+Padroeira dos cegos.
+
+289
+00:35:37,346 --> 00:35:38,680
+Foi morta por pagãos.
+
+290
+00:35:38,764 --> 00:35:40,849
+Atearam fogo nela,
+mas ela não queimava.
+
+291
+00:35:40,933 --> 00:35:43,268
+Antes de matá-la,
+arrancaram os olhos dela.
+
+292
+00:35:44,853 --> 00:35:47,272
+Achei. Acompanhem-me.
+
+293
+00:36:00,202 --> 00:36:02,871
+Havia um menino naquela noite?
+Uma testemunha?
+
+294
+00:36:02,955 --> 00:36:05,499
+Sim. Jacques. Ele viu tudo.
+
+295
+00:36:06,500 --> 00:36:07,918
+Onde podemos encontrá-lo?
+
+296
+00:36:08,001 --> 00:36:10,379
+A mãe dele não quer
+que ele fale sobre isso.
+
+297
+00:36:11,922 --> 00:36:14,842
+Mas podem encontrá-lo
+jogando futebol na cidade.
+
+298
+00:36:14,925 --> 00:36:16,552
+Havia mais alguém na igreja?
+
+299
+00:36:16,969 --> 00:36:18,303
+Tínhamos um funcionário.
+
+300
+00:36:18,387 --> 00:36:20,681
+Ele se foi
+um dia depois do que aconteceu.
+
+301
+00:36:20,764 --> 00:36:22,140
+Sabe aonde ele foi?
+
+302
+00:36:22,641 --> 00:36:23,851
+Eu não sei.
+
+303
+00:36:24,643 --> 00:36:26,311
+Mas ele era um viajante.
+
+304
+00:36:26,603 --> 00:36:28,355
+Ele veio da Romênia.
+
+305
+00:36:28,438 --> 00:36:30,232
+Foi lá que ele ganhou o apelido.
+
+306
+00:36:30,315 --> 00:36:32,568
+Eles o chamavam de...
+
+307
+00:36:32,651 --> 00:36:34,111
+-"Francês".
+-Francês.
+
+308
+00:36:36,238 --> 00:36:37,531
+<i>Aonde você vai a seguir?</i>
+
+309
+00:36:38,073 --> 00:36:40,659
+Tenho dinheiro suficiente
+pra ir até a Hungria.
+
+310
+00:36:40,742 --> 00:36:42,953
+A partir de lá, o mundo me pertence.
+
+311
+00:36:44,288 --> 00:36:45,789
+Ou, pelo menos, a Hungria.
+
+312
+00:36:46,248 --> 00:36:49,042
+-Você salvou minha vida.
+-Aquilo não foi nada.
+
+313
+00:36:49,585 --> 00:36:53,130
+Não, você apenas contraiu uma...
+como se diz?
+
+314
+00:36:53,213 --> 00:36:54,882
+Uma dívida pra vida toda.
+
+315
+00:36:55,174 --> 00:36:56,550
+É muito simples.
+
+316
+00:36:56,633 --> 00:37:00,304
+Você e eu estaremos ligados
+por toda a eternidade.
+
+317
+00:37:05,309 --> 00:37:06,727
+Eu já ia esquecendo.
+
+318
+00:37:06,810 --> 00:37:09,605
+Não é nada, só um agradecimento.
+
+319
+00:37:13,567 --> 00:37:15,944
+Sementes de tomate. Obrigado.
+
+320
+00:37:16,028 --> 00:37:19,698
+Você disse que queria uma fazenda um dia.
+Deve começar de algum lugar.
+
+321
+00:37:22,034 --> 00:37:23,577
+Vou sentir saudades, Irene.
+
+322
+00:37:40,219 --> 00:37:41,512
+Irene?
+
+323
+00:37:42,513 --> 00:37:44,389
+Quem é esse tal de Francês?
+
+324
+00:37:46,433 --> 00:37:47,935
+O nome dele é Maurice.
+
+325
+00:37:48,810 --> 00:37:50,604
+Em Santa Carta, foi nosso guia.
+
+326
+00:37:51,146 --> 00:37:55,359
+Quando enfrentei o demônio,
+ele voltou pra me ajudar.
+
+327
+00:37:58,695 --> 00:38:00,322
+<i>Ele salvou minha vida.</i>
+
+328
+00:38:03,784 --> 00:38:04,952
+Foi quando aconteceu.
+
+329
+00:38:09,873 --> 00:38:11,416
+Foi como o demônio escapou.
+
+330
+00:38:12,292 --> 00:38:15,337
+É assim que ele se desloca,
+fazendo essas coisas.
+
+331
+00:38:15,420 --> 00:38:17,756
+Então ele está possuído.
+
+332
+00:38:28,433 --> 00:38:29,268
+Maurice.
+
+333
+00:38:30,811 --> 00:38:32,980
+Oi. Olá de novo.
+
+334
+00:38:34,898 --> 00:38:36,900
+Eu me dei conta de que não agradeci.
+
+335
+00:38:37,359 --> 00:38:39,236
+Sophie me contou o que você fez.
+
+336
+00:38:39,319 --> 00:38:41,864
+Aquelas meninas são uns monstrinhos.
+
+337
+00:38:42,739 --> 00:38:46,159
+Não são todas malvadas.
+Só algumas.
+
+338
+00:38:50,539 --> 00:38:54,126
+Olha... A capela.
+Por que a Madame a mantém trancada?
+
+339
+00:38:54,835 --> 00:38:56,336
+É perigoso.
+
+340
+00:38:57,004 --> 00:38:59,923
+O filho dela morreu lá dentro
+durante os bombardeios.
+
+341
+00:39:01,049 --> 00:39:03,302
+Cedric. Ele era coroinha.
+
+342
+00:39:04,344 --> 00:39:06,388
+Eu não sabia que ela tinha um filho.
+
+343
+00:39:06,471 --> 00:39:07,890
+Ela não fala sobre isso.
+
+344
+00:39:07,973 --> 00:39:12,102
+Ela é uma mulher severa,
+mas tem sido muito boa pra nós.
+
+345
+00:39:20,569 --> 00:39:22,863
+-É melhor eu voltar pras crianças.
+-Claro.
+
+346
+00:39:22,946 --> 00:39:24,865
+E é melhor eu voltar pro trabalho.
+
+347
+00:39:45,636 --> 00:39:46,762
+Peguei você!
+
+348
+00:39:47,513 --> 00:39:50,182
+-O que você estava fazendo?
+-Nada.
+
+349
+00:39:50,974 --> 00:39:52,017
+Estava espionando.
+
+350
+00:39:53,852 --> 00:39:56,021
+-Talvez.
+-Talvez.
+
+351
+00:39:56,104 --> 00:39:59,107
+Talvez, provavelmente,
+com certeza, sem dúvida.
+
+352
+00:40:01,109 --> 00:40:02,402
+Do que estavam falando?
+
+353
+00:40:03,320 --> 00:40:04,196
+Nada.
+
+354
+00:40:05,572 --> 00:40:08,033
+Era alguma coisa.
+Ele fez você rir.
+
+355
+00:40:09,409 --> 00:40:11,161
+Isso não é da sua conta.
+
+356
+00:40:12,496 --> 00:40:15,832
+Agora vamos. Chega de espionar.
+
+357
+00:40:21,755 --> 00:40:22,506
+Ei!
+
+358
+00:40:33,976 --> 00:40:35,435
+Sophie?
+
+359
+00:40:40,983 --> 00:40:41,984
+Mãe?
+
+360
+00:40:56,665 --> 00:40:57,416
+Mãe?
+
+361
+00:41:18,103 --> 00:41:19,354
+Mãe?
+
+362
+00:41:46,423 --> 00:41:47,841
+Mãe?
+
+363
+00:42:36,014 --> 00:42:38,475
+Saiam, meninas.
+Vamos lá. Depressa.
+
+364
+00:42:43,272 --> 00:42:44,314
+Sophie.
+
+365
+00:42:44,898 --> 00:42:46,191
+Onde você se meteu?
+
+366
+00:42:46,275 --> 00:42:48,819
+-Eu estava te procurando. Venha.
+-Mãe.
+
+367
+00:42:50,445 --> 00:42:51,196
+Depressa.
+
+368
+00:42:54,449 --> 00:42:55,367
+<i>E agora?</i>
+
+369
+00:42:55,450 --> 00:42:57,536
+Isso é só um grande beco sem saída?
+
+370
+00:42:59,037 --> 00:43:00,998
+Não. Tem alguma coisa aqui.
+
+371
+00:43:03,250 --> 00:43:04,334
+O quê?
+
+372
+00:43:05,836 --> 00:43:06,920
+Está sentindo algo?
+
+373
+00:43:08,547 --> 00:43:09,590
+Algo assim.
+
+374
+00:43:10,757 --> 00:43:12,134
+Minhas irmãs.
+
+375
+00:43:12,217 --> 00:43:14,469
+Fiz uma reserva.
+Meu nome é Irene Palmer.
+
+376
+00:43:14,553 --> 00:43:15,554
+Palmer?
+
+377
+00:43:17,264 --> 00:43:19,391
+Infelizmente, eu não encontrei.
+
+378
+00:43:20,350 --> 00:43:23,729
+O quê? Não é possível.
+Eu tenho uma reserva.
+
+379
+00:43:24,813 --> 00:43:26,064
+Madame, não está aqui.
+
+380
+00:43:26,690 --> 00:43:28,734
+Deixa que eu cuido disso.
+
+381
+00:43:28,817 --> 00:43:30,944
+Posso falar com a gerência, por favor?
+
+382
+00:43:32,154 --> 00:43:33,780
+-É claro, madame.
+-Obrigada.
+
+383
+00:43:58,722 --> 00:43:59,473
+Jacques?
+
+384
+00:44:09,399 --> 00:44:10,484
+Você é o menino.
+
+385
+00:44:13,362 --> 00:44:16,907
+Não tenha medo. Meu nome é Irene.
+A Igreja me mandou pra ajudar.
+
+386
+00:44:17,282 --> 00:44:19,201
+Sei que estava lá naquela noite.
+
+387
+00:44:19,910 --> 00:44:21,078
+Você o viu.
+
+388
+00:44:30,754 --> 00:44:34,258
+Naquela noite. Você tinha um rosário?
+
+389
+00:44:35,008 --> 00:44:37,219
+Não. Era do padre Noiret.
+
+390
+00:44:37,678 --> 00:44:39,513
+-O quê?
+-Eu peguei.
+
+391
+00:44:40,222 --> 00:44:41,557
+Desculpa, fiquei com medo.
+
+392
+00:44:53,694 --> 00:44:55,904
+Jacques! Espera!
+
+393
+00:45:26,185 --> 00:45:27,394
+Jacques?
+
+394
+00:49:21,753 --> 00:49:26,049
+Irene? Irene!
+
+395
+00:49:29,970 --> 00:49:32,014
+Irene! Irene!
+
+396
+00:49:32,681 --> 00:49:35,392
+Irene, acorda. Ai, meu Deus. Acorda.
+
+397
+00:49:35,475 --> 00:49:38,103
+Precisamos de um médico.
+Socorro!
+
+398
+00:49:38,187 --> 00:49:41,106
+Alguém me ajude!
+Preciso de um médico!
+
+399
+00:49:42,399 --> 00:49:43,358
+Irene.
+
+400
+00:49:43,442 --> 00:49:45,611
+Alguém me ajude!
+
+401
+00:49:59,291 --> 00:50:02,586
+Ave Maria, cheia de graça,
+o Senhor é convosco.
+
+402
+00:50:02,669 --> 00:50:05,547
+Bendita sois vós entre as mulheres e...
+
+403
+00:51:08,694 --> 00:51:09,987
+Maurice?
+
+404
+00:51:30,424 --> 00:51:31,466
+Maurice.
+
+405
+00:51:41,810 --> 00:51:42,853
+Madame Laurent?
+
+406
+00:51:43,770 --> 00:51:44,855
+O que está fazendo?
+
+407
+00:51:45,814 --> 00:51:47,566
+Eu não sei. Não sei.
+
+408
+00:51:47,649 --> 00:51:49,902
+-Eu não sei.
+-Volte para o seu quarto.
+
+409
+00:51:49,985 --> 00:51:50,944
+Sim.
+
+410
+00:51:52,779 --> 00:51:54,531
+-Desculpa.
+-Tudo bem.
+
+411
+00:51:55,407 --> 00:51:57,034
+-Desculpa.
+-Tudo bem.
+
+412
+00:51:57,117 --> 00:51:59,703
+Ai, meu Deus. Ai, meu Deus.
+
+413
+00:52:09,171 --> 00:52:10,214
+Mamãe!
+
+414
+00:53:20,951 --> 00:53:22,327
+Quem está aí?
+
+415
+00:54:00,574 --> 00:54:01,950
+Cedric?
+
+416
+00:55:12,813 --> 00:55:14,189
+Cedric.
+
+417
+00:55:28,495 --> 00:55:29,705
+Pare!
+
+418
+00:55:56,690 --> 00:55:59,276
+Aí está ela. De volta dos mortos.
+
+419
+00:56:00,986 --> 00:56:03,322
+-Obrigada, doutor.
+-De nada, irmã.
+
+420
+00:56:08,619 --> 00:56:10,162
+O que houve ontem à noite?
+
+421
+00:56:18,795 --> 00:56:21,840
+Estamos perto. Eu tive uma visão.
+
+422
+00:56:22,549 --> 00:56:24,801
+Eu vi o que o demônio quer.
+
+423
+00:56:26,011 --> 00:56:27,721
+É poderoso.
+
+424
+00:56:28,555 --> 00:56:31,934
+Um prêmio cobiçado. Uma relíquia.
+
+425
+00:56:34,478 --> 00:56:36,355
+Está usando o Maurice
+pra conseguir.
+
+426
+00:56:38,732 --> 00:56:40,067
+<i>Ele o está conduzindo.</i>
+
+427
+00:56:41,235 --> 00:56:42,736
+<i>Ele o está sugando.</i>
+
+428
+00:56:44,071 --> 00:56:47,741
+<i>Ele o está mantendo vivo
+só pra encontrar essa coisa.</i>
+
+429
+00:56:48,909 --> 00:56:50,786
+Ele vai matá-lo depois disso.
+
+430
+00:56:55,791 --> 00:56:57,125
+O coroinha.
+
+431
+00:56:58,585 --> 00:57:00,754
+Eu me esqueci de contar.
+Eu o encontrei.
+
+432
+00:57:00,838 --> 00:57:02,673
+-O quê?
+-Bom, ele me encontrou.
+
+433
+00:57:02,756 --> 00:57:05,676
+Ele veio quando você estava inconsciente.
+E me deu isto.
+
+434
+00:57:16,895 --> 00:57:18,272
+O rosário do padre Noiret.
+
+435
+00:57:21,733 --> 00:57:22,651
+O símbolo.
+
+436
+00:57:23,151 --> 00:57:26,989
+Ele me parece tão familiar,
+mas não sei onde eu vi.
+
+437
+00:57:27,656 --> 00:57:30,158
+Eu sei. As fotos.
+
+438
+00:57:34,079 --> 00:57:36,498
+Acho que eu vi em uma das vítimas.
+
+439
+00:57:36,582 --> 00:57:37,583
+Veja.
+
+440
+00:57:38,542 --> 00:57:39,877
+É uma conexão.
+
+441
+00:57:47,843 --> 00:57:49,428
+Descobrindo o que significa,
+
+442
+00:57:49,511 --> 00:57:51,180
+descobriremos aonde ele vai.
+
+443
+00:57:51,263 --> 00:57:52,973
+Como vamos fazer isso?
+
+444
+00:57:54,224 --> 00:57:56,310
+Conheço alguém dos Arquivos Católicos.
+
+445
+00:59:03,043 --> 00:59:05,754
+Não encontro a Sophie. Você a viu?
+
+446
+00:59:06,964 --> 00:59:08,465
+Não.
+
+447
+00:59:09,132 --> 00:59:12,219
+Ei, ei, não se preocupe.
+Ela não pode estar longe.
+
+448
+00:59:12,302 --> 00:59:13,679
+Vou encontrá-la, está bem?
+
+449
+00:59:14,972 --> 00:59:16,139
+Sophie!
+
+450
+00:59:28,277 --> 00:59:29,611
+Sophie!
+
+451
+00:59:54,428 --> 00:59:55,804
+Sophie.
+
+452
+00:59:59,016 --> 01:00:00,392
+Oi.
+
+453
+01:00:05,939 --> 01:00:09,359
+Este lugar aqui é muito legal.
+Posso ficar com você?
+
+454
+01:00:11,236 --> 01:00:12,404
+Pra quê?
+
+455
+01:00:13,906 --> 01:00:15,199
+Só pra conversar.
+
+456
+01:00:26,627 --> 01:00:28,795
+A Madame nunca entrava na capela.
+
+457
+01:00:30,547 --> 01:00:33,175
+Não sei por que
+ela entrou ontem à noite.
+
+458
+01:00:36,386 --> 01:00:38,180
+Tem algo errado com esta escola.
+
+459
+01:00:39,973 --> 01:00:42,476
+Algo aqui não me parece certo.
+
+460
+01:00:45,145 --> 01:00:46,980
+É como se tivesse algo aqui...
+
+461
+01:00:48,899 --> 01:00:50,651
+que não deveria estar aqui.
+
+462
+01:00:53,153 --> 01:00:54,321
+Sophie.
+
+463
+01:00:56,573 --> 01:00:58,033
+O que aconteceu?
+
+464
+01:00:58,992 --> 01:01:01,495
+Você viu alguma coisa?
+Qualquer coisa?
+
+465
+01:01:02,162 --> 01:01:03,580
+Não.
+
+466
+01:01:05,916 --> 01:01:07,543
+É só uma sensação.
+
+467
+01:01:09,545 --> 01:01:12,548
+Ei, tudo bem estar com medo.
+
+468
+01:01:14,132 --> 01:01:15,551
+Eu também estou.
+
+469
+01:01:16,343 --> 01:01:18,929
+Houve momentos na minha vida
+
+470
+01:01:19,012 --> 01:01:23,225
+em que o medo me fez fazer coisas
+que nunca imaginei ser possível.
+
+471
+01:01:27,229 --> 01:01:28,647
+Você ficou com a pulseira.
+
+472
+01:01:29,690 --> 01:01:33,193
+É. Bom, eu tentei vender,
+mas ninguém quis comprar.
+
+473
+01:01:36,446 --> 01:01:38,907
+Vamos.
+É melhor a gente voltar lá pra baixo.
+
+474
+01:01:38,991 --> 01:01:41,451
+Sua mãe está preocupada, ok?
+
+475
+01:01:42,244 --> 01:01:43,495
+Ela vive preocupada.
+
+476
+01:01:43,954 --> 01:01:46,707
+Não sei por quê.
+Por te amar, talvez?
+
+477
+01:01:48,917 --> 01:01:52,045
+Vamos.
+Só espero que ela não te ponha de castigo.
+
+478
+01:02:10,939 --> 01:02:11,690
+Com licença.
+
+479
+01:02:11,773 --> 01:02:13,734
+Desculpe. Obrigada, Deus te abençoe.
+
+480
+01:02:24,369 --> 01:02:28,874
+PALÁCIO DOS PAPAS
+OS ARQUIVOS CATÓLICOS
+
+481
+01:02:28,957 --> 01:02:31,251
+<i>-Onde encontrou isto?
+-Tarascon.</i>
+
+482
+01:02:31,335 --> 01:02:33,003
+Isto pertencia ao padre?
+
+483
+01:02:33,462 --> 01:02:36,048
+-Sim. Como soube?
+-Tenho falado com o Vaticano.
+
+484
+01:02:36,131 --> 01:02:39,051
+Disseram que o demônio
+de Santa Carta voltou.
+
+485
+01:02:40,552 --> 01:02:42,095
+É um brasão de família.
+
+486
+01:02:42,179 --> 01:02:43,305
+De que família?
+
+487
+01:02:46,683 --> 01:02:49,102
+Santa Luzia de Siracusa.
+
+488
+01:02:49,603 --> 01:02:51,897
+Estas vítimas devem ser
+descendentes dela.
+
+489
+01:02:52,523 --> 01:02:53,732
+Santa Luzia?
+
+490
+01:03:00,113 --> 01:03:01,615
+Acho que sei o que ele quer.
+
+491
+01:03:03,992 --> 01:03:04,826
+O quê?
+
+492
+01:03:05,953 --> 01:03:06,870
+Os olhos.
+
+493
+01:03:07,579 --> 01:03:09,456
+Os olhos? Que olhos?
+
+494
+01:03:10,666 --> 01:03:14,002
+Quando Luzia foi morta por pagãos,
+a família dela fugiu.
+
+495
+01:03:14,127 --> 01:03:15,420
+Eles foram caçados.
+
+496
+01:03:18,006 --> 01:03:19,675
+Eles se espalharam pelo mundo.
+
+497
+01:03:19,758 --> 01:03:21,927
+E, esse tempo todo,
+protegeram um segredo.
+
+498
+01:03:22,469 --> 01:03:24,221
+Uma relíquia sagrada.
+
+499
+01:03:24,721 --> 01:03:26,640
+Os olhos de Santa Luzia.
+
+500
+01:03:29,476 --> 01:03:34,481
+Então, o demônio está atrás
+de um par de olhos?
+
+501
+01:03:35,023 --> 01:03:36,275
+Por que ia querer isso?
+
+502
+01:03:37,276 --> 01:03:38,402
+É um demônio.
+
+503
+01:03:38,861 --> 01:03:42,281
+E eu sou só um bibliotecário enaltecido.
+Não faço ideia.
+
+504
+01:03:43,615 --> 01:03:46,952
+Mas, se vamos partilhar teorias,
+
+505
+01:03:47,578 --> 01:03:52,457
+talvez queira considerar que esse demônio,
+uma dia, foi um anjo.
+
+506
+01:03:56,461 --> 01:03:57,796
+Rejeitado por Deus.
+
+507
+01:03:59,047 --> 01:04:02,885
+Destituído do poder sagrado
+que Deus deu aos Seus santos.
+
+508
+01:04:03,302 --> 01:04:04,970
+Ele quer esse poder de volta.
+
+509
+01:04:05,429 --> 01:04:06,972
+Demônios são infinitos.
+
+510
+01:04:07,055 --> 01:04:10,893
+Ele estava lá com Santa Luzia
+e caça a linhagem dela desde então.
+
+511
+01:04:11,143 --> 01:04:13,395
+Essa relíquia é um item de grande poder.
+
+512
+01:04:14,438 --> 01:04:17,399
+Nas mãos de um demônio,
+seria impensável.
+
+513
+01:04:17,482 --> 01:04:19,776
+Mas, nas suas mãos,
+poderia ser uma arma.
+
+514
+01:04:19,860 --> 01:04:22,905
+Assim como você usou
+o sangue de Cristo em Santa Carta.
+
+515
+01:04:23,655 --> 01:04:25,240
+É assim que deve fazer.
+
+516
+01:04:26,992 --> 01:04:31,038
+É assim que vai mandar essa coisa
+de volta para o inferno.
+
+517
+01:04:34,750 --> 01:04:36,210
+Mas não sabemos onde está.
+
+518
+01:04:38,212 --> 01:04:39,129
+Talvez eu saiba.
+
+519
+01:04:40,672 --> 01:04:44,134
+Catalogamos essas relíquias,
+rastreamos boatos e coisas assim.
+
+520
+01:04:44,218 --> 01:04:47,846
+E, se não me falha a memória,
+essa caiu nas mãos de um monge.
+
+521
+01:04:49,932 --> 01:04:51,350
+Jean-Paul Redar.
+
+522
+01:04:51,683 --> 01:04:54,269
+Segundo as cartas
+que ele escreveu para o Vaticano,
+
+523
+01:04:54,353 --> 01:04:57,981
+ele enterrou os olhos
+em algum lugar do mosteiro dele.
+
+524
+01:04:58,065 --> 01:05:01,527
+Santa Maria. Aix-en-Provence.
+
+525
+01:05:01,610 --> 01:05:03,237
+Fica a uma hora daqui.
+
+526
+01:05:03,737 --> 01:05:04,988
+Ainda é um mosteiro?
+
+527
+01:05:06,448 --> 01:05:11,036
+Não, foi vendido para uma vinícola,
+e agora...
+
+528
+01:05:13,539 --> 01:05:14,998
+é um internato.
+
+529
+01:05:27,511 --> 01:05:28,887
+<i>Irene, espere.</i>
+
+530
+01:05:28,971 --> 01:05:31,557
+O que quer que aconteça esta noite,
+não hesite.
+
+531
+01:05:32,015 --> 01:05:34,017
+Não sabemos
+o que esta relíquia pode fazer.
+
+532
+01:05:34,810 --> 01:05:36,311
+O mesmo serve para o demônio.
+
+533
+01:05:36,979 --> 01:05:39,147
+<i>Ele pode tomar qualquer forma,</i>
+
+534
+01:05:39,273 --> 01:05:42,401
+<i>e vai escolher a forma
+que se aproveite dos seus medos</i>
+
+535
+01:05:42,484 --> 01:05:45,070
+<i>e dos medos das pessoas ao seu redor.</i>
+
+536
+01:05:45,153 --> 01:05:49,199
+<i>Você tem que estar preparada para detê-lo
+a qualquer custo.</i>
+
+537
+01:06:00,502 --> 01:06:01,545
+O que está fazendo?
+
+538
+01:06:01,962 --> 01:06:05,007
+Chama-se feijoada.
+É um cozido português.
+
+539
+01:06:05,382 --> 01:06:06,341
+O que tem nele?
+
+540
+01:06:09,261 --> 01:06:10,596
+Lesmas.
+
+541
+01:06:12,014 --> 01:06:13,223
+E caracóis.
+
+542
+01:06:26,320 --> 01:06:27,237
+Eu menti pra você.
+
+543
+01:06:28,697 --> 01:06:29,489
+Sobre o quê?
+
+544
+01:06:30,199 --> 01:06:32,326
+Falei que não me lembrava da minha mãe.
+
+545
+01:06:33,827 --> 01:06:34,828
+Mas eu me lembro.
+
+546
+01:06:37,748 --> 01:06:39,541
+Eu me lembro de tudo sobre ela.
+
+547
+01:06:41,126 --> 01:06:43,712
+<i>Ela era profundamente religiosa.</i>
+
+548
+01:06:43,795 --> 01:06:46,006
+<i>Dizia que Deus
+falava diretamente com ela.</i>
+
+549
+01:06:46,089 --> 01:06:47,466
+<i>Que lhe mostrava coisas.</i>
+
+550
+01:06:48,050 --> 01:06:49,092
+<i>Visões.</i>
+
+551
+01:06:50,594 --> 01:06:51,595
+Como faz comigo.
+
+552
+01:06:52,888 --> 01:06:54,515
+Meu pai não acreditava nela.
+
+553
+01:06:55,015 --> 01:06:56,642
+Ele dizia que ela era maluca.
+
+554
+01:06:58,310 --> 01:06:59,353
+Herege.
+
+555
+01:06:59,937 --> 01:07:01,271
+O que aconteceu com ela?
+
+556
+01:07:02,523 --> 01:07:04,358
+Meu pai a levou a um médico.
+
+557
+01:07:06,401 --> 01:07:08,362
+Depois, eles voltaram e a levaram.
+
+558
+01:07:08,445 --> 01:07:09,780
+Sempre estarei com você.
+
+559
+01:07:15,369 --> 01:07:16,870
+Eu nunca mais a vi.
+
+560
+01:07:29,967 --> 01:07:30,717
+Uau!
+
+561
+01:07:32,636 --> 01:07:34,388
+Sempre dá voltas. Quero dar uma.
+
+562
+01:07:41,645 --> 01:07:42,437
+Milady.
+
+563
+01:07:45,649 --> 01:07:47,276
+Mãe, é sua vez.
+
+564
+01:07:49,736 --> 01:07:51,321
+Não, é melhor não.
+
+565
+01:07:51,405 --> 01:07:52,489
+Por favor?
+
+566
+01:07:57,119 --> 01:07:58,036
+Por favor?
+
+567
+01:08:01,123 --> 01:08:02,541
+Está bem.
+
+568
+01:09:00,474 --> 01:09:01,642
+Você está bem?
+
+569
+01:09:04,520 --> 01:09:06,438
+Estou. Não é nada.
+
+570
+01:09:07,272 --> 01:09:08,814
+-Tudo bem.
+-Não é nada.
+
+571
+01:09:12,694 --> 01:09:13,487
+Maurice!
+
+572
+01:09:35,676 --> 01:09:37,594
+Tem alguma coisa sob sua pele.
+
+573
+01:09:54,444 --> 01:09:55,153
+Ai, não.
+
+574
+01:09:59,283 --> 01:10:02,369
+Vamos! Vamos!
+Temos que ir! Depressa!
+
+575
+01:10:11,044 --> 01:10:13,046
+Por aqui! Por aqui! Vamos!
+
+576
+01:10:18,302 --> 01:10:20,053
+Meu Deus. Irmã.
+
+577
+01:10:20,137 --> 01:10:21,430
+Maurice.
+
+578
+01:10:22,848 --> 01:10:24,725
+Está de volta. Está aqui.
+
+579
+01:10:25,184 --> 01:10:26,977
+-Maurice...
+-Kate, esta é a Irene.
+
+580
+01:10:27,060 --> 01:10:29,313
+-Não...
+-É minha amiga, vai nos ajudar.
+
+581
+01:10:29,396 --> 01:10:31,565
+-Temos que ir.
+-Fique longe delas!
+
+582
+01:10:33,859 --> 01:10:34,693
+O quê?
+
+583
+01:10:36,320 --> 01:10:38,572
+Precisamos ir. Agora!
+
+584
+01:10:38,655 --> 01:10:39,865
+É você.
+
+585
+01:10:41,033 --> 01:10:41,867
+O quê?
+
+586
+01:10:43,702 --> 01:10:45,329
+Está dentro de você.
+
+587
+01:10:48,415 --> 01:10:49,583
+Não.
+
+588
+01:10:50,292 --> 01:10:51,877
+-Não.
+-A culpa é minha.
+
+589
+01:10:51,960 --> 01:10:54,505
+Você voltou por mim.
+Foi quando aconteceu.
+
+590
+01:10:56,632 --> 01:10:59,510
+Meu Deus... Não.
+
+591
+01:11:02,179 --> 01:11:03,889
+Maurice, o que está havendo?
+
+592
+01:11:03,972 --> 01:11:05,307
+Nós podemos detê-lo.
+
+593
+01:11:31,542 --> 01:11:34,044
+Olá, irmã.
+
+594
+01:11:46,181 --> 01:11:47,391
+Maurice?
+
+595
+01:11:54,940 --> 01:11:56,149
+Irene, você está bem?
+
+596
+01:11:57,025 --> 01:11:58,068
+Detenha-o.
+
+597
+01:12:15,836 --> 01:12:16,795
+Demônio!
+
+598
+01:12:18,422 --> 01:12:23,051
+Em nome de Deus e do Espírito Santo,
+ordeno que deixe este homem!
+
+599
+01:12:28,599 --> 01:12:30,184
+Deixe-o em paz!
+
+600
+01:12:55,584 --> 01:12:57,044
+Acha que isso vai contê-lo?
+
+601
+01:13:01,006 --> 01:13:02,007
+Vamos agir rápido.
+
+602
+01:13:08,388 --> 01:13:09,306
+Vocês estão bem?
+
+603
+01:13:09,389 --> 01:13:11,183
+O que foi? Qual o problema dele?
+
+604
+01:13:11,266 --> 01:13:12,309
+Ele está doente.
+
+605
+01:13:12,392 --> 01:13:14,520
+Vamos ajudá-lo, mas precisam nos ajudar.
+
+606
+01:13:15,187 --> 01:13:17,189
+Ele estava indo naquela direção.
+
+607
+01:13:17,856 --> 01:13:18,857
+O que tem lá?
+
+608
+01:13:20,108 --> 01:13:21,527
+É a capela.
+
+609
+01:13:26,031 --> 01:13:27,741
+O que estão procurando?
+
+610
+01:13:27,824 --> 01:13:31,453
+Uma relíquia antiga deixada aqui
+pelo monge Jean-Paul Redar.
+
+611
+01:13:32,538 --> 01:13:33,664
+Isso soa familiar?
+
+612
+01:13:33,747 --> 01:13:37,042
+Sou só uma professora.
+Ninguém pode entrar aqui.
+
+613
+01:13:37,125 --> 01:13:40,546
+Redar deve ter deixado uma pista
+para os outros descendentes.
+
+614
+01:13:44,633 --> 01:13:45,884
+O que está olhando?
+
+615
+01:13:54,101 --> 01:13:55,561
+O bode.
+
+616
+01:13:56,728 --> 01:13:57,938
+É o demônio.
+
+617
+01:13:59,857 --> 01:14:01,984
+É só uma brincadeira das crianças.
+
+618
+01:14:02,317 --> 01:14:03,652
+Que tipo de brincadeira?
+
+619
+01:14:03,735 --> 01:14:05,320
+O sol brilha através do vitral,
+
+620
+01:14:05,904 --> 01:14:08,073
+e os olhos do bode ficam vermelhos.
+
+621
+01:14:10,784 --> 01:14:13,537
+É o diabo. Ele observa você.
+
+622
+01:14:30,971 --> 01:14:32,055
+Bem ali.
+
+623
+01:14:46,361 --> 01:14:47,613
+Alguma coisa?
+
+624
+01:14:48,197 --> 01:14:50,032
+Não, ainda não.
+
+625
+01:14:53,285 --> 01:14:55,078
+Está meio alto. Abaixa um pouco.
+
+626
+01:14:57,956 --> 01:14:59,791
+Espera. Espera.
+
+627
+01:14:59,875 --> 01:15:01,627
+Volta pra cima devagar.
+
+628
+01:15:06,215 --> 01:15:06,924
+Para!
+
+629
+01:15:12,346 --> 01:15:13,055
+É isso.
+
+630
+01:15:35,994 --> 01:15:36,870
+Conseguimos.
+
+631
+01:15:38,163 --> 01:15:39,248
+Nós conseguimos!
+
+632
+01:16:16,326 --> 01:16:17,160
+Sophie.
+
+633
+01:16:43,854 --> 01:16:44,855
+Sophie.
+
+634
+01:17:06,418 --> 01:17:09,087
+Celeste, você ouviu isso?
+
+635
+01:17:14,134 --> 01:17:15,677
+Tem alguém lá em cima.
+
+636
+01:17:19,431 --> 01:17:20,516
+Vai dar uma olhada.
+
+637
+01:18:10,315 --> 01:18:12,150
+Espera. Espera.
+
+638
+01:18:39,636 --> 01:18:41,221
+Os olhos de Santa Luzia.
+
+639
+01:19:17,090 --> 01:19:18,675
+-Oi.
+-Quem é você?
+
+640
+01:19:18,759 --> 01:19:20,511
+Está tudo bem. Sou amiga da Kate.
+
+641
+01:19:23,222 --> 01:19:24,890
+Acho que tem alguém lá em cima.
+
+642
+01:19:49,414 --> 01:19:50,499
+O que é isso?
+
+643
+01:20:13,438 --> 01:20:15,440
+O que está fazendo? Quem é essa?
+
+644
+01:20:21,321 --> 01:20:23,156
+O que é aquela coisa?
+
+645
+01:20:26,326 --> 01:20:27,536
+É o diabo.
+
+646
+01:20:57,816 --> 01:20:58,692
+As meninas!
+
+647
+01:21:07,201 --> 01:21:08,952
+Mãe! Mãe!
+
+648
+01:24:24,690 --> 01:24:26,066
+O que ela está fazendo?
+
+649
+01:24:28,443 --> 01:24:31,113
+-É a Madame Laurent.
+-O quê?
+
+650
+01:24:31,738 --> 01:24:34,074
+Ela está de pé no quarto dela.
+
+651
+01:24:41,915 --> 01:24:43,625
+Não! Não!
+
+652
+01:25:28,170 --> 01:25:29,087
+Sophie.
+
+653
+01:25:32,883 --> 01:25:36,053
+Sophie, sou eu, o Maurice.
+
+654
+01:25:38,639 --> 01:25:41,642
+Não tenha medo. Eu sou seu amigo.
+
+655
+01:25:51,109 --> 01:25:53,904
+Sophie. Sophie!
+
+656
+01:26:02,412 --> 01:26:03,622
+Sophie.
+
+657
+01:26:13,340 --> 01:26:17,636
+Eu jamais machucaria você.
+
+658
+01:26:18,262 --> 01:26:20,514
+Você se lembra? Capitã?
+
+659
+01:26:54,006 --> 01:26:54,923
+Os olhos.
+
+660
+01:29:22,487 --> 01:29:24,489
+Sophie!
+
+661
+01:29:30,787 --> 01:29:32,331
+Sophie!
+
+662
+01:29:46,345 --> 01:29:48,597
+-Sophie!
+-Irene!
+
+663
+01:29:49,723 --> 01:29:51,266
+Você está bem?
+
+664
+01:29:51,350 --> 01:29:52,476
+Está comigo.
+
+665
+01:30:01,068 --> 01:30:02,361
+Demônio!
+
+666
+01:30:06,406 --> 01:30:07,574
+Irene!
+
+667
+01:30:19,503 --> 01:30:20,879
+Você o está machucando!
+
+668
+01:30:25,300 --> 01:30:26,677
+Irmã, por favor.
+
+669
+01:30:27,803 --> 01:30:28,929
+Ele está me matando.
+
+670
+01:30:37,855 --> 01:30:39,648
+Não!
+
+671
+01:30:49,241 --> 01:30:50,659
+Não!
+
+672
+01:32:02,981 --> 01:32:04,066
+Cadê a Sophie?
+
+673
+01:32:45,190 --> 01:32:46,233
+Fiquem juntas.
+
+674
+01:33:27,191 --> 01:33:28,192
+Levanta, levanta!
+
+675
+01:33:31,069 --> 01:33:31,904
+Vai, vai!
+
+676
+01:33:32,946 --> 01:33:34,489
+As portas!
+
+677
+01:33:40,120 --> 01:33:42,039
+Salva-me, ó Deus, pelo teu nome.
+
+678
+01:33:44,458 --> 01:33:45,626
+Não!
+
+679
+01:34:19,868 --> 01:34:20,994
+Pega a tábua!
+
+680
+01:34:38,929 --> 01:34:40,013
+Voltem pra capela!
+
+681
+01:34:40,556 --> 01:34:41,807
+Simone, vem comigo!
+
+682
+01:34:55,112 --> 01:34:56,488
+Fiquem atrás de mim.
+
+683
+01:35:36,737 --> 01:35:38,822
+<i>Eu sempre estarei com você.</i>
+
+684
+01:35:45,162 --> 01:35:46,330
+<i>Olha pra mim.</i>
+
+685
+01:36:13,565 --> 01:36:14,566
+Você está bem?
+
+686
+01:36:15,359 --> 01:36:16,151
+Estou.
+
+687
+01:36:16,235 --> 01:36:17,528
+Aquilo foi um milagre.
+
+688
+01:36:24,826 --> 01:36:25,827
+O vinho.
+
+689
+01:36:31,124 --> 01:36:33,836
+Sophie! Sophie!
+
+690
+01:36:42,427 --> 01:36:43,262
+Irene!
+
+691
+01:36:43,428 --> 01:36:46,515
+Não. Não, Maurice, não!
+
+692
+01:36:46,598 --> 01:36:47,599
+Não!
+
+693
+01:36:49,768 --> 01:36:50,602
+Não!
+
+694
+01:36:53,105 --> 01:36:56,316
+Maurice, não! Não!
+
+695
+01:36:57,526 --> 01:36:58,694
+Solta, por favor!
+
+696
+01:36:59,069 --> 01:36:59,820
+Para!
+
+697
+01:37:02,030 --> 01:37:03,156
+Irmã.
+
+698
+01:37:04,616 --> 01:37:05,826
+Reza comigo.
+
+699
+01:37:15,919 --> 01:37:17,588
+Este é o cálice do meu sangue.
+
+700
+01:37:18,630 --> 01:37:21,175
+<i>Quando Luzia foi morta,
+a família dela fugiu.</i>
+
+701
+01:37:21,550 --> 01:37:24,011
+<i>Eles foram caçados
+e se espalharam pelo mundo.</i>
+
+702
+01:37:24,970 --> 01:37:27,639
+O sangue da nova e eterna aliança.
+
+703
+01:37:28,515 --> 01:37:30,642
+Que será derramado por vós
+e por todos
+
+704
+01:37:30,726 --> 01:37:33,812
+para a remissão dos pecados.
+
+705
+01:37:33,896 --> 01:37:36,398
+<i>Falei que não me lembrava
+da minha mãe, mas lembro.</i>
+
+706
+01:37:36,481 --> 01:37:39,067
+Santa Luzia. Padroeira dos cegos.
+
+707
+01:37:39,193 --> 01:37:41,028
+<i>Atearam fogo nela,
+mas ela não queimava.</i>
+
+708
+01:37:41,111 --> 01:37:42,863
+Façam isso em minha memória.
+
+709
+01:37:43,947 --> 01:37:46,033
+<i>Estas vítimas
+devem ser descendentes dela.</i>
+
+710
+01:37:48,952 --> 01:37:50,162
+Você tem os meus olhos.
+
+711
+01:37:57,461 --> 01:37:59,004
+Amém.
+
+712
+01:39:32,890 --> 01:39:34,224
+Irmã...
+
+713
+01:39:37,519 --> 01:39:39,354
+você me salvou.
+
+714
+01:41:01,395 --> 01:41:02,646
+Maurice.
+
+715
+01:41:24,001 --> 01:41:25,294
+Desculpa.
+
+716
+01:41:26,003 --> 01:41:27,296
+Eu sinto muito.
+
+717
+01:41:28,422 --> 01:41:29,715
+Tudo bem.
+
+718
+01:41:31,925 --> 01:41:32,801
+Desculpa.
+
+719
+01:44:31,271 --> 01:44:34,024
+<i>Sr. Warren? Sr. Warren?</i>
+
+720
+01:44:34,983 --> 01:44:36,944
+<i>É o padre Gordon.</i>
+
+721
+01:44:37,861 --> 01:44:40,072
+Ele disse que é uma emergência.
+
+722
+01:44:46,495 --> 01:44:48,205
+Sim, padre.
+
+723
+01:44:48,872 --> 01:44:50,874
+Em que podemos ajudar?
+
+724
+01:49:31,488 --> 01:49:33,490
+TRADUÇÃO E ADAPTAÇÃO
+MARINA FRAGANO BAIRD
+
+726
+01:49:34,305 --> 01:50:34,520
+Por favor, avalie esta legenda em www.osdb.link/fh3ga
+Ajude outros usuários a escolher as melhores legendas.

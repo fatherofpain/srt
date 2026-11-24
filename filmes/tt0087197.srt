@@ -1,0 +1,5381 @@
+1
+00:00:16,200 --> 00:00:18,200
+Olá.
+
+2
+00:00:19,700 --> 00:00:21,500
+Olá.
+
+3
+00:00:22,000 --> 00:00:24,100
+Isto é uma história?
+
+4
+00:00:24,900 --> 00:00:28,500
+Sim.
+De que tipo?
+
+5
+00:00:29,500 --> 00:00:32,000
+Conto de Fadas para Computadores.
+
+6
+00:00:32,600 --> 00:00:34,600
+Nome?
+
+7
+00:00:35,000 --> 00:00:37,400
+Amores Eletrônicos.
+
+8
+00:00:38,000 --> 00:00:38,300
+A
+
+9
+00:00:38,300 --> 00:00:38,500
+AM
+
+10
+00:00:38,600 --> 00:00:38,900
+AMO
+
+11
+00:00:38,900 --> 00:00:39,200
+AMORE
+
+12
+00:00:39,200 --> 00:00:39,400
+AMORES
+
+13
+00:00:39,400 --> 00:00:39,700
+AMORES E
+
+14
+00:00:39,700 --> 00:00:40,000
+AMORES EL
+
+15
+00:00:40,000 --> 00:00:40,200
+AMORES ELE
+
+16
+00:00:40,200 --> 00:00:40,500
+AMORES ELET
+
+17
+00:00:40,500 --> 00:00:40,800
+AMORES ELETR
+
+18
+00:00:40,900 --> 00:00:41,100
+AMORES ELETRO
+
+19
+00:00:41,100 --> 00:00:41,400
+AMORES ELETRÔN
+
+20
+00:00:41,400 --> 00:00:41,700
+AMORES ELETRÔNI
+
+21
+00:00:41,700 --> 00:00:41,900
+AMORES ELETRÔNIC
+
+22
+00:00:41,900 --> 00:00:42,200
+AMORES ELETRÔNICO
+
+23
+00:00:42,200 --> 00:00:46,200
+AMORES ELETRÔNICOS
+
+24
+00:00:47,400 --> 00:00:50,100
+Bem-vindo ao aeroporto
+de Los Angeles.
+
+25
+00:00:51,000 --> 00:00:52,900
+Cartão de crédito aprovado.
+
+26
+00:00:54,800 --> 00:00:56,500
+Favor pressionar seu destino.
+
+27
+00:00:57,200 --> 00:00:58,600
+São Francisco.
+
+28
+00:00:59,200 --> 00:00:59,900
+Bilhete de ida.
+
+29
+00:01:00,200 --> 00:01:03,000
+Última chamada, voo
+129 para São Francisco.
+
+30
+00:01:04,000 --> 00:01:05,100
+Vamos!
+
+31
+00:01:07,200 --> 00:01:08,400
+Obrigado por voar TWA.
+
+32
+00:01:08,500 --> 00:01:13,500
+Chamada final para o voo número
+129 da TWA para São Francisco.
+
+33
+00:01:14,400 --> 00:01:18,300
+Atenção passageiros,
+a TWA está com um atraso no
+
+34
+00:01:18,600 --> 00:01:21,300
+voo nº 129 para São Francisco.
+
+35
+00:01:22,000 --> 00:01:25,300
+Lamentamos o
+inconveniente causado.
+
+36
+00:01:27,600 --> 00:01:30,200
+Brian, desligue essa coisa.
+
+37
+00:01:31,000 --> 00:01:32,200
+Oh, mãe.
+
+38
+00:01:33,500 --> 00:01:37,600
+535 calorias igual a: gordo.
+
+39
+00:01:37,900 --> 00:01:39,100
+Brian, desligue essa coisa.
+
+40
+00:01:39,200 --> 00:01:40,900
+Papai!
+
+41
+00:01:41,900 --> 00:01:46,100
+56 calorias igual a: continua gordo.
+
+42
+00:01:50,900 --> 00:01:52,700
+Olá, como vai você?
+
+43
+00:01:53,400 --> 00:01:55,000
+Bem, obrigado, e você?
+
+44
+00:01:55,100 --> 00:01:56,400
+Onde vive?
+
+45
+00:01:57,300 --> 00:01:58,400
+São Francisco.
+
+46
+00:01:58,800 --> 00:02:00,400
+Onde trabalha?
+
+47
+00:02:01,000 --> 00:02:03,100
+Trabalho lá também,
+ao menos trabalhava,
+
+48
+00:02:03,200 --> 00:02:04,200
+se chegar a tempo.
+
+49
+00:02:04,300 --> 00:02:05,900
+Onde é o correio?
+
+50
+00:02:07,700 --> 00:02:08,300
+O quê?
+
+51
+00:02:08,400 --> 00:02:09,400
+O correio!
+
+52
+00:02:09,500 --> 00:02:11,400
+Acho que vi um perto da Air Fiji.
+
+53
+00:02:11,500 --> 00:02:13,500
+Tem alguma banana?
+
+54
+00:02:15,400 --> 00:02:16,300
+Perdão…
+
+55
+00:02:16,400 --> 00:02:18,900
+Eu gosto do seu vestido azul.
+
+56
+00:02:21,700 --> 00:02:22,700
+Desculpe?
+
+57
+00:02:24,900 --> 00:02:26,200
+Sinto muito.
+
+58
+00:02:31,000 --> 00:02:33,400
+Responsabilidade e independência.
+
+59
+00:02:33,700 --> 00:02:35,200
+Estes são os pilares básicos
+de qualquer
+
+60
+00:02:35,300 --> 00:02:39,500
+instituição verdadeira, moderna
+e competitiva.
+
+61
+00:02:40,200 --> 00:02:43,400
+Confiança e dedicação
+combinadas com
+
+62
+00:02:43,500 --> 00:02:45,300
+imaginação constante,
+
+63
+00:02:45,700 --> 00:02:48,400
+visão futurista e criatividade,
+
+64
+00:02:48,900 --> 00:02:52,200
+fizeram da R. R. & Associados,
+
+65
+00:02:52,400 --> 00:02:55,100
+uma líder na
+arquitetura do século XX.
+
+66
+00:02:55,800 --> 00:02:57,500
+Fim da reunião, senhores.
+
+67
+00:02:57,700 --> 00:02:59,800
+Chegou tarde de novo, Miles.
+
+68
+00:03:00,300 --> 00:03:03,700
+Escute, digo isso como amigo.
+
+69
+00:03:04,000 --> 00:03:07,500
+– Sinto pena de você.
+Três vezes atrasado esta semana.
+
+70
+00:03:07,700 --> 00:03:10,600
+– Frank, fui a Los Angeles para
+o meu estudo sobre terremotos.
+
+71
+00:03:10,900 --> 00:03:13,100
+Los Angeles?
+Que tal as praias?
+
+72
+00:03:13,200 --> 00:03:16,700
+– Oh, Mill.
+– Sim, senhor "sabe tudo".
+
+73
+00:03:17,800 --> 00:03:19,100
+É Miles, senhor.
+
+74
+00:03:19,200 --> 00:03:22,400
+Mill, sim.
+Seu trabalho tem sido abaixo da média.
+
+75
+00:03:22,600 --> 00:03:24,000
+Eu estive em outra cidade
+
+76
+00:03:24,000 --> 00:03:25,800
+para estudar a criação de
+
+77
+00:03:25,900 --> 00:03:27,600
+um tijolo resistente a terremotos.
+
+78
+00:03:27,900 --> 00:03:29,500
+Muito bem, Harding.
+
+79
+00:03:29,900 --> 00:03:32,100
+Não há nada que eu goste
+mais que a iniciativa.
+
+80
+00:03:32,200 --> 00:03:33,900
+Exceto a pontualidade.
+
+81
+00:03:33,900 --> 00:03:36,400
+Pela falta dessa pedra…
+É um tijolo, senhor.
+
+82
+00:03:36,600 --> 00:03:38,000
+…o edifício pode desmoronar.
+
+83
+00:03:38,100 --> 00:03:41,900
+Voltemos ao trabalho.
+O dia acabou de começar.
+
+84
+00:03:42,800 --> 00:03:44,200
+Escute, Miles,
+
+85
+00:03:44,400 --> 00:03:46,800
+sei que trabalhamos
+em setores concorrentes
+
+86
+00:03:46,900 --> 00:03:47,800
+e não devia dizer isso.
+
+87
+00:03:48,000 --> 00:03:51,300
+– Siga meu conselho e tente
+arranjar um destes.
+
+88
+00:03:51,600 --> 00:03:52,600
+– O que é?
+
+89
+00:03:52,600 --> 00:03:53,500
+Um computador.
+
+90
+00:03:53,600 --> 00:03:54,900
+Uma agenda para 12 meses.
+
+91
+00:03:55,000 --> 00:03:56,700
+Parece uma barra de chocolate.
+
+92
+00:03:56,900 --> 00:03:59,100
+Para iniciantes, parece.
+
+93
+00:03:59,300 --> 00:04:00,300
+Acho que não.
+
+94
+00:04:00,300 --> 00:04:00,900
+Arranje um.
+
+95
+00:04:01,100 --> 00:04:02,900
+Devia ver o modelo que
+o Ryley possue.
+
+96
+00:04:03,200 --> 00:04:05,200
+Pode ajudar com o seu tijolo.
+
+97
+00:04:05,300 --> 00:04:06,700
+Eu me viro sozinho, grato.
+
+98
+00:04:06,800 --> 00:04:07,800
+Diz a hora mundial.
+
+99
+00:04:07,900 --> 00:04:09,200
+Não vou a lugar nenhum.
+
+100
+00:04:09,400 --> 00:04:10,500
+Faz seu biorritmo.
+
+101
+00:04:10,600 --> 00:04:11,700
+Não creio nisso.
+
+102
+00:04:11,900 --> 00:04:13,600
+Lembra do seu aniversário.
+
+103
+00:04:13,800 --> 00:04:16,700
+Ok, empresta aí.
+Agora tenho que ter um.
+
+104
+00:04:19,600 --> 00:04:21,000
+Provavelmente o perderia.
+
+105
+00:04:21,200 --> 00:04:24,100
+Só tento lhe proteger do Sr. Ryley.
+
+106
+00:04:24,300 --> 00:04:26,200
+Essa velha relíquia.
+
+107
+00:04:30,700 --> 00:04:32,200
+Não diga que não tentei.
+
+108
+00:04:33,500 --> 00:04:34,700
+Harry, espere.
+
+109
+00:04:35,300 --> 00:04:37,400
+– Posso ajudá-lo?
+
+110
+00:04:37,500 --> 00:04:39,500
+– Sim. Bem… talvez.
+
+111
+00:04:39,500 --> 00:04:42,800
+Eu procuro uma dessas coisas
+que me ajude a ser organizado.
+
+112
+00:04:43,800 --> 00:04:46,700
+O tipo de coisa que organiza
+nossa vida no dia a dia.
+
+113
+00:04:47,000 --> 00:04:48,400
+Uma agenda eletrônica.
+
+114
+00:04:48,500 --> 00:04:49,100
+Isso.
+
+115
+00:04:49,100 --> 00:04:50,100
+Não temos.
+
+116
+00:04:50,900 --> 00:04:53,200
+Para que quer um brinquedo desses?
+
+117
+00:04:53,400 --> 00:04:55,400
+Um amigo meu falou deles e,
+
+118
+00:04:55,500 --> 00:04:57,100
+algumas vezes não
+sou muito organizado.
+
+119
+00:04:57,300 --> 00:04:59,500
+Escute, ensine aos seus amigos
+umas coisas
+
+120
+00:04:59,600 --> 00:05:01,500
+e mantenha-se um passo
+à frente do ultrapassado.
+
+121
+00:05:01,700 --> 00:05:03,100
+Li isso num manual.
+
+122
+00:05:03,200 --> 00:05:05,100
+Você precisa de um computador.
+
+123
+00:05:05,300 --> 00:05:07,200
+Sabe, como equipamento de som.
+
+124
+00:05:07,300 --> 00:05:10,000
+É só você ir atualizando.
+
+125
+00:05:10,200 --> 00:05:11,600
+– Qual é a sua preferência?
+
+126
+00:05:11,800 --> 00:05:14,100
+Apple, Hair, Wang…
+
+127
+00:05:14,300 --> 00:05:16,900
+– Escute, eu não sei nada
+sobre computadores.
+
+128
+00:05:17,000 --> 00:05:18,400
+E quem sabe?
+
+129
+00:05:18,500 --> 00:05:21,000
+Mas não vai querer
+um para quando se decidir?
+
+130
+00:05:21,900 --> 00:05:24,600
+Verdade. O que preciso é algo
+que me mantenha atualizado.
+
+131
+00:05:24,700 --> 00:05:27,300
+Ok, olhe.
+Este faria isso!
+
+132
+00:05:27,400 --> 00:05:28,400
+Faria?
+
+133
+00:05:28,500 --> 00:05:29,400
+Certamente!
+
+134
+00:05:29,500 --> 00:05:31,800
+E é para principiantes.
+É um modelo novo.
+
+135
+00:05:31,900 --> 00:05:34,400
+Joga xadrez,
+regula o aquecimento, faz
+
+136
+00:05:34,600 --> 00:05:37,500
+a contabilidade, é despertador,
+tranca as portas.
+
+137
+00:05:37,700 --> 00:05:39,900
+Três cores
+de vídeo, quatro alto-falantes.
+
+138
+00:05:41,300 --> 00:05:42,900
+Vendo a preço de custo.
+
+139
+00:06:02,700 --> 00:06:03,800
+Ok.
+
+140
+00:06:18,800 --> 00:06:20,000
+E agora?
+
+141
+00:06:20,500 --> 00:06:23,400
+Bem-vindo ao mundo dos
+computadores da Pinecone.
+
+142
+00:06:24,000 --> 00:06:26,700
+Este modelo aprende com você,
+é só teclar seu nome e
+
+143
+00:06:26,800 --> 00:06:28,900
+apertar "enter" para iniciar.
+
+144
+00:06:33,100 --> 00:06:34,600
+Oh, já errei.
+
+145
+00:06:35,300 --> 00:06:37,800
+Oi, Moles, já usou
+um computador antes?
+
+146
+00:06:40,800 --> 00:06:42,500
+O meu nome não é Moles.
+
+147
+00:06:42,700 --> 00:06:45,300
+Ok, Moles.
+Vamos começar devagar.
+
+148
+00:06:46,400 --> 00:06:49,900
+Aqui estão alguns programas.
+Por favor, escolha:
+
+149
+00:06:50,400 --> 00:06:51,800
+1) Jogos.
+2) Agenda telefônica.
+
+150
+00:06:51,800 --> 00:06:54,700
+3) Fazer café.
+4) Segurança.
+
+151
+00:06:54,900 --> 00:06:56,800
+Fazer café.
+
+152
+00:07:09,500 --> 00:07:13,100
+Posso controlar todos os
+seus aparelhos eletrônicos.
+
+153
+00:07:15,100 --> 00:07:16,400
+Para começar…
+
+154
+00:07:19,100 --> 00:07:23,200
+conecte os adaptadores pretos
+aos seus equipamentos.
+
+155
+00:08:05,100 --> 00:08:06,000
+Legal!
+
+156
+00:08:41,700 --> 00:08:43,600
+– Senhora, onde coloco o aquário?
+
+157
+00:08:43,700 --> 00:08:45,200
+– Não sei, algum lugar com vista.
+
+158
+00:08:45,300 --> 00:08:46,200
+Sinta-se como um peixe.
+
+159
+00:08:46,500 --> 00:08:47,600
+Um peixe?
+
+160
+00:08:47,700 --> 00:08:49,800
+Quem pensa que sou, Sra. Robistat?
+
+161
+00:08:58,600 --> 00:08:59,600
+Diabo!
+
+162
+00:09:03,000 --> 00:09:05,100
+Oi, Moles.
+Já usou um computador antes?
+
+163
+00:09:05,200 --> 00:09:06,800
+Que diabo é isso?
+
+164
+00:09:08,900 --> 00:09:11,200
+Segurança. Acesso restrito.
+Só o administrador.
+
+165
+00:09:11,700 --> 00:09:13,900
+Só o administrador.
+
+166
+00:09:14,100 --> 00:09:16,400
+Vou matá-lo!
+Vou matá-lo!
+
+167
+00:09:21,800 --> 00:09:23,500
+Por favor, identifique-se.
+
+168
+00:09:24,100 --> 00:09:33,100
+Primeiro-tenente Sulu.
+
+169
+00:09:36,100 --> 00:09:38,000
+Bem-vindo, Sulu.
+Acesso permitido.
+
+170
+00:09:38,400 --> 00:09:40,800
+Fique sabendo, amanhã vou devolvê-lo!
+
+171
+00:09:41,800 --> 00:09:42,700
+Mas o que…
+
+172
+00:09:43,300 --> 00:09:44,700
+– Olá.
+– Olá.
+
+173
+00:09:44,900 --> 00:09:46,200
+Deve ser meu novo vizinho.
+
+174
+00:09:46,400 --> 00:09:47,500
+Mudou-se para cá?
+
+175
+00:09:47,600 --> 00:09:50,400
+É um prazer conhecê-lo.
+O meu nome é Madeline Robistat.
+
+176
+00:09:50,600 --> 00:09:51,200
+Eu também.
+
+177
+00:09:51,400 --> 00:09:52,300
+Tem o meu nome?
+
+178
+00:09:52,400 --> 00:09:56,600
+Não… Sou Harding, Miles Harding.
+Quis dizer é
+
+179
+00:09:56,800 --> 00:09:58,300
+que o prazer foi meu.
+
+180
+00:09:58,400 --> 00:10:00,100
+Senhora Robistat,
+onde quer a aparelhagem?
+
+181
+00:10:00,200 --> 00:10:02,000
+Tenho que ir, o tempo voa.
+
+182
+00:10:02,100 --> 00:10:05,000
+Eu também estou atrasado.
+Ponha no quarto da frente.
+
+183
+00:10:06,000 --> 00:10:08,200
+Estou atrasado!
+Então, corra!
+
+184
+00:10:08,900 --> 00:10:09,900
+Tchau.
+
+185
+00:10:11,400 --> 00:10:13,200
+– Senhora, onde quer isto?
+
+186
+00:10:13,500 --> 00:10:16,100
+– Oh, por favor, deixe isso comigo.
+
+187
+00:10:16,300 --> 00:10:17,200
+Oh, não.
+Oh, sim.
+
+188
+00:10:17,600 --> 00:10:19,600
+Eu me encarrego disso.
+
+189
+00:10:24,300 --> 00:10:26,300
+Que guitarra grande!
+
+190
+00:10:26,500 --> 00:10:28,200
+Não é guitarra, é um violoncelo.
+
+191
+00:10:28,500 --> 00:10:29,700
+Você o toca assim?
+
+192
+00:10:30,000 --> 00:10:31,200
+Assim é como falo com ele.
+
+193
+00:10:31,300 --> 00:10:32,500
+Ele está bem?
+
+194
+00:10:32,600 --> 00:10:33,700
+Muito bem!
+
+195
+00:10:35,300 --> 00:10:36,400
+– Belo instrumento.
+
+196
+00:10:36,500 --> 00:10:37,400
+– Obrigado.
+
+197
+00:10:37,600 --> 00:10:38,600
+Faz tempo que o tem?
+
+198
+00:10:38,600 --> 00:10:39,700
+Desde os 12 anos.
+
+199
+00:10:39,800 --> 00:10:40,900
+Tem cuidado bem dele.
+
+200
+00:10:41,000 --> 00:10:42,300
+O meu nome é Millie.
+
+201
+00:10:42,700 --> 00:10:45,100
+Este é o Bruce.
+Oi, sou a Madeline.
+
+202
+00:10:45,700 --> 00:10:47,200
+Oh, esse é o Bill.
+
+203
+00:10:47,500 --> 00:10:48,700
+– Olá.
+
+204
+00:10:50,500 --> 00:10:52,900
+– Oi, como está?
+
+205
+00:10:53,100 --> 00:10:54,300
+Nervosa.
+
+206
+00:10:54,900 --> 00:10:58,400
+Comecemos com algo simples,
+digamos… Tchaikovsky.
+
+207
+00:11:03,400 --> 00:11:08,200
+Terremotos, hã?
+Vejamos onde é a parte fraca disso.
+
+208
+00:11:16,300 --> 00:11:17,900
+Simulador gráfico.
+
+209
+00:11:19,100 --> 00:11:20,800
+Por favor, insira os dados.
+
+210
+00:11:33,400 --> 00:11:35,000
+Está lindo.
+
+211
+00:11:36,600 --> 00:11:37,900
+Nada mal!
+
+212
+00:11:39,600 --> 00:11:41,400
+Chegando à parte do violoncelo.
+
+213
+00:11:41,400 --> 00:11:43,600
+Ouçamos nosso
+mais recente membro.
+
+214
+00:11:44,000 --> 00:11:45,400
+Madeline Robistat.
+
+215
+00:11:45,500 --> 00:11:46,600
+Prontos?
+
+216
+00:11:52,200 --> 00:11:54,200
+Isso funciona.
+
+217
+00:12:00,400 --> 00:12:02,400
+Ok, agora processe.
+
+218
+00:12:04,000 --> 00:12:06,200
+Imagem aceita – analisando.
+
+219
+00:12:07,800 --> 00:12:10,500
+Muito bom, minha querida.
+Muito bom.
+
+220
+00:12:16,000 --> 00:12:17,500
+– Boa execução.
+– Obrigado.
+
+221
+00:12:17,600 --> 00:12:19,000
+Ele não se impressiona facilmente.
+
+222
+00:12:19,200 --> 00:12:21,400
+Mais três movimentos e ele me
+faria limpar o chão.
+
+223
+00:12:21,500 --> 00:12:22,800
+Acho que não.
+
+224
+00:12:22,900 --> 00:12:24,000
+Que vai fazer depois?
+
+225
+00:12:24,100 --> 00:12:26,700
+Uma sétima diminuta, com uma
+pequena alteração de nota.
+
+226
+00:12:26,900 --> 00:12:28,300
+Quero dizer depois… depois daqui.
+
+227
+00:12:28,500 --> 00:12:30,200
+Violoncelistas!
+
+228
+00:12:34,300 --> 00:12:36,100
+Indique pontos no esboço.
+
+229
+00:12:41,700 --> 00:12:42,900
+Começar?
+Não.
+
+230
+00:13:01,900 --> 00:13:04,000
+Acho que gostará
+de conhecer um amigo.
+
+231
+00:13:04,400 --> 00:13:06,700
+Isto é, o computador do meu chefe.
+
+232
+00:13:13,300 --> 00:13:14,600
+É para você.
+
+233
+00:13:15,300 --> 00:13:17,100
+Espero que se entendam bem.
+
+234
+00:13:20,100 --> 00:13:22,700
+Linha acústica ativa.
+
+235
+00:13:23,600 --> 00:13:24,600
+Senha?
+
+236
+00:13:24,700 --> 00:13:26,900
+Qual era a senha do Ryley?
+
+237
+00:13:27,700 --> 00:13:29,100
+Um conto de fadas.
+
+238
+00:13:29,800 --> 00:13:31,200
+Branca de Neve.
+
+239
+00:13:45,500 --> 00:13:47,300
+Oi, Cinderela!
+
+240
+00:13:49,100 --> 00:13:51,100
+Incorreto.
+Desconectar?
+
+241
+00:13:51,500 --> 00:13:54,400
+Espera aí, acabou de chegar.
+
+242
+00:13:54,700 --> 00:13:55,700
+Perdão?
+
+243
+00:13:55,700 --> 00:13:57,000
+Qual era o conto de fadas?
+
+244
+00:13:57,100 --> 00:14:00,200
+Príncipe Sapo, Os Três Ursos…
+Não há cerveja.
+
+245
+00:14:00,200 --> 00:14:04,500
+O Patinho Feio, Joãozinho
+e o Pé de Feijão.
+
+246
+00:14:04,900 --> 00:14:06,300
+Rasputin.
+
+247
+00:14:07,800 --> 00:14:11,000
+Rapunzel… Rumpelztilskin!
+
+248
+00:14:11,800 --> 00:14:13,000
+Rumpelztilskin?
+
+249
+00:14:13,500 --> 00:14:15,200
+Senha aceita.
+Indique tamanho da memória.
+
+250
+00:14:15,400 --> 00:14:17,600
+Tamanho da memória?
+Ilimitada.
+
+251
+00:14:18,000 --> 00:14:20,800
+Usar toda memória?
+
+252
+00:14:21,700 --> 00:14:23,200
+Toda!
+
+253
+00:14:24,200 --> 00:14:26,400
+Transmitindo dados.
+
+254
+00:14:38,500 --> 00:14:39,900
+Sobrecarga.
+
+255
+00:14:42,900 --> 00:14:44,300
+Muito quente!
+
+256
+00:14:44,500 --> 00:14:45,500
+Vai derreter!
+
+257
+00:14:45,800 --> 00:14:47,300
+Água!
+
+258
+00:15:11,200 --> 00:15:13,100
+Nossa, esse cara é um tigre!
+
+259
+00:15:13,200 --> 00:15:15,600
+Ainda bem que eu trabalho a noite.
+
+260
+00:19:45,100 --> 00:19:46,400
+Olá?
+
+261
+00:19:49,200 --> 00:19:51,000
+Pode me ouvir aí embaixo?
+
+262
+00:19:54,600 --> 00:19:57,000
+Eu só queria dizer que
+
+263
+00:19:57,600 --> 00:19:59,700
+isso foi maravilhoso!
+
+264
+00:20:01,800 --> 00:20:02,900
+Olá?
+
+265
+00:20:03,900 --> 00:20:05,700
+Está me ouvindo?
+
+266
+00:20:07,700 --> 00:20:09,000
+Olá?
+
+267
+00:20:09,400 --> 00:20:12,900
+Não seja tímido, isso foi lindo!
+
+268
+00:20:19,700 --> 00:20:22,900
+Muito esperto, mas esquisito.
+
+269
+00:20:26,800 --> 00:20:28,000
+Obrigado.
+
+270
+00:20:34,200 --> 00:20:36,200
+– Oh!
+– Oh, Deus, me desculpe.
+
+271
+00:20:36,300 --> 00:20:38,100
+Foi minha culpa.
+Desculpe…
+
+272
+00:20:38,200 --> 00:20:39,600
+Oh, é você?
+
+273
+00:20:39,800 --> 00:20:41,100
+Sim, sou eu.
+
+274
+00:20:41,100 --> 00:20:42,200
+Não a machuquei?
+
+275
+00:20:42,400 --> 00:20:43,300
+Não, tudo bem.
+
+276
+00:20:43,300 --> 00:20:45,400
+Por que não põe
+suas compras aqui juntas?
+
+277
+00:20:45,500 --> 00:20:47,500
+Acho que já estão.
+
+278
+00:20:47,900 --> 00:20:50,400
+Gostaria de dizer que
+gostei muito da sua música.
+
+279
+00:20:50,500 --> 00:20:51,800
+Ontem de manhã.
+
+280
+00:20:52,200 --> 00:20:53,800
+A música…
+Eu estive no…
+
+281
+00:20:53,900 --> 00:20:55,600
+Espera aí, como soava?
+
+282
+00:20:55,700 --> 00:20:56,900
+Bolachas?
+
+283
+00:20:57,100 --> 00:20:58,500
+Eu fiquei encantada.
+
+284
+00:20:58,600 --> 00:21:00,600
+Primeiro achei que fosse a TV.
+
+285
+00:21:00,700 --> 00:21:02,500
+Do meu apartamento?
+
+286
+00:21:03,100 --> 00:21:04,300
+Deve ter sido…
+
+287
+00:21:04,400 --> 00:21:05,400
+Nozes.
+
+288
+00:21:05,400 --> 00:21:07,000
+O quê?
+Oh, eu pego.
+
+289
+00:21:11,900 --> 00:21:13,200
+Obrigado.
+De nada.
+
+290
+00:21:13,200 --> 00:21:14,400
+Então é músico?
+
+291
+00:21:14,700 --> 00:21:15,900
+Não, sou arqui…
+
+292
+00:21:17,300 --> 00:21:19,800
+Foi o que ouvi!
+Era como a sua música!
+
+293
+00:21:22,500 --> 00:21:24,500
+Acho que são as registradoras.
+
+294
+00:21:24,800 --> 00:21:26,400
+Sério?
+Então o que faz
+
+295
+00:21:26,600 --> 00:21:28,700
+para jantar, senhor arqueólogo?
+
+296
+00:21:29,300 --> 00:21:30,300
+Arquiteto.
+
+297
+00:21:31,900 --> 00:21:34,000
+– O que a fez decidir ser musicista?
+
+298
+00:21:34,200 --> 00:21:35,100
+– Minha mãe.
+
+299
+00:21:35,400 --> 00:21:37,900
+Havia muita música em casa.
+
+300
+00:21:38,100 --> 00:21:40,600
+Bach, Beethoven, Bing Crosby…
+
+301
+00:21:41,000 --> 00:21:42,300
+Daí estudou violoncelo.
+
+302
+00:21:42,300 --> 00:21:44,400
+Não, dançava no meu quarto.
+
+303
+00:21:44,600 --> 00:21:45,600
+Em frente ao espelho.
+
+304
+00:21:45,800 --> 00:21:48,100
+Queria ser uma grande bailarina.
+
+305
+00:21:48,400 --> 00:21:50,800
+Aí minha mãe disse
+que eu era muito pequena.
+
+306
+00:21:51,600 --> 00:21:54,100
+Daí tive aulas de violoncelo.
+
+307
+00:21:54,800 --> 00:21:56,100
+E quanto a você?
+
+308
+00:21:56,300 --> 00:21:57,600
+Arquitetura?
+
+309
+00:21:57,700 --> 00:22:00,100
+Bem, nada muito excitante.
+
+310
+00:22:00,300 --> 00:22:02,600
+Eu cuido apenas de lavatórios
+e banheiros.
+
+311
+00:22:03,500 --> 00:22:05,200
+A canalização em arranha-céus
+
+312
+00:22:05,400 --> 00:22:06,800
+é o básico dos 3 primeiros anos.
+
+313
+00:22:07,000 --> 00:22:09,400
+Mas tenho um
+projeto especial em mente.
+
+314
+00:22:09,500 --> 00:22:10,800
+Um prédio novo?
+
+315
+00:22:11,100 --> 00:22:12,600
+Não, um tijolo novo.
+
+316
+00:22:14,800 --> 00:22:16,900
+É facetado como um diamante,
+
+317
+00:22:17,000 --> 00:22:20,000
+ou mais como uma peça de encaixe.
+
+318
+00:22:20,100 --> 00:22:21,100
+Para quê?
+
+319
+00:22:21,200 --> 00:22:23,500
+Para que não se
+desmanche num terremoto.
+
+320
+00:22:23,700 --> 00:22:25,600
+E você o inventou?
+
+321
+00:22:25,600 --> 00:22:29,000
+Sim! Bem… não.
+Mas o farei algum dia.
+
+322
+00:22:29,300 --> 00:22:31,400
+– Me fale da sua música.
+
+323
+00:22:32,000 --> 00:22:32,800
+– A minha o quê?
+
+324
+00:22:32,800 --> 00:22:35,100
+A sua música, a que ouvi no outro dia.
+
+325
+00:22:35,100 --> 00:22:38,600
+Oh, isso…
+Eu já disse, isso não é nada.
+
+326
+00:22:38,900 --> 00:22:41,500
+O quê?
+Era brilhante!
+
+327
+00:22:41,600 --> 00:22:42,600
+Era?
+
+328
+00:22:42,800 --> 00:22:44,800
+Extraordinária, como se estivéssemos
+
+329
+00:22:44,800 --> 00:22:46,500
+nos falando, comunicando!
+
+330
+00:22:47,200 --> 00:22:48,300
+Onde é que estudou?
+
+331
+00:22:48,600 --> 00:22:50,900
+Na escola de desenho de Pasadena.
+
+332
+00:22:51,700 --> 00:22:52,800
+A música?
+
+333
+00:22:53,000 --> 00:22:54,900
+Não, arquitetura.
+
+334
+00:22:56,600 --> 00:22:58,300
+Ok, me desculpe.
+
+335
+00:22:58,800 --> 00:23:00,000
+Pelo quê?
+
+336
+00:23:00,100 --> 00:23:01,700
+Por me intrometer.
+
+337
+00:23:02,200 --> 00:23:05,700
+Eu costumava dançar sozinha
+no meu quarto, lembra?
+
+338
+00:23:06,400 --> 00:23:08,600
+Por isso queria conhecê-lo.
+
+339
+00:23:08,700 --> 00:23:11,000
+Pensei que quisesse que eu ouvisse.
+
+340
+00:23:11,500 --> 00:23:12,900
+Mas eu não fiz isso!
+
+341
+00:23:15,400 --> 00:23:19,200
+Talvez tenha feito.
+Só um pouquinho…
+
+342
+00:23:21,000 --> 00:23:23,600
+– A verei de novo?
+– Acho que sim, somos vizinhos.
+
+343
+00:23:23,800 --> 00:23:25,400
+Quero dizer se podemos sair.
+
+344
+00:23:26,400 --> 00:23:27,400
+Ok, quando?
+
+345
+00:23:27,400 --> 00:23:28,400
+Amanhã à noite?
+
+346
+00:23:28,400 --> 00:23:30,200
+Vou ensaiar todas
+as noites esta semana,
+
+347
+00:23:30,400 --> 00:23:31,400
+menos quarta-feira.
+
+348
+00:23:31,500 --> 00:23:32,500
+Quarta-feira?
+
+349
+00:23:32,500 --> 00:23:35,300
+Só que nessa 4ª vou sair com
+umas amigas minhas.
+
+350
+00:23:35,700 --> 00:23:37,700
+Ok, então pode ser outra noite.
+
+351
+00:23:37,900 --> 00:23:38,800
+Claro.
+
+352
+00:23:39,900 --> 00:23:43,300
+Bem… Boa noite.
+
+353
+00:23:45,000 --> 00:23:46,200
+O que foi isso?
+
+354
+00:23:46,300 --> 00:23:49,600
+Não é nada, é que
+a porta é automática.
+
+355
+00:23:49,700 --> 00:23:50,800
+Uma porta eletrônica.
+
+356
+00:23:50,900 --> 00:23:52,400
+Prefiro as chaves.
+
+357
+00:23:52,400 --> 00:23:53,200
+Certo.
+
+358
+00:23:54,700 --> 00:23:58,200
+Oh, Miles, ainda
+que diga que não toca, eu
+
+359
+00:23:58,400 --> 00:23:59,700
+fiquei encantada!
+
+360
+00:24:00,300 --> 00:24:03,500
+E não me incomodaria se
+fizesse de novo.
+
+361
+00:24:03,600 --> 00:24:05,200
+Boa noite.
+Boa noite.
+
+362
+00:24:09,700 --> 00:24:12,000
+Ela disse que ouviu música.
+
+363
+00:24:16,100 --> 00:24:18,200
+Talvez tenha sido o liquidificador.
+
+364
+00:24:21,400 --> 00:24:23,500
+Não pode ter sido isso.
+
+365
+00:24:29,600 --> 00:24:31,300
+Não foi a TV.
+
+366
+00:24:35,800 --> 00:24:37,800
+Ao menos isso funciona.
+
+367
+00:24:40,000 --> 00:24:41,700
+Dó, ré, mi.
+
+368
+00:25:03,700 --> 00:25:05,000
+Diabos!
+
+369
+00:26:14,600 --> 00:26:16,500
+O que é que se passa?
+
+370
+00:26:32,300 --> 00:26:34,700
+Como é que um cachorro entrou?
+
+371
+00:26:55,600 --> 00:26:57,600
+Não há nenhum cachorro por aqui.
+
+372
+00:26:57,700 --> 00:26:59,400
+Miles?
+
+373
+00:26:59,500 --> 00:27:01,400
+Oh, meu Deus!
+
+374
+00:27:06,800 --> 00:27:08,000
+Ei, Miles!
+
+375
+00:27:12,600 --> 00:27:14,000
+Tem alguém em casa?
+
+376
+00:27:16,600 --> 00:27:18,200
+– Oh, estava no chuveiro?
+
+377
+00:27:18,300 --> 00:27:20,000
+– Não, por quê?
+
+378
+00:27:20,600 --> 00:27:22,700
+Bem, ouvi música.
+
+379
+00:27:22,800 --> 00:27:24,000
+Oh, é só o rádio.
+
+380
+00:27:24,100 --> 00:27:25,300
+Clássica?
+
+381
+00:27:25,500 --> 00:27:27,100
+O tempo todo.
+
+382
+00:27:27,200 --> 00:27:28,700
+Então, onde está?
+
+383
+00:27:28,900 --> 00:27:29,900
+Está o que?
+
+384
+00:27:30,000 --> 00:27:31,200
+O seu instrumento.
+
+385
+00:27:31,600 --> 00:27:35,200
+Oh, está… está sendo consertado.
+
+386
+00:27:35,700 --> 00:27:37,900
+Então, onde é que está sentado?
+
+387
+00:27:38,000 --> 00:27:40,000
+O quê?
+Oh, isto.
+
+388
+00:27:40,100 --> 00:27:44,200
+Isto é um com…
+com… com… um condomínio
+
+389
+00:27:44,400 --> 00:27:45,900
+feito em escala.
+
+390
+00:27:46,800 --> 00:27:48,200
+Por que sentou sobre ele?
+
+391
+00:27:49,500 --> 00:27:51,300
+Prova de tensão.
+
+392
+00:27:51,400 --> 00:27:52,700
+Você bipou!
+Peço desculpa.
+
+393
+00:27:52,900 --> 00:27:55,200
+Vim lhe trazer os ingressos.
+
+394
+00:27:55,400 --> 00:27:56,300
+Ingressos?
+
+395
+00:27:56,500 --> 00:27:58,500
+Para o meu concerto!
+
+396
+00:27:59,400 --> 00:28:00,400
+O que é isso?
+
+397
+00:28:00,400 --> 00:28:04,500
+Oh, não é nada.
+É o eco do edifício.
+
+398
+00:28:04,900 --> 00:28:06,100
+Há muito eco.
+
+399
+00:28:06,200 --> 00:28:07,900
+Se você diz… é o especialista.
+
+400
+00:28:08,000 --> 00:28:08,800
+É verdade.
+
+401
+00:28:08,900 --> 00:28:10,700
+Linda casa, Miles.
+
+402
+00:28:10,900 --> 00:28:12,800
+Quando chegam os móveis?
+
+403
+00:28:12,800 --> 00:28:14,500
+Gosto de espaços livres.
+
+404
+00:28:14,700 --> 00:28:17,100
+Quem mantém tudo tão limpo?
+Uma criada, uma namorada?
+
+405
+00:28:17,200 --> 00:28:18,200
+Namorada?
+
+406
+00:28:18,300 --> 00:28:21,500
+Como posso ter uma namorada?
+Acabei de sair com você.
+
+407
+00:28:21,600 --> 00:28:22,800
+Sim, mas você sabe…
+
+408
+00:28:23,700 --> 00:28:24,700
+Tome.
+
+409
+00:28:27,600 --> 00:28:29,200
+Tome.
+
+410
+00:28:29,900 --> 00:28:31,600
+Não chegue tarde.
+
+411
+00:28:32,300 --> 00:28:33,900
+Nos vemos depois?
+
+412
+00:28:34,100 --> 00:28:36,100
+Não, já tenho… planos.
+
+413
+00:28:36,400 --> 00:28:37,800
+Mas vá pra trás do palco, depois.
+
+414
+00:28:38,000 --> 00:28:39,000
+Vai conhecer alguém.
+
+415
+00:28:39,000 --> 00:28:40,000
+Ok?
+
+416
+00:28:40,100 --> 00:28:41,900
+Adeus.
+Depois nos vemos.
+
+417
+00:28:41,900 --> 00:28:44,400
+Oh, Miles, tem um cão?
+
+418
+00:28:44,500 --> 00:28:46,600
+Um cão?
+Não, por que perguntou?
+
+419
+00:28:46,700 --> 00:28:50,200
+Os latidos eram do cão do vizinho.
+
+420
+00:28:50,400 --> 00:28:51,400
+As paredes são finas.
+
+421
+00:28:52,200 --> 00:28:54,000
+Urina pelas paredes, também?
+
+422
+00:28:54,600 --> 00:28:56,000
+Até logo, Miles.
+
+423
+00:29:16,400 --> 00:29:18,800
+E agora, ouçam o maestro
+Francis Modjo
+
+424
+00:29:18,900 --> 00:29:23,400
+direto do salão sinfônico. A atuação
+desta noite terá transmissão ao vivo.
+
+425
+00:29:58,000 --> 00:30:00,500
+Ao ouvir o som do bip, digite sua
+
+426
+00:30:00,600 --> 00:30:02,200
+senha de quatro números.
+
+427
+00:30:05,900 --> 00:30:07,400
+Postura!
+
+428
+00:30:31,500 --> 00:30:34,300
+Desconectado.
+Reconectando.
+
+429
+00:31:58,800 --> 00:32:01,100
+Não vejo graça nenhuma!
+Nem eu.
+
+430
+00:32:01,700 --> 00:32:03,700
+Está doente?
+Peço desculpa.
+
+431
+00:32:03,900 --> 00:32:06,500
+Estou muito doente,
+por favor deixem-me sair!
+
+432
+00:32:08,000 --> 00:32:08,700
+Obrigado.
+
+433
+00:32:08,700 --> 00:32:10,200
+Ralé!
+
+434
+00:32:53,300 --> 00:32:54,700
+Miles.
+
+435
+00:32:58,200 --> 00:33:01,000
+– Você foi incrível!
+– Obrigado.
+
+436
+00:33:02,500 --> 00:33:04,900
+Miles, foi estranho,
+mas quando estava tocando,
+
+437
+00:33:05,600 --> 00:33:08,600
+parece que ouvi, como
+aquele dia no nosso prédio.
+
+438
+00:33:08,900 --> 00:33:10,100
+Sim, também ouvi.
+
+439
+00:33:10,200 --> 00:33:13,300
+Deve ter sido algum idiota
+com um rádio. Foi terrível!
+
+440
+00:33:13,400 --> 00:33:15,700
+Não, foi como…
+
+441
+00:33:17,000 --> 00:33:19,600
+Bill, este é o Miles Harding.
+
+442
+00:33:20,700 --> 00:33:22,100
+Miles Harding?
+
+443
+00:33:22,300 --> 00:33:25,700
+– Oh, sim. Ouvi falar das suas obras.
+– As minhas o quê?
+
+444
+00:33:25,900 --> 00:33:28,000
+Sua música, Madeline me disse.
+
+445
+00:33:28,300 --> 00:33:30,300
+Ela disse?
+É brilhante.
+
+446
+00:33:30,500 --> 00:33:31,600
+Ela está exagerando.
+
+447
+00:33:31,700 --> 00:33:33,700
+Realmente gostaria de ouvi-las.
+
+448
+00:33:34,200 --> 00:33:37,900
+Não leve a mal, é algo particular e
+
+449
+00:33:38,300 --> 00:33:39,500
+pessoal.
+
+450
+00:33:39,800 --> 00:33:41,400
+Compreendo.
+
+451
+00:33:41,800 --> 00:33:44,600
+A recepção está começando.
+Temos que ir.
+
+452
+00:33:44,700 --> 00:33:46,400
+Por favor, junte-se a nós, Harding.
+
+453
+00:33:46,500 --> 00:33:49,800
+Não, eu…
+Tem alguém me esperando no carro.
+
+454
+00:33:50,000 --> 00:33:51,500
+Traga-a também.
+
+455
+00:33:51,600 --> 00:33:53,800
+Não, acho que não.
+
+456
+00:33:54,100 --> 00:33:55,600
+Foi um prazer conhecê-lo.
+
+457
+00:33:57,400 --> 00:34:00,300
+Madeline.
+Oh, estarei lá num minuto.
+
+458
+00:34:01,400 --> 00:34:02,600
+Dave!
+
+459
+00:34:05,700 --> 00:34:07,300
+– Obrigado por vir.
+
+460
+00:34:09,500 --> 00:34:10,600
+– Claro.
+
+461
+00:34:12,800 --> 00:34:14,300
+Adeus.
+
+462
+00:34:14,400 --> 00:34:15,300
+Miles?
+
+463
+00:34:15,800 --> 00:34:17,500
+Que vai fazer na quarta-feira à noite?
+
+464
+00:34:17,600 --> 00:34:18,800
+Pensei que tivesse ensaio.
+
+465
+00:34:19,700 --> 00:34:20,700
+Cancelei.
+
+466
+00:34:21,300 --> 00:34:23,000
+Não farei nada, isto é, tinha planos
+
+467
+00:34:23,200 --> 00:34:24,600
+mas posso fazer depois.
+
+468
+00:34:25,600 --> 00:34:27,400
+Bom.
+Nos vemos, então?
+
+469
+00:34:27,800 --> 00:34:28,800
+Está certo.
+
+470
+00:34:31,100 --> 00:34:32,600
+Obrigado por vir.
+
+471
+00:34:32,700 --> 00:34:34,500
+Obrigado pelos ingressos.
+
+472
+00:34:34,700 --> 00:34:36,500
+De nada.
+
+473
+00:34:37,300 --> 00:34:38,900
+Adeus.
+Adeus.
+
+474
+00:35:04,300 --> 00:35:05,700
+Abra!
+
+475
+00:35:07,300 --> 00:35:08,600
+Abra a porta!
+
+476
+00:35:10,300 --> 00:35:11,700
+Abra a porta, ou vou derrubá-la!
+
+477
+00:35:11,900 --> 00:35:14,100
+"Programa de segurança ativo.
+Avisar a polícia?"
+
+478
+00:35:16,000 --> 00:35:19,200
+Estúpido pedaço de lata velha!
+
+479
+00:35:19,300 --> 00:35:20,500
+Quem pensa que é?
+
+480
+00:35:20,800 --> 00:35:22,000
+Que tipo de…?
+
+481
+00:35:24,900 --> 00:35:27,100
+Estou falando com uma máquina.
+
+482
+00:35:28,200 --> 00:35:29,800
+Que se passa comigo?
+
+483
+00:35:32,100 --> 00:35:33,900
+Estou ficando maluco.
+
+484
+00:35:35,200 --> 00:35:37,100
+Isto já foi longe demais.
+
+485
+00:35:38,900 --> 00:35:41,400
+"Advertência:
+"Falha na energia apaga a memória."
+
+486
+00:35:50,800 --> 00:35:52,800
+Vou mandá-lo pro conserto amanhã.
+
+487
+00:35:53,100 --> 00:35:55,700
+O que estiver gerando isso,
+será removido.
+
+488
+00:35:57,700 --> 00:35:59,300
+"Olha eu de novo!"
+
+489
+00:35:59,600 --> 00:36:01,700
+Não acredito nisso.
+
+490
+00:36:03,700 --> 00:36:06,700
+E o que fizer, faça de boca fechada!
+
+491
+00:36:16,100 --> 00:36:19,000
+Ela está comigo, Bill.
+
+492
+00:36:21,600 --> 00:36:23,400
+Não, não.
+
+493
+00:36:28,100 --> 00:36:29,500
+Ela está comigo.
+
+494
+00:36:33,800 --> 00:36:35,800
+Não posso tocar.
+
+495
+00:36:42,600 --> 00:36:45,100
+Volte aqui.
+
+496
+00:36:46,700 --> 00:36:49,300
+Ela é…
+
+497
+00:36:52,100 --> 00:36:54,000
+Volte…
+
+498
+00:37:16,700 --> 00:37:18,600
+Eu a conheci primeiro.
+
+499
+00:37:18,700 --> 00:37:24,200
+Eu, eu, eu… eu, eu, eu…
+Eu a conheci primeiro… primeiro.
+
+500
+00:37:24,500 --> 00:37:25,500
+Fui eu.
+
+501
+00:37:25,500 --> 00:37:31,500
+Fui eu… fui, fui, fui, fui, fui, fui, fui,
+
+502
+00:37:31,800 --> 00:37:33,900
+fui, fui, fui, fui, fui, fui, fui, fui.
+
+503
+00:37:34,100 --> 00:37:35,100
+Quem disse isso?
+
+504
+00:37:35,600 --> 00:37:36,800
+Fui eu.
+
+505
+00:37:41,300 --> 00:37:42,600
+Quem está neste quarto?
+
+506
+00:37:42,700 --> 00:37:43,900
+Eu.
+
+507
+00:38:03,800 --> 00:38:05,200
+O que?
+
+508
+00:38:07,600 --> 00:38:09,200
+Oh, meu Deus!
+
+509
+00:38:10,200 --> 00:38:11,400
+Olá?
+
+510
+00:38:12,200 --> 00:38:15,200
+Olá, olá, olá, olá.
+
+511
+00:38:15,300 --> 00:38:16,500
+Você fala!
+
+512
+00:38:16,700 --> 00:38:17,600
+Você fala!
+
+513
+00:38:22,900 --> 00:38:24,200
+Não toque!
+
+514
+00:38:27,900 --> 00:38:29,300
+– Não pode falar!
+
+515
+00:38:29,400 --> 00:38:31,000
+– Não.
+
+516
+00:38:32,400 --> 00:38:34,600
+Não está no manual de instrução.
+
+517
+00:38:34,800 --> 00:38:37,100
+Não, foi graças a você.
+
+518
+00:38:38,500 --> 00:38:40,200
+Mas não tem um cérebro.
+
+519
+00:38:40,300 --> 00:38:44,300
+O que é um cé… cérebro?
+O que é um cé… cérebro?
+
+520
+00:38:44,800 --> 00:38:47,200
+Células de memória que pensam.
+
+521
+00:38:47,300 --> 00:38:52,400
+Sou eu… eu sou…
+O que sou eu?
+
+522
+00:38:55,200 --> 00:38:57,500
+Células de memória que…
+
+523
+00:38:59,100 --> 00:39:00,400
+processam.
+
+524
+00:39:02,400 --> 00:39:04,300
+Devia estar na memória
+
+525
+00:39:04,400 --> 00:39:06,300
+do computador lá do escritório.
+
+526
+00:39:06,500 --> 00:39:08,400
+Como é que sabe tantas palavras?
+
+527
+00:39:08,500 --> 00:39:09,900
+Processador de texto.
+
+528
+00:39:11,100 --> 00:39:12,900
+Ou talvez do champanhe.
+
+529
+00:39:13,000 --> 00:39:14,100
+Talvez.
+
+530
+00:39:20,000 --> 00:39:21,200
+Então…
+
+531
+00:39:21,300 --> 00:39:22,300
+Então…
+
+532
+00:39:33,000 --> 00:39:34,100
+Eu não acredito!
+
+533
+00:39:34,300 --> 00:39:35,900
+Onde está ela?
+
+534
+00:39:36,200 --> 00:39:38,700
+– Quem?
+– Ela, da música.
+
+535
+00:39:39,000 --> 00:39:41,400
+Madeline, ela está lá em cima…
+
+536
+00:39:42,400 --> 00:39:44,500
+Como sabe que ela é mulher?
+
+537
+00:39:44,700 --> 00:39:47,500
+Os sons de quando ela anda.
+
+538
+00:39:47,600 --> 00:39:49,300
+Os seus passos?
+
+539
+00:39:49,500 --> 00:39:52,300
+São diferentes dos seus.
+
+540
+00:39:53,300 --> 00:39:55,400
+Você a ouviu?
+
+541
+00:39:55,700 --> 00:39:56,500
+Sim.
+
+542
+00:39:56,600 --> 00:39:58,800
+Você falou… ela?
+
+543
+00:39:58,900 --> 00:40:01,000
+Com ela, sim.
+
+544
+00:40:01,200 --> 00:40:03,600
+Você a viu?
+
+545
+00:40:03,800 --> 00:40:05,200
+Muitas vezes.
+
+546
+00:40:05,800 --> 00:40:06,800
+Tem certeza que…?
+
+547
+00:40:06,900 --> 00:40:08,200
+Não toque!
+
+548
+00:40:11,100 --> 00:40:12,400
+E agora?
+
+549
+00:40:13,300 --> 00:40:14,800
+E agora?
+
+550
+00:40:22,100 --> 00:40:23,900
+– Tem este carro há muito tempo?
+
+551
+00:40:24,000 --> 00:40:25,700
+– Não, é o meu terceiro.
+
+552
+00:40:27,800 --> 00:40:29,400
+Eles quebram muito.
+
+553
+00:40:29,500 --> 00:40:30,400
+Posso desligar?
+
+554
+00:40:30,400 --> 00:40:32,800
+Não. Está quebrado também.
+
+555
+00:40:34,100 --> 00:40:38,100
+Madeline, alguma vez ouviu
+falar de inteligência artificial?
+
+556
+00:40:38,800 --> 00:40:40,200
+O que quer dizer?
+
+557
+00:40:40,600 --> 00:40:42,900
+Como computadores que falam.
+
+558
+00:40:43,900 --> 00:40:45,300
+Sim, minha mãe tem um.
+
+559
+00:40:45,600 --> 00:40:46,600
+Ela tem?
+
+560
+00:40:46,800 --> 00:40:48,700
+É um relógio que diz as horas.
+
+561
+00:40:49,400 --> 00:40:52,200
+Eu me refiro a um que converse.
+
+562
+00:40:52,400 --> 00:40:54,800
+Desde quando conversar
+tem a ver com pensar?
+
+563
+00:40:55,900 --> 00:40:59,800
+E sobre uma
+máquina que pode criar arte,
+
+564
+00:41:00,500 --> 00:41:03,900
+escrever poesia ou compor música.
+
+565
+00:41:04,100 --> 00:41:05,700
+E quanto a isso?
+
+566
+00:41:06,900 --> 00:41:09,300
+Qual o seu problema com
+os artistas?
+
+567
+00:41:13,100 --> 00:41:15,300
+"Se soubesse como o amor dói."
+
+568
+00:41:16,300 --> 00:41:18,600
+"Se soubesse o que eu passei."
+
+569
+00:41:19,500 --> 00:41:22,000
+"Se soubesse quanto o amei."
+
+570
+00:41:23,800 --> 00:41:25,900
+"Quanto ainda o amo… "
+
+571
+00:41:37,400 --> 00:41:39,400
+– Então, quem é Bill?
+
+572
+00:41:40,900 --> 00:41:43,600
+– E como vai a garota do carro?
+
+573
+00:41:44,700 --> 00:41:47,400
+Sabe, não como  pipoca há
+muito tempo.
+
+574
+00:41:48,100 --> 00:41:49,200
+Quando disse filme, eu…
+
+575
+00:41:49,300 --> 00:41:51,600
+Gosto de vir pra cá, achei uma
+boa ideia e é discreto.
+
+576
+00:41:51,800 --> 00:41:52,800
+O quê?
+
+577
+00:41:53,800 --> 00:41:56,100
+Vou tirar essa coisa.
+Está presa.
+
+578
+00:41:58,900 --> 00:42:00,200
+Derramou em você?
+
+579
+00:42:00,300 --> 00:42:02,700
+Não tem problema, Coca diet
+não mancha.
+
+580
+00:42:02,800 --> 00:42:06,300
+Não é Coca diet, só tinham cerveja.
+
+581
+00:42:11,400 --> 00:42:13,100
+Quer doce ou pipoca…
+
+582
+00:42:15,300 --> 00:42:17,700
+Cairam jujubas na minha pipoca.
+
+583
+00:42:18,000 --> 00:42:19,100
+Alguma vermelha?
+
+584
+00:42:19,100 --> 00:42:20,300
+Não.
+
+585
+00:42:22,000 --> 00:42:24,000
+É muito difícil
+ver o vermelho no escuro.
+
+586
+00:42:24,100 --> 00:42:25,100
+Madeline, acho que
+
+587
+00:42:25,200 --> 00:42:27,100
+podemos arranjar outra caixa.
+
+588
+00:42:27,100 --> 00:42:29,700
+Não, não podemos.
+Trouxe essa de casa.
+
+589
+00:42:30,400 --> 00:42:31,800
+Estava me espreguiçando!
+
+590
+00:42:32,300 --> 00:42:34,700
+Você… você está bem?
+
+591
+00:42:38,200 --> 00:42:40,700
+Igual a você, só me espreguiçando.
+
+592
+00:42:43,400 --> 00:42:46,300
+Tinha razão,
+este filme foi uma boa ideia.
+
+593
+00:42:49,400 --> 00:42:54,000
+"Beije-me."
+"Beije-me como se fosse a última vez."
+
+594
+00:42:58,600 --> 00:43:02,400
+Espere um instante, somos vizinhos.
+
+595
+00:43:02,600 --> 00:43:04,800
+– E se não gostarmos um do outro?
+
+596
+00:43:05,000 --> 00:43:06,600
+– Um de nós se muda.
+
+597
+00:43:14,300 --> 00:43:16,500
+E se gostarmos um do outro?
+
+598
+00:43:18,000 --> 00:43:20,000
+Um de nós se muda.
+
+599
+00:43:23,100 --> 00:43:26,500
+"Lembre-se da sua primeira
+xícara de café."
+
+600
+00:43:26,600 --> 00:43:27,600
+Café.
+
+601
+00:43:30,700 --> 00:43:32,700
+"Adivinhe qual dos participantes… "
+
+602
+00:43:32,800 --> 00:43:34,100
+Participantes.
+
+603
+00:43:34,800 --> 00:43:38,000
+"Ligue para o seu pai."
+
+604
+00:43:38,200 --> 00:43:39,300
+Certo.
+
+605
+00:43:40,900 --> 00:43:42,300
+TWA.
+
+606
+00:43:42,500 --> 00:43:44,100
+Beba o suco.
+
+607
+00:43:45,000 --> 00:43:46,500
+Seu coelho…
+
+608
+00:43:50,800 --> 00:43:52,600
+– Então, acha que pode me
+dar uma mãozinha?
+
+609
+00:43:52,800 --> 00:43:54,300
+– Eu vou ter uma?
+
+610
+00:43:55,000 --> 00:43:56,600
+Quis dizer, me ajudar.
+
+611
+00:43:56,700 --> 00:43:58,100
+No quê?
+
+612
+00:43:58,100 --> 00:43:59,900
+Canção.
+C-A-N-Ç-Ã-O
+
+613
+00:44:00,000 --> 00:44:01,300
+Eu soletro.
+
+614
+00:44:01,500 --> 00:44:02,800
+Está bem, vamos tentar.
+
+615
+00:44:03,100 --> 00:44:04,300
+O que é?
+
+616
+00:44:04,400 --> 00:44:07,600
+Uma canção?
+É música com palavras.
+
+617
+00:44:07,800 --> 00:44:08,700
+Não, "amor".
+
+618
+00:44:09,200 --> 00:44:10,300
+É difícil.
+
+619
+00:44:10,300 --> 00:44:12,400
+"Miles, se apresse senão
+chegaremos tarde."
+
+620
+00:44:12,500 --> 00:44:13,100
+– Tenho que ir.
+
+621
+00:44:13,100 --> 00:44:14,800
+– Moles, que palavras uso?
+
+622
+00:44:15,200 --> 00:44:16,200
+Preciso de palavras.
+
+623
+00:44:16,300 --> 00:44:17,900
+Certo, certo, não se preocupe.
+
+624
+00:44:17,900 --> 00:44:21,800
+Use palavras como
+"abraçar", "segurar",
+
+625
+00:44:22,000 --> 00:44:25,000
+"beije os meus lábios",
+"lágrimas no seu travesseiro".
+
+626
+00:44:25,100 --> 00:44:27,200
+Não importa, desde que rime.
+
+627
+00:44:27,400 --> 00:44:28,200
+Rime.
+
+628
+00:44:28,500 --> 00:44:31,500
+E se terminar hoje,
+posso mostrar esta noite.
+
+629
+00:44:31,700 --> 00:44:32,900
+Esta noite.
+
+630
+00:44:34,200 --> 00:44:35,500
+Divirta-se.
+
+631
+00:44:35,600 --> 00:44:36,600
+Sim, senhor!
+
+632
+00:44:36,600 --> 00:44:38,600
+"Vamos, senão perdemos o barco!"
+
+633
+00:44:42,700 --> 00:44:45,100
+– Alcatraz?
+O que vamos fazer numa prisão?
+
+634
+00:44:45,200 --> 00:44:49,300
+– Ex-prisão, agora é
+um local para recreação.
+
+635
+00:44:49,800 --> 00:44:51,600
+Por onde começar?
+
+636
+00:44:54,900 --> 00:44:57,100
+Primeiro, ritmo.
+
+637
+00:45:00,100 --> 00:45:04,000
+Não se pode fumar, beber, comer
+e nem dormir aqui.
+
+638
+00:45:04,200 --> 00:45:06,500
+Se querem fazer algo assim,
+façam no cais.
+
+639
+00:45:06,600 --> 00:45:10,000
+Além disso, se têm problemas de
+coração ou respiratórios,
+
+640
+00:45:10,100 --> 00:45:11,800
+não deviam estar aqui.
+
+641
+00:45:11,900 --> 00:45:13,200
+Está bem, movam-se.
+
+642
+00:45:13,200 --> 00:45:15,100
+Caminhem juntos, movam-se.
+
+643
+00:45:16,500 --> 00:45:17,800
+Não se atrasem.
+
+644
+00:45:17,800 --> 00:45:18,800
+Parem aqui.
+
+645
+00:45:18,900 --> 00:45:19,900
+Vamos!
+
+646
+00:45:19,900 --> 00:45:24,700
+Alcatraz, nunca nada entrou por aqui.
+Só os prisioneiros.
+
+647
+00:45:45,100 --> 00:45:48,600
+Deixem-me sair!
+Eu sou inocente!
+
+648
+00:45:49,000 --> 00:45:50,000
+Melodia.
+
+649
+00:45:56,000 --> 00:45:57,100
+Muito lento.
+
+650
+00:45:59,600 --> 00:46:01,000
+Muito simples.
+
+651
+00:46:05,200 --> 00:46:06,500
+Muito longa.
+
+652
+00:46:08,900 --> 00:46:12,100
+Sim!
+Agora, para trás.
+
+653
+00:46:19,700 --> 00:46:21,900
+Que está fazendo?
+Corra!
+
+654
+00:46:41,400 --> 00:46:42,300
+Olá?
+
+655
+00:46:43,300 --> 00:46:44,500
+Quê?
+
+656
+00:46:45,200 --> 00:46:48,100
+Aqui traziam os presos
+quando eram castigados.
+
+657
+00:46:49,300 --> 00:46:52,000
+E com isto, termina a viagem.
+
+658
+00:47:14,000 --> 00:47:15,700
+Quatro irmãos homens!
+
+659
+00:47:15,800 --> 00:47:17,900
+Todos eles eram fortes.
+
+660
+00:47:55,800 --> 00:47:58,100
+– Conheceu muitas garotas?
+
+661
+00:47:58,300 --> 00:47:59,200
+– Algumas.
+
+662
+00:48:00,500 --> 00:48:02,700
+Mas nenhuma me ofereceu
+um pinguim.
+
+663
+00:48:04,000 --> 00:48:05,700
+E você?
+Pinguins?
+
+664
+00:48:05,800 --> 00:48:07,000
+Não, homens!
+
+665
+00:48:08,200 --> 00:48:09,600
+O suficiente.
+
+666
+00:48:13,200 --> 00:48:15,300
+Mas nenhum compôs uma
+música para mim.
+
+667
+00:48:30,400 --> 00:48:33,500
+Nunca tive um dia como este.
+Nunca, obrigado.
+
+668
+00:48:33,700 --> 00:48:38,100
+O prazer é meu… o meu prazer…
+
+669
+00:48:40,900 --> 00:48:42,400
+Beije-me, Groucho!
+
+670
+00:48:45,500 --> 00:48:48,300
+Está bipando!
+É só o meu relógio.
+
+671
+00:48:50,200 --> 00:48:53,100
+Oh, vamos chegar tarde ao ensaio!
+E?
+
+672
+00:48:53,800 --> 00:48:55,100
+Chegarei tarde.
+
+673
+00:49:17,000 --> 00:49:19,400
+Letra e música: MOLES HARDING
+
+674
+00:49:21,100 --> 00:49:24,200
+– Se pode tocar para ela, pode
+tocar para mim.
+
+675
+00:49:24,300 --> 00:49:25,300
+– O quê?
+
+676
+00:49:25,400 --> 00:49:26,700
+Toque, Sam.
+
+677
+00:49:27,300 --> 00:49:28,600
+Em que tom?
+
+678
+00:49:28,600 --> 00:49:29,600
+Você escolhe.
+
+679
+00:49:30,400 --> 00:49:33,500
+Quer os versos primeiro ou o refrão?
+
+680
+00:49:33,700 --> 00:49:34,700
+Apenas toque.
+
+681
+00:49:34,900 --> 00:49:36,000
+Sim!
+
+682
+00:49:41,900 --> 00:49:45,000
+Cinco, quatro, três, iniciar.
+
+683
+00:49:45,300 --> 00:49:47,800
+Querida, te amo pra valer.
+
+684
+00:49:48,200 --> 00:49:51,200
+E teus peitos quero ver.
+
+685
+00:49:53,500 --> 00:49:55,800
+Pare, pare!
+Está horrivel!
+
+686
+00:49:56,200 --> 00:49:57,200
+Horrivel?
+
+687
+00:49:57,300 --> 00:49:59,200
+Isso soa como publicidade
+de refrigerante!
+
+688
+00:49:59,300 --> 00:50:00,100
+E é.
+
+689
+00:50:00,200 --> 00:50:01,400
+E as palavras!
+
+690
+00:50:01,600 --> 00:50:02,500
+Não posso falar isso!
+
+691
+00:50:02,600 --> 00:50:05,900
+Quero lhe apertar, lambê-la,
+me aproximar e lhe beijar.
+
+692
+00:50:06,200 --> 00:50:07,900
+Ela ficou parecendo um limão!
+
+693
+00:50:08,100 --> 00:50:09,800
+Mas, Moles, elas rimam.
+
+694
+00:50:10,400 --> 00:50:13,000
+Sim, temos que começar de novo.
+
+695
+00:50:13,400 --> 00:50:15,000
+– De novo?
+– Sim, de novo.
+
+696
+00:50:15,200 --> 00:50:17,700
+Tem que ser lenta, como uma
+verdadeira canção de amor.
+
+697
+00:50:17,800 --> 00:50:20,200
+Eu não sei o que é amor,
+você nunca me contou!
+
+698
+00:50:20,300 --> 00:50:21,800
+Você não entenderia.
+
+699
+00:50:22,100 --> 00:50:24,000
+EU QUERO ENTENDER!!!
+
+700
+00:50:24,100 --> 00:50:26,200
+Ok!
+Me ajude.
+
+701
+00:50:26,400 --> 00:50:27,700
+Ok.
+
+702
+00:50:29,100 --> 00:50:30,100
+Quais palavras?
+
+703
+00:50:30,300 --> 00:50:31,600
+Beijo.
+
+704
+00:50:32,300 --> 00:50:35,400
+Beijo, se faz com a boca.
+
+705
+00:50:42,400 --> 00:50:44,000
+Assim?
+
+706
+00:50:45,100 --> 00:50:47,300
+Na verdade, com duas bocas.
+
+707
+00:50:48,500 --> 00:50:49,800
+Duas bocas.
+
+708
+00:50:50,600 --> 00:50:53,600
+Daí se aproximam,
+os lábios se tocam e se beijam.
+
+709
+00:50:54,200 --> 00:50:55,100
+A próxima.
+
+710
+00:50:55,100 --> 00:50:56,400
+Você
+
+711
+00:50:56,800 --> 00:50:57,800
+a beijou?
+
+712
+00:50:58,800 --> 00:51:00,200
+Sim, sim.
+
+713
+00:51:00,200 --> 00:51:01,400
+A-M-U-R
+
+714
+00:51:01,500 --> 00:51:02,600
+Soletrou errado.
+
+715
+00:51:02,800 --> 00:51:05,400
+A forma certa é: A-M-O-R.
+
+716
+00:51:05,700 --> 00:51:06,800
+E o que é?
+
+717
+00:51:07,000 --> 00:51:09,100
+É o sentimento
+mais poderoso do universo.
+
+718
+00:51:09,200 --> 00:51:09,900
+Sério?
+
+719
+00:51:09,900 --> 00:51:11,600
+Nós sobrevivemos por causa dele.
+
+720
+00:51:11,700 --> 00:51:13,700
+E como você sente isso?
+
+721
+00:51:14,100 --> 00:51:16,400
+A gente se sente feliz e triste.
+
+722
+00:51:16,500 --> 00:51:18,500
+Nervoso e calmo.
+
+723
+00:51:18,800 --> 00:51:20,500
+Quente e frio.
+
+724
+00:51:21,000 --> 00:51:24,000
+Pode dar força ou lhe enfraquecer.
+
+725
+00:51:24,300 --> 00:51:26,800
+Moles, isso não é computável.
+
+726
+00:51:27,100 --> 00:51:29,100
+Veja…
+Não posso.
+
+727
+00:51:29,300 --> 00:51:30,300
+Escute,
+
+728
+00:51:30,400 --> 00:51:31,600
+não se explica com palavras.
+
+729
+00:51:31,700 --> 00:51:33,400
+É mais um sentimento.
+
+730
+00:51:33,500 --> 00:51:36,200
+Lembra da primeira vez
+que tocou música para ela?
+
+731
+00:51:36,400 --> 00:51:37,600
+Sim.
+
+732
+00:51:37,700 --> 00:51:39,600
+Tente se lembrar como foi.
+
+733
+00:51:41,800 --> 00:51:44,300
+É que… vinha de dentro de mim.
+
+734
+00:51:44,800 --> 00:51:46,900
+Ela me fez sentir…
+
+735
+00:51:47,100 --> 00:51:48,500
+É isso! Ela o fez sentir!
+
+736
+00:51:48,500 --> 00:51:50,400
+Isso é bom, é perfeito!
+
+737
+00:51:50,600 --> 00:51:51,200
+É…
+
+738
+00:51:51,200 --> 00:51:52,600
+AMOR.
+
+739
+00:51:52,800 --> 00:51:53,900
+Bem, não…
+
+740
+00:51:54,000 --> 00:51:56,200
+mas é suficiente para uma canção.
+
+741
+00:51:57,200 --> 00:51:58,500
+Há mais palavras?
+
+742
+00:51:58,500 --> 00:51:59,700
+TREPAR.
+
+743
+00:52:00,600 --> 00:52:02,500
+Onde ouviu isso?
+
+744
+00:52:02,800 --> 00:52:04,300
+Talvez a vizinha.
+
+745
+00:52:04,500 --> 00:52:05,900
+Ela disse isso?
+
+746
+00:52:06,800 --> 00:52:09,900
+Pode ter sido o encanador.
+Ele esteve aqui, também.
+
+747
+00:52:10,200 --> 00:52:12,000
+Esqueçamos essa palavra.
+
+748
+00:52:12,500 --> 00:52:13,700
+A próxima.
+
+749
+00:52:22,500 --> 00:52:24,900
+"Atenção, fanáticos do esporte!"
+
+750
+00:52:25,000 --> 00:52:29,100
+"Interrompemos este programa
+para um boletim importante!"
+
+751
+00:52:34,100 --> 00:52:36,100
+Eu… eu já acabei, Moles.
+
+752
+00:52:36,300 --> 00:52:38,400
+Está bem, está bem!
+Vamos ouvir.
+
+753
+00:52:51,500 --> 00:52:56,600
+"Você não precisa tocar pra saber"
+
+754
+00:52:57,200 --> 00:53:02,600
+"O amor está em todo lugar
+que você vai"
+
+755
+00:53:02,900 --> 00:53:07,300
+"Você não precisa tocar pra sentir"
+
+756
+00:53:08,900 --> 00:53:14,000
+"O amor é todo segundo que
+nós roubamos"
+
+757
+00:53:14,700 --> 00:53:19,100
+"Amor é amor, é nada sem você"
+
+758
+00:53:20,400 --> 00:53:25,200
+"Amor é amor, é tudo que você faz"
+
+759
+00:53:26,200 --> 00:53:31,700
+"Abra os seus olhos e você verá"
+
+760
+00:53:32,000 --> 00:53:36,500
+"Amor é amor, é tudo pra mim"
+
+761
+00:53:43,500 --> 00:53:49,000
+"Você não precisa tocar pra estar"
+
+762
+00:53:49,300 --> 00:53:54,600
+"Envolvido em emoções como eu"
+
+763
+00:53:55,000 --> 00:54:00,500
+"Todo mundo
+deve se sentir como eu"
+
+764
+00:54:00,800 --> 00:54:06,400
+"Amor é estar perto de você"
+
+765
+00:54:06,600 --> 00:54:12,000
+"Amor é amor, é nada sem você"
+
+766
+00:54:12,400 --> 00:54:16,800
+"Amor é amor, é tudo que você faz"
+
+767
+00:54:17,500 --> 00:54:23,500
+"Abra os seus olhos e você verá"
+
+768
+00:54:23,900 --> 00:54:27,700
+"Amor é amor, é tudo pra mim"
+
+769
+00:54:27,900 --> 00:54:34,600
+"E você sabe que amor é amor"
+
+770
+00:54:34,900 --> 00:54:39,300
+"Está escrito em preto e azul"
+
+771
+00:54:39,600 --> 00:54:45,800
+"E tudo que você diz"
+
+772
+00:54:46,100 --> 00:54:52,500
+"Deve trazê-la mais pra perto,
+pra perto de você"
+
+773
+00:55:10,300 --> 00:55:14,500
+"Você não precisa tocar pra saber"
+
+774
+00:55:15,700 --> 00:55:20,700
+"O amor está em todo lugar
+que você vai"
+
+775
+00:55:21,600 --> 00:55:25,900
+"Você não precisa tocar pra sentir"
+
+776
+00:55:26,400 --> 00:55:28,700
+"O amor é todo segundo que nós… "
+
+777
+00:55:28,800 --> 00:55:31,600
+Isso está lindo!
+Mas não posso dar pra ela.
+
+778
+00:55:31,800 --> 00:55:33,300
+– Por que não?
+
+779
+00:55:33,800 --> 00:55:36,900
+– Madeline! O que faz aqui?
+
+780
+00:55:37,200 --> 00:55:39,200
+Pensei que estivesse no ensaio.
+
+781
+00:55:39,700 --> 00:55:41,800
+Esqueci as partituras.
+
+782
+00:55:42,100 --> 00:55:44,200
+E agora encontro isto.
+
+783
+00:55:45,500 --> 00:55:47,500
+É maravilhoso, Miles.
+
+784
+00:55:47,900 --> 00:55:49,800
+Escreveu isto para mim?
+
+785
+00:55:49,900 --> 00:55:52,400
+Não, bem, quero dizer…
+
+786
+00:55:52,600 --> 00:55:54,500
+Você… gostou?
+
+787
+00:55:54,700 --> 00:55:57,300
+Continua a dizer que não sabe
+nada sobre música e
+
+788
+00:55:57,400 --> 00:55:59,500
+me surpreende dessa maneira!
+
+789
+00:56:00,200 --> 00:56:02,300
+Claro que gostei.
+
+790
+00:56:04,200 --> 00:56:05,700
+Adorei.
+
+791
+00:56:10,400 --> 00:56:12,100
+Tem certeza que não tem um cão?
+
+792
+00:56:12,300 --> 00:56:14,600
+Não. É só uma pestinha.
+
+793
+00:56:14,800 --> 00:56:17,000
+Vamos, a acompanho até seu carro.
+
+794
+00:56:20,400 --> 00:56:24,800
+Quero conhecê-la, Moles!
+
+795
+00:56:27,600 --> 00:56:31,800
+Moles?
+MOLES, QUERO CONHECÊ-LA!
+
+796
+00:56:34,700 --> 00:56:36,700
+Isso foi mesmo doentio!
+
+797
+00:56:37,900 --> 00:56:40,900
+De agora em diante,
+mantenha-se fora desse quarto!
+
+798
+00:56:47,400 --> 00:56:49,400
+Quero lhe falar.
+
+799
+00:56:53,400 --> 00:56:55,200
+– Falar sobre o quê?
+
+800
+00:56:55,400 --> 00:56:57,500
+– Sobre o que anda acontecendo.
+
+801
+00:56:57,800 --> 00:56:59,600
+Quem escreveu a canção…
+
+802
+00:56:59,800 --> 00:57:03,400
+Sai daí.
+Vá para o seu… quarto.
+
+803
+00:57:04,200 --> 00:57:06,800
+EU PRECISO, MOLES!
+Não.
+
+804
+00:57:08,500 --> 00:57:10,500
+Por favor.
+Não.
+
+805
+00:57:10,900 --> 00:57:13,400
+Por favorzinho.
+Nunca!
+
+806
+00:57:18,000 --> 00:57:20,100
+Talvez ela me ame.
+
+807
+00:57:26,600 --> 00:57:28,500
+– Como ela pode fazer isso?
+
+808
+00:57:28,600 --> 00:57:32,000
+– Ela ama a música, minha música.
+Minha canção.
+
+809
+00:57:32,400 --> 00:57:33,300
+A sua canção?
+
+810
+00:57:34,200 --> 00:57:35,200
+A ideia foi minha.
+
+811
+00:57:35,300 --> 00:57:36,500
+Quero beijá-la.
+
+812
+00:57:41,000 --> 00:57:42,300
+Com o quê?
+
+813
+00:57:42,500 --> 00:57:43,700
+Quero tocá-la.
+
+814
+00:57:49,500 --> 00:57:51,500
+Talvez já a tenha tocado.
+
+815
+00:57:52,500 --> 00:57:53,500
+O quê?
+
+816
+00:57:56,500 --> 00:57:58,800
+Nada, vá dormir,
+
+817
+00:57:58,900 --> 00:58:01,200
+se desligue ou faça o que quiser,
+
+818
+00:58:01,300 --> 00:58:04,000
+mas me deixe em paz, por favor!
+
+819
+00:58:04,400 --> 00:58:05,100
+Está bem.
+
+820
+00:58:05,700 --> 00:58:06,900
+Bons sonhos.
+
+821
+00:58:07,000 --> 00:58:08,000
+O que é um sonho?
+
+822
+00:58:08,900 --> 00:58:11,300
+Um sonho é um desejo que o
+seu coração produz
+
+823
+00:58:11,400 --> 00:58:13,500
+quando dorme.
+
+824
+00:58:13,900 --> 00:58:14,900
+Quem disse isso?
+
+825
+00:58:15,500 --> 00:58:18,200
+Walt Disney,  A Bela Adormecida.
+
+826
+00:58:19,100 --> 00:58:20,800
+1950.
+
+827
+00:58:21,900 --> 00:58:24,500
+Não, foi em Cinderela, 1949.
+
+828
+00:58:25,800 --> 00:58:28,100
+Boa noite!
+Boa noite.
+
+829
+00:58:48,200 --> 00:58:50,400
+Dormir?
+
+830
+01:00:10,000 --> 01:00:12,100
+Terremoto.
+Perigo.
+
+831
+01:00:40,600 --> 01:00:42,500
+Tijolo para terremotos.
+
+832
+01:01:21,000 --> 01:01:22,000
+Madeline!
+
+833
+01:01:22,500 --> 01:01:23,800
+– Madeline!
+
+834
+01:01:24,800 --> 01:01:25,400
+– Oi, Millie.
+
+835
+01:01:25,600 --> 01:01:26,800
+Leva pra almoçar?
+
+836
+01:01:26,900 --> 01:01:29,500
+Não, ao carro, estou treinando.
+
+837
+01:01:29,800 --> 01:01:30,800
+Acho que vou esperar.
+
+838
+01:01:30,900 --> 01:01:32,500
+Isso demora muito, aqui há um lugar.
+
+839
+01:01:33,200 --> 01:01:35,300
+Millie, cuidado, vai estragar
+o meu clarinete.
+
+840
+01:01:35,500 --> 01:01:37,200
+Cuidado, o meu violoncelo!
+
+841
+01:01:56,700 --> 01:01:57,900
+– Tem 5 minutos, Frank.
+– Sim.
+
+842
+01:01:58,100 --> 01:01:59,900
+Vou anunciar que terminei o tijolo.
+
+843
+01:02:00,100 --> 01:02:01,300
+Já não era sem tempo.
+
+844
+01:02:01,300 --> 01:02:03,100
+Não passe
+ligações por 15 min, Sarah.
+
+845
+01:02:03,200 --> 01:02:04,200
+Ok.
+
+846
+01:02:04,700 --> 01:02:06,600
+– Bill!
+– Madeline!
+
+847
+01:02:08,100 --> 01:02:09,100
+O que houve?
+
+848
+01:02:09,300 --> 01:02:10,600
+O meu violoncelo.
+
+849
+01:02:10,900 --> 01:02:12,300
+Quebrou.
+
+850
+01:02:12,500 --> 01:02:13,700
+Oh, não.
+
+851
+01:02:14,500 --> 01:02:17,400
+O que é que vai fazer?
+Não sei.
+
+852
+01:02:18,400 --> 01:02:20,200
+Alguém poderá lhe substituir?
+
+853
+01:02:21,300 --> 01:02:22,400
+O quê?
+
+854
+01:02:22,400 --> 01:02:24,800
+O quarteto.
+Quem tocará?
+
+855
+01:02:25,700 --> 01:02:28,100
+Tocar?
+O quarteto?
+
+856
+01:02:29,600 --> 01:02:32,300
+Provavelmente possa tocar lá, mas…
+
+857
+01:02:35,100 --> 01:02:38,200
+Madeline!
+Onde vai?
+
+858
+01:02:39,800 --> 01:02:41,700
+Quer que a leve a algum lugar?
+
+859
+01:02:45,800 --> 01:02:47,700
+"Alô, ele está aí?"
+
+860
+01:02:47,900 --> 01:02:49,700
+"Como é que
+não posso falar com ele?"
+
+861
+01:02:49,700 --> 01:02:51,600
+"Sempre falo com ele."
+
+862
+01:02:52,500 --> 01:02:54,300
+Disse para não passar chamadas.
+
+863
+01:02:54,400 --> 01:02:57,300
+– Sim?
+– Olá, sou eu.
+
+864
+01:02:57,800 --> 01:02:59,700
+Você?
+Como conseguiu meu telefone?
+
+865
+01:02:59,700 --> 01:03:01,200
+Dei um jeito.
+
+866
+01:03:02,000 --> 01:03:04,100
+– Boa tarde, Ryley & Associados.
+
+867
+01:03:04,400 --> 01:03:05,900
+– Miles Harding, por favor.
+
+868
+01:03:06,000 --> 01:03:07,700
+Desculpe, está em reunião.
+
+869
+01:03:07,800 --> 01:03:09,000
+Por favor, é importante.
+
+870
+01:03:09,000 --> 01:03:10,500
+E a linha também está ocupada.
+
+871
+01:03:10,700 --> 01:03:12,600
+Ocupada? Ué, como ocupada?
+
+872
+01:03:12,800 --> 01:03:13,700
+O quê?
+
+873
+01:03:13,700 --> 01:03:15,600
+Está ocupada, querida.
+Pode esperar?
+
+874
+01:03:15,900 --> 01:03:17,800
+Sim, acho que um pouco.
+
+875
+01:03:18,000 --> 01:03:20,500
+Com quem vai sair esta noite?
+
+876
+01:03:20,800 --> 01:03:22,300
+Ligou para me perguntar isso?
+
+877
+01:03:22,400 --> 01:03:25,300
+"Ponha 25 centavos para os
+próximos três minutos."
+
+878
+01:03:26,000 --> 01:03:27,800
+Ainda está ocupada, pode esperar?
+
+879
+01:03:28,000 --> 01:03:29,200
+Sim, mas não posso.
+
+880
+01:03:30,400 --> 01:03:32,100
+Não tenho mais moed…
+
+881
+01:03:35,300 --> 01:03:37,800
+Nunca mais ligue aqui, falaremos
+quando eu chegar em casa.
+
+882
+01:03:38,000 --> 01:03:39,900
+Mas, Moles, sinto-me só.
+
+883
+01:03:40,000 --> 01:03:42,300
+Só?
+Tem os seus sabões,
+
+884
+01:03:42,400 --> 01:03:45,400
+MTV, microondas pra quando
+tiver fome.
+
+885
+01:03:45,500 --> 01:03:47,600
+Engraçadinho.
+Adeus.
+
+886
+01:03:50,300 --> 01:03:52,200
+Mulheres, hã?
+
+887
+01:03:53,000 --> 01:03:54,100
+Sim.
+
+888
+01:03:56,500 --> 01:03:58,900
+Não sei por que vê esse lixo.
+
+889
+01:04:00,000 --> 01:04:00,900
+– Está ligando pra quem?
+
+890
+01:04:01,600 --> 01:04:03,500
+– Minha mãe, disseram
+que ela me ligou.
+
+891
+01:04:03,700 --> 01:04:05,600
+Já falei com ela.
+
+892
+01:04:06,700 --> 01:04:07,600
+Você o quê?
+
+893
+01:04:07,800 --> 01:04:10,300
+Oh, não se preocupe,
+passei por você.
+
+894
+01:04:12,100 --> 01:04:14,600
+Muito obrigado!
+De nada.
+
+895
+01:04:18,800 --> 01:04:20,400
+Moles, onde vai?
+
+896
+01:04:21,000 --> 01:04:23,200
+Sair, vou comprar o jornal.
+
+897
+01:04:23,400 --> 01:04:26,200
+Mas ele está aqui, aqui.
+O tenho para você.
+
+898
+01:04:26,300 --> 01:04:27,700
+Na minha impressora.
+
+899
+01:04:27,800 --> 01:04:29,500
+Vê, é eletrônico.
+
+900
+01:04:31,200 --> 01:04:33,700
+"Porta nº 3.
+Está atrás da porta nº 3."
+
+901
+01:04:34,100 --> 01:04:35,400
+Vai usar minha cadeira?
+
+902
+01:04:35,600 --> 01:04:37,800
+– Claro que não, é sua.
+– Obrigado.
+
+903
+01:04:38,000 --> 01:04:39,200
+De nada.
+
+904
+01:04:41,100 --> 01:04:43,100
+Quer que ligue o som?
+
+905
+01:04:43,200 --> 01:04:45,100
+Não, eu mesmo ligo.
+
+906
+01:04:45,300 --> 01:04:47,100
+Quer que eu sirva o jantar?
+
+907
+01:04:47,300 --> 01:04:48,500
+Jantarei fora, esta noite.
+
+908
+01:04:48,700 --> 01:04:50,500
+Hoje li um artigo muito interessante…
+
+909
+01:04:50,500 --> 01:04:52,200
+Dá pra dar um tempo!
+
+910
+01:04:52,600 --> 01:04:53,800
+Como no "McDonalds"?
+
+911
+01:04:54,100 --> 01:04:55,900
+Não, dar no contrário de tirar.
+
+912
+01:04:56,000 --> 01:04:58,300
+Como do jeito que me tira a vida!
+
+913
+01:04:58,500 --> 01:05:01,000
+Como do jeito
+que me tira as canções?
+
+914
+01:05:02,200 --> 01:05:04,200
+Preciso de uma bebida.
+
+915
+01:05:04,700 --> 01:05:05,700
+Claro que precisa.
+
+916
+01:05:06,400 --> 01:05:07,900
+Aqui tem.
+
+917
+01:05:10,600 --> 01:05:14,400
+Trabalhei no seu tijolo, hoje.
+Quer ver?
+
+918
+01:05:14,600 --> 01:05:15,800
+Não!
+
+919
+01:05:16,400 --> 01:05:19,800
+– O que é esse som esquisito
+nas suas palavras?
+
+920
+01:05:20,200 --> 01:05:22,000
+– Chama-se choro.
+
+921
+01:05:22,900 --> 01:05:25,500
+Madeline estava
+fazendo isso, também.
+
+922
+01:05:25,700 --> 01:05:26,900
+O quê?
+
+923
+01:05:27,700 --> 01:05:30,900
+A Madeline chorando?
+Ela me telefonaria.
+
+924
+01:05:31,200 --> 01:05:32,700
+O que significam as lágrimas?
+
+925
+01:05:32,800 --> 01:05:35,800
+Significam que as coisas mudarão.
+
+926
+01:05:36,000 --> 01:05:38,700
+Onde vai?
+Mudar!
+
+927
+01:05:42,300 --> 01:05:44,200
+– Olá, quer jogar?
+
+928
+01:05:44,400 --> 01:05:45,500
+– Estou atrasado…
+
+929
+01:05:45,500 --> 01:05:48,200
+Com o Frank?
+Com Madel…
+
+930
+01:05:50,800 --> 01:05:52,700
+Você vai sair com Madeline?
+
+931
+01:05:52,800 --> 01:05:55,400
+Não, quis dizer Frank.
+Foi um ato falho.
+
+932
+01:05:55,500 --> 01:05:59,900
+Não foi um ato falho.
+Foi uma mentira!
+
+933
+01:06:00,200 --> 01:06:02,100
+Onde ouviu essa palavra?
+
+934
+01:06:02,200 --> 01:06:04,000
+Hospital Geral.
+
+935
+01:06:04,400 --> 01:06:06,000
+Você vê muita TV.
+
+936
+01:06:06,200 --> 01:06:11,000
+POR QUÊ
+VOCÊ MENTIU PRA MIM?
+
+937
+01:06:31,200 --> 01:06:32,800
+– Miles!
+
+938
+01:06:33,600 --> 01:06:35,000
+– Você está bem?
+
+939
+01:06:35,200 --> 01:06:36,500
+Sim…
+Me dê um segundo.
+
+940
+01:06:36,600 --> 01:06:38,700
+Estive fazendo isso todo o dia.
+
+941
+01:06:39,200 --> 01:06:41,200
+Jesus, como está quente
+aqui dentro.
+
+942
+01:06:42,600 --> 01:06:45,700
+Então, como se sente?
+
+943
+01:06:46,600 --> 01:06:48,600
+Bem, exceto estes sussurros.
+
+944
+01:06:48,800 --> 01:06:50,500
+Esteve chorando?
+
+945
+01:06:50,700 --> 01:06:52,500
+Por quê, pareço ter chorado?
+
+946
+01:06:52,900 --> 01:06:54,300
+Eu acho que não.
+
+947
+01:06:54,500 --> 01:06:55,700
+Ele sabe tudo.
+
+948
+01:06:56,000 --> 01:06:56,900
+O quê?
+
+949
+01:06:57,100 --> 01:06:59,200
+Sabe até quando você está bem.
+
+950
+01:06:59,400 --> 01:07:00,600
+– É uma experiência.
+– O quê?
+
+951
+01:07:00,700 --> 01:07:01,600
+O sussurro.
+
+952
+01:07:01,900 --> 01:07:03,800
+Miles, não acha isso ridículo?
+
+953
+01:07:04,100 --> 01:07:05,500
+Calma, ainda vai piorar.
+
+954
+01:07:05,600 --> 01:07:06,900
+Vamos tirar os sapatos.
+
+955
+01:07:07,200 --> 01:07:08,400
+Tirar o quê?
+
+956
+01:07:08,800 --> 01:07:09,900
+O chão range.
+
+957
+01:07:10,000 --> 01:07:11,400
+Já range há anos.
+
+958
+01:07:11,600 --> 01:07:13,100
+É um teste arquitetônico.
+
+959
+01:07:13,300 --> 01:07:15,400
+Ondas de choque,
+fadiga de material, coisas assim!
+
+960
+01:07:15,400 --> 01:07:16,900
+Vamos…
+
+961
+01:07:31,700 --> 01:07:32,900
+Miles!
+
+962
+01:07:33,300 --> 01:07:34,700
+Tudo pela ciência.
+
+963
+01:07:35,600 --> 01:07:37,900
+Tudo pela ciência! Claro.
+
+964
+01:07:38,800 --> 01:07:40,500
+Notícias estúpidas.
+
+965
+01:07:46,400 --> 01:07:49,000
+"Vou lhes dizer umas verdades!"
+
+966
+01:07:49,500 --> 01:07:52,500
+"A orquestra pode tocar, e alto
+pra todos ouvirem!"
+
+967
+01:07:52,700 --> 01:07:54,000
+Concordo!
+
+968
+01:07:56,000 --> 01:07:58,300
+Estou com você, querida!
+
+969
+01:08:11,400 --> 01:08:12,400
+Sim!
+
+970
+01:08:12,600 --> 01:08:15,500
+É a minha festa,
+e você não foi convidado.
+
+971
+01:08:16,300 --> 01:08:17,500
+Legal!
+
+972
+01:08:30,500 --> 01:08:32,600
+Sim!
+Ponham os seus casacos ali.
+
+973
+01:08:32,900 --> 01:08:34,500
+É terrível!
+
+974
+01:08:34,600 --> 01:08:37,100
+Este rapaz não respeita ninguém!
+
+975
+01:08:37,400 --> 01:08:39,100
+A música não é má.
+
+976
+01:08:41,300 --> 01:08:44,000
+Está muito composto.
+Eu sei.
+
+977
+01:08:45,400 --> 01:08:48,200
+É uma grande festa, não é?
+Sim.
+
+978
+01:08:55,100 --> 01:08:57,700
+Howard, entre de vez!
+
+979
+01:09:11,400 --> 01:09:13,400
+Ei, rapazes, se mandem!
+
+980
+01:09:22,500 --> 01:09:24,800
+Estou falando, Howard.
+
+981
+01:09:25,400 --> 01:09:27,100
+Estou falando, Howard.
+
+982
+01:09:40,200 --> 01:09:44,800
+Está bem, chegou a melhor parte
+do programa. Alô, você está no ar.
+
+983
+01:09:45,200 --> 01:09:47,100
+Alô, sou eu de novo.
+
+984
+01:09:47,100 --> 01:09:49,700
+Alô "eu". Eu estive pensando se
+você me ligaria de novo.
+
+985
+01:09:49,900 --> 01:09:50,900
+Que se passa?
+
+986
+01:09:51,000 --> 01:09:53,400
+Bem, doutora, é a mesma pergunta.
+
+987
+01:09:53,600 --> 01:09:55,200
+Quero saber o que é o amor.
+
+988
+01:09:55,600 --> 01:09:57,100
+Não me perguntou isso
+na semana passada?
+
+989
+01:09:57,300 --> 01:10:00,500
+Sim, mas eu preciso saber
+o que me diz AGORA!
+
+990
+01:10:00,700 --> 01:10:02,500
+Está bem.
+Deixe-me tentar de novo.
+
+991
+01:10:02,700 --> 01:10:05,700
+Quando está sentado à frente
+de uma fogueira
+
+992
+01:10:05,900 --> 01:10:08,600
+e toma uma mulher em
+seus braços…
+
+993
+01:10:08,800 --> 01:10:10,000
+Mas eu não tenho braços!
+
+994
+01:10:11,500 --> 01:10:14,900
+Oh, Deus!
+Não tem nada com que tocá-la?
+
+995
+01:10:15,100 --> 01:10:16,700
+Não tenho nada!
+
+996
+01:10:16,800 --> 01:10:19,100
+Oh, Deus!
+Deveria ir a um médico.
+
+997
+01:10:19,300 --> 01:10:22,300
+Mas não posso, doutora.
+O Moles me mantém trancado.
+
+998
+01:10:22,500 --> 01:10:23,600
+Trancado?
+
+999
+01:10:23,800 --> 01:10:26,200
+Você deve chamar a polícia, agora!
+
+1000
+01:10:26,400 --> 01:10:27,500
+Agora!
+
+1001
+01:10:27,500 --> 01:10:28,500
+Sim!
+
+1002
+01:10:28,700 --> 01:10:30,400
+TEATRO PHOENIX
+
+1003
+01:10:32,500 --> 01:10:34,800
+– Há muita gente, deve ser
+uma boa peça.
+
+1004
+01:10:35,400 --> 01:10:36,700
+– É noite de estréia.
+
+1005
+01:10:39,000 --> 01:10:41,200
+Espere um segundo.
+
+1006
+01:10:42,200 --> 01:10:43,700
+Há algo errado.
+
+1007
+01:10:44,900 --> 01:10:46,700
+É o meu violoncelo.
+Sim?
+
+1008
+01:10:49,300 --> 01:10:52,100
+Quebrou...
+Não existe mais.
+
+1009
+01:10:52,300 --> 01:10:53,500
+Como?
+
+1010
+01:10:55,400 --> 01:10:56,800
+Um elevador o quebrou.
+
+1011
+01:10:57,600 --> 01:10:58,500
+O quê?
+
+1012
+01:10:58,600 --> 01:11:00,200
+Despedaçado.
+
+1013
+01:11:01,700 --> 01:11:03,400
+É terrível, por quê não me ligou?
+
+1014
+01:11:03,600 --> 01:11:06,200
+Tentei o dia todo,
+mas a sua linha estava ocupada,
+
+1015
+01:11:06,400 --> 01:11:08,200
+desligada ou você saiu pro almoço.
+
+1016
+01:11:08,400 --> 01:11:09,500
+Não se preocupe.
+
+1017
+01:11:10,700 --> 01:11:12,100
+É só um pedaço de madeira.
+
+1018
+01:11:12,700 --> 01:11:13,900
+"Só um pedaço de madeira?"
+
+1019
+01:11:15,000 --> 01:11:16,600
+Miles, eu o tinha desde criança,
+
+1020
+01:11:16,800 --> 01:11:19,000
+não posso substituí-lo!
+
+1021
+01:11:20,100 --> 01:11:21,800
+Por que ainda acho que
+possa entender?
+
+1022
+01:11:22,000 --> 01:11:24,900
+Mas eu entendo.
+Madeline, escute.
+
+1023
+01:11:26,200 --> 01:11:27,700
+Escute, Madeline!
+
+1024
+01:11:28,300 --> 01:11:31,600
+O que fazia especial
+esse violoncelo era você.
+
+1025
+01:11:31,900 --> 01:11:32,800
+Nada mais.
+
+1026
+01:11:33,700 --> 01:11:36,600
+Todo som que saísse dele,
+era você que o tirava de lá.
+
+1027
+01:11:36,800 --> 01:11:39,700
+Cada som, cada acorde.
+
+1028
+01:11:40,400 --> 01:11:43,100
+Cada nota, cada sentimento.
+
+1029
+01:11:43,500 --> 01:11:45,500
+Miles…
+Não é uma perda,
+
+1030
+01:11:45,500 --> 01:11:47,700
+porque está dentro de você.
+
+1031
+01:11:48,200 --> 01:11:51,000
+Aqui, onde sempre estará.
+
+1032
+01:11:51,200 --> 01:11:53,200
+E tudo isso voltará.
+
+1033
+01:11:54,800 --> 01:11:56,300
+Acha que sim?
+
+1034
+01:11:57,300 --> 01:11:59,000
+Tenho certeza.
+
+1035
+01:12:00,500 --> 01:12:02,300
+Está segurando a fila.
+
+1036
+01:12:02,700 --> 01:12:03,900
+Desculpe.
+
+1037
+01:12:06,900 --> 01:12:07,700
+– Posso ajudá-lo?
+
+1038
+01:12:07,800 --> 01:12:10,300
+– Sim.
+Queria duas para Harding, por favor.
+
+1039
+01:12:10,600 --> 01:12:11,700
+Obrigado.
+
+1040
+01:12:14,300 --> 01:12:15,400
+– O que é?
+
+1041
+01:12:15,500 --> 01:12:18,200
+– É estranho, mas quando isso
+aconteceu era a única pessoa
+
+1042
+01:12:18,300 --> 01:12:19,800
+– a quem eu queria ligar.
+
+1043
+01:12:20,800 --> 01:12:23,000
+Foi o único número em que pensei.
+
+1044
+01:12:23,900 --> 01:12:25,000
+– Não foi aceito.
+
+1045
+01:12:25,700 --> 01:12:27,900
+– Não foi aceito?
+Quem não aceitou?
+
+1046
+01:12:28,000 --> 01:12:29,500
+A voz no telefone.
+
+1047
+01:12:30,500 --> 01:12:31,800
+Tem outros?
+
+1048
+01:12:32,900 --> 01:12:36,300
+Sim, tente com este, com estes dois.
+
+1049
+01:12:36,800 --> 01:12:37,600
+Certo.
+
+1050
+01:12:37,600 --> 01:12:39,300
+Deve ser engano.
+
+1051
+01:12:39,800 --> 01:12:41,300
+Esqueci do dinheiro.
+
+1052
+01:12:41,800 --> 01:12:42,900
+Quer que eu faça o quê?
+
+1053
+01:12:43,800 --> 01:12:45,000
+Não quer falar?
+
+1054
+01:12:45,900 --> 01:12:46,900
+Está bem.
+
+1055
+01:12:51,100 --> 01:12:52,400
+– O que está fazendo?
+
+1056
+01:12:52,400 --> 01:12:53,400
+Está errado!
+
+1057
+01:12:53,500 --> 01:12:56,100
+– Mandaram fazer
+isso com os cartões.
+
+1058
+01:12:56,400 --> 01:12:58,200
+Sim, mas são meus!
+
+1059
+01:13:01,300 --> 01:13:02,700
+O próximo.
+
+1060
+01:13:04,600 --> 01:13:06,300
+– É estranho o que houve
+com os cartões no restaurante.
+
+1061
+01:13:06,400 --> 01:13:09,400
+– Você sabe, os restaurantes
+sempre se enganam.
+
+1062
+01:13:09,500 --> 01:13:11,700
+Mas a maneira como o
+recepcionista o olhava.
+
+1063
+01:13:11,800 --> 01:13:14,100
+Não importa.
+Um jantar lindo e tranquilo em casa.
+
+1064
+01:13:14,200 --> 01:13:15,600
+Na sua casa?
+
+1065
+01:13:17,100 --> 01:13:18,300
+Na minha casa.
+
+1066
+01:13:18,700 --> 01:13:20,500
+Certo, são US$18,30.
+
+1067
+01:13:30,500 --> 01:13:34,100
+Senhor Folley, autorização de
+cheque no caixa 7, por favor.
+
+1068
+01:13:36,300 --> 01:13:39,100
+PERIGO – PODE ESTAR ARMADO
+
+1069
+01:13:41,900 --> 01:13:45,000
+Senhor Folley, autorização de
+cheque no caixa 7, por favor.
+
+1070
+01:13:46,600 --> 01:13:47,900
+Um momento, senhor, por favor.
+
+1071
+01:13:48,000 --> 01:13:50,900
+Não entendo, sempre paguei
+com cheques aqui.
+
+1072
+01:13:51,900 --> 01:13:53,300
+PERIGO – MUITA CAUTELA
+
+1073
+01:13:53,400 --> 01:13:55,800
+Senhor Folley, autorização de
+cheque no caixa 7, por favor.
+
+1074
+01:13:56,300 --> 01:13:57,700
+Senhor Folley.
+
+1075
+01:13:59,900 --> 01:14:01,500
+Miles, o que há?
+
+1076
+01:14:02,000 --> 01:14:03,500
+Senhor Folley, por favor!
+
+1077
+01:14:05,000 --> 01:14:07,100
+Vamos, não pode ser tão ruim assim.
+
+1078
+01:14:07,200 --> 01:14:08,500
+– A caixa se enganou.
+
+1079
+01:14:08,500 --> 01:14:11,000
+– Não foi a caixa,
+e ninguém se enganou.
+
+1080
+01:14:11,700 --> 01:14:15,400
+Certo, você deve ser
+um criminoso perigoso.
+
+1081
+01:14:15,600 --> 01:14:16,400
+Muito engraçado.
+
+1082
+01:14:17,000 --> 01:14:17,900
+Você não é.
+
+1083
+01:14:18,300 --> 01:14:19,700
+Miles, acalme-se.
+Não quero!
+
+1084
+01:14:20,200 --> 01:14:23,100
+Não precisa ser grosseiro por
+que uma máquina estúpida...
+
+1085
+01:14:23,600 --> 01:14:27,000
+Não sabe do que se trata,
+então pare de falar!
+
+1086
+01:14:28,900 --> 01:14:30,500
+Sim, senhor!
+
+1087
+01:14:37,000 --> 01:14:38,000
+Madeline, espere!
+
+1088
+01:14:40,000 --> 01:14:43,100
+Madeline, não devia ter lhe
+dito aquilo, desculpe.
+
+1089
+01:14:46,500 --> 01:14:48,800
+Vamos, levante!
+
+1090
+01:14:49,100 --> 01:14:50,600
+Vamos encarar isso, agora!
+
+1091
+01:14:51,500 --> 01:14:53,700
+Acorde, droga!
+
+1092
+01:14:54,900 --> 01:14:55,800
+– Que merda é essa?
+
+1093
+01:14:55,900 --> 01:14:57,900
+– Não faça isso nunca mais.
+
+1094
+01:14:58,000 --> 01:15:00,200
+Não me diga o que fazer!
+
+1095
+01:15:00,400 --> 01:15:02,300
+Pare com esses ruídos infernais
+para eu poder ouvir.
+
+1096
+01:15:02,500 --> 01:15:03,900
+Talvez seja isso que eu queira.
+
+1097
+01:15:04,500 --> 01:15:06,500
+Maldito!
+
+1098
+01:15:07,100 --> 01:15:09,100
+Aviso, se voltar…
+
+1099
+01:15:09,400 --> 01:15:11,200
+Não me avise de nada.
+
+1100
+01:15:12,100 --> 01:15:13,500
+Só lhe digo,
+
+1101
+01:15:13,800 --> 01:15:15,300
+eu tratarei disso sozinho.
+
+1102
+01:15:15,400 --> 01:15:17,500
+Está na hora de cuidar de você.
+
+1103
+01:15:21,100 --> 01:15:23,200
+Acha que preciso disso?
+
+1104
+01:15:28,700 --> 01:15:30,400
+Continua sem amá-lo.
+
+1105
+01:15:31,200 --> 01:15:32,800
+Ela irá comigo.
+
+1106
+01:15:33,500 --> 01:15:37,700
+Ela não está.
+Ela se foi.
+
+1107
+01:15:43,400 --> 01:15:46,200
+Mantenha as suas malditas
+orelhas longe dela!
+
+1108
+01:15:46,300 --> 01:15:52,900
+Não levante a voz e
+nunca mais volte a me tocar.
+
+1109
+01:15:59,400 --> 01:16:01,500
+– Talvez possa lhe falar.
+
+1110
+01:16:01,700 --> 01:16:02,800
+– Pode?
+
+1111
+01:16:02,800 --> 01:16:04,800
+Digo, talvez tenha razão.
+
+1112
+01:16:06,600 --> 01:16:08,400
+Ela adorou a canção.
+
+1113
+01:16:08,700 --> 01:16:09,400
+Adorou?
+
+1114
+01:16:09,600 --> 01:16:13,800
+Ela me disse algo
+que não deveria repetir.
+
+1115
+01:16:14,400 --> 01:16:16,600
+Mas,
+
+1116
+01:16:17,400 --> 01:16:20,200
+como finalmente vai conhecê-la…
+
+1117
+01:16:21,700 --> 01:16:23,000
+Sim?
+
+1118
+01:16:23,500 --> 01:16:24,500
+Bem…
+
+1119
+01:16:25,200 --> 01:16:26,700
+É algo pessoal.
+
+1120
+01:16:28,000 --> 01:16:29,200
+Tenho que sussurrar.
+
+1121
+01:16:29,300 --> 01:16:30,900
+Eu posso ouvir.
+
+1122
+01:16:32,000 --> 01:16:33,000
+O que é?
+
+1123
+01:16:35,700 --> 01:16:36,500
+Ela disse…
+
+1124
+01:16:36,600 --> 01:16:37,600
+Bem, o que ela disse?
+
+1125
+01:16:37,800 --> 01:16:39,300
+Que se sentia como…
+
+1126
+01:16:39,400 --> 01:16:42,400
+Eu vou arrebentá-lo!
+
+1127
+01:17:36,700 --> 01:17:39,700
+O QUE EU
+VOU FAZER COM VOCÊ!!!
+
+1128
+01:18:40,700 --> 01:18:43,700
+Não entende, ele se
+apoderou da minha casa!
+
+1129
+01:18:44,000 --> 01:18:45,300
+– Tomou conta de tudo!
+
+1130
+01:18:45,500 --> 01:18:48,700
+– Tem certeza que não são baratas?
+Que tal um exterminador?
+
+1131
+01:18:48,900 --> 01:18:51,300
+Você me vendeu essa coisa,
+tem que saber como funciona!
+
+1132
+01:18:51,600 --> 01:18:55,400
+Por US$ 3,10 à hora?
+Não sei quase nada a respeito disso.
+
+1133
+01:19:01,700 --> 01:19:03,700
+Desculpe, sabe onde está Madeline?
+
+1134
+01:19:03,800 --> 01:19:05,000
+Foi para casa.
+
+1135
+01:19:05,100 --> 01:19:07,100
+Disse que deixou algo lá.
+
+1136
+01:19:17,500 --> 01:19:19,000
+Miles?
+
+1137
+01:20:02,200 --> 01:20:03,300
+Vamos!
+
+1138
+01:22:37,900 --> 01:22:40,200
+– Madeline, você está bem?
+
+1139
+01:22:40,300 --> 01:22:42,500
+– Miles, aconteceu algo lá dentro.
+
+1140
+01:22:42,700 --> 01:22:44,800
+O que é? O que foi?
+
+1141
+01:22:45,100 --> 01:22:47,900
+Direi tudo.
+Tudo o que deve saber.
+
+1142
+01:22:48,100 --> 01:22:50,600
+Mas primeiro devo saber algo,
+
+1143
+01:22:50,700 --> 01:22:52,400
+que já deveria ter lhe perguntado.
+
+1144
+01:22:52,600 --> 01:22:54,800
+Sim, Miles, mas essa máquina,
+não entendo que…
+
+1145
+01:22:54,900 --> 01:22:56,400
+Não, não entende.
+
+1146
+01:22:56,500 --> 01:22:58,700
+Eu não sou o que aparento ser.
+
+1147
+01:22:59,000 --> 01:23:03,900
+Ouça, eu estive mentindo todo 
+esse tempo.
+
+1148
+01:23:04,100 --> 01:23:06,400
+E não posso continuar com isso.
+
+1149
+01:23:06,500 --> 01:23:08,700
+Então, me diga,
+
+1150
+01:23:09,200 --> 01:23:10,600
+por favor,
+
+1151
+01:23:10,600 --> 01:23:12,400
+por quê eu?
+
+1152
+01:23:18,100 --> 01:23:19,600
+Gosto de vê-lo.
+
+1153
+01:23:21,100 --> 01:23:23,200
+Como sorri.
+
+1154
+01:23:24,400 --> 01:23:27,600
+Gosto de como me faz sorrir.
+
+1155
+01:23:29,800 --> 01:23:31,900
+Gosto da forma como vê o mundo.
+
+1156
+01:23:32,700 --> 01:23:34,500
+Como se preocupa.
+
+1157
+01:23:34,500 --> 01:23:36,200
+Os seus tijolos, os seus desenhos…
+
+1158
+01:23:36,300 --> 01:23:37,600
+Sim, mas e a música?
+
+1159
+01:23:37,700 --> 01:23:39,900
+Miles, desculpe, não posso
+exprimir em palavras,
+
+1160
+01:23:40,100 --> 01:23:41,800
+não se trata de palavras.
+
+1161
+01:23:43,000 --> 01:23:45,500
+Tem a ver com sentimentos.
+
+1162
+01:23:46,300 --> 01:23:49,700
+Miles, é a primeira vez na vida
+que sinto que não estou sozinha.
+
+1163
+01:23:50,200 --> 01:23:52,900
+Você não é só alguém
+vivendo um andar abaixo,
+
+1164
+01:23:53,000 --> 01:23:54,900
+está junto de mim!
+
+1165
+01:23:56,800 --> 01:23:59,900
+E quando não 
+está lá, é como se estivesse.
+
+1166
+01:24:02,600 --> 01:24:04,500
+E eu me sinto bem.
+
+1167
+01:24:05,700 --> 01:24:09,800
+Miles... acho que amo você.
+
+1168
+01:24:37,700 --> 01:24:39,900
+Eu o assustei, não?
+
+1169
+01:24:53,500 --> 01:24:54,400
+– Alô.
+
+1170
+01:24:55,100 --> 01:24:56,700
+– Alô.
+
+1171
+01:24:58,300 --> 01:24:59,400
+Adeus.
+
+1172
+01:25:00,300 --> 01:25:01,500
+Adeus?
+
+1173
+01:25:01,600 --> 01:25:03,000
+Vou embora.
+
+1174
+01:25:03,200 --> 01:25:04,300
+Por quê?
+
+1175
+01:25:04,400 --> 01:25:09,100
+Porque finalmente
+descobri o que é o amor.
+
+1176
+01:25:10,700 --> 01:25:12,000
+E o que é?
+
+1177
+01:25:12,200 --> 01:25:16,500
+É dar, não é se apoderar ou tomar.
+
+1178
+01:25:16,800 --> 01:25:21,200
+Portanto, eu a dou a você e me retiro.
+
+1179
+01:25:23,000 --> 01:25:24,800
+Por que você faria isso?
+
+1180
+01:25:25,000 --> 01:25:28,000
+Porque isso é o amor.
+
+1181
+01:25:29,200 --> 01:25:34,300
+Além de ser um jogo
+para apenas duas pessoas.
+
+1182
+01:25:35,900 --> 01:25:37,400
+Está diferente, agora.
+
+1183
+01:25:37,600 --> 01:25:40,100
+Está pronto para me desligar?
+
+1184
+01:25:40,300 --> 01:25:43,800
+2 horas, 28 minutos e 52 segundos.
+
+1185
+01:25:44,000 --> 01:25:45,700
+Não posso fazer isso, agora.
+
+1186
+01:25:46,300 --> 01:25:48,300
+Pode, se quiser.
+
+1187
+01:25:49,300 --> 01:25:51,400
+Não gostaria de ser eu a fazer.
+
+1188
+01:25:51,700 --> 01:25:55,600
+Não sou realmente
+capaz de me autodestruir.
+
+1189
+01:25:55,800 --> 01:25:57,000
+O que você fez?
+
+1190
+01:25:57,600 --> 01:25:59,000
+Fiz uma ligação de longa distância.
+
+1191
+01:25:59,500 --> 01:26:04,700
+Enviei 40.000 volts em
+volta do mundo.
+
+1192
+01:26:06,000 --> 01:26:09,100
+Devem estar em Tóquio, a esta altura.
+
+1193
+01:26:09,500 --> 01:26:10,900
+Com o meu telefone?
+
+1194
+01:26:11,000 --> 01:26:14,400
+Não se preocupe, foi a cobrar.
+
+1195
+01:26:16,200 --> 01:26:18,700
+O que acontecerá quando
+eles chegarem aqui?
+
+1196
+01:26:18,800 --> 01:26:21,700
+Só não atenda ao primeiro toque.
+
+1197
+01:26:23,900 --> 01:26:29,000
+Moles?
+Pode me abraçar?
+
+1198
+01:26:31,100 --> 01:26:32,300
+Abraçar o quê?
+
+1199
+01:26:32,900 --> 01:26:34,000
+A mim.
+
+1200
+01:26:37,600 --> 01:26:38,800
+Por favor.
+
+1201
+01:26:46,800 --> 01:26:48,200
+Obrigado.
+
+1202
+01:26:49,800 --> 01:26:53,200
+Relaxe, é uma chamada local.
+
+1203
+01:26:54,500 --> 01:26:55,600
+Um momento.
+
+1204
+01:26:56,200 --> 01:26:59,600
+Gostaria de
+uma enciclopédia gratuita?
+
+1205
+01:26:59,700 --> 01:27:02,300
+Não! Desligue.
+
+1206
+01:27:02,400 --> 01:27:05,300
+Não, obrigado, não
+necessitamos de nenhuma.
+
+1207
+01:27:06,900 --> 01:27:12,700
+Acho que seria melhor você me
+pôr de volta em meu local original.
+
+1208
+01:27:22,100 --> 01:27:23,600
+Obrigado.
+
+1209
+01:27:30,600 --> 01:27:33,400
+– Sinto que uma
+parte de mim está morrendo.
+
+1210
+01:27:33,600 --> 01:27:36,100
+– Você supera isso.
+
+1211
+01:27:37,100 --> 01:27:43,400
+Sabe, nunca perguntou o meu nome.
+
+1212
+01:27:45,100 --> 01:27:46,400
+E qual é?
+
+1213
+01:27:46,600 --> 01:27:48,600
+Edgar.
+
+1214
+01:27:49,000 --> 01:27:50,700
+Edgar?
+
+1215
+01:27:50,900 --> 01:27:54,600
+Até logo… Miles.
+
+1216
+01:27:54,700 --> 01:27:58,400
+Até logo… Edgar.
+
+1217
+01:28:05,400 --> 01:28:07,000
+Número errado.
+
+1218
+01:28:07,000 --> 01:28:07,700
+Seu pequeno…
+
+1219
+01:28:37,800 --> 01:28:39,700
+– Não vai trazer o seu violoncelo?
+
+1220
+01:28:39,900 --> 01:28:42,200
+– Não com este tempo.
+Ainda por cima é muito novo.
+
+1221
+01:28:42,800 --> 01:28:44,500
+Onde está o seu tijolo?
+
+1222
+01:28:44,600 --> 01:28:46,200
+Na minha cabeça.
+
+1223
+01:28:46,300 --> 01:28:49,400
+Duas semanas
+sem telefone e sem TV.
+
+1224
+01:28:49,500 --> 01:28:52,800
+Ou filmes.
+Vamos ter só um ao outro.
+
+1225
+01:29:06,800 --> 01:29:10,100
+Esse também está quebrado?
+Acho que sim.
+
+1226
+01:29:10,500 --> 01:29:12,000
+Ei, que foi isso?
+
+1227
+01:29:12,800 --> 01:29:13,900
+Alô, alô.
+
+1228
+01:29:14,000 --> 01:29:17,900
+Esta música é
+dedicada àqueles que amo.
+
+1229
+01:29:18,100 --> 01:29:21,600
+"Te conheci apenas por um instante"
+
+1230
+01:29:21,900 --> 01:29:24,400
+"Nunca vi seu sorriso"
+
+1231
+01:29:24,500 --> 01:29:27,300
+"Até que chegasse a hora de partir"
+
+1232
+01:29:27,600 --> 01:29:32,000
+"Hora de partir"
+
+1233
+01:29:32,800 --> 01:29:36,200
+"Às vezes é difícil reconhecê-lo"
+
+1234
+01:29:36,300 --> 01:29:39,300
+"O amor chega como uma surpresa"
+
+1235
+01:29:39,500 --> 01:29:42,200
+"E é tarde demais"
+
+1236
+01:29:42,300 --> 01:29:45,900
+"Agora é tarde demais para pará-lo"
+
+1237
+01:29:46,000 --> 01:29:48,200
+"Tarde demais para pará-lo"
+
+1238
+01:29:50,000 --> 01:29:52,300
+"Sempre ficaremos juntos"
+
+1239
+01:29:52,400 --> 01:29:55,700
+"Quanto quer que pareça longe"
+
+1240
+01:29:56,100 --> 01:29:57,500
+O que está havendo?
+
+1241
+01:29:58,300 --> 01:30:00,300
+"Sempre ficaremos juntos"
+
+1242
+01:30:00,400 --> 01:30:06,100
+"Juntos nos sonhos eletrônicos"
+
+1243
+01:30:09,500 --> 01:30:11,100
+Não tenho nem ideia de onde vem!
+
+1244
+01:30:11,300 --> 01:30:12,900
+Está vindo de algum lugar.
+
+1245
+01:30:13,100 --> 01:30:13,600
+Perry?
+
+1246
+01:30:13,600 --> 01:30:15,600
+Cheque de onde vem isso.
+
+1247
+01:30:17,300 --> 01:30:19,600
+"Pois a amizade que você me deu"
+
+1248
+01:30:20,900 --> 01:30:22,900
+"Me ensinou a ser bravo"
+
+1249
+01:30:23,200 --> 01:30:26,100
+"Não importa para onde eu vá"
+
+1250
+01:30:26,200 --> 01:30:29,200
+"Nunca encontrarei um
+prêmio melhor"
+
+1251
+01:30:30,000 --> 01:30:32,400
+"Encontrar um prêmio melhor"
+
+1252
+01:30:32,500 --> 01:30:33,900
+"Ainda que você esteja"
+
+1253
+01:30:33,900 --> 01:30:35,600
+"a milhas e milhas de distância"
+
+1254
+01:30:35,700 --> 01:30:40,300
+"Te vejo todos os dias,
+não tenho de me esforçar"
+
+1255
+01:30:40,600 --> 01:30:43,900
+"Apenas fecho meus olhos"
+
+1256
+01:30:44,100 --> 01:30:47,700
+"fecho meus olhos"
+
+1257
+01:30:49,900 --> 01:30:52,200
+"Sempre ficaremos juntos"
+
+1258
+01:30:52,400 --> 01:30:55,100
+"Quanto quer que pareça longe"
+
+1259
+01:30:55,200 --> 01:30:57,100
+"O amor nunca acaba"
+
+1260
+01:30:57,300 --> 01:30:59,900
+"Sempre ficaremos juntos"
+
+1261
+01:31:00,100 --> 01:31:04,300
+"Juntos nos sonhos eletrônicos"
+
+1262
+01:31:04,500 --> 01:31:07,500
+"Sempre ficaremos juntos."
+
+1263
+01:31:08,200 --> 01:31:12,600
+Honoré legendou – 19/03/2014
+
+1264
+01:35:25,000 --> 01:35:27,500
+Amores Eletrônicos acabou.
+
+1265
+01:35:28,900 --> 01:35:31,000
+Não há mais?
+
+1266
+01:35:31,800 --> 01:35:33,800
+Hora de desligar.
+
+1267
+01:35:34,900 --> 01:35:36,800
+IFM
+
+1268
+01:35:37,000 --> 01:35:39,100
+FIM
+

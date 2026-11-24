@@ -1,0 +1,4667 @@
+1
+00:00:06,842 --> 00:00:09,040
+<i>As informações que chegam
+de Barcelona...</i>
+
+2
+00:00:09,080 --> 00:00:10,429
+<i>ainda são vagas...</i>
+
+3
+00:00:10,469 --> 00:00:12,349
+<i>Aparentemente,
+um prédio inteiro...</i>
+
+4
+00:00:12,389 --> 00:00:15,490
+<i>foi colocado em quarentena
+pelas autoridades...</i>
+
+5
+00:00:15,530 --> 00:00:17,970
+<i>devido à uma doença
+transmissível desconhecida.</i>
+
+6
+00:00:18,010 --> 00:00:19,625
+<i>Não há mais informações...</i>
+
+7
+00:00:19,665 --> 00:00:22,291
+<i>Entre os que estão presos
+dentro do edifício,</i>
+
+8
+00:00:22,331 --> 00:00:25,223
+<i>encontram-se moradores,
+policiais, bombeiros...</i>
+
+9
+00:00:25,263 --> 00:00:27,837
+<i>e dois funcionários
+de uma equipa de televisão...</i>
+
+10
+00:00:27,877 --> 00:00:29,625
+<i>que os acompanhavam...</i>
+
+11
+00:00:29,665 --> 00:00:32,937
+<i>Não sabemos de que tipo
+de doença se trata.</i>
+
+12
+00:00:32,977 --> 00:00:35,541
+<i>Nem autoridades
+e especialistas consultados,</i>
+
+13
+00:00:35,581 --> 00:00:37,128
+<i>foram capazes de dizer...</i>
+
+14
+00:00:37,168 --> 00:00:40,406
+<i>No interior, pode haver
+apenas uma única sobrevivente.</i>
+
+15
+00:00:40,446 --> 00:00:44,095
+<i>Trata-se da repórter
+que entrou com os bombeiros...</i>
+
+16
+00:00:44,135 --> 00:00:46,363
+<i>Devido à segurança,
+há ruas bloqueadas...</i>
+
+17
+00:00:46,403 --> 00:00:48,667
+<i>ao redor do edifício.</i>
+
+18
+00:00:48,707 --> 00:00:50,523
+<i>Já podemos confirmar...</i>
+
+19
+00:00:50,563 --> 00:00:54,209
+<i>que a situação está
+sob o controle do exército.</i>
+
+20
+00:00:54,751 --> 00:00:56,668
+<i>- Limpo!
+- Vamos!</i>
+
+21
+00:00:57,265 --> 00:00:58,919
+<i>Entendido. Prossigam!</i>
+
+22
+00:01:03,609 --> 00:01:04,999
+Vamos!
+
+23
+00:01:06,500 --> 00:01:12,574
+api.OpenSubtitles.org is deprecated, please
+implement REST API from OpenSubtitles.com
+
+24
+00:01:15,858 --> 00:01:18,128
+Guzmán, Lucas.
+Terceiro andar.
+
+25
+00:01:19,439 --> 00:01:20,794
+Dê-me cobertura.
+
+26
+00:01:25,146 --> 00:01:26,377
+Vamos entrar aqui.
+
+27
+00:01:28,483 --> 00:01:29,952
+Preparado.
+
+28
+00:01:30,706 --> 00:01:32,539
+Os explosivos
+estão preparados.
+
+29
+00:01:33,414 --> 00:01:34,900
+Vamos subir mais.
+
+30
+00:01:49,206 --> 00:01:50,785
+Lucas!
+
+31
+00:01:50,825 --> 00:01:52,668
+Lucas! Merda!
+
+32
+00:01:54,296 --> 00:01:56,689
+Lucas, onde estava?
+
+33
+00:01:56,729 --> 00:01:59,126
+- Concluído.
+- Está tudo preparado.
+
+34
+00:01:59,768 --> 00:02:01,466
+<i>- Entendido.</i>
+- Vamos!
+
+35
+00:02:02,595 --> 00:02:05,349
+- O que foi aquilo?
+- Merda, merda!
+
+36
+00:02:05,790 --> 00:02:08,964
+<i>Explosão das cargas
+em quatro minutos.</i>
+
+37
+00:02:09,004 --> 00:02:10,559
+Vamos, vamos!
+
+38
+00:02:14,873 --> 00:02:17,626
+Vamos sair daqui, pessoal!
+Todos fora, vamos!
+
+39
+00:02:17,994 --> 00:02:19,516
+O que houve?
+
+40
+00:02:27,582 --> 00:02:29,751
+Está bem?
+Consegue respirar?
+
+41
+00:02:29,831 --> 00:02:31,829
+Vamos sair logo daqui!
+
+42
+00:02:35,629 --> 00:02:36,931
+Merda!
+
+43
+00:02:37,993 --> 00:02:39,708
+A munição acabou!
+
+44
+00:02:39,748 --> 00:02:41,459
+Estou sem munições!
+
+45
+00:02:52,171 --> 00:02:54,584
+- Atira! Atira!
+- Afaste-se!
+
+46
+00:02:56,543 --> 00:02:57,915
+Merda!
+
+47
+00:03:11,831 --> 00:03:13,251
+Você não é médico?
+
+48
+00:03:15,028 --> 00:03:16,752
+Então, pode me ajudar.
+
+49
+00:03:22,956 --> 00:03:25,065
+<i>Detonação em 3 minutos.</i>
+
+50
+00:03:26,686 --> 00:03:28,376
+Essas são as regras.
+
+51
+00:03:39,164 --> 00:03:40,502
+Está bem.
+
+52
+00:03:43,693 --> 00:03:45,901
+Vamos!
+Temos de sair daqui!
+
+53
+00:03:49,090 --> 00:03:50,803
+Ajudem-me! Estou aqui!
+
+54
+00:03:50,843 --> 00:03:53,959
+- Devemos ajudá-la.
+- Não! Isso é loucura!
+
+55
+00:03:54,570 --> 00:03:56,197
+Não temos tempo.
+
+56
+00:03:56,237 --> 00:03:58,626
+- Vá! Eu vou buscá-la!
+- Está maluco?
+
+57
+00:04:00,604 --> 00:04:02,633
+Tirem-me daqui, por favor.
+
+58
+00:04:02,673 --> 00:04:04,110
+Merda.
+
+59
+00:04:29,791 --> 00:04:32,351
+Está tudo bem.
+Fique calma.
+
+60
+00:04:36,118 --> 00:04:37,626
+Precisa confiar em mim.
+
+61
+00:04:39,265 --> 00:04:40,816
+<i>Detonação em 1 minuto.</i>
+
+62
+00:04:40,856 --> 00:04:43,814
+Olhe para mim!
+Nós vamos sair daqui.
+
+63
+00:04:52,410 --> 00:04:57,811
+[REC] 4: APOCALIPSIS
+
+64
+00:04:59,206 --> 00:05:02,334
+LEGENDA:
+Nandus
+
+65
+00:05:21,115 --> 00:05:22,584
+Olá, Ángela.
+
+66
+00:05:23,261 --> 00:05:24,642
+Fique calma.
+
+67
+00:05:25,187 --> 00:05:27,876
+Está amarrada
+para evitar que se machuque.
+
+68
+00:05:36,623 --> 00:05:38,107
+Assim é melhor.
+
+69
+00:05:43,385 --> 00:05:45,084
+Lembra-se de alguma coisa?
+
+70
+00:05:47,122 --> 00:05:48,425
+Não.
+
+71
+00:05:49,883 --> 00:05:53,682
+- Não se mexa.
+- Não... não!.
+
+72
+00:05:58,674 --> 00:06:00,167
+Está tudo bem.
+
+73
+00:06:07,657 --> 00:06:08,834
+Onde estou?
+
+74
+00:06:09,760 --> 00:06:12,170
+Só queremos ter certeza
+que está saudável.
+
+75
+00:06:13,852 --> 00:06:15,462
+Descanse.
+
+76
+00:07:31,418 --> 00:07:33,210
+Desculpe incomodar,
+
+77
+00:07:33,250 --> 00:07:35,499
+mas sabe onde é o casamento?
+
+78
+00:07:36,560 --> 00:07:38,397
+Pelo visto,
+
+79
+00:07:38,437 --> 00:07:40,709
+eu bebi um pouco demais,
+
+80
+00:07:40,789 --> 00:07:44,292
+Minha nora deve ter
+me deixado no quarto.
+
+81
+00:07:44,800 --> 00:07:46,920
+Devo ter adormecido.
+
+82
+00:07:47,446 --> 00:07:49,542
+Desculpe, mas não sei
+do que está dizendo.
+
+83
+00:07:50,133 --> 00:07:52,375
+Estou dizendo
+que não sei onde estou.
+
+84
+00:07:52,777 --> 00:07:54,906
+Há muita coisa
+na minha cabeça.
+
+85
+00:07:56,587 --> 00:07:59,209
+Bem, também não sei
+onde estamos.
+
+86
+00:08:00,203 --> 00:08:01,844
+Que ótimo.
+
+87
+00:08:02,328 --> 00:08:04,518
+Viu mais alguém por aqui?
+
+88
+00:08:07,831 --> 00:08:10,174
+Bem, faremos o seguinte,
+
+89
+00:08:10,214 --> 00:08:14,037
+vou ver onde estamos
+e você fique aqui esperando.
+
+90
+00:08:14,077 --> 00:08:16,528
+- Mandarei alguém buscá-la.
+- Está bem.
+
+91
+00:08:16,568 --> 00:08:20,377
+Mas se vir a minha nora,
+diga-lhe que estou aqui.
+
+92
+00:08:20,417 --> 00:08:22,225
+Para ela não
+se esquecer de mim
+
+93
+00:08:22,265 --> 00:08:23,941
+Sim, avisarei.
+
+94
+00:08:42,031 --> 00:08:43,500
+Como ela está?
+
+95
+00:08:43,580 --> 00:08:46,235
+Ela está acordada.
+Parece que está bem.
+
+96
+00:08:50,573 --> 00:08:51,927
+Estamos perdendo tempo.
+
+97
+00:08:51,967 --> 00:08:54,615
+Todos os exames
+deram negativos.
+
+98
+00:08:54,655 --> 00:08:56,000
+Ela está saudável...
+
+99
+00:08:56,040 --> 00:08:58,425
+Ela ficou mais de seis horas
+dentro do prédio.
+
+100
+00:08:59,289 --> 00:09:01,164
+Temos que ter
+certeza absoluta.
+
+101
+00:09:18,452 --> 00:09:19,992
+Estão me machucando.
+
+102
+00:09:22,437 --> 00:09:24,560
+Está bem,
+irei afrouxar um pouco.
+
+103
+00:09:44,663 --> 00:09:46,001
+Pare!
+
+104
+00:09:52,288 --> 00:09:53,672
+Merda!
+
+105
+00:09:53,712 --> 00:09:56,750
+Temos um problema,
+a paciente fugiu.
+
+106
+00:10:01,557 --> 00:10:04,314
+Encontrem-na!
+Se for necessário, atire.
+
+107
+00:10:04,354 --> 00:10:06,584
+- Quanto tempo falta?
+- Mais dois minutos.
+
+108
+00:10:17,762 --> 00:10:19,789
+Encontramos-na!
+Ela está subindo.
+
+109
+00:10:19,829 --> 00:10:21,316
+Parada!
+
+110
+00:10:27,684 --> 00:10:29,091
+Vamos, rápido!
+
+111
+00:10:31,526 --> 00:10:33,232
+Ela está no refeitório.
+
+112
+00:10:38,956 --> 00:10:40,401
+Pare, já!
+
+113
+00:10:44,528 --> 00:10:46,376
+Vamos! Vamos!
+
+114
+00:10:46,416 --> 00:10:47,834
+Vá! Vá!
+
+115
+00:10:48,913 --> 00:10:50,917
+Fuja! Corra!
+
+116
+00:10:53,528 --> 00:10:54,838
+Espere!
+
+117
+00:10:55,877 --> 00:10:57,408
+Afaste-se.
+
+118
+00:10:57,448 --> 00:11:00,152
+- Encontramos-na!
+- Não me ouviu?
+
+119
+00:11:00,192 --> 00:11:02,367
+- Ajude-me!
+- Eu disse para se afastar!
+
+120
+00:11:06,038 --> 00:11:07,732
+- Venha!
+- Parados!
+
+121
+00:11:07,772 --> 00:11:09,250
+Merda!
+
+122
+00:11:09,330 --> 00:11:10,792
+Venha, depressa!
+
+123
+00:11:12,297 --> 00:11:13,542
+Vamos, vamos!
+
+124
+00:11:18,047 --> 00:11:20,836
+Parados! Mãos ao alto!
+Não se mexam!
+
+125
+00:11:20,876 --> 00:11:23,431
+Parados! Não se mexam!
+
+126
+00:11:25,788 --> 00:11:29,333
+- Estão cercados!
+- Onde estamos?
+
+127
+00:11:29,373 --> 00:11:32,484
+Abaixem as armas. O exame
+mostrou que ela está saudável.
+
+128
+00:11:33,151 --> 00:11:35,875
+- Quem são vocês?
+- Levem-na para o quarto.
+
+129
+00:11:37,733 --> 00:11:39,703
+- Melhor ir descansar.
+- Não.
+
+130
+00:11:40,450 --> 00:11:42,607
+Fique calma,
+não iremos mais amarrá-la.
+
+131
+00:11:43,225 --> 00:11:44,543
+Eu prometo.
+
+132
+00:11:52,829 --> 00:11:54,729
+Perguntei quem são vocês.
+
+133
+00:11:55,909 --> 00:11:57,748
+Desculpe pelo incidente.
+
+134
+00:11:57,788 --> 00:11:59,125
+Sou o Dr. Ricarte...
+
+135
+00:11:59,205 --> 00:12:01,369
+Quero falar
+com os meus supervisores.
+
+136
+00:12:07,813 --> 00:12:10,292
+Os seus superiores
+te mandaram aqui.
+
+137
+00:12:10,720 --> 00:12:12,183
+E meu parceiro?
+
+138
+00:12:12,223 --> 00:12:14,737
+Presumo que refira-se
+ao cabo Lucas.
+
+139
+00:12:14,777 --> 00:12:17,765
+Precisamos examiná-lo mais.
+Apenas rotina.
+
+140
+00:12:18,410 --> 00:12:21,989
+- Logo estará com você.
+- Por que estamos aqui?
+
+141
+00:12:22,029 --> 00:12:23,793
+Isso não fazia parte
+da operação.
+
+142
+00:12:23,833 --> 00:12:27,183
+Essa é a única forma
+de manter a quarentena.
+
+143
+00:12:27,223 --> 00:12:28,816
+Quarentena por quê?
+
+144
+00:12:28,856 --> 00:12:30,917
+Estamos saudáveis,
+segundo os exames.
+
+145
+00:12:32,393 --> 00:12:34,653
+A situação é
+mais complicada do que isso.
+
+146
+00:12:35,868 --> 00:12:38,248
+Houve outro caso em Barcelona.
+
+147
+00:12:38,288 --> 00:12:40,542
+Infelizmente,
+não pudemos controlar.
+
+148
+00:12:40,622 --> 00:12:43,222
+Por isso, não podemos
+cometer mais erros.
+
+149
+00:12:44,321 --> 00:12:46,935
+Deixe-me adivinhar,
+um casamento.
+
+150
+00:12:46,975 --> 00:12:48,417
+Apenas uma sobrevivente.
+
+151
+00:12:48,964 --> 00:12:51,148
+Acredito que já
+encontrou-se com ela.
+
+152
+00:12:51,188 --> 00:12:54,151
+Nossa, novos passageiros?
+
+153
+00:12:54,191 --> 00:12:55,727
+Que ótimo!
+
+154
+00:12:56,485 --> 00:12:57,999
+Por favor, perdoa-me,
+
+155
+00:12:58,623 --> 00:13:00,521
+Estou certo que
+o Capitão Ortega...
+
+156
+00:13:00,561 --> 00:13:02,667
+ficará feliz em mostrar-lhe
+o barco dele.
+
+157
+00:13:03,815 --> 00:13:05,135
+Capitão...
+
+158
+00:13:06,269 --> 00:13:09,084
+Imagino que embarcou
+junto com o último grupo.
+
+159
+00:13:09,664 --> 00:13:11,750
+Acho que sim.
+Meu nome é Guzmán.
+
+160
+00:13:11,830 --> 00:13:13,742
+Mostrarei-lhe o navio.
+
+161
+00:13:32,525 --> 00:13:34,297
+Então, você é o chefe?
+
+162
+00:13:34,337 --> 00:13:36,958
+Não, os chefes são
+os que me pagam.
+
+163
+00:13:37,038 --> 00:13:40,705
+E os médicos pagaram
+o bastante para a aposentadoria.
+
+164
+00:13:41,144 --> 00:13:43,572
+Quarenta anos navegando
+é muita coisa.
+
+165
+00:13:44,022 --> 00:13:47,365
+Depois disso, irei para a casa.
+Vou me aposentar.
+
+166
+00:13:48,306 --> 00:13:50,123
+Então, os médicos
+são os chefes?
+
+167
+00:13:50,163 --> 00:13:51,916
+Sim, são.
+
+168
+00:13:51,956 --> 00:13:54,371
+E eles trouxeram
+seus próprios exércitos.
+
+169
+00:13:54,411 --> 00:13:56,537
+Acredito que já
+os conheceram.
+
+170
+00:14:07,897 --> 00:14:09,217
+Como estamos?
+
+171
+00:14:09,257 --> 00:14:12,771
+Estamos à 28 milhas náuticas.
+Vento nordeste aumentou.
+
+172
+00:14:12,811 --> 00:14:15,774
+Em breve entraremos
+numa  área de baixa pressão.
+
+173
+00:14:15,814 --> 00:14:17,191
+Está bem.
+
+174
+00:14:17,231 --> 00:14:19,986
+Reduza a velocidade.
+Com sorte, passará por nós.
+
+175
+00:14:20,026 --> 00:14:22,578
+Sem problemas.
+Não temos pressa mesmo.
+
+176
+00:14:22,618 --> 00:14:24,393
+Gorostiaga é
+o oficial náutico.
+
+177
+00:14:24,433 --> 00:14:26,743
+Nascido em Bilbau.
+Ótima pessoa.
+
+178
+00:14:26,783 --> 00:14:29,625
+Piloto, mais fácil.
+Meu nome é Goro.
+
+179
+00:14:30,140 --> 00:14:31,708
+Essa ferida não parece boa.
+
+180
+00:14:31,788 --> 00:14:33,460
+Essa ferida?
+
+181
+00:14:33,500 --> 00:14:35,828
+Pergunte aos soldados.
+Isso é obra deles.
+
+182
+00:14:35,868 --> 00:14:37,375
+- Alguém verificou?
+- Não.
+
+183
+00:14:37,868 --> 00:14:39,798
+Deveria desinfectá-lo.
+
+184
+00:14:39,838 --> 00:14:42,184
+Escute-o, ele é médico.
+
+185
+00:14:42,224 --> 00:14:44,625
+Especialistas em infecções
+e tudo mais.
+
+186
+00:14:45,469 --> 00:14:46,894
+De novo não.
+
+187
+00:14:48,874 --> 00:14:51,935
+Acho que esse navio está
+muito velho pra tanta festa.
+
+188
+00:14:52,472 --> 00:14:53,895
+Não é tão velho.
+
+189
+00:14:53,935 --> 00:14:55,909
+O gerador está
+sendo sobrecarregado
+
+190
+00:14:55,949 --> 00:14:58,375
+com toda essa merda
+de equipamentos médicos.
+
+191
+00:14:58,815 --> 00:15:00,097
+Como assim?
+
+192
+00:15:00,137 --> 00:15:03,905
+Estamos tendo apagões
+desde a saída do porto.
+
+193
+00:15:03,945 --> 00:15:06,375
+À noite,
+há uma escuridão total.
+
+194
+00:15:06,785 --> 00:15:09,703
+Eles estão construindo
+um tipo de laboratório.
+
+195
+00:15:09,743 --> 00:15:13,698
+- Com equipamento médico?
+- Não é o nosso problema.
+
+196
+00:15:27,385 --> 00:15:28,808
+Com licença.
+
+197
+00:15:29,558 --> 00:15:32,294
+Não quero atrapalhar...
+
+198
+00:15:33,464 --> 00:15:34,779
+mas conheço você?
+
+199
+00:15:36,411 --> 00:15:39,385
+Fico confusa
+com tantas pessoas aqui.
+
+200
+00:15:41,191 --> 00:15:43,963
+Você é conhecida do meu neto,
+
+201
+00:15:44,759 --> 00:15:46,082
+ou da noiva?
+
+202
+00:15:50,828 --> 00:15:53,708
+Você deve ter bebido
+acima da conta.
+
+203
+00:15:55,038 --> 00:15:57,621
+Não se preocupe, querida.
+Eu também bebi.
+
+204
+00:16:23,845 --> 00:16:25,446
+Nic... Nic!
+
+205
+00:16:27,331 --> 00:16:29,472
+- O que está fazendo?
+- O quê? Nada.
+
+206
+00:16:31,371 --> 00:16:34,287
+Não parece ser, mas o Nic
+é nosso operador de rádio.
+
+207
+00:16:34,327 --> 00:16:36,649
+Bem,
+o trabalho não exige tanto.
+
+208
+00:16:37,319 --> 00:16:39,516
+Eles encriptaram
+as frequências de sinais.
+
+209
+00:16:39,556 --> 00:16:41,875
+E eles são os únicos
+que possuem os códigos.
+
+210
+00:16:42,534 --> 00:16:44,276
+Temos contato externo?
+
+211
+00:16:44,901 --> 00:16:47,188
+Eles nem nos deixaram
+botes salva-vidas
+
+212
+00:16:48,670 --> 00:16:50,509
+Acredito que ninguém
+te falou isso.
+
+213
+00:16:50,549 --> 00:16:54,083
+Até mesmo o sistema
+de drenagem foi desligado.
+
+214
+00:16:54,163 --> 00:16:55,934
+Eles insistiram nisso.
+
+215
+00:16:55,974 --> 00:16:57,351
+Como se chama mesmo?
+
+216
+00:16:57,391 --> 00:17:00,268
+Protocolo de Segurança.
+
+217
+00:17:00,308 --> 00:17:03,500
+- Acredita nisso?
+- E como está a câmera?
+
+218
+00:17:04,484 --> 00:17:07,028
+Estou trabalhando nisso,
+mas levará um tempo.
+
+219
+00:17:07,068 --> 00:17:08,646
+A câmera talvez funcione,
+
+220
+00:17:08,686 --> 00:17:10,758
+mas o disco rígido
+está comprometido.
+
+221
+00:17:10,798 --> 00:17:13,774
+E tive que recuperar
+cada frame individualmente.
+
+222
+00:17:13,814 --> 00:17:15,299
+Um tédio.
+
+223
+00:17:15,339 --> 00:17:17,700
+Nic também trabalha
+com informática.
+
+224
+00:17:17,740 --> 00:17:19,260
+Se o termo correto é esse.
+
+225
+00:17:19,300 --> 00:17:22,073
+O médico quer que ele
+recupere os arquivos de vídeo.
+
+226
+00:17:22,867 --> 00:17:24,583
+Está muito interessado nisso.
+
+227
+00:17:24,623 --> 00:17:28,291
+A moça quem eu encontrei deve
+saber o que tem na filmagem.
+
+228
+00:17:28,639 --> 00:17:30,083
+Sério?
+
+229
+00:17:30,163 --> 00:17:33,162
+Foi você quem salvou
+a Ángela Vidal?
+
+230
+00:17:33,202 --> 00:17:34,684
+Algo parecido.
+
+231
+00:17:34,724 --> 00:17:36,624
+Você não imagina
+a felicidade dele.
+
+232
+00:17:36,704 --> 00:17:39,430
+Eu sou muito fã daquela moça.
+
+233
+00:17:39,470 --> 00:17:41,708
+Eu nunca perdia
+os programas dela.
+
+234
+00:17:41,788 --> 00:17:44,291
+E agora pode vê-la
+pessoalmente.
+
+235
+00:17:45,337 --> 00:17:46,894
+Pode dizer que sim.
+
+236
+00:17:47,846 --> 00:17:49,746
+Já que foi
+você quem a salvou,
+
+237
+00:17:49,786 --> 00:17:52,385
+então,
+você a conhece muito bem?
+
+238
+00:17:52,864 --> 00:17:54,429
+Bem, mais ou menos.
+
+239
+00:17:55,215 --> 00:17:57,749
+O suficiente
+para poder me apresentar.
+
+240
+00:17:59,211 --> 00:18:01,741
+- Sim, claro.
+- Perfeito.
+
+241
+00:18:03,248 --> 00:18:06,712
+O que achou?
+Temos um DJ filipino.
+
+242
+00:18:06,752 --> 00:18:08,523
+Não poderíamos ter
+algo melhor.
+
+243
+00:18:08,563 --> 00:18:11,865
+Esse é o chamado para comer.
+Depois você se acostuma.
+
+244
+00:18:25,852 --> 00:18:27,955
+Oficial de máquinas falando.
+
+245
+00:18:27,995 --> 00:18:29,783
+<i>Como estão
+as coisas aí embaixo?</i>
+
+246
+00:18:29,823 --> 00:18:33,063
+- Está cada vez pior.
+- <i>Merda.</i>
+
+247
+00:18:33,103 --> 00:18:35,533
+Melhor você manter
+a calma aí em cima.
+
+248
+00:18:35,573 --> 00:18:38,036
+<i>Bom, tempo não é
+problema por aqui.</i>
+
+249
+00:18:38,076 --> 00:18:40,529
+<i>Coma algo e depois
+continue com o trabalho.</i>
+
+250
+00:18:40,924 --> 00:18:43,220
+Certo. Farei isso.
+
+251
+00:18:50,258 --> 00:18:51,693
+Aqui está.
+
+252
+00:18:53,723 --> 00:18:55,157
+É o que tem para hoje.
+
+253
+00:18:55,873 --> 00:18:57,594
+Bom...
+
+254
+00:18:58,909 --> 00:19:00,710
+Não como muito mesmo.
+
+255
+00:19:01,307 --> 00:19:04,999
+Um copo de leite quente
+é tudo que eu preciso.
+
+256
+00:19:06,010 --> 00:19:07,347
+Entendi.
+
+257
+00:19:07,945 --> 00:19:11,349
+Tem como trazer um copo
+de leite para a senhora?
+
+258
+00:19:13,080 --> 00:19:16,083
+- Leite?
+- E biscoitos, se puder.
+
+259
+00:19:16,163 --> 00:19:17,729
+Gostaria de algo mais?
+
+260
+00:19:17,769 --> 00:19:20,458
+Um pouco de carne,
+ou até mesmo um molho.
+
+261
+00:19:22,455 --> 00:19:26,405
+Essas pulseiras não significam
+que vocês estão num cruzeiro.
+
+262
+00:19:29,772 --> 00:19:31,124
+Tenha calma.
+
+263
+00:19:33,090 --> 00:19:34,541
+Onde estava?
+
+264
+00:19:34,621 --> 00:19:37,527
+- Pergunto a mesma coisa.
+- Verdade.
+
+265
+00:19:39,327 --> 00:19:41,993
+- Soube algo de minha família?
+- Não.
+
+266
+00:19:45,494 --> 00:19:48,054
+Eu entendo que o casamento
+precisa ser moderno,
+
+267
+00:19:48,432 --> 00:19:50,552
+mas isso
+já passou dos limites.
+
+268
+00:19:51,232 --> 00:19:53,643
+- Leite e biscoitos.
+- Ótimo.
+
+269
+00:19:54,838 --> 00:19:56,659
+Muito obrigada, moço.
+
+270
+00:19:57,582 --> 00:19:59,749
+Senhora, ali tem açúcar.
+
+271
+00:20:00,205 --> 00:20:03,708
+Tem? Bom, caminhar
+um pouco não faz mal.
+
+272
+00:20:09,926 --> 00:20:11,901
+Ela está
+completamente desorientada.
+
+273
+00:20:12,688 --> 00:20:14,686
+Não faz ideia onde esteja.
+
+274
+00:20:14,726 --> 00:20:17,390
+- Alguém deve falar com ela.
+- Você acha?
+
+275
+00:20:18,138 --> 00:20:20,791
+E falar o quê?
+Que sua família está morta?
+
+276
+00:20:25,326 --> 00:20:27,148
+Encontrei-me com o capitão.
+
+277
+00:20:27,188 --> 00:20:29,845
+Eles não têm
+botes salva-vidas,
+
+278
+00:20:29,885 --> 00:20:32,266
+e as comunicações
+por rádio foram cortadas.
+
+279
+00:20:32,940 --> 00:20:34,624
+- O quê?
+- É isso mesmo.
+
+280
+00:20:35,010 --> 00:20:37,238
+Eles montaram um laboratório.
+
+281
+00:20:37,278 --> 00:20:39,799
+Eles nem citaram
+uma quarentena preventiva.
+
+282
+00:20:40,994 --> 00:20:42,393
+Mas um laboratório?
+
+283
+00:20:43,418 --> 00:20:46,874
+Estão nos escondendo algo.
+Por que tantos soldados aqui?
+
+284
+00:20:48,746 --> 00:20:50,623
+Já viu
+as câmeras de vigilância?
+
+285
+00:20:51,614 --> 00:20:54,843
+Estão em todos os lugares.
+Não podemos nem mijar em paz.
+
+286
+00:20:57,602 --> 00:20:59,335
+Está me deixando louco.
+
+287
+00:21:02,013 --> 00:21:03,676
+Talvez estamos exagerando.
+
+288
+00:21:14,563 --> 00:21:16,762
+Parece que você conseguiu.
+
+289
+00:21:17,553 --> 00:21:18,979
+Bom trabalho.
+
+290
+00:21:20,488 --> 00:21:23,112
+Você poderia trabalhar
+para a Inteligência Naval.
+
+291
+00:21:23,152 --> 00:21:25,166
+- Bem...
+- Está falando sério?
+
+292
+00:21:25,206 --> 00:21:27,914
+- Bom, nunca se sabe.
+- Nossa! Inteligência Naval.
+
+293
+00:21:30,361 --> 00:21:32,164
+Gostaria de saber...
+
+294
+00:21:32,204 --> 00:21:34,791
+será que consegue acesso
+as câmeras de segurança?
+
+295
+00:21:36,217 --> 00:21:39,173
+- Por que acha isso?
+- Porque já vi você fazer.
+
+296
+00:21:39,780 --> 00:21:42,701
+Foi a primeira coisa que fiz.
+É assim que me divirto.
+
+297
+00:21:43,601 --> 00:21:45,374
+Como acha que descobri ela?
+
+298
+00:21:46,264 --> 00:21:49,334
+Que doideira. Não esqueça
+de me apresentá-la.
+
+299
+00:21:49,374 --> 00:21:50,997
+Sim, claro.
+
+300
+00:21:52,278 --> 00:21:53,749
+E a câmera do laboratório?
+
+301
+00:21:58,197 --> 00:22:00,493
+A porta só abre
+com código de segurança.
+
+302
+00:22:00,533 --> 00:22:02,686
+Parece que não querem
+visitantes por lá.
+
+303
+00:22:03,143 --> 00:22:06,666
+Eles acham que estão seguros,
+mas não contavam comigo.
+
+304
+00:22:08,871 --> 00:22:10,416
+Bem, veja só.
+
+305
+00:22:13,166 --> 00:22:16,408
+- O que estão fazendo?
+- Nada bom, eu suponho.
+
+306
+00:22:16,448 --> 00:22:18,946
+Eu os vi trazendo
+várias jaulas.
+
+307
+00:22:19,960 --> 00:22:21,878
+O que eles poderiam
+fazer com elas?
+
+308
+00:22:23,087 --> 00:22:24,398
+Malditas jaulas.
+
+309
+00:22:27,364 --> 00:22:29,892
+E o que tem
+atrás daquela porta?
+
+310
+00:22:29,932 --> 00:22:32,749
+Não sei. Não há câmeras ali.
+Mas veja isso.
+
+311
+00:22:34,812 --> 00:22:37,041
+Esse é o máximo de zoom
+que posso chegar.
+
+312
+00:22:39,996 --> 00:22:42,666
+Aumentei em 200% de zoom.
+Nada mal, não é?
+
+313
+00:22:43,240 --> 00:22:45,078
+Não, nada mal mesmo.
+
+314
+00:22:47,091 --> 00:22:49,502
+Esse aumento funciona
+em todas as câmeras?
+
+315
+00:22:50,489 --> 00:22:52,011
+Qual gostaria de ver?
+
+316
+00:24:04,524 --> 00:24:05,967
+Agora não.
+
+317
+00:24:07,493 --> 00:24:09,183
+Está acontecendo de novo.
+
+318
+00:25:03,745 --> 00:25:04,999
+Vamos.
+
+319
+00:25:14,550 --> 00:25:15,896
+O que é isso?
+
+320
+00:25:17,757 --> 00:25:21,624
+O que está acontecendo?
+Não sei o que faz aqui.
+
+321
+00:25:22,188 --> 00:25:25,720
+Já deveria ter consertado
+todo o sistema.
+
+322
+00:25:25,760 --> 00:25:28,207
+Verdade? Já que vocês diz...
+
+323
+00:25:28,481 --> 00:25:30,205
+Ele está nos sacaneando.
+
+324
+00:25:31,594 --> 00:25:35,444
+Acho que de onde veio,
+os negros são mais lentos.
+
+325
+00:25:35,875 --> 00:25:37,893
+Mas aqui
+as coisas são diferentes.
+
+326
+00:25:37,933 --> 00:25:40,457
+Conserte logo
+a porra do sistema.
+
+327
+00:25:44,828 --> 00:25:46,797
+Eu vim de Móstoles...
+
+328
+00:25:46,837 --> 00:25:49,915
+e neste navio, as coisas
+funcionam do meu jeito.
+
+329
+00:25:51,001 --> 00:25:53,570
+Você me ouviu. Apresse-se.
+
+330
+00:26:09,385 --> 00:26:11,637
+Fique calma! Sou eu.
+
+331
+00:26:14,352 --> 00:26:15,830
+O que está fazendo aqui?
+
+332
+00:26:16,516 --> 00:26:17,915
+Eu me assustei.
+
+333
+00:26:19,333 --> 00:26:22,157
+Está tudo bem.
+Estou com você agora.
+
+334
+00:26:23,299 --> 00:26:25,243
+- Vamos voltar à cabine.
+- Espere!
+
+335
+00:26:27,286 --> 00:26:29,457
+Por favor,
+não conte nada a eles.
+
+336
+00:26:30,816 --> 00:26:34,080
+Escute-me. Ninguém quer
+te machucar. Ninguém.
+
+337
+00:26:35,966 --> 00:26:37,297
+Vamos.
+
+338
+00:27:27,147 --> 00:27:29,575
+Essa tempestade
+está bem forte.
+
+339
+00:27:30,569 --> 00:27:32,228
+Está vindo em nossa direção.
+
+340
+00:27:32,268 --> 00:27:34,290
+- É o que parece.
+- Merda.
+
+341
+00:27:34,370 --> 00:27:36,789
+Chegou mais rápido
+do que imaginávamos.
+
+342
+00:27:38,297 --> 00:27:39,889
+No que estava pensando?
+
+343
+00:27:40,403 --> 00:27:42,445
+Essa é minha última viagem.
+
+344
+00:27:42,485 --> 00:27:44,707
+A festa não seria
+completa sem isso.
+
+345
+00:27:44,747 --> 00:27:46,290
+Não gosto de nada disso.
+
+346
+00:27:46,919 --> 00:27:49,040
+Com licença. Bom dia.
+
+347
+00:27:49,865 --> 00:27:52,840
+- Bom dia.
+- Essa é a Ángela.
+
+348
+00:27:52,880 --> 00:27:54,675
+- Olá.
+- Olá.
+
+349
+00:27:54,715 --> 00:27:56,761
+Ouvimos falar muito de você.
+
+350
+00:27:56,801 --> 00:27:59,091
+- Aquele é o...
+- Goro.
+
+351
+00:27:59,620 --> 00:28:01,573
+Ele é seu o seu maior fã.
+
+352
+00:28:01,613 --> 00:28:03,779
+Ele é mesmo.
+
+353
+00:28:05,246 --> 00:28:08,044
+Bem, eu assistia
+as suas reportagens.
+
+354
+00:28:08,892 --> 00:28:11,056
+- Olá, meu nome é Nic.
+- Olá.
+
+355
+00:28:11,096 --> 00:28:13,540
+Ele está recuperando
+a gravação da sua câmera.
+
+356
+00:28:14,230 --> 00:28:15,708
+Bem, estou tentando.
+
+357
+00:28:17,150 --> 00:28:18,636
+Minha câmera?
+
+358
+00:28:19,343 --> 00:28:20,859
+Está aqui?
+
+359
+00:28:28,448 --> 00:28:31,378
+Diga-me, você assistia
+suas reportagens pela TV?
+
+360
+00:28:32,504 --> 00:28:34,176
+Claro que não, que pergunta.
+
+361
+00:28:35,342 --> 00:28:38,254
+Eu lembro da reportagem
+com os garis. Muito boa.
+
+362
+00:28:38,761 --> 00:28:41,040
+Você pulando
+dentro da lixeira.
+
+363
+00:28:41,120 --> 00:28:43,998
+E o gari não acreditando
+no que você tinha feito.
+
+364
+00:28:44,078 --> 00:28:45,862
+Foi muito legal.
+
+365
+00:28:51,352 --> 00:28:53,023
+- Aceita?
+- Não.
+
+366
+00:29:04,198 --> 00:29:07,567
+- Perdão, você poderia...
+- O quê?
+
+367
+00:29:08,228 --> 00:29:11,156
+Gravar algo para mim
+no meu correio de voz?
+
+368
+00:29:11,196 --> 00:29:13,261
+Algo como:
+"Olá, sou a Ángela Vidal".
+
+369
+00:29:14,055 --> 00:29:16,263
+Ficaria muito grato
+se fizesse isso.
+
+370
+00:29:17,531 --> 00:29:19,668
+É claro,
+não precisa ser agora.
+
+371
+00:29:21,224 --> 00:29:24,164
+Acredito que seja sempre
+importunada com pedidos assim.
+
+372
+00:29:24,204 --> 00:29:25,748
+Ah, que merda.
+
+373
+00:29:26,223 --> 00:29:29,165
+- Sinto muito.
+- A culpa foi minha.
+
+374
+00:29:30,519 --> 00:29:32,667
+Segundo o vendedor,
+é a prova d'água.
+
+375
+00:29:33,450 --> 00:29:34,793
+Foi o que ele disse.
+
+376
+00:29:35,441 --> 00:29:36,887
+Em caso de naufrágio.
+
+377
+00:29:44,438 --> 00:29:47,665
+- Assistiu tudo?
+- Algumas partes.
+
+378
+00:29:48,898 --> 00:29:51,387
+Na verdade,
+não sei o que aconteceu,
+
+379
+00:29:51,427 --> 00:29:53,675
+mas é certo
+que não gostaria de estar lá.
+
+380
+00:29:58,022 --> 00:29:59,543
+OPERAÇÃO FANALIZADA
+
+381
+00:29:59,583 --> 00:30:01,737
+Está finalizado. Muito bom.
+
+382
+00:30:03,593 --> 00:30:07,077
+Essa parte está finalizada,
+agora só preciso ajeitar.
+
+383
+00:30:08,072 --> 00:30:10,878
+25 frames por segundo.
+Vai demorar um pouco.
+
+384
+00:30:13,939 --> 00:30:16,596
+- Quanto tempo demorará?
+- Cerca de uma hora.
+
+385
+00:30:17,066 --> 00:30:18,498
+Talvez até menos.
+
+386
+00:30:18,578 --> 00:30:21,200
+Tem certeza que não quer?
+Está delicioso.
+
+387
+00:30:35,120 --> 00:30:36,519
+Vamos.
+
+388
+00:30:41,569 --> 00:30:43,813
+Ele fugiu.
+O hospedeiro fugiu.
+
+389
+00:30:44,787 --> 00:30:46,748
+Que merda está dizendo?
+
+390
+00:30:46,956 --> 00:30:48,665
+- Acionem o alarme!
+- Não!
+
+391
+00:30:50,119 --> 00:30:52,123
+Temos de manter o controle.
+
+392
+00:30:52,203 --> 00:30:53,707
+Isolem tudo.
+
+393
+00:31:26,873 --> 00:31:28,790
+As correiras estão intactas.
+
+394
+00:31:29,471 --> 00:31:32,268
+- Alguém o soltou.
+- Não é possível.
+
+395
+00:31:32,308 --> 00:31:34,831
+Os seguranças
+notariam algo de estranho.
+
+396
+00:31:34,911 --> 00:31:37,216
+Deve ter sido
+durante o apagão.
+
+397
+00:31:37,256 --> 00:31:38,918
+E o código de segurança?
+
+398
+00:31:40,700 --> 00:31:43,529
+- Quantas pessoas têm acesso?
+- Poucas pessoas.
+
+399
+00:31:43,569 --> 00:31:45,775
+Ninguém faria isso.
+Não tem sentido.
+
+400
+00:31:45,815 --> 00:31:48,399
+Vocês vêm comigo.
+Tragam as armas.
+
+401
+00:31:48,439 --> 00:31:51,282
+- Dê-me o anti-retroviral.
+- Qual o seu plano?
+
+402
+00:31:51,322 --> 00:31:53,290
+Encontrá-lo antes
+que ataque alguém.
+
+403
+00:31:53,823 --> 00:31:55,926
+E vamos esperar
+que isso funcione.
+
+404
+00:32:17,730 --> 00:32:19,124
+Merda.
+
+405
+00:33:38,871 --> 00:33:42,231
+- Onde está a comida?
+- Como assim?
+
+406
+00:33:42,271 --> 00:33:45,476
+O filipino está dormindo
+e estamos aqui esperando.
+
+407
+00:33:47,011 --> 00:33:48,725
+Que inútil.
+
+408
+00:33:50,861 --> 00:33:52,242
+Edwin?
+
+409
+00:33:54,773 --> 00:33:57,061
+Puta merda.
+
+410
+00:33:57,101 --> 00:33:59,032
+O que aconteceu aqui?
+
+411
+00:34:00,378 --> 00:34:01,695
+Vamos provar.
+
+412
+00:34:05,835 --> 00:34:07,788
+Pelo menos
+a comida está gostosa.
+
+413
+00:34:09,350 --> 00:34:11,584
+Está ouvindo
+o que estou falando?
+
+414
+00:34:14,469 --> 00:34:17,623
+Os homens estão famintos
+e estão sem paciência.
+
+415
+00:34:17,663 --> 00:34:20,611
+É melhor servi-los.
+Está ouvindo?
+
+416
+00:34:21,518 --> 00:34:25,428
+Levarei isso comigo.
+Apresse-se ou terá problemas.
+
+417
+00:34:38,495 --> 00:34:40,206
+OPERAÇÃO FINALIZADA
+
+418
+00:34:41,112 --> 00:34:43,539
+Sim. Que maravilha.
+
+419
+00:34:46,228 --> 00:34:47,591
+Tudo pronto.
+
+420
+00:34:48,149 --> 00:34:50,039
+ENVIANDO ARQUIVO
+
+421
+00:34:56,874 --> 00:34:59,461
+Quem diria, o prato
+de hoje é cordeiro.
+
+422
+00:34:59,501 --> 00:35:01,718
+- Espero que dê para todos.
+- Dará.
+
+423
+00:35:01,758 --> 00:35:05,262
+O turno começa em 20 minutos,
+portanto não se atrase.
+
+424
+00:35:07,391 --> 00:35:09,027
+Como você está hoje?
+
+425
+00:35:11,799 --> 00:35:14,420
+Eles acham
+que eu não notaria...
+
+426
+00:35:17,270 --> 00:35:19,831
+que eu fui colocada
+numa enfermaria.
+
+427
+00:35:21,581 --> 00:35:23,746
+Sem ao menos me comunicar.
+
+428
+00:35:27,430 --> 00:35:29,706
+Está com apetite hoje?
+
+429
+00:35:29,786 --> 00:35:32,831
+Não. Não é meu apetite
+que está errado.
+
+430
+00:35:33,403 --> 00:35:36,248
+Meu estomago
+que não está muito bom.
+
+431
+00:35:36,328 --> 00:35:38,331
+Não poderia falar
+com o cozinheiro?
+
+432
+00:35:39,004 --> 00:35:41,331
+Talvez se pudesse
+fazer um canelone.
+
+433
+00:35:42,004 --> 00:35:43,368
+Ou alguns croquetes.
+
+434
+00:35:44,226 --> 00:35:47,289
+Perguntarei a ele,
+mas não prometo nada.
+
+435
+00:35:51,269 --> 00:35:52,668
+Olá?
+
+436
+00:35:53,694 --> 00:35:55,018
+Olá?
+
+437
+00:36:16,078 --> 00:36:17,373
+Olá! Perdão.
+
+438
+00:36:18,020 --> 00:36:19,721
+Você tem
+outro tipo de comida?
+
+439
+00:36:19,761 --> 00:36:22,352
+A senhora não está
+bem do estomago...
+
+440
+00:36:23,159 --> 00:36:24,857
+Você tem
+algum macarrão, ou...
+
+441
+00:36:42,389 --> 00:36:43,788
+Merda.
+
+442
+00:36:49,297 --> 00:36:51,285
+Aqui, prove um pouco disso.
+
+443
+00:36:55,589 --> 00:36:58,886
+O cheiro é gostoso.
+Talvez eu coma um pouco.
+
+444
+00:36:58,926 --> 00:37:01,956
+Não! Pare! Não coma isso!
+
+445
+00:37:02,238 --> 00:37:04,605
+- O que houve?
+- O cozinheiro está infectado.
+
+446
+00:37:04,645 --> 00:37:07,623
+- Ele tentou me morder.
+- E ele conseguiu?
+
+447
+00:37:09,584 --> 00:37:12,456
+- Não. Vocês comeram algo?
+- Nada.
+
+448
+00:37:13,315 --> 00:37:14,996
+Olha, fiquem aqui.
+
+449
+00:37:15,433 --> 00:37:17,078
+- Espere!
+- Fiquem aqui.
+
+450
+00:37:19,616 --> 00:37:21,032
+Parados.
+
+451
+00:37:22,328 --> 00:37:24,282
+- O que houve?
+- Diga-me você.
+
+452
+00:37:24,322 --> 00:37:26,375
+Pensei que estivéssemos
+sob quarentena.
+
+453
+00:37:26,415 --> 00:37:28,123
+Diga-me o que houve.
+
+454
+00:37:28,203 --> 00:37:30,795
+O cozinheiro
+tentou me morder.
+
+455
+00:37:30,835 --> 00:37:32,456
+Sabe o que isso significa?
+
+456
+00:37:34,254 --> 00:37:36,293
+- Onde ele está?
+- Na cozinha.
+
+457
+00:37:36,829 --> 00:37:39,032
+Consegui trancá-lo
+na câmara frigorífica.
+
+458
+00:37:41,590 --> 00:37:44,664
+Está bem. Venha conosco.
+
+459
+00:37:44,744 --> 00:37:46,235
+Somente você.
+
+460
+00:37:50,174 --> 00:37:51,643
+Não demorará muito.
+
+461
+00:37:53,689 --> 00:37:56,272
+Parece que será
+o auge da minha despedida.
+
+462
+00:37:58,816 --> 00:38:00,423
+Está tudo bem contigo?
+
+463
+00:38:00,463 --> 00:38:02,738
+Não sei.
+Não estou me sentindo bem.
+
+464
+00:38:03,765 --> 00:38:06,032
+Meu estômago não está bem.
+
+465
+00:38:06,072 --> 00:38:09,639
+Não me surpreende. Deve ser
+aquele parasita de peixes.
+
+466
+00:38:10,122 --> 00:38:11,613
+- O <i>Anisakis</i>?
+- O quê?
+
+467
+00:38:12,749 --> 00:38:15,747
+- O nome é Anisakis.
+- Tanto faz.
+
+468
+00:38:17,435 --> 00:38:19,388
+Mas não teve peixe no jantar.
+
+469
+00:38:20,921 --> 00:38:23,401
+É melhor você
+descansar um pouco.
+
+470
+00:38:23,441 --> 00:38:25,276
+Eu me encarrego de tudo.
+
+471
+00:38:31,512 --> 00:38:34,749
+O anti-retroviral. É nisso
+que estamos trabalhando.
+
+472
+00:38:37,606 --> 00:38:40,447
+Pudemos controlar
+dois surtos em 24 horas,
+
+473
+00:38:40,487 --> 00:38:42,193
+mas talvez na próxima vez,
+
+474
+00:38:43,041 --> 00:38:45,750
+- não tenhamos tanta sorte.
+- Como conseguiram?
+
+475
+00:38:45,790 --> 00:38:47,786
+Pensei que o vírus
+fosse desconhecido.
+
+476
+00:38:47,826 --> 00:38:49,681
+Sabemos mais do que pensa.
+
+477
+00:38:50,752 --> 00:38:52,177
+Temos uma amostra.
+
+478
+00:38:52,909 --> 00:38:55,199
+Injetamos o vírus
+em um hospedeiro,
+
+479
+00:38:55,239 --> 00:38:57,151
+e esperamos
+os sintomas aparecerem...
+
+480
+00:38:57,191 --> 00:38:59,687
+Espere!
+Onde conseguiram a amostra?
+
+481
+00:38:59,727 --> 00:39:01,049
+Não interessa.
+
+482
+00:39:01,089 --> 00:39:03,624
+O que importa é que alguém
+libertou o hospedeiro.
+
+483
+00:39:03,664 --> 00:39:05,682
+E agora temos
+um problema muito sério.
+
+484
+00:39:05,722 --> 00:39:08,081
+- Puta que pariu.
+- Dê-lhe um <i>taser</i>.
+
+485
+00:39:08,778 --> 00:39:10,517
+Não podemos perder
+mais tempo.
+
+486
+00:39:10,557 --> 00:39:12,983
+- O que fará?
+- Testarei o anti-retroviral.
+
+487
+00:39:15,038 --> 00:39:17,164
+Assim que a porta abrir,
+você atira.
+
+488
+00:39:17,546 --> 00:39:19,786
+A descarga elétrica
+o paralisará.
+
+489
+00:39:19,826 --> 00:39:21,997
+- Só teremos alguns segundos.
+- Certo.
+
+490
+00:39:22,966 --> 00:39:25,664
+Preparado? Vamos! Agora!
+
+491
+00:39:35,360 --> 00:39:37,081
+Saia da frente!
+
+492
+00:39:53,444 --> 00:39:55,164
+Saia dai!
+
+493
+00:39:58,498 --> 00:39:59,897
+Porra.
+
+494
+00:40:07,043 --> 00:40:09,368
+O que aconteceu?
+
+495
+00:40:09,408 --> 00:40:11,581
+Foi um mecanismo de resposta.
+
+496
+00:40:11,661 --> 00:40:13,867
+Merda. Não pode ser.
+
+497
+00:40:13,907 --> 00:40:16,073
+É óbvio que pode ser.
+
+498
+00:40:18,856 --> 00:40:20,754
+Deveria ter funcionado.
+
+499
+00:40:20,794 --> 00:40:22,692
+Está claro
+que perdemos o controle.
+
+500
+00:40:22,732 --> 00:40:25,634
+Não poderia chamar alguém
+para nos ajudar a sair daqui?
+
+501
+00:40:25,674 --> 00:40:27,631
+Ele esta certo.
+Precisamos sair daqui.
+
+502
+00:40:27,671 --> 00:40:29,626
+Você sabe
+muito bem as regras.
+
+503
+00:40:31,113 --> 00:40:33,095
+Ninguém virá nos tirar daqui.
+
+504
+00:40:34,555 --> 00:40:35,980
+Ninguém.
+
+505
+00:41:05,849 --> 00:41:08,798
+Precisamos ir ao laboratório
+para descobrirmos o erro.
+
+506
+00:41:08,838 --> 00:41:10,770
+Espere. E quanto a nós?
+
+507
+00:41:11,559 --> 00:41:14,956
+Não sabemos se a comida está
+infectada. Melhor não arriscar.
+
+508
+00:41:15,036 --> 00:41:18,997
+- Ninguém aqui comeu nada.
+- Verdade. Eu avisei a tempo.
+
+509
+00:41:19,077 --> 00:41:21,164
+Então, não precisam
+se preocupar.
+
+510
+00:41:21,244 --> 00:41:24,081
+Como assim?
+Somos da segunda leva.
+
+511
+00:41:24,161 --> 00:41:26,414
+- Mão pode nos deixar.
+- Não há escolha.
+
+512
+00:41:26,494 --> 00:41:28,872
+Não podemos correr riscos.
+
+513
+00:41:28,952 --> 00:41:31,388
+- Vamos.
+- Espere, espere.
+
+514
+00:41:33,412 --> 00:41:35,184
+Eu fiz o que vocês pediram.
+
+515
+00:41:35,999 --> 00:41:38,806
+- Não pode fazer isso comigo.
+- Do que está falando?
+
+516
+00:41:39,581 --> 00:41:41,197
+Sinto muito.
+
+517
+00:41:41,827 --> 00:41:43,898
+Vamos!
+Não podemos perder tempo.
+
+518
+00:41:43,938 --> 00:41:45,252
+Lucas?
+
+519
+00:41:46,010 --> 00:41:47,568
+O que você fez?
+
+520
+00:41:48,664 --> 00:41:50,824
+Peguei uma amostra
+de sangue do edifício.
+
+521
+00:41:50,864 --> 00:41:52,888
+Disseram que seria
+pelo bem de todos.
+
+522
+00:41:52,928 --> 00:41:54,723
+Amostra com sangue infectado?
+
+523
+00:41:54,763 --> 00:41:57,140
+Uma pequena amostra.
+Disseram que seria...
+
+524
+00:41:57,180 --> 00:41:58,864
+Sangue de quem?
+
+525
+00:41:59,555 --> 00:42:01,200
+Não é apenas um vírus.
+
+526
+00:42:01,621 --> 00:42:03,998
+Alguns padres me enviaram
+fotos inimagináveis.
+
+527
+00:42:04,038 --> 00:42:06,247
+Você não imagina
+se essa merda de vírus...
+
+528
+00:42:06,327 --> 00:42:08,221
+O que mais?
+
+529
+00:42:08,261 --> 00:42:11,323
+Eles me contaram que estão
+financiando isto tudo...
+
+530
+00:42:11,363 --> 00:42:14,653
+Seu idiota filho da puta!
+O que faremos agora?
+
+531
+00:42:14,693 --> 00:42:16,330
+Bem...
+
+532
+00:42:16,410 --> 00:42:19,327
+Não sei o que está acontecendo,
+mas não precisa xingar.
+
+533
+00:42:19,367 --> 00:42:21,704
+Se não sabe o que
+está acontecendo aqui...
+
+534
+00:42:22,693 --> 00:42:25,664
+Então, contarei
+a senhora sobre os fatos.
+
+535
+00:42:25,744 --> 00:42:28,798
+A sua família inteira
+está morta.
+
+536
+00:42:28,838 --> 00:42:30,506
+- Morta!
+- Deixe-a em paz!
+
+537
+00:42:30,546 --> 00:42:31,960
+Chega!
+
+538
+00:42:34,885 --> 00:42:36,508
+Que merda está acontecendo?
+
+539
+00:42:36,548 --> 00:42:40,259
+O único que sabia se a comida
+estava infectada, está morto.
+
+540
+00:42:42,929 --> 00:42:46,312
+Subiremos à ponte de comando.
+O Ortega nos ajudará.
+
+541
+00:42:46,352 --> 00:42:48,705
+Está bem, mas como?
+
+542
+00:42:49,295 --> 00:42:51,019
+Estamos sem armas!
+
+543
+00:42:54,940 --> 00:42:56,872
+Vamos!
+Isso deve servir. Depressa!
+
+544
+00:43:30,612 --> 00:43:33,187
+- Aqui.
+- Isso é inútil.
+
+545
+00:43:33,227 --> 00:43:35,073
+É o que temos. Vamos!
+
+546
+00:43:35,113 --> 00:43:36,663
+Vamos, vamos!
+
+547
+00:43:37,365 --> 00:43:38,787
+Vamos!
+
+548
+00:43:56,714 --> 00:43:59,180
+Não entendam mal...
+
+549
+00:43:59,835 --> 00:44:03,226
+mas preciso tirar
+um pouco de soneca.
+
+550
+00:44:08,688 --> 00:44:10,247
+Recuem, recuem.
+
+551
+00:44:10,327 --> 00:44:11,801
+Para trás.
+
+552
+00:44:13,910 --> 00:44:15,222
+Recuem, recuem...
+
+553
+00:44:16,155 --> 00:44:17,518
+Para trás!
+
+554
+00:44:24,096 --> 00:44:25,553
+Merda!
+
+555
+00:44:28,792 --> 00:44:30,139
+Afaste-se!
+
+556
+00:44:33,581 --> 00:44:35,336
+Precisamos fugir!
+
+557
+00:44:54,418 --> 00:44:56,330
+Vamos.
+Temos que chegar até a ponte.
+
+558
+00:44:56,410 --> 00:44:58,122
+Vamos!
+
+559
+00:44:58,202 --> 00:45:01,660
+Eles estão por toda à parte.
+Onde está o Goro?
+
+560
+00:45:01,700 --> 00:45:04,643
+Ele não estava bem.
+Foi descansar.
+
+561
+00:45:04,683 --> 00:45:06,057
+Merda.
+
+562
+00:45:06,097 --> 00:45:08,714
+- <i>Oficial de máquinas falando.</i>
+- Tudo bem por aí?
+
+563
+00:45:08,754 --> 00:45:11,252
+<i>Não parei nem para comer.
+Está tudo bem?</i>
+
+564
+00:45:11,292 --> 00:45:14,297
+Até segunda ordem,
+continue trabalhando.
+
+565
+00:45:14,337 --> 00:45:16,903
+- <i>O que está acontecendo?</i>
+- Faça o que falei.
+
+566
+00:45:19,843 --> 00:45:21,580
+Tranque a porta.
+
+567
+00:45:45,760 --> 00:45:47,163
+Por aqui. Vamos.
+
+568
+00:45:47,203 --> 00:45:49,541
+- Tem certeza?
+- Tenho.
+
+569
+00:45:49,581 --> 00:45:52,913
+Podem ligar para meus filhos
+virem me buscar?
+
+570
+00:45:53,960 --> 00:45:55,714
+Calma, estamos chegando.
+
+571
+00:45:55,754 --> 00:45:58,372
+Eu prometo que não darei
+nenhum trabalho.
+
+572
+00:45:58,452 --> 00:45:59,787
+Vamos!
+
+573
+00:46:17,560 --> 00:46:21,038
+O que foi agora? Não há
+ninguém para você perturbar?
+
+574
+00:46:23,741 --> 00:46:25,149
+O que é isso?
+
+575
+00:46:53,910 --> 00:46:55,269
+Saiam daqui!
+
+576
+00:46:57,077 --> 00:46:58,556
+Ajudem-me!
+
+577
+00:47:00,452 --> 00:47:03,204
+- Não posso!
+- Atire!
+
+578
+00:47:03,244 --> 00:47:05,038
+- Não posso!
+- Ajude-me!
+
+579
+00:47:06,218 --> 00:47:08,365
+Que porra é essa?
+
+580
+00:47:10,857 --> 00:47:12,330
+Solte-o!
+
+581
+00:47:18,045 --> 00:47:19,205
+O que foi agora?
+
+582
+00:47:20,660 --> 00:47:23,282
+A pressão do óleo
+do motor está caindo.
+
+583
+00:47:23,322 --> 00:47:24,768
+Era só o que faltava.
+
+584
+00:47:54,285 --> 00:47:55,580
+Saia de perto dele!
+
+585
+00:48:00,011 --> 00:48:02,622
+Merda!
+O que era aquilo?
+
+586
+00:48:04,132 --> 00:48:05,883
+- Está tudo bem?
+- Estou.
+
+587
+00:48:09,762 --> 00:48:11,313
+Onde ela está?
+
+588
+00:48:12,321 --> 00:48:13,825
+Ela fugiu.
+
+589
+00:48:13,865 --> 00:48:15,645
+Puta que pariu!
+
+590
+00:48:15,685 --> 00:48:17,204
+E agora?
+
+591
+00:48:17,244 --> 00:48:19,788
+Os outros irão para a ponte.
+Eu irei atrás dela.
+
+592
+00:48:19,868 --> 00:48:21,943
+Onde pensa que vai?
+
+593
+00:48:21,983 --> 00:48:25,572
+Você está sem arma.
+É suicídio ir assim.
+
+594
+00:48:25,612 --> 00:48:27,986
+Não podemos deixá-la.
+Alguém precisa matá-la.
+
+595
+00:48:31,562 --> 00:48:32,987
+Eu já estou na merda.
+
+596
+00:48:35,830 --> 00:48:37,496
+Entendeu?
+
+597
+00:48:45,048 --> 00:48:46,496
+Vamos.
+
+598
+00:49:06,106 --> 00:49:08,130
+Abra a porta. Somos nós!
+
+599
+00:49:09,728 --> 00:49:11,159
+- Não abra.
+- Mas...
+
+600
+00:49:11,199 --> 00:49:13,810
+- <i>Goro, abra a porta.</i>
+- Não sabemos se estão bem.
+
+601
+00:49:15,620 --> 00:49:18,080
+- Nic!
+- <i>Goro! Goro!</i>
+
+602
+00:49:20,111 --> 00:49:23,251
+- Entrem rápido.
+- Feche a porta!
+
+603
+00:49:24,879 --> 00:49:27,794
+O que está acontecendo?
+Estão atrás de vocês?
+
+604
+00:49:27,834 --> 00:49:29,664
+- Estão.
+- A situação mudou.
+
+605
+00:49:29,704 --> 00:49:32,472
+Você está no comando agora.
+Vamos para a casa.
+
+606
+00:49:32,512 --> 00:49:35,288
+Adoraria, mas o motor
+está perdendo óleo.
+
+607
+00:49:36,099 --> 00:49:38,823
+O motor pode pegar fogo.
+Preciso ir apagar.
+
+608
+00:49:38,863 --> 00:49:41,804
+- Não! Não!
+- Calma!
+
+609
+00:49:41,844 --> 00:49:43,399
+- Fique calma!
+- Espere!
+
+610
+00:49:44,952 --> 00:49:46,945
+Podemos tentar
+ligar o motor auxiliar.
+
+611
+00:49:46,985 --> 00:49:48,826
+- Então ligue.
+- Daqui não pode.
+
+612
+00:49:48,866 --> 00:49:51,887
+- Só na sala de máquinas.
+- Merda! Filhos da...
+
+613
+00:49:53,020 --> 00:49:56,663
+- O que está havendo lá fora?
+- Você estala lá. Deve saber.
+
+614
+00:49:56,743 --> 00:50:00,458
+Eu não sei de nada,
+mas os médicos sabem.
+
+615
+00:50:00,498 --> 00:50:03,413
+Essa é a única chance
+de sabermos a verdade.
+
+616
+00:50:03,493 --> 00:50:05,616
+Sim, claro.
+E, como faremos isso?
+
+617
+00:50:05,656 --> 00:50:07,830
+Simplesmente,
+perguntaremos a eles?
+
+618
+00:50:11,641 --> 00:50:14,312
+Você não consegue hackear
+os computadores deles?
+
+619
+00:50:22,105 --> 00:50:25,791
+Eles me deram acesso à rede,
+então posso enviá-los o vídeo.
+
+620
+00:50:27,443 --> 00:50:30,871
+Merda.
+Eles têm uma encriptação.
+
+621
+00:50:30,951 --> 00:50:32,788
+- O que é isso?
+- Nada de mais.
+
+622
+00:50:35,568 --> 00:50:38,079
+Eu não entendo.
+Tudo está de acordo.
+
+623
+00:50:38,119 --> 00:50:40,174
+Deveria ter funcionado.
+
+624
+00:50:40,214 --> 00:50:43,445
+Talvez o vírus tenha sofrido
+mutação com outro DNA.
+
+625
+00:50:45,403 --> 00:50:47,941
+Se for assim, cada amostra
+deverá ser diferente.
+
+626
+00:50:50,084 --> 00:50:53,339
+Precisamos da estirpe original
+que não sofreu mutação.
+
+627
+00:50:54,761 --> 00:50:56,127
+A garota.
+
+628
+00:50:57,597 --> 00:50:59,555
+Mas é claro,
+que nunca a teremos.
+
+629
+00:51:01,184 --> 00:51:02,720
+Senhores...
+
+630
+00:51:03,895 --> 00:51:05,346
+É o fim.
+
+631
+00:51:05,701 --> 00:51:07,066
+Não. Espera.
+
+632
+00:51:08,567 --> 00:51:11,083
+- Deverá ter outro jeito.
+- Sinto muito.
+
+633
+00:51:11,819 --> 00:51:13,693
+Você conhece o protocolo.
+
+634
+00:51:20,081 --> 00:51:21,668
+Não.
+
+635
+00:51:21,708 --> 00:51:24,163
+20 minutos. Aproveite-os.
+
+636
+00:51:24,465 --> 00:51:27,837
+Espere. Podemos tentar
+uma inibição enzimática.
+
+637
+00:51:27,877 --> 00:51:29,496
+Talvez consigamos alcançar...
+
+638
+00:51:29,536 --> 00:51:31,580
+uma maior resistência
+da membrana.
+
+639
+00:51:31,660 --> 00:51:34,559
+Isso apenas retardaria
+o processo, sem resultado.
+
+640
+00:51:35,542 --> 00:51:39,039
+Sem a estirpe original,
+não tem como. Sinto muito.
+
+641
+00:51:39,079 --> 00:51:41,996
+Por favor,
+não pode fazer isso.
+
+642
+00:51:42,076 --> 00:51:43,521
+Não podíamos falhar.
+
+643
+00:51:44,572 --> 00:51:46,830
+- Você conhece as regras.
+- Não...
+
+644
+00:51:46,910 --> 00:51:49,371
+Espere. Ele conseguiu.
+
+645
+00:51:50,775 --> 00:51:52,391
+Teremos as imagens do vídeo.
+
+646
+00:51:55,698 --> 00:51:57,492
+Consegui. Pode acessar.
+
+647
+00:52:01,926 --> 00:52:04,275
+Quais são
+os arquivos mais antigos?
+
+648
+00:52:04,315 --> 00:52:06,281
+Deixe-me procurar.
+
+649
+00:52:06,321 --> 00:52:07,711
+São esses.
+
+650
+00:52:09,445 --> 00:52:11,011
+O que são tudo isso?
+
+651
+00:52:13,241 --> 00:52:15,246
+- Meu Deus!
+- Espere, espera.
+
+652
+00:52:16,904 --> 00:52:18,329
+Já vi esse nome antes.
+
+653
+00:52:20,888 --> 00:52:22,900
+Vi no sótão do edifício.
+
+654
+00:52:22,940 --> 00:52:25,079
+Vi em uns recortes
+de jornais.
+
+655
+00:52:29,493 --> 00:52:33,413
+Essa é a mesma garota
+das fotos na parede.
+
+656
+00:52:34,993 --> 00:52:37,079
+Há todos os históricos
+médicos dela.
+
+657
+00:52:37,739 --> 00:52:40,329
+A diocese
+de Nápoles a aceitou.
+
+658
+00:52:40,908 --> 00:52:42,890
+- A igreja?
+- Testes para diagnóstico?
+
+659
+00:52:42,930 --> 00:52:45,288
+- O que é isso?
+- Espere.
+
+660
+00:52:47,100 --> 00:52:49,788
+O jornal informou
+que ela estava possuída.
+
+661
+00:52:51,725 --> 00:52:54,621
+Dizia algo sobre a igreja
+e um demônio.
+
+662
+00:52:54,701 --> 00:52:57,310
+- Que tanta besteira.
+- A notícia tem fundamento.
+
+663
+00:52:58,864 --> 00:53:00,829
+Eles queriam
+um diagnóstico médico.
+
+664
+00:53:01,895 --> 00:53:04,246
+E quem é o responsável
+pela internação dela?
+
+665
+00:53:05,951 --> 00:53:07,954
+Bem, veja só isso.
+
+666
+00:53:19,739 --> 00:53:21,070
+O que é isso?
+
+667
+00:53:22,909 --> 00:53:26,204
+- Impossível.
+- Sim, pode ser. É a garota.
+
+668
+00:53:29,672 --> 00:53:32,746
+- O que ela fazia lá?
+- Volte a gravação.
+
+669
+00:53:41,213 --> 00:53:42,840
+O que está acontecendo lá?
+
+670
+00:53:43,240 --> 00:53:44,647
+Meu Deus.
+
+671
+00:53:50,208 --> 00:53:51,835
+É um parasita.
+
+672
+00:53:51,875 --> 00:53:53,230
+A origem do vírus...
+
+673
+00:53:54,356 --> 00:53:57,195
+estava bem debaixo
+dos nossos narizes.
+
+674
+00:53:57,235 --> 00:53:59,792
+Então esse é o demônio...
+
+675
+00:53:59,832 --> 00:54:01,138
+um parasita.
+
+676
+00:54:01,178 --> 00:54:05,079
+Ele usava o corpo
+da garota como hospedeiro.
+
+677
+00:54:05,788 --> 00:54:09,204
+Mas para se proteger,
+ele a imunizou.
+
+678
+00:54:10,092 --> 00:54:13,409
+O parasita cresceu dentro
+do corpo dela por anos.
+
+679
+00:54:14,099 --> 00:54:16,496
+Até encontrar
+um corpo mais adequado.
+
+680
+00:54:18,547 --> 00:54:21,454
+Nós temos a estirpe original.
+Preparem tudo.
+
+681
+00:54:21,534 --> 00:54:24,667
+Precisamos remover
+a estirpe de dentro dela.
+
+682
+00:54:24,707 --> 00:54:26,871
+Ainda há chance
+de conseguirmos.
+
+683
+00:54:34,141 --> 00:54:35,601
+Senhora?
+
+684
+00:54:37,107 --> 00:54:39,648
+Senhora, temos
+que voltar ao grupo.
+
+685
+00:54:40,149 --> 00:54:41,556
+Venha! Confia em mim.
+
+686
+00:55:06,213 --> 00:55:07,538
+Não, não, não!
+
+687
+00:55:20,243 --> 00:55:21,954
+Filhos da puta!
+
+688
+00:55:24,668 --> 00:55:26,014
+Não se mova.
+
+689
+00:55:29,744 --> 00:55:32,626
+Largue a arma e vire-se.
+
+690
+00:55:38,587 --> 00:55:40,751
+Onde está a garota?
+
+691
+00:55:44,398 --> 00:55:45,761
+Em um cruzeiro.
+
+692
+00:55:50,193 --> 00:55:51,548
+Pela última vez.
+
+693
+00:55:53,047 --> 00:55:54,384
+Onde ela está?
+
+694
+00:55:56,818 --> 00:55:58,428
+- O que houve?
+- Nada.
+
+695
+00:55:59,732 --> 00:56:01,105
+Ele não quer descer.
+
+696
+00:56:01,713 --> 00:56:05,197
+Então nós desceremos
+e ligaremos o motor.
+
+697
+00:56:05,237 --> 00:56:08,746
+Claro, muito fácil.
+Mas, eu não irei lá para fora.
+
+698
+00:56:09,896 --> 00:56:13,372
+O que propõe? Que esperamos
+essas coisas nos acharem?
+
+699
+00:56:13,412 --> 00:56:16,125
+Escute, essa era
+a minha última viagem.
+
+700
+00:56:16,165 --> 00:56:18,935
+Sou o primeiro a querer
+chegar em casa a salvo.
+
+701
+00:56:19,784 --> 00:56:21,204
+E quero voltar vivo.
+
+702
+00:56:23,367 --> 00:56:24,682
+<i>Abra!</i>
+
+703
+00:56:25,753 --> 00:56:27,323
+- Lucas!
+- <i>Abra, por favor!</i>
+
+704
+00:56:32,659 --> 00:56:34,101
+O que é isso?
+
+705
+00:56:34,141 --> 00:56:37,355
+Ninguém toque nela.
+Afastem-se dela.
+
+706
+00:56:37,395 --> 00:56:40,282
+- O que houve?
+- É um parasita.
+
+707
+00:56:40,322 --> 00:56:43,025
+- O vírus está dentro dela.
+- O quê?
+
+708
+00:56:44,138 --> 00:56:47,686
+- O que está dizendo?
+- A gravação mostrou tudo.
+
+709
+00:56:47,726 --> 00:56:49,492
+Você mesmo pode comprovar.
+
+710
+00:56:49,532 --> 00:56:51,410
+Que besteira está dizendo?
+
+711
+00:56:51,450 --> 00:56:53,871
+- Ela está saudável.
+- Sim, está.
+
+712
+00:56:53,951 --> 00:56:56,446
+Essa coisa mantém
+o hospedeiro imune.
+
+713
+00:56:56,486 --> 00:56:59,064
+Com isso,
+ela passa despercebida.
+
+714
+00:56:59,104 --> 00:57:01,521
+- Cuidado! Preciso dela viva.
+- Não, Não!
+
+715
+00:57:01,561 --> 00:57:02,991
+Soltem-na!
+
+716
+00:57:11,475 --> 00:57:14,405
+- Está cometendo um erro.
+- Soltem-na.
+
+717
+00:57:16,517 --> 00:57:19,635
+- A arma está descarregada.
+- Mentira.
+
+718
+00:57:21,242 --> 00:57:22,854
+Você não entende.
+
+719
+00:57:22,894 --> 00:57:24,994
+Esse parasita é
+a estirpe primitiva.
+
+720
+00:57:25,034 --> 00:57:27,425
+Só assim poderemos
+produzir o anti-retroviral.
+
+721
+00:57:27,465 --> 00:57:30,037
+É a única maneira
+de conseguirmos.
+
+722
+00:57:30,077 --> 00:57:33,494
+- Não me importo.
+- Por favor, seja sensato.
+
+723
+00:57:33,534 --> 00:57:36,539
+Só iremos remover o parasita.
+Não a machucaremos.
+
+724
+00:57:36,579 --> 00:57:38,676
+Não! Não dê ouvidos a eles!
+
+725
+00:57:38,716 --> 00:57:41,547
+Você é médico com experiência
+em controle de vetores.
+
+726
+00:57:41,587 --> 00:57:43,912
+Sabe muito bem
+que essa é a única maneira.
+
+727
+00:57:43,992 --> 00:57:45,413
+Não.
+
+728
+00:57:50,118 --> 00:57:51,545
+Não.
+
+729
+00:57:52,659 --> 00:57:54,037
+Não!
+
+730
+00:57:54,117 --> 00:57:56,105
+Será impossível
+chegar ao laboratório.
+
+731
+00:57:56,145 --> 00:57:57,935
+Faremos o procedimento
+na mesa.
+
+732
+00:57:57,975 --> 00:57:59,980
+- Não!
+- Rápido!
+
+733
+00:58:00,020 --> 00:58:02,231
+Nic! Nic!
+
+734
+00:58:02,271 --> 00:58:03,649
+Ei, cuidado!
+
+735
+00:58:03,689 --> 00:58:06,371
+Não! Não! Não!
+
+736
+00:58:07,532 --> 00:58:09,912
+- Rápido, virem de costas.
+- Socorro!
+
+737
+00:58:13,867 --> 00:58:15,287
+<i>Segurem!</i>
+
+738
+00:58:18,015 --> 00:58:20,412
+<i>Amarre-na. Muito bem.</i>
+
+739
+00:58:20,833 --> 00:58:23,085
+Espere um pouco!
+Isso é seguro?
+
+740
+00:58:23,125 --> 00:58:26,097
+Como eu disse,
+está na gravação. Assista.
+
+741
+00:58:26,992 --> 00:58:29,460
+- O tempo está passando.
+- Nic!
+
+742
+00:58:29,500 --> 00:58:31,037
+Solte-a.
+
+743
+00:58:32,384 --> 00:58:34,805
+- Não encontro.
+- Deve estar aí.
+
+744
+00:58:34,845 --> 00:58:36,371
+Aqui, doutor.
+
+745
+00:58:52,409 --> 00:58:55,224
+<i>Segurem a sua cabeça.
+Concentração.</i>
+
+746
+00:58:56,742 --> 00:58:58,153
+Ali.
+
+747
+00:59:06,231 --> 00:59:08,114
+- Preciso de toalhas.
+- No banheiro.
+
+748
+00:59:08,154 --> 00:59:09,980
+Vá, rápido!
+
+749
+00:59:22,996 --> 00:59:25,829
+Rápido,
+segurem ela bem forte.
+
+750
+00:59:25,909 --> 00:59:27,298
+O que está acontecendo?
+
+751
+00:59:32,853 --> 00:59:34,208
+Não!
+
+752
+00:59:38,499 --> 00:59:41,569
+- Ajudem-me, porra!
+- Estou sem munição.
+
+753
+00:59:44,430 --> 00:59:46,620
+Atire! Atire!
+
+754
+00:59:46,700 --> 00:59:48,745
+- O que está acontecendo?
+- Não sei.
+
+755
+00:59:59,187 --> 01:00:01,183
+Atrás dela!
+
+756
+01:00:01,223 --> 01:00:02,763
+Atire!
+
+757
+01:00:03,395 --> 01:00:04,704
+Atire!
+
+758
+01:00:11,867 --> 01:00:14,120
+Peguem-a!
+Não a deixem escapar.
+
+759
+01:00:45,267 --> 01:00:48,537
+É apenas um arranhão.
+Não é nada de mais.
+
+760
+01:00:49,773 --> 01:00:51,154
+Não.
+
+761
+01:00:51,899 --> 01:00:53,231
+Esperem!
+
+762
+01:00:54,099 --> 01:00:57,406
+O anti-retroviral funcionará.
+Você mesmo disse.
+
+763
+01:00:57,446 --> 01:01:00,454
+Podemos encontrar a garota
+e sintetizar o antídoto.
+
+764
+01:01:00,534 --> 01:01:02,954
+Estamos sem tempo.
+Você sabe disso.
+
+765
+01:01:05,663 --> 01:01:07,758
+Você ainda precisará de mim.
+
+766
+01:01:09,208 --> 01:01:10,745
+Não mais.
+
+767
+01:01:17,917 --> 01:01:21,013
+- E agora?
+- Vamos encontrar a garota.
+
+768
+01:01:21,053 --> 01:01:23,015
+Não, já chega.
+
+769
+01:01:23,055 --> 01:01:24,969
+Está na hora de pedir ajuda.
+
+770
+01:01:25,009 --> 01:01:26,815
+É o único quem sabe
+usar o rádio.
+
+771
+01:01:26,855 --> 01:01:28,823
+Não sem um antídoto.
+
+772
+01:01:28,863 --> 01:01:30,829
+Nunca conseguirá.
+Está maluco?
+
+773
+01:01:31,371 --> 01:01:33,108
+Caso não consigamos,
+
+774
+01:01:33,148 --> 01:01:36,620
+não teremos nenhum lugar
+para retornar.
+
+775
+01:01:38,662 --> 01:01:40,422
+Vamos!
+Não temos tempo a perder.
+
+776
+01:01:42,775 --> 01:01:44,670
+Ajustem o rádio
+para a frequência 9.
+
+777
+01:01:44,710 --> 01:01:46,184
+Ela não deve estar longe.
+
+778
+01:02:19,217 --> 01:02:20,616
+Merda.
+
+779
+01:02:24,020 --> 01:02:27,052
+Pronto, consegui.
+Sabe conduzir o navio?
+
+780
+01:02:28,495 --> 01:02:30,498
+Bom, posso tentar.
+
+781
+01:02:30,538 --> 01:02:33,412
+Já o ajudei em algumas vezes
+mas nunca conduzi sozinho.
+
+782
+01:02:39,559 --> 01:02:42,828
+Vamos descer e ligar o motor
+auxiliar. Sabe fazer isso?
+
+783
+01:02:43,222 --> 01:02:46,689
+Acho que sim,
+mas não descerei até lá.
+
+784
+01:02:47,485 --> 01:02:50,636
+Só temos quatro facas.
+Não chegaremos muito longe.
+
+785
+01:02:50,676 --> 01:02:52,855
+- Para de bobagem.
+- Tem uma ideia melhor?
+
+786
+01:02:52,895 --> 01:02:55,589
+Espere, temos um material
+de pesca esportiva.
+
+787
+01:02:55,629 --> 01:02:57,276
+Está no convés.
+
+788
+01:02:57,316 --> 01:02:59,287
+Que ótimo,
+agora vamos pescar.
+
+789
+01:02:59,367 --> 01:03:02,421
+Você fique aqui. Nós desceremos
+e traremos o que acharmos.
+
+790
+01:03:03,039 --> 01:03:06,131
+Voltaremos e iremos direto
+à casa das máquinas.
+
+791
+01:03:06,171 --> 01:03:07,487
+Feche bem a porta.
+
+792
+01:03:07,527 --> 01:03:10,627
+Necessitamos dele, pois é
+o único que sabe conduzir.
+
+793
+01:03:18,045 --> 01:03:19,516
+Estamos na proa.
+
+794
+01:03:22,826 --> 01:03:24,859
+Que merda.
+Assim não chegaremos nunca.
+
+795
+01:03:27,590 --> 01:03:30,287
+Ali! Está ali!
+
+796
+01:03:44,522 --> 01:03:46,849
+Eu a avistei.
+Ela está nas cabines.
+
+797
+01:03:46,889 --> 01:03:49,585
+- Onde?
+- <i>No corredor das cabines.</i>
+
+798
+01:03:49,625 --> 01:03:51,245
+Entendido. Vamos!
+
+799
+01:04:06,716 --> 01:04:08,953
+Merda! Ela está
+destruindo as câmeras!
+
+800
+01:04:09,513 --> 01:04:11,095
+<i>Perdi-la de vista.</i>
+
+801
+01:04:19,653 --> 01:04:21,139
+Onde ela está?
+
+802
+01:04:23,986 --> 01:04:26,438
+Mas que merda.
+Merda!
+
+803
+01:04:52,180 --> 01:04:54,537
+Achei. Ela está indo
+para o refeitório.
+
+804
+01:04:55,119 --> 01:04:56,932
+Vamos! Vamos!
+
+805
+01:05:08,033 --> 01:05:10,495
+<i>Ela está no corredor
+a caminho do refeitório.</i>
+
+806
+01:05:10,575 --> 01:05:12,287
+<i>Apressem-se!</i>
+
+807
+01:05:16,280 --> 01:05:18,912
+<i>Ángela, não faça isso. Aqui.</i>
+
+808
+01:05:18,992 --> 01:05:22,485
+Sou eu, o Nic.
+O rádio, pegue o rádio.
+
+809
+01:05:23,908 --> 01:05:26,049
+<i>Pegue-o logo.</i>
+
+810
+01:05:26,089 --> 01:05:29,370
+<i>Vamos Ángela, pegue-o.</i>
+
+811
+01:05:30,761 --> 01:05:32,370
+<i>Certo, aperte o sete.</i>
+
+812
+01:05:32,450 --> 01:05:33,953
+Aperte o sete, vamos lá.
+
+813
+01:05:34,639 --> 01:05:36,056
+Aperte o sete.
+
+814
+01:05:37,476 --> 01:05:40,745
+- Nic, está ouvindo?
+- Pode falar.
+
+815
+01:05:40,825 --> 01:05:42,140
+<i>Estou vendo você.</i>
+
+816
+01:05:42,180 --> 01:05:44,435
+Se quebrar as câmeras,
+não poderei ajudar.
+
+817
+01:05:44,475 --> 01:05:47,837
+- Certo.
+- <i>Fuja. Eles estão a caminho.</i>
+
+818
+01:05:48,612 --> 01:05:50,673
+<i>O que está esperando?
+Saia já!</i>
+
+819
+01:05:50,713 --> 01:05:52,162
+Eles estão chegando.
+
+820
+01:05:55,505 --> 01:05:58,373
+<i>O que está fazendo?
+Eles estão chegando!</i>
+
+821
+01:06:00,582 --> 01:06:02,120
+<i>Ángela, escute-me.</i>
+
+822
+01:06:02,200 --> 01:06:04,648
+Precisa sair dai agora.
+Vamos!
+
+823
+01:06:13,162 --> 01:06:14,646
+Por que está fazendo isso?
+
+824
+01:06:17,766 --> 01:06:19,620
+Venha, entre.
+
+825
+01:06:27,234 --> 01:06:29,745
+- Vamos, rápido!
+- Pegue isso.
+
+826
+01:06:33,950 --> 01:06:36,161
+- O que está fazendo, Lucas?
+- Espere!
+
+827
+01:06:36,241 --> 01:06:37,786
+Venha! Vamos!
+
+828
+01:06:39,478 --> 01:06:40,953
+Vamos começar a festa.
+
+829
+01:06:42,040 --> 01:06:44,870
+<i>Onde ela está?
+Como pode ter fugido?</i>
+
+830
+01:06:44,950 --> 01:06:47,074
+- Chegamos.
+- Cuidado!
+
+831
+01:06:48,255 --> 01:06:50,719
+Onde ela pode
+ter se escondido?
+
+832
+01:06:55,949 --> 01:06:57,269
+Ajudem-me!
+
+833
+01:06:58,700 --> 01:07:00,020
+Ajudem-me!
+
+834
+01:07:01,431 --> 01:07:04,264
+Façam algo!
+Peguem o extintor!
+
+835
+01:07:04,304 --> 01:07:07,413
+Peguem o extintor. Vamos!
+
+836
+01:07:08,984 --> 01:07:10,441
+Rápido!
+
+837
+01:07:12,404 --> 01:07:14,885
+- Ajudem-me!
+- Não sei o que fazer.
+
+838
+01:07:14,925 --> 01:07:17,703
+Acerte na cabeça. Na cabeça!
+
+839
+01:07:29,554 --> 01:07:30,911
+Você está errado.
+
+840
+01:07:31,465 --> 01:07:33,520
+Não sei o que você quer...
+
+841
+01:07:33,560 --> 01:07:35,194
+mas está errado.
+
+842
+01:07:45,604 --> 01:07:47,899
+Agora, você pode examinar.
+
+843
+01:07:47,939 --> 01:07:52,036
+Volte ao seu laboratório
+e faça a checagem.
+
+844
+01:07:52,116 --> 01:07:54,664
+E, me deixem em paz.
+
+845
+01:08:04,247 --> 01:08:05,704
+Eu sinto muito.
+
+846
+01:08:13,715 --> 01:08:15,584
+E agora? Estamos sem armas.
+
+847
+01:08:15,624 --> 01:08:18,146
+- Então, volte.
+- Espere!
+
+848
+01:08:19,997 --> 01:08:21,717
+O que é isso na sua mão?
+
+849
+01:08:27,437 --> 01:08:28,985
+Você foi mordido.
+
+850
+01:08:38,533 --> 01:08:40,671
+Abra! Não!
+
+851
+01:08:54,408 --> 01:08:55,750
+INICIANDO ANÁLISE
+
+852
+01:08:55,790 --> 01:08:58,745
+PROCESSANDO
+
+853
+01:09:12,500 --> 01:09:14,319
+Nic? Está ouvindo?
+
+854
+01:09:14,359 --> 01:09:16,321
+<i>Por que fez aquilo?</i>
+
+855
+01:09:16,361 --> 01:09:19,453
+Confie em mim. Eu preciso
+do código do laboratório.
+
+856
+01:09:20,031 --> 01:09:22,231
+- O quê?
+- Preciso entrar lá,
+
+857
+01:09:22,271 --> 01:09:24,014
+para provar
+que estão errados.
+
+858
+01:09:24,054 --> 01:09:26,117
+<i>- Eu não tenho os códigos.</i>
+- Por favor.
+
+859
+01:09:26,830 --> 01:09:29,876
+<i>Você o mordeu, Ángela.
+Eu vi.</i>
+
+860
+01:09:29,916 --> 01:09:31,244
+Confie em mim, Nic.
+
+861
+01:09:32,165 --> 01:09:35,953
+<i>Podemos sair daqui juntos,
+mas eu preciso do código.</i>
+
+862
+01:09:36,357 --> 01:09:37,756
+Por favor.
+
+863
+01:09:40,594 --> 01:09:41,960
+<i>Nic...</i>
+
+864
+01:09:42,491 --> 01:09:44,661
+Está bem. Eu darei à você.
+
+865
+01:09:46,914 --> 01:09:49,928
+<i>Guzmán me ensinou como ver
+o código pela gravação.</i>
+
+866
+01:09:50,944 --> 01:09:54,685
+<i>Pronto. Espero que saiba
+o que está fazendo.</i>
+
+867
+01:09:56,074 --> 01:09:57,492
+PROCESSANDO
+
+868
+01:10:00,241 --> 01:10:01,855
+Não pode ser.
+
+869
+01:10:16,017 --> 01:10:17,536
+Não pode ser.
+
+870
+01:10:18,256 --> 01:10:19,718
+Sim, pode ser.
+
+871
+01:10:20,695 --> 01:10:22,536
+Mas eu mesmo
+vi na gravação.
+
+872
+01:10:22,616 --> 01:10:24,269
+<i>Mas o parasita
+entrou em você.<i></i></i>
+
+873
+01:10:24,309 --> 01:10:26,349
+<i>Eu não me importo com isso.</i>
+
+874
+01:10:26,389 --> 01:10:28,869
+<i>Não sei o que busca,
+mas não sou eu.<i></i></i>
+
+875
+01:10:57,994 --> 01:11:00,459
+- Arpões.
+- Sim, arpões.
+
+876
+01:11:00,499 --> 01:11:01,982
+Algo mais?
+
+877
+01:11:04,449 --> 01:11:06,223
+- Certo.
+- Está bem.
+
+878
+01:11:06,263 --> 01:11:09,142
+Desceremos, ligaremos
+o motor e vamos embora.
+
+879
+01:11:09,182 --> 01:11:10,644
+Voltaremos para casa.
+
+880
+01:11:10,684 --> 01:11:12,869
+Espere. Ángela está saudável.
+
+881
+01:11:13,276 --> 01:11:14,650
+Ela não tem o parasita.
+
+882
+01:11:14,690 --> 01:11:16,661
+Vi pelas câmeras
+que o Ricarte checou.
+
+883
+01:11:17,348 --> 01:11:19,953
+Ela está no laboratório.
+Precisamos buscá-la.
+
+884
+01:11:21,736 --> 01:11:23,825
+Está bem. Eu a buscarei.
+
+885
+01:11:23,865 --> 01:11:25,784
+Vocês vão
+para a casa das máquinas.
+
+886
+01:11:25,824 --> 01:11:27,569
+O ponto de encontro é aqui.
+
+887
+01:11:33,498 --> 01:11:35,922
+- Diga a eles!
+- É impossível.
+
+888
+01:11:36,666 --> 01:11:39,828
+- Deve ter algum erro.
+- Não há nenhum erro!
+
+889
+01:11:41,616 --> 01:11:45,003
+Se você não informar a eles,
+te juro que te mato!
+
+890
+01:11:45,824 --> 01:11:47,911
+Diga-lhes, agora!
+
+891
+01:11:47,991 --> 01:11:49,534
+Dizer o quê?
+
+892
+01:11:56,089 --> 01:11:57,772
+O parasita deixa
+o hospedeiro,
+
+893
+01:11:57,812 --> 01:11:59,865
+quando encontra
+um corpo mais adequado.
+
+894
+01:12:00,598 --> 01:12:03,607
+Foi a forma que o parasita
+encontrou de sair do edifício.
+
+895
+01:12:04,446 --> 01:12:07,200
+A gravação comprovou.
+Todos nós vimos.
+
+896
+01:12:07,240 --> 01:12:10,869
+Não me importa. As análises
+comprovaram o contrário.
+
+897
+01:12:11,494 --> 01:12:14,541
+Se fosse mentira,
+você estaria infectado.
+
+898
+01:12:14,581 --> 01:12:16,780
+- Ela te mordeu.
+- Eu sei disso!
+
+899
+01:12:17,459 --> 01:12:19,491
+Mas precisa haver
+uma explicação.
+
+900
+01:12:22,297 --> 01:12:24,254
+Você está nos enganando.
+
+901
+01:12:28,720 --> 01:12:31,953
+É verdade Ángela?
+Você está nos enganando?
+
+902
+01:12:35,393 --> 01:12:38,477
+E você?
+Você não está nos enganando?
+
+903
+01:12:41,347 --> 01:12:43,774
+Por que queria
+o código do laboratório?
+
+904
+01:12:45,737 --> 01:12:48,117
+Você pediu ao Nic.
+Para quê?
+
+905
+01:12:48,729 --> 01:12:50,911
+Queria saber
+o que acontecia aqui dentro.
+
+906
+01:12:52,452 --> 01:12:55,744
+Quando te encontrei, você
+estava vindo do laboratório.
+
+907
+01:12:58,282 --> 01:13:00,619
+Você libertou os micos.
+
+908
+01:13:01,287 --> 01:13:02,703
+É mesmo?
+
+909
+01:13:03,460 --> 01:13:05,036
+O que ganharia com isso?
+
+910
+01:13:08,275 --> 01:13:10,457
+Você me salvou no edifício.
+
+911
+01:13:11,782 --> 01:13:14,327
+Ficamos sozinhos
+por quase um minuto.
+
+912
+01:13:16,853 --> 01:13:19,119
+Se esse parasita
+estava em mim...
+
+913
+01:13:21,439 --> 01:13:24,536
+ele abandona o hospedeiro
+e encontra um mais adequado.
+
+914
+01:13:24,616 --> 01:13:27,286
+- Não estou certa?
+- Está.
+
+915
+01:13:29,426 --> 01:13:32,369
+Então, o antigo hospedeiro
+é descartado.
+
+916
+01:13:39,574 --> 01:13:42,369
+Você é muito valente, Ángela.
+Eu admiro isso.
+
+917
+01:13:42,449 --> 01:13:44,577
+<i>Destruição
+de emergência ativado.</i>
+
+918
+01:13:45,463 --> 01:13:46,994
+Temos 20 minutos.
+
+919
+01:13:49,467 --> 01:13:51,661
+- Está tudo acabado.
+- Morra!
+
+920
+01:14:08,656 --> 01:14:10,536
+Onde pensa que vai, Ángela?
+
+921
+01:14:13,449 --> 01:14:15,952
+Cuidado,
+não se machuque com isso.
+
+922
+01:14:41,928 --> 01:14:43,702
+<i>Evacuação imediata.</i>
+
+923
+01:14:44,230 --> 01:14:46,025
+Agora, a festa vai começar.
+
+924
+01:14:46,065 --> 01:14:48,637
+<i>Detonação em 18 minutos.</i>
+
+925
+01:14:49,444 --> 01:14:51,661
+<i>Evacuação imediata.</i>
+
+926
+01:14:53,074 --> 01:14:54,564
+Não!
+
+927
+01:16:42,615 --> 01:16:44,039
+Parada!
+
+928
+01:16:58,240 --> 01:16:59,924
+Vai, volte!
+
+929
+01:17:02,744 --> 01:17:04,035
+Vamos, mate-o!
+
+930
+01:17:21,095 --> 01:17:23,257
+Vamos, Nic. Vamos!
+
+931
+01:17:32,266 --> 01:17:33,577
+Vamos, vamos!
+
+932
+01:17:34,790 --> 01:17:36,197
+Por aqui.
+
+933
+01:17:38,789 --> 01:17:40,478
+- Por aqui, Nic?
+- Sim.
+
+934
+01:17:42,659 --> 01:17:44,370
+- Rápido.
+- Merda.
+
+935
+01:17:44,410 --> 01:17:45,913
+O que foi?
+
+936
+01:17:47,627 --> 01:17:49,667
+- Nic, o que houve?
+- Não funciona.
+
+937
+01:17:49,707 --> 01:17:52,244
+Por que não funciona?
+Você não sabia fazer isso?
+
+938
+01:17:52,324 --> 01:17:55,619
+- Eu disse que tentaria.
+- Então, tente!
+
+939
+01:18:12,324 --> 01:18:14,660
+- Rápido!
+- Certo.
+
+940
+01:18:15,407 --> 01:18:17,577
+Rápido! Merda!
+
+941
+01:18:18,532 --> 01:18:19,910
+Porra!
+
+942
+01:18:20,708 --> 01:18:22,202
+Puta merda.
+
+943
+01:18:23,032 --> 01:18:24,569
+Dê-me isto!
+
+944
+01:18:28,817 --> 01:18:30,277
+- Vai, Nic!
+- Merda!
+
+945
+01:18:30,317 --> 01:18:32,239
+Liga logo isso!
+
+946
+01:18:44,440 --> 01:18:45,777
+Ajude-me Nic!
+
+947
+01:18:50,727 --> 01:18:52,044
+Vai Nic!
+
+948
+01:18:58,824 --> 01:19:00,186
+Não, por favor.
+
+949
+01:19:00,226 --> 01:19:01,787
+Nic!
+
+950
+01:19:09,031 --> 01:19:11,072
+<i>Evacuação imediata.</i>
+
+951
+01:19:11,432 --> 01:19:13,957
+<i>Detonação em 13 minutos.</i>
+
+952
+01:19:14,782 --> 01:19:16,863
+<i>Evacuação imediata.</i>
+
+953
+01:19:20,235 --> 01:19:21,869
+<i>Evacuação imediata.</i>
+
+954
+01:19:22,663 --> 01:19:24,951
+<i>Detonação em 12 minutos.</i>
+
+955
+01:20:20,233 --> 01:20:22,474
+<i>Evacuação imediata.</i>
+
+956
+01:20:22,514 --> 01:20:25,079
+<i>Detonação em 10 minutos.</i>
+
+957
+01:20:26,280 --> 01:20:28,368
+<i>Evacuação imediata.</i>
+
+958
+01:20:29,477 --> 01:20:32,723
+Não! Não estou infectado.
+Estou saudável.
+
+959
+01:20:33,671 --> 01:20:35,712
+- Onde está a Ángela?
+- Eu não sei.
+
+960
+01:20:35,752 --> 01:20:39,743
+Precisamos sair daqui. O navio
+explodirá em poucos minutos.
+
+961
+01:20:40,390 --> 01:20:42,385
+Veja...
+
+962
+01:20:42,425 --> 01:20:44,801
+Isso é um bote
+salva-vidas inflável.
+
+963
+01:20:44,841 --> 01:20:46,934
+Podemos usar o motor.
+
+964
+01:20:46,974 --> 01:20:50,668
+- Onde ela está?
+- Não podemos fazer nada.
+
+965
+01:20:50,708 --> 01:20:53,291
+Precisa pensar em você.
+
+966
+01:20:54,044 --> 01:20:57,535
+Nós podemos sair do navio.
+Temos tempo suficiente.
+
+967
+01:21:00,940 --> 01:21:02,452
+Verdade.
+
+968
+01:21:04,392 --> 01:21:05,703
+Vai para o inferno.
+
+969
+01:21:13,661 --> 01:21:15,197
+Ótimo, Nic.
+
+970
+01:21:21,002 --> 01:21:23,047
+<i>Evacuação imediata.</i>
+
+971
+01:21:23,839 --> 01:21:26,592
+<i>Detonação em 8 minutos.</i>
+
+972
+01:21:26,632 --> 01:21:27,998
+Merda.
+
+973
+01:21:45,500 --> 01:21:46,743
+Ángela!
+
+974
+01:21:47,695 --> 01:21:49,743
+Micos!
+
+975
+01:22:07,757 --> 01:22:09,168
+Merda.
+
+976
+01:22:12,779 --> 01:22:15,535
+Temos que sair!
+O navio vai explodir!
+
+977
+01:22:16,047 --> 01:22:17,992
+- Meu Deus!
+- Não!
+
+978
+01:22:18,032 --> 01:22:20,117
+Venha.
+Vamos para o refeitório.
+
+979
+01:22:30,988 --> 01:22:32,524
+Eles se foram.
+
+980
+01:22:43,918 --> 01:22:45,802
+- Ouviu algo?
+- Não.
+
+981
+01:22:47,672 --> 01:22:49,615
+<i>Evacuação imediata.</i>
+
+982
+01:22:50,143 --> 01:22:52,862
+<i>Detonação em 6 minutos.</i>
+
+983
+01:22:54,387 --> 01:22:57,259
+Temos que ir para o convés.
+O tempo está acabando.
+
+984
+01:22:58,865 --> 01:23:01,395
+E o motor?
+Onde é a sala de máquinas?
+
+985
+01:23:01,435 --> 01:23:02,748
+Fica no corredor.
+
+986
+01:23:02,788 --> 01:23:05,066
+- Está cheia de infectados.
+- Droga.
+
+987
+01:23:05,106 --> 01:23:06,609
+Esqueça.
+
+988
+01:23:06,649 --> 01:23:09,424
+Nós sairemos, corremos...
+
+989
+01:23:09,464 --> 01:23:11,285
+e corremos, certo?
+
+990
+01:23:11,862 --> 01:23:13,282
+Certo.
+
+991
+01:23:13,322 --> 01:23:15,860
+Um, dois, três...
+
+992
+01:23:19,787 --> 01:23:21,701
+Pensou que escaparia de mim?
+
+993
+01:23:31,507 --> 01:23:34,076
+Depois de tudo
+que passamos juntos?
+
+994
+01:23:36,095 --> 01:23:37,677
+Não!
+
+995
+01:23:39,015 --> 01:23:40,551
+Não!
+
+996
+01:23:42,518 --> 01:23:45,506
+Não, Ángela. Eu irei contigo.
+
+997
+01:23:45,546 --> 01:23:47,794
+Há ainda
+muitas coisas para fazer.
+
+998
+01:24:26,568 --> 01:24:28,524
+Vamos sair logo daqui!
+
+999
+01:24:28,564 --> 01:24:30,526
+<i>Detonação em 4 minutos.</i>
+
+1000
+01:24:30,566 --> 01:24:32,611
+Vamos, corra! Vamos!
+
+1001
+01:24:32,651 --> 01:24:34,743
+<i>Evacuação imediata.</i>
+
+1002
+01:24:46,551 --> 01:24:47,868
+Vamos, corre!
+
+1003
+01:24:52,755 --> 01:24:54,118
+Vamos logo!
+
+1004
+01:25:02,431 --> 01:25:03,967
+Corra!
+
+1005
+01:25:12,024 --> 01:25:13,406
+Corra!
+
+1006
+01:25:17,109 --> 01:25:20,160
+Dê-me o motor. Dê para mim!
+
+1007
+01:25:49,979 --> 01:25:51,937
+- Precisamos saltar.
+- Não posso!
+
+1008
+01:25:51,977 --> 01:25:54,951
+Então eles nos matarão.
+Salte logo!
+
+1009
+01:25:55,031 --> 01:25:56,410
+Não!
+
+1010
+01:25:57,444 --> 01:25:59,072
+Eu não consigo saltar.
+
+1011
+01:26:01,198 --> 01:26:02,689
+Salte!
+
+1012
+01:26:06,679 --> 01:26:07,993
+Nic!
+
+1013
+01:26:13,127 --> 01:26:14,597
+Salte, Ángela!
+
+1014
+01:26:21,093 --> 01:26:22,451
+Nic!
+
+1015
+01:26:33,475 --> 01:26:36,285
+Salte, Ángela! Salte logo!
+
+1016
+01:26:36,673 --> 01:26:38,785
+Você precisa saltar.
+Salte!
+
+1017
+01:27:06,972 --> 01:27:08,463
+Ángela!
+
+1018
+01:27:12,353 --> 01:27:13,764
+Ángela!
+
+1019
+01:27:18,150 --> 01:27:19,561
+Ángela!
+
+1020
+01:27:51,210 --> 01:27:52,776
+Nic!
+
+1021
+01:27:52,816 --> 01:27:54,930
+Aqui! Segure minha mão!
+
+1022
+01:28:01,402 --> 01:28:03,618
+Segure a minha mão
+para subir.
+
+1023
+01:28:10,524 --> 01:28:13,192
+Segure a minha mão, Ángela.
+
+1024
+01:28:35,406 --> 01:28:36,893
+Vamos!
+
+1025
+01:28:38,272 --> 01:28:39,629
+Vamos!
+
+1026
+01:28:40,781 --> 01:28:42,113
+Merda, não liga.
+
+1027
+01:28:42,153 --> 01:28:44,868
+Vamos! Precisamos sair daqui!
+
+1028
+01:29:58,519 --> 01:30:00,751
+<i>Um carro para
+o Hotel Plaza, por favor.</i>
+
+1029
+01:30:01,239 --> 01:30:04,136
+Estou com passageiros agora,
+depois irei para o hotel.
+
+1030
+01:30:11,724 --> 01:30:13,396
+Que festa incrível, não?
+
+1031
+01:30:16,572 --> 01:30:20,570
+LEGENDA:
+Nandus
+
+1032
+01:30:21,805 --> 01:31:21,892
+Por favor, avalie esta legenda em www.osdb.link/3nryf
+Ajude outros usuários a escolher as melhores legendas.
+

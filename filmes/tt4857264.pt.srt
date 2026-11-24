@@ -1,0 +1,5603 @@
+1
+00:01:53,408 --> 00:01:54,910
+- Boa noite.
+- Boa noite.
+
+2
+00:02:56,889 --> 00:02:59,433
+Sr. Doria?
+Virginia Goodman.
+
+3
+00:02:59,516 --> 00:03:02,144
+Seu advogado, Félix Leiva,
+me enviou.
+
+4
+00:03:03,603 --> 00:03:04,604
+Prazer.
+
+5
+00:03:06,065 --> 00:03:07,817
+- Entre.
+- Obrigada.
+
+6
+00:03:10,861 --> 00:03:13,823
+- Vou me vestir em dois minutos.
+- Está bem.
+
+7
+00:03:16,992 --> 00:03:20,537
+<i>Por membros de grupos
+que se desmobilizaram</i>
+
+8
+00:03:20,621 --> 00:03:23,916
+<i>e estão ajudando
+na busca pelos desaparecidos.</i>
+
+9
+00:03:24,458 --> 00:03:27,336
+<i>Nas notícias locais,
+a principal notícia</i>
+
+10
+00:03:27,419 --> 00:03:30,172
+<i>é o funeral em memória
+a Laura Vidal,</i>
+
+11
+00:03:30,255 --> 00:03:32,717
+<i>a renomada fotógrafa
+e artista plástica</i>
+
+12
+00:03:32,800 --> 00:03:35,720
+<i>supostamente assassinada
+pelo amante, Adrián Doria,</i>
+
+13
+00:03:35,803 --> 00:03:38,013
+<i>recentemente homenageado
+no prestigioso</i>
+
+14
+00:03:38,097 --> 00:03:41,016
+<i>Prêmio Europeu de Inovação
+e Desenvolvimento de Negócios</i>
+
+15
+00:03:41,100 --> 00:03:42,893
+<i>como Empresário do Ano.</i>
+
+16
+00:03:42,977 --> 00:03:45,646
+<i>Doria, que recentemente
+entrou pro mercado asiático</i>
+
+17
+00:03:45,730 --> 00:03:47,397
+<i>pela Global Go Tech Media,</i>
+
+18
+00:03:47,482 --> 00:03:51,318
+<i>alega ser inocente
+e vítima de uma armadilha.</i>
+
+19
+00:03:52,862 --> 00:03:54,822
+Esperei que viesse mais tarde.
+
+20
+00:03:54,905 --> 00:03:57,241
+Sim, tivemos um imprevisto.
+
+21
+00:03:57,324 --> 00:03:59,910
+Tentei falar com o Félix,
+mas não consegui.
+
+22
+00:03:59,994 --> 00:04:00,911
+Não está na cidade.
+
+23
+00:04:00,995 --> 00:04:05,290
+Disse que tudo estava sob controle
+e que tinha uma pista.
+
+24
+00:04:05,374 --> 00:04:06,876
+- Que mudaria tudo?
+- Sim.
+
+25
+00:04:06,959 --> 00:04:09,169
+Foi o que ele me disse
+da última vez,
+
+26
+00:04:09,253 --> 00:04:12,673
+mas eu não sabia o que fazer,
+e ele também não.
+
+27
+00:04:12,757 --> 00:04:13,633
+O quê?
+
+28
+00:04:13,716 --> 00:04:16,218
+É possível que te chamem
+para depor hoje à noite.
+
+29
+00:04:16,301 --> 00:04:17,136
+O quê?
+
+30
+00:04:17,219 --> 00:04:21,265
+Uma das minhas fontes no tribunal
+diz que há uma testemunha de última hora
+
+31
+00:04:21,349 --> 00:04:23,684
+que pode mudar o seu caso.
+
+32
+00:04:23,768 --> 00:04:27,187
+Ainda não sabemos quem é,
+mas estão levando
+
+33
+00:04:27,271 --> 00:04:29,440
+para depor em três horas.
+
+34
+00:04:29,524 --> 00:04:30,566
+Eu disse a verdade.
+
+35
+00:04:31,317 --> 00:04:35,363
+Seu depoimento tem lacunas
+e preciso de detalhes.
+
+36
+00:04:36,864 --> 00:04:39,074
+A legitimidade
+é baseada em detalhes.
+
+37
+00:04:39,409 --> 00:04:42,202
+Posso convencer o mundo
+de que é inocente.
+
+38
+00:04:43,371 --> 00:04:44,955
+E garanto que consigo.
+
+39
+00:04:45,540 --> 00:04:49,043
+Até agora não perdi nenhum caso
+diante de um juiz.
+
+40
+00:04:49,794 --> 00:04:51,587
+Mas preciso que colabore.
+
+41
+00:04:52,212 --> 00:04:55,883
+A polícia transformou este lugar
+em uma cela. Sou vigiado o dia todo.
+
+42
+00:04:56,759 --> 00:05:00,095
+Não acha que se eu tivesse algo
+a acrescentar, já teria feito isso?
+
+43
+00:05:00,179 --> 00:05:03,391
+Vão pedir sua prisão
+imediata, Sr. Doria.
+
+44
+00:05:03,474 --> 00:05:06,143
+Temos 180 minutos
+para recomeçar,
+
+45
+00:05:06,227 --> 00:05:09,897
+então, sugiro que pare de lamentar
+e comece a trabalhar.
+
+46
+00:05:20,032 --> 00:05:22,702
+Vamos voltar ao início.
+
+47
+00:05:22,785 --> 00:05:24,912
+O que você e a falecida
+faziam no hotel?
+
+48
+00:05:35,673 --> 00:05:37,049
+<i>Nos disseram para ir lá.</i>
+
+49
+00:05:39,885 --> 00:05:42,638
+<i>Estávamos juntos
+há alguns meses.</i>
+
+50
+00:05:43,598 --> 00:05:46,059
+<i>Alguém estava nos chantageando.</i>
+
+51
+00:05:46,892 --> 00:05:48,561
+<i>Seguíamos as instruções.</i>
+
+52
+00:05:50,188 --> 00:05:51,981
+Pediam cem mil euros.
+
+53
+00:05:52,065 --> 00:05:55,235
+É melhor pagar o silêncio
+do que enfrentar um divórcio.
+
+54
+00:05:55,318 --> 00:05:57,903
+Eu nunca quis me divorciar
+da Sonia. Eu a amo.
+
+55
+00:05:57,988 --> 00:06:00,948
+Por que aquele hotel,
+a 300 km de distância?
+
+56
+00:06:01,032 --> 00:06:02,033
+Eu não sei.
+
+57
+00:06:02,742 --> 00:06:05,328
+Não ficou surpreso
+com um local tão distante?
+
+58
+00:06:05,411 --> 00:06:07,038
+Quem se importa onde foi?
+
+59
+00:06:07,122 --> 00:06:08,873
+Já estiveram lá?
+
+60
+00:06:08,957 --> 00:06:11,376
+O problema é que me culparam
+pelo assassinato.
+
+61
+00:06:12,710 --> 00:06:14,379
+Tudo é importante.
+
+62
+00:06:16,297 --> 00:06:17,507
+Mas tudo bem.
+
+63
+00:06:18,716 --> 00:06:21,594
+Vamos falar sobre a mensagem
+no seu celular.
+
+64
+00:06:25,431 --> 00:06:28,184
+<i>Estávamos esperando
+há duas horas quando chegou.</i>
+
+65
+00:06:47,453 --> 00:06:48,538
+O que houve?
+
+66
+00:06:53,751 --> 00:06:55,086
+Ele está com o seu celular.
+
+67
+00:06:55,962 --> 00:06:58,548
+Enviou uma mensagem
+do seu celular.
+
+68
+00:06:59,299 --> 00:07:02,260
+EU CONTAREI TUDO.
+QUARTO 715, HOTEL BELLAVISTA
+
+69
+00:07:02,844 --> 00:07:03,887
+É uma armadilha.
+
+70
+00:07:04,805 --> 00:07:05,806
+Vamos.
+
+71
+00:07:32,624 --> 00:07:33,792
+Adrián?
+
+72
+00:07:37,921 --> 00:07:39,798
+Fiquei inconsciente
+por uns minutos.
+
+73
+00:07:41,299 --> 00:07:42,634
+<i>E quando acordei...</i>
+
+74
+00:07:43,176 --> 00:07:44,845
+<i>o pesadelo começou.</i>
+
+75
+00:07:48,640 --> 00:07:50,516
+<i>Qual a primeira coisa
+de que se lembra?</i>
+
+76
+00:07:51,267 --> 00:07:52,853
+<i>As batidas na porta.</i>
+
+77
+00:07:54,479 --> 00:07:55,564
+Polícia!
+
+78
+00:07:57,482 --> 00:07:58,609
+Vocês estão bem?
+
+79
+00:08:23,884 --> 00:08:24,885
+Polícia!
+
+80
+00:08:25,969 --> 00:08:27,095
+Abra a porta.
+
+81
+00:08:37,272 --> 00:08:38,273
+Afaste-se.
+
+82
+00:08:39,858 --> 00:08:40,901
+Laura!
+
+83
+00:08:45,656 --> 00:08:46,740
+Está ouvindo?
+
+84
+00:08:47,408 --> 00:08:48,409
+Laura!
+
+85
+00:08:48,825 --> 00:08:51,745
+Sabemos que está aí!
+Abra a porta!
+
+86
+00:08:51,828 --> 00:08:53,414
+Não, não.
+
+87
+00:08:54,831 --> 00:08:56,708
+Laura! Socorro!
+
+88
+00:08:57,125 --> 00:08:58,752
+Me ajudem, por favor!
+
+89
+00:08:58,835 --> 00:08:59,836
+Polícia!
+
+90
+00:09:01,297 --> 00:09:02,298
+Socorro!
+
+91
+00:09:04,007 --> 00:09:05,342
+Levante-se!
+
+92
+00:09:06,259 --> 00:09:07,844
+Mãos ao alto! Levante-se!
+
+93
+00:09:09,555 --> 00:09:11,139
+Havia alguém no quarto.
+
+94
+00:09:11,222 --> 00:09:12,558
+Mostre as mãos.
+
+95
+00:09:12,641 --> 00:09:14,518
+Eu não fiz nada.
+
+96
+00:09:15,269 --> 00:09:16,687
+Levante as mãos!
+
+97
+00:09:17,896 --> 00:09:19,690
+- Não fiz nada.
+- Abaixe-se!
+
+98
+00:09:19,773 --> 00:09:22,318
+- Havia alguém aqui.
+- Para o chão!
+
+99
+00:09:22,401 --> 00:09:23,402
+Não resista.
+
+100
+00:09:24,486 --> 00:09:25,529
+Todos para fora!
+
+101
+00:09:47,926 --> 00:09:49,511
+O boletim de ocorrência diz
+
+102
+00:09:50,346 --> 00:09:54,225
+que testemunhas ouviram gritos,
+mas não viram ninguém sair do quarto.
+
+103
+00:09:54,308 --> 00:09:56,518
+Não viu ninguém sair do quarto?
+
+104
+00:09:56,602 --> 00:09:59,980
+<i>Estava trancado por dentro
+com uma corrente.</i>
+
+105
+00:10:01,273 --> 00:10:05,444
+<i>Segundo o boletim, nenhuma janela
+poderia ser aberta de dentro</i>
+
+106
+00:10:05,527 --> 00:10:08,280
+<i>porque nos meses de frio
+o hotel tira as maçanetas</i>
+
+107
+00:10:08,364 --> 00:10:10,574
+<i>e elas não foram forçadas.</i>
+
+108
+00:10:10,657 --> 00:10:11,742
+Ela abre com isso.
+
+109
+00:10:11,825 --> 00:10:15,079
+<i>Especularam todas as formas
+de sair sem ser visto.</i>
+
+110
+00:10:15,162 --> 00:10:17,331
+<i>Era impossível sair
+sem deixar rastros.</i>
+
+111
+00:10:19,041 --> 00:10:20,626
+<i>E não encontraram nenhuma.</i>
+
+112
+00:10:21,752 --> 00:10:23,295
+<i>Segundo sua versão,</i>
+
+113
+00:10:23,379 --> 00:10:26,548
+<i>o assassino de sua amante
+evaporou.</i>
+
+114
+00:10:26,632 --> 00:10:29,135
+- Isso mesmo.
+- Antes de sair, teve que entrar.
+
+115
+00:10:29,218 --> 00:10:32,638
+- Ele estava lá quando chegamos.
+- Mas teve que entrar de alguma forma.
+
+116
+00:10:32,972 --> 00:10:34,265
+Segundo os funcionários,
+
+117
+00:10:34,348 --> 00:10:36,934
+só vocês tinham acesso à chave.
+
+118
+00:10:37,018 --> 00:10:40,312
+Toda a cena do crime
+foi manipulada para me culpar
+
+119
+00:10:40,396 --> 00:10:43,607
+e dar à polícia a falsa teoria
+de que a Laura se apaixonou por mim
+
+120
+00:10:44,275 --> 00:10:47,028
+e, para proteger meu casamento,
+tentei suborná-la,
+
+121
+00:10:47,111 --> 00:10:48,112
+<i>então, a matei.</i>
+
+122
+00:10:50,781 --> 00:10:53,117
+<i>- Mas é uma armadilha...
+- De quem?</i>
+
+123
+00:10:53,200 --> 00:10:54,826
+<i>- Eu não sei.
+- Por quê?</i>
+
+124
+00:10:54,911 --> 00:10:55,912
+Eu não sei!
+
+125
+00:10:56,537 --> 00:10:59,373
+Só sei que minha esposa
+me deixou, levou minha filha
+
+126
+00:10:59,456 --> 00:11:01,042
+<i>e alguém está saindo impune.</i>
+
+127
+00:11:01,125 --> 00:11:02,960
+<i>Se não prestar atenção</i>
+
+128
+00:11:03,335 --> 00:11:06,505
+<i>e procurar respostas nos detalhes
+de sua vida, sabe o que haverá?</i>
+
+129
+00:11:06,588 --> 00:11:08,757
+<i>- O quê?
+- Mostrará que a polícia está certa.</i>
+
+130
+00:11:08,841 --> 00:11:11,385
+<i>Dizem que ninguém teve motivo</i>
+
+131
+00:11:11,468 --> 00:11:13,387
+<i>para destruí-lo assim.</i>
+
+132
+00:11:13,470 --> 00:11:17,266
+Sua versão parece
+uma invenção, Sr. Doria.
+
+133
+00:11:17,349 --> 00:11:19,643
+- Não é meu dever achar o culpado.
+- Não.
+
+134
+00:11:19,726 --> 00:11:22,188
+É o seu trabalho,
+o de Félix e o da polícia.
+
+135
+00:11:22,271 --> 00:11:24,231
+Eles devem pegar o culpado,
+e não eu.
+
+136
+00:11:24,315 --> 00:11:26,025
+Você é o culpado deles.
+
+137
+00:11:29,611 --> 00:11:32,448
+Sr. Doria,
+se estivesse no meu lugar
+
+138
+00:11:32,907 --> 00:11:35,743
+e eu lhe contasse sobre esse complô,
+o que pensaria?
+
+139
+00:11:35,827 --> 00:11:38,537
+Estou dizendo o que houve.
+Quer mais o quê?
+
+140
+00:11:39,580 --> 00:11:40,581
+Quer saber?
+
+141
+00:11:43,375 --> 00:11:47,213
+Nesses 30 anos de carreira,
+tive dois tipos de clientes:
+
+142
+00:11:48,214 --> 00:11:50,341
+os que aceitam sua condição
+e colaboram,
+
+143
+00:11:50,424 --> 00:11:52,802
+mesmo indo para onde não querem,
+
+144
+00:11:52,885 --> 00:11:54,971
+e aqueles que acham
+que são mais espertos
+
+145
+00:11:55,054 --> 00:11:58,140
+e querem que eu os livre
+sem se sujarem.
+
+146
+00:11:59,058 --> 00:12:00,893
+Você é o segundo tipo,
+
+147
+00:12:01,644 --> 00:12:03,437
+mas vou deixar bem claro:
+
+148
+00:12:11,403 --> 00:12:14,198
+não haverá salvação
+sem sofrimento,
+
+149
+00:12:14,616 --> 00:12:16,408
+e você não é
+mais esperto que eu.
+
+150
+00:12:24,626 --> 00:12:27,629
+JOVEM DESAPARECE EM BIERGE
+
+151
+00:12:29,839 --> 00:12:33,467
+Sabe o que aconteceria
+se a testemunha estiver envolvida?
+
+152
+00:12:33,551 --> 00:12:37,013
+OS VIZINHOS ACORDAM COM O
+DESAPARECIMENTO DE DANIEL GARRIDO
+
+153
+00:12:37,972 --> 00:12:40,683
+Já perdemos dez minutos,
+Sr. Doria.
+
+154
+00:12:41,392 --> 00:12:43,645
+Só vou perguntar uma vez:
+
+155
+00:12:46,147 --> 00:12:49,191
+Sabe quem era
+o homem no seu quarto?
+
+156
+00:12:49,275 --> 00:12:51,653
+JOVEM TÍMIDO E RESPONSÁVEL
+
+157
+00:12:56,032 --> 00:12:57,409
+Se quiser descobrir,
+
+158
+00:12:57,492 --> 00:13:01,496
+se quiser sair dessa
+sem ser preso,
+
+159
+00:13:02,414 --> 00:13:04,165
+não minta mais para mim.
+
+160
+00:13:20,097 --> 00:13:22,016
+<i>Tudo começou há três meses.</i>
+
+161
+00:13:30,858 --> 00:13:32,444
+- Querida.
+<i>- Como está Paris?</i>
+
+162
+00:13:34,696 --> 00:13:37,990
+- Cheia de parisienses antipáticos.
+- Como foi a reunião?
+
+163
+00:13:38,074 --> 00:13:40,410
+- Acho que não conseguiremos.
+<i>- Meu pai ligou.</i>
+
+164
+00:13:40,493 --> 00:13:43,371
+Ele nos chamou pra velejar no domingo.
+Eu confirmei.
+
+165
+00:13:43,455 --> 00:13:45,623
+Está com saudade de Alex.
+
+166
+00:13:45,707 --> 00:13:49,336
+É o papai. Diga "papai".
+
+167
+00:13:50,253 --> 00:13:52,339
+Sonia, tenho que ir
+ao aeroporto.
+
+168
+00:13:52,422 --> 00:13:55,550
+<i>Vai voltar para casa
+ou ficará em Barcelona?</i>
+
+169
+00:14:00,430 --> 00:14:01,806
+Eu vou para casa.
+
+170
+00:14:02,390 --> 00:14:04,934
+Me avise quando embarcar.
+Eu te amo.
+
+171
+00:14:05,017 --> 00:14:06,269
+Eu também.
+
+172
+00:14:14,861 --> 00:14:17,155
+- Quem era?
+- A Sonia.
+
+173
+00:14:17,864 --> 00:14:18,906
+Que horas são?
+
+174
+00:14:19,491 --> 00:14:21,493
+São quase 6h.
+Dormimos demais.
+
+175
+00:14:30,793 --> 00:14:31,878
+<i>Papai.</i>
+
+176
+00:14:36,133 --> 00:14:37,384
+<i>Papai!</i>
+
+177
+00:14:39,386 --> 00:14:40,512
+- Vamos?
+<i>- Papai.</i>
+
+178
+00:15:20,135 --> 00:15:23,138
+- Estávamos indo certo.
+- Por aqui é mais rápido.
+
+179
+00:15:23,972 --> 00:15:25,265
+Pode ir mais rápido?
+
+180
+00:15:27,475 --> 00:15:29,644
+- Quer que eu dirija?
+- Você, dirigir?
+
+181
+00:15:34,149 --> 00:15:35,400
+O quê?
+
+182
+00:15:36,944 --> 00:15:38,821
+Eu só minto.
+
+183
+00:15:41,990 --> 00:15:44,242
+Quando está comigo, não mente.
+
+184
+00:15:47,037 --> 00:15:49,289
+E minto o resto do dia
+porque estou com você.
+
+185
+00:15:50,749 --> 00:15:52,667
+Você fica feliz comigo...
+
+186
+00:15:53,418 --> 00:15:54,753
+não é?
+
+187
+00:15:55,879 --> 00:15:59,091
+Adoro o que sinto
+quando estamos juntos.
+
+188
+00:16:00,843 --> 00:16:03,261
+Lembra quando dissemos
+quando começamos isso?
+
+189
+00:16:03,929 --> 00:16:05,931
+Que nós dois
+queríamos viver isso.
+
+190
+00:16:08,767 --> 00:16:10,352
+E que, quando chegasse a hora...
+
+191
+00:16:10,435 --> 00:16:13,063
+- Adrián, quer deixar a Sonia?
+- Não.
+
+192
+00:16:13,146 --> 00:16:16,650
+E eu não quero deixar o Bruno,
+por isso é perfeito.
+
+193
+00:16:18,944 --> 00:16:21,071
+Mas não podemos ter tudo.
+
+194
+00:16:21,864 --> 00:16:23,866
+Sempre devemos sacrificar algo.
+
+195
+00:16:26,827 --> 00:16:28,286
+Estamos bem.
+
+196
+00:16:29,872 --> 00:16:30,873
+Está tudo bem.
+
+197
+00:16:30,914 --> 00:16:33,626
+Você sabe que isso é errado.
+
+198
+00:16:38,046 --> 00:16:39,172
+Está bem.
+
+199
+00:16:43,802 --> 00:16:44,887
+Eu sinto muito.
+
+200
+00:17:02,571 --> 00:17:03,906
+Você está bem?
+
+201
+00:17:05,741 --> 00:17:06,784
+Acho que sim.
+
+202
+00:17:39,232 --> 00:17:40,233
+Olá?
+
+203
+00:17:54,332 --> 00:17:55,541
+Você está bem?
+
+204
+00:18:14,268 --> 00:18:15,311
+Droga!
+
+205
+00:18:22,109 --> 00:18:24,153
+- O que está fazendo?
+- Chamando a polícia.
+
+206
+00:18:24,237 --> 00:18:26,239
+A culpa não foi nossa.
+Foi o cervo.
+
+207
+00:18:26,322 --> 00:18:29,074
+- Invadi a faixa dele.
+- Ele estava sem cinto e no celular!
+
+208
+00:18:29,158 --> 00:18:31,076
+Você me fez acelerar!
+
+209
+00:18:31,160 --> 00:18:34,955
+Você acabou de dizer
+que devemos sacrificar algo.
+
+210
+00:18:35,038 --> 00:18:36,874
+- O que está dizendo?
+- É ele ou nós.
+
+211
+00:18:36,957 --> 00:18:40,043
+Adrián, se chamar a polícia,
+estamos perdidos.
+
+212
+00:18:40,128 --> 00:18:41,920
+Preste atenção.
+
+213
+00:18:43,131 --> 00:18:44,382
+Ninguém viu nada.
+
+214
+00:18:45,466 --> 00:18:47,801
+Ninguém sabe nada.
+Nada mudou.
+
+215
+00:18:47,885 --> 00:18:49,512
+Sua vida, a Sonia,
+
+216
+00:18:49,928 --> 00:18:50,929
+a sua filha,
+
+217
+00:18:52,098 --> 00:18:53,224
+a sua carreira.
+
+218
+00:18:55,893 --> 00:18:57,853
+Quer perder tudo isso?
+
+219
+00:19:00,231 --> 00:19:01,232
+Quer perder?
+
+220
+00:19:10,491 --> 00:19:11,492
+Vamos embora.
+
+221
+00:19:27,967 --> 00:19:29,093
+O carro não liga.
+
+222
+00:19:30,428 --> 00:19:31,971
+Por favor, dê a partida.
+
+223
+00:19:32,055 --> 00:19:35,474
+Vamos, pelo amor de Deus!
+Vamos!
+
+224
+00:19:37,101 --> 00:19:39,395
+- Droga.
+- O que é?
+
+225
+00:19:39,478 --> 00:19:40,813
+Tem alguém vindo.
+
+226
+00:19:47,736 --> 00:19:48,947
+Saia do carro.
+
+227
+00:19:58,289 --> 00:19:59,958
+- O que faremos?
+- Deixe comigo.
+
+228
+00:20:00,041 --> 00:20:01,042
+Para onde vai?
+
+229
+00:20:18,267 --> 00:20:19,393
+Ele vai perceber.
+
+230
+00:20:20,144 --> 00:20:21,687
+O que está fazendo?
+
+231
+00:20:22,563 --> 00:20:24,190
+Ele se acidentou, certo?
+
+232
+00:20:24,273 --> 00:20:26,109
+- Nos acidentamos?
+- Me acompanhe.
+
+233
+00:20:31,865 --> 00:20:32,991
+Olá.
+
+234
+00:20:35,034 --> 00:20:37,453
+Precisam de ajuda?
+O que houve?
+
+235
+00:20:38,747 --> 00:20:42,834
+Eu desviei e bati nele,
+estamos trocando nossos dados.
+
+236
+00:20:42,917 --> 00:20:44,878
+Precisam de uma ambulância?
+
+237
+00:20:44,961 --> 00:20:47,797
+Não, estamos bem. Obrigada.
+
+238
+00:20:50,299 --> 00:20:51,300
+Tem certeza?
+
+239
+00:21:07,400 --> 00:21:09,861
+Deve ser a seguradora.
+Eu já volto.
+
+240
+00:21:14,949 --> 00:21:15,950
+Ei.
+
+241
+00:21:17,536 --> 00:21:18,620
+Foi só um susto?
+
+242
+00:21:19,203 --> 00:21:21,873
+Um cervo passou na frente
+e ainda estou tremendo.
+
+243
+00:21:27,170 --> 00:21:28,421
+Alô?
+
+244
+00:21:28,505 --> 00:21:30,965
+Sim, ligamos.
+
+245
+00:21:31,049 --> 00:21:32,592
+- Tem certeza?
+- Obrigado.
+
+246
+00:21:38,014 --> 00:21:39,558
+Quanto tempo levará?
+
+247
+00:21:47,691 --> 00:21:49,358
+Obrigada. Até mais.
+
+248
+00:21:52,779 --> 00:21:53,947
+Tudo sob controle.
+
+249
+00:21:54,573 --> 00:21:56,115
+Que bom que não houve nada!
+
+250
+00:21:56,741 --> 00:21:57,742
+Obrigada.
+
+251
+00:21:58,201 --> 00:21:59,744
+- Até mais.
+- Tchau.
+
+252
+00:22:03,623 --> 00:22:05,500
+- E se ele viu algo?
+- Ele não viu.
+
+253
+00:22:05,584 --> 00:22:07,001
+Ele parou! Deve ter visto...
+
+254
+00:22:07,085 --> 00:22:09,212
+- Vamos nos livrar dele.
+- Ficou louca?
+
+255
+00:22:09,296 --> 00:22:10,422
+Há uma testemunha.
+
+256
+00:22:10,505 --> 00:22:12,549
+Se o deixarmos aqui,
+saberá que mentimos.
+
+257
+00:22:14,217 --> 00:22:15,259
+Por favor.
+
+258
+00:22:29,691 --> 00:22:33,820
+É melhor eu ficar aqui
+e pedir ajuda.
+
+259
+00:22:33,903 --> 00:22:35,530
+Cuide do corpo.
+
+260
+00:22:37,156 --> 00:22:38,367
+O que farei com ele?
+
+261
+00:22:39,409 --> 00:22:40,577
+Eu não sei.
+
+262
+00:22:40,952 --> 00:22:44,122
+Mas temos que nos livrar
+de tudo.
+
+263
+00:22:45,832 --> 00:22:48,252
+Depois, se quiser,
+podemos parar de nos ver.
+
+264
+00:22:50,712 --> 00:22:51,880
+Acabou.
+
+265
+00:23:14,027 --> 00:23:15,529
+<i>Eu dirigi por uma hora.</i>
+
+266
+00:23:17,239 --> 00:23:21,035
+<i>Por que eu estava lá
+em vez de estar com a minha família?</i>
+
+267
+00:23:24,413 --> 00:23:26,123
+Se não estivesse com a Laura,
+
+268
+00:23:26,623 --> 00:23:30,085
+se não dormíssemos demais
+e não pegássemos o desvio...
+
+269
+00:23:33,880 --> 00:23:36,383
+aquele cervo
+não teria cruzado o meu caminho.
+
+270
+00:23:37,842 --> 00:23:38,885
+Nunca.
+
+271
+00:23:43,723 --> 00:23:45,059
+O que fez com o carro?
+
+272
+00:23:49,438 --> 00:23:50,605
+Eu o afundei.
+
+273
+00:23:53,692 --> 00:23:54,776
+Com o rapaz dentro?
+
+274
+00:26:22,216 --> 00:26:24,844
+A voz da Laura
+não saía da minha cabeça.
+
+275
+00:26:29,014 --> 00:26:32,477
+Foi um acidente.
+Não havia o que fazer por ele.
+
+276
+00:26:33,561 --> 00:26:35,313
+Ele não tinha futuro.
+Nós tínhamos.
+
+277
+00:26:36,105 --> 00:26:37,315
+Nós tínhamos.
+
+278
+00:26:45,781 --> 00:26:47,825
+Ele era como uma dessas manchas.
+
+279
+00:26:49,994 --> 00:26:53,498
+Eu tive que pensar assim
+para não enlouquecer.
+
+280
+00:26:57,835 --> 00:26:58,836
+E depois?
+
+281
+00:27:01,339 --> 00:27:04,967
+<i>Liguei para a Laura com um cartão
+pré-pago e disse onde estava.</i>
+
+282
+00:27:05,050 --> 00:27:08,053
+<i>Sempre usávamos
+para nos comunicar.</i>
+
+283
+00:27:21,066 --> 00:27:22,443
+Foi horrível.
+
+284
+00:27:24,069 --> 00:27:25,113
+O que houve?
+
+285
+00:27:25,780 --> 00:27:27,240
+<i>Oi, meu carro quebrou.</i>
+
+286
+00:27:27,323 --> 00:27:30,160
+Não, estou bem,
+mas preciso de reboque.
+
+287
+00:27:30,701 --> 00:27:31,786
+Sim.
+
+288
+00:27:32,370 --> 00:27:33,579
+Onde estou?
+
+289
+00:28:26,174 --> 00:28:27,717
+- Oi.
+- Está tudo bem?
+
+290
+00:28:28,301 --> 00:28:30,846
+Um cervo passou na frente,
+mas estou bem, obrigada.
+
+291
+00:28:31,387 --> 00:28:33,098
+Você tem sorte.
+Podia ter morrido.
+
+292
+00:28:33,932 --> 00:28:37,060
+Ele não liga.
+O motor não dá partida.
+
+293
+00:28:37,143 --> 00:28:40,480
+Liguei para a assistência,
+e estão ocupados.
+
+294
+00:28:40,563 --> 00:28:42,190
+Para tudo, há uma solução.
+
+295
+00:28:42,273 --> 00:28:44,650
+Conheço bem esses carros.
+São ótimas máquinas.
+
+296
+00:28:44,985 --> 00:28:46,027
+Que coincidência!
+
+297
+00:28:46,444 --> 00:28:48,738
+Fui engenheiro deles
+há muitos anos!
+
+298
+00:28:48,822 --> 00:28:50,656
+Tomás Garrido.
+Tenho uma oficina.
+
+299
+00:28:52,075 --> 00:28:53,159
+É um prazer.
+
+300
+00:28:54,410 --> 00:28:57,205
+- Preciso ir a Barcelona.
+- Tem uma lanterna?
+
+301
+00:29:02,502 --> 00:29:06,297
+O carro é da minha irmã.
+Ela me emprestou, não sei...
+
+302
+00:29:07,673 --> 00:29:10,385
+Tudo bem, eu pego a minha.
+
+303
+00:29:24,607 --> 00:29:26,860
+É o motor de partida.
+
+304
+00:29:29,112 --> 00:29:32,365
+O sensor deve estar bloqueado.
+
+305
+00:29:32,908 --> 00:29:35,160
+Se o impacto
+não danificou mais nada,
+
+306
+00:29:35,243 --> 00:29:37,871
+é só reconectar
+o módulo de controle e reiniciar.
+
+307
+00:29:39,289 --> 00:29:40,957
+O resto parece bem.
+
+308
+00:29:41,625 --> 00:29:45,962
+Se quiser, posso levar à minha casa
+e consertá-lo.
+
+309
+00:29:48,632 --> 00:29:50,425
+Se preferir,
+chamo um guincho aqui
+
+310
+00:29:50,508 --> 00:29:52,719
+e digo onde encontrá-la.
+
+311
+00:29:52,803 --> 00:29:54,763
+- Quanto tempo levaria?
+- O guincho?
+
+312
+00:29:54,846 --> 00:29:58,850
+- Não, para você consertar.
+- Algumas horas.
+
+313
+00:29:59,976 --> 00:30:00,977
+Certo.
+
+314
+00:30:07,108 --> 00:30:08,735
+Você mora em Barcelona?
+
+315
+00:30:10,571 --> 00:30:11,947
+O que a traz aqui?
+
+316
+00:30:12,447 --> 00:30:14,450
+Minha irmã mora em Barbastro.
+
+317
+00:30:15,826 --> 00:30:19,663
+Minha esposa trabalhou lá perto,
+na reserva natural.
+
+318
+00:30:19,746 --> 00:30:23,625
+Agora trabalha perto do Bierge,
+no vale, a 20 minutos de casa.
+
+319
+00:30:26,712 --> 00:30:29,297
+Ela ensinava Literatura,
+mas teve que parar.
+
+320
+00:30:30,173 --> 00:30:31,216
+Câncer.
+
+321
+00:30:33,009 --> 00:30:36,513
+Por isso nos mudamos para cá,
+para uma vida mais calma.
+
+322
+00:30:37,180 --> 00:30:38,474
+O que você faz?
+
+323
+00:30:47,315 --> 00:30:48,484
+Tenho uma livraria.
+
+324
+00:30:49,985 --> 00:30:51,445
+Eu amo ler.
+
+325
+00:30:52,654 --> 00:30:54,280
+Principalmente peças teatrais.
+
+326
+00:30:54,365 --> 00:30:58,619
+Adoro os clássicos.
+Minha esposa me apresentou a eles.
+
+327
+00:30:58,702 --> 00:31:01,622
+Nos conhecemos
+em um grupo teatral.
+
+328
+00:31:02,163 --> 00:31:04,458
+Ela era muito boa, mas eu...
+
+329
+00:31:05,208 --> 00:31:06,543
+só entrei pelas mulheres.
+
+330
+00:31:09,921 --> 00:31:11,757
+Você não me disse seu nome.
+
+331
+00:31:13,925 --> 00:31:15,802
+- Raquel.
+- Raquel.
+
+332
+00:31:18,138 --> 00:31:20,181
+Raquel,
+seu celular está tocando.
+
+333
+00:31:22,142 --> 00:31:23,477
+É verdade.
+
+334
+00:31:28,482 --> 00:31:29,566
+Oi, querido.
+
+335
+00:31:29,650 --> 00:31:30,651
+<i>Oi, Laura.</i>
+
+336
+00:31:30,692 --> 00:31:33,111
+<i>Como foi a sessão?
+A que hora volta?</i>
+
+337
+00:31:33,195 --> 00:31:35,322
+Eu já ia te ligar.
+Vou chegar tarde.
+
+338
+00:31:35,406 --> 00:31:36,282
+<i>Não se preocupe.</i>
+
+339
+00:31:36,365 --> 00:31:39,868
+Eu ia levar trabalhos para casa.
+Não me concentro aqui.
+
+340
+00:31:39,951 --> 00:31:40,952
+Há interrupções.
+
+341
+00:31:41,036 --> 00:31:43,247
+<i>Por que chegará tarde?</i>
+
+342
+00:31:43,330 --> 00:31:46,833
+Tive um imprevisto
+com o motor do carro.
+
+343
+00:31:46,917 --> 00:31:49,420
+<i>Me avise quando embarcar.</i>
+
+344
+00:31:49,503 --> 00:31:51,046
+Não precisa me buscar.
+
+345
+00:31:51,130 --> 00:31:54,508
+Eu vou jantar aqui e continuar trabalhando
+até a hora de ir buscá-la.
+
+346
+00:31:54,591 --> 00:31:57,761
+- Não vá, Bruno, por favor.
+- Laura, você está bem?
+
+347
+00:31:57,844 --> 00:31:59,055
+<i>Não, desculpe.</i>
+
+348
+00:31:59,138 --> 00:32:01,182
+Eu estou bem.
+
+349
+00:32:01,265 --> 00:32:02,766
+Desculpe não ter ligado antes.
+
+350
+00:32:02,849 --> 00:32:06,228
+Não se preocupe.
+Te vejo em casa. Te amo.
+
+351
+00:32:06,312 --> 00:32:07,729
+Eu também te amo.
+
+352
+00:32:17,698 --> 00:32:18,949
+- Oi.
+- Oi, querida.
+
+353
+00:32:20,034 --> 00:32:21,327
+Elvira, minha esposa.
+
+354
+00:32:21,410 --> 00:32:24,705
+Essa é a Raquel. Ela atropelou um cervo
+e travou o motor de arranque.
+
+355
+00:32:24,788 --> 00:32:25,789
+Eu vou consertar.
+
+356
+00:32:25,872 --> 00:32:27,833
+- É um prazer.
+- Igualmente.
+
+357
+00:32:27,916 --> 00:32:30,586
+Está ferida?
+Tem sangue na sua mão.
+
+358
+00:32:33,255 --> 00:32:35,091
+- Deve ser do cervo.
+- Do cervo?
+
+359
+00:32:35,174 --> 00:32:37,718
+- Um corte pode infeccionar.
+- Não estou ferida.
+
+360
+00:32:40,096 --> 00:32:41,680
+Desculpe, estou com pressa.
+
+361
+00:32:41,763 --> 00:32:44,266
+Então vamos direto ao ponto
+e mãos à obra.
+
+362
+00:32:44,350 --> 00:32:46,227
+- Quer café?
+- Sim, por favor.
+
+363
+00:32:46,727 --> 00:32:49,105
+- Entre.
+- Eu posso esperar aqui.
+
+364
+00:32:49,188 --> 00:32:51,273
+Vai ficar nesse frio?
+Entre, mulher!
+
+365
+00:32:51,357 --> 00:32:52,608
+Pode limpar isso.
+
+366
+00:32:53,400 --> 00:32:54,401
+Venha.
+
+367
+00:33:18,342 --> 00:33:19,385
+Está tudo bem?
+
+368
+00:33:20,386 --> 00:33:21,553
+Sim, obrigada.
+
+369
+00:33:21,637 --> 00:33:23,680
+Vou levar café para o Tomás
+e já volto.
+
+370
+00:33:24,265 --> 00:33:25,641
+Tudo bem. Obrigada.
+
+371
+00:34:24,200 --> 00:34:27,328
+Também levamos uns sustos
+quando viemos para cá.
+
+372
+00:34:27,745 --> 00:34:31,373
+- Não quer comer nada?
+- Não, obrigada.
+
+373
+00:34:32,124 --> 00:34:35,336
+É um bom lugar para morar,
+mas precisa se adaptar.
+
+374
+00:34:37,088 --> 00:34:38,089
+Filhos?
+
+375
+00:34:40,007 --> 00:34:42,051
+Tem filhos? Vejo que...
+
+376
+00:34:42,134 --> 00:34:43,720
+Não, não.
+
+377
+00:34:44,220 --> 00:34:45,597
+Meu esposo quer, mas eu...
+
+378
+00:34:45,680 --> 00:34:49,476
+Eu também quero,
+mas trabalho muito. Não sei...
+
+379
+00:34:49,559 --> 00:34:50,977
+Não deixe isso te afetar.
+
+380
+00:34:51,853 --> 00:34:55,022
+Eu tive o Dani, Daniel...
+ele não gosta de "Dani"...
+
+381
+00:34:55,106 --> 00:34:56,190
+com quase 40 anos.
+
+382
+00:34:56,273 --> 00:34:58,109
+Um filho muda nossa vida.
+
+383
+00:35:00,487 --> 00:35:02,154
+Mas é recompensador.
+Com licença.
+
+384
+00:35:05,450 --> 00:35:08,370
+Veja que lindo! Ele já vai chegar.
+Você o conhece?
+
+385
+00:35:11,080 --> 00:35:13,124
+Clara? Olá.
+
+386
+00:35:14,334 --> 00:35:16,544
+Estou esperando-o.
+Ele saiu com os meninos.
+
+387
+00:35:18,755 --> 00:35:19,881
+O quê?
+
+388
+00:35:21,383 --> 00:35:22,759
+Você está com os garotos?
+
+389
+00:35:25,011 --> 00:35:26,471
+E o Daniel, não está?
+
+390
+00:35:28,681 --> 00:35:31,601
+Que estranho!
+Ele saiu às 18h.
+
+391
+00:35:35,438 --> 00:35:36,439
+Sim.
+
+392
+00:35:37,189 --> 00:35:39,984
+Ele voltou do trabalho,
+se trocou e saiu.
+
+393
+00:35:43,321 --> 00:35:44,155
+Pronto.
+
+394
+00:35:44,239 --> 00:35:47,784
+Tudo certo.
+Verifiquei e está funcionando.
+
+395
+00:35:47,867 --> 00:35:51,746
+Vai jantar com a gente?
+Minha esposa te convenceu.
+
+396
+00:35:52,121 --> 00:35:53,122
+Tudo bem.
+
+397
+00:35:53,165 --> 00:35:55,750
+Vou pegar meu casaco.
+Perdão, estou atrasada.
+
+398
+00:35:55,833 --> 00:35:59,128
+Tudo bem, Clara, eu já te ligo.
+
+399
+00:36:02,006 --> 00:36:06,093
+A Clara disse que os meninos achavam
+que o Daniel estivesse com ela.
+
+400
+00:36:07,929 --> 00:36:11,224
+- Como assim?
+- Ele deveria estar com os amigos.
+
+401
+00:36:11,308 --> 00:36:14,769
+Mas ninguém sabe de nada.
+Ele te disse algo?
+
+402
+00:36:15,353 --> 00:36:18,523
+Não fique nervosa.
+Talvez tivesse outros planos.
+
+403
+00:36:18,606 --> 00:36:21,359
+Tomás, ele me disse
+que sairia com os amigos.
+
+404
+00:36:21,443 --> 00:36:24,654
+- Talvez não tenha dito a verdade.
+- Por quê?
+
+405
+00:36:25,822 --> 00:36:27,657
+E se conheceu outra garota?
+
+406
+00:36:28,533 --> 00:36:31,328
+Não, Tomás, não.
+Isso tudo está muito estranho.
+
+407
+00:36:31,703 --> 00:36:33,038
+Vou ligar para ele.
+
+408
+00:36:37,667 --> 00:36:39,877
+Deixe-o em paz.
+Ele já é crescido.
+
+409
+00:36:47,927 --> 00:36:50,263
+- Está ouvindo?
+- Estou.
+
+410
+00:36:50,347 --> 00:36:51,348
+MÃE
+
+411
+00:36:59,647 --> 00:37:01,774
+- Você ouviu um celular?
+- Não.
+
+412
+00:37:03,235 --> 00:37:04,736
+Vou ligar de novo.
+
+413
+00:37:06,613 --> 00:37:10,742
+Meu filho não está com os amigos
+e minha esposa está imaginando coisas.
+
+414
+00:37:29,970 --> 00:37:31,179
+Aqui está.
+
+415
+00:37:32,764 --> 00:37:36,184
+Que estranho, o Daniel
+nunca sai sem o celular.
+
+416
+00:37:36,769 --> 00:37:38,395
+Ele deve ter deixado cair.
+
+417
+00:37:38,937 --> 00:37:40,647
+Diga a ela, Raquel.
+
+418
+00:37:41,439 --> 00:37:43,400
+Eu tenho que ir.
+Estou atrasada.
+
+419
+00:38:06,214 --> 00:38:08,050
+Ninguém tem notícias do Daniel.
+
+420
+00:38:25,275 --> 00:38:26,568
+O que faremos?
+
+421
+00:38:29,487 --> 00:38:31,073
+O que devemos fazer?
+
+422
+00:38:34,577 --> 00:38:35,994
+Tive uma ideia.
+
+423
+00:38:39,915 --> 00:38:41,458
+Mas estou em suas mãos.
+
+424
+00:38:47,005 --> 00:38:48,381
+Depende de você.
+
+425
+00:38:53,345 --> 00:38:54,888
+<i>Seu olhar me assustou.</i>
+
+426
+00:38:54,972 --> 00:38:56,306
+FERRO-VELHO
+
+427
+00:38:57,600 --> 00:39:00,268
+<i>Me livrei do meu carro
+sem deixar rastros.</i>
+
+428
+00:39:15,868 --> 00:39:19,913
+É na frente
+de um ferro-velho.
+
+429
+00:39:27,129 --> 00:39:31,467
+<i>Depois, me despedi dela.
+Era a última vez que nos veríamos.</i>
+
+430
+00:39:39,767 --> 00:39:41,769
+<i>Denunciei o roubo do meu carro</i>
+
+431
+00:39:41,852 --> 00:39:44,313
+<i>fingindo que acabei
+de voltar de Paris.</i>
+
+432
+00:39:46,482 --> 00:39:47,691
+<i>Disse o mesmo à Sonia.</i>
+
+433
+00:39:48,442 --> 00:39:51,862
+<i>Disse que passaria a noite
+na cidade.</i>
+
+434
+00:39:51,945 --> 00:39:53,071
+Mas você está bem?
+
+435
+00:39:53,155 --> 00:39:54,532
+<i>Passei a noite acordado.</i>
+
+436
+00:39:55,533 --> 00:39:57,951
+<i>Me senti uma fraude,
+um impostor.</i>
+
+437
+00:39:59,077 --> 00:40:02,498
+<i>Levei dez anos
+para chegar ao topo,</i>
+
+438
+00:40:03,541 --> 00:40:06,919
+<i>mas poderia perder tudo
+num piscar de olhos.</i>
+
+439
+00:40:09,588 --> 00:40:11,257
+<i>No dia seguinte, fui trabalhar.</i>
+
+440
+00:40:12,300 --> 00:40:16,011
+<i>Estávamos preparando a entrada
+da Global Go Tech Media na Ásia</i>
+
+441
+00:40:16,094 --> 00:40:18,431
+<i>e seria estranho
+se eu não estivesse lá.</i>
+
+442
+00:40:20,140 --> 00:40:22,643
+<i>Eu tentei fechar acordo
+durante um ano</i>
+
+443
+00:40:23,519 --> 00:40:26,480
+<i>e agora que estava conseguindo,
+não podia estragar tudo.</i>
+
+444
+00:40:33,196 --> 00:40:35,989
+<i>Antes de ir para casa,
+tentei organizar meus pensamentos</i>
+
+445
+00:40:36,073 --> 00:40:37,950
+<i>pra encarar
+minha esposa e filha.</i>
+
+446
+00:40:41,412 --> 00:40:42,913
+<i>Precisava vestir uma máscara</i>
+
+447
+00:40:42,996 --> 00:40:45,791
+<i>pra esconder o homem
+que eu não era, mas que voltaria a ser.</i>
+
+448
+00:40:51,880 --> 00:40:54,133
+<i>E quando pensei
+que tivesse conseguido...</i>
+
+449
+00:40:54,717 --> 00:40:55,801
+<i>o inevitável aconteceu.</i>
+
+450
+00:40:55,884 --> 00:41:02,308
+<i>Daniel Garrido, de 23 anos,
+saiu do trabalho às 18h.</i>
+
+451
+00:41:02,391 --> 00:41:06,687
+<i>Ele foi para casa e,
+minutos depois, saiu novamente.</i>
+
+452
+00:41:07,271 --> 00:41:10,774
+<i>Seus pais o esperaram para o jantar,
+mas não tiveram notícias dele.</i>
+
+453
+00:41:10,858 --> 00:41:13,236
+<i>Família e amigos
+se uniram para procurá-lo.</i>
+
+454
+00:41:13,319 --> 00:41:15,404
+<i>Acreditam que ele tenha
+se acidentado</i>
+
+455
+00:41:15,488 --> 00:41:19,408
+<i>e que seu carro esteja
+em algum barranco.</i>
+
+456
+00:41:20,826 --> 00:41:23,412
+<i>O rosto do pai
+ficou gravado na minha mente.</i>
+
+457
+00:41:24,622 --> 00:41:26,332
+Eu me vi na dor dele.
+
+458
+00:41:30,378 --> 00:41:33,506
+Jurei que seria o último erro
+que cometeria na vida.
+
+459
+00:41:37,010 --> 00:41:38,677
+- Com licença.
+- Atenda.
+
+460
+00:41:42,806 --> 00:41:43,892
+Diga.
+
+461
+00:41:47,520 --> 00:41:48,687
+Tem certeza?
+
+462
+00:41:52,441 --> 00:41:54,110
+Me avise se tiver notícia.
+
+463
+00:42:00,616 --> 00:42:02,952
+A testemunha está no tribunal.
+
+464
+00:42:03,702 --> 00:42:06,915
+Sua identidade é desconhecida,
+mas o juiz está a caminho.
+
+465
+00:42:10,251 --> 00:42:11,627
+Preciso falar com o Félix.
+
+466
+00:42:15,464 --> 00:42:17,300
+- O que é?
+<i>- Félix, onde está?</i>
+
+467
+00:42:17,383 --> 00:42:19,385
+Desembarcando
+no aeroporto de Bilbao.
+
+468
+00:42:19,468 --> 00:42:22,471
+<i>Goodman está aqui
+porque o promotor se adiantou.</i>
+
+469
+00:42:22,555 --> 00:42:24,891
+- Como assim?
+<i>- Quando você volta?</i>
+
+470
+00:42:24,974 --> 00:42:26,893
+No último voo de hoje.
+Passe para ela.
+
+471
+00:42:27,936 --> 00:42:29,145
+Ele quer falar com você.
+
+472
+00:42:32,481 --> 00:42:34,442
+- Félix.
+<i>- O que está havendo?</i>
+
+473
+00:42:34,525 --> 00:42:35,902
+Uma testemunha inesperada.
+
+474
+00:42:35,985 --> 00:42:38,487
+<i>- Acabou de chegar no tribunal.</i>
+- Virginia?
+
+475
+00:42:38,571 --> 00:42:41,407
+<i>O Sr. Doria provavelmente
+terá que depor hoje.</i>
+
+476
+00:42:41,490 --> 00:42:44,160
+Me mande os detalhes por escrito,
+mas está em suas mãos.
+
+477
+00:42:44,243 --> 00:42:47,163
+<i>Estou atrás de algo grande
+que seja crucial para o caso.</i>
+
+478
+00:42:47,246 --> 00:42:48,832
+<i>Eu retorno em algumas horas.</i>
+
+479
+00:42:48,915 --> 00:42:50,750
+Tudo bem. Obrigada, Félix.
+
+480
+00:43:03,262 --> 00:43:04,430
+O que ele disse?
+
+481
+00:43:08,727 --> 00:43:10,937
+Está tudo sob controle,
+não se preocupe.
+
+482
+00:43:11,521 --> 00:43:14,107
+Ótimo. Vamos prosseguir.
+Onde estávamos?
+
+483
+00:43:15,692 --> 00:43:16,985
+Foquei na minha vida.
+
+484
+00:43:20,489 --> 00:43:21,865
+<i>Mas a polícia chegou.</i>
+
+485
+00:43:22,406 --> 00:43:24,033
+Sr. Doria, você tem visita.
+
+486
+00:43:24,784 --> 00:43:25,827
+É a polícia.
+
+487
+00:43:27,621 --> 00:43:29,247
+<i>Não está em nenhum arquivo.</i>
+
+488
+00:43:29,330 --> 00:43:30,624
+Como sabe disso?
+
+489
+00:43:31,415 --> 00:43:33,502
+Os detalhes, Sr. Doria.
+
+490
+00:43:44,804 --> 00:43:48,933
+A polícia de Bierge
+encontrou restos de duas colisões
+
+491
+00:43:49,017 --> 00:43:52,479
+a 5 km de onde morava
+o rapaz desaparecido.
+
+492
+00:43:52,562 --> 00:43:56,065
+Mas não há registro
+de nenhum dos acidentes.
+
+493
+00:43:57,025 --> 00:44:01,905
+Estranhamente, o pai do rapaz
+resgatou uma mulher que se acidentou
+
+494
+00:44:01,988 --> 00:44:05,450
+naquele local no mesmo dia
+em que seu filho desapareceu.
+
+495
+00:44:14,626 --> 00:44:15,627
+Você a conhece?
+
+496
+00:44:30,099 --> 00:44:31,142
+O que é isso?
+
+497
+00:44:31,226 --> 00:44:34,979
+Por que o meu cliente se importaria
+com o que houve em Bierge
+
+498
+00:44:35,063 --> 00:44:36,523
+sendo que estava em Paris?
+
+499
+00:44:36,606 --> 00:44:40,485
+Ela disse ao pai do rapaz
+que havia atropelado um cervo.
+
+500
+00:44:41,320 --> 00:44:44,573
+Mas os restos
+de um segundo veículo na estrada
+
+501
+00:44:44,656 --> 00:44:47,617
+nos levam à teoria
+de que aconteceu algo,
+
+502
+00:44:47,701 --> 00:44:50,078
+e ela ocultou
+com a ajuda de alguém.
+
+503
+00:44:50,162 --> 00:44:51,163
+E?
+
+504
+00:44:51,580 --> 00:44:54,499
+A placa do veículo
+que a mulher conduzia
+
+505
+00:44:54,583 --> 00:44:57,919
+pertence à BMW do seu cliente.
+
+506
+00:44:58,002 --> 00:45:01,047
+Ele foi roubado do estacionamento
+naquele fim de semana.
+
+507
+00:45:01,590 --> 00:45:03,675
+Está insinuando
+que o Doria está mentindo
+
+508
+00:45:03,758 --> 00:45:06,720
+para ocultar um acidente
+do qual o senhor não tem provas?
+
+509
+00:45:06,803 --> 00:45:07,846
+Segundo a denúncia,
+
+510
+00:45:07,929 --> 00:45:11,766
+não mostrou o cartão que prove
+que o carro estava estacionado lá.
+
+511
+00:45:11,850 --> 00:45:13,017
+Eu o perdi.
+
+512
+00:45:13,560 --> 00:45:17,231
+Costuma ficar na minha carteira,
+mas devo ter deixado cair da jaqueta.
+
+513
+00:45:17,314 --> 00:45:20,400
+Eu sei. Disse no depoimento.
+Muito conveniente.
+
+514
+00:45:20,484 --> 00:45:25,280
+Espere. O pai do desaparecido
+informou a placa do carro?
+
+515
+00:45:26,615 --> 00:45:30,119
+Isso sim é conveniente
+e não corroborado.
+
+516
+00:45:30,202 --> 00:45:32,954
+É o que tentamos fazer:
+corroborar.
+
+517
+00:45:33,038 --> 00:45:36,333
+Não devia ter incomodado meu cliente
+para corroborar sua viagem.
+
+518
+00:45:36,791 --> 00:45:39,669
+Só tinha que pedir os detalhes
+à secretária dele.
+
+519
+00:45:40,462 --> 00:45:41,546
+Já terminamos?
+
+520
+00:45:48,053 --> 00:45:49,346
+Por que está tão nervoso?
+
+521
+00:45:53,475 --> 00:45:55,685
+Me diga ou não poderei ajudá-lo.
+
+522
+00:45:56,228 --> 00:45:59,106
+Você tem algo a ver
+com o desaparecimento do rapaz?
+
+523
+00:46:00,399 --> 00:46:01,608
+Então?
+
+524
+00:46:06,947 --> 00:46:08,032
+Eu não estive em Paris.
+
+525
+00:46:11,743 --> 00:46:13,203
+Estava com uma mulher.
+
+526
+00:46:14,704 --> 00:46:19,084
+Então a Eva não pode provar à polícia
+que você esteve em Paris?
+
+527
+00:46:19,751 --> 00:46:22,754
+Pode fazê-los acreditar que estive?
+Pode arranjar um álibi?
+
+528
+00:46:22,838 --> 00:46:25,257
+- Eu tenho escolha?
+- Foi um erro, Félix.
+
+529
+00:46:26,716 --> 00:46:31,346
+Não posso deixar essa desgraça
+estragar minha vida com a Álex e a Sonia.
+
+530
+00:46:32,556 --> 00:46:36,518
+Da próxima vez que me ligar,
+comece me contando tudo.
+
+531
+00:46:41,481 --> 00:46:42,649
+Preciso de outra coisa.
+
+532
+00:46:45,903 --> 00:46:46,904
+O quê?
+
+533
+00:46:48,238 --> 00:46:50,615
+Não quero que o BO me assombre.
+
+534
+00:46:53,118 --> 00:46:54,411
+Eu cuido disso.
+
+535
+00:46:55,329 --> 00:46:59,166
+<i>Dias depois, a polícia comprovou
+que estive em Paris e esqueceu isso.</i>
+
+536
+00:46:59,249 --> 00:47:02,795
+Félix cumpriu a primeira parte
+do acordo, mas não a segunda.
+
+537
+00:47:03,378 --> 00:47:07,507
+Uma das minhas fontes encontrou
+seu nome nos registros da polícia,
+
+538
+00:47:07,591 --> 00:47:10,177
+receio que o promotor
+tenha feito o mesmo.
+
+539
+00:47:15,766 --> 00:47:18,143
+Eu jamais iria tão longe
+se não fosse pela Laura.
+
+540
+00:47:18,227 --> 00:47:21,814
+O que ela fez quando você disse
+que a polícia pediu para identificá-la?
+
+541
+00:47:21,897 --> 00:47:23,023
+Eu não contei para ela.
+
+542
+00:47:25,150 --> 00:47:26,819
+Eu sei que a contatou.
+
+543
+00:47:27,402 --> 00:47:31,616
+Os ricos querem permanecer ricos
+protegendo seus imóveis.
+
+544
+00:47:31,699 --> 00:47:36,537
+<i>Onde houver pessoas ricas,
+haverá câmeras de segurança.</i>
+
+545
+00:47:36,621 --> 00:47:40,249
+Como fez a polícia pensar
+que o Daniel Garrido estava fugindo?
+
+546
+00:47:40,332 --> 00:47:43,335
+- De onde está ligando?
+- De um telefone público.
+
+547
+00:47:43,418 --> 00:47:46,756
+Não é muito sábio
+falar em um lugar vigiado.
+
+548
+00:47:46,839 --> 00:47:49,091
+Meu nervosismo me traiu.
+
+549
+00:47:50,968 --> 00:47:53,596
+Mas não sou burro
+a ponto de falar com a Laura
+
+550
+00:47:53,679 --> 00:47:55,931
+depois que a polícia
+tentou me ligar a ela.
+
+551
+00:47:56,891 --> 00:47:58,559
+Quando e por quê?
+
+552
+00:48:01,479 --> 00:48:03,147
+Quando vi até onde ela iria.
+
+553
+00:48:06,442 --> 00:48:08,944
+<i>Laura nunca parava
+quando sabia o que queria.</i>
+
+554
+00:48:10,237 --> 00:48:12,031
+- Olá.
+- Diga "oi" ao vovô.
+
+555
+00:48:12,114 --> 00:48:13,866
+<i>Ela fez isso
+quando nos conhecemos.</i>
+
+556
+00:48:13,949 --> 00:48:14,950
+Posso pagar?
+
+557
+00:48:16,285 --> 00:48:18,913
+<i>Estava fazendo isso de novo
+para esquecer isso.</i>
+
+558
+00:48:18,996 --> 00:48:19,872
+Aqui está.
+
+559
+00:48:19,955 --> 00:48:23,250
+<i>A polícia descartou
+que o Daniel Garrido,</i>
+
+560
+00:48:23,334 --> 00:48:27,713
+<i>o rapaz desaparecido há três semanas,
+sofreu um acidente.</i>
+
+561
+00:48:27,797 --> 00:48:29,590
+<i>Segundo as últimas
+investigações,</i>
+
+562
+00:48:29,674 --> 00:48:34,261
+<i>ele pode ter forjado
+o próprio sumiço para fugir.</i>
+
+563
+00:48:34,345 --> 00:48:36,806
+<i>Fontes na polícia informaram</i>
+
+564
+00:48:36,889 --> 00:48:42,102
+<i>que ele roubou 50 mil euros
+do banco onde trabalhava.</i>
+
+565
+00:48:42,186 --> 00:48:45,898
+<i>O Daniel desviou pequenas quantias
+das contas dos clientes...</i>
+
+566
+00:48:45,981 --> 00:48:47,817
+Tudo pronto para irmos.
+
+567
+00:48:49,444 --> 00:48:52,530
+Acabaram de me chamar
+para uma reunião com o Sr. Lee.
+
+568
+00:48:52,613 --> 00:48:54,740
+<i>- De onde está ligando?</i>
+- De um orelhão.
+
+569
+00:48:57,577 --> 00:49:00,413
+Vejo você em quatro horas
+no bar em frente ao ferro-velho.
+
+570
+00:49:12,342 --> 00:49:13,551
+O que é isso?
+
+571
+00:49:15,178 --> 00:49:16,512
+A carteira do rapaz.
+
+572
+00:49:18,556 --> 00:49:20,433
+Eu peguei antes de pôr
+no porta-malas.
+
+573
+00:49:23,936 --> 00:49:26,189
+Achei que fosse útil. E foi.
+
+574
+00:49:28,483 --> 00:49:31,486
+Após o acidente, o Bruno
+trabalhou em casa por alguns dias.
+
+575
+00:49:33,071 --> 00:49:36,949
+<i>Aproveitei uma manhã
+para acabar logo com isso.</i>
+
+576
+00:50:26,416 --> 00:50:30,670
+ACESSO DE FUNCIONÁRIOS
+
+577
+00:50:36,426 --> 00:50:38,804
+TRANSFERÊNCIA REALIZADA COM SUCESSO
+2.500 EUROS
+
+578
+00:50:40,430 --> 00:50:42,098
+<i>O que está me dizendo?</i>
+
+579
+00:50:42,182 --> 00:50:46,561
+<i>Além de fotógrafa, sua amante
+era especialista em sistemas bancários?</i>
+
+580
+00:50:46,644 --> 00:50:48,855
+Acha que os juízes são idiotas?
+
+581
+00:50:48,939 --> 00:50:50,606
+A Laura conheceu
+o marido no banco.
+
+582
+00:50:50,690 --> 00:50:55,195
+A tecnologia avança a cada dia,
+você sabe bem disso.
+
+583
+00:50:55,278 --> 00:50:58,281
+Sua amante se atualizava
+enquanto era fotógrafa?
+
+584
+00:50:58,364 --> 00:50:59,615
+O marido pode ter ajudado.
+
+585
+00:51:00,366 --> 00:51:03,203
+Talvez tenha contado a verdade,
+mas me deixou fora disso.
+
+586
+00:51:03,286 --> 00:51:04,495
+SIMULAÇÃO LAURA E BRUNO
+
+587
+00:51:04,579 --> 00:51:06,247
+Você não conhecia a Laura.
+
+588
+00:51:07,207 --> 00:51:08,792
+Ela tinha o poder de sedução.
+
+589
+00:51:08,875 --> 00:51:11,211
+A perfeita <i>femme fatale.</i>
+
+590
+00:51:11,962 --> 00:51:13,672
+Você sabe o que fez?
+
+591
+00:51:15,006 --> 00:51:16,257
+O que você acha?
+
+592
+00:51:17,968 --> 00:51:21,346
+Se tivesse deixado rastros,
+não estaríamos aqui.
+
+593
+00:51:24,099 --> 00:51:25,183
+O quê?
+
+594
+00:51:25,809 --> 00:51:28,061
+Não me olhe assim.
+
+595
+00:51:28,519 --> 00:51:30,814
+Você sabe que fizemos
+a coisa certa.
+
+596
+00:51:30,897 --> 00:51:32,315
+Não, não fizemos.
+
+597
+00:51:33,692 --> 00:51:34,693
+Adrián,
+
+598
+00:51:35,861 --> 00:51:38,989
+se me pegarem,
+vão pegá-lo também.
+
+599
+00:51:39,072 --> 00:51:40,657
+A polícia veio me visitar.
+
+600
+00:51:41,950 --> 00:51:42,951
+Não me ameace.
+
+601
+00:51:44,995 --> 00:51:47,998
+E você, não me ameace.
+
+602
+00:51:49,457 --> 00:51:51,877
+Tenho fotos que provam
+que não estava em Paris.
+
+603
+00:52:34,335 --> 00:52:36,838
+<i>Os dias seguintes
+não foram muito tranquilos.</i>
+
+604
+00:52:38,131 --> 00:52:42,553
+<i>Minha empresa entrou no mercado asiático
+com a maior empresa de tecnologia.</i>
+
+605
+00:52:43,720 --> 00:52:46,264
+<i>Recebi o prêmio
+de Empresário do Ano.</i>
+
+606
+00:52:47,641 --> 00:52:49,100
+<i>Eu estava na mídia.</i>
+
+607
+00:52:55,190 --> 00:52:57,067
+Sr. Doria, como se sente?
+
+608
+00:52:58,527 --> 00:52:59,861
+Muito feliz.
+
+609
+00:52:59,945 --> 00:53:01,697
+<i>Eu era o homem do momento.</i>
+
+610
+00:53:02,781 --> 00:53:06,910
+<i>Um exemplo para jovens como eu,
+vencedores que vieram do nada.</i>
+
+611
+00:53:07,619 --> 00:53:09,330
+<i>Mas era tudo fachada.</i>
+
+612
+00:53:10,121 --> 00:53:13,292
+<i>Eu estava podre por dentro
+há um tempo.</i>
+
+613
+00:53:21,383 --> 00:53:22,843
+Porque eu a ensinei.
+
+614
+00:53:22,926 --> 00:53:24,511
+- A fazer o quê?
+- A dizer "papai".
+
+615
+00:53:24,595 --> 00:53:26,222
+Ela está com os pais...
+
+616
+00:53:26,305 --> 00:53:29,391
+Sr. Doria, um repórter insiste
+em conversar com você.
+
+617
+00:53:29,475 --> 00:53:32,018
+- Disse que o conhece.
+- Sim.
+
+618
+00:53:32,102 --> 00:53:34,730
+- Por favor.
+- Com licença.
+
+619
+00:53:34,813 --> 00:53:36,315
+Tome cuidado com isso.
+
+620
+00:53:38,108 --> 00:53:39,360
+Até mais.
+
+621
+00:53:44,115 --> 00:53:46,450
+- À direita, por favor.
+- Obrigado.
+
+622
+00:54:01,798 --> 00:54:05,761
+Sr. Doria? Desculpe incomodar
+nessa noite tão especial.
+
+623
+00:54:09,265 --> 00:54:10,349
+Sabe quem eu sou?
+
+624
+00:54:11,767 --> 00:54:13,269
+REDATOR-CHEFE - ECONOMIA
+
+625
+00:54:13,352 --> 00:54:15,604
+Sei que não é o Iván Souto.
+
+626
+00:54:23,862 --> 00:54:24,947
+Por favor.
+
+627
+00:54:26,157 --> 00:54:27,908
+Sou o pai do Daniel Garrido.
+
+628
+00:54:27,992 --> 00:54:30,702
+Não sei se viu
+o noticiário, mas...
+
+629
+00:54:31,412 --> 00:54:35,207
+dizem que ele fugiu.
+Tenho algumas perguntas,
+
+630
+00:54:35,291 --> 00:54:36,542
+se você permitir.
+
+631
+00:54:38,377 --> 00:54:41,964
+Eu só sei o que li nos jornais.
+Sinto muito.
+
+632
+00:54:42,464 --> 00:54:43,966
+Meu filho não é ladrão...
+
+633
+00:54:45,217 --> 00:54:46,886
+e não está foragido.
+
+634
+00:54:47,636 --> 00:54:49,013
+Meu filho está morto.
+
+635
+00:54:49,638 --> 00:54:52,141
+Alguém está rindo de mim
+e da minha mulher.
+
+636
+00:54:54,226 --> 00:54:57,521
+Quando a polícia conversou com você,
+eu e a Elvira estávamos lá.
+
+637
+00:55:01,358 --> 00:55:02,526
+<i>Eu sei o que vi.</i>
+
+638
+00:55:03,152 --> 00:55:04,987
+Nosso filho usou o celular
+
+639
+00:55:05,071 --> 00:55:08,407
+antes do Tomás resgatar
+aquela mulher na estrada,
+
+640
+00:55:08,908 --> 00:55:11,994
+então, é impossível
+que tenha deixado em casa,
+
+641
+00:55:12,078 --> 00:55:13,996
+a não ser que ela tenha levado.
+
+642
+00:55:14,621 --> 00:55:15,998
+E isso só aconteceria
+
+643
+00:55:16,082 --> 00:55:19,585
+se ela o encontrou
+em algum momento.
+
+644
+00:55:19,668 --> 00:55:22,296
+E ela não estava sozinha.
+Havia alguém com ela.
+
+645
+00:55:22,379 --> 00:55:23,715
+Como tem tanta certeza?
+
+646
+00:55:23,798 --> 00:55:28,635
+Eu já disse. Ela ajustou
+o assento do motorista.
+
+647
+00:55:30,054 --> 00:55:31,138
+<i>Não estava dirigindo.</i>
+
+648
+00:55:32,139 --> 00:55:33,140
+Ela mentiu!
+
+649
+00:55:33,557 --> 00:55:34,684
+Esse carro é da minha irmã.
+
+650
+00:55:34,767 --> 00:55:36,853
+Ela me emprestou, eu não sei...
+
+651
+00:55:36,936 --> 00:55:40,147
+Ela mentiu!
+Todos mentem por um motivo.
+
+652
+00:55:41,691 --> 00:55:45,862
+Ela mentiu para se proteger
+ou para proteger você.
+
+653
+00:55:46,403 --> 00:55:47,529
+Tem um isqueiro?
+
+654
+00:55:49,281 --> 00:55:51,158
+Essa mulher escondia algo.
+
+655
+00:56:04,546 --> 00:56:05,632
+E você também.
+
+656
+00:56:08,425 --> 00:56:09,969
+Eu não sei de nada.
+
+657
+00:56:11,220 --> 00:56:13,222
+<i>Eu estava em Paris.</i>
+
+658
+00:56:13,806 --> 00:56:15,600
+<i>É o que a polícia disse.</i>
+
+659
+00:56:16,225 --> 00:56:19,395
+<i>Algumas passagens
+e uma reserva de hotel</i>
+
+660
+00:56:19,478 --> 00:56:20,980
+<i>não provam nada.</i>
+
+661
+00:56:21,773 --> 00:56:25,985
+<i>Mas confiamos na polícia
+e voltamos para casa.</i>
+
+662
+00:56:31,157 --> 00:56:32,534
+<i>Alguns dias depois,</i>
+
+663
+00:56:32,617 --> 00:56:35,745
+<i>os noticiários acusavam
+meu filho de ser ladrão.</i>
+
+664
+00:56:42,794 --> 00:56:46,255
+<i>E soubemos que era mentira.
+Não era o Daniel.</i>
+
+665
+00:56:46,756 --> 00:56:48,925
+<i>Ele nunca fez mal a ninguém.</i>
+
+666
+00:56:51,511 --> 00:56:55,932
+<i>Minha mulher ficou arrasada
+quando soube o que significava.</i>
+
+667
+00:56:58,976 --> 00:57:00,978
+<i>Mas eu não desisti.</i>
+
+668
+00:57:03,398 --> 00:57:05,316
+<i>Segui a única pista que restava.</i>
+
+669
+00:57:05,400 --> 00:57:07,068
+GLOBAL TECH MEDIA ENTRA NA BOLSA
+
+670
+00:57:07,151 --> 00:57:08,152
+<i>Você.</i>
+
+671
+00:57:10,613 --> 00:57:13,991
+<i>Vi o que poderia perder
+por um incidente.</i>
+
+672
+00:57:16,661 --> 00:57:20,498
+<i>O que aconteceria se admitisse
+que não estava em Paris,</i>
+
+673
+00:57:20,582 --> 00:57:22,542
+<i>mas estava com outra mulher.</i>
+
+674
+00:57:25,086 --> 00:57:28,172
+<i>Fui contar à polícia,
+mas não acreditaram em mim.</i>
+
+675
+00:57:29,341 --> 00:57:31,676
+<i>Lá eu percebi
+o poder que você tem.</i>
+
+676
+00:57:33,177 --> 00:57:35,638
+O poder faz o lobo
+ser maior do que é.
+
+677
+00:57:36,348 --> 00:57:38,683
+Mas não tenho medo
+de lobos como você.
+
+678
+00:57:40,602 --> 00:57:44,105
+<i>Quando você vive
+a pior coisa que um pai pode viver,</i>
+
+679
+00:57:44,189 --> 00:57:45,815
+<i>ter o seu filho tirado de você,</i>
+
+680
+00:57:45,898 --> 00:57:47,942
+<i>vê-lo desaparecer
+sem que se importem,</i>
+
+681
+00:57:48,818 --> 00:57:50,528
+<i>você não sente medo.</i>
+
+682
+00:57:51,696 --> 00:57:53,323
+<i>Nada mais existe.</i>
+
+683
+00:57:54,449 --> 00:57:56,033
+IMPRENSA
+
+684
+00:57:56,117 --> 00:57:58,536
+<i>Logo saberão que sou um intruso,</i>
+
+685
+00:57:59,954 --> 00:58:01,456
+<i>então, me diga a verdade.</i>
+
+686
+00:58:03,040 --> 00:58:04,041
+Cadê o meu filho?
+
+687
+00:58:07,129 --> 00:58:09,172
+Você está enganado.
+
+688
+00:58:09,256 --> 00:58:12,467
+Você estava naquele carro
+com a mulher que não se chama Raquel.
+
+689
+00:58:12,550 --> 00:58:15,595
+Sofreram um acidente
+no lugar onde a encontrei
+
+690
+00:58:15,678 --> 00:58:17,680
+e o carro do meu filho
+estava lá.
+
+691
+00:58:18,306 --> 00:58:20,225
+Você se livrou dele?
+
+692
+00:58:22,144 --> 00:58:23,145
+Foi tão fácil assim?
+
+693
+00:58:41,079 --> 00:58:42,205
+Sr. Doria,
+
+694
+00:58:42,956 --> 00:58:44,166
+foi isso que aconteceu?
+
+695
+00:58:45,125 --> 00:58:46,334
+De um pai para outro.
+
+696
+00:58:48,795 --> 00:58:51,631
+Eu e minha esposa sabemos
+que nosso filho está morto.
+
+697
+00:58:52,090 --> 00:58:54,884
+Queremos encontrar e enterrá-lo
+para que fique em paz.
+
+698
+00:58:54,968 --> 00:58:56,469
+- Venha conosco.
+- Não me toque.
+
+699
+00:58:56,553 --> 00:58:58,555
+- Por favor.
+- Não me toque!
+
+700
+00:58:58,638 --> 00:59:01,849
+Por favor, Sr. Doria, eu imploro.
+Não toque em mim!
+
+701
+00:59:02,434 --> 00:59:04,852
+Se sua filha
+tivesse desaparecido,
+
+702
+00:59:04,937 --> 00:59:08,523
+iria querer que o culpado soubesse
+que não sairá impune.
+
+703
+00:59:08,606 --> 00:59:09,983
+Desgraçado!
+
+704
+00:59:14,029 --> 00:59:15,113
+Você o conhece?
+
+705
+00:59:16,031 --> 00:59:17,407
+Você o conhece?
+
+706
+00:59:23,831 --> 00:59:24,998
+Vamos entrar.
+
+707
+00:59:33,298 --> 00:59:37,928
+- Endereço?
+- Rua San Ramón, 5, Bierge.
+
+708
+00:59:39,387 --> 00:59:41,056
+<i>Ninguém o relacionou comigo.</i>
+
+709
+00:59:41,139 --> 00:59:42,057
+Telefone?
+
+710
+00:59:42,140 --> 00:59:43,683
+<i>Nem ele.</i>
+
+711
+00:59:45,602 --> 00:59:47,687
+<i>Sabia que isso
+só complicaria as coisas.</i>
+
+712
+00:59:49,231 --> 00:59:52,442
+<i>E o Félix retirou meu nome
+do caso do seu filho.</i>
+
+713
+00:59:52,525 --> 00:59:54,319
+- Em que cidade ocorreu?
+- Bierge.
+
+714
+01:00:06,623 --> 01:00:10,127
+<i>Ele voltou para casa
+determinado a procurar a esposa.</i>
+
+715
+01:00:17,009 --> 01:00:18,677
+<i>Depois disso, desapareceu.</i>
+
+716
+01:00:20,971 --> 01:00:22,389
+Eu nunca mais soube dele.
+
+717
+01:00:26,226 --> 01:00:27,435
+Certo.
+
+718
+01:00:28,478 --> 01:00:31,439
+Agora temos
+todas as cartas na mesa.
+
+719
+01:00:31,982 --> 01:00:34,067
+<i>Duas pessoas mortas
+e dois corpos.</i>
+
+720
+01:00:34,818 --> 01:00:36,194
+O assassinato da sua amante
+
+721
+01:00:36,278 --> 01:00:39,740
+<i>parece ser resultado direto
+da morte do Daniel Garrido.</i>
+
+722
+01:00:40,949 --> 01:00:43,952
+Mas para a polícia
+só há um assassinato
+
+723
+01:00:44,036 --> 01:00:46,705
+porque só há o cadáver
+de Laura Vidal.
+
+724
+01:00:47,665 --> 01:00:49,583
+<i>E o suspeito é você.</i>
+
+725
+01:00:50,167 --> 01:00:53,504
+<i>Mas para nós
+e para os pais do Daniel Garrido</i>
+
+726
+01:00:54,087 --> 01:00:57,716
+<i>há outro corpo e outra morte:
+a do rapaz desaparecido.</i>
+
+727
+01:00:59,051 --> 01:01:02,888
+<i>E os Garridos suspeitam que você
+e sua amante sejam os culpados.</i>
+
+728
+01:01:03,931 --> 01:01:06,391
+Ela está morta,
+então, tudo o que restou...
+
+729
+01:01:08,310 --> 01:01:09,311
+foi você.
+
+730
+01:01:11,354 --> 01:01:13,315
+O que isso lhe sugere?
+
+731
+01:01:15,317 --> 01:01:16,652
+O que lhe sugere?
+
+732
+01:01:16,735 --> 01:01:20,238
+Me faz pensar
+no mistério do quarto do hotel,
+
+733
+01:01:20,614 --> 01:01:24,117
+do homem que você disse
+que matou a sua amante
+
+734
+01:01:24,201 --> 01:01:27,788
+e desapareceu
+num passe de mágica.
+
+735
+01:01:28,246 --> 01:01:30,624
+Alguém ligado a Daniel Garrido.
+
+736
+01:01:33,001 --> 01:01:35,671
+Há alguém que sabe mais
+do que os pais.
+
+737
+01:01:37,840 --> 01:01:38,966
+Precisa de ajuda?
+
+738
+01:01:39,633 --> 01:01:43,136
+Quer que o júri acredite
+que o motorista o atraiu ao hotel?
+
+739
+01:01:43,220 --> 01:01:44,513
+Com que propósito?
+
+740
+01:01:44,597 --> 01:01:48,309
+Para nos chantagear
+com o que sabia: que éramos culpados.
+
+741
+01:01:49,101 --> 01:01:51,312
+Por que não descobriu
+quem nós éramos?
+
+742
+01:01:51,395 --> 01:01:53,230
+Detalhes, Sr. Doria.
+
+743
+01:01:53,314 --> 01:01:56,567
+Um juiz só acreditará
+na sua teoria
+
+744
+01:01:56,650 --> 01:01:58,319
+se os detalhes forem plausíveis.
+
+745
+01:01:58,402 --> 01:02:01,572
+Eu não contei como nos atraíram
+ao Hotel Bellavista.
+
+746
+01:02:03,782 --> 01:02:04,783
+<i>Sr. Doria?</i>
+
+747
+01:02:04,825 --> 01:02:06,410
+Chegou isso para você.
+
+748
+01:02:11,874 --> 01:02:14,168
+REMETENTE: DANIEL GARRIDO
+
+749
+01:02:23,177 --> 01:02:25,554
+<i>Eu sei o que você
+e sua amiguinha fizeram.</i>
+
+750
+01:02:26,264 --> 01:02:29,225
+<i>O meu silêncio
+custa cem mil euros.</i>
+
+751
+01:02:29,600 --> 01:02:31,935
+<i>Em notas baixas e sem marcas.</i>
+
+752
+01:02:32,895 --> 01:02:34,438
+<i>Se eu não receber hoje,</i>
+
+753
+01:02:34,522 --> 01:02:37,608
+<i>enviarei essa foto à polícia</i>
+
+754
+01:02:37,691 --> 01:02:39,818
+<i>para que encontrem
+o Daniel Garrido.</i>
+
+755
+01:02:45,699 --> 01:02:47,160
+<i>Às 17h em ponto,</i>
+
+756
+01:02:47,743 --> 01:02:51,122
+<i>devem ir à estação de trem
+de Bierge.</i>
+
+757
+01:02:52,831 --> 01:02:54,250
+<i>Sejam pontuais.</i>
+
+758
+01:02:54,792 --> 01:02:56,835
+<i>Eu ligarei no telefone
+do estacionamento</i>
+
+759
+01:02:56,919 --> 01:02:59,755
+<i>e direi onde deve deixar
+o dinheiro.</i>
+
+760
+01:02:59,838 --> 01:03:02,216
+<i>Não vá sozinho,
+ou sem o dinheiro</i>
+
+761
+01:03:02,300 --> 01:03:04,260
+<i>e não tente nada,</i>
+
+762
+01:03:04,343 --> 01:03:05,511
+<i>ou chamarei a polícia.</i>
+
+763
+01:03:07,680 --> 01:03:10,183
+O pacote foi enviado
+de Bierge há três dias.
+
+764
+01:03:11,976 --> 01:03:14,103
+O remetente assinou
+como Daniel Garrido.
+
+765
+01:03:16,564 --> 01:03:19,275
+- Foi aqui que...
+- Se não for, parece muito.
+
+766
+01:03:22,403 --> 01:03:23,779
+<i>Sr. Doria.</i>
+
+767
+01:03:23,862 --> 01:03:25,489
+Reparou na Lua?
+
+768
+01:03:29,660 --> 01:03:31,871
+Hoje é noite de Lua cheia.
+
+769
+01:03:34,332 --> 01:03:37,126
+E seu relato é cheio de falhas.
+
+770
+01:03:37,210 --> 01:03:38,962
+Como sabe?
+Deixe-me terminar.
+
+771
+01:03:39,045 --> 01:03:41,339
+Como o motorista
+sabia do pântano?
+
+772
+01:03:41,422 --> 01:03:43,341
+O ruído que ouvi
+antes do carro afundar.
+
+773
+01:03:45,468 --> 01:03:46,719
+<i>E se não fosse um cervo?</i>
+
+774
+01:03:49,138 --> 01:03:52,141
+E se a Laura não o convencesse
+de que tínhamos batido?
+
+775
+01:03:52,225 --> 01:03:53,601
+Que bom que não foi nada!
+
+776
+01:03:54,185 --> 01:03:55,186
+Obrigado.
+
+777
+01:03:57,313 --> 01:03:59,148
+<i>Talvez ele tenha
+suspeitado de algo</i>
+
+778
+01:03:59,232 --> 01:04:01,609
+<i>e fingiu sair para se esconder.</i>
+
+779
+01:04:02,193 --> 01:04:04,320
+Eu entendo o seu problema.
+
+780
+01:04:04,403 --> 01:04:07,907
+Está tentando afastar sua história
+da morte do Daniel Garrido.
+
+781
+01:04:08,491 --> 01:04:10,910
+- O quê?
+- O motorista era motivado por dinheiro.
+
+782
+01:04:10,994 --> 01:04:13,705
+Se concentrar
+no motorista chantagista
+
+783
+01:04:13,788 --> 01:04:17,125
+e ninguém pensar no rapaz,
+vai parecer menos culpado.
+
+784
+01:04:17,208 --> 01:04:18,918
+Tem uma ideia melhor?
+
+785
+01:04:20,003 --> 01:04:21,379
+Eu tenho três perguntas.
+
+786
+01:04:21,462 --> 01:04:23,381
+Se responder só uma,
+
+787
+01:04:23,464 --> 01:04:25,800
+continuaremos
+com a sua teoria maluca.
+
+788
+01:04:26,968 --> 01:04:30,847
+Um: por que a mensagem
+incriminadora no seu celular?
+
+789
+01:04:30,930 --> 01:04:35,393
+Dois: por que o assassino não levou
+o dinheiro, se era o objetivo dele?
+
+790
+01:04:35,476 --> 01:04:38,897
+Três: como ele entrou
+e saiu do quarto
+
+791
+01:04:38,980 --> 01:04:40,398
+como um fantasma?
+
+792
+01:04:43,026 --> 01:04:44,027
+Você viu?
+
+793
+01:04:44,527 --> 01:04:46,946
+Está dando ao promotor
+o que ele quer:
+
+794
+01:04:47,030 --> 01:04:50,366
+besteiras desconexas
+que darão a ilusão
+
+795
+01:04:50,449 --> 01:04:52,535
+de que você tem
+um relato coerente...
+
+796
+01:04:52,619 --> 01:04:53,995
+Não me venha com essa.
+
+797
+01:04:57,123 --> 01:04:59,834
+- Resolva uma das questões.
+- Tudo bem.
+
+798
+01:04:59,918 --> 01:05:02,879
+Vou dizer o que poderia acontecer
+pelo que você disse.
+
+799
+01:05:02,962 --> 01:05:04,005
+Por favor.
+
+800
+01:05:04,088 --> 01:05:05,339
+Volte à estação,
+
+801
+01:05:05,423 --> 01:05:08,552
+onde o chantagista
+o contatou às 17h.
+
+802
+01:05:13,598 --> 01:05:15,391
+São 17h. Deve ser ele.
+
+803
+01:05:17,143 --> 01:05:19,187
+Não devemos ser vistos juntos.
+
+804
+01:05:31,908 --> 01:05:32,784
+Alô?
+
+805
+01:05:32,867 --> 01:05:35,412
+<i>Estarei esperando
+no Hotel Bellavista.</i>
+
+806
+01:05:35,954 --> 01:05:40,291
+<i>O único acesso
+é pelo trem que contorna o vale.</i>
+
+807
+01:05:40,750 --> 01:05:45,464
+<i>Reservei o quarto 715
+para vocês.</i>
+
+808
+01:05:47,173 --> 01:05:50,051
+<i>Outra coisa:
+deixem o celular no lixo.</i>
+
+809
+01:05:50,134 --> 01:05:54,389
+<i>Peguem o trem
+que está à sua frente.</i>
+
+810
+01:05:54,473 --> 01:05:56,099
+<i>Se não deixarem o celular,</i>
+
+811
+01:05:56,182 --> 01:05:59,185
+<i>a polícia descobrirá
+o corpo do Daniel Garrido.</i>
+
+812
+01:06:42,187 --> 01:06:44,439
+Eu pergunto. Espere aqui.
+
+813
+01:06:52,030 --> 01:06:53,865
+- Boa tarde.
+- Boa tarde.
+
+814
+01:06:54,449 --> 01:06:57,786
+Tenho uma reserva
+no quarto 715, por favor.
+
+815
+01:06:59,621 --> 01:07:01,831
+Em nome de Adrián Doria?
+
+816
+01:07:03,625 --> 01:07:05,919
+Preencha este formulário
+
+817
+01:07:06,002 --> 01:07:07,671
+e entregarei a sua chave.
+
+818
+01:08:05,187 --> 01:08:06,480
+Alguém viu você?
+
+819
+01:08:07,815 --> 01:08:09,649
+Ele deixou instruções?
+
+820
+01:08:10,442 --> 01:08:11,568
+Temos que esperar.
+
+821
+01:08:16,656 --> 01:08:17,657
+O que houve?
+
+822
+01:08:18,242 --> 01:08:20,744
+Ele me enviou uma mensagem
+do seu celular.
+
+823
+01:08:20,828 --> 01:08:21,829
+VOU CONTAR TUDO
+
+824
+01:08:22,412 --> 01:08:23,873
+É uma armadilha.
+
+825
+01:08:23,956 --> 01:08:24,999
+Vamos embora.
+
+826
+01:08:38,178 --> 01:08:39,179
+Adrián?
+
+827
+01:08:43,225 --> 01:08:44,309
+Não, não, não.
+
+828
+01:08:44,393 --> 01:08:46,020
+Não, não. Por favor.
+
+829
+01:08:47,062 --> 01:08:49,523
+Não sei onde ele está.
+Não fui eu.
+
+830
+01:08:49,606 --> 01:08:51,483
+Não fui eu.
+Não sei onde ele está.
+
+831
+01:09:03,078 --> 01:09:04,079
+<i>Um momento.</i>
+
+832
+01:09:04,997 --> 01:09:06,123
+Espere.
+
+833
+01:09:06,707 --> 01:09:09,293
+Suspeita que o Tomás Garrido
+estava no quarto?
+
+834
+01:09:09,376 --> 01:09:10,460
+Você não suspeita?
+
+835
+01:09:10,920 --> 01:09:13,547
+É uma opção plausível
+para montar sua defesa,
+
+836
+01:09:13,631 --> 01:09:15,633
+algo em que o juiz acredite.
+
+837
+01:09:16,091 --> 01:09:19,845
+Tomás Garrido tem motivo
+para cometer um crime.
+
+838
+01:09:22,306 --> 01:09:23,974
+Se um pai sabe que a polícia
+
+839
+01:09:24,058 --> 01:09:27,311
+protege os responsáveis
+pelo sumiço de seu filho,
+
+840
+01:09:27,394 --> 01:09:30,523
+só tem uma opção:
+obrigá-los a se entregar.
+
+841
+01:09:30,606 --> 01:09:34,234
+E matar um para incriminar
+o outro é uma forma.
+
+842
+01:09:34,318 --> 01:09:35,486
+<i>Exatamente.</i>
+
+843
+01:09:35,570 --> 01:09:37,071
+<i>E funcionou perfeitamente.</i>
+
+844
+01:09:37,655 --> 01:09:40,199
+<i>Todos acharam
+que você fosse culpado.</i>
+
+845
+01:09:40,282 --> 01:09:43,994
+<i>A polícia, sua esposa
+e seus sócios financeiros.</i>
+
+846
+01:09:44,078 --> 01:09:47,540
+<i>Tomás Garrido o culpou
+pela morte de sua amante</i>
+
+847
+01:09:47,623 --> 01:09:49,917
+<i>e destruiu a sua vida
+e a sua empresa.</i>
+
+848
+01:09:50,000 --> 01:09:54,046
+<i>E só o Félix poderia tirá-lo da prisão
+por uma fiança milionária.</i>
+
+849
+01:09:54,129 --> 01:09:55,923
+<i>Vocês armaram
+a ideia de um complô</i>
+
+850
+01:09:56,006 --> 01:09:59,009
+<i>e suspeito que ele me contratou</i>
+
+851
+01:09:59,093 --> 01:10:01,429
+<i>porque não achava
+que seria o suficiente.</i>
+
+852
+01:10:01,887 --> 01:10:04,557
+<i>Seu advogado sabia
+que se sua história me convencesse,</i>
+
+853
+01:10:05,516 --> 01:10:07,351
+<i>convenceria o júri.</i>
+
+854
+01:10:07,435 --> 01:10:10,563
+<i>Contratou alguém para me falar
+o que dizer no tribunal, Félix?</i>
+
+855
+01:10:10,646 --> 01:10:13,273
+<i>Ela é a melhor
+em preparar testemunhas.</i>
+
+856
+01:10:13,358 --> 01:10:17,152
+Se aposentou há duas semanas,
+mas este é seu último caso.
+
+857
+01:10:17,236 --> 01:10:20,030
+E garanto
+que ela não quer perder.
+
+858
+01:10:20,615 --> 01:10:24,994
+A única forma de mostrar
+que não matou a sua amante
+
+859
+01:10:25,077 --> 01:10:27,288
+é envolver o Tomás Garrido,
+
+860
+01:10:27,372 --> 01:10:30,082
+e isso significa confessar
+o que fez com o filho dele.
+
+861
+01:10:34,587 --> 01:10:35,880
+Mas isso não nos ajuda
+
+862
+01:10:35,963 --> 01:10:39,008
+a saber como ele saiu do quarto
+sem deixar rastros.
+
+863
+01:10:39,091 --> 01:10:41,719
+<i>Quando despertei,
+não havia ninguém.</i>
+
+864
+01:10:42,262 --> 01:10:43,679
+Socorro!
+
+865
+01:10:43,763 --> 01:10:44,930
+Polícia!
+
+866
+01:10:46,307 --> 01:10:50,353
+<i>Conhece o conceito
+de pensamento lateral?</i>
+
+867
+01:10:51,812 --> 01:10:57,067
+Consiste em mudar a perspectiva
+de quem analisa os eventos.
+
+868
+01:10:57,151 --> 01:11:01,656
+Por exemplo: em um celeiro
+de madeira completamente vazio,
+
+869
+01:11:01,739 --> 01:11:05,743
+um homem é encontrado enforcado
+no meio da viga principal.
+
+870
+01:11:06,327 --> 01:11:09,038
+A corda que usou tem três metros
+
+871
+01:11:09,122 --> 01:11:12,500
+e seus pés
+estão a 30 cm do chão.
+
+872
+01:11:13,209 --> 01:11:16,337
+A parede mais próxima
+está a seis metros.
+
+873
+01:11:16,421 --> 01:11:19,757
+Não há como subir nas paredes,
+nem na viga,
+
+874
+01:11:19,840 --> 01:11:22,635
+e mesmo assim
+o homem se enforcou.
+
+875
+01:11:23,636 --> 01:11:24,929
+Como ele conseguiu?
+
+876
+01:11:27,348 --> 01:11:30,060
+Subiu em um bloco de gelo
+que derreteu com o calor.
+
+877
+01:11:31,436 --> 01:11:34,021
+Esse é o nosso celeiro.
+
+878
+01:11:36,482 --> 01:11:39,735
+O arquivo fotográfico policial
+do seu caso.
+
+879
+01:11:44,115 --> 01:11:48,411
+A resposta deve estar
+na natureza do seu relato.
+
+880
+01:11:53,874 --> 01:11:55,460
+O que espera que eu veja?
+
+881
+01:11:55,543 --> 01:11:57,378
+Os detalhes, Sr. Doria.
+
+882
+01:11:57,878 --> 01:11:59,464
+Concentre-se nos detalhes.
+
+883
+01:11:59,965 --> 01:12:01,091
+DORIA PRESO
+
+884
+01:12:01,174 --> 01:12:04,177
+Sempre estiveram diante de nós,
+
+885
+01:12:04,260 --> 01:12:07,555
+mas você precisa analisá-los
+por outra perspectiva.
+
+886
+01:12:10,433 --> 01:12:14,687
+E se a resposta para o enigma
+nunca esteve dentro do quarto,
+
+887
+01:12:15,563 --> 01:12:16,564
+mas fora dele?
+
+888
+01:12:16,647 --> 01:12:18,816
+Agora ela trabalha
+perto de Bierge, no vale,
+
+889
+01:12:18,900 --> 01:12:20,026
+a 20 minutos de casa.
+
+890
+01:12:20,610 --> 01:12:23,029
+Não foi coincidência
+nos atrair para longe.
+
+891
+01:12:23,613 --> 01:12:25,823
+Tomás Garrido
+montou uma armadilha pra você.
+
+892
+01:12:27,575 --> 01:12:29,995
+<i>Ele mesmo
+pode ter enviado o pacote</i>
+
+893
+01:12:31,287 --> 01:12:34,499
+<i>para você montar
+o quebra-cabeça errado</i>
+
+894
+01:12:35,000 --> 01:12:38,086
+<i>e duvidar do que houve,</i>
+
+895
+01:12:38,169 --> 01:12:42,757
+<i>porque só assim
+ele encontraria a peça que faltava.</i>
+
+896
+01:12:44,342 --> 01:12:45,343
+Alô?
+
+897
+01:12:45,676 --> 01:12:47,929
+Estarei esperando
+no Hotel Bellavista.
+
+898
+01:12:48,013 --> 01:12:49,973
+Ele não teria
+como saber do pântano.
+
+899
+01:12:50,056 --> 01:12:53,059
+A região onde o enterrou
+é cheia de pântanos
+
+900
+01:12:53,143 --> 01:12:54,853
+e os moradores sabem disso.
+
+901
+01:12:55,520 --> 01:12:59,565
+O Tomás Garrido
+só tinha que jogar a isca
+
+902
+01:12:59,649 --> 01:13:01,359
+e esperar você fisgá-la.
+
+903
+01:13:04,821 --> 01:13:06,322
+<i>E você fisgou.</i>
+
+904
+01:13:06,865 --> 01:13:07,991
+Foi o que aconteceu?
+
+905
+01:13:08,074 --> 01:13:09,242
+<i>Você se revelou</i>
+
+906
+01:13:10,744 --> 01:13:12,495
+<i>e entregou a Laura.</i>
+
+907
+01:14:41,918 --> 01:14:44,505
+<i>Aqui está a sua chave.
+Boa estada.</i>
+
+908
+01:14:44,588 --> 01:14:45,964
+<i>- Obrigada.
+- Obrigada.</i>
+
+909
+01:14:46,047 --> 01:14:47,841
+- Boa tarde.
+- Boa tarde.
+
+910
+01:14:47,924 --> 01:14:50,010
+Tenho uma reserva
+no quarto 715, por favor.
+
+911
+01:14:50,093 --> 01:14:51,470
+Foi assim que o Tomás Garrido
+
+912
+01:14:51,553 --> 01:14:54,973
+entrou no quarto
+sem deixar rastros.
+
+913
+01:14:55,056 --> 01:14:56,933
+<i>Ele só precisou</i>
+
+914
+01:14:57,017 --> 01:14:59,645
+<i>esperar que você e a Laura
+subissem até o quarto.</i>
+
+915
+01:14:59,728 --> 01:15:03,148
+<i>De lá, ele enviou a mensagem
+do celular da Laura...</i>
+
+916
+01:15:03,732 --> 01:15:05,984
+Ele mandou uma mensagem
+pelo celular.
+
+917
+01:15:06,860 --> 01:15:09,446
+<i>Fazê-lo desmaiar
+para tirá-lo de cena...</i>
+
+918
+01:15:11,532 --> 01:15:12,366
+<i>Adrián?</i>
+
+919
+01:15:12,449 --> 01:15:14,326
+E executar o crime perfeito.
+
+920
+01:15:16,537 --> 01:15:17,621
+Você ouviu isso?
+
+921
+01:15:17,704 --> 01:15:21,082
+Se foi assim, o Tomás Garrido
+só teve que preparar o cenário
+
+922
+01:15:21,167 --> 01:15:22,000
+para culpar você
+
+923
+01:15:22,083 --> 01:15:25,504
+e desaparecer
+como a esposa dele planejou.
+
+924
+01:15:26,505 --> 01:15:28,382
+<i>Ele deixou o dinheiro
+pra incriminá-lo,</i>
+
+925
+01:15:28,965 --> 01:15:31,218
+<i>devolveu o celular da Laura
+ao quarto...</i>
+
+926
+01:15:33,011 --> 01:15:36,432
+<i>e deixou suas digitais
+na arma do crime.</i>
+
+927
+01:15:49,278 --> 01:15:51,988
+<i>Oi? Está tudo bem?</i>
+
+928
+01:15:53,282 --> 01:15:55,033
+Ninguém saiu.
+
+929
+01:16:00,956 --> 01:16:01,957
+Oi?
+
+930
+01:16:34,865 --> 01:16:36,283
+- Boa noite.
+- Oi.
+
+931
+01:16:36,367 --> 01:16:37,952
+De onde vieram os barulhos?
+
+932
+01:16:38,035 --> 01:16:40,454
+Da suíte 715.
+
+933
+01:17:05,271 --> 01:17:07,982
+Saiam da frente!
+Saiam da frente, por favor!
+
+934
+01:17:13,570 --> 01:17:14,571
+<i>Polícia!</i>
+
+935
+01:17:15,197 --> 01:17:16,407
+Abra a porta.
+
+936
+01:17:33,340 --> 01:17:34,550
+Todos para fora!
+
+937
+01:17:34,633 --> 01:17:35,968
+Vamos, saia.
+
+938
+01:17:38,012 --> 01:17:39,555
+Chamem os legistas.
+
+939
+01:17:40,014 --> 01:17:44,018
+- Chamem os legistas. Há um corpo.
+<i>- Entendido.</i>
+
+940
+01:17:53,945 --> 01:17:57,156
+<i>Eles nos levaram a esse hotel
+por causa da mãe do rapaz.</i>
+
+941
+01:17:58,157 --> 01:17:59,366
+<i>Ela só precisou</i>
+
+942
+01:17:59,450 --> 01:18:02,787
+<i>fazer o marido sumir
+para que eu parecesse culpado.</i>
+
+943
+01:18:04,205 --> 01:18:06,415
+<i>E a polícia
+nunca a relacionou a você</i>
+
+944
+01:18:06,498 --> 01:18:10,211
+<i>porque o Félix removeu seu nome
+do caso do filho dele.</i>
+
+945
+01:18:12,004 --> 01:18:13,005
+Com licença.
+
+946
+01:18:17,301 --> 01:18:18,302
+Alô?
+
+947
+01:18:20,179 --> 01:18:21,222
+Confirmado?
+
+948
+01:18:22,765 --> 01:18:23,891
+Tem certeza?
+
+949
+01:18:25,685 --> 01:18:27,812
+Ótimo. Obrigada.
+
+950
+01:18:28,771 --> 01:18:30,397
+Era a testemunha do promotor?
+
+951
+01:18:30,482 --> 01:18:33,400
+Ainda não sabemos o nome,
+mas sabemos quem é.
+
+952
+01:18:34,151 --> 01:18:35,277
+O motorista.
+
+953
+01:18:36,488 --> 01:18:38,322
+Temos que pensar rápido.
+
+954
+01:18:38,405 --> 01:18:41,826
+- Estou ferrado.
+- Se me obedecer, não estará.
+
+955
+01:18:42,494 --> 01:18:46,414
+Suponhamos que não estivesse
+na cabana com a sua amante.
+
+956
+01:18:47,123 --> 01:18:49,125
+Estava em Paris,
+como diz seu álibi.
+
+957
+01:18:49,709 --> 01:18:52,545
+<i>A Laura a alugou,
+então, está no nome dela.</i>
+
+958
+01:18:55,965 --> 01:19:01,012
+<i>Então você não estava no acidente
+que matou o Daniel Garrido.</i>
+
+959
+01:19:01,095 --> 01:19:02,096
+Olá?
+
+960
+01:19:03,139 --> 01:19:06,142
+A placa do carro e outras provas
+são circunstanciais.
+
+961
+01:19:06,225 --> 01:19:08,770
+Então, foi a Laura
+que executou o plano,
+
+962
+01:19:08,853 --> 01:19:11,564
+fingindo que o rapaz fugiu
+pela fraude.
+
+963
+01:19:15,026 --> 01:19:19,364
+<i>Temos que convencer o juiz
+de que você foi vítima da Laura</i>
+
+964
+01:19:19,447 --> 01:19:22,992
+<i>e que acabou no quarto do hotel
+porque ela lhe pediu ajuda.</i>
+
+965
+01:19:23,075 --> 01:19:26,496
+<i>Talvez não soubesse nada
+sobre o Daniel Garrido até agora,</i>
+
+966
+01:19:26,579 --> 01:19:29,666
+<i>e o pai o acusa injustamente
+pelo desaparecimento.</i>
+
+967
+01:19:29,749 --> 01:19:31,918
+Quer me tornar vítima da Laura?
+
+968
+01:19:32,710 --> 01:19:34,796
+A única peça que falta
+
+969
+01:19:35,588 --> 01:19:38,425
+é uma forma de ligá-la
+diretamente ao corpo do Daniel.
+
+970
+01:19:38,508 --> 01:19:39,592
+Me diga uma coisa.
+
+971
+01:19:39,676 --> 01:19:40,968
+Como fará isso?
+
+972
+01:19:42,220 --> 01:19:45,056
+<i>Vamos esconder um objeto dela
+no carro submerso.</i>
+
+973
+01:19:45,640 --> 01:19:50,478
+Temos que incriminar só a ela
+ao desaparecimento do Daniel.
+
+974
+01:19:53,523 --> 01:19:54,857
+Seu único crime
+
+975
+01:19:55,358 --> 01:19:57,652
+será ter encoberto isso
+sem intenção.
+
+976
+01:20:09,581 --> 01:20:11,166
+Onde você o afundou?
+
+977
+01:20:14,377 --> 01:20:18,215
+Contaremos anonimamente à polícia.
+Você não vai admitir nada.
+
+978
+01:20:18,840 --> 01:20:21,008
+Mas sem corpo não há crime,
+e sem crime
+
+979
+01:20:21,093 --> 01:20:24,054
+não podemos convencer o júri
+de que o assassinato da Laura
+
+980
+01:20:24,137 --> 01:20:25,638
+não foi um crime passional.
+
+981
+01:20:26,598 --> 01:20:30,268
+Chegaremos o mais próximo da verdade
+para você não se queimar.
+
+982
+01:20:31,061 --> 01:20:34,147
+Como não vou me queimar
+se o promotor tem a peça principal?
+
+983
+01:20:35,357 --> 01:20:36,566
+Olá.
+
+984
+01:20:36,649 --> 01:20:39,611
+<i>- O motorista me colocará na cena.</i>
+- Precisam de ajuda?
+
+985
+01:20:39,694 --> 01:20:41,446
+O Félix está tentando
+neutralizá-lo.
+
+986
+01:20:41,529 --> 01:20:43,740
+O promotor não tem testemunhas.
+
+987
+01:20:44,782 --> 01:20:45,908
+O quê?
+
+988
+01:20:45,993 --> 01:20:47,910
+Ninguém encontrou o juiz.
+
+989
+01:20:47,995 --> 01:20:52,249
+Eu inventei isso e ajustei
+com os detalhes que me deu.
+
+990
+01:20:54,001 --> 01:20:55,210
+Está brincando?
+
+991
+01:20:55,293 --> 01:20:58,005
+Por que não me disse
+a verdade desde o início?
+
+992
+01:21:02,134 --> 01:21:05,303
+Para ver se conseguiria
+tirar o Tomás Garrido do quarto.
+
+993
+01:21:09,099 --> 01:21:10,934
+<i>Eu sempre soube
+que ele era culpado.</i>
+
+994
+01:21:14,062 --> 01:21:16,899
+<i>Não foi difícil saber
+que sua esposa trabalhava no hotel.</i>
+
+995
+01:21:19,902 --> 01:21:21,945
+<i>Por que esperou
+que eu lhe contasse?</i>
+
+996
+01:21:22,029 --> 01:21:26,491
+Para garantir que posso colocar
+minha vida em suas mãos.
+
+997
+01:21:31,204 --> 01:21:32,372
+Onde você o atirou?
+
+998
+01:21:41,256 --> 01:21:43,008
+Eu o atirei aqui.
+
+999
+01:22:06,198 --> 01:22:07,908
+Tenho outra coisa para dizer.
+
+1000
+01:22:22,505 --> 01:22:24,842
+Achamos que ele estivesse morto.
+
+1001
+01:22:31,306 --> 01:22:33,642
+A Laura foi tão longe
+que não haveria volta.
+
+1002
+01:22:33,726 --> 01:22:36,645
+Se a polícia encontrasse o rapaz,
+a autópsia me entregaria.
+
+1003
+01:22:37,020 --> 01:22:39,106
+Tive de garantir
+que me ajudaria a detê-lo.
+
+1004
+01:22:42,234 --> 01:22:46,363
+Meu dever é salvá-lo da prisão
+e não de quem você é.
+
+1005
+01:22:46,446 --> 01:22:48,031
+Que mentira, Sr. Doria!
+
+1006
+01:22:48,115 --> 01:22:50,158
+Fará o que eu disser
+pois precisa de mim.
+
+1007
+01:22:50,242 --> 01:22:53,286
+Ele já estava quase morto.
+Decidi em uma fração de segundo.
+
+1008
+01:22:55,456 --> 01:22:59,334
+Não minta para si mesmo.
+Você é um assassino!
+
+1009
+01:22:59,417 --> 01:23:01,128
+Está me testando de novo, não?
+
+1010
+01:23:01,587 --> 01:23:03,881
+Para eu aguentar
+os ataques do promotor.
+
+1011
+01:23:03,964 --> 01:23:07,635
+O que você contou muda tudo.
+Agora está em minhas mãos.
+
+1012
+01:23:08,761 --> 01:23:13,474
+Já me contou o suficiente.
+Se eu disser ao juiz, estará perdido.
+
+1013
+01:23:13,557 --> 01:23:14,808
+Não pode fazer isso!
+
+1014
+01:23:17,060 --> 01:23:18,396
+Está ouvindo? Não pode.
+
+1015
+01:23:18,479 --> 01:23:22,941
+É o que o promotor quer.
+O seu desespero.
+
+1016
+01:23:23,025 --> 01:23:25,736
+Veja como foi fácil
+provocá-lo.
+
+1017
+01:23:26,236 --> 01:23:28,113
+Quer me insultar?
+Pode tentar.
+
+1018
+01:23:28,697 --> 01:23:30,574
+O promotor também tentará
+
+1019
+01:23:30,658 --> 01:23:33,411
+arrancar o babaca arrogante
+que há dentro de você.
+
+1020
+01:23:33,494 --> 01:23:34,537
+Já chega!
+
+1021
+01:23:37,540 --> 01:23:38,999
+Não está aqui pra me defender?
+
+1022
+01:23:41,627 --> 01:23:42,920
+Então me defenda!
+
+1023
+01:24:03,106 --> 01:24:06,194
+Não vou sujar meu histórico
+no meu último dia.
+
+1024
+01:24:08,987 --> 01:24:11,907
+A partir de agora,
+faremos as coisas do meu jeito.
+
+1025
+01:24:12,658 --> 01:24:15,911
+Preciso garantir
+que não tenha nada em aberto.
+
+1026
+01:24:15,994 --> 01:24:17,246
+- Não há.
+- Não?
+
+1027
+01:24:17,330 --> 01:24:19,332
+Mas ainda acho
+que está me usando.
+
+1028
+01:24:19,998 --> 01:24:23,669
+Testando sua versão adulterada dos fatos
+como se eu fosse um boneco.
+
+1029
+01:24:23,752 --> 01:24:24,878
+O que não se encaixa?
+
+1030
+01:24:24,962 --> 01:24:27,798
+Tudo pode ter acontecido
+como me contou,
+
+1031
+01:24:27,881 --> 01:24:30,551
+mas e se não foi você
+
+1032
+01:24:30,634 --> 01:24:33,971
+quem quebrou a promessa
+de não se reencontrar com a Laura?
+
+1033
+01:24:34,054 --> 01:24:37,015
+Como fez a polícia pensar
+que o Daniel Garrido fugiu?
+
+1034
+01:24:37,100 --> 01:24:39,810
+Te vejo em quatro horas
+no bar em frente ao ferro-velho.
+
+1035
+01:24:39,893 --> 01:24:40,811
+Tudo bem.
+
+1036
+01:24:40,894 --> 01:24:43,064
+- Não se atrase.
+- Tudo bem, estarei lá.
+
+1037
+01:24:43,147 --> 01:24:47,568
+<i>Redirecionou pequenas quantias
+de seus clientes antes de desaparecer.</i>
+
+1038
+01:24:48,194 --> 01:24:49,195
+HABILITAÇÃO
+
+1039
+01:24:49,278 --> 01:24:51,947
+<i>Podia ter sumido
+com as coisas do rapaz.</i>
+
+1040
+01:24:52,823 --> 01:24:54,617
+Adrián, o que é tudo isso?
+
+1041
+01:24:55,201 --> 01:24:56,577
+A carteira do rapaz.
+
+1042
+01:24:57,536 --> 01:24:59,622
+Peguei antes de colocá-lo
+no porta-malas.
+
+1043
+01:25:01,332 --> 01:25:02,416
+Dê um preço a ela.
+
+1044
+01:25:02,500 --> 01:25:05,253
+<i>Você sempre teve
+os meios e os contatos</i>
+
+1045
+01:25:05,336 --> 01:25:06,920
+<i>para mudar o curso dos fatos</i>
+
+1046
+01:25:07,005 --> 01:25:08,422
+<i>sem deixar pistas.</i>
+
+1047
+01:25:08,506 --> 01:25:09,507
+Eu cuidarei disso.
+
+1048
+01:25:10,716 --> 01:25:11,759
+Não é verdade.
+
+1049
+01:25:12,510 --> 01:25:14,637
+- Não pode provar.
+- E você também não.
+
+1050
+01:25:15,221 --> 01:25:16,973
+Vamos rever de trás para frente.
+
+1051
+01:25:18,516 --> 01:25:19,433
+Olá.
+
+1052
+01:25:19,517 --> 01:25:21,019
+<i>As peças não encaixariam</i>
+
+1053
+01:25:21,102 --> 01:25:24,272
+<i>se tivesse tomado iniciativa
+em tudo isso?</i>
+
+1054
+01:25:24,355 --> 01:25:26,399
+- O que está fazendo?
+- Chamando a polícia.
+
+1055
+01:25:26,482 --> 01:25:28,943
+A culpa não foi nossa.
+Foi do cervo.
+
+1056
+01:25:29,693 --> 01:25:30,778
+Está maluco?
+
+1057
+01:25:32,196 --> 01:25:34,240
+- E se ele viu algo?
+- Ele não viu.
+
+1058
+01:25:34,323 --> 01:25:35,574
+Vamos nos livrar dele.
+
+1059
+01:25:36,159 --> 01:25:37,160
+O quê?
+
+1060
+01:25:39,245 --> 01:25:42,206
+<i>E se a Laura estivesse
+em uma situação de desespero,</i>
+
+1061
+01:25:42,290 --> 01:25:44,208
+<i>impossível de controlar?</i>
+
+1062
+01:25:46,836 --> 01:25:48,546
+Segundo o relatório médico,
+
+1063
+01:25:49,130 --> 01:25:51,841
+sua amante teve
+ataques agudos de ansiedade
+
+1064
+01:25:51,925 --> 01:25:54,844
+após sua volta
+da suposta viagem a Paris.
+
+1065
+01:25:56,012 --> 01:25:58,514
+<i>Até alguém impiedoso como ela
+pode surtar.</i>
+
+1066
+01:25:58,597 --> 01:26:01,434
+É isso que não se encaixa
+para mim, Sr. Doria.
+
+1067
+01:26:02,435 --> 01:26:04,395
+Se ela tivesse instigado tudo,
+
+1068
+01:26:04,478 --> 01:26:06,815
+você teria salvado o garoto.
+
+1069
+01:26:06,898 --> 01:26:08,566
+Mas você o afogou.
+
+1070
+01:26:13,029 --> 01:26:14,655
+DESAPARECIMENTO INVOLUNTÁRIO
+
+1071
+01:26:17,701 --> 01:26:20,369
+<i>Ela carregou a culpa</i>
+
+1072
+01:26:23,497 --> 01:26:25,667
+<i>que, aos poucos, a consumiu.</i>
+
+1073
+01:26:33,174 --> 01:26:37,261
+<i>Adrián Doria
+recebeu o Prêmio Europeu</i>
+
+1074
+01:26:37,345 --> 01:26:38,847
+<i>de Empresário do Ano.</i>
+
+1075
+01:26:38,930 --> 01:26:42,684
+<i>Até que encontrou uma forma
+de retomar sua dignidade.</i>
+
+1076
+01:26:42,767 --> 01:26:45,186
+ADRIÁN DORIA PREMIADO
+PELA GLOBAL GO TECH MEDIA
+
+1077
+01:26:48,773 --> 01:26:51,651
+<i>Ela não poderia devolver
+o filho aos pobres pais.</i>
+
+1078
+01:26:52,861 --> 01:26:54,278
+Tinha a minha companhia.
+
+1079
+01:26:54,362 --> 01:26:56,364
+<i>Mas podia fazer algo.</i>
+
+1080
+01:26:57,866 --> 01:26:59,408
+<i>Contar a verdade a eles.</i>
+
+1081
+01:27:03,705 --> 01:27:04,706
+Daniel.
+
+1082
+01:27:05,790 --> 01:27:09,335
+<i>Ela os encontrou no hotel
+onde a mãe do rapaz trabalhava.</i>
+
+1083
+01:27:09,669 --> 01:27:12,380
+<i>Um local isolado
+para executar o seu plano.</i>
+
+1084
+01:27:13,882 --> 01:27:16,676
+<i>Ela foi sozinha a Bierge
+e atravessou o vale.</i>
+
+1085
+01:27:19,053 --> 01:27:21,097
+<i>Quando chegou à estação
+próxima ao hotel,</i>
+
+1086
+01:27:22,390 --> 01:27:25,977
+<i>te ligou de um telefone público
+para que não suspeitasse.</i>
+
+1087
+01:27:29,313 --> 01:27:30,649
+Alguém sabe de algo.
+
+1088
+01:27:30,732 --> 01:27:34,068
+<i>Ela o fez acreditar
+que o motorista viu algo...</i>
+
+1089
+01:27:34,152 --> 01:27:36,195
+Por que atende ao telefone?
+
+1090
+01:27:36,279 --> 01:27:38,532
+<i>Que a encontrara
+e a estava chantageando.</i>
+
+1091
+01:27:39,824 --> 01:27:43,412
+<i>Era sua forma de compensar
+a perda daquelas pessoas.</i>
+
+1092
+01:27:44,579 --> 01:27:47,624
+<i>Ela não teve coragem
+de confessar de mãos vazias.</i>
+
+1093
+01:27:49,292 --> 01:27:52,421
+<i>No quarto do hotel,
+ela só teve que esperar</i>
+
+1094
+01:27:53,046 --> 01:27:55,214
+<i>e colocar a segunda parte
+do plano em ação.</i>
+
+1095
+01:27:55,757 --> 01:27:57,801
+<i>Programou uma mensagem
+no celular dela</i>
+
+1096
+01:27:57,884 --> 01:27:59,511
+<i>como medida de proteção.</i>
+
+1097
+01:28:02,221 --> 01:28:04,891
+<i>A Laura sabia que você
+se recusaria a confessar,</i>
+
+1098
+01:28:05,517 --> 01:28:07,561
+<i>pois só se importa
+com uma coisa:</i>
+
+1099
+01:28:07,644 --> 01:28:09,145
+<i>consigo mesmo.</i>
+
+1100
+01:28:14,276 --> 01:28:18,238
+<i>Você garantiu que ninguém o visse
+chegar no quarto da Laura.</i>
+
+1101
+01:28:26,455 --> 01:28:29,374
+<i>Mas a Laura havia cruzado
+um caminho sem volta.</i>
+
+1102
+01:28:30,459 --> 01:28:34,171
+<i>Quando ela contou seu plano,
+você ficou fora de si.</i>
+
+1103
+01:28:42,304 --> 01:28:44,514
+<i>Quando você recebeu
+a mensagem dela,</i>
+
+1104
+01:28:44,598 --> 01:28:46,850
+<i>percebeu que havia caído
+na sua armadilha.</i>
+
+1105
+01:28:57,152 --> 01:28:59,028
+A reserva
+também está em seu nome.
+
+1106
+01:29:01,490 --> 01:29:02,824
+Vamos dar o dinheiro a eles.
+
+1107
+01:29:04,159 --> 01:29:06,245
+Vamos contar onde enterramos
+o filho deles
+
+1108
+01:29:06,328 --> 01:29:09,914
+e nos entregar, Adrián.
+
+1109
+01:29:12,126 --> 01:29:13,627
+Não há volta.
+
+1110
+01:29:36,316 --> 01:29:37,859
+<i>Eu não a matei.</i>
+
+1111
+01:29:37,943 --> 01:29:40,988
+E nunca vou assumir
+perante um júri.
+
+1112
+01:29:41,071 --> 01:29:41,989
+Nunca.
+
+1113
+01:29:42,072 --> 01:29:45,492
+Você a matou e estava preso
+em um quarto sem saída.
+
+1114
+01:29:48,913 --> 01:29:51,415
+Olá? Está tudo bem?
+
+1115
+01:30:02,342 --> 01:30:05,179
+<i>Você achou que a mensagem
+seria útil</i>
+
+1116
+01:30:06,263 --> 01:30:10,059
+<i>e procurou elementos
+para reforçar sua teoria maluca.</i>
+
+1117
+01:30:17,357 --> 01:30:18,442
+<i>Polícia!</i>
+
+1118
+01:30:20,903 --> 01:30:21,904
+<i>Você está bem?</i>
+
+1119
+01:30:25,866 --> 01:30:26,951
+<i>Polícia!</i>
+
+1120
+01:30:29,829 --> 01:30:32,832
+<i>Certo. Você quer jogar?</i>
+
+1121
+01:30:33,207 --> 01:30:34,208
+<i>Vamos jogar.</i>
+
+1122
+01:30:35,584 --> 01:30:37,920
+Por que o Tomás Garrido
+ou a esposa não falaram?
+
+1123
+01:30:38,420 --> 01:30:41,882
+Se a Laura ia contar a verdade,
+por que não chamaram a polícia?
+
+1124
+01:30:41,966 --> 01:30:46,220
+Eles sabem que você não se incriminaria
+desenterrando o filho deles
+
+1125
+01:30:46,971 --> 01:30:49,974
+e, sem corpo,
+é difícil provar um crime.
+
+1126
+01:30:50,057 --> 01:30:51,851
+E também sabem
+
+1127
+01:30:51,934 --> 01:30:54,812
+que você faria de tudo
+para sair impune,
+
+1128
+01:30:55,771 --> 01:30:58,691
+inclusive acusá-los
+pela morte da sua amante.
+
+1129
+01:31:00,484 --> 01:31:01,694
+Venha comigo.
+
+1130
+01:31:13,789 --> 01:31:16,792
+Segunda janela à direita
+do penúltimo andar.
+
+1131
+01:31:18,335 --> 01:31:20,755
+Olhe com atenção, Sr. Doria.
+
+1132
+01:31:26,927 --> 01:31:30,347
+O Tomás Garrido não confia
+na polícia há muito tempo
+
+1133
+01:31:30,430 --> 01:31:31,891
+e, desde então,
+
+1134
+01:31:31,974 --> 01:31:35,352
+o vigiava para fazer justiça
+com as próprias mãos.
+
+1135
+01:31:46,697 --> 01:31:48,449
+Você supõe coisas que não sabe.
+
+1136
+01:31:48,533 --> 01:31:51,076
+- Eu o conheço melhor do que imagina.
+- Por quê?
+
+1137
+01:31:51,661 --> 01:31:53,287
+Você é esperto. Esforce-se.
+
+1138
+01:31:53,370 --> 01:31:54,539
+Quero uma resposta.
+
+1139
+01:31:56,541 --> 01:31:58,584
+Quando o Tomás e sua esposa
+foram ao hotel
+
+1140
+01:31:59,001 --> 01:32:00,753
+e souberam da morte da Laura,
+
+1141
+01:32:01,253 --> 01:32:03,047
+entenderam o que havia
+acontecido.
+
+1142
+01:32:04,089 --> 01:32:07,677
+<i>Eles estudaram as possibilidades
+e pensaram no que fazer,</i>
+
+1143
+01:32:07,760 --> 01:32:09,929
+<i>mas sem acreditar na justiça,
+o que restava?</i>
+
+1144
+01:32:10,012 --> 01:32:12,306
+Observar o inimigo e esperar.
+
+1145
+01:32:13,015 --> 01:32:14,767
+Só restava vigiar você.
+
+1146
+01:32:22,942 --> 01:32:25,778
+<i>O Tomás Garrido
+se tornou a sua sombra.</i>
+
+1147
+01:32:31,742 --> 01:32:33,953
+<i>Encontrou um quarto vazio
+de frente para o seu</i>
+
+1148
+01:32:34,036 --> 01:32:36,414
+<i>e o ocupou anonimamente.</i>
+
+1149
+01:32:37,415 --> 01:32:40,251
+<i>Desde então, tinha você</i>
+
+1150
+01:32:40,335 --> 01:32:43,003
+<i>e todos ao seu redor
+sob a mira dele.</i>
+
+1151
+01:32:43,087 --> 01:32:45,965
+<i>Cada encontro, cada conversa,</i>
+
+1152
+01:32:46,048 --> 01:32:48,259
+<i>cada movimento
+para libertá-lo,</i>
+
+1153
+01:32:48,343 --> 01:32:50,886
+<i>o Tomás Garrido presenciava.</i>
+
+1154
+01:32:52,012 --> 01:32:54,098
+E, é claro, chegou até mim.
+
+1155
+01:33:01,522 --> 01:33:03,983
+<i>Quem era ele e o que fazia
+diante do meu escritório?</i>
+
+1156
+01:33:08,738 --> 01:33:11,574
+<i>Percebi que ele seguia o Félix,</i>
+
+1157
+01:33:12,533 --> 01:33:15,620
+<i>então, o vigiei.</i>
+
+1158
+01:33:15,703 --> 01:33:16,954
+ADVOGADA
+
+1159
+01:33:18,706 --> 01:33:21,417
+<i>O pai do rapaz a trouxe até mim,
+e não o contrário.</i>
+
+1160
+01:33:22,293 --> 01:33:25,130
+Ele traçou o caminho
+para chegar até o Daniel Garrido.
+
+1161
+01:33:34,430 --> 01:33:37,850
+Essa foto prova que tudo podia
+ter acontecido como eu disse.
+
+1162
+01:33:37,933 --> 01:33:41,271
+Você ainda não presta atenção
+nos detalhes.
+
+1163
+01:33:41,354 --> 01:33:42,855
+A mãe do rapaz esteve no quarto.
+
+1164
+01:33:42,938 --> 01:33:44,940
+Ela não trabalhou nesse dia.
+
+1165
+01:33:45,275 --> 01:33:47,610
+Ela foi com o marido
+para encontrar a Laura.
+
+1166
+01:33:47,693 --> 01:33:49,445
+Essa foto prova que...
+
+1167
+01:33:49,529 --> 01:33:51,072
+Essa foto é falsa.
+
+1168
+01:33:53,574 --> 01:33:55,535
+Foi manipulada.
+É uma montagem.
+
+1169
+01:33:56,661 --> 01:33:58,746
+ADRIÁN DORIA
+PRESO POR ASSASSINATO
+
+1170
+01:33:58,829 --> 01:34:00,456
+Veja o reflexo no espelho.
+
+1171
+01:34:07,463 --> 01:34:08,589
+Agora me diga:
+
+1172
+01:34:09,340 --> 01:34:10,550
+você quer a minha ajuda?
+
+1173
+01:34:11,259 --> 01:34:13,428
+Para o juiz pensar
+que não é um assassino?
+
+1174
+01:34:13,511 --> 01:34:17,765
+- Então admita que matou a Laura.
+- Eu a matei.
+
+1175
+01:34:35,241 --> 01:34:38,203
+<i>Adrián, está aí?
+Seu telefone está desligado.</i>
+
+1176
+01:34:38,286 --> 01:34:39,996
+Me ligue quando puder.
+
+1177
+01:34:40,914 --> 01:34:43,541
+O milagre que esperávamos
+aconteceu.
+
+1178
+01:34:47,838 --> 01:34:50,757
+Aqui está
+o seu cartão de embarque.
+
+1179
+01:34:50,841 --> 01:34:52,133
+Assento B52.
+
+1180
+01:34:56,471 --> 01:34:58,223
+Fale com ele.
+Parece importante.
+
+1181
+01:34:59,808 --> 01:35:02,268
+Dez minutos de descanso
+e retomaremos.
+
+1182
+01:35:03,561 --> 01:35:05,438
+Já sei a estratégia
+para a sua defesa.
+
+1183
+01:35:06,022 --> 01:35:07,065
+Não se preocupe.
+
+1184
+01:35:08,274 --> 01:35:10,526
+Vou esfriar a cabeça.
+
+1185
+01:35:10,610 --> 01:35:12,195
+- Tem café?
+- Tem.
+
+1186
+01:35:13,071 --> 01:35:15,782
+Vamos precisar.
+A noite será longa.
+
+1187
+01:35:16,366 --> 01:35:17,367
+Tudo bem.
+
+1188
+01:35:26,334 --> 01:35:27,335
+Sra. Goodman?
+
+1189
+01:35:36,219 --> 01:35:37,220
+Obrigado.
+
+1190
+01:36:05,373 --> 01:36:07,083
+- Félix.
+<i>- Eu estava ligando.</i>
+
+1191
+01:36:07,167 --> 01:36:10,045
+- Meu celular estava desligado. O que foi?
+<i>- Eu o encontrei.</i>
+
+1192
+01:36:10,629 --> 01:36:12,589
+Você nunca esteve
+naquela estrada.
+
+1193
+01:36:14,049 --> 01:36:15,383
+Podemos confiar nele?
+
+1194
+01:36:20,847 --> 01:36:21,848
+Totalmente.
+
+1195
+01:36:23,892 --> 01:36:24,935
+<i>Perfeito.</i>
+
+1196
+01:36:27,228 --> 01:36:28,814
+Como foi com a Virginia Goodman?
+
+1197
+01:36:29,440 --> 01:36:30,982
+Tive que contar tudo para ela.
+
+1198
+01:36:31,983 --> 01:36:34,152
+- Tudo?
+- Tudo.
+
+1199
+01:36:34,736 --> 01:36:35,987
+Como se sente?
+
+1200
+01:36:37,448 --> 01:36:39,575
+Estava certo.
+Ela é muito boa.
+
+1201
+01:36:41,577 --> 01:36:42,953
+<i>Podemos confiar nela.</i>
+
+1202
+01:36:45,497 --> 01:36:49,793
+Que história da promotoria foi essa?
+O barulho do avião atrapalhou.
+
+1203
+01:36:49,876 --> 01:36:51,587
+Não se preocupe.
+
+1204
+01:36:53,755 --> 01:36:54,965
+O que foi isso?
+
+1205
+01:36:55,048 --> 01:36:56,342
+<i>O que está havendo?</i>
+
+1206
+01:36:56,842 --> 01:36:57,968
+Félix, está ouvindo?
+
+1207
+01:37:06,560 --> 01:37:09,187
+<i>- Adrián, está aí?</i>
+- Eu já te ligo.
+
+1208
+01:37:11,440 --> 01:37:12,608
+Droga.
+
+1209
+01:37:26,538 --> 01:37:27,456
+ASSASSINO
+
+1210
+01:37:27,539 --> 01:37:29,333
+<i>Ninguém viu o juiz.</i>
+
+1211
+01:37:29,916 --> 01:37:31,585
+O promotor não tem testemunhas.
+
+1212
+01:37:33,379 --> 01:37:37,341
+<i>Eu inventei e usei os detalhes
+que você me deu.</i>
+
+1213
+01:37:37,674 --> 01:37:40,969
+<i>- Essa foto mostra...
+- Essa foto é falsa.</i>
+
+1214
+01:37:41,052 --> 01:37:42,513
+Foi manipulada.
+
+1215
+01:37:43,514 --> 01:37:45,266
+<i>Você supõe coisas que não sabe.</i>
+
+1216
+01:37:45,349 --> 01:37:48,102
+<i>- Eu o conheço melhor do que imagina.
+- Por quê?</i>
+
+1217
+01:37:48,185 --> 01:37:49,978
+<i>Você é esperto. Esforce-se.</i>
+
+1218
+01:37:50,521 --> 01:37:53,565
+<i>Eu e minha esposa sabemos
+que nosso filho está morto.</i>
+
+1219
+01:37:53,649 --> 01:37:56,527
+Queremos encontrar e enterrá-lo,
+para que fique em paz.
+
+1220
+01:37:56,610 --> 01:37:58,904
+<i>Mas sem acreditar na justiça,
+o que restava?</i>
+
+1221
+01:37:58,987 --> 01:38:00,531
+<i>Observar o inimigo e esperar.</i>
+
+1222
+01:38:01,532 --> 01:38:04,035
+<i>Foi como nos conhecemos.
+Em um grupo de teatro.</i>
+
+1223
+01:38:06,037 --> 01:38:07,454
+<i>Me contou o suficiente.</i>
+
+1224
+01:38:07,538 --> 01:38:10,874
+<i>Se eu contar ao juiz,
+estará perdido.</i>
+
+1225
+01:38:10,957 --> 01:38:12,543
+Agora está em minhas mãos.
+
+1226
+01:38:13,419 --> 01:38:15,963
+<i>Adrián, está aí?
+Seu celular está desligado.</i>
+
+1227
+01:38:19,175 --> 01:38:20,467
+Tudo sob controle.
+
+1228
+01:38:24,805 --> 01:38:28,184
+<i>E os Garridos suspeitam que você
+e sua amante sejam os culpados.</i>
+
+1229
+01:38:28,767 --> 01:38:29,768
+<i>Ela estando morta,</i>
+
+1230
+01:38:29,810 --> 01:38:32,271
+o que resta... é você.
+
+1231
+01:38:38,402 --> 01:38:39,570
+Onde o enterrou?
+
+1232
+01:39:03,928 --> 01:39:06,430
+Não haverá salvação
+sem sofrimento,
+
+1233
+01:39:07,098 --> 01:39:08,891
+e você não é
+mais inteligente que eu.
+
+1234
+01:39:25,116 --> 01:39:27,910
+SONIA E ALEX
+ESPOSA E FILHA
+
+1235
+01:41:13,475 --> 01:41:14,934
+<i>Polícia.
+Em que posso ajudar?</i>
+
+1236
+01:41:15,017 --> 01:41:16,185
+Sr. Doria?
+
+1237
+01:41:16,269 --> 01:41:17,770
+<i>Meu nome é Tomás Garrido.</i>
+
+1238
+01:41:17,854 --> 01:41:19,188
+Eu sou Virginia Goodman.
+
+1239
+01:41:19,731 --> 01:41:21,774
+<i>Eu sou o pai do Daniel Garrido.</i>
+
+1240
+01:41:24,236 --> 01:41:26,863
+Quero contar o que houve
+com o meu filho.
+
+1241
+01:41:30,700 --> 01:41:34,120
+Legendas: Anna C. Brandão
+

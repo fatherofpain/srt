@@ -1,0 +1,4649 @@
+1
+00:00:50,233 --> 00:00:52,700
+<i>Avise quando estiver em posição,</i>
+<i>Sargento Davis.</i>
+
+2
+00:00:55,300 --> 00:00:58,067
+Equipe Adaga 1, entendido.
+A ligação está ruim.
+
+3
+00:00:59,000 --> 00:01:01,733
+-Quanto tempo até meu apoio chegar?
+<i>-Estamos cuidando disso. Aguarde.</i>
+
+4
+00:01:07,167 --> 00:01:09,967
+<i>De oito a dez minutos.</i>
+<i>Aconselho a esperar.</i>
+
+5
+00:01:11,433 --> 00:01:12,733
+Não posso esperar o apoio.
+
+6
+00:01:13,100 --> 00:01:14,200
+Mande-os atrás de mim.
+
+7
+00:01:17,900 --> 00:01:20,367
+<i>Davis, mantenha sua posição.</i>
+<i>Eles estão a caminho.</i>
+
+8
+00:02:27,000 --> 00:02:30,233
+Equipe Adaga 1, está vendo isso?
+Tem algum tipo de distúrbio aqui.
+
+9
+00:02:30,300 --> 00:02:32,333
+<i>Davis, o que é isso?</i>
+<i>O que você está vendo?</i>
+
+10
+00:02:45,233 --> 00:02:46,700
+Mas que diabos...
+
+11
+00:02:57,267 --> 00:02:58,133
+<i>Davis.</i>
+
+12
+00:02:59,700 --> 00:03:01,067
+<i>Davis, qual é o seu </i>status?
+
+13
+00:03:03,367 --> 00:03:04,367
+<i>Davis, responda!</i>
+
+14
+00:03:30,433 --> 00:03:32,433
+{\an8}UM FILME ORIGINAL NETFLIX
+
+15
+00:04:09,267 --> 00:04:10,133
+Achei.
+
+16
+00:04:32,300 --> 00:04:36,300
+{\an8}-...vou começar tarde.
+-Está bem, é uma sessão fechada.
+
+17
+00:04:45,033 --> 00:04:46,767
+A maioria das especificações
+ficaram iguais...
+
+18
+00:04:46,833 --> 00:04:49,700
+<i>Dr. Osbourne, ligue 204.</i>
+<i>Dr. Osbourne, 204.</i>
+
+19
+00:04:53,133 --> 00:04:56,067
+{\an8}Pelo que sei, estão emitindo
+temporárias para a pesquisa.
+
+20
+00:04:56,133 --> 00:04:58,933
+-Faz parte do mesmo crachá ou...
+-Tenho quase certeza.
+
+21
+00:04:59,000 --> 00:05:00,200
+-Está bem.
+-Como vai?
+
+22
+00:05:01,700 --> 00:05:04,000
+-Vamos pegar tudo.
+-Marty já tinha chegado?
+
+23
+00:05:04,067 --> 00:05:06,800
+-Sim.
+-E ela está trabalhando naquele projeto?
+
+24
+00:05:06,867 --> 00:05:09,267
+Vão acabar em uma semana.
+Eu ia dizer...
+
+25
+00:05:09,333 --> 00:05:13,233
+<i>Don Taylor, apresente-se ao laboratório</i>
+<i>de laser prédio B, laboratório de laser.</i>
+
+26
+00:05:14,467 --> 00:05:17,767
+Vou dar uma olhada.
+
+27
+00:05:19,767 --> 00:05:21,433
+-Por onde você andou?
+-Resolvendo problemas.
+
+28
+00:05:21,933 --> 00:05:23,333
+Você parece...
+empoeirado.
+
+29
+00:05:23,967 --> 00:05:25,733
+Às vezes é preciso se sujar, Efrem.
+
+30
+00:05:26,200 --> 00:05:27,200
+-Testou o batimento?
+-Sim.
+
+31
+00:05:27,267 --> 00:05:29,967
+Fui até o cofre, pedi um pouco
+de tetraceno a Johnson,
+
+32
+00:05:30,033 --> 00:05:31,900
+mas parece que não armazenamos.
+
+33
+00:05:31,967 --> 00:05:34,367
+É antigo e caro pra cacete.
+
+34
+00:05:34,800 --> 00:05:38,133
+Ficou caro. Nos anos 90, era barato.
+
+35
+00:05:38,800 --> 00:05:42,067
+Se procurar bem...
+ainda consegue achar por aí.
+
+36
+00:05:43,367 --> 00:05:45,400
+Achou uma gangue de rua
+que vende tetraceno?
+
+37
+00:05:45,467 --> 00:05:47,933
+Cartucho de impressora industrial,
+US$ 14,99 na época.
+
+38
+00:05:48,000 --> 00:05:49,933
+-Pegue um suporte, pode ser?
+-Aqui está.
+
+39
+00:05:50,000 --> 00:05:51,133
+Obrigado.
+
+40
+00:05:52,000 --> 00:05:55,033
+Vai dizer aos empresários que está
+fazendo isso numa peça de 20 anos?
+
+41
+00:05:55,100 --> 00:05:56,800
+Vou mostrar a eles que funciona e dizer:
+
+42
+00:05:56,867 --> 00:05:59,933
+"Essa é a diferença entre um protótipo
+e um modelo de produção."
+
+43
+00:06:03,433 --> 00:06:05,300
+A concavidade está estirada em zero.
+
+44
+00:06:06,233 --> 00:06:07,833
+Rastreamento de lente está ligado.
+
+45
+00:06:09,367 --> 00:06:11,033
+Alinhamento inserido.
+
+46
+00:06:12,400 --> 00:06:13,733
+Está pronto para começar.
+
+47
+00:06:14,700 --> 00:06:15,733
+Pode dizer.
+
+48
+00:06:29,267 --> 00:06:33,033
+Se pensarem nas aplicações em outros
+materiais, pode ser significativo.
+
+49
+00:06:33,100 --> 00:06:37,133
+Metais, por exemplo, podem ser
+quebrados com pouco esforço ou barulho.
+
+50
+00:06:37,733 --> 00:06:42,100
+Concreto, borracha, são todos vulneráveis
+a mudanças violentas de temperatura.
+
+51
+00:06:42,167 --> 00:06:46,867
+Este projeto começou por pedido
+da Equipe 6 dos fuzileiros navais.
+
+52
+00:06:46,933 --> 00:06:51,433
+Depois do cerco em Ruanda,
+eles nos pediram a capacidade
+
+53
+00:06:51,700 --> 00:06:54,467
+de congelar ou ferver instantaneamente
+o suprimento de água do inimigo.
+
+54
+00:06:54,733 --> 00:06:58,300
+Esse dispositivo poderia
+ter expulsado o inimigo.
+
+55
+00:06:58,367 --> 00:07:01,033
+E vocês tentaram isso em coisas vivas?
+
+56
+00:07:03,467 --> 00:07:07,767
+Essa não era nossa intenção, inicialmente.
+
+57
+00:07:09,033 --> 00:07:10,067
+Gostaríamos que testassem.
+
+58
+00:07:11,367 --> 00:07:12,467
+Algum voluntário?
+
+59
+00:07:14,733 --> 00:07:17,100
+Nós vamos tentar.
+
+60
+00:07:17,167 --> 00:07:20,900
+Senhores, por que não vamos nos sentar?
+Falaremos dos próximos passos.
+
+61
+00:07:21,733 --> 00:07:22,933
+Por aqui.
+
+62
+00:07:29,367 --> 00:07:31,133
+O que você quer, uma consciência limpa?
+
+63
+00:07:31,367 --> 00:07:33,767
+Teste com um pedaço de carne,
+não me importo.
+
+64
+00:07:33,833 --> 00:07:36,933
+O que eu quero é usar
+para o que projetamos originalmente.
+
+65
+00:07:37,300 --> 00:07:38,167
+Um dissuasor.
+
+66
+00:07:38,967 --> 00:07:41,367
+Ninguém falou nada
+sobre cozinhar pulmões de pessoas.
+
+67
+00:07:41,433 --> 00:07:42,400
+É guerra.
+
+68
+00:07:43,800 --> 00:07:45,067
+É o negócio no qual estamos.
+
+69
+00:07:45,133 --> 00:07:47,467
+Lembra do que me disse que era
+quando me contratou?
+
+70
+00:07:48,700 --> 00:07:51,800
+-Defesa.
+-E isso ainda é parcialmente verdade.
+
+71
+00:07:52,200 --> 00:07:53,367
+Mas guerra é um bom negócio.
+
+72
+00:07:54,167 --> 00:07:55,400
+Tráfico humano também.
+
+73
+00:07:55,467 --> 00:07:59,100
+Trabalhamos para a DARPA, Mark.
+Trabalhamos para o governo.
+
+74
+00:07:59,967 --> 00:08:02,367
+"Não sei que armas usaremos
+para lutar na III Guerra Mundial,
+
+75
+00:08:02,433 --> 00:08:06,333
+-mas a IV Guerra Mundial será travada..."
+-"Com paus e pedras." Albert Einstein.
+
+76
+00:08:06,400 --> 00:08:08,733
+-Ele trabalhava para o governo.
+-Isso mesmo.
+
+77
+00:08:09,467 --> 00:08:12,833
+E se perguntar a ele, não acho que
+considerou esse seu melhor momento.
+
+78
+00:08:12,900 --> 00:08:15,400
+Com certeza ele tem uma opinião
+sobre ferver carne humana.
+
+79
+00:08:16,200 --> 00:08:19,067
+Já pensou em próteses
+com <i>feedback </i>sensorial completo?
+
+80
+00:08:19,133 --> 00:08:21,467
+Próteses...
+não ganham guerras.
+
+81
+00:08:23,033 --> 00:08:23,900
+Ouviu isso?
+
+82
+00:08:24,833 --> 00:08:27,033
+É o cientista compreensivo
+em você morrendo.
+
+83
+00:08:28,233 --> 00:08:30,700
+Você explicou ao seu pessoal
+como operar o raio?
+
+84
+00:08:31,067 --> 00:08:31,967
+-Expliquei.
+-Ótimo.
+
+85
+00:08:32,433 --> 00:08:33,833
+Então pode começar
+a arrumar as coisas.
+
+86
+00:08:34,967 --> 00:08:36,100
+Pode ser mais específico?
+
+87
+00:08:38,200 --> 00:08:39,767
+Esses óculos.
+
+88
+00:08:39,833 --> 00:08:43,167
+Seus óculos hiperespectrais
+
+89
+00:08:43,233 --> 00:08:48,133
+sendo usados pelas Forças Especiais
+na Europa Oriental na Guerra da Moldova.
+
+90
+00:08:48,933 --> 00:08:52,233
+-Estou ciente. Li os relatórios de campo.
+-Não, você não leu esse relatório.
+
+91
+00:08:52,767 --> 00:08:55,900
+Orland me ligou pessoalmente.
+General Orland.
+
+92
+00:08:55,967 --> 00:08:59,367
+Ele disse que as coisas estão muito...
+sensíveis por lá.
+
+93
+00:09:00,400 --> 00:09:03,933
+E eles estão... vendo coisas.
+
+94
+00:09:04,933 --> 00:09:06,700
+Certo. Como o quê?
+
+95
+00:09:08,300 --> 00:09:09,200
+Eles não me dizem.
+
+96
+00:09:10,200 --> 00:09:13,767
+Não compartilham o vídeo.
+Não discutem o que estão vendo.
+
+97
+00:09:13,833 --> 00:09:16,867
+Só querem o engenheiro responsável
+presente para aconselhar.
+
+98
+00:09:17,967 --> 00:09:21,200
+Você inventou esses óculos
+para manter nossos rapazes seguros.
+
+99
+00:09:21,867 --> 00:09:23,167
+Agora precisam da sua ajuda.
+
+100
+00:09:24,000 --> 00:09:25,267
+Pense nisso como defesa.
+
+101
+00:09:34,300 --> 00:09:37,733
+AERONÁUTICA DOS ESTADOS UNIDOS
+
+102
+00:09:41,900 --> 00:09:45,433
+-Vou reiniciar o sistema de guia.
+-Está bem apertado. Temos que arrancar.
+
+103
+00:09:50,267 --> 00:09:52,833
+{\an8}Moldova, Europa Oriental
+Base Aérea dos Estados Unidos
+
+104
+00:09:52,900 --> 00:09:54,333
+{\an8}Está bem, vamos. Saiam.
+
+105
+00:10:09,067 --> 00:10:10,400
+-Mark Clyne?
+-O quê?
+
+106
+00:10:11,067 --> 00:10:12,933
+Você é o cara que projetou
+a câmera de capacete?
+
+107
+00:10:13,000 --> 00:10:15,700
+-Sim. Mark Clyne.
+-James Orland. Venha comigo.
+
+108
+00:10:19,733 --> 00:10:22,733
+-Muitos soldados novos aqui.
+-O país está em caos.
+
+109
+00:10:23,200 --> 00:10:26,367
+A revolta é resquício da ditadura militar
+
+110
+00:10:26,433 --> 00:10:28,767
+que comandava esse lugar
+até dois meses atrás.
+
+111
+00:10:29,267 --> 00:10:32,800
+E o maior apoio deles é principalmente
+na parte norte do país,
+
+112
+00:10:32,867 --> 00:10:35,433
+perto da fronteira russa
+e aqui na capital.
+
+113
+00:10:36,167 --> 00:10:38,267
+O problema é que as forças deles
+são bem treinadas.
+
+114
+00:10:38,900 --> 00:10:41,767
+Estão ameaçando transformar
+essa coisa numa guerra civil.
+
+115
+00:10:47,233 --> 00:10:50,067
+Moldova. Os russos a tinham, perderam.
+
+116
+00:10:50,900 --> 00:10:53,767
+Tornou-se independente,
+mas está com problemas internos.
+
+117
+00:10:54,833 --> 00:10:56,800
+Por um lado temos essa revolta,
+
+118
+00:10:57,133 --> 00:10:59,800
+feita pelos ex-melhores
+soldados do regime.
+
+119
+00:10:59,867 --> 00:11:01,700
+Eles são bem treinados e perigosos.
+
+120
+00:11:01,900 --> 00:11:04,000
+E por outro,
+temos a maioria da população,
+
+121
+00:11:04,067 --> 00:11:07,400
+que está rasgando as bandeiras do regime
+e exigindo um novo governo.
+
+122
+00:11:07,467 --> 00:11:12,067
+Intranquilidade civil, por mais complicada
+que seja, é um negócio que conhecemos bem.
+
+123
+00:11:12,133 --> 00:11:13,800
+Gostamos de pensar que somos bons nisso.
+
+124
+00:11:15,133 --> 00:11:16,833
+Mas essa coisa que sua câmera achou,
+
+125
+00:11:17,900 --> 00:11:19,400
+é toda uma outra história.
+
+126
+00:11:26,933 --> 00:11:30,333
+Não posso enviar esse vídeo para o EUCOM.
+Tenho medo que pensem que é uma piada.
+
+127
+00:11:30,400 --> 00:11:34,133
+-O Dep. de Defesa não tem senso de humor.
+-Geralmente, não. Sargento, coloque aí.
+
+128
+00:11:37,333 --> 00:11:40,067
+Tenho certeza de que há uma explicação
+científica para o que está aí,
+
+129
+00:11:40,133 --> 00:11:43,167
+mas até que você me dê uma,
+não vou enviar para os superiores.
+
+130
+00:11:46,133 --> 00:11:47,233
+-Acabou?
+-Sim, senhor.
+
+131
+00:11:47,300 --> 00:11:49,300
+-Saia. Tranque-nos aqui. Espere lá fora.
+-Senhor.
+
+132
+00:11:54,333 --> 00:11:57,367
+Ninguém aqui conseguiu
+entender o que é isso.
+
+133
+00:11:58,033 --> 00:12:00,267
+Isso atrapalhou toda a nossa operação
+
+134
+00:12:00,333 --> 00:12:02,933
+por motivos que não tenho
+a liberdade de discutir com você.
+
+135
+00:12:05,100 --> 00:12:06,833
+Posso dizer que precisamos
+de respostas rápido.
+
+136
+00:12:30,067 --> 00:12:32,300
+-O senhor se importa?
+-Você tem um olho bom.
+
+137
+00:12:35,767 --> 00:12:39,467
+Cinco câmeras diferentes pegaram algo
+parecido nas últimas três semanas.
+
+138
+00:12:42,300 --> 00:12:45,467
+A princípio, nosso técnico de inteligência
+descartou como interferência.
+
+139
+00:12:46,167 --> 00:12:47,433
+Isso não é interferência.
+
+140
+00:12:49,467 --> 00:12:52,767
+Eu não acho que me traria até aqui
+por causa de interferência.
+
+141
+00:12:53,467 --> 00:12:57,267
+-Quer me dizer o que está pensando?
+-Quero que você diga o que está pensando.
+
+142
+00:12:58,100 --> 00:13:00,400
+Não sei o que estou pensando... ainda.
+
+143
+00:13:01,067 --> 00:13:02,733
+Mas tem uma explicação.
+
+144
+00:13:06,167 --> 00:13:08,833
+Aquela foi a primeira aparição.
+Outras três iguais.
+
+145
+00:13:08,900 --> 00:13:12,233
+A última foi diferente.
+Envolveu um membro da Força Delta,
+
+146
+00:13:12,300 --> 00:13:14,067
+isso torna tudo muito delicado.
+
+147
+00:13:14,833 --> 00:13:16,200
+Essa é Fran Madison, da CIA.
+
+148
+00:13:16,867 --> 00:13:19,800
+O que Operações Especiais faz aqui
+é sob as operações secretas da CIA.
+
+149
+00:13:19,867 --> 00:13:22,100
+Precisa assinar isso
+antes de prosseguirmos.
+
+150
+00:13:23,767 --> 00:13:25,433
+-O que é isso?
+-É um juramento de informação sigilosa.
+
+151
+00:13:25,700 --> 00:13:29,433
+Reconhece que é prisão perpétua se revelar
+qualquer coisa que ficar sabendo.
+
+152
+00:13:44,000 --> 00:13:47,067
+{\an8}Instalação de Informação
+Compartimentada Sigilosa
+
+153
+00:14:05,733 --> 00:14:07,733
+-Abra o arquivo Davis, por favor.
+-Sim, senhora.
+
+154
+00:14:08,267 --> 00:14:11,067
+Três dias atrás conduzimos
+uma incursão no meio da cidade.
+
+155
+00:14:11,800 --> 00:14:15,367
+Nossa comunicação estava intermitente
+e um cara se separou do grupo...
+
+156
+00:14:16,400 --> 00:14:18,100
+e acabou sendo morto em combate.
+
+157
+00:14:20,733 --> 00:14:22,400
+Ele chegou mais perto
+do que qualquer um.
+
+158
+00:14:23,200 --> 00:14:24,133
+Perto demais.
+
+159
+00:14:44,200 --> 00:14:47,733
+<i>Equipe Adaga 1, está vendo isso?</i>
+<i>Tem algum tipo de distúrbio aqui.</i>
+
+160
+00:14:49,433 --> 00:14:51,433
+<i>Davis, o que é isso?</i>
+<i>O que você está vendo?</i>
+
+161
+00:14:52,033 --> 00:14:53,100
+<i>Mas que diabos...</i>
+
+162
+00:15:04,800 --> 00:15:06,033
+Sargento Chris Davis.
+
+163
+00:15:06,900 --> 00:15:09,367
+Veterano de três recrutamentos.
+O melhor dos melhores.
+
+164
+00:15:16,967 --> 00:15:19,900
+Nas últimas semanas
+temos achado corpos pela cidade
+
+165
+00:15:19,967 --> 00:15:21,400
+que morreram do mesmo jeito.
+
+166
+00:15:22,300 --> 00:15:24,800
+As autópsias contestam
+qualquer explicação.
+
+167
+00:15:24,867 --> 00:15:26,833
+Os órgãos internos estavam congelados
+
+168
+00:15:26,900 --> 00:15:29,933
+e, no entanto, a pele estava
+queimada e corroída.
+
+169
+00:15:30,367 --> 00:15:34,767
+A única resposta do contato militar
+de Moldova é choque e confusão.
+
+170
+00:15:35,033 --> 00:15:35,900
+E tem raiva.
+
+171
+00:15:36,867 --> 00:15:40,433
+Há adolescentes pichando "<i>aratare</i>
+do genocídio" nos locais das mortes.
+
+172
+00:15:40,700 --> 00:15:41,833
+-Genocídio...
+-"<i>Aratare.</i>"
+
+173
+00:15:41,900 --> 00:15:44,433
+É um mito local. Os fantasmas de guerra.
+
+174
+00:15:45,900 --> 00:15:48,400
+"Tão apavorante quanto."
+Essa é a tradução literal.
+
+175
+00:15:48,900 --> 00:15:51,267
+-É muito poético.
+-Eles são supersticiosos.
+
+176
+00:15:51,333 --> 00:15:53,133
+Eles parecem pensar...
+
+177
+00:15:54,333 --> 00:15:57,867
+que os horrores da guerra
+acordaram algo não natural.
+
+178
+00:15:58,833 --> 00:16:00,300
+Esperamos
+que tenha uma teoria alternativa.
+
+179
+00:16:00,400 --> 00:16:01,467
+O que acha?
+
+180
+00:16:02,767 --> 00:16:05,000
+-Acho que precisa de um nome novo.
+-Além disso.
+
+181
+00:16:05,933 --> 00:16:08,800
+-Dê-me uma cópia dos dados, algum tempo...
+-Isso não é possível.
+
+182
+00:16:08,967 --> 00:16:10,900
+Querem que eu descubra
+o que é isso neste momento?
+
+183
+00:16:10,967 --> 00:16:13,100
+-Queremos o seu parecer.
+-Não tenho um ainda.
+
+184
+00:16:13,167 --> 00:16:16,700
+Então acho que temos que enviar
+nossa teoria temporária aos superiores.
+
+185
+00:16:16,767 --> 00:16:19,333
+-Não quero fazer isso.
+-Qual é a sua teoria temporária?
+
+186
+00:16:19,900 --> 00:16:22,767
+A agência acha que isso
+é um tipo de tecnologia de encobrimento.
+
+187
+00:16:24,100 --> 00:16:26,333
+Soldados da revolta usando
+camuflagem ativa.
+
+188
+00:16:26,400 --> 00:16:28,333
+Nesse país? Algo avançado assim?
+
+189
+00:16:28,400 --> 00:16:31,900
+Alguns grupos na Europa e Ásia podem
+estar trabalhando em camuflagem ativa.
+
+190
+00:16:32,367 --> 00:16:36,100
+A DARPA tenta tecnologia de encobrimento.
+Faltam anos para ter um protótipo.
+
+191
+00:16:36,167 --> 00:16:39,433
+-Talvez alguém tenha sido mais rápido.
+-A DARPA é líder no campo.
+
+192
+00:16:39,700 --> 00:16:40,800
+Tem certeza disso?
+
+193
+00:16:41,333 --> 00:16:43,900
+O regime gastou muito
+com pesquisa de armas.
+
+194
+00:16:43,967 --> 00:16:47,367
+Corrupção, legislação flexível. Você é
+um laboratório militar e quer anonimato?
+
+195
+00:16:47,433 --> 00:16:49,933
+Esse é um ótimo lugar
+para trabalhar e se esconder.
+
+196
+00:16:54,833 --> 00:16:56,367
+Digamos que seja
+tecnologia de encobrimento.
+
+197
+00:16:57,933 --> 00:17:01,367
+-Como explica a causa da morte?
+-Um choque que a vítima sofreu.
+
+198
+00:17:02,200 --> 00:17:03,400
+Acho que está forçando.
+
+199
+00:17:03,467 --> 00:17:05,767
+Nosso negócio requer
+que façamos suposições.
+
+200
+00:17:05,833 --> 00:17:07,700
+Meu negócio requer que nós as provemos.
+
+201
+00:17:08,900 --> 00:17:11,867
+O trabalho do seu técnico é achar falhas,
+então ele vê falhas.
+
+202
+00:17:12,867 --> 00:17:15,400
+Seu trabalho é achar o inimigo,
+então você vê o inimigo.
+
+203
+00:17:16,333 --> 00:17:18,467
+Os locais acreditam em espíritos,
+então veem espíritos.
+
+204
+00:17:18,733 --> 00:17:21,133
+Todo mundo é tendencioso,
+de uma forma ou de outra.
+
+205
+00:17:22,233 --> 00:17:25,767
+Minha resposta no momento é que
+faltam dados para apoiar qualquer teoria.
+
+206
+00:17:29,700 --> 00:17:32,033
+Do que precisa para dar
+uma declaração mais definitiva?
+
+207
+00:17:41,067 --> 00:17:44,733
+-Primeiro, precisa de uma imagem melhor.
+-É o que estou tentando conseguir.
+
+208
+00:17:45,333 --> 00:17:46,367
+Como?
+
+209
+00:17:48,067 --> 00:17:49,333
+-Aqui, senhor.
+-Isso aí.
+
+210
+00:17:52,800 --> 00:17:55,333
+Eu trouxe isso da DARPA.
+Uma câmera hiperespectral.
+
+211
+00:17:55,400 --> 00:17:58,367
+Uma versão mais poderosa das câmeras
+de capacete que vocês usam.
+
+212
+00:17:58,433 --> 00:18:00,433
+Ela enxerga mais fundo
+no espectro de luz.
+
+213
+00:18:00,700 --> 00:18:03,700
+Visível ou invisível,
+se tem alguma coisa ali, isso vai captar.
+
+214
+00:18:04,233 --> 00:18:07,367
+Consegue montar essa coisa...
+num veículo Delta?
+
+215
+00:18:07,433 --> 00:18:09,400
+-Não vejo por que não.
+-Ótimo.
+
+216
+00:18:09,467 --> 00:18:11,467
+Fazemos missões na cidade
+todos os dias.
+
+217
+00:18:11,867 --> 00:18:14,733
+Vou colocar você com nosso técnico
+de campo, dizer a ele como operá-la.
+
+218
+00:18:14,800 --> 00:18:17,267
+Eu não colocaria um técnico
+entre essa câmera e eu.
+
+219
+00:18:20,967 --> 00:18:22,167
+Então você quer operá-la?
+
+220
+00:18:22,967 --> 00:18:26,700
+Se quer a imagem...
+precisará de um tempo de reação rápido lá.
+
+221
+00:18:27,033 --> 00:18:28,800
+Na próxima missão, você vai com Delta.
+
+222
+00:18:29,400 --> 00:18:33,200
+Eles vão deixar você próximo dessa coisa.
+Se conseguir a imagem...
+
+223
+00:18:34,067 --> 00:18:36,167
+pode voltar para a Virgínia
+sem desfazer a mala.
+
+224
+00:18:39,800 --> 00:18:41,733
+O rotor está ruim. Tem que substituir.
+
+225
+00:18:43,400 --> 00:18:44,900
+Solde no painel frontal.
+
+226
+00:18:52,233 --> 00:18:54,300
+Ora, ora, ora. Toll, olha só isso.
+
+227
+00:18:54,367 --> 00:18:56,933
+-O que esse cara está fazendo?
+-Não sei.
+
+228
+00:18:57,367 --> 00:18:58,700
+Dá pra acreditar?
+
+229
+00:18:58,900 --> 00:19:01,000
+-Se funcionar, cara.
+-Sério.
+
+230
+00:19:03,133 --> 00:19:05,233
+Ouvi dizer que está instalando
+uma câmera no nosso caminhão.
+
+231
+00:19:05,300 --> 00:19:07,700
+Estava tudo bem,
+até você arrancar a calibre 50.
+
+232
+00:19:07,767 --> 00:19:09,767
+Está tirando uma arma
+para colocar uma câmera?
+
+233
+00:19:10,233 --> 00:19:12,300
+É o único lugar grande o bastante
+para montá-la.
+
+234
+00:19:13,267 --> 00:19:16,233
+Vocês entendem, não é?
+Sei que parece uma ideia terrível.
+
+235
+00:19:16,933 --> 00:19:21,033
+Preferimos cuidar do que já cuidou
+de nós, Dr. Clyne. Entende isso?
+
+236
+00:19:21,100 --> 00:19:23,333
+Cuidar do que já cuidou de vocês?
+Na verdade não entendi.
+
+237
+00:19:26,267 --> 00:19:28,700
+Esse caminhão salvou nossas vidas,
+muitas vezes.
+
+238
+00:19:28,967 --> 00:19:29,867
+Eu entendo.
+
+239
+00:19:30,400 --> 00:19:32,900
+Sabiam que a equipe do Dr. Clyne
+construiu esse caminhão?
+
+240
+00:19:34,233 --> 00:19:35,800
+Clyne trabalha para a DARPA.
+
+241
+00:19:37,367 --> 00:19:41,300
+Trabalhei de perto com o grupo dele.
+Fui nas instalações deles na Virgínia.
+
+242
+00:19:41,833 --> 00:19:44,767
+-Bom ver você, Dr. Clyne.
+-Bom ver você, Capitão Cabrera.
+
+243
+00:19:44,833 --> 00:19:48,067
+Eles colocaram armadura mais leve
+e mais resistente nesses caminhões.
+
+244
+00:19:48,133 --> 00:19:51,067
+Projetaram os carregadores mecânicos
+que fazem o trabalho pesado,
+
+245
+00:19:51,133 --> 00:19:53,300
+para vocês não se cansarem tanto.
+
+246
+00:19:53,967 --> 00:19:55,433
+Na verdade, o próprio Dr. Clyne
+
+247
+00:19:55,900 --> 00:19:58,867
+desenvolveu a proteção corporal leve
+de Kevlar que literalmente
+
+248
+00:19:59,967 --> 00:20:00,900
+protege suas bolas.
+
+249
+00:20:02,000 --> 00:20:06,100
+Eu acho que não deveria haver nada
+além de boa vontade com o Dr. Clyne.
+
+250
+00:20:08,433 --> 00:20:11,300
+-Major Sessions.
+-Capitão, mande seus homens recuarem.
+
+251
+00:20:12,333 --> 00:20:14,367
+-Voltem ao trabalho.
+-Manda ver.
+
+252
+00:20:14,433 --> 00:20:18,400
+Esse é o Dr. Clyne. Ele trabalhou conosco
+oito ou dez vezes nos últimos cinco anos.
+
+253
+00:20:19,267 --> 00:20:21,167
+Já saiu com a equipe de ataque?
+
+254
+00:20:22,167 --> 00:20:23,033
+Não, senhor.
+
+255
+00:20:23,833 --> 00:20:24,867
+Ele é um bom sujeito, major.
+
+256
+00:20:24,933 --> 00:20:28,200
+Ótimo. Só não sou fã de levar turistas
+em missões de combate.
+
+257
+00:20:28,467 --> 00:20:29,700
+Senhor, não sou um turista.
+
+258
+00:20:30,033 --> 00:20:32,333
+Se não está carregando uma M4,
+é um turista.
+
+259
+00:20:32,400 --> 00:20:33,900
+Posso carregar uma se quiser.
+
+260
+00:20:33,967 --> 00:20:38,000
+Temos que levar o Dr. Clyne ao campo para
+rastrear o alvo e conseguir uma imagem.
+
+261
+00:20:38,067 --> 00:20:40,100
+Quanto tempo até o equipamento
+estar operacional?
+
+262
+00:20:40,467 --> 00:20:41,333
+Algumas horas.
+
+263
+00:20:41,833 --> 00:20:43,800
+-Vai funcionar?
+-Se chegarmos perto o bastante.
+
+264
+00:20:45,000 --> 00:20:48,700
+Deixe-me dizer uma coisa.
+Sargento Davis chegou perto o bastante.
+
+265
+00:20:50,167 --> 00:20:51,833
+Era o melhor Delta que tínhamos.
+
+266
+00:20:53,333 --> 00:20:56,200
+Tenha certeza que seu equipamento
+é de primeira dessa vez.
+
+267
+00:21:04,467 --> 00:21:06,167
+-Eles eram como irmãos.
+-Eu entendo.
+
+268
+00:21:12,267 --> 00:21:13,133
+Boa noite, doutor.
+
+269
+00:21:28,067 --> 00:21:29,967
+Ouvi dizer que vocês se deram muito bem.
+
+270
+00:21:33,367 --> 00:21:37,867
+-Ela pode parecer um pouco intensa.
+-Sim. Você também.
+
+271
+00:21:37,933 --> 00:21:39,733
+Só estou aqui para achar essa coisa.
+
+272
+00:21:39,800 --> 00:21:42,000
+Está disposto a ir numa missão
+de combate para achar.
+
+273
+00:21:44,767 --> 00:21:45,933
+Ela também está.
+
+274
+00:21:47,200 --> 00:21:49,267
+Ela está sob muita pressão de D.C.
+
+275
+00:21:49,333 --> 00:21:51,933
+Eles querem uma resposta
+e o trabalho dela é dar uma a eles.
+
+276
+00:21:52,067 --> 00:21:53,867
+Vi o nome de vocês na lista de uma missão.
+
+277
+00:21:54,733 --> 00:21:56,967
+Sabia que isso era de máxima prioridade...
+
+278
+00:21:58,433 --> 00:22:00,100
+mas para eles inserirem ambos...
+
+279
+00:22:03,333 --> 00:22:05,200
+Não precisa se preocupar comigo.
+
+280
+00:22:05,867 --> 00:22:09,033
+Não me preocupo com você, doutor.
+Eu me preocupo com aquela coisa.
+
+281
+00:22:11,033 --> 00:22:13,167
+Ela espera que seja
+tecnologia de encobrimento.
+
+282
+00:22:14,833 --> 00:22:15,967
+O que acha que é?
+
+283
+00:22:17,933 --> 00:22:19,467
+Algo em que ninguém ainda pensou.
+
+284
+00:22:24,433 --> 00:22:26,433
+Senhores, ontem às 18 h,
+
+285
+00:22:26,700 --> 00:22:29,433
+a Equipe Utah saiu daqui numa missão
+de reconhecimento a Durlesti,
+
+286
+00:22:29,700 --> 00:22:31,300
+quando rebeldes atacaram.
+
+287
+00:22:31,367 --> 00:22:34,333
+Conseguimos ouvir boa parte
+da conversa deles durante o tiroteio,
+
+288
+00:22:34,400 --> 00:22:35,800
+mas a comunicação não era confiável.
+
+289
+00:22:36,267 --> 00:22:39,000
+O alvo é um prédio de apartamentos
+de cinco andares.
+
+290
+00:22:39,933 --> 00:22:43,133
+Achamos que o que resta da Equipe Utah
+está sendo mantido no quarto andar,
+
+291
+00:22:43,300 --> 00:22:44,967
+no apartamento do canto noroeste.
+
+292
+00:22:45,033 --> 00:22:47,367
+Estaremos dentro de uma área
+dominada por rebeldes.
+
+293
+00:22:48,067 --> 00:22:49,433
+Devemos esperar confronto.
+
+294
+00:22:50,233 --> 00:22:51,167
+Uma última coisa.
+
+295
+00:22:52,933 --> 00:22:55,700
+Antes do nosso pessoal ser pego,
+passaram por rádio que viram
+
+296
+00:22:55,767 --> 00:22:57,767
+o que estamos chamando
+de anomalias hiperespectrais.
+
+297
+00:22:58,333 --> 00:23:01,800
+Sua missão é uma extração rápida.
+Pegar nosso pessoal e sair.
+
+298
+00:23:02,300 --> 00:23:06,267
+Porém, se atacados,
+neutralizem as anomalias na área.
+
+299
+00:23:06,400 --> 00:23:07,267
+Neutralizá-las?
+
+300
+00:23:09,833 --> 00:23:12,300
+-Como?
+-Com o que estamos lidando?
+
+301
+00:23:12,367 --> 00:23:15,933
+Acreditamos que são soldados inimigos
+com camuflagem eletrônica avançada.
+
+302
+00:23:16,000 --> 00:23:19,267
+-Sejam precisos ao atirarem.
+-Não sabemos exatamente o que são...
+
+303
+00:23:19,333 --> 00:23:21,967
+Como é? Quer acrescentar algo?
+
+304
+00:23:24,100 --> 00:23:25,967
+Se estiverem usando tecnologia
+de encobrimento,
+
+305
+00:23:26,033 --> 00:23:28,833
+precisam trazê-la de volta
+o mais intacta possível.
+
+306
+00:23:28,900 --> 00:23:31,400
+Dr. Clyne e Agente Madison
+estarão na sua missão.
+
+307
+00:23:32,233 --> 00:23:34,867
+Dr. Clyne estará monitorando
+suas câmeras de capacete
+
+308
+00:23:34,933 --> 00:23:36,900
+do segundo veículo MRAP no comboio.
+
+309
+00:23:37,900 --> 00:23:40,900
+Major Sessions vai liderar
+a Equipe Adaga 1 para fazer a extração.
+
+310
+00:23:42,167 --> 00:23:43,900
+Fiquem em contato.
+Peguem seu equipamento.
+
+311
+00:23:46,867 --> 00:23:49,300
+-Parceiro, vamos.
+-AJ, bem na frente.
+
+312
+00:23:49,967 --> 00:23:51,967
+Verifique as armas, Billy.
+
+313
+00:23:52,900 --> 00:23:53,967
+Pode deixar.
+
+314
+00:24:28,767 --> 00:24:32,100
+<i>-O carro não é suave o bastante para você?</i>
+<i>-E você acha que é durão.</i>
+
+315
+00:24:32,167 --> 00:24:34,433
+<i>Eles precisam muito</i>
+<i>repavimentar essas estradas.</i>
+
+316
+00:25:00,833 --> 00:25:03,233
+Muito bem, pessoal,
+estamos chegando na zona abandonada.
+
+317
+00:25:03,400 --> 00:25:05,733
+Esperem uma forte presença rebelde.
+
+318
+00:27:25,767 --> 00:27:27,367
+<i>Tem o corpo de um rebelde aqui.</i>
+
+319
+00:27:35,867 --> 00:27:39,200
+Achei Agopia da Equipe Utah.
+Confirmado morto em combate.
+
+320
+00:27:39,700 --> 00:27:43,200
+<i>Nenhum deles parece ter sido baleado.</i>
+<i>Nenhum ferimento de entrada nem saída.</i>
+
+321
+00:27:44,967 --> 00:27:47,267
+Alessio falando.
+Indo para o quinto andar.
+
+322
+00:27:59,200 --> 00:28:01,700
+-Temos movimento.
+-Toll, verifique a diagonal.
+
+323
+00:28:09,933 --> 00:28:11,200
+Onde? Não estamos vendo nada.
+
+324
+00:28:11,267 --> 00:28:13,767
+-Isso ali mesmo. Ali mesmo.
+-Está bem em cima.
+
+325
+00:28:13,833 --> 00:28:16,767
+<i>É uma assinatura de movimento.</i>
+<i>Tem algo embaixo da banheira.</i>
+
+326
+00:28:25,000 --> 00:28:28,033
+Lewis, a banheira.
+Quero que vire a banheira.
+
+327
+00:28:33,433 --> 00:28:36,467
+-Toll, cuide do que está embaixo.
+-Pode deixar.
+
+328
+00:28:40,467 --> 00:28:44,100
+Um, dois, três.
+
+329
+00:28:50,267 --> 00:28:52,900
+Achamos Comstock vivo e consciente.
+
+330
+00:28:52,967 --> 00:28:56,000
+<i>Repito. Achamos o Sargento Comstock</i>
+<i>da Equipe Utah.</i>
+
+331
+00:29:02,200 --> 00:29:03,267
+Oi, amigo.
+
+332
+00:29:05,100 --> 00:29:07,400
+-Onde está o resto da sua equipe?
+-Estão lá em cima.
+
+333
+00:29:08,433 --> 00:29:10,900
+Mas morreram todos. Entrou na pele deles.
+
+334
+00:29:11,100 --> 00:29:13,033
+-O que entrou na pele deles?
+-Eu vi.
+
+335
+00:29:14,267 --> 00:29:15,400
+-Mas...
+-Cobertor.
+
+336
+00:29:16,767 --> 00:29:17,967
+Como um cobertor congelado.
+
+337
+00:29:18,767 --> 00:29:22,233
+-Onde está o resto da Utah?
+-Estão mortos.
+
+338
+00:29:23,800 --> 00:29:25,733
+Estão todos mortos.
+
+339
+00:29:27,433 --> 00:29:28,367
+Nós estamos todos mortos.
+
+340
+00:29:29,300 --> 00:29:32,200
+<i>-Onde estão os corpos?</i>
+<i>-Eu já disse. Estão no último andar.</i>
+
+341
+00:30:07,167 --> 00:30:08,400
+Você não viu.
+
+342
+00:30:10,000 --> 00:30:12,900
+Eu vi. Sabe que acredito em Deus, John.
+
+343
+00:30:14,133 --> 00:30:15,833
+Isso é o oposto de Deus.
+
+344
+00:30:27,733 --> 00:30:29,967
+Espere. Quem é esse?
+Pode dizer para ele virar?
+
+345
+00:30:30,033 --> 00:30:32,367
+McFadden, vire.
+Nos mostre aquela sala.
+
+346
+00:30:33,300 --> 00:30:35,233
+Não tem nada aqui. Estou bem aqui.
+
+347
+00:30:35,300 --> 00:30:38,867
+Mac, estamos olhando.
+Está no meio do seu campo.
+
+348
+00:30:39,333 --> 00:30:41,700
+O quê? Aquilo? É uma mancha.
+
+349
+00:30:42,200 --> 00:30:43,967
+Devem ser esses óculos de merda.
+
+350
+00:30:45,700 --> 00:30:49,000
+-Não. Diga para colocar de novo.
+-Mac, coloque os óculos.
+
+351
+00:30:49,900 --> 00:30:51,067
+<i>Mac, coloque agora.</i>
+
+352
+00:30:57,100 --> 00:30:58,900
+-O que...
+-Atire.
+
+353
+00:31:02,167 --> 00:31:03,367
+Atravessou.
+
+354
+00:31:03,433 --> 00:31:05,000
+-Ele errou?
+-Ele não erra.
+
+355
+00:31:12,700 --> 00:31:14,700
+Major Sessions, temos uma morte
+em combate. McFadden.
+
+356
+00:31:15,167 --> 00:31:18,100
+<i>Um alvo hiperespectral está</i>
+<i>no quinto andar, canto noroeste.</i>
+
+357
+00:31:18,167 --> 00:31:19,800
+<i>Mudem para munição pesada ou 203.</i>
+
+358
+00:31:19,867 --> 00:31:22,100
+<i>Seja lá o que tenham que fazer</i>
+<i>para derrubar essa coisa.</i>
+
+359
+00:31:37,967 --> 00:31:38,967
+Diga para eles saírem.
+
+360
+00:31:45,933 --> 00:31:46,800
+Ali!
+
+361
+00:31:59,200 --> 00:32:00,433
+<i>Tire todo mundo daí agora!</i>
+
+362
+00:32:00,700 --> 00:32:03,700
+-Diga para saírem agora.
+-Não vamos sair de mãos vazias.
+
+363
+00:32:03,767 --> 00:32:05,467
+Eu garanto que vai sair de mãos vazias.
+
+364
+00:32:06,900 --> 00:32:07,867
+Anda!
+
+365
+00:32:09,933 --> 00:32:10,800
+Granada!
+
+366
+00:32:12,433 --> 00:32:14,133
+<i>-Precisamos de apoio!</i>
+-Saiam daí.
+
+367
+00:32:14,200 --> 00:32:17,133
+Todas as unidades, evacuar agora.
+Vamos. Voltem para o caminhão.
+
+368
+00:32:25,467 --> 00:32:29,367
+Esse quarto aqui.
+Ainda podemos pegá-lo. Vamos! Anda!
+
+369
+00:32:29,433 --> 00:32:30,900
+Vamos.
+
+370
+00:32:31,700 --> 00:32:32,867
+Vai!
+
+371
+00:32:32,933 --> 00:32:35,067
+Aqui, Jim. Segure.
+
+372
+00:32:37,367 --> 00:32:40,767
+Evacuando via lado sul! Estou
+com Talbot, Comstock, Riedel e Shaire.
+
+373
+00:32:40,833 --> 00:32:42,000
+<i>Cinco homens perdidos!</i>
+
+374
+00:32:45,200 --> 00:32:48,733
+Temos que andar juntos e ficar
+bem próximos. Consegue fazer isso?
+
+375
+00:32:55,267 --> 00:32:56,800
+Meu Deus. Vai!
+
+376
+00:32:59,900 --> 00:33:01,467
+Anda.
+
+377
+00:33:02,100 --> 00:33:03,733
+Anda.
+
+378
+00:33:26,833 --> 00:33:28,000
+Pegou ele? Vamos.
+
+379
+00:33:51,000 --> 00:33:51,900
+Saia da frente.
+
+380
+00:33:53,333 --> 00:33:54,367
+Onde?
+
+381
+00:33:54,900 --> 00:33:56,167
+-Bem ali!
+-Onde está?
+
+382
+00:33:56,233 --> 00:33:57,433
+Na frente.
+
+383
+00:34:02,433 --> 00:34:03,700
+Temos que entrar. Anda.
+
+384
+00:34:05,167 --> 00:34:06,200
+-Ajude-o a entrar.
+-Anda!
+
+385
+00:34:06,267 --> 00:34:07,400
+-Entre logo!
+-Entre.
+
+386
+00:34:44,133 --> 00:34:45,000
+Vai!
+
+387
+00:34:45,067 --> 00:34:46,433
+-Anda!
+-Entre.
+
+388
+00:34:46,700 --> 00:34:47,800
+-Ei!
+-Vai!
+
+389
+00:34:49,033 --> 00:34:50,067
+Entramos! Vai!
+
+390
+00:34:58,900 --> 00:35:01,033
+Espere, onde está Cabrera?
+Onde está o capitão?
+
+391
+00:35:01,100 --> 00:35:02,433
+Fale comigo. Você o viu?
+
+392
+00:35:02,700 --> 00:35:04,867
+-Anda, fale comigo, cara.
+-Eu o vi morrer.
+
+393
+00:35:05,267 --> 00:35:06,733
+-O quê?
+-Eu o vi morrer.
+
+394
+00:35:11,100 --> 00:35:12,367
+-Estou indo para casa.
+-Sim.
+
+395
+00:35:12,433 --> 00:35:14,400
+-Estou indo para casa.
+-Está tudo bem.
+
+396
+00:35:14,467 --> 00:35:15,700
+Olhe para mim.
+
+397
+00:35:17,033 --> 00:35:19,000
+-Você viu?
+-Sim.
+
+398
+00:35:20,767 --> 00:35:24,300
+-Você viu. Chegou muito perto?
+-Fiquei numa sala com aquilo por horas.
+
+399
+00:35:27,067 --> 00:35:28,100
+A banheira salvou minha vida.
+
+400
+00:35:31,400 --> 00:35:32,333
+Dava para sentir.
+
+401
+00:35:35,700 --> 00:35:36,767
+-Certo.
+-Dava para sentir.
+
+402
+00:35:39,800 --> 00:35:41,200
+Minas terrestres. Segurem-se!
+
+403
+00:36:24,900 --> 00:36:27,100
+Amigo, olhe para mim. Não.
+
+404
+00:36:29,267 --> 00:36:30,200
+Merda.
+
+405
+00:36:32,800 --> 00:36:33,733
+Abra a porta.
+
+406
+00:36:39,467 --> 00:36:41,267
+-Anda agora.
+-Vamos.
+
+407
+00:36:47,967 --> 00:36:49,200
+Os dois motoristas estão mortos.
+
+408
+00:36:50,033 --> 00:36:53,100
+Archer Lima Dois.
+Atingiu uma mina terrestre.
+
+409
+00:36:53,167 --> 00:36:54,800
+Os dois veículos destruídos.
+
+410
+00:36:56,333 --> 00:36:57,233
+Estamos...
+
+411
+00:36:58,833 --> 00:37:01,800
+a três quilômetros sudeste do prédio alvo.
+
+412
+00:37:03,700 --> 00:37:06,967
+<i>Estamos perdendo sua transmissão.</i>
+<i>Seus </i>transponders <i>estão ruins.</i>
+
+413
+00:37:07,033 --> 00:37:09,367
+Sério mesmo?
+Nossos veículos foram explodidos.
+
+414
+00:37:09,433 --> 00:37:10,700
+Precisamos achar cobertura.
+
+415
+00:37:11,200 --> 00:37:14,300
+<i>-Não escuto o que está dizendo.</i>
+-Clyne, deixe a câmera.
+
+416
+00:37:15,767 --> 00:37:16,700
+Anda, Clyne.
+
+417
+00:37:25,067 --> 00:37:26,033
+Vai.
+
+418
+00:37:29,800 --> 00:37:30,700
+Anda.
+
+419
+00:37:36,300 --> 00:37:37,167
+Cobertura.
+
+420
+00:37:38,133 --> 00:37:39,800
+-Vamos.
+-Levanta.
+
+421
+00:37:40,233 --> 00:37:41,200
+Anda.
+
+422
+00:37:41,267 --> 00:37:42,833
+Vai.
+
+423
+00:37:44,167 --> 00:37:45,300
+Onde você esteve?
+
+424
+00:37:46,867 --> 00:37:48,000
+Limpo.
+
+425
+00:37:48,467 --> 00:37:49,333
+Quem está ferido?
+
+426
+00:37:49,933 --> 00:37:51,833
+-Diaz?
+-Acho que meu tornozelo quebrou.
+
+427
+00:37:53,167 --> 00:37:56,200
+Precisamos de resgate aéreo. Não consigo
+sinal com a base. Continue tentando.
+
+428
+00:37:56,267 --> 00:37:58,400
+-Comunicação. Venha aqui.
+-Sim.
+
+429
+00:38:01,367 --> 00:38:03,300
+Archer Lima Dois.
+
+430
+00:38:04,300 --> 00:38:06,200
+Aqui é a Equipe Adaga 1, câmbio.
+
+431
+00:38:07,133 --> 00:38:08,267
+Estou bem.
+
+432
+00:38:09,267 --> 00:38:10,400
+Conseguem entrar por ali?
+
+433
+00:38:13,033 --> 00:38:16,100
+-Você está bem?
+-Archer Lima Dois, aqui é Equipe Adaga 1.
+
+434
+00:38:16,167 --> 00:38:17,333
+Está ouvindo? Câmbio.
+
+435
+00:38:20,333 --> 00:38:24,000
+Archer Lima Dois, aqui é Equipe Adaga 1.
+Está ouvindo? Câmbio.
+
+436
+00:38:28,800 --> 00:38:30,400
+Como está? Você está sangrando.
+
+437
+00:38:38,400 --> 00:38:39,433
+Bateu com a cabeça.
+
+438
+00:38:40,800 --> 00:38:41,800
+Bateu com a cabeça.
+
+439
+00:38:44,467 --> 00:38:45,367
+Você desmaiou?
+
+440
+00:38:47,967 --> 00:38:49,000
+Acho que sim.
+
+441
+00:38:51,033 --> 00:38:51,900
+Major.
+
+442
+00:38:55,467 --> 00:38:57,400
+-Ela bateu forte com a cabeça.
+-Deixa eu ver.
+
+443
+00:38:59,833 --> 00:39:00,733
+As pupilas estão enormes.
+
+444
+00:39:00,800 --> 00:39:02,767
+Senhor, estou enviando,
+mas não estão recebendo.
+
+445
+00:39:02,833 --> 00:39:05,767
+Ouço um clique assim que envio,
+mas sem resposta.
+
+446
+00:39:05,833 --> 00:39:06,700
+Continue tentando.
+
+447
+00:39:06,767 --> 00:39:08,700
+Ela está em choque. Fique de olho nela.
+
+448
+00:39:09,100 --> 00:39:11,800
+Archer Lima Dois, aqui é Equipe Adaga 1.
+Está ouvindo? Câmbio.
+
+449
+00:39:13,033 --> 00:39:14,333
+-Obrigada.
+-Claro.
+
+450
+00:39:14,900 --> 00:39:17,067
+Onde está todo mundo?
+Onde está o resto de Utah?
+
+451
+00:39:18,033 --> 00:39:20,300
+Eu sou o Sargento Chen. Eu era da Utah.
+
+452
+00:39:21,433 --> 00:39:25,467
+Fomos a segunda equipe a entrar ontem.
+Éramos oito.
+
+453
+00:39:28,333 --> 00:39:31,933
+-O senhor tem mortes confirmadas da Utah?
+-Eu posso dizer o seguinte.
+
+454
+00:39:32,467 --> 00:39:35,267
+O Sargento Comstock não estará
+no seu cartão de Natal esse ano.
+
+455
+00:39:35,933 --> 00:39:37,933
+-Você viu rebeldes matarem Comstock?
+-Rebeldes?
+
+456
+00:39:38,733 --> 00:39:39,833
+Ele está falando sério?
+
+457
+00:39:41,733 --> 00:39:44,233
+-Embaixo de que pedra você vive?
+-Eu era operador de rádio.
+
+458
+00:39:44,467 --> 00:39:47,133
+Perdemos comunicação.
+Fiquei preso no caminhão a noite toda.
+
+459
+00:39:47,200 --> 00:39:49,933
+-Nunca vi a camuflagem ativa.
+-Camuflagem ativa?
+
+460
+00:39:50,000 --> 00:39:52,333
+Mesmo que tal coisa existisse
+e não existe,
+
+461
+00:39:54,000 --> 00:39:56,867
+como um humano usando camuflagem ativa
+atravessa paredes?
+
+462
+00:39:56,933 --> 00:39:59,367
+Ou atravessa três cartuchos
+de munição que perfura armadura?
+
+463
+00:39:59,433 --> 00:40:01,833
+Eu vi Pat largar 150 balas em um deles.
+
+464
+00:40:03,200 --> 00:40:05,167
+Essa coisa matou pelo menos 19
+dos nossos homens.
+
+465
+00:40:06,867 --> 00:40:08,700
+E não temos ideia do que é.
+
+466
+00:40:14,867 --> 00:40:15,767
+Clyne.
+
+467
+00:40:18,700 --> 00:40:19,367
+Você viu.
+
+468
+00:40:20,833 --> 00:40:21,833
+O que era?
+
+469
+00:40:23,333 --> 00:40:24,200
+Humano.
+
+470
+00:40:27,000 --> 00:40:28,033
+Tinha forma humana.
+
+471
+00:40:29,800 --> 00:40:31,267
+Olhou para mim, tinha consciência.
+
+472
+00:40:35,333 --> 00:40:36,233
+Como uma pessoa.
+
+473
+00:40:41,433 --> 00:40:43,867
+Tem alguma coisa
+que explica o que você viu?
+
+474
+00:40:48,300 --> 00:40:51,100
+Vamos reunir todos os óculos funcionais
+que tivermos.
+
+475
+00:40:51,333 --> 00:40:55,267
+-Meus óculos estragaram na batida, senhor.
+-Os meus também. Estão estragados.
+
+476
+00:40:55,333 --> 00:40:57,833
+Esqueçam os óculos. De qualquer forma,
+não podemos recarregá-los.
+
+477
+00:40:58,433 --> 00:40:59,467
+O que faremos?
+
+478
+00:41:00,467 --> 00:41:02,067
+Como vamos vê-los?
+
+479
+00:41:02,300 --> 00:41:04,033
+Talvez a câmera ainda possa nos ajudar.
+
+480
+00:41:06,700 --> 00:41:09,833
+Se chegarmos a uma posição elevada,
+teremos um ponto de vantagem melhor.
+
+481
+00:41:09,900 --> 00:41:10,767
+Me ajuda com isso?
+
+482
+00:41:12,400 --> 00:41:14,067
+Vamos embora. Anda.
+
+483
+00:41:43,400 --> 00:41:44,433
+Estão por toda a parte.
+
+484
+00:41:46,400 --> 00:41:47,767
+Algo os está detendo.
+
+485
+00:41:58,133 --> 00:42:00,033
+Um tipo de areia preta.
+
+486
+00:42:01,000 --> 00:42:02,433
+Eu caí nessa areia.
+
+487
+00:42:03,267 --> 00:42:06,033
+-Tive que tirar da minha mão.
+-Deixa eu ver.
+
+488
+00:42:09,933 --> 00:42:12,800
+-Pedacinhos afiados de metal.
+-São limalhas de ferro.
+
+489
+00:42:14,033 --> 00:42:15,733
+-É ferro puro.
+-Sim.
+
+490
+00:42:16,200 --> 00:42:19,767
+E tem um rastro disso
+ao redor de todo o prédio.
+
+491
+00:42:26,367 --> 00:42:28,467
+É uma barreira. Alguém colocou ali.
+
+492
+00:42:31,767 --> 00:42:32,967
+Acho que não estamos sozinhos.
+
+493
+00:42:33,700 --> 00:42:35,333
+Vamos nos armar e vasculhar em cima.
+
+494
+00:42:39,900 --> 00:42:40,767
+Mirar e atirar?
+
+495
+00:42:41,733 --> 00:42:42,867
+Mirar e atirar.
+
+496
+00:43:52,433 --> 00:43:53,433
+Invadir!
+
+497
+00:44:03,867 --> 00:44:05,167
+-Achei crianças.
+-Limpo.
+
+498
+00:44:05,233 --> 00:44:07,133
+-Limpo.
+-Tudo limpo.
+
+499
+00:44:08,800 --> 00:44:10,200
+Diga para cuidarem da parede comprida.
+
+500
+00:44:19,133 --> 00:44:21,867
+Pergunte onde conseguiram isso
+e quem mais está aqui.
+
+501
+00:44:27,233 --> 00:44:30,833
+Pergunte se tem mais alguém
+nessa fábrica e se tem armas.
+
+502
+00:44:43,333 --> 00:44:44,867
+Ela disse que estão aqui sozinhos.
+
+503
+00:44:46,033 --> 00:44:48,167
+Só aquela arma. Nenhum soldado aqui.
+
+504
+00:44:49,300 --> 00:44:51,400
+-Nenhum.
+-Major Sessions.
+
+505
+00:44:57,000 --> 00:44:59,800
+-Qual é o problema?
+-A fábrica tem uma torre de transmissão.
+
+506
+00:45:00,033 --> 00:45:01,233
+Ela dá um sinal imenso.
+
+507
+00:45:02,100 --> 00:45:03,133
+E qual é o problema?
+
+508
+00:45:03,767 --> 00:45:06,300
+Todo mundo num raio de 30 km
+vai ouvir nossa conversa com a base.
+
+509
+00:45:07,167 --> 00:45:09,400
+Qualquer rádio de rebelde
+vai captar nossa transmissão.
+
+510
+00:45:10,867 --> 00:45:13,800
+Rebeldes são as menores
+das nossas preocupações.
+
+511
+00:45:13,867 --> 00:45:16,067
+Conecte com o General Orland
+assim que possível.
+
+512
+00:45:18,800 --> 00:45:21,733
+Archer Lima Dois, aqui é Equipe Adaga.
+Está ouvindo?
+
+513
+00:45:26,067 --> 00:45:29,033
+<i>Archer Lima Dois, aqui é Equipe Adaga.</i>
+<i>Está ouvindo?</i>
+
+514
+00:45:33,000 --> 00:45:36,733
+<i>Archer Lima Dois, aqui é Equipe Adaga.</i>
+<i>Está ouvindo?</i>
+
+515
+00:45:50,800 --> 00:45:52,133
+Vocês são nossos novos recrutas.
+
+516
+00:45:53,267 --> 00:45:55,800
+E pode acreditar...
+precisamos da ajuda.
+
+517
+00:46:05,300 --> 00:46:07,300
+Anda, fortão. Mostre o que sabe.
+
+518
+00:46:11,033 --> 00:46:12,733
+Preciso fazer uma pergunta.
+
+519
+00:46:13,467 --> 00:46:17,967
+Foi sua a ideia...
+de colocar a barreira lá fora?
+
+520
+00:46:20,800 --> 00:46:23,133
+O pai deles. O pai deles sabia.
+
+521
+00:46:23,800 --> 00:46:28,300
+O pai deles rolou barris abertos
+das raspas de ferro em torno do prédio.
+
+522
+00:46:29,333 --> 00:46:30,433
+Ele salvou a vida deles.
+
+523
+00:46:33,067 --> 00:46:34,467
+O que aconteceu com seu pai?
+
+524
+00:46:36,167 --> 00:46:38,200
+Você é sapeca, não é?
+
+525
+00:46:42,333 --> 00:46:44,367
+Amiguinho, está bem? Anda, levanta.
+
+526
+00:46:47,300 --> 00:46:48,200
+O que está fazendo?
+
+527
+00:47:00,967 --> 00:47:01,967
+Você é um fantasma?
+
+528
+00:47:03,167 --> 00:47:04,100
+<i>Aratare.</i>
+
+529
+00:47:06,233 --> 00:47:08,933
+-Ele disse: "Não diga essa palavra."
+-Pergunte a ele o que são.
+
+530
+00:47:11,267 --> 00:47:12,167
+Almas perdidas.
+
+531
+00:47:13,167 --> 00:47:14,100
+Almas dos mortos.
+
+532
+00:47:16,400 --> 00:47:20,333
+Estão presos entre a vida e a morte
+e não conseguem achar paz.
+
+533
+00:47:22,233 --> 00:47:23,400
+Como isso aconteceu?
+
+534
+00:47:26,933 --> 00:47:27,967
+Ele disse: "Guerra."
+
+535
+00:47:37,400 --> 00:47:38,267
+Anda.
+
+536
+00:47:43,067 --> 00:47:45,033
+Se o pai deles colocou
+as raspas de ferro,
+
+537
+00:47:45,100 --> 00:47:47,367
+ele sabe mais sobre essas coisas
+do que qualquer um de nós.
+
+538
+00:47:48,333 --> 00:47:49,800
+Pergunte a ela onde o pai dela está.
+
+539
+00:48:24,400 --> 00:48:26,433
+O irmão dela, Bogdan, não sabe.
+
+540
+00:48:27,100 --> 00:48:28,700
+Ele acha que ele foi buscar ajuda.
+
+541
+00:48:31,000 --> 00:48:33,433
+Ele morreu lá fora,
+quando estava fazendo a barreira.
+
+542
+00:48:34,267 --> 00:48:35,800
+Ela teve que trazê-lo aqui.
+
+543
+00:48:36,767 --> 00:48:37,433
+Eu sinto muito.
+
+544
+00:48:49,967 --> 00:48:51,167
+Tijolo de cerâmica.
+
+545
+00:48:53,467 --> 00:48:56,967
+Pergunte a ela como o pai dela sabia que
+as limalhas de ferro detêm os <i>aratares.</i>
+
+546
+00:48:57,733 --> 00:49:00,867
+-O que mais ele sabia sobre eles?
+-Ela não sabe.
+
+547
+00:49:06,000 --> 00:49:07,000
+Masarov.
+
+548
+00:49:08,100 --> 00:49:10,000
+-O que é Masarov?
+-É um lugar.
+
+549
+00:49:10,067 --> 00:49:11,433
+É um distrito rio acima.
+
+550
+00:49:14,200 --> 00:49:15,300
+É onde tudo começou.
+
+551
+00:49:18,333 --> 00:49:20,733
+É onde as mortes por <i>aratare</i> começaram.
+
+552
+00:49:21,367 --> 00:49:22,300
+<i>Aratare.</i>
+
+553
+00:49:25,300 --> 00:49:27,233
+Estou dizendo para pousarmos
+helicópteros aqui,
+
+554
+00:49:27,300 --> 00:49:30,033
+nos extrair desse telhado
+e nos tirar daqui.
+
+555
+00:49:30,100 --> 00:49:33,867
+Há fios de energia em toda a parte.
+Os helicópteros teriam que voar baixo.
+
+556
+00:49:33,933 --> 00:49:36,067
+Alvos fáceis para um adolescente
+com um míssil.
+
+557
+00:49:36,733 --> 00:49:38,867
+Pode me colocar a par?
+Falou com a base?
+
+558
+00:49:38,933 --> 00:49:41,833
+Sim. O general vai enviar helicópteros
+para nos buscar
+
+559
+00:49:42,300 --> 00:49:45,433
+e tanques para proteger a zona de pouso
+em uma praça aberta
+
+560
+00:49:45,700 --> 00:49:49,400
+-a cerca de um quilômetro daqui.
+-É bem distante a pé.
+
+561
+00:49:50,300 --> 00:49:53,000
+Acha que damos conta de um quilômetro?
+Com crianças?
+
+562
+00:49:53,067 --> 00:49:56,367
+Não temos opção. Todas as estradas
+estão bloqueadas ou com minas.
+
+563
+00:49:56,433 --> 00:49:58,433
+E já que usamos a torre
+para falar com a base,
+
+564
+00:49:58,700 --> 00:50:00,967
+todos sabem que estamos aqui.
+Temos que sair.
+
+565
+00:50:01,033 --> 00:50:04,267
+Quer sair correndo no meio
+daquelas coisas vagando pelas ruas?
+
+566
+00:50:04,333 --> 00:50:06,267
+Mesmo sem termos um jeito
+de enfrentá-las?
+
+567
+00:50:06,333 --> 00:50:08,433
+Melhor do que esperar
+que achem um jeito de entrar.
+
+568
+00:50:08,700 --> 00:50:11,367
+O único motivo por ainda estarmos vivos
+é aquele bloqueio lá fora.
+
+569
+00:50:11,433 --> 00:50:14,433
+Uma hora eles vão passar.
+É só uma questão de tempo.
+
+570
+00:50:14,700 --> 00:50:16,833
+-Espere.
+-Temos que arriscar.
+
+571
+00:50:16,900 --> 00:50:19,033
+-Esse é o melhor plano que temos.
+-Major.
+
+572
+00:50:19,833 --> 00:50:22,700
+E se eu dissesse que posso melhorar
+nossas chances de chegar à praça?
+
+573
+00:50:22,767 --> 00:50:24,767
+-Estou ouvindo.
+-Olhe ao seu redor.
+
+574
+00:50:24,833 --> 00:50:28,967
+Tudo nesse prédio... está cheio disso.
+
+575
+00:50:29,833 --> 00:50:30,733
+Pó de ferro.
+
+576
+00:50:32,367 --> 00:50:34,700
+E o ferro impede os hiperespectrais.
+
+577
+00:50:34,767 --> 00:50:36,800
+Exato. Transformar em arma.
+
+578
+00:50:37,300 --> 00:50:39,400
+-Bombas sujas.
+-Melhor ideia que ouvi a noite toda.
+
+579
+00:50:40,233 --> 00:50:41,467
+Vamos coletar as granadas.
+
+580
+00:51:18,300 --> 00:51:19,333
+Clyne.
+
+581
+00:51:19,867 --> 00:51:21,433
+Preciso que seja nossos olhos lá fora.
+
+582
+00:51:21,700 --> 00:51:24,267
+-Consegue carregar a câmera a pé?
+-Tenho uma ideia melhor.
+
+583
+00:51:25,733 --> 00:51:28,400
+Essa câmera projeta o correto
+comprimento de onda de luz UV.
+
+584
+00:51:29,433 --> 00:51:33,367
+Se eu puder virá-la do avesso,
+invertendo a polaridade dos componentes,
+
+585
+00:51:33,833 --> 00:51:36,433
+talvez eu possa
+transformá-la em um holofote.
+
+586
+00:51:37,167 --> 00:51:39,167
+Seremos capazes de vê-los
+com nossos próprios olhos.
+
+587
+00:51:39,900 --> 00:51:42,933
+-Isso mudaria tudo.
+-Acha que consigo falar com o comboio?
+
+588
+00:51:43,000 --> 00:51:45,367
+Direi a eles como fazer o mesmo
+com o equipamento deles.
+
+589
+00:51:45,433 --> 00:51:47,967
+Quando vierem nos buscar,
+precisarão enxergar também.
+
+590
+00:51:48,400 --> 00:51:50,867
+Vou conectar você
+com o engenheiro principal na base.
+
+591
+00:52:07,233 --> 00:52:08,267
+Entendido.
+
+592
+00:52:10,133 --> 00:52:13,000
+Estão prontos para equiparem
+os veículos com o que precisar.
+
+593
+00:52:13,267 --> 00:52:15,900
+Pode repetir toda a solicitação
+para mim, por favor?
+
+594
+00:52:15,967 --> 00:52:17,433
+<i>Certo, sim. Está correto.</i>
+
+595
+00:52:17,700 --> 00:52:21,067
+<i>Precisa de um dispositivo que emita</i>
+<i>um comprimento de onda de luz muito curto.</i>
+
+596
+00:52:21,133 --> 00:52:23,333
+<i>Posso dizer exatamente</i>
+<i>como reconfigurar isso.</i>
+
+597
+00:52:24,067 --> 00:52:26,100
+<i>Tem alguma coisa que possa</i>
+<i>montar em um tanque?</i>
+
+598
+00:53:17,133 --> 00:53:18,867
+Temos movimento do outro lado do beco.
+
+599
+00:53:21,100 --> 00:53:23,800
+Pessoal, temos movimento.
+Podemos ver?
+
+600
+00:53:24,733 --> 00:53:26,267
+Pessoal, afastem-se um pouco.
+
+601
+00:53:28,233 --> 00:53:31,300
+-Novidade sobre o comboio?
+-O último contato foi há 50 minutos.
+
+602
+00:53:32,000 --> 00:53:33,467
+Estão a caminho do ponto de extração.
+
+603
+00:54:00,333 --> 00:54:04,267
+Estão vindo! Peguem seu equipamento.
+Vamos sair desse prédio em 15 segundos.
+
+604
+00:54:04,333 --> 00:54:05,900
+Certo, anda. Vamos.
+
+605
+00:54:06,367 --> 00:54:09,100
+Esse foi o caminho mais rápido
+até o ponto de extração.
+
+606
+00:54:09,167 --> 00:54:11,367
+Ela disse que pode
+nos mostrar outro caminho.
+
+607
+00:54:11,433 --> 00:54:14,233
+Talbot, você fica com Clyne.
+Diaz, você na frente.
+
+608
+00:54:20,867 --> 00:54:21,900
+Vamos.
+
+609
+00:54:26,933 --> 00:54:28,200
+Andando.
+
+610
+00:54:40,100 --> 00:54:41,100
+Certo, vamos.
+
+611
+00:54:43,467 --> 00:54:44,333
+Anda.
+
+612
+00:54:48,900 --> 00:54:49,767
+Venham aqui.
+
+613
+00:54:51,133 --> 00:54:52,300
+Estão todos aqui.
+
+614
+00:54:54,700 --> 00:54:56,767
+-Parece limpo.
+-Vamos. Venham aqui.
+
+615
+00:54:58,133 --> 00:54:59,333
+Ela disse: "Vira à direita aqui."
+
+616
+00:55:07,400 --> 00:55:09,967
+Cuidado, atrás.
+
+617
+00:55:12,167 --> 00:55:13,700
+-Anda!
+-Anda!
+
+618
+00:55:13,767 --> 00:55:14,833
+Anda!
+
+619
+00:55:16,267 --> 00:55:17,200
+Estão vindo.
+
+620
+00:55:20,467 --> 00:55:21,333
+Anda.
+
+621
+00:55:22,933 --> 00:55:23,833
+Anda.
+
+622
+00:55:34,767 --> 00:55:35,733
+Cuidado!
+
+623
+00:55:45,367 --> 00:55:46,233
+Merda.
+
+624
+00:55:48,400 --> 00:55:51,167
+-Anda, Lewis! Vamos!
+-Acho que está funcionando!
+
+625
+00:55:54,833 --> 00:55:56,267
+-Aqui!
+-Por aqui.
+
+626
+00:55:58,167 --> 00:55:59,467
+Anda.
+
+627
+00:56:00,300 --> 00:56:01,167
+Vai!
+
+628
+00:56:18,833 --> 00:56:20,200
+Vai!
+
+629
+00:56:22,167 --> 00:56:23,100
+-Sai!
+-Anda.
+
+630
+00:56:23,700 --> 00:56:25,333
+-Levante-o! Saia daqui!
+-Levanta.
+
+631
+00:56:25,400 --> 00:56:27,233
+-Estou bem.
+-Vai!
+
+632
+00:56:35,333 --> 00:56:36,700
+Segure bem a arma!
+
+633
+00:56:38,800 --> 00:56:40,767
+-Abaixe-se!
+-Proteja-se, cara.
+
+634
+00:56:41,767 --> 00:56:43,100
+Anda, doutor. Anda.
+
+635
+00:56:44,133 --> 00:56:45,067
+Chegando!
+
+636
+00:56:53,800 --> 00:56:55,200
+Tem um homem caído! Homem caído!
+
+637
+00:57:00,200 --> 00:57:01,233
+Corram!
+
+638
+00:57:05,233 --> 00:57:07,400
+-Aproximando!
+-Mais daquele lado!
+
+639
+00:57:13,767 --> 00:57:15,233
+Rápido.
+
+640
+00:57:17,733 --> 00:57:19,867
+Ela disse:
+"Em frente, por baixo do arco."
+
+641
+00:57:20,467 --> 00:57:21,833
+Cuidado.
+
+642
+00:57:24,400 --> 00:57:26,167
+-Espere.
+-Ela disse que esse é o lugar.
+
+643
+00:57:27,133 --> 00:57:28,033
+Vai.
+
+644
+00:57:35,333 --> 00:57:36,233
+Parece limpo.
+
+645
+00:57:45,167 --> 00:57:47,033
+-Onde estão?
+-Entrem no ônibus. Vai.
+
+646
+00:57:47,100 --> 00:57:48,000
+Onde está o resgate?
+
+647
+00:57:53,467 --> 00:57:54,800
+Onde está a luz?
+
+648
+00:57:56,200 --> 00:57:59,233
+Anda. Funciona.
+
+649
+00:58:01,233 --> 00:58:02,767
+Vamos. Está tudo bem.
+
+650
+00:58:03,767 --> 00:58:04,967
+Tem certeza que é aqui?
+
+651
+00:58:06,467 --> 00:58:08,267
+-Sim.
+-Pergunte a eles se têm certeza.
+
+652
+00:58:08,933 --> 00:58:10,267
+Ela disse: "Tenho plena certeza."
+
+653
+00:58:15,167 --> 00:58:16,200
+Major.
+
+654
+00:58:17,433 --> 00:58:19,267
+Essa coisa morreu. Não podemos vê-los.
+
+655
+00:58:21,767 --> 00:58:22,433
+Estamos cegos.
+
+656
+00:58:51,133 --> 00:58:53,700
+-É o nosso pessoal.
+-Aqui é a zona de pouso.
+
+657
+00:59:41,300 --> 00:59:44,367
+-Comandante, está vendo isso?
+-São nossos alvos.
+
+658
+00:59:44,433 --> 00:59:46,433
+-Vai!
+-Vai!
+
+659
+00:59:46,700 --> 00:59:48,967
+-Vai.
+-Vamos.
+
+660
+00:59:49,033 --> 00:59:50,167
+Anda. Vai.
+
+661
+00:59:55,433 --> 00:59:56,867
+No chão.
+
+662
+00:59:58,367 --> 00:59:59,433
+Fogo.
+
+663
+01:00:20,033 --> 01:00:21,333
+Abaixe-se!
+
+664
+01:00:38,133 --> 01:00:40,300
+-Sigam meu comando.
+-Saiam!
+
+665
+01:00:47,433 --> 01:00:49,033
+Acima!
+
+666
+01:00:53,400 --> 01:00:55,767
+Vamos para os tanques!
+Para os tanques!
+
+667
+01:00:55,833 --> 01:00:57,033
+-Anda!
+-Anda!
+
+668
+01:00:57,100 --> 01:00:57,967
+Anda!
+
+669
+01:00:59,267 --> 01:01:02,000
+-Abrir fogo!
+-À vontade!
+
+670
+01:01:02,067 --> 01:01:03,233
+-Volte!
+-Não.
+
+671
+01:01:03,300 --> 01:01:04,467
+Volte!
+
+672
+01:01:58,033 --> 01:01:59,067
+Flanco esquerdo!
+
+673
+01:02:00,000 --> 01:02:01,300
+Atrás de você!
+
+674
+01:02:02,133 --> 01:02:04,867
+-Onde estão?
+-Não sei!
+
+675
+01:02:04,933 --> 01:02:06,467
+-Onde está Bogdan?
+-Aonde ele foi?
+
+676
+01:02:07,433 --> 01:02:09,133
+-Quem está com ele?
+-Estão vendo?
+
+677
+01:02:16,767 --> 01:02:17,867
+Vamos achar vocês!
+
+678
+01:02:20,167 --> 01:02:22,233
+-Bogdan!
+-Bogdan!
+
+679
+01:02:22,300 --> 01:02:23,467
+Pegue-o!
+
+680
+01:02:24,100 --> 01:02:26,233
+Bogdan! Bogdan!
+
+681
+01:02:27,200 --> 01:02:29,200
+-Bogdan!
+-Volte aqui!
+
+682
+01:02:29,267 --> 01:02:30,433
+Volte aqui!
+
+683
+01:02:31,933 --> 01:02:32,900
+Bogdan!
+
+684
+01:03:18,233 --> 01:03:19,733
+-Anda!
+-Anda.
+
+685
+01:03:19,800 --> 01:03:20,867
+-Pegue-a.
+-Levanta.
+
+686
+01:03:20,933 --> 01:03:22,267
+Ajude-a! Salve-a!
+
+687
+01:03:22,333 --> 01:03:23,433
+Peguei.
+
+688
+01:03:23,700 --> 01:03:24,933
+Vamos.
+
+689
+01:04:08,700 --> 01:04:10,133
+Anda!
+
+690
+01:04:12,900 --> 01:04:15,300
+-Levanta. Anda.
+-Dr. Clyne, anda!
+
+691
+01:04:18,233 --> 01:04:19,400
+-Entre!
+-Está bem.
+
+692
+01:04:52,733 --> 01:04:55,000
+Major. General Orland.
+
+693
+01:04:56,967 --> 01:04:58,400
+General, aqui é Sessions.
+
+694
+01:04:58,467 --> 01:04:59,867
+<i>Perdemos a base!</i>
+
+695
+01:05:00,367 --> 01:05:03,300
+<i>-Estamos mandando vocês ao </i>bunker!
+-Sim, senhor.
+
+696
+01:05:05,933 --> 01:05:08,267
+Aonde estamos indo?
+A base é para lá.
+
+697
+01:05:08,333 --> 01:05:10,867
+-Não vamos para a base.
+-Por que não?
+
+698
+01:05:10,933 --> 01:05:12,333
+Foi comprometida.
+
+699
+01:05:17,433 --> 01:05:19,400
+Estão se espalhando pelas ruas.
+
+700
+01:05:22,867 --> 01:05:23,800
+Estão por toda a parte.
+
+701
+01:05:55,800 --> 01:05:58,767
+-Eles vão nos deixar aqui?
+-Tem mais gente para resgatar.
+
+702
+01:05:58,833 --> 01:06:01,067
+-Que lugar é esse?
+-A entrada é por aqui.
+
+703
+01:06:12,833 --> 01:06:14,933
+Abra a porta!
+
+704
+01:06:15,000 --> 01:06:16,067
+Volte!
+
+705
+01:06:16,133 --> 01:06:17,700
+Abaixem as armas.
+
+706
+01:06:22,200 --> 01:06:23,967
+Abaixem as armas! Abaixem agora!
+
+707
+01:06:39,733 --> 01:06:41,167
+Ele está dizendo: "É seguro lá dentro."
+
+708
+01:06:48,900 --> 01:06:50,167
+Tudo bem. Está tudo bem.
+
+709
+01:07:02,733 --> 01:07:03,867
+Fiquem juntos.
+
+710
+01:07:08,167 --> 01:07:10,067
+Olhe para mim.
+
+711
+01:07:10,133 --> 01:07:12,100
+Ela não está bem. Venha aqui.
+
+712
+01:07:13,200 --> 01:07:15,433
+Vou precisar de espaço. Está tudo bem.
+
+713
+01:07:24,700 --> 01:07:27,100
+-O que aconteceu com a base?
+-A base foi dominada.
+
+714
+01:07:27,167 --> 01:07:29,867
+-O general vai nos encontrar aqui.
+-Que lugar é esse?
+
+715
+01:07:30,700 --> 01:07:32,400
+Estamos em um abrigo de refugiados civis.
+
+716
+01:07:33,067 --> 01:07:36,100
+Esse <i>bunker </i>tem seis metros
+de concreto e aço.
+
+717
+01:07:36,167 --> 01:07:39,033
+Estamos seguros aqui? Não faço ideia.
+Mas tem comida e água.
+
+718
+01:07:39,100 --> 01:07:42,167
+Talbot, junte o que puder.
+Toll, Chen, voltem para a entrada.
+
+719
+01:07:42,233 --> 01:07:44,233
+Tem um centro de comunicações.
+Vejam com quem conseguem falar.
+
+720
+01:07:44,300 --> 01:07:46,000
+Alessio, você comigo. Vamos.
+
+721
+01:07:48,033 --> 01:07:49,300
+-Ali.
+-Onde?
+
+722
+01:07:49,367 --> 01:07:50,867
+-Ali.
+-Bem ali.
+
+723
+01:07:50,933 --> 01:07:51,800
+-Certo.
+-Na cama.
+
+724
+01:07:52,167 --> 01:07:54,033
+Você está bem. Vai ficar bem.
+
+725
+01:07:55,400 --> 01:07:57,167
+-O que aconteceu?
+-É o ombro dela.
+
+726
+01:07:57,233 --> 01:08:00,367
+-O ombro dela está com estilhaços.
+-Vamos cortar a manga dela.
+
+727
+01:08:09,367 --> 01:08:11,133
+Prepare o cateter.
+
+728
+01:08:15,033 --> 01:08:15,933
+Isso é seu.
+
+729
+01:08:17,700 --> 01:08:20,333
+Agora preciso da sua ajuda, Sari,
+para deter os <i>aratares.</i>
+
+730
+01:08:20,833 --> 01:08:22,700
+Preciso saber o que seu pai sabia.
+
+731
+01:08:23,167 --> 01:08:24,367
+No que o seu pai trabalhava?
+
+732
+01:08:26,700 --> 01:08:28,233
+Ele trabalhava com cerâmica.
+
+733
+01:08:28,300 --> 01:08:29,233
+O que ele fazia?
+
+734
+01:08:33,867 --> 01:08:34,967
+Ele fazia contêineres.
+
+735
+01:08:39,767 --> 01:08:41,467
+Ele fazia contêineres para Masarov.
+
+736
+01:08:42,833 --> 01:08:45,433
+A usina elétrica
+de onde os <i>aratares </i>vieram.
+
+737
+01:08:47,167 --> 01:08:48,333
+Vamos colocar a máscara nela.
+
+738
+01:08:49,167 --> 01:08:50,467
+Certo, temos que levá-la agora.
+
+739
+01:09:01,867 --> 01:09:04,433
+-Somos as Forças Armadas americanas!
+-Abram.
+
+740
+01:09:14,800 --> 01:09:15,900
+Abaixem as armas.
+
+741
+01:09:34,733 --> 01:09:37,067
+-Quantos vocês são?
+-Não muitos.
+
+742
+01:09:51,233 --> 01:09:52,700
+Vamos dar uma mão a eles.
+
+743
+01:09:54,067 --> 01:09:54,967
+Vamos.
+
+744
+01:09:56,233 --> 01:09:57,367
+Tragam o máximo que puderem.
+
+745
+01:09:58,000 --> 01:09:59,267
+<i>A base foi dominada.</i>
+
+746
+01:10:00,833 --> 01:10:01,867
+Foi como uma onda.
+
+747
+01:10:03,167 --> 01:10:04,033
+Invisível.
+
+748
+01:10:05,033 --> 01:10:06,833
+O pessoal começou a cair.
+
+749
+01:10:07,700 --> 01:10:09,900
+Nossas armas convencionais eram inúteis.
+
+750
+01:10:10,700 --> 01:10:12,767
+Solicitei uma ordem para evacuar a base,
+
+751
+01:10:14,000 --> 01:10:16,200
+mas nossa comunicação
+de longa distância está embaralhada.
+
+752
+01:10:17,233 --> 01:10:19,000
+Peguei todo o equipamento que pude.
+
+753
+01:10:19,067 --> 01:10:22,133
+Comecei a enviar unidades para o norte,
+fora da área de operação.
+
+754
+01:10:23,833 --> 01:10:26,033
+Fiquei com as cinco aeronaves
+com o mínimo de combustível,
+
+755
+01:10:26,100 --> 01:10:27,467
+fiquei para trás com um pelotão.
+
+756
+01:10:31,167 --> 01:10:33,433
+Dos 240 de nós, temos 19 restantes.
+
+757
+01:10:37,133 --> 01:10:40,067
+-Mandou mensagem para o alto comando?
+-Não.
+
+758
+01:10:41,400 --> 01:10:44,733
+-Tem uma missão de resgate planejada?
+-Não. Interceptamos conversa de rádio
+
+759
+01:10:44,800 --> 01:10:46,900
+de aliados moldavos para achar esse lugar.
+
+760
+01:10:46,967 --> 01:10:49,267
+Mandamos aquele helicóptero buscar vocês
+e trazer para cá.
+
+761
+01:10:49,900 --> 01:10:52,800
+Se tivesse tentado voltar para a base,
+estaria morto.
+
+762
+01:10:54,333 --> 01:10:56,300
+Somos os últimos
+das forças americanas no país?
+
+763
+01:10:57,267 --> 01:10:58,133
+Espere que sim.
+
+764
+01:11:00,433 --> 01:11:01,767
+Qual é o plano senhor?
+
+765
+01:11:02,233 --> 01:11:03,700
+Vim aqui para reagrupar, major.
+
+766
+01:11:04,433 --> 01:11:05,433
+Não há plano.
+
+767
+01:11:11,867 --> 01:11:14,900
+-Recomendo que fortifiquemos a entrada.
+-Fortificar com o quê?
+
+768
+01:11:14,967 --> 01:11:17,800
+-Esperamos até uma missão de resgate...
+-Fortificar com o quê?
+
+769
+01:11:17,867 --> 01:11:19,767
+Eles vão atravessar
+qualquer coisa que usarmos.
+
+770
+01:11:19,833 --> 01:11:23,700
+-Precisamos arriscar com um heli...
+-Tem 20 minutos de voo!
+
+771
+01:11:23,767 --> 01:11:26,200
+Vinte minutos de voo
+naqueles helicópteros. Nada mais!
+
+772
+01:11:26,267 --> 01:11:28,433
+De qualquer forma
+não tem espaço para todos nós.
+
+773
+01:11:28,700 --> 01:11:31,133
+Precisamos formar equipes
+e pegar a aeronave.
+
+774
+01:11:31,200 --> 01:11:33,100
+Mas vamos para onde, major?
+
+775
+01:11:34,333 --> 01:11:35,700
+Não pode fugir deles.
+
+776
+01:11:36,400 --> 01:11:39,167
+Não pode detê-los.
+Suas armas são inúteis.
+
+777
+01:11:40,700 --> 01:11:42,000
+Não temos ideia do que são!
+
+778
+01:11:42,900 --> 01:11:45,200
+Se atravessarem aquela porta,
+somos alvos fáceis.
+
+779
+01:11:45,267 --> 01:11:47,167
+Não podemos detê-los!
+
+780
+01:11:52,800 --> 01:11:54,333
+Pegar o que pudermos e ir.
+
+781
+01:11:57,933 --> 01:11:58,933
+Eu sei o que eles são.
+
+782
+01:12:03,167 --> 01:12:04,233
+Eu sei o que eles são.
+
+783
+01:12:06,067 --> 01:12:07,167
+Eu sei o que eles são.
+
+784
+01:12:11,200 --> 01:12:12,467
+Achamos que estamos vendo coisas.
+
+785
+01:12:13,233 --> 01:12:15,900
+Achamos que não pode ser real, mas mata.
+Então é real.
+
+786
+01:12:16,467 --> 01:12:17,333
+É alguma coisa.
+
+787
+01:12:18,000 --> 01:12:19,400
+Não é luz, não é sombra,
+
+788
+01:12:19,467 --> 01:12:22,000
+nem um truque da mente.
+Atravessa paredes, confere.
+
+789
+01:12:23,333 --> 01:12:25,067
+Fora do espectro visível, confere.
+
+790
+01:12:26,433 --> 01:12:27,800
+Mata ao tocar, confere.
+
+791
+01:12:29,467 --> 01:12:32,900
+Comstock. Ele estava embaixo
+de uma banheira de cerâmica, correto?
+
+792
+01:12:34,233 --> 01:12:36,433
+Armadura do tanque.
+Não conseguiu atravessar o tanque.
+
+793
+01:12:37,200 --> 01:12:39,467
+Armadura de tanque M1 Abrams.
+É todo revestido de cerâmica.
+
+794
+01:12:39,733 --> 01:12:42,700
+Não consegue atravessar cerâmica.
+Sabe o que isso quer dizer?
+
+795
+01:12:43,200 --> 01:12:45,300
+Quer dizer que essa coisa não é natural.
+
+796
+01:12:46,867 --> 01:12:47,733
+Alguém a fez.
+
+797
+01:12:49,433 --> 01:12:50,733
+É feita pelo homem.
+
+798
+01:12:52,067 --> 01:12:53,100
+Feita pelo homem como?
+
+799
+01:12:54,100 --> 01:12:59,033
+Certo. Temos sólido, líquido, gás.
+Lava pode virar rocha.
+
+800
+01:12:59,100 --> 01:13:02,167
+Gelo pode virar água. Metais podem
+derreter. Esses são estados naturais.
+
+801
+01:13:02,233 --> 01:13:05,300
+Mas existem estados não naturais.
+Estados artificiais, feitos pelo homem.
+
+802
+01:13:06,867 --> 01:13:07,767
+Condensado.
+
+803
+01:13:08,967 --> 01:13:10,200
+Condensado Bose-Einstein.
+
+804
+01:13:10,867 --> 01:13:14,033
+Um estado da matéria previsto
+por Nath Bose e Albert Einstein.
+
+805
+01:13:14,100 --> 01:13:17,933
+Possui propriedades muito incomuns.
+Pode ser retardado por limalhas de ferro.
+
+806
+01:13:18,000 --> 01:13:21,133
+Não consegue atravessar cerâmica,
+mas consegue atravessar paredes.
+
+807
+01:13:21,200 --> 01:13:23,700
+É tão frio que mata
+instantaneamente ao contato.
+
+808
+01:13:23,767 --> 01:13:25,800
+Consegue fazer tudo
+que estamos vendo aqui.
+
+809
+01:13:25,867 --> 01:13:29,433
+Para criar condensado Bose-Einstein,
+precisa de energia e precisa de muita.
+
+810
+01:13:29,700 --> 01:13:31,333
+Masarov. A usina elétrica.
+
+811
+01:13:31,400 --> 01:13:33,333
+Sim, Masarov. Onde foram feitos.
+
+812
+01:13:33,400 --> 01:13:36,400
+Você disse que esse país estava
+colocando bilhões em pesquisa de armas.
+
+813
+01:13:37,167 --> 01:13:38,033
+Isso é uma arma.
+
+814
+01:13:38,700 --> 01:13:42,133
+-E foi solta, ou se soltou.
+-Mas essas coisas escalam.
+
+815
+01:13:42,700 --> 01:13:44,700
+São como humanos.
+Parecem com uma pessoa.
+
+816
+01:13:45,167 --> 01:13:47,300
+Mármore e argila também, nas mãos certas.
+
+817
+01:13:47,367 --> 01:13:48,433
+E eu quero saber por quê.
+
+818
+01:13:48,700 --> 01:13:51,433
+Por que se parecem com gente.
+Não sei dizer como fizeram isso.
+
+819
+01:13:51,700 --> 01:13:54,733
+O que posso dizer é que alguém os fez.
+
+820
+01:13:55,200 --> 01:13:58,800
+Se alguém os fez, eles não escapam
+das leis do mundo. Nada escapa.
+
+821
+01:13:58,867 --> 01:14:01,900
+Isso mostra novas leis
+e é isso que temos que aprender.
+
+822
+01:14:01,967 --> 01:14:04,700
+-Eles têm ordem e estrutura.
+-Podem ser quebrados.
+
+823
+01:14:05,300 --> 01:14:08,400
+Qualquer coisa pode. É só energia.
+E já que sei o que são,
+
+824
+01:14:08,467 --> 01:14:11,433
+-posso construir as armas certas.
+-Que tipo de armas?
+
+825
+01:14:11,700 --> 01:14:14,233
+Descarga plásmica.
+Isso pode destruir o condensado.
+
+826
+01:14:14,833 --> 01:14:18,233
+-Onde vamos achar armas assim?
+-Nós vamos construí-las.
+
+827
+01:14:18,300 --> 01:14:21,200
+-Construí-las com o quê?
+-Qualquer coisa que achemos nesse <i>bunker.</i>
+
+828
+01:14:21,267 --> 01:14:23,800
+Qualquer coisa com eletrônicos.
+Ótica, estojos balísticos.
+
+829
+01:14:23,867 --> 01:14:25,767
+Todo o equipamento
+que trouxeram da base.
+
+830
+01:14:25,833 --> 01:14:28,333
+Podemos desmontar tudo
+e eu posso construir um arsenal.
+
+831
+01:14:28,767 --> 01:14:32,000
+E aí podemos ir a Masarov
+e deter isso antes que vá adiante.
+
+832
+01:14:32,067 --> 01:14:35,733
+Se não, o condensado vai se alimentar
+de toda a energia em seu caminho.
+
+833
+01:14:36,200 --> 01:14:40,000
+Crescerá exponencialmente. Não há limite
+na distância que podem se espalhar.
+
+834
+01:14:40,400 --> 01:14:41,767
+A menos que os impeçamos.
+
+835
+01:14:46,467 --> 01:14:48,733
+Vamos levar esse equipamento para dentro.
+
+836
+01:14:48,800 --> 01:14:49,933
+Vamos andando!
+
+837
+01:14:57,100 --> 01:14:58,267
+Mesmo número em cada lado.
+
+838
+01:15:00,300 --> 01:15:01,933
+Muito bem, vamos, rapazes!
+
+839
+01:15:24,200 --> 01:15:26,100
+Algum curativo aí?
+
+840
+01:15:26,167 --> 01:15:27,767
+Temos três aqui.
+
+841
+01:15:28,167 --> 01:15:31,767
+É uma mira de rastreamento de solo.
+Podemos usar isso. Tem boa ótica.
+
+842
+01:15:33,100 --> 01:15:35,067
+-Ótimo. Isso é bom.
+-Mais duas aqui.
+
+843
+01:15:36,000 --> 01:15:36,867
+Está vendo aquele 305?
+
+844
+01:15:36,933 --> 01:15:40,033
+Metade disso está marcado "defeituoso".
+Precisamos de contador de voltagem.
+
+845
+01:15:40,100 --> 01:15:42,700
+Quero que comece a testar isso.
+
+846
+01:15:44,967 --> 01:15:46,333
+Muito bem, abra.
+
+847
+01:15:51,267 --> 01:15:52,467
+Abra aquela. Abra.
+
+848
+01:15:54,133 --> 01:15:55,333
+Isso é o que estou pensando?
+
+849
+01:15:56,233 --> 01:15:58,033
+Pegamos a lótus da base.
+
+850
+01:15:58,100 --> 01:15:59,033
+Que demais.
+
+851
+01:15:59,700 --> 01:16:02,233
+-Parece um Rottweiler mecânico.
+-Olha isso.
+
+852
+01:16:02,867 --> 01:16:04,167
+Clyne está fazendo umas mudanças.
+
+853
+01:16:04,233 --> 01:16:07,167
+Estão tirando uma corrente de içar
+e colocando um holofote.
+
+854
+01:16:08,067 --> 01:16:09,000
+<i>Déjà vu.</i>
+
+855
+01:17:14,967 --> 01:17:18,100
+-Dispara o quê?
+-É um pulso de energia concentrado.
+
+856
+01:17:18,933 --> 01:17:20,133
+Se meus cálculos estão corretos,
+
+857
+01:17:22,167 --> 01:17:24,067
+isso deve desfazer o condensado.
+
+858
+01:17:32,400 --> 01:17:33,400
+Masarov.
+
+859
+01:17:34,400 --> 01:17:36,833
+A maior usina elétrica na região.
+
+860
+01:17:37,833 --> 01:17:41,300
+É onde as mortes começaram. Se foram
+feitos pelo homem, foram feitos aqui.
+
+861
+01:17:41,367 --> 01:17:43,167
+Fica a menos de dez quilômetros daqui.
+
+862
+01:17:44,333 --> 01:17:47,467
+Nossos helicópteros alcançam isso, mas...
+provavelmente é só ida.
+
+863
+01:17:48,167 --> 01:17:51,933
+Estive pegando pistas com os civis.
+Descobri informações sobre Masarov.
+
+864
+01:17:52,800 --> 01:17:55,267
+Ela foi alterada várias vezes
+na última década
+
+865
+01:17:55,467 --> 01:17:56,767
+pelo regime central.
+
+866
+01:17:56,933 --> 01:17:59,067
+Ela tem toda a cara de pesquisa de armas.
+
+867
+01:17:59,133 --> 01:18:01,833
+Você e Clyne precisam estar
+inseridos para infiltrarem.
+
+868
+01:18:01,900 --> 01:18:04,433
+É com vocês dois descobrirem
+como deter isso.
+
+869
+01:18:05,100 --> 01:18:06,700
+Temos que criar uma distração.
+
+870
+01:18:07,233 --> 01:18:10,367
+Vamos atraí-los aqui para fora,
+vocês se infiltram na estrutura
+
+871
+01:18:10,433 --> 01:18:12,100
+e tentam achar a fonte.
+
+872
+01:18:17,300 --> 01:18:20,233
+Clyne prevê que a carga disso
+será extremamente quente.
+
+873
+01:18:20,300 --> 01:18:22,067
+O bastante para destruir o condensado.
+
+874
+01:18:22,800 --> 01:18:24,033
+Vamos descobrir em breve.
+
+875
+01:18:27,933 --> 01:18:28,800
+Muito bem, rapazes.
+
+876
+01:18:29,833 --> 01:18:30,700
+É isso aí.
+
+877
+01:18:32,367 --> 01:18:33,867
+Se têm algumas últimas palavras,
+
+878
+01:18:34,733 --> 01:18:35,433
+agora é a hora.
+
+879
+01:19:03,833 --> 01:19:05,100
+<i>Muito bem, escutem.</i>
+
+880
+01:19:06,033 --> 01:19:08,067
+<i>Vocês estão usando armas não testadas,</i>
+
+881
+01:19:09,367 --> 01:19:12,967
+contra um inimigo que,
+até esse ponto, tem sido imbatível.
+
+882
+01:19:13,700 --> 01:19:15,967
+Estão indo para território desconhecido.
+
+883
+01:19:16,033 --> 01:19:19,400
+E acreditem quando digo que verão coisas
+que não vão entender.
+
+884
+01:19:20,067 --> 01:19:22,833
+Nosso inimigo se espalhou pela cidade
+em uma questão de dias.
+
+885
+01:19:23,333 --> 01:19:25,733
+Não tem como saber
+até onde vão se espalhar,
+
+886
+01:19:26,367 --> 01:19:27,433
+a menos que lutemos.
+
+887
+01:19:29,967 --> 01:19:34,033
+A maioria dos homens não chega
+nem perto de mudar o futuro.
+
+888
+01:19:37,267 --> 01:19:38,233
+Esse é o lugar.
+
+889
+01:19:40,367 --> 01:19:41,967
+E agora é a hora.
+
+890
+01:19:43,733 --> 01:19:46,700
+Não errem, vocês são
+a última linha de defesa.
+
+891
+01:19:49,067 --> 01:19:51,933
+Vamos fazer o que viemos fazer aqui.
+
+892
+01:20:07,033 --> 01:20:08,267
+Vamos!
+
+893
+01:21:00,800 --> 01:21:02,000
+Um minuto.
+
+894
+01:21:11,000 --> 01:21:12,267
+<i>Trinta segundos.</i>
+
+895
+01:21:13,167 --> 01:21:14,933
+<i>Ponta de Lança Um,</i>
+<i>prossiga com a descida.</i>
+
+896
+01:21:25,333 --> 01:21:26,467
+Muito bem, vamos.
+
+897
+01:21:31,200 --> 01:21:32,067
+Lá vamos nós.
+
+898
+01:22:09,900 --> 01:22:10,767
+Vamos andando!
+
+899
+01:22:18,300 --> 01:22:19,200
+<i>Temos visual.</i>
+
+900
+01:22:19,867 --> 01:22:22,867
+<i>Reunião de alvo hostil em frente</i>
+<i>na ponta leste da plataforma.</i>
+
+901
+01:22:24,767 --> 01:22:25,433
+Anda!
+
+902
+01:22:34,000 --> 01:22:35,067
+<i>Estamos prontos.</i>
+
+903
+01:23:29,733 --> 01:23:31,167
+Tenho uma morte espectral confirmada.
+
+904
+01:23:32,433 --> 01:23:34,867
+Estamos prontos.
+Repito, todas as unidades vão.
+
+905
+01:23:34,933 --> 01:23:37,433
+-Vamos mostrar o que temos.
+-Anda.
+
+906
+01:23:37,700 --> 01:23:38,867
+-Isso aí!
+-Vamos nessa!
+
+907
+01:23:38,933 --> 01:23:40,033
+Vamos. Descer.
+
+908
+01:23:41,233 --> 01:23:43,867
+<i>Entendido, Ponta de Lança Um.</i>
+<i>Todas as unidades atacar.</i>
+
+909
+01:23:44,367 --> 01:23:46,367
+<i>Ponta de Lança Dois</i>
+<i>indo pela península norte.</i>
+
+910
+01:23:47,967 --> 01:23:50,333
+<i>Ponta de Lança Três começando descida</i>
+<i>na península sul.</i>
+
+911
+01:23:51,700 --> 01:23:53,767
+<i>Pelo menos uma dúzia de alvos saindo.</i>
+
+912
+01:23:54,233 --> 01:23:56,100
+-Vai!
+-Vamos andando!
+
+913
+01:23:56,167 --> 01:23:59,000
+-Comigo!
+<i>-Todas as unidades, liberadas para atacar.</i>
+
+914
+01:24:00,033 --> 01:24:01,233
+-Entrar!
+-Entrar!
+
+915
+01:24:04,000 --> 01:24:04,900
+Mandem ver.
+
+916
+01:24:04,967 --> 01:24:06,067
+-Saiam.
+-Vamos nessa.
+
+917
+01:24:07,700 --> 01:24:10,367
+-Logo atrás de você!
+<i>-Armas liberadas!</i>
+
+918
+01:24:11,133 --> 01:24:12,100
+Vamos. Avançar!
+
+919
+01:24:13,933 --> 01:24:15,167
+-Anda!
+-Anda!
+
+920
+01:24:16,000 --> 01:24:18,833
+-Eu disse para ir!
+-Anda!
+
+921
+01:24:22,967 --> 01:24:26,167
+<i>Ponta de Lança Dois, pronto para campo</i>
+<i>interno. Prossiga ao ponto de inserção.</i>
+
+922
+01:24:31,033 --> 01:24:32,233
+Vai!
+
+923
+01:25:29,000 --> 01:25:30,000
+Abaixe-se!
+
+924
+01:25:46,300 --> 01:25:47,267
+Ali.
+
+925
+01:25:54,933 --> 01:25:57,400
+-Toll!
+-Vão!
+
+926
+01:25:58,767 --> 01:26:00,033
+Vai!
+
+927
+01:26:06,000 --> 01:26:07,700
+Vai!
+
+928
+01:26:09,400 --> 01:26:11,467
+-Alguém suba!
+-Bem ali!
+
+929
+01:26:12,400 --> 01:26:14,467
+-Tem mais vindo!
+-Mantenham formação!
+
+930
+01:26:14,733 --> 01:26:15,733
+Vamos avançar!
+
+931
+01:26:22,033 --> 01:26:22,933
+Lutem!
+
+932
+01:26:24,100 --> 01:26:25,000
+Anda!
+
+933
+01:26:27,967 --> 01:26:30,167
+-Vamos!
+-Vamos, John!
+
+934
+01:26:33,100 --> 01:26:34,300
+Qual é o <i>status?</i> Agora mesmo.
+
+935
+01:26:36,233 --> 01:26:38,700
+<i>Clyne, qual é a situação aí embaixo?</i>
+
+936
+01:26:39,200 --> 01:26:40,833
+Sessions, nós nos separamos.
+
+937
+01:26:41,300 --> 01:26:44,700
+-Ainda estamos procurando o laboratório.
+-Estamos aguentando. Não sei quanto tempo.
+
+938
+01:26:45,167 --> 01:26:47,933
+<i>-Está ouvindo?</i>
+-Está me ouvindo? Sessions?
+
+939
+01:26:51,367 --> 01:26:52,333
+Temos que continuar.
+
+940
+01:27:09,700 --> 01:27:10,733
+Temos que estar perto.
+
+941
+01:27:32,033 --> 01:27:33,167
+Meu Deus.
+
+942
+01:27:47,967 --> 01:27:49,000
+Olha aqui.
+
+943
+01:27:49,900 --> 01:27:51,767
+Condensado Bose-Einstein.
+
+944
+01:28:06,133 --> 01:28:07,300
+Olha esses raios-x.
+
+945
+01:28:11,100 --> 01:28:14,433
+Estavam escaneando pessoas.
+Ao nível molecular.
+
+946
+01:28:23,067 --> 01:28:24,900
+E as imprimindo em condensado.
+
+947
+01:28:32,000 --> 01:28:33,133
+É uma linha de montagem.
+
+948
+01:28:34,200 --> 01:28:35,367
+Como algum tipo de...
+
+949
+01:28:36,367 --> 01:28:38,100
+processo industrial.
+
+950
+01:28:38,867 --> 01:28:39,733
+Você tem razão.
+
+951
+01:28:41,900 --> 01:28:42,833
+É uma arma.
+
+952
+01:29:18,200 --> 01:29:19,233
+O que aconteceu aqui?
+
+953
+01:29:20,433 --> 01:29:22,200
+Parece uma falha catastrófica.
+
+954
+01:29:23,000 --> 01:29:24,733
+Metade das celas estão quebradas e vazias.
+
+955
+01:29:24,900 --> 01:29:27,167
+Alguma falha estrutural
+deve tê-los libertado.
+
+956
+01:29:27,233 --> 01:29:28,700
+Abriu a caixa de Pandora.
+
+957
+01:29:29,833 --> 01:29:30,733
+E agora?
+
+958
+01:29:32,900 --> 01:29:33,900
+Chegando!
+
+959
+01:29:54,300 --> 01:29:55,867
+À frente!
+
+960
+01:30:00,000 --> 01:30:02,033
+-Vamos nessa!
+-Cuidado, estão voltando!
+
+961
+01:30:02,100 --> 01:30:04,100
+-Estão se movendo!
+-<i>Todos de olho no alvo.</i>
+
+962
+01:30:04,167 --> 01:30:06,867
+<i>-Um deles está se reconstituindo.</i>
+<i>-Destrua-o!</i>
+
+963
+01:30:28,067 --> 01:30:30,233
+"Maiores conselheiros de pesquisa
+do regime central."
+
+964
+01:30:31,467 --> 01:30:34,467
+Esse homem estava tentando impedir.
+Eles perderam controle.
+
+965
+01:30:36,333 --> 01:30:37,733
+Consegue traduzir isso?
+
+966
+01:30:44,300 --> 01:30:47,733
+Procedimento de desligamento emergencial.
+Metade dessas palavras eu nunca vi antes.
+
+967
+01:30:47,800 --> 01:30:48,967
+E a outra metade?
+
+968
+01:31:00,833 --> 01:31:03,100
+"Desacoplamento...
+Procedimento de desacoplamento.
+
+969
+01:31:03,167 --> 01:31:08,300
+Desconecte os umbilicais para...
+interromper a... atividade neural."
+
+970
+01:31:08,367 --> 01:31:11,767
+-Está bem.
+-Tem que destravar todas essas portas.
+
+971
+01:31:12,133 --> 01:31:15,300
+E depois tem que puxar essa alavanca
+para soltar todos os cabos.
+
+972
+01:31:16,000 --> 01:31:17,100
+E depois?
+
+973
+01:31:17,867 --> 01:31:19,000
+Isso deve detê-los.
+
+974
+01:31:26,367 --> 01:31:27,267
+Pegue isso.
+
+975
+01:32:36,700 --> 01:32:38,433
+Anda! Levanta!
+
+976
+01:32:40,900 --> 01:32:42,200
+Ali! Tem mais!
+
+977
+01:32:42,833 --> 01:32:43,700
+Outro!
+
+978
+01:33:06,267 --> 01:33:07,400
+Está bem ali!
+
+979
+01:33:12,867 --> 01:33:14,833
+-Clyne!
+-Eu sei!
+
+980
+01:33:40,733 --> 01:33:41,767
+Mas que diabos...
+
+981
+01:33:42,233 --> 01:33:44,300
+Tirei todos. Nada está acontecendo.
+
+982
+01:33:58,833 --> 01:34:03,000
+Clyne! Puxe a alavanca! No meio!
+
+983
+01:35:43,833 --> 01:35:46,167
+-Acabou?
+-Não sei.
+
+984
+01:36:24,367 --> 01:36:25,400
+Consegue andar?
+
+985
+01:36:28,267 --> 01:36:29,733
+-Estou bem.
+-Anda.
+
+986
+01:36:30,333 --> 01:36:31,800
+Temos que achar uma saída.
+
+987
+01:36:35,800 --> 01:36:37,433
+-Ouviu isso?
+-Sim.
+
+988
+01:36:54,100 --> 01:36:55,100
+É isso aí.
+
+989
+01:37:00,800 --> 01:37:02,700
+Não estavam só escaneando pessoas.
+
+990
+01:37:03,933 --> 01:37:05,133
+Não são só impressos.
+
+991
+01:37:06,400 --> 01:37:08,000
+Isso é o que os controla.
+
+992
+01:37:10,033 --> 01:37:11,400
+Isso é de corpos de verdade.
+
+993
+01:37:12,467 --> 01:37:14,733
+Cada um é feito de uma pessoa de verdade.
+
+994
+01:37:16,767 --> 01:37:17,800
+Eles estão vivos?
+
+995
+01:37:18,933 --> 01:37:19,833
+Não estão vivos.
+
+996
+01:37:23,067 --> 01:37:24,000
+Não estão mortos.
+
+997
+01:37:27,800 --> 01:37:29,800
+Só estão presos em algum lugar no meio.
+
+998
+01:37:33,467 --> 01:37:34,467
+Mas estão sofrendo.
+
+999
+01:37:36,300 --> 01:37:37,267
+Como sabe?
+
+1000
+01:37:38,367 --> 01:37:39,733
+Isso é dor.
+
+1001
+01:37:42,900 --> 01:37:44,367
+Como sabe que podem sentir?
+
+1002
+01:37:45,933 --> 01:37:46,967
+Não posso provar.
+
+1003
+01:37:48,800 --> 01:37:49,467
+Não posso.
+
+1004
+01:37:55,933 --> 01:37:58,133
+Talvez haja coisas
+que a ciência não pode explicar.
+
+1005
+01:38:14,167 --> 01:38:15,200
+Espere, não.
+
+1006
+01:38:16,800 --> 01:38:18,267
+Foi para isso que viemos aqui.
+
+1007
+01:38:19,267 --> 01:38:22,200
+Isso é a prova.
+Foi por isso que você veio, lembra?
+
+1008
+01:38:23,133 --> 01:38:25,933
+Lembra? Tanta gente morreu.
+Você mesmo disse.
+
+1009
+01:38:26,000 --> 01:38:28,333
+-Você disse: "Eu quero saber por quê."
+-Sei o bastante.
+
+1010
+01:38:30,067 --> 01:38:32,067
+Você tem que pensar no panorama geral.
+
+1011
+01:38:35,000 --> 01:38:35,867
+Estou pensando.
+
+1012
+01:39:30,333 --> 01:39:31,733
+Ajude-os, em ordem.
+
+1013
+01:39:32,967 --> 01:39:34,033
+Tem mais chegando!
+
+1014
+01:39:35,033 --> 01:39:36,333
+Coloque-os na unidade cinco.
+
+1015
+01:39:37,267 --> 01:39:39,367
+-Aqui.
+-Cuidado com o pescoço dele.
+
+1016
+01:39:39,433 --> 01:39:42,300
+Sim, estou bem.
+
+1017
+01:39:50,733 --> 01:39:51,767
+Me dê sua mão.
+
+1018
+01:39:56,233 --> 01:39:57,100
+Por aqui, senhor.
+
+1019
+01:39:58,067 --> 01:39:58,933
+Bem-vindo de volta.
+
+1020
+01:40:00,400 --> 01:40:01,333
+Está bem?
+
+1021
+01:40:37,733 --> 01:40:38,733
+Novas equipes de pesquisa.
+
+1022
+01:40:39,167 --> 01:40:41,867
+Eles vão desmontar Masarov
+peça por peça.
+
+1023
+01:40:42,800 --> 01:40:43,800
+Medir tudo.
+
+1024
+01:40:45,367 --> 01:40:47,033
+Tentar inverter a engenharia.
+
+1025
+01:40:47,933 --> 01:40:49,067
+Brigar pela propriedade.
+
+1026
+01:40:50,367 --> 01:40:53,867
+Me perguntaram se você quer voltar lá.
+Eu disse que perguntaria, mas...
+
+1027
+01:40:54,933 --> 01:40:56,200
+Eu vi o que vim ver.
+
+1028
+01:41:14,233 --> 01:41:15,733
+Eles não param, não é?
+
+1029
+01:41:16,733 --> 01:41:18,000
+Acho que eles não sabem como.
+
+1030
+01:41:43,000 --> 01:41:45,400
+Eu disse que você voltaria para a Virgínia
+sem desfazer a mala.
+
+1031
+01:41:46,300 --> 01:41:47,800
+Unidade Delta, sair.
+
+1032
+01:41:51,900 --> 01:41:52,767
+Obrigada.
+
+1033
+01:42:18,504 --> 01:42:20,504
+<i>Resync:</i>
+~ FLeCha ~

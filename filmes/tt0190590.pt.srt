@@ -1,0 +1,6339 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.com ] ==-
+
+2
+00:00:45,921 --> 00:00:47,664
+"Ó, MUSA!
+
+3
+00:00:47,735 --> 00:00:50,033
+"CANTE EM MIM, E ATRAVÉS
+DE MIM CONTE A HISTÓRIA...
+
+4
+00:00:50,104 --> 00:00:52,436
+DAQUELE HOMEM BELICOSO
+QUE TUDO ENFRENTA...
+
+5
+00:00:52,506 --> 00:00:55,339
+UM ERRANTE,
+ANOS A FIO PERSEGUIDO...
+
+6
+00:00:55,409 --> 00:00:57,843
+<i>Pobre Lázaro.</i>
+
+7
+00:00:57,912 --> 00:01:00,346
+<i>Bem, o cherife</i>
+
+8
+00:01:00,414 --> 00:01:03,178
+<i>Ele disse ao assistente</i>
+
+9
+00:01:03,250 --> 00:01:08,586
+<i>Porque não me
+traz Lázaro?</i>
+
+10
+00:01:11,492 --> 00:01:13,892
+<i>Bem, o cherife</i>
+
+11
+00:01:13,961 --> 00:01:16,691
+<i>Ele disse ao assistente</i>
+
+12
+00:01:16,764 --> 00:01:22,464
+<i>Por que não me traz Lázaro?</i>
+
+13
+00:01:24,705 --> 00:01:28,163
+<i>Oh, traga-o vivo ou morto</i>
+
+14
+00:01:28,242 --> 00:01:30,335
+<i>Ó, Senhor</i>
+
+15
+00:01:30,411 --> 00:01:33,437
+<i>Traga-o morto ou vivo</i>
+
+16
+00:01:35,783 --> 00:01:38,115
+<i>Bem, o assistente</i>
+
+17
+00:01:38,185 --> 00:01:40,983
+<i>Ele disse ao cherife</i>
+
+18
+00:01:41,055 --> 00:01:45,754
+<i>Bem, eu não vou me meter
+com Lázaro</i>
+
+19
+00:01:48,963 --> 00:01:51,454
+<i>Bem, o assistente</i>
+
+20
+00:01:51,532 --> 00:01:53,261
+<i>Ele disse ao cherife</i>
+
+21
+00:01:54,335 --> 00:01:58,328
+<i>Disse: - Eu não vou me meter
+com Lázaro...</i>
+
+22
+00:02:00,041 --> 00:02:01,941
+<i>Levanta bem essa marreta aí,
+garoto.</i>
+
+23
+00:02:02,009 --> 00:02:03,601
+<i>Sim, senhor chefe.</i>
+
+24
+00:02:05,079 --> 00:02:08,480
+<i>Bem, ele é um homem perigoso</i>
+
+25
+00:02:08,549 --> 00:02:10,380
+<i>Ó, Senhor</i>
+
+26
+00:02:10,451 --> 00:02:13,784
+<i>Ele é um homem perigoso</i>
+
+27
+00:02:16,590 --> 00:02:18,524
+Vamos, martelem! Andem!
+
+28
+00:02:26,291 --> 00:02:29,336
+E AÍ, MEU IRMÃO, CADÊ VOCÊ?
+
+29
+00:05:16,770 --> 00:05:18,067
+Então...
+
+30
+00:05:18,138 --> 00:05:20,197
+algum de vocês é ferreiro?
+
+31
+00:05:22,943 --> 00:05:24,911
+Ou se não forem ferreiros...
+
+32
+00:05:24,979 --> 00:05:26,913
+receberam algum treinamento
+na arte metalúrgica...
+
+33
+00:05:26,981 --> 00:05:29,973
+antes que as circunstâncias
+os colocassem vagando sem rumo?
+
+34
+00:05:41,528 --> 00:05:43,758
+Jesus! Não dá para
+contar com ninguém?
+
+35
+00:05:43,831 --> 00:05:45,731
+Perdão, Everett.
+
+36
+00:05:46,967 --> 00:05:48,559
+Tudo bem.
+
+37
+00:05:49,670 --> 00:05:52,264
+- Se sairmos por aquele...
+- Calma aí.
+
+38
+00:05:52,339 --> 00:05:55,069
+Quem elegeu você
+o líder do grupo?
+
+39
+00:05:55,142 --> 00:05:57,076
+Pete, achei que deveria ser...
+
+40
+00:05:57,144 --> 00:05:59,578
+quem tivesse capacidade
+para pensar abstratamente.
+
+41
+00:05:59,647 --> 00:06:02,514
+Mas se o consenso não é este,
+então, dane-se. Vamos votar.
+
+42
+00:06:02,583 --> 00:06:05,279
+Tudo bem.
+Eu voto para mim mesmo.
+
+43
+00:06:05,352 --> 00:06:07,650
+Eu também voto para mim mesmo.
+
+44
+00:06:12,860 --> 00:06:16,159
+Estou com vocês, rapazes.
+
+45
+00:06:41,355 --> 00:06:43,289
+Podemos ir com você, senhor?
+
+46
+00:06:43,357 --> 00:06:46,849
+Venham comigo, filhos.
+Venham comigo.
+
+47
+00:06:51,098 --> 00:06:53,157
+O vovô trabalha para a ferrovia?
+
+48
+00:06:53,233 --> 00:06:55,633
+Não trabalho para ninguém.
+
+49
+00:06:55,703 --> 00:06:57,261
+Você tem nome?
+
+50
+00:06:57,338 --> 00:06:59,806
+Eu não tenho nome.
+
+51
+00:07:00,975 --> 00:07:02,840
+Então talvez
+seja por isso...
+
+52
+00:07:02,910 --> 00:07:05,310
+que teve dificuldade
+em arrumar bom emprego.
+
+53
+00:07:05,379 --> 00:07:07,404
+Neste comércio competitivo...
+
+54
+00:07:07,481 --> 00:07:09,472
+Você busca uma grande fortuna...
+
+55
+00:07:09,550 --> 00:07:12,747
+vocês três acorrentados.
+
+56
+00:07:12,820 --> 00:07:15,186
+Encontrarão a sua fortuna...
+
+57
+00:07:15,255 --> 00:07:17,746
+mas não será a fortuna
+que procuram.
+
+58
+00:07:18,926 --> 00:07:21,087
+Porém, primeiro...
+
+59
+00:07:21,161 --> 00:07:23,595
+deverão viajar...
+
+60
+00:07:23,664 --> 00:07:26,030
+por uma estrada difícil.
+
+61
+00:07:27,601 --> 00:07:30,502
+Uma estrada repleta de perigos.
+
+62
+00:07:32,272 --> 00:07:35,571
+Vocês verão coisas...
+
+63
+00:07:35,642 --> 00:07:37,974
+maravilhosas de se contar.
+
+64
+00:07:38,045 --> 00:07:41,947
+Vocês verão uma vaca...
+
+65
+00:07:42,016 --> 00:07:44,507
+no telhado de uma...
+
+66
+00:07:44,585 --> 00:07:46,416
+fazenda de algodão.
+
+67
+00:07:47,221 --> 00:07:49,655
+E, ora, tantos sustos.
+
+68
+00:07:51,458 --> 00:07:54,552
+Não sei dizer
+o tamanho desta estrada...
+
+69
+00:07:54,628 --> 00:07:57,995
+mas não temam os obstáculos
+no caminho...
+
+70
+00:07:58,065 --> 00:08:02,729
+pois o destino imputou
+as suas recompensas.
+
+71
+00:08:02,803 --> 00:08:05,863
+Sua estrada pode dobrar-se...
+
+72
+00:08:05,939 --> 00:08:08,737
+e seus corações podem abater-se...
+
+73
+00:08:08,809 --> 00:08:11,607
+mesmo assim, sigam pela estrada...
+
+74
+00:08:11,678 --> 00:08:15,045
+que levará à salvação.
+
+75
+00:08:29,496 --> 00:08:32,522
+O tesouro ainda está lá, rapazes.
+Podem acreditar.
+
+76
+00:08:32,599 --> 00:08:35,193
+Como ele sabe do tesouro?
+
+77
+00:08:35,269 --> 00:08:36,827
+Eu não sei, Delmar.
+
+78
+00:08:36,904 --> 00:08:39,168
+Dizem que os cegos
+possuem sentividades...
+
+79
+00:08:39,239 --> 00:08:41,173
+que compensam pela falta de visão...
+
+80
+00:08:41,241 --> 00:08:44,608
+chegando a desenvolver
+poderes psíquicos paranormais.
+
+81
+00:08:44,678 --> 00:08:48,011
+E prever o futuro encaixa-se
+perfeitamente nesta categoria.
+
+82
+00:08:48,082 --> 00:08:49,777
+Então não é surpresa...
+
+83
+00:08:49,850 --> 00:08:52,250
+que um organismo, destituído
+de sua visão terrestre...
+
+84
+00:08:52,319 --> 00:08:55,720
+Ele disse que não encontraríamos
+o tesouro que procuramos...
+
+85
+00:08:55,789 --> 00:08:57,723
+devido aos nossos obstáculos.
+
+86
+00:08:57,724 --> 00:09:00,493
+E o quê diabos ele sabe?
+É apenas um velho ignorante!
+
+87
+00:09:00,494 --> 00:09:03,054
+Poxa, Pete.
+Eu mesmo enterrei o tesouro.
+
+88
+00:09:03,130 --> 00:09:05,758
+Se seu primo ainda tiver
+a fazenda de cavalos...
+
+89
+00:09:05,833 --> 00:09:10,429
+uma forja e ferramentas que
+restabeleçam nossa mobilidade...
+
+90
+00:09:10,504 --> 00:09:12,369
+Fiquem aí parados!
+
+91
+00:09:15,109 --> 00:09:18,340
+- Vocês são do banco?
+- Você é o filho de Wash?
+
+92
+00:09:18,412 --> 00:09:22,041
+Sim e o papai mandou eu atirar
+nos caras do banco.
+
+93
+00:09:22,116 --> 00:09:24,676
+Não somos do banco, meu jovem.
+
+94
+00:09:24,751 --> 00:09:27,720
+É pra atirar também em
+quem vier trazer documentos.
+
+95
+00:09:27,788 --> 00:09:29,722
+Não temos documento nenhum.
+
+96
+00:09:29,790 --> 00:09:31,951
+Acertei o cara do censo.
+
+97
+00:09:32,025 --> 00:09:34,721
+Bom menino.
+
+98
+00:09:34,795 --> 00:09:37,059
+O seu pai está aí?
+
+99
+00:09:49,977 --> 00:09:53,310
+Olá, Pete.
+Quem são os seus amigos?
+
+100
+00:09:54,781 --> 00:09:57,113
+Prazer em conhecê-lo,
+Sr. Hogwallop.
+
+101
+00:09:57,184 --> 00:10:00,381
+- Eu sou Ulysses Everett McGill.
+- E eu sou Delmar O'Donnell.
+
+102
+00:10:02,256 --> 00:10:04,349
+Como vai, Wash?
+
+103
+00:10:04,424 --> 00:10:07,188
+Faz 12, 13 anos?
+
+104
+00:10:12,566 --> 00:10:15,694
+Acho que vão querer
+tirar as correntes.
+
+105
+00:10:15,769 --> 00:10:19,261
+Eles expulsaram o primo Vester.
+
+106
+00:10:19,339 --> 00:10:22,240
+Em maio, fará um ano
+que se enforcou.
+
+107
+00:10:22,309 --> 00:10:24,106
+E o tio Ratliff?
+
+108
+00:10:24,178 --> 00:10:28,615
+O gado dele morreu de antraz.
+O que sobrou não dá leite.
+
+109
+00:10:28,682 --> 00:10:31,947
+Ele perdeu um filho,
+pegou cachumba.
+
+110
+00:10:32,019 --> 00:10:34,044
+E a Cora, primo Wash?
+
+111
+00:10:38,926 --> 00:10:40,518
+Não sei dizer.
+
+112
+00:10:42,429 --> 00:10:43,919
+A Sra. Hogwallop saiu...
+
+113
+00:10:43,997 --> 00:10:47,455
+e simplesmente S-U-M-I-U.
+
+114
+00:10:50,137 --> 00:10:52,105
+Deve ter ido buscar respostas.
+
+115
+00:10:52,172 --> 00:10:53,867
+É possível.
+
+116
+00:10:53,941 --> 00:10:56,739
+Ela já vai tarde,
+se quiser saber.
+
+117
+00:10:56,810 --> 00:10:58,744
+Só sinto falta da comida dela.
+
+118
+00:10:58,812 --> 00:11:01,474
+- Este ensopado está delicioso.
+- Você acha?
+
+119
+00:11:03,483 --> 00:11:05,747
+Matei este cavalo
+na terça-feira passada.
+
+120
+00:11:05,819 --> 00:11:08,413
+Acho que está começando a estragar.
+
+121
+00:11:14,127 --> 00:11:16,891
+<i>Você é meu raio de sol</i>
+
+122
+00:11:16,964 --> 00:11:19,330
+<i>Meu único raio de sol</i>
+
+123
+00:11:19,399 --> 00:11:21,924
+<i>Você me deixa feliz</i>
+
+124
+00:11:22,002 --> 00:11:24,732
+<i>Quando o céu está cinzento</i>
+
+125
+00:11:24,805 --> 00:11:27,330
+<i>Você jamais saberá, amor</i>
+
+126
+00:11:27,407 --> 00:11:30,171
+<i>O quanto eu amo você</i>
+
+127
+00:11:30,244 --> 00:11:35,181
+<i>Por favor, não levem
+o meu raio de sol</i>
+
+128
+00:11:35,249 --> 00:11:38,013
+<i>Com isto encerramos o horário...</i>
+
+129
+00:11:38,085 --> 00:11:41,179
+<i>da Farinha Pappy O'Daniel
+e Seus Bolinhos.</i>
+
+130
+00:11:41,255 --> 00:11:43,917
+<i>Aqui é Pappy O'Daniel
+e espero que tenham gostado...</i>
+
+131
+00:11:43,991 --> 00:11:46,152
+<i>das canções antigas.</i>
+
+132
+00:11:46,226 --> 00:11:49,024
+<i>Lembrem-se, se você estiver
+fritando umas panquecas...</i>
+
+133
+00:11:49,096 --> 00:11:51,030
+<i>ou assando uns pãezinhos...</i>
+
+134
+00:11:51,098 --> 00:11:53,225
+<i>use água limpa e fria...</i>
+
+135
+00:11:53,300 --> 00:11:56,463
+<i>e farinha pura
+do Pappy O'Daniel.</i>
+
+136
+00:11:56,536 --> 00:11:59,767
+Bem, eu vou me deitar.
+
+137
+00:11:59,840 --> 00:12:03,071
+Então, primo Wash...
+
+138
+00:12:03,143 --> 00:12:05,509
+Acredito que seria
+uma tolice total...
+
+139
+00:12:05,579 --> 00:12:07,513
+indagar se você tem
+uma redinha de cabelo.
+
+140
+00:12:07,581 --> 00:12:11,017
+Há um monte ali na cômoda.
+
+141
+00:12:11,084 --> 00:12:13,279
+Eram da Srta. Hogwallop.
+
+142
+00:12:14,354 --> 00:12:16,049
+Pegue o que quiser.
+
+143
+00:12:16,123 --> 00:12:18,148
+Eu não preciso de nenhuma.
+
+144
+00:12:30,003 --> 00:12:32,130
+Então, rapazes!
+
+145
+00:12:32,205 --> 00:12:35,265
+- O meu cabelo!?
+- São as autoridades!
+
+146
+00:12:36,710 --> 00:12:38,302
+Vocês estão cercados!
+
+147
+00:12:38,378 --> 00:12:40,209
+Droga! Que enrascada!
+
+148
+00:12:40,280 --> 00:12:43,147
+Venham aqui pra fora!
+
+149
+00:12:43,216 --> 00:12:46,086
+E não tentem nenhuma gracinha!
+
+150
+00:12:46,220 --> 00:12:48,814
+Está perdido para vocês!
+
+151
+00:12:48,889 --> 00:12:51,323
+Droga! Mas que enrascada!
+
+152
+00:12:51,392 --> 00:12:52,791
+Santa misericórdia...
+
+153
+00:12:52,860 --> 00:12:54,794
+o primo do Pete nos entregou
+para ganhar a recompensa.
+
+154
+00:12:54,862 --> 00:12:57,194
+Não é possível!
+
+155
+00:12:57,264 --> 00:12:59,494
+- Wash é da família!
+- Perdão, Pete!
+
+156
+00:12:59,567 --> 00:13:03,298
+Somos parentes,
+mas estamos com essa Depressão.
+
+157
+00:13:03,370 --> 00:13:05,304
+É por mim e pelos meus.
+
+158
+00:13:05,372 --> 00:13:09,832
+Eu te mato, seu
+Judas Hogwallop!
+
+159
+00:13:09,910 --> 00:13:12,845
+Seu comedor de cavalo,
+traidor de uma...
+
+160
+00:13:14,315 --> 00:13:16,476
+Droga! Mas que enrascada!
+
+161
+00:13:16,550 --> 00:13:18,211
+Que desgraçado!
+
+162
+00:13:18,285 --> 00:13:21,220
+O pai sempre dizia:
+"Nunca confie em um Hogwallop".
+
+163
+00:13:22,323 --> 00:13:24,917
+Subam pra nos pegar!
+
+164
+00:13:26,594 --> 00:13:30,462
+Vocês estão pedindo
+pra levar chumbo!
+
+165
+00:13:30,531 --> 00:13:32,021
+Droga! Mas que enrascada.
+
+166
+00:13:32,099 --> 00:13:34,567
+- Toquem fogo!
+- Aguentem aí, rapazes!
+
+167
+00:13:34,635 --> 00:13:37,103
+Nunca ouviram falar
+de negociação?
+
+168
+00:13:37,171 --> 00:13:39,435
+Podemos conversar!
+Detesto fogo!
+
+169
+00:13:39,506 --> 00:13:42,737
+Seus gambás, nojentos
+e covardes!
+
+170
+00:13:42,810 --> 00:13:46,041
+Vamos nos pôr de acordo.
+Cuidado com o fogo!
+
+171
+00:13:49,049 --> 00:13:51,711
+Chega.
+
+172
+00:13:51,785 --> 00:13:53,719
+Odeio fogo!
+
+173
+00:13:53,787 --> 00:13:57,746
+Bosta de autoridade,
+filhos de uma cadela sem mãe!
+
+174
+00:14:00,861 --> 00:14:02,726
+Santo São Cristóvão!
+
+175
+00:14:02,796 --> 00:14:05,458
+Afaste-se desse veículo!
+Está pegando fogo.
+
+176
+00:14:08,402 --> 00:14:11,269
+Protejam-se!
+Isso não é pipoca!
+
+177
+00:14:20,881 --> 00:14:22,212
+Afastem-se!
+
+178
+00:14:31,525 --> 00:14:35,052
+Entrem logo.
+Vou S-U-M-I-R com vocês.
+
+179
+00:14:36,096 --> 00:14:39,088
+Vamos logo, chefe!
+
+180
+00:14:40,134 --> 00:14:43,467
+O que veio fazer aqui?
+Deveria estar na cama.
+
+181
+00:14:43,537 --> 00:14:45,732
+Você não manda em mim!
+
+182
+00:14:53,380 --> 00:14:57,009
+Seus ladrões maricas,
+sem-vergonhas!
+
+183
+00:14:57,084 --> 00:14:59,314
+Odeio vocês!
+
+184
+00:14:59,386 --> 00:15:01,650
+Vá pra casa e
+obedeça ao seu pai.
+
+185
+00:15:05,859 --> 00:15:07,793
+Qual é o problema?
+
+186
+00:15:09,596 --> 00:15:12,997
+Posso trazer a peça de Bristol.
+Levará duas semanas.
+
+187
+00:15:13,067 --> 00:15:15,092
+- Aqui está a brilhantina.
+- Duas semanas?
+
+188
+00:15:15,169 --> 00:15:19,833
+- Não me resolve nada.
+- A loja da Ford fica em Bristol.
+
+189
+00:15:19,907 --> 00:15:23,104
+Ei, não quero esta brilhantina.
+Quero Dapper Dan.
+
+190
+00:15:23,177 --> 00:15:26,203
+Não tenho Dapper Dan.
+Tenho Fop.
+
+191
+00:15:26,280 --> 00:15:30,376
+Eu não quero Fop, caramba!
+Quero Dapper Dan.
+
+192
+00:15:30,451 --> 00:15:32,851
+Olha a boca, rapaz.
+Está em uma lojinha pública.
+
+193
+00:15:32,920 --> 00:15:35,184
+Se quiser Dapper Dan,
+posso encomendar...
+
+194
+00:15:35,255 --> 00:15:37,382
+e trazer em duas semanas.
+
+195
+00:15:37,458 --> 00:15:39,949
+Ora, mas que estranheza
+geográfica é esse lugar.
+
+196
+00:15:40,027 --> 00:15:42,257
+Fica há duas semanas de tudo.
+Esqueça!
+
+197
+00:15:43,931 --> 00:15:45,990
+Uma dúzia de redinhas de cabelo.
+
+198
+00:15:48,235 --> 00:15:50,396
+A cidade não parecia
+ser tão pequena.
+
+199
+00:15:50,471 --> 00:15:54,168
+- Tente comprar uma boa brilhantina.
+- Esquilo, Everett?
+
+200
+00:15:54,241 --> 00:15:56,641
+E a correia da transmissão
+só em duas semanas.
+
+201
+00:15:57,811 --> 00:16:00,473
+No dia 21 , vão represar o rio.
+
+202
+00:16:00,547 --> 00:16:02,742
+- Hoje é dia 17.
+- E eu não sei.
+
+203
+00:16:02,816 --> 00:16:05,649
+Temos quatro dias
+para chegar até o tesouro.
+
+204
+00:16:05,719 --> 00:16:08,813
+Depois disso, vai
+pro fundo do lago.
+
+205
+00:16:08,889 --> 00:16:10,823
+Andando não chegaremos nunca.
+
+206
+00:16:10,891 --> 00:16:13,052
+- É mesmo.
+- Esquilo, Everett?
+
+207
+00:16:13,127 --> 00:16:15,960
+Mas o velho taticógrafo
+tem um plano.
+
+208
+00:16:16,030 --> 00:16:17,964
+Para o transporte, claro.
+Eu não sei como...
+
+209
+00:16:18,032 --> 00:16:20,466
+manterei o meu penteado.
+
+210
+00:16:20,534 --> 00:16:23,094
+Como é este plano?
+Como arrumaremos um carro?
+
+211
+00:16:23,871 --> 00:16:27,671
+Venda isso. Só trás más lembranças
+de sua associação com Wash.
+
+212
+00:16:27,741 --> 00:16:32,576
+"Para Washington
+Bartholomew Hogwallop...
+
+213
+00:16:32,646 --> 00:16:35,080
+de sua querida Cora."
+
+214
+00:16:35,081 --> 00:16:38,872
+Amor fidelis.
+
+215
+00:16:39,386 --> 00:16:42,378
+Estava na cômoda.
+Vai nos dar dinheiro bastante...
+
+216
+00:16:42,456 --> 00:16:45,448
+para um autovoiture bom e usado
+e ainda sobra.
+
+217
+00:16:45,526 --> 00:16:48,188
+Você tem a mão leve.
+
+218
+00:16:48,262 --> 00:16:49,229
+Esquilo?
+
+219
+00:16:49,296 --> 00:16:52,129
+Seu ladrão miserável.
+
+220
+00:16:52,199 --> 00:16:54,133
+Você roubou de um parente meu!
+
+221
+00:16:55,536 --> 00:16:59,199
+- Que ia nos entregar.
+- Você não sabia disso!
+
+222
+00:16:59,273 --> 00:17:01,434
+Peguei emprestado
+até que fiquei sabendo.
+
+223
+00:17:01,508 --> 00:17:03,635
+Não faz sentido!
+
+224
+00:17:03,710 --> 00:17:07,976
+Só um tolo busca a lógica
+no âmago do coração humano.
+
+225
+00:17:08,048 --> 00:17:09,777
+Que cantoria é essa?
+
+226
+00:17:13,287 --> 00:17:15,414
+Parece que é um tipo de...
+
+227
+00:17:16,623 --> 00:17:18,784
+congregação.
+
+228
+00:17:18,859 --> 00:17:20,793
+Quer um pedaço de esquilo?
+
+229
+00:17:24,298 --> 00:17:26,789
+Não, obrigado, Delmar.
+
+230
+00:17:26,867 --> 00:17:29,199
+Um terço do esquilo
+só me abriria o apetite...
+
+231
+00:17:29,269 --> 00:17:31,737
+e não refrescaria nada.
+
+232
+00:17:31,805 --> 00:17:34,535
+Você pode comer tudo.
+
+233
+00:17:34,608 --> 00:17:36,599
+Eu e Pete já comemos um.
+
+234
+00:17:37,811 --> 00:17:39,972
+Nós encontramos...
+
+235
+00:17:40,047 --> 00:17:44,381
+uma família de cotias.
+
+236
+00:17:49,256 --> 00:17:53,022
+<i>Irmãos, vamos descer</i>
+
+237
+00:17:53,093 --> 00:17:56,859
+<i>Vamos lá
+Vamos lá</i>
+
+238
+00:17:56,930 --> 00:18:00,593
+<i>Vamos, irmãos
+Vamos lá</i>
+
+239
+00:18:00,667 --> 00:18:05,104
+<i>Vamos ao rio e rezar</i>
+
+240
+00:18:05,172 --> 00:18:09,074
+<i>Eu fui ao rio rezar</i>
+
+241
+00:18:09,143 --> 00:18:12,340
+<i>Estudar as antigas lições</i>
+
+242
+00:18:12,412 --> 00:18:15,904
+<i>E quem deverá usar
+a coroa de estrelas</i>
+
+243
+00:18:15,983 --> 00:18:19,316
+<i>Bom Senhor, mostre-me o caminho</i>
+
+244
+00:18:20,621 --> 00:18:24,182
+<i>Pais, vamos lá</i>
+
+245
+00:18:24,258 --> 00:18:27,819
+<i>Vamos lá
+Vamos lá</i>
+
+246
+00:18:27,895 --> 00:18:31,558
+<i>Pais, vamos lá</i>
+
+247
+00:18:31,632 --> 00:18:34,624
+<i>Até o rio para rezar</i>
+
+248
+00:18:36,370 --> 00:18:40,238
+<i>E quando fui ao rio rezar</i>
+
+249
+00:18:40,307 --> 00:18:43,572
+<i>Estudar as antigas lições</i>
+
+250
+00:18:43,644 --> 00:18:47,102
+<i>E quem deve usar
+o manto e a coroa</i>
+
+251
+00:18:47,181 --> 00:18:51,015
+<i>Bom Senhor,
+mostre-me o caminho</i>
+
+252
+00:18:52,219 --> 00:18:55,711
+<i>Mães, vamos lá</i>
+
+253
+00:18:55,789 --> 00:18:59,316
+<i>Vamos lá
+Vocês não querem ir?</i>
+
+254
+00:18:59,393 --> 00:19:03,022
+<i>Vamos, mães
+Vamos até lá</i>
+
+255
+00:19:03,096 --> 00:19:06,554
+Acho que em tempos difíceis
+transbordam os imbecis.
+
+256
+00:19:06,633 --> 00:19:08,726
+Todo mundo procura uma resposta.
+Há sempre...
+
+257
+00:19:12,506 --> 00:19:14,337
+Aonde ele vai?
+
+258
+00:19:27,454 --> 00:19:30,218
+Ora, que filho da mãe.
+
+259
+00:19:30,290 --> 00:19:32,190
+Delmar foi salvo.
+
+260
+00:19:32,259 --> 00:19:35,751
+Viram, rapazes?
+Eu estou redimido.
+
+261
+00:19:35,829 --> 00:19:40,198
+O pastor lavou meus pecados
+e transgressões.
+
+262
+00:19:40,267 --> 00:19:42,963
+De agora em diante
+só andarei na linha...
+
+263
+00:19:43,036 --> 00:19:45,698
+e o céu eterno será
+a minha recompensa.
+
+264
+00:19:45,772 --> 00:19:49,037
+Delmar, o que está dizendo?
+Temos coisa maior para conseguir.
+
+265
+00:19:49,109 --> 00:19:52,545
+O pastor disse que os meus pecados
+foram lavados...
+
+266
+00:19:52,613 --> 00:19:55,605
+inclusive da loja Piggly-Wiggly
+que eu derrubei em Yazoo.
+
+267
+00:19:55,682 --> 00:19:57,877
+Você não disse que era
+inocente?
+
+268
+00:19:59,319 --> 00:20:01,116
+Eu estava mentindo.
+
+269
+00:20:01,188 --> 00:20:04,385
+E o pastor disse que
+esse pecado também foi lavado.
+
+270
+00:20:04,458 --> 00:20:07,950
+Nem Deus nem o homem
+pode me culpar de nada.
+
+271
+00:20:08,028 --> 00:20:11,429
+Entrem, caras.
+A água está boa.
+
+272
+00:20:19,039 --> 00:20:21,599
+Venha. Assim mesmo.
+Muito bem.
+
+273
+00:20:25,312 --> 00:20:27,246
+Pegamos o cheiro!
+
+274
+00:20:30,417 --> 00:20:32,510
+O pastor disse que nos absolveu.
+
+275
+00:20:32,586 --> 00:20:34,884
+Para ele, não para a lei.
+
+276
+00:20:34,955 --> 00:20:37,719
+Estou espantado. Pensei que fosse
+mais esperto que Delmar.
+
+277
+00:20:37,791 --> 00:20:40,351
+Mas muitos testemunharam
+a nossa redenção.
+
+278
+00:20:40,427 --> 00:20:43,726
+Não é isso. Mesmo que tenham
+se acertado com Deus...
+
+279
+00:20:43,797 --> 00:20:45,788
+o Estado de Mississippi
+é muito mais durão.
+
+280
+00:20:45,866 --> 00:20:48,994
+Deveria ter feito o mesmo.
+Não custaria nada.
+
+281
+00:20:49,069 --> 00:20:53,335
+Pelo menos tiraria o fedor
+dessa brilhantina.
+
+282
+00:20:53,407 --> 00:20:55,898
+Acompanhar dois ignorantes
+em uma superstição ridícula?
+
+283
+00:20:55,976 --> 00:20:58,570
+Obrigado. E eu gosto
+do cheiro no meu cabelo.
+
+284
+00:20:58,645 --> 00:21:00,579
+Cheiro agradável é o principal.
+
+285
+00:21:02,816 --> 00:21:04,545
+Batismo.
+
+286
+00:21:04,618 --> 00:21:06,984
+Vocês são mais tontos
+que dois sacos vazios.
+
+287
+00:21:07,054 --> 00:21:08,988
+Acho que são a minha cruz.
+
+288
+00:21:09,056 --> 00:21:12,389
+Pare o carro.
+Vamos dar carona pra esse preto.
+
+289
+00:21:20,334 --> 00:21:22,461
+Vocês vão para Tishamingo?
+
+290
+00:21:22,536 --> 00:21:23,969
+Claro. Entre.
+
+291
+00:21:33,547 --> 00:21:35,481
+Como vai, filho?
+Eu me chamo Everett.
+
+292
+00:21:35,549 --> 00:21:38,594
+Estes dois zonzos
+são Pete e Delmar.
+
+293
+00:21:38,728 --> 00:21:40,525
+Não coloque os dedos
+perto da boca de Pete.
+
+294
+00:21:40,596 --> 00:21:42,530
+Ele não come nada
+há 13 anos...
+
+295
+00:21:42,598 --> 00:21:45,123
+sem ser comida de cadeia,
+esquilo e um cavalo ensebado.
+
+296
+00:21:45,201 --> 00:21:49,535
+Obrigado pela carona, senhor.
+Meu nome é Tommy. Tommy Johnson.
+
+297
+00:21:49,605 --> 00:21:51,971
+Como vai, Tommy?
+
+298
+00:21:52,041 --> 00:21:55,033
+Não vi nenhuma casa
+já faz quilômetros.
+
+299
+00:21:55,111 --> 00:21:57,545
+O que está fazendo
+nesse fim de mundo?
+
+300
+00:21:57,613 --> 00:22:00,047
+Eu tive de parar na encruzilhada
+ontem à meia-noite...
+
+301
+00:22:00,116 --> 00:22:02,016
+pra vender a alma pro diabo.
+
+302
+00:22:02,085 --> 00:22:05,418
+Mas que mundo pequeno, hein?
+Em termos de espiritualidade?
+
+303
+00:22:05,488 --> 00:22:07,979
+Pete e Delmar
+foram batizados e salvos.
+
+304
+00:22:08,057 --> 00:22:10,287
+Acho que só eu ainda
+não tenho afiliação.
+
+305
+00:22:10,360 --> 00:22:14,160
+- Não tem graça.
+- O que ganhou pela sua alma?
+
+306
+00:22:14,230 --> 00:22:17,563
+Ele me ensinou a tocar
+o violão muito bem.
+
+307
+00:22:17,633 --> 00:22:18,998
+Ora, filho.
+
+308
+00:22:19,068 --> 00:22:22,037
+Trocou a sua alma eterna
+por isso?
+
+309
+00:22:22,105 --> 00:22:24,039
+Eu não a estava usando.
+
+310
+00:22:24,107 --> 00:22:28,567
+Sempre quis saber
+como é o diabo.
+
+311
+00:22:28,644 --> 00:22:32,341
+Bem, há várias formas
+menores de demoninhos e demônios...
+
+312
+00:22:32,415 --> 00:22:35,043
+mas o grande Satã
+é vermelho, com escamas...
+
+313
+00:22:35,118 --> 00:22:37,245
+tem um rabo bifurcado
+e carrega um tridente.
+
+314
+00:22:37,320 --> 00:22:39,788
+Ah, não.
+Não, senhor.
+
+315
+00:22:39,856 --> 00:22:41,585
+Ele é branco.
+
+316
+00:22:41,657 --> 00:22:43,591
+Branco como vocês...
+
+317
+00:22:43,659 --> 00:22:46,787
+com olhos vazios
+e uma voz oca.
+
+318
+00:22:46,863 --> 00:22:50,526
+Ele adora ficar andando
+com um cão velho e malvado.
+
+319
+00:22:50,600 --> 00:22:52,727
+E ele mandou você ir
+para Tishamingo?
+
+320
+00:22:52,802 --> 00:22:55,965
+Não, senhor.
+Essa foi ideia minha.
+
+321
+00:22:56,038 --> 00:22:57,972
+Soube que há um homem lá...
+
+322
+00:22:58,040 --> 00:23:00,474
+que paga pra gente
+tocar na rádio.
+
+323
+00:23:00,543 --> 00:23:04,809
+Dizem que ele paga extra
+se você tocar bem.
+
+324
+00:23:04,881 --> 00:23:06,872
+Tishamingo, hein?
+
+325
+00:23:06,949 --> 00:23:08,541
+Quanto ele paga?
+
+326
+00:23:24,901 --> 00:23:27,631
+Rapazes, sigam meus passos.
+
+327
+00:23:34,143 --> 00:23:36,134
+Olá?
+
+328
+00:23:36,212 --> 00:23:38,612
+Quem é o dono disso aqui?
+
+329
+00:23:38,681 --> 00:23:41,411
+Eu. Quem é você?
+
+330
+00:23:41,484 --> 00:23:43,418
+Bem, eu sou Jordan Rivers...
+
+331
+00:23:43,486 --> 00:23:47,752
+e tenho aqui os Irmãos Soggy Bottom,
+de Cottonelia, Mississippi.
+
+332
+00:23:47,824 --> 00:23:51,123
+Canções para a salvação da alma.
+
+333
+00:23:51,194 --> 00:23:54,595
+Soubemos que você paga bem
+para quem cante bem.
+
+334
+00:23:54,664 --> 00:23:58,100
+Mas isso depende.
+Cantam canções de negros?
+
+335
+00:24:01,304 --> 00:24:03,465
+Sim, senhor, somos negros...
+
+336
+00:24:03,539 --> 00:24:07,475
+todos menos o nosso acomp...
+o cara que toca o violão.
+
+337
+00:24:07,543 --> 00:24:09,943
+Eu não gravo canções de negros.
+
+338
+00:24:10,012 --> 00:24:13,504
+Não, eu quero ouvir
+canções antigas.
+
+339
+00:24:13,583 --> 00:24:15,949
+Coisas que o pessoal
+não cansa de ouvir...
+
+340
+00:24:16,018 --> 00:24:19,852
+já que agora transmitimos na
+Hora da Farinha do Pappy O'Daniel.
+
+341
+00:24:19,922 --> 00:24:21,947
+Agradeço a visita.
+
+342
+00:24:22,024 --> 00:24:23,958
+Senhor, os Irmãos Soggy Bottom...
+
+343
+00:24:24,026 --> 00:24:27,086
+foram embebedados
+em canções antigas.
+
+344
+00:24:27,163 --> 00:24:29,097
+Ora, damos um baile
+com elas, não é?
+
+345
+00:24:29,165 --> 00:24:30,792
+- Isso mesmo.
+- Isso mesmo.
+
+346
+00:24:30,867 --> 00:24:34,701
+- Não somos negros.
+- Exceto o nosso acompanhador.
+
+347
+00:24:37,373 --> 00:24:39,432
+<i>Eu</i>
+
+348
+00:24:39,509 --> 00:24:41,670
+<i>Sou um homem</i>
+
+349
+00:24:41,744 --> 00:24:44,804
+<i>Em lamento constante</i>
+
+350
+00:24:44,881 --> 00:24:47,475
+<i>Enfrentei dificuldades</i>
+
+351
+00:24:47,550 --> 00:24:49,609
+<i>A vida toda</i>
+
+352
+00:24:51,220 --> 00:24:53,188
+<i>Eu</i>
+
+353
+00:24:53,256 --> 00:24:55,690
+<i>Digo adeus</i>
+
+354
+00:24:55,758 --> 00:24:58,488
+<i>Ao velho Kentucky</i>
+
+355
+00:24:58,561 --> 00:25:01,086
+<i>O lugar onde eu</i>
+
+356
+00:25:01,163 --> 00:25:03,961
+<i>Nasci e fui criado</i>
+
+357
+00:25:04,033 --> 00:25:06,797
+<i>O lugar onde ele</i>
+
+358
+00:25:06,869 --> 00:25:09,531
+<i>Nasceu e foi criado</i>
+
+359
+00:25:10,806 --> 00:25:12,671
+<i>Por</i>
+
+360
+00:25:12,742 --> 00:25:15,108
+<i>Seis longos anos</i>
+
+361
+00:25:15,177 --> 00:25:18,044
+<i>Ando em dificuldades</i>
+
+362
+00:25:18,114 --> 00:25:20,844
+<i>Não há diversão aqui</i>
+
+363
+00:25:20,917 --> 00:25:23,044
+<i>Eu vi nesta Terra</i>
+
+364
+00:25:24,654 --> 00:25:26,588
+<i>Pois</i>
+
+365
+00:25:26,656 --> 00:25:29,056
+<i>Nestemundo</i>
+
+366
+00:25:29,125 --> 00:25:31,286
+<i>Meu destino é vagar</i>
+
+367
+00:25:31,360 --> 00:25:34,727
+<i>Não tenho amigos</i>
+
+368
+00:25:34,797 --> 00:25:37,595
+<i>Para me ajudar agora</i>
+
+369
+00:25:37,667 --> 00:25:40,329
+<i>Ele não tem amigos</i>
+
+370
+00:25:40,403 --> 00:25:42,894
+<i>Para ajudá-lo agora</i>
+
+371
+00:25:44,206 --> 00:25:46,106
+<i>Talvez</i>
+
+372
+00:25:46,175 --> 00:25:48,541
+<i>Seus amigos pensem</i>
+
+373
+00:25:48,611 --> 00:25:51,546
+<i>Que sou apenas um estranho</i>
+
+374
+00:25:51,614 --> 00:25:56,074
+<i>E meu rosto você não verá jamais</i>
+
+375
+00:25:58,187 --> 00:26:02,988
+<i>Mas há uma promessa</i>
+
+376
+00:26:03,059 --> 00:26:05,527
+<i>Que é dada</i>
+
+377
+00:26:05,595 --> 00:26:08,189
+<i>Encontrarei você</i>
+
+378
+00:26:08,264 --> 00:26:11,165
+<i>Nas margens douradas de Deus</i>
+
+379
+00:26:11,233 --> 00:26:13,895
+<i>Ele encontrará você</i>
+
+380
+00:26:13,970 --> 00:26:16,302
+<i>Nas margens douradas de Deus</i>
+
+381
+00:26:21,677 --> 00:26:25,636
+Caramba, filho! Vendeu mesmo
+a sua alma ao diabo!
+
+382
+00:26:25,715 --> 00:26:29,617
+Meus amigos, esta cantoria
+foi pra lá de boa.
+
+383
+00:26:29,685 --> 00:26:31,152
+Eu digo uma coisa.
+
+384
+00:26:31,220 --> 00:26:35,247
+Venham até aqui,
+assinem estes papeis...
+
+385
+00:26:35,324 --> 00:26:38,418
+e receberão $10 dólares cada.
+
+386
+00:26:40,296 --> 00:26:44,926
+Mas, senhor, Mert e Aloysius
+assinarão com Xis.
+
+387
+00:26:45,001 --> 00:26:46,969
+Nem todos nós sabemos escrever.
+
+388
+00:26:47,036 --> 00:26:48,663
+Não tem problema.
+
+389
+00:26:52,008 --> 00:26:55,535
+Ei, não quero passar
+por contador de história...
+
+390
+00:26:55,611 --> 00:26:57,977
+mas o cara lá dentro
+paga dez dólares...
+
+391
+00:26:58,047 --> 00:26:59,742
+se você cantar para ele.
+
+392
+00:26:59,815 --> 00:27:02,784
+Não vim aqui gravar um disco,
+seu idiota.
+
+393
+00:27:02,852 --> 00:27:05,013
+Eles me colocam no rádio.
+
+394
+00:27:05,087 --> 00:27:08,750
+É o governador Menelau,
+"Passe o Pão", Pappy O'Daniel.
+
+395
+00:27:08,824 --> 00:27:12,658
+Agradecemos se comerem sua farinha
+e o reelegerem.
+
+396
+00:27:12,728 --> 00:27:14,662
+O melhor governador que
+já tivemos no Mississippi.
+
+397
+00:27:14,663 --> 00:27:18,998
+- Toda paróquia ou distrito.
+- Ele ganhou mais votos.
+
+398
+00:27:19,068 --> 00:27:21,866
+Não vai fazer contato?
+Fazer sua média política?
+
+399
+00:27:21,937 --> 00:27:24,235
+Vou fazer média com você,
+seu tonto retardado.
+
+400
+00:27:24,306 --> 00:27:26,774
+Não diga ao seu Papai
+como ganhar o eleitorado!
+
+401
+00:27:26,842 --> 00:27:30,300
+Não fazemos contatos individuais.
+Só comunicação de massa!
+
+402
+00:27:30,379 --> 00:27:33,280
+É um novo meio poderoso.
+
+403
+00:27:33,349 --> 00:27:36,978
+Boa sorte, Júnior.
+Que bom que sua mãe morreu de parto.
+
+404
+00:27:37,053 --> 00:27:39,248
+Ela morreria de vergonha
+se visse você agora.
+
+405
+00:27:39,321 --> 00:27:41,346
+Ei, tudo bem aí?
+
+406
+00:27:43,492 --> 00:27:46,461
+<i>Lily, sua ruindade</i>
+
+407
+00:27:46,529 --> 00:27:49,191
+<i>Aonde você foi</i>
+
+408
+00:27:49,265 --> 00:27:52,894
+<i>Não é mais difícil
+do que já fora</i>
+
+409
+00:28:00,242 --> 00:28:03,405
+<i>E as pessoas amavam você</i>
+
+410
+00:28:03,479 --> 00:28:05,913
+<i>De porta em porta</i>
+
+411
+00:28:05,981 --> 00:28:10,008
+<i>Não encontro o paraíso
+Não me interessa onde foram</i>
+
+412
+00:28:21,497 --> 00:28:24,398
+<i>Cantando por dinheiro</i>
+
+413
+00:28:24,467 --> 00:28:27,095
+<i>Pode ter certeza</i>
+
+414
+00:28:27,169 --> 00:28:31,469
+<i>Que os tempos difíceis
+mandarão você de porta em porta</i>
+
+415
+00:28:44,053 --> 00:28:46,283
+Vamos dormir aqui esta noite.
+
+416
+00:28:46,355 --> 00:28:50,223
+É, aquele celeiro está fedendo.
+
+417
+00:28:50,292 --> 00:28:52,419
+Tudo bem.
+
+418
+00:28:52,495 --> 00:28:54,690
+Logo, teremos apenas...
+
+419
+00:28:54,764 --> 00:28:58,063
+colchões macios e lençóis de seda.
+
+420
+00:29:01,270 --> 00:29:02,931
+Um milhão de dólares.
+
+421
+00:29:03,005 --> 00:29:05,337
+Um milhão e duzentos.
+
+422
+00:29:05,407 --> 00:29:08,342
+Quinhentos mil cada.
+
+423
+00:29:08,410 --> 00:29:10,105
+Quatrocentos, Delmar.
+
+424
+00:29:11,280 --> 00:29:16,149
+Pete, o que você fará com
+a sua parte do tesouro?
+
+425
+00:29:17,419 --> 00:29:19,979
+Irei pro oeste...
+
+426
+00:29:20,055 --> 00:29:22,114
+e abrirei um bom restaurante.
+
+427
+00:29:23,893 --> 00:29:25,861
+Serei o maître.
+
+428
+00:29:27,463 --> 00:29:30,330
+Cumprimentarei os clientes...
+
+429
+00:29:30,399 --> 00:29:34,859
+irei trabalhar de gravata
+borboleta, de smoking.
+
+430
+00:29:36,305 --> 00:29:41,538
+E todos dirão:
+"Sim, senhor" e "Não, senhor"...
+
+431
+00:29:41,610 --> 00:29:43,544
+e "É pra já, Pete".
+
+432
+00:29:45,247 --> 00:29:47,477
+E comerei de graça.
+
+433
+00:29:52,321 --> 00:29:54,050
+E você, Delmar?
+
+434
+00:29:54,123 --> 00:29:57,854
+O que fará com a sua
+parte da grana?
+
+435
+00:29:57,927 --> 00:30:01,590
+Vou visitar os caras
+que tiraram a minha propriedade...
+
+436
+00:30:01,664 --> 00:30:05,623
+lá na caixa econômica...
+
+437
+00:30:05,701 --> 00:30:07,828
+pendurarei a grana no cano
+da arma...
+
+438
+00:30:07,903 --> 00:30:10,064
+e comprarei a fazenda de volta.
+
+439
+00:30:11,974 --> 00:30:15,375
+Sem terra, você não é ninguém.
+
+440
+00:30:16,979 --> 00:30:19,209
+E você, Everett?
+
+441
+00:30:19,281 --> 00:30:22,580
+Em que pensou
+logo que roubou a grana?
+
+442
+00:30:26,989 --> 00:30:29,150
+Eu não tinha planos.
+
+443
+00:30:29,225 --> 00:30:32,626
+Isso não é do seu feitio.
+
+444
+00:30:32,695 --> 00:30:35,755
+<i>Muito bem,
+são as autoridades!</i>
+
+445
+00:30:35,831 --> 00:30:38,698
+<i>Vocês agora não têm saída!</i>
+
+446
+00:30:38,767 --> 00:30:41,201
+Droga! Encontraram
+o nosso carro!
+
+447
+00:30:41,270 --> 00:30:43,204
+Não temos tempo...
+
+448
+00:30:43,272 --> 00:30:47,333
+e nem vontade de sermos
+bonzinhos com vocês!
+
+449
+00:30:47,409 --> 00:30:49,673
+Temos de dar nó pé!
+
+450
+00:30:50,679 --> 00:30:54,171
+Deixei a brilhantina no carro.
+Posso pegar escondido.
+
+451
+00:30:54,250 --> 00:30:56,218
+Não seja tonto, Everett.
+
+452
+00:30:56,285 --> 00:30:58,446
+Temos de S-U-M-I-R.
+
+453
+00:30:59,955 --> 00:31:02,253
+- E o Tommy?
+- Já deu no pé.
+
+454
+00:31:02,324 --> 00:31:04,258
+Ficou morrendo de medo.
+
+455
+00:31:07,029 --> 00:31:08,621
+Vamos!
+
+456
+00:31:10,332 --> 00:31:12,493
+Voltamos, sim, à estaca zero.
+
+457
+00:31:12,568 --> 00:31:16,698
+Ninguém pegará três
+caroneiros sujos e barbudos...
+
+458
+00:31:16,772 --> 00:31:21,004
+e um sabe-tudo que não
+fica de boca fechada.
+
+459
+00:31:21,076 --> 00:31:23,101
+Pete, o rancor
+que reflete neste comentário...
+
+460
+00:31:23,178 --> 00:31:25,544
+eu nem pretendo ter
+a delicadeza de rebater.
+
+461
+00:31:25,614 --> 00:31:27,844
+Mas quero comentar
+sobre a sua atitude...
+
+462
+00:31:27,917 --> 00:31:29,976
+o negativismo incessante.
+
+463
+00:31:30,052 --> 00:31:32,953
+pense nos lírios
+dos campos.
+
+464
+00:31:33,022 --> 00:31:36,253
+Ou pense em Delmar aqui
+com seu paradigma da esperança.
+
+465
+00:31:36,325 --> 00:31:38,054
+É, olhe para mim.
+
+466
+00:31:38,127 --> 00:31:40,618
+Você pode chamar de
+otimismo irracional.
+
+467
+00:31:40,696 --> 00:31:43,563
+Ou chamar de obtuso,
+mas o fato real aqui é...
+
+468
+00:31:43,632 --> 00:31:46,260
+que temos quase três dias...
+
+469
+00:31:46,335 --> 00:31:48,394
+antes que...
+
+470
+00:31:53,172 --> 00:31:55,732
+eles represem o rio.
+
+471
+00:32:19,732 --> 00:32:21,666
+Esta estrada dá em Itta Bena?
+
+472
+00:32:25,496 --> 00:32:26,740
+Itta Bena?
+
+473
+00:32:28,774 --> 00:32:31,743
+- Não é...
+- Fique nesta estrada.
+
+474
+00:32:31,811 --> 00:32:34,507
+Não, está errado.
+Eu pensei que...
+
+475
+00:32:34,580 --> 00:32:37,048
+- Siga por esta...
+- Não, está errado.
+
+476
+00:32:37,116 --> 00:32:39,482
+Parece que há uma estrada...
+
+477
+00:32:39,552 --> 00:32:42,453
+uma estradinha de terra
+que dava...
+
+478
+00:32:42,522 --> 00:32:45,286
+quase até o...
+
+479
+00:32:45,358 --> 00:32:47,986
+- Também não é por aí.
+- Entrem enquanto pensam.
+
+480
+00:33:00,373 --> 00:33:03,365
+Algum de vocês
+conhece bem Walther PPK?
+
+481
+00:33:03,442 --> 00:33:05,467
+Bem, é aí que
+não podemos ajudar.
+
+482
+00:33:05,545 --> 00:33:07,240
+Acho que não fica no Mississippi.
+
+483
+00:33:09,515 --> 00:33:12,882
+Amigo, o seu dinheiro
+está saindo voando.
+
+484
+00:33:12,952 --> 00:33:15,887
+Enfie na sacola para mim,
+por favor?
+
+485
+00:33:15,955 --> 00:33:18,219
+Vocês não são criminosos,
+não é?
+
+486
+00:33:18,291 --> 00:33:20,725
+Engraçado você perguntar.
+
+487
+00:33:20,793 --> 00:33:24,991
+Eu era até ontem,
+mas eu e Pete fomos salvos.
+
+488
+00:33:25,064 --> 00:33:28,090
+Eu sou Delmar,
+e ele é Everett.
+
+489
+00:33:28,091 --> 00:33:30,766
+George Nelson.
+Muito prazer.
+
+490
+00:33:32,705 --> 00:33:34,639
+Segure o volante, por favor?
+
+491
+00:33:40,580 --> 00:33:43,014
+Passe o rifle para cá.
+
+492
+00:33:43,082 --> 00:33:46,074
+Que tipo de trabalho
+você faz, George?
+
+493
+00:33:48,487 --> 00:33:50,421
+Venham me pegar, tiras!
+
+494
+00:33:50,489 --> 00:33:54,448
+Seus pés chatos, retardados,
+tiras bundas-moles!
+
+495
+00:33:55,962 --> 00:33:59,523
+Ninguém me pega!
+Sou George Nelson!
+
+496
+00:33:59,599 --> 00:34:02,363
+Sou maior que qualquer
+John Law que já viveu!
+
+497
+00:34:04,103 --> 00:34:08,437
+Tenho três metros de altura,
+e não parei de crescer!
+
+498
+00:34:10,042 --> 00:34:11,168
+Vacas.
+
+499
+00:34:11,244 --> 00:34:14,475
+Prefiro tiras que vacas!
+
+500
+00:34:16,949 --> 00:34:19,383
+George, o gado, não.
+
+501
+00:34:19,452 --> 00:34:23,821
+Vamos, seus miseráveis
+assalariados! Venham me pegar!
+
+502
+00:34:41,641 --> 00:34:45,133
+Vamos bater o recorde.
+Três bancos em duas horas.
+
+503
+00:34:52,918 --> 00:34:56,149
+Não precisam aplaudir
+e soltem a grana!
+
+504
+00:34:56,222 --> 00:35:00,158
+Sou George Nelson, e vim
+assaltar a cidade de Itta Bena!
+
+505
+00:35:01,594 --> 00:35:04,085
+Ele parece um fio de alta tensão.
+
+506
+00:35:04,163 --> 00:35:07,189
+O dinheiro todo na sacola!
+Que está olhando, vovô?
+
+507
+00:35:07,266 --> 00:35:10,167
+Perdão, George.
+Você tem um plano para sair daqui?
+
+508
+00:35:10,236 --> 00:35:12,101
+Claro, rapazes.
+
+509
+00:35:12,171 --> 00:35:14,469
+Aqui está o meu plano.
+
+510
+00:35:14,540 --> 00:35:17,338
+Eles nunca viram
+uma artilharia assim.
+
+511
+00:35:18,144 --> 00:35:20,635
+Obrigado, pessoal.
+E lembrem-se:
+
+512
+00:35:20,713 --> 00:35:24,114
+Jesus poupa,
+mas George Nelson saca.
+
+513
+00:35:25,418 --> 00:35:26,885
+Vão pegar o autovoiture.
+
+514
+00:35:26,952 --> 00:35:29,352
+É Babyface Nelson.
+
+515
+00:35:30,489 --> 00:35:32,013
+Quem disse isso?
+
+516
+00:35:33,693 --> 00:35:36,423
+Quem foi o ignorante, vil...
+
+517
+00:35:36,495 --> 00:35:39,157
+e calunioso que disse isso?
+
+518
+00:35:40,966 --> 00:35:43,958
+Meu nome é George Nelson!
+
+519
+00:35:44,036 --> 00:35:45,663
+Viu?
+
+520
+00:35:45,738 --> 00:35:49,299
+Ela não disse por mal.
+
+521
+00:35:49,375 --> 00:35:52,503
+George Nelson, não Babyface!
+
+522
+00:35:53,779 --> 00:35:56,839
+Lembre-se e diga
+aos amigos!
+
+523
+00:35:56,916 --> 00:36:01,353
+Sou George Nelson,
+que agita o inferno.
+
+524
+00:36:20,106 --> 00:36:24,406
+Essa foi divertida,
+não é, George?
+
+525
+00:36:24,477 --> 00:36:27,537
+Quase me faz querer
+não ter sido salvo.
+
+526
+00:36:27,613 --> 00:36:30,411
+Assaltar bancos...
+Vejo como uma pessoa...
+
+527
+00:36:30,483 --> 00:36:33,919
+pode tirar muito prazer
+e satisfação com isso.
+
+528
+00:36:35,254 --> 00:36:37,882
+- Serve.
+- Ora, sô!
+
+529
+00:36:42,795 --> 00:36:44,228
+Bem...
+
+530
+00:36:46,098 --> 00:36:47,963
+Eu vou-me embora.
+
+531
+00:36:51,103 --> 00:36:54,163
+Vocês podem...
+
+532
+00:36:54,240 --> 00:36:57,300
+ficar com a minha parte.
+
+533
+00:36:59,645 --> 00:37:01,806
+Bem, aonde você vai?
+
+534
+00:37:03,482 --> 00:37:06,576
+Eu não sei.
+Quem se importa?
+
+535
+00:37:09,255 --> 00:37:12,452
+O que vocês acham
+que deu no George?
+
+536
+00:37:12,525 --> 00:37:15,619
+Bem, Delmar, dizem que...
+
+537
+00:37:15,694 --> 00:37:19,425
+em uma personalidade estimulante,
+o que sobe, tem de cair.
+
+538
+00:37:19,498 --> 00:37:22,797
+Uma hora está feliz da vida,
+outra hora está na pior depressão.
+
+539
+00:37:22,868 --> 00:37:27,635
+Sim, o nosso amigo
+George é como um gato de rua...
+
+540
+00:37:27,706 --> 00:37:30,903
+e o próprio humor
+está puxando o rabo dele.
+
+541
+00:37:30,976 --> 00:37:34,139
+Eu não me preocuparia.
+Ele será feliz novamente.
+
+542
+00:37:35,214 --> 00:37:38,911
+Ainda não vimos
+o fim de George Nelson.
+
+543
+00:37:58,537 --> 00:38:01,597
+Não caiam na de Pappy.
+
+544
+00:38:01,674 --> 00:38:04,302
+Homer Stokes para governador.
+
+545
+00:38:04,376 --> 00:38:07,470
+Vamos limpar este Estado.
+
+546
+00:38:07,546 --> 00:38:09,480
+Vote em Stokes, amigo.
+
+547
+00:38:23,996 --> 00:38:26,590
+Segurem-se.
+Aqui vem um.
+
+548
+00:38:26,665 --> 00:38:31,125
+É a sobrinha do meu primo Ezzard,
+Eudora, lá de Greenwood...
+
+549
+00:38:31,203 --> 00:38:34,502
+cantando junto
+com o primo Tom-Tom...
+
+550
+00:38:34,573 --> 00:38:38,134
+e acho que vocês
+vão gostar bastante.
+
+551
+00:38:42,214 --> 00:38:46,548
+Em que posso ajudá-lo,
+Sr. French?
+
+552
+00:38:46,619 --> 00:38:49,952
+Como entro em contato
+com os Irmãos Soggy Bottom?
+
+553
+00:38:50,022 --> 00:38:53,583
+Soggy Bottom...
+Eu não me lembro deles.
+
+554
+00:38:53,659 --> 00:38:55,957
+Gravaram um disco aqui
+outro dia.
+
+555
+00:38:56,028 --> 00:38:59,759
+Uma canção antiga, e tinham
+um acompanha...
+
+556
+00:38:59,832 --> 00:39:03,063
+Ah, é, é.
+Eu me lembro.
+
+557
+00:39:03,135 --> 00:39:05,831
+Acho que eram negros.
+
+558
+00:39:05,905 --> 00:39:08,305
+São gente boa.
+
+559
+00:39:08,374 --> 00:39:12,105
+Eles cantaram ali
+e deram no pé.
+
+560
+00:39:12,177 --> 00:39:15,544
+O disco está disparado
+nas paradas.
+
+561
+00:39:15,614 --> 00:39:18,208
+Estão tocando
+até lá em Mobile.
+
+562
+00:39:18,284 --> 00:39:20,218
+O estado todo ficou doido.
+
+563
+00:39:21,220 --> 00:39:23,711
+Foi uma transmissão poderosa.
+
+564
+00:39:23,789 --> 00:39:27,555
+Temos de encontrar os rapazes
+e assinar um contrato bem gordo.
+
+565
+00:39:27,626 --> 00:39:31,626
+Por que se não, Sr. Lunn, nossos
+concorrentes assinarão.
+
+566
+00:39:31,760 --> 00:39:35,025
+Mas é lógico.
+Vamos ganhar da concorrência.
+
+567
+00:39:35,097 --> 00:39:36,826
+- Sim, senhor.
+- Sim, senhor.
+
+568
+00:40:42,397 --> 00:40:46,299
+OS IRMÃOS SOGGY BOTTOM SÃO UM
+SUCESSO, MAS QUEM SÃO ELES?
+
+569
+00:41:16,331 --> 00:41:19,960
+Tem os Irmãos Soggy Bottom cantando
+"Homem em Lamento Constante"?
+
+570
+00:41:20,035 --> 00:41:22,629
+Não, senhora.
+Recebemos nova remessa ontem.
+
+571
+00:41:22,704 --> 00:41:25,070
+Não conseguimos
+estocar o suficiente.
+
+572
+00:42:45,754 --> 00:42:47,346
+Cale-se, Delmar.
+
+573
+00:42:56,231 --> 00:42:58,699
+Pare!
+Pare o carro!
+
+574
+00:43:06,308 --> 00:43:08,208
+Acho que Pete está com vontade.
+
+575
+00:43:11,680 --> 00:43:14,513
+Durma bem, nenezinho
+
+576
+00:43:15,717 --> 00:43:19,278
+Durma bem, nenezinho
+
+577
+00:43:19,354 --> 00:43:23,188
+Sua mãe foi embora
+e seu pai vai ficar
+
+578
+00:43:23,258 --> 00:43:24,919
+Não ficou ninguém
+
+579
+00:43:24,993 --> 00:43:28,429
+Só o neném
+
+580
+00:43:30,632 --> 00:43:34,090
+Olá, moças.
+Eu sou o Pete.
+
+581
+00:43:34,169 --> 00:43:38,071
+Durma bem, nenezinho
+
+582
+00:43:38,139 --> 00:43:41,802
+Foram todas pra roça
+de algodão e milho
+
+583
+00:43:41,876 --> 00:43:43,969
+Não ficou ninguém
+
+584
+00:43:44,045 --> 00:43:47,105
+Só o neném
+
+585
+00:43:47,182 --> 00:43:49,810
+- Não vai nos apresentar?
+- Não sei o nome delas.
+
+586
+00:43:49,884 --> 00:43:51,579
+Eu as vi primeiro!
+
+587
+00:43:53,054 --> 00:43:56,421
+Meu neném, amorzinho
+
+588
+00:43:56,491 --> 00:44:01,190
+Coisas doces nas rochas
+e o açúcar a escorrer
+
+589
+00:44:01,262 --> 00:44:06,325
+Levarei uma mamadeira
+para o neném
+
+590
+00:44:07,335 --> 00:44:10,498
+Não chore, lindo neném
+
+591
+00:44:11,706 --> 00:44:15,301
+Não chore, lindo neném
+
+592
+00:44:15,377 --> 00:44:19,473
+Ela foi-se embora
+com seus sapatos vermelhos
+
+593
+00:44:19,547 --> 00:44:25,008
+Vai ver outro amor
+
+594
+00:44:27,455 --> 00:44:31,949
+Meu nome é
+Ulysses Everett McGill.
+
+595
+00:44:32,027 --> 00:44:35,758
+Vocês três são as moças
+mais lindas...
+
+596
+00:44:35,830 --> 00:44:38,560
+Você, eu e o diabo
+formamos um trio
+
+597
+00:44:38,633 --> 00:44:44,128
+Não precisamos de outro amor
+
+598
+00:44:44,205 --> 00:44:46,799
+flores-de-lis...
+
+599
+00:44:46,875 --> 00:44:48,467
+Que eu já...
+
+600
+00:44:50,045 --> 00:44:53,981
+Durma bem, nenezinho
+
+601
+00:44:54,049 --> 00:44:57,883
+Você, eu e o diabo
+formamos um trio
+
+602
+00:44:57,952 --> 00:45:03,322
+Não precisamos de outro amor
+
+603
+00:45:04,225 --> 00:45:08,889
+Durma bem, nenezinho
+
+604
+00:45:08,963 --> 00:45:12,729
+Durma bem, nenezinho
+
+605
+00:45:12,801 --> 00:45:16,669
+Sua mamãe foi embora
+e seu papai vai ficar
+
+606
+00:45:16,738 --> 00:45:21,801
+Não ficou ninguém
+Só o neném
+
+607
+00:45:31,886 --> 00:45:35,515
+Venha descansar
+nas pedras de alabastro
+
+608
+00:45:35,590 --> 00:45:41,028
+E seja meu amor eterno
+
+609
+00:46:23,804 --> 00:46:24,945
+Everett!
+
+610
+00:46:27,185 --> 00:46:27,841
+Everett
+
+611
+00:46:27,842 --> 00:46:29,469
+Meu cabelo!
+
+612
+00:46:31,079 --> 00:46:32,512
+Olhe só.
+
+613
+00:46:46,883 --> 00:46:47,938
+Pete!
+
+614
+00:46:48,897 --> 00:46:51,161
+Onde está você?
+
+615
+00:46:51,162 --> 00:46:52,162
+Pete!
+
+616
+00:46:53,568 --> 00:46:56,298
+Não temos tempo para brincar
+de esconde-esconde.
+
+617
+00:46:58,406 --> 00:47:00,738
+Não temos tempo
+para seus truques!
+
+618
+00:47:00,809 --> 00:47:03,573
+Meu Jesus, Everett.
+
+619
+00:47:03,645 --> 00:47:05,442
+Deixaram o coração dele.
+
+620
+00:47:30,638 --> 00:47:32,731
+O que deu em você?
+
+621
+00:47:32,807 --> 00:47:35,139
+Você não entende, Everett?
+
+622
+00:47:35,210 --> 00:47:38,111
+As sereias fizeram
+isso com o Pete.
+
+623
+00:47:38,179 --> 00:47:42,343
+Fizeram amor com ele até
+e o transformaram em um sapo.
+
+624
+00:48:08,476 --> 00:48:11,138
+Sou eu, Delmar.
+
+625
+00:48:11,139 --> 00:48:13,653
+Sou eu, Delmar.
+
+626
+00:48:15,492 --> 00:48:16,231
+Everett.
+
+627
+00:48:19,187 --> 00:48:20,620
+O que vamos fazer?
+
+628
+00:48:32,133 --> 00:48:35,330
+- Não sei se é Pete.
+- Claro que é, olhe para ele.
+
+629
+00:48:36,738 --> 00:48:41,038
+Vamos procurar um mago
+para quebrar o feitiço.
+
+630
+00:48:45,213 --> 00:48:47,147
+Não tenho certeza que é Pete.
+
+631
+00:48:50,451 --> 00:48:53,648
+Não pode mostrar um sapo
+num restaurante chique.
+
+632
+00:48:53,721 --> 00:48:55,655
+Esse pessoal fino daqui
+perderia a cabeça.
+
+633
+00:48:57,792 --> 00:49:01,489
+Não acho certo mantê-lo fechado
+como se tivéssemos vergonha dele.
+
+634
+00:49:01,562 --> 00:49:03,723
+Se for Pete,
+tenho vergonha dele.
+
+635
+00:49:03,798 --> 00:49:05,766
+Ao meu ver,
+ele ganhou o que mereceu...
+
+636
+00:49:05,833 --> 00:49:08,427
+fornicando com
+uma prostituta da Babilônia.
+
+637
+00:49:08,503 --> 00:49:10,698
+Estas coisas não acontecem
+sem um motivo.
+
+638
+00:49:10,772 --> 00:49:12,899
+Foi certamente a sentença
+pelo caráter de Pete.
+
+639
+00:49:12,974 --> 00:49:15,067
+Bem, nós dois íamos
+começar a fornicar.
+
+640
+00:49:18,346 --> 00:49:20,906
+Perdoe a rusticidade de meu amigo...
+
+641
+00:49:20,982 --> 00:49:23,951
+que não está acostumado
+aos costumes da cidade.
+
+642
+00:49:25,353 --> 00:49:27,878
+Acho que então comeremos...
+
+643
+00:49:27,956 --> 00:49:31,050
+dois filés,
+com batatas gratinadas...
+
+644
+00:49:31,125 --> 00:49:33,616
+e mandaremos para baixo
+com um bom vinho espumante.
+
+645
+00:49:33,695 --> 00:49:36,163
+E acho que não têm...
+
+646
+00:49:36,230 --> 00:49:38,130
+piolhos ou larvas lá dentro.
+
+647
+00:49:41,869 --> 00:49:44,702
+Traga apenas umas folhas de repolho.
+
+648
+00:49:44,772 --> 00:49:47,707
+- Sim, senhor.
+- Obrigado. Esse tipo de...
+
+649
+00:49:47,775 --> 00:49:49,709
+Acho que nunca os vi
+aqui antes.
+
+650
+00:49:49,777 --> 00:49:52,837
+Permitam-me apresentar-me.
+Sou Daniel Teague.
+
+651
+00:49:52,914 --> 00:49:55,314
+Conhecido por aqui
+como o grande Dan Teague...
+
+652
+00:49:55,383 --> 00:49:58,841
+ou para os apressados,
+o grande Dan, só isso.
+
+653
+00:49:58,920 --> 00:50:01,252
+Como vai, grande Dan?
+Meu nome é Ulysses Everett McGill.
+
+654
+00:50:01,322 --> 00:50:03,620
+Este é meu parceiro,
+Delmar O'Donnell.
+
+655
+00:50:03,691 --> 00:50:06,885
+Vejo que, como eu,
+você tem o dom da loquacidade.
+
+656
+00:50:07,019 --> 00:50:08,816
+É para mim uma honra
+se for este o caso.
+
+657
+00:50:08,887 --> 00:50:11,481
+Em meu trabalho,
+é absolutamente necessário.
+
+658
+00:50:11,557 --> 00:50:13,491
+Uma coisa que você não quer...
+
+659
+00:50:14,927 --> 00:50:17,259
+é deixar a conversa no ar.
+
+660
+00:50:17,329 --> 00:50:19,388
+Mais uma vez,
+estamos de pleno acordo.
+
+661
+00:50:19,465 --> 00:50:22,229
+- Em que trabalha?
+- Em vendas, Sr. McGill.
+
+662
+00:50:22,301 --> 00:50:25,532
+E o que vendo?
+A verdade, toda santa palavra...
+
+663
+00:50:25,604 --> 00:50:28,038
+de Gêneses até a Revelação.
+
+664
+00:50:28,107 --> 00:50:30,769
+Isso mesmo, a palavra de Deus.
+E devo lhes dizer...
+
+665
+00:50:30,843 --> 00:50:34,836
+que dá muito dinheiro nesta
+época de desgosto e necessidade.
+
+666
+00:50:34,913 --> 00:50:36,505
+As pessoas procuram respostas...
+
+667
+00:50:36,582 --> 00:50:39,278
+e o grande Dan vende
+o único livro que responde.
+
+668
+00:50:39,351 --> 00:50:44,152
+E o que fazem, você
+e seu amigo de língua presa?
+
+669
+00:50:46,592 --> 00:50:48,355
+Somos aventureiros, senhor...
+
+670
+00:50:48,427 --> 00:50:52,454
+atualmente atrás de uma oportunidade
+mas também aberto a outras.
+
+671
+00:50:52,531 --> 00:50:55,762
+Gosto do seu estilo.
+Vou fazer-lhe uma proposta.
+
+672
+00:50:55,834 --> 00:50:58,302
+Pague a minha conta, assim
+não terei de subir...
+
+673
+00:50:58,370 --> 00:51:00,497
+e peça para embrulharem
+sua refeição para piquenique...
+
+674
+00:51:00,572 --> 00:51:03,234
+e vamos a um local
+mais particular...
+
+675
+00:51:03,308 --> 00:51:06,300
+onde eu possa explicar
+as vastas quantias de dinheiro...
+
+676
+00:51:06,378 --> 00:51:08,312
+a serem ganhas no serviço
+ao Todo-Poderoso.
+
+677
+00:51:08,380 --> 00:51:12,316
+Por que não? Até que preciso
+de uma conversa civilizada.
+
+678
+00:51:13,185 --> 00:51:16,086
+- Não se esqueça da caixinha.
+- Enfraquecida!
+
+679
+00:51:16,155 --> 00:51:18,350
+A campanha está enfraquecida!
+
+680
+00:51:18,424 --> 00:51:21,257
+Precisamos de um impulso.
+Ouviram?
+
+681
+00:51:21,326 --> 00:51:23,055
+Um impulso!
+
+682
+00:51:23,128 --> 00:51:25,153
+Se a eleição for amanhã,
+aquele Stokes...
+
+683
+00:51:25,230 --> 00:51:26,788
+ganharia correndo!
+
+684
+00:51:26,865 --> 00:51:30,733
+Ele é do partido
+reformista, Pappy.
+
+685
+00:51:30,803 --> 00:51:33,738
+- É?
+- As pessoas gostam de reforma.
+
+686
+00:51:34,673 --> 00:51:36,504
+Vamos arrumar uma para nós.
+
+687
+00:51:36,575 --> 00:51:39,635
+Vou reformar você,
+seu miolo mole!
+
+688
+00:51:39,712 --> 00:51:42,340
+Como vamos pregar reforma
+se somos nós os incumbentes?
+
+689
+00:51:42,414 --> 00:51:45,850
+É essa a melhor ideia
+que conseguem ter? Reforma?
+
+690
+00:51:45,918 --> 00:51:49,285
+Por Jesus chorando na cruz.
+Eckard!
+
+691
+00:51:50,422 --> 00:51:53,255
+Comece a escrever o meu
+discurso de concessão agora mesmo.
+
+692
+00:51:54,093 --> 00:51:55,651
+Certo, Pappy.
+
+693
+00:51:55,728 --> 00:51:58,094
+Só estou insistindo,
+seu sonso idiota.
+
+694
+00:51:58,163 --> 00:52:00,290
+Devolva o meu chapéu!
+Ande logo!
+
+695
+00:52:00,365 --> 00:52:02,526
+- Pappy está enfatizando.
+- Cale a boca!
+
+696
+00:52:19,918 --> 00:52:21,852
+Rapazes, agradeço
+pelo fricassê.
+
+697
+00:52:21,920 --> 00:52:24,411
+Meu apetite é grande,
+mesmo já tendo almoçado...
+
+698
+00:52:24,490 --> 00:52:26,481
+estava me sentindo irritado.
+
+699
+00:52:26,558 --> 00:52:28,753
+Não tem de que, grande Dan.
+
+700
+00:52:28,827 --> 00:52:31,421
+Obrigado também pelo
+hiato conversador.
+
+701
+00:52:31,497 --> 00:52:34,523
+Geralmente não discurso
+durante a gustação.
+
+702
+00:52:34,600 --> 00:52:37,068
+Alguns tentam fazer
+os dois ao mesmo tempo.
+
+703
+00:52:38,403 --> 00:52:41,236
+Acho rude e vulgar.
+Onde estávamos?
+
+704
+00:52:41,306 --> 00:52:43,240
+Ganhando dinheiro a serviço de Deus.
+
+705
+00:52:43,308 --> 00:52:46,937
+Você não diz muito, mas quando diz
+é direto. Eu o cumprimento por isto.
+
+706
+00:52:47,012 --> 00:52:48,980
+Sim, venda de Bíblia.
+
+707
+00:52:49,047 --> 00:52:53,484
+O ofício não é complicado.
+Há duas coisas a aprender.
+
+708
+00:52:53,552 --> 00:52:57,352
+Uma: Onde encontrar um atacadista,
+a palavra de Deus a granel.
+
+709
+00:52:57,422 --> 00:53:01,153
+Dois: Como reconhecer o cliente.
+Com quem está lidando?
+
+710
+00:53:01,226 --> 00:53:04,718
+É um exercício de psicologia,
+digamos.
+
+711
+00:53:04,797 --> 00:53:07,857
+E então lhes proponho...
+
+712
+00:53:07,933 --> 00:53:09,867
+dar uma lição disso...
+
+713
+00:53:09,935 --> 00:53:11,300
+agora mesmo.
+
+714
+00:53:12,504 --> 00:53:16,531
+Ora, vejo que você é astuto
+observador do cenário humano.
+
+715
+00:53:16,608 --> 00:53:19,805
+Sem dúvida, irmão.
+Saquei o lance lá no restaurante.
+
+716
+00:53:19,878 --> 00:53:24,815
+Por isso os trouxe aqui
+para esta aula avançada.
+
+717
+00:53:26,910 --> 00:53:29,287
+- O que foi?
+- Resume-se tudo ao dinheiro.
+
+718
+00:53:29,288 --> 00:53:31,279
+Essa é a resposta!
+
+719
+00:53:31,356 --> 00:53:33,051
+Dó...
+
+720
+00:53:33,125 --> 00:53:33,955
+ré...
+
+721
+00:53:34,493 --> 00:53:36,222
+mi!
+
+722
+00:53:36,295 --> 00:53:37,990
+Não entendo, grande Dan.
+
+723
+00:53:40,699 --> 00:53:42,860
+Pegarei suas notinhas...
+
+724
+00:53:52,711 --> 00:53:54,736
+e o que tiverem na caixa.
+
+725
+00:54:02,221 --> 00:54:04,155
+É só um sapo.
+
+726
+00:54:04,223 --> 00:54:06,987
+Não, você não entende.
+
+727
+00:54:07,059 --> 00:54:08,651
+Esse aí é o Pete.
+
+728
+00:54:14,333 --> 00:54:16,995
+Sabiam que isso dá verruga?
+
+729
+00:54:25,644 --> 00:54:27,202
+A lição terminou.
+
+730
+00:54:29,781 --> 00:54:30,770
+Até logo, rapazes.
+
+731
+00:54:32,584 --> 00:54:34,882
+Vejo vocês nos quadrinhos.
+
+732
+00:54:34,953 --> 00:54:37,285
+E agora viram o fim de Dan Teague.
+
+733
+00:55:01,113 --> 00:55:02,740
+Onde eles estão?
+
+734
+00:55:02,814 --> 00:55:06,079
+Fale, seu filho malcriado
+de um piranha!
+
+735
+00:55:06,151 --> 00:55:07,812
+Aonde eles foram?
+
+736
+00:55:09,488 --> 00:55:11,956
+Seus gritos não salvarão
+a sua carne.
+
+737
+00:55:12,024 --> 00:55:14,652
+Só a sua língua.
+
+738
+00:55:14,726 --> 00:55:16,318
+Para onde eles vão?
+
+739
+00:55:29,408 --> 00:55:31,171
+Chicotadas.
+
+740
+00:55:39,151 --> 00:55:41,415
+Linda chuva de verão.
+
+741
+00:55:44,556 --> 00:55:46,820
+Como a misericórdia de Deus.
+
+742
+00:55:48,860 --> 00:55:51,124
+Seus dois amigos
+lhe abandonaram, Pete.
+
+743
+00:55:52,130 --> 00:55:54,189
+Parece que não ligam
+para você.
+
+744
+00:56:00,072 --> 00:56:01,266
+Muito bem.
+
+745
+00:56:06,645 --> 00:56:08,909
+Sua escada para o céu, Pete.
+
+746
+00:56:12,250 --> 00:56:14,013
+Todos nos encontraremos um dia.
+
+747
+00:56:14,086 --> 00:56:16,714
+Droga!
+
+748
+00:56:19,124 --> 00:56:20,557
+Deus, perdoe-me!
+
+749
+00:56:35,107 --> 00:56:38,668
+Acredite, ele ia querer
+que continuássemos.
+
+750
+00:56:38,744 --> 00:56:40,769
+Pete, que Deus o tenha...
+
+751
+00:56:40,846 --> 00:56:42,905
+era um cara azedo
+e não se dava...
+
+752
+00:56:42,981 --> 00:56:45,575
+a atos de sentimentalidade fúteis.
+
+753
+00:56:45,650 --> 00:56:48,847
+Não me parece correto
+pegar o tesouro sem ele.
+
+754
+00:56:48,920 --> 00:56:50,888
+Talvez foi para melhor
+ele ter sido esmagado.
+
+755
+00:56:50,956 --> 00:56:53,015
+Ora...
+
+756
+00:56:53,091 --> 00:56:55,924
+ele nem era um ser sensível.
+
+757
+00:56:55,994 --> 00:56:58,986
+Assim que nos lavarmos e estivermos
+com o cabelo cheiroso...
+
+758
+00:56:59,064 --> 00:57:03,398
+vamos nos sentir bem melhor
+conosco e...
+
+759
+00:57:03,468 --> 00:57:05,060
+com a vida em geral.
+
+760
+00:57:07,139 --> 00:57:09,334
+Estamos perto da Fazenda Parchman.
+
+761
+00:57:11,443 --> 00:57:13,877
+Pobres coitados.
+
+762
+00:57:13,945 --> 00:57:16,607
+Parece que faz um ano
+que fugimos da fazenda.
+
+763
+00:57:26,191 --> 00:57:27,624
+Pete tem um irmão?
+
+764
+00:57:28,660 --> 00:57:30,252
+Não que eu saiba.
+
+765
+00:57:33,799 --> 00:57:35,528
+O calor deve estar me afetando.
+
+766
+00:57:43,442 --> 00:57:48,607
+Hoje a tempestade e a fúria
+se revoltam
+
+767
+00:57:48,680 --> 00:57:53,049
+Rematando as esperanças
+que tanto alimentamos
+
+768
+00:57:53,118 --> 00:57:58,556
+As nuvens e a tempestade
+passarão uma hora
+
+769
+00:57:58,623 --> 00:58:03,060
+E o sol novamente
+vai brilhar forte
+
+770
+00:58:04,129 --> 00:58:06,689
+Continue sorrindo
+
+771
+00:58:06,765 --> 00:58:09,290
+Sempre sorridente
+
+772
+00:58:09,367 --> 00:58:12,598
+Sempre o lado sorridente da vida
+
+773
+00:58:13,672 --> 00:58:16,800
+Isso nos ajuda no dia-a-dia
+
+774
+00:58:16,875 --> 00:58:18,570
+A brilhar o tempo todo
+
+775
+00:58:18,643 --> 00:58:23,478
+"Homer Stokes para Governador"
+Sejamos sempre sorridentes
+
+776
+00:58:23,548 --> 00:58:28,611
+Sorrindo sempre
+
+777
+00:58:30,255 --> 00:58:32,553
+Foi maravilhoso.
+
+778
+00:58:34,593 --> 00:58:37,528
+Sei que o grupo Lado Alegre
+concordará comigo...
+
+779
+00:58:37,596 --> 00:58:40,326
+quando digo que o grande
+estado do Mississippi...
+
+780
+00:58:40,398 --> 00:58:44,528
+não aguenta mais quatro anos
+de Pappy O'Daniel...
+
+781
+00:58:44,603 --> 00:58:47,470
+mais quatro anos de favoritismo...
+
+782
+00:58:47,539 --> 00:58:50,633
+nepotismo, malandragem...
+
+783
+00:58:50,709 --> 00:58:52,643
+e serviço aos interesses.
+
+784
+00:58:54,713 --> 00:58:58,012
+A escolha agora está clara.
+
+785
+00:58:58,083 --> 00:59:02,076
+Vocês têm Pappy O'Daniel,
+escravo dos interesses...
+
+786
+00:59:02,154 --> 00:59:05,317
+Homer Stokes,
+servo do homem comum.
+
+787
+00:59:05,390 --> 00:59:07,790
+- Não é verdade?
+- Ele não está mentindo!
+
+788
+00:59:07,859 --> 00:59:11,989
+Senhoras e senhores,
+o baixinho me aconselhou...
+
+789
+00:59:12,063 --> 00:59:14,463
+a agarrar a vassoura da reforma...
+
+790
+00:59:14,533 --> 00:59:17,661
+e varrer este estado!
+
+791
+00:59:17,736 --> 00:59:21,172
+Pode voltar
+pro moinho de farinha, Pappy!
+
+792
+00:59:21,239 --> 00:59:23,366
+Os interesses
+podem se virar sozinhos.
+
+793
+00:59:23,441 --> 00:59:25,033
+Na terça-feira...
+
+794
+00:59:25,110 --> 00:59:27,544
+vamos sair varrendo a malandragem.
+
+795
+00:59:29,347 --> 00:59:32,942
+Um governo limpo
+é o que vocês querem.
+
+796
+00:59:35,921 --> 00:59:38,856
+E agora, as garotinhas Wharvey.
+
+797
+00:59:40,091 --> 00:59:41,991
+As garotinhas Wharvey?
+
+798
+00:59:42,060 --> 00:59:44,255
+Ele disse as
+"garotinhas Wharvey"?
+
+799
+00:59:45,597 --> 00:59:47,292
+Venham cá, meninas.
+
+800
+00:59:47,365 --> 00:59:51,028
+- O que vão cantar para nós?
+- "In The Highways".
+
+801
+00:59:51,102 --> 00:59:54,401
+- Mas que coisa.
+- Você as conhece, Everett?
+
+802
+00:59:54,472 --> 00:59:58,033
+Nas estradas
+Nas barreiras
+
+803
+00:59:58,109 --> 01:00:02,170
+Nas estradas
+Nas barreiras
+
+804
+01:00:02,247 --> 01:00:06,616
+Nas estradas
+Nas barreiras
+
+805
+01:00:06,685 --> 01:00:10,781
+Estarei por aí
+a serviço do Senhor
+
+806
+01:00:10,855 --> 01:00:15,155
+Estarei por aí a serviço
+
+807
+01:00:15,227 --> 01:00:19,459
+Estarei por aí
+a serviço do Senhor
+
+808
+01:00:19,531 --> 01:00:23,729
+Estarei por aí a serviço
+
+809
+01:00:23,802 --> 01:00:25,815
+Estarei por aí
+a serviço do Senhor
+
+810
+01:00:25,815 --> 01:00:27,976
+Estarei por aí
+a serviço do Senhor
+
+811
+01:00:30,287 --> 01:00:32,812
+- Ei, meninas.
+- Papai! Papai!
+
+812
+01:00:36,259 --> 01:00:38,727
+Papai?
+Ele não é nosso pai.
+
+813
+01:00:38,795 --> 01:00:41,730
+Sou, sim. Que nome Wharvey é esse?
+Vocês se chamam McGill.
+
+814
+01:00:41,798 --> 01:00:44,232
+Não depois que foi
+atropelado pelo trem.
+
+815
+01:00:44,301 --> 01:00:47,065
+Não fui atropelado por um trem.
+
+816
+01:00:47,137 --> 01:00:49,867
+- A mãe disse que foi.
+- Não sobrou nada.
+
+817
+01:00:49,940 --> 01:00:52,204
+Só uma mancha na L&N.
+
+818
+01:00:52,275 --> 01:00:55,073
+Não fui atropelado
+por nenhum trem.
+
+819
+01:00:55,145 --> 01:00:58,137
+- A mãe nos chamou de Wharvey.
+- O nome de solteira dela.
+
+820
+01:00:58,214 --> 01:01:00,148
+Você tem nome de solteiro?
+
+821
+01:01:00,216 --> 01:01:03,947
+- O papai não tem nome de solteiro.
+- Azar o seu.
+
+822
+01:01:04,020 --> 01:01:07,979
+- A mamãe tem namorado.
+- É bom pretendente.
+
+823
+01:01:08,058 --> 01:01:09,992
+Eu fiquei sabendo.
+
+824
+01:01:10,060 --> 01:01:12,324
+A mãe disse que ele é bona fide.
+
+825
+01:01:14,698 --> 01:01:17,394
+- Ele deu um anel a ela?
+- Sim, senhor. Bem grande.
+
+826
+01:01:17,467 --> 01:01:20,129
+- Com pedra preciosa.
+- A mãe checou.
+
+827
+01:01:20,203 --> 01:01:22,137
+- É bona fide.
+- É bom pretendente.
+
+828
+01:01:22,205 --> 01:01:23,297
+Qual é o nome dele?
+
+829
+01:01:23,373 --> 01:01:25,864
+- Vernon T. Waldrip.
+- Tio Vernon.
+
+830
+01:01:25,942 --> 01:01:28,502
+- Até amanhã.
+- Ele será nosso pai.
+
+831
+01:01:29,245 --> 01:01:32,578
+Só eu sou seu pai.
+Sou o pater familias.
+
+832
+01:01:32,649 --> 01:01:34,583
+Mas você não é bona fide.
+
+833
+01:01:38,388 --> 01:01:39,650
+Onde está a mamãe?
+
+834
+01:01:39,723 --> 01:01:42,590
+- Está na lojinha.
+- Comprando mamadeira.
+
+835
+01:01:44,761 --> 01:01:47,252
+Anjos à espera
+
+836
+01:01:47,330 --> 01:01:50,663
+Para me levarem para casa
+
+837
+01:01:52,035 --> 01:01:55,368
+Beije-me, mãe
+
+838
+01:01:59,609 --> 01:02:01,975
+- Papai!
+- Olá, amor!
+
+839
+01:02:03,680 --> 01:02:05,614
+Como está o meu anjinho?
+
+840
+01:02:07,450 --> 01:02:10,146
+- Quem é essa?
+- Starla Wharvey.
+
+841
+01:02:10,220 --> 01:02:12,154
+Starla McGill, você quer dizer.
+
+842
+01:02:12,222 --> 01:02:15,350
+- Como nunca me falou dela?
+- Porque foi atropelado por um trem.
+
+843
+01:02:15,425 --> 01:02:18,121
+Por que falou pras meninas
+que fui atropelado por um trem?
+
+844
+01:02:18,194 --> 01:02:20,287
+Muita gente respeitável
+foi atropelado por trem.
+
+845
+01:02:20,363 --> 01:02:23,127
+O juiz Hobby, em Cookville,
+foi atropelado por um trem.
+
+846
+01:02:23,199 --> 01:02:27,636
+Eu ia dizer que foi preso
+e me separei de você por vergonha?
+
+847
+01:02:27,704 --> 01:02:30,969
+Entendo, mas isto me deixa
+em uma situação estranha...
+
+848
+01:02:31,041 --> 01:02:32,508
+vis-à-vis de minha descendência.
+
+849
+01:02:32,575 --> 01:02:33,667
+Ei, Penny.
+
+850
+01:02:35,111 --> 01:02:37,671
+Este senhor está lhe aborrecendo?
+
+851
+01:02:40,150 --> 01:02:41,412
+Você é Waldrip?
+
+852
+01:02:42,485 --> 01:02:43,816
+Isso mesmo.
+
+853
+01:02:57,734 --> 01:02:59,668
+Andou usando meu creme de cabelo?
+
+854
+01:03:00,737 --> 01:03:01,999
+Seu creme de cabelo?
+
+855
+01:03:02,072 --> 01:03:03,937
+Com licença.
+
+856
+01:03:07,110 --> 01:03:11,774
+Olhe, caso não tenha notado,
+eu não fui atropelado por um trem.
+
+857
+01:03:11,848 --> 01:03:14,009
+E eu viajei por
+estradas duras e longas...
+
+858
+01:03:14,851 --> 01:03:17,012
+para voltar com minha esposa...
+
+859
+01:03:17,087 --> 01:03:18,714
+e minhas seis filhas.
+
+860
+01:03:18,788 --> 01:03:20,881
+Sete, papai!
+
+861
+01:03:20,957 --> 01:03:23,721
+Ele não é seu pai, Alvinelle.
+Ele foi atropelado por um trem.
+
+862
+01:03:23,793 --> 01:03:26,261
+- Penny, pare.
+- Pare você.
+
+863
+01:03:26,329 --> 01:03:28,923
+Vernon tem emprego.
+Vernon tem futuro.
+
+864
+01:03:28,998 --> 01:03:30,932
+Ele é bona fide.
+E você?
+
+865
+01:03:31,000 --> 01:03:34,629
+Sabe bem que meu sou...
+o pai da família.
+
+866
+01:03:34,704 --> 01:03:38,970
+- Não pode se casar com ele.
+- Eu posso, e vou. Amanhã.
+
+867
+01:03:39,042 --> 01:03:42,375
+Devo pensar nas meninas.
+Elas dependem de mim.
+
+868
+01:03:42,445 --> 01:03:45,710
+Vernon pode pagar aulas
+de clarinete para elas.
+
+869
+01:03:45,782 --> 01:03:48,876
+A única coisa boa que você fez por
+elas foi ser atropelado pelo trem.
+
+870
+01:03:49,819 --> 01:03:51,946
+Ora, sua mentirosa...
+
+871
+01:03:52,021 --> 01:03:54,285
+súcubo inconstante.
+
+872
+01:03:54,357 --> 01:03:55,585
+Ei, ei, ei!
+
+873
+01:03:55,658 --> 01:03:58,456
+Não pode xingar a minha noiva.
+
+874
+01:03:58,528 --> 01:03:59,620
+Ah, é?
+
+875
+01:03:59,696 --> 01:04:02,563
+E você não pode se casar
+com a minha esposa.
+
+876
+01:04:25,088 --> 01:04:27,022
+Quem é esse homem?
+
+877
+01:04:28,191 --> 01:04:30,785
+Ele não é meu marido.
+
+878
+01:04:30,860 --> 01:04:33,021
+É um errante, eu acho.
+
+879
+01:04:33,096 --> 01:04:35,428
+Um errante sem importância.
+
+880
+01:04:39,102 --> 01:04:41,366
+E fique fora de Woolworth.
+
+881
+01:04:47,544 --> 01:04:49,808
+Aposto que ela faz imitações.
+
+882
+01:04:49,879 --> 01:04:53,315
+Mulher mentirosa, duas caras.
+
+883
+01:04:54,484 --> 01:04:56,418
+Nunca confie em uma mulher, Delmar.
+
+884
+01:04:56,486 --> 01:05:00,547
+Lembre-se deste preceito, e seu
+tempo comigo será bem aproveitado.
+
+885
+01:05:00,623 --> 01:05:01,885
+Certo, Everett.
+
+886
+01:05:01,958 --> 01:05:03,823
+Atropelado por um trem.
+
+887
+01:05:03,893 --> 01:05:08,057
+A verdade não é nada para uma mulher.
+Triunfo do subjetivo.
+
+888
+01:05:08,131 --> 01:05:10,395
+Já teve esposa?
+
+889
+01:05:13,536 --> 01:05:16,994
+Preciso recuperar a fazenda da
+família antes de pensar nisso.
+
+890
+01:05:17,073 --> 01:05:19,132
+Isso mesmo. Aí quem sabe.
+
+891
+01:05:19,209 --> 01:05:22,667
+Acredite, a mulher é o mais
+diabólico instrumento de tortura...
+
+892
+01:05:22,745 --> 01:05:25,680
+já criado para atormentar
+os dias dos homens.
+
+893
+01:05:26,749 --> 01:05:29,741
+Everett, nunca pensei que você
+fosse pai de família.
+
+894
+01:05:29,819 --> 01:05:31,514
+Ah, sim.
+
+895
+01:05:31,588 --> 01:05:33,522
+Espalhei minhas sementes.
+
+896
+01:05:34,691 --> 01:05:36,158
+E veja o que...
+
+897
+01:05:39,329 --> 01:05:41,263
+Mas que diabos...
+
+898
+01:06:41,090 --> 01:06:44,218
+Muito bem,
+curtam bastante o filme.
+
+899
+01:06:50,767 --> 01:06:54,498
+Não tenho dinheiro.
+
+900
+01:06:54,570 --> 01:06:57,004
+Como eu posso mudar
+
+901
+01:06:57,073 --> 01:06:58,540
+Não...
+
+902
+01:06:58,608 --> 01:07:00,974
+vão atrás do tesouro.
+
+903
+01:07:04,080 --> 01:07:06,708
+Não...
+
+904
+01:07:06,783 --> 01:07:08,751
+vão atrás do tesouro.
+
+905
+01:07:10,853 --> 01:07:12,753
+É uma armadilha.
+
+906
+01:07:12,822 --> 01:07:15,848
+Estão preparando uma armadilha.
+
+907
+01:07:15,925 --> 01:07:17,654
+Não...
+
+908
+01:07:17,727 --> 01:07:19,661
+vão atrás do tesouro.
+
+909
+01:07:25,635 --> 01:07:28,263
+Nós pensamos que você...
+
+910
+01:07:29,405 --> 01:07:30,872
+fosse um sapo.
+
+911
+01:07:35,345 --> 01:07:37,905
+Nós pensamos...
+
+912
+01:07:37,981 --> 01:07:40,677
+que você...
+
+913
+01:07:40,750 --> 01:07:43,014
+fosse um sapo!
+
+914
+01:07:44,620 --> 01:07:46,554
+Não...
+
+915
+01:07:46,622 --> 01:07:49,147
+vão atrás do tesouro!
+
+916
+01:07:49,225 --> 01:07:51,693
+Quietas!
+Assistam ao filme!
+
+917
+01:07:57,300 --> 01:08:01,168
+Eu aprovei este projeto de lei
+e vários outros de agricultura.
+
+918
+01:08:02,205 --> 01:08:05,140
+Todos sabem que sou
+amigo dos fazendeiros.
+
+919
+01:08:05,208 --> 01:08:08,143
+O que devo fazer?
+Falcatruar com o gado?
+
+920
+01:08:08,211 --> 01:08:11,703
+Não podemos, Daddy.
+Ofenderemos nosso eleitorado.
+
+921
+01:08:11,781 --> 01:08:13,806
+Nós não temos eleitorado.
+
+922
+01:08:13,883 --> 01:08:15,817
+Stokes tem um eleitorado!
+
+923
+01:08:17,420 --> 01:08:20,014
+Tem uma campanha organizada.
+
+924
+01:08:20,089 --> 01:08:22,023
+O anão, a vassoura e tudo.
+
+925
+01:08:22,091 --> 01:08:24,924
+- Que a verdade seja dita.
+- Tremenda organização.
+
+926
+01:08:24,994 --> 01:08:27,485
+Eu tenho uma ideia.
+
+927
+01:08:27,563 --> 01:08:28,655
+O que foi,Júnior?
+
+928
+01:08:28,731 --> 01:08:32,064
+Podemos contratar um anão
+menor que o de Stokes.
+
+929
+01:08:32,135 --> 01:08:35,070
+Seu saco frouxo de gordura!
+
+930
+01:08:35,138 --> 01:08:37,902
+Vamos parecer um bando
+de retardatários...
+
+931
+01:08:37,974 --> 01:08:39,908
+nos gabando de nosso próprio anão.
+
+932
+01:08:39,976 --> 01:08:41,841
+Seja o baixinho que for.
+
+933
+01:08:41,911 --> 01:08:45,904
+O problema aqui é esse.
+Acham que Stokes tem ideias novas.
+
+934
+01:08:46,783 --> 01:08:49,274
+Ele é aucourant,
+e nós somos ultrapassados.
+
+935
+01:08:49,352 --> 01:08:51,513
+- É um problema de...
+- Percepção.
+
+936
+01:08:51,587 --> 01:08:52,679
+Isso mesmo.
+
+937
+01:08:52,755 --> 01:08:54,689
+E por isso ele está
+ganhando de nós.
+
+938
+01:08:54,757 --> 01:08:56,691
+- Vai nos dar uma surra.
+- Não vai surrar nada.
+
+939
+01:08:56,759 --> 01:08:58,283
+Vai dar um belo pontapé.
+
+940
+01:08:58,361 --> 01:09:02,263
+- Acho que vai dar uma surra.
+- Não é uma boa descrição.
+
+941
+01:09:02,331 --> 01:09:04,697
+É como eu caracterizo.
+
+942
+01:09:04,767 --> 01:09:07,702
+Eu acho que será mesmo
+um chute.
+
+943
+01:09:26,656 --> 01:09:28,521
+Deus que me perdoe.
+
+944
+01:09:28,591 --> 01:09:32,721
+Eu não pude contemplar
+aquele litoral distante.
+
+945
+01:09:36,165 --> 01:09:37,257
+Não se mexa!
+
+946
+01:09:38,000 --> 01:09:39,467
+Não consigo...
+
+947
+01:09:39,535 --> 01:09:41,093
+mais segurar.
+
+948
+01:09:42,638 --> 01:09:44,833
+Foi um momento de fraqueza.
+
+949
+01:09:44,907 --> 01:09:46,499
+Pare de tagarelar.
+Vamos dar no pé.
+
+950
+01:09:46,576 --> 01:09:48,806
+Não aguento mais.
+
+951
+01:09:48,878 --> 01:09:51,403
+Fui seduzido fora das águas...
+
+952
+01:09:51,481 --> 01:09:54,609
+e aí me embebedaram,
+me amarraram feito um porco...
+
+953
+01:09:54,684 --> 01:09:56,618
+e me entregaram
+em troca da recompensa.
+
+954
+01:09:56,686 --> 01:09:59,177
+Eu devia saber.
+É típico de mulher.
+
+955
+01:09:59,255 --> 01:10:01,849
+Sorte a nossa termos saído
+antes que elas voltassem.
+
+956
+01:10:01,924 --> 01:10:06,122
+Não abandonamos você, Pete.
+Pensamos que tinha virado sapo.
+
+957
+01:10:06,195 --> 01:10:08,857
+Elas nunca me transformaram
+em sapo.
+
+958
+01:10:08,931 --> 01:10:11,661
+Esse foi o nosso erro.
+
+959
+01:10:11,734 --> 01:10:17,070
+Apanhamos de um vendedor de Bíblia
+e fomos banidos de Woolworth.
+
+960
+01:10:17,140 --> 01:10:20,576
+Eu não sei, Everett.
+Foi um galho só, ou todos?
+
+961
+01:10:20,643 --> 01:10:24,477
+Para mim, também não foi fácil.
+
+962
+01:10:24,547 --> 01:10:25,980
+Francamente...
+
+963
+01:10:26,048 --> 01:10:27,481
+bem, eu...
+
+964
+01:10:29,018 --> 01:10:31,816
+abri a boca
+sobre o tesouro.
+
+965
+01:10:35,132 --> 01:10:38,067
+Lamento muito
+tê-los traído assim.
+
+966
+01:10:39,136 --> 01:10:41,297
+Deve sangue ruim de Hogwallop.
+
+967
+01:10:43,707 --> 01:10:45,732
+Não tem problema, Pete.
+
+968
+01:10:45,809 --> 01:10:49,575
+Muito legal da sua parte
+reagir assim, Everett.
+
+969
+01:10:49,646 --> 01:10:51,580
+Sinto-me contundido...
+
+970
+01:10:51,648 --> 01:10:55,607
+por estragar seu plano de
+um milhão e duzentos mil dólares.
+
+971
+01:10:55,686 --> 01:10:58,120
+Está me consumindo por dentro.
+
+972
+01:10:59,723 --> 01:11:01,315
+Tudo bem.
+
+973
+01:11:03,126 --> 01:11:05,651
+Vocês são verdadeiros amigos.
+
+974
+01:11:07,865 --> 01:11:10,800
+São meus bons companheiros.
+
+975
+01:11:11,668 --> 01:11:15,365
+Pete, não fique se remoendo
+por causa disso.
+
+976
+01:11:15,439 --> 01:11:21,036
+É impossível, mas
+o que disse é maravilhoso.
+
+977
+01:11:31,121 --> 01:11:33,055
+A questão é que...
+
+978
+01:11:36,026 --> 01:11:37,459
+puxa vida...
+
+979
+01:11:38,529 --> 01:11:39,826
+não existe tesouro nenhum.
+
+980
+01:11:43,066 --> 01:11:45,534
+A questão é que
+nunca existiu.
+
+981
+01:11:47,571 --> 01:11:52,008
+Onde está toda a grana
+do carro blindado?
+
+982
+01:11:53,343 --> 01:11:55,675
+Eu nunca assaltei
+nenhum carro blindado.
+
+983
+01:11:57,047 --> 01:12:00,073
+Fui preso por exercer a lei
+sem licença.
+
+984
+01:12:01,151 --> 01:12:03,085
+Eu tinha de fugir.
+
+985
+01:12:03,153 --> 01:12:05,951
+Minha esposa me escreveu dizendo
+que ia se casar.
+
+986
+01:12:07,591 --> 01:12:10,788
+Restavam duas semanas
+da minha sentença.
+
+987
+01:12:10,861 --> 01:12:13,091
+Eu não podia esperar duas semanas.
+Ela se casa amanhã.
+
+988
+01:12:13,163 --> 01:12:16,599
+Com a sentença da fuga agora...
+
+989
+01:12:16,667 --> 01:12:19,135
+eu não vou sair até...
+
+990
+01:12:20,237 --> 01:12:21,465
+1987.
+
+991
+01:12:21,538 --> 01:12:23,472
+Eu lamento por isso.
+
+992
+01:12:23,540 --> 01:12:24,973
+Eu terei...
+
+993
+01:12:26,109 --> 01:12:28,043
+84 anos.
+
+994
+01:12:29,413 --> 01:12:32,974
+Acho que me darão
+mais 50 anos também.
+
+995
+01:12:33,050 --> 01:12:34,142
+Rapazes...
+
+996
+01:12:34,217 --> 01:12:36,276
+estávamos acorrentados juntos.
+
+997
+01:12:36,353 --> 01:12:39,948
+Tive de inventar uma.
+Fugir sozinho não dava.
+
+998
+01:12:41,024 --> 01:12:43,219
+Eu lamento.
+
+999
+01:12:43,293 --> 01:12:45,454
+84 anos de idade.
+
+1000
+01:12:47,064 --> 01:12:49,191
+Eu terei só 82 anos.
+
+1001
+01:12:50,467 --> 01:12:51,399
+Você!
+
+1002
+01:12:51,468 --> 01:12:52,958
+Arruinou a minha vida!
+
+1003
+01:12:53,737 --> 01:12:56,501
+Você arruinou a minha vida!
+
+1004
+01:12:56,573 --> 01:12:58,632
+Eu peço desculpas, Pete.
+
+1005
+01:12:58,709 --> 01:13:00,870
+84 anos de idade!
+
+1006
+01:13:00,944 --> 01:13:03,310
+Serei comida pra vermes!
+
+1007
+01:13:09,186 --> 01:13:11,313
+Rapazes, rapazes...
+
+1008
+01:14:14,117 --> 01:14:16,517
+Ó, Morte
+
+1009
+01:14:19,289 --> 01:14:21,883
+Ó, Morte
+
+1010
+01:14:21,958 --> 01:14:27,021
+Não pode me dar
+mais um ano
+
+1011
+01:14:32,235 --> 01:14:35,363
+Ora, eu sou a Morte
+Da qual ninguém escapa
+
+1012
+01:14:35,439 --> 01:14:39,876
+Abrirei a porta
+do céu ou do inferno
+
+1013
+01:14:39,943 --> 01:14:42,878
+Morte, alguém rogaria
+
+1014
+01:14:42,946 --> 01:14:46,882
+Não pode voltar outro dia
+
+1015
+01:14:48,985 --> 01:14:50,919
+É Tommy.
+Eles pegaram o Tommy.
+
+1016
+01:14:50,987 --> 01:14:52,249
+Meu Senhor.
+
+1017
+01:14:54,324 --> 01:14:56,258
+Uma forca.
+
+1018
+01:14:59,529 --> 01:15:02,589
+Puxa vida, temos de salvá-lo.
+
+1019
+01:15:04,167 --> 01:15:07,068
+Segurarei os seus pés
+até não poder mais andar
+
+1020
+01:15:07,137 --> 01:15:11,267
+Travarei sua boca
+até não poder mais falar
+
+1021
+01:15:12,342 --> 01:15:14,276
+Fecharei os seus olhos
+
+1022
+01:15:14,344 --> 01:15:15,902
+Até não poder mais ver
+
+1023
+01:15:15,979 --> 01:15:18,948
+...É a hora de vir comigo
+- Os guardiões da cor.
+
+1024
+01:15:20,484 --> 01:15:24,580
+E se eu venho buscar a alma
+
+1025
+01:15:24,654 --> 01:15:28,146
+Deixe o corpo
+o corpo frio
+
+1026
+01:15:29,493 --> 01:15:33,156
+Ó, Morte
+
+1027
+01:15:35,599 --> 01:15:37,533
+Ó, Morte
+
+1028
+01:15:37,601 --> 01:15:41,935
+Não pode me dar
+mais um ano
+
+1029
+01:15:45,609 --> 01:15:46,974
+Irmãos!
+
+1030
+01:15:48,145 --> 01:15:50,909
+Ó, irmãos!
+
+1031
+01:15:50,981 --> 01:15:54,439
+Estamos aqui reunidos...
+
+1032
+01:15:54,518 --> 01:15:59,182
+para proteger nossa
+cultura e herança sagradas...
+
+1033
+01:15:59,256 --> 01:16:01,417
+da intrusão...
+
+1034
+01:16:01,491 --> 01:16:03,391
+inclusão...
+
+1035
+01:16:03,460 --> 01:16:05,428
+e diluição...
+
+1036
+01:16:05,495 --> 01:16:08,362
+da cor, do credo...
+
+1037
+01:16:08,431 --> 01:16:10,763
+e da nossa religião!
+
+1038
+01:16:10,834 --> 01:16:16,204
+Nosso objetivo é cortar
+o mal pela raiz...
+
+1039
+01:16:16,273 --> 01:16:21,677
+antes que ele extermine o broto
+de nossa cultura e herança.
+
+1040
+01:16:21,745 --> 01:16:25,772
+E nossas mulheres!
+Não vamos nos esquecer delas!
+
+1041
+01:16:25,849 --> 01:16:28,875
+Que dependem de nós
+para protegê-las...
+
+1042
+01:16:28,952 --> 01:16:31,819
+dos pretos, dos judeus...
+
+1043
+01:16:31,888 --> 01:16:33,822
+dos papistas...
+
+1044
+01:16:33,890 --> 01:16:38,918
+e de todos os espertinhos que
+dizem que descendemos dos macacos.
+
+1045
+01:16:40,063 --> 01:16:42,998
+Essa não é minha cultura e herança.
+
+1046
+01:16:43,066 --> 01:16:45,000
+Essa é a cultura
+e a herança de vocês?
+
+1047
+01:16:48,138 --> 01:16:50,072
+E então...
+
+1048
+01:16:50,140 --> 01:16:53,075
+nós vamos enforcar um negro.
+
+1049
+01:17:06,122 --> 01:17:09,649
+Nunca fiz mal a vocês.
+Nenhum dos dois.
+
+1050
+01:17:32,949 --> 01:17:35,577
+Nunca fiz mal a ninguém.
+
+1051
+01:17:41,291 --> 01:17:43,259
+Somos nós.
+Viemos salvá-lo.
+
+1052
+01:17:44,394 --> 01:17:46,453
+É muita gentileza de vocês...
+
+1053
+01:17:46,529 --> 01:17:49,020
+mas acho que nada
+pode me salvar agora.
+
+1054
+01:17:49,099 --> 01:17:51,533
+O diabo veio
+cobrar a dívida.
+
+1055
+01:17:53,270 --> 01:17:55,261
+Não seja louco, Tommy.
+
+1056
+01:17:55,338 --> 01:17:57,363
+Você não quer ser enforcado.
+
+1057
+01:17:57,440 --> 01:18:02,400
+Não, reconheço que não.
+Mas é o que vai acontecer.
+
+1058
+01:18:04,981 --> 01:18:07,108
+Tommy, eu tenho um plano.
+
+1059
+01:18:17,427 --> 01:18:18,792
+O guardião da cor é negro.
+
+1060
+01:18:20,830 --> 01:18:22,730
+Quem fez deles guardiões?
+
+1061
+01:18:25,835 --> 01:18:27,268
+Corram, rapazes!
+
+1062
+01:18:34,811 --> 01:18:36,005
+Não, não, filho!
+
+1063
+01:18:38,848 --> 01:18:41,248
+A bandeira não pode
+tocar no chão!
+
+1064
+01:19:07,944 --> 01:19:12,142
+Tirem as mãos de mim.
+Farei isso sozinho.
+
+1065
+01:19:12,215 --> 01:19:14,581
+Eu digo que
+deveriam contratar este homem.
+
+1066
+01:19:14,651 --> 01:19:16,778
+- Boa ideia.
+- Uma ótima ideia.
+
+1067
+01:19:16,853 --> 01:19:18,787
+- Não ganhamos, nos unimos.
+- Ele que venha.
+
+1068
+01:19:18,855 --> 01:19:20,789
+Fazer nossa campanha.
+
+1069
+01:19:20,857 --> 01:19:23,018
+Instigaremos poder,
+riqueza, et cetera.
+
+1070
+01:19:23,093 --> 01:19:26,426
+- Ninguém recusa Pappy O'Daniel.
+- De jeito nenhum.
+
+1071
+01:19:26,496 --> 01:19:28,862
+- Não com sua adulação.
+- Poder de persuasão.
+
+1072
+01:19:28,932 --> 01:19:30,627
+Como é nome dele?
+
+1073
+01:19:30,700 --> 01:19:32,429
+- O gerente da campanha?
+- Sim.
+
+1074
+01:19:32,502 --> 01:19:34,333
+- Waldrip.
+- Vernon Waldrip.
+
+1075
+01:19:34,404 --> 01:19:36,395
+Vernon T. Waldrip.
+
+1076
+01:19:43,947 --> 01:19:45,414
+É um evento só para convidados.
+
+1077
+01:19:45,482 --> 01:19:48,576
+- Usaremos a entrada de serviço.
+- Calma.
+
+1078
+01:19:49,319 --> 01:19:50,251
+Espere aí.
+
+1079
+01:19:50,320 --> 01:19:52,754
+Quem o elegeu líder
+do grupo?
+
+1080
+01:19:52,822 --> 01:19:55,086
+Desde que seguimos seus passos...
+
+1081
+01:19:55,158 --> 01:19:57,092
+só nos metemos em encrenca.
+
+1082
+01:19:57,160 --> 01:19:59,993
+Fiquei com a corda no pescoço...
+
+1083
+01:20:00,063 --> 01:20:03,157
+quase me queimo todo,
+fui chicoteado...
+
+1084
+01:20:03,233 --> 01:20:05,360
+tive insolação
+e fiquei encharcado...
+
+1085
+01:20:05,435 --> 01:20:07,144
+- Virou um sapo.
+- Ele não virou sapo.
+
+1086
+01:20:07,144 --> 01:20:08,805
+- Virou um sapo.
+- Ele não virou sapo.
+
+1087
+01:20:09,647 --> 01:20:11,877
+Mas quase morre de amor.
+
+1088
+01:20:13,150 --> 01:20:15,414
+Você também está contra mim?
+
+1089
+01:20:16,754 --> 01:20:18,688
+É isso, rapazes?
+
+1090
+01:20:21,592 --> 01:20:25,028
+O mundo todo,
+ Deus Todo-Poderoso...
+
+1091
+01:20:25,096 --> 01:20:26,586
+e agora vocês.
+
+1092
+01:20:30,201 --> 01:20:32,601
+Acho que eu mereço.
+
+1093
+01:20:34,505 --> 01:20:38,464
+Eu sei que cometi vários
+erros táticos.
+
+1094
+01:20:40,311 --> 01:20:42,836
+Mas fiquem comigo.
+Eu tenho um plano.
+
+1095
+01:20:42,914 --> 01:20:45,576
+Acreditem,
+podemos consertar tudo...
+
+1096
+01:20:45,650 --> 01:20:49,552
+Vou pegar a minha esposa
+e sairemos daqui.
+
+1097
+01:20:52,089 --> 01:20:55,422
+Que desgraça!
+
+1098
+01:20:55,493 --> 01:20:58,155
+Transformaram a noite numa paródia.
+
+1099
+01:20:58,229 --> 01:21:02,097
+Eu daria tudo para pôr
+a mão nesses agitadores.
+
+1100
+01:21:02,166 --> 01:21:05,966
+Alguém já viu isso,
+mesmo entre os negros?
+
+1101
+01:21:06,037 --> 01:21:09,529
+Talvez mulatos. Acho que há
+miscigenação na hereditariedade.
+
+1102
+01:21:09,607 --> 01:21:13,600
+Como dá para explicar?
+Usaram a bandeira como míssil!
+
+1103
+01:21:14,345 --> 01:21:17,576
+Que loucura. Ninguém vai
+acreditar que somos uma banda.
+
+1104
+01:21:17,648 --> 01:21:20,583
+Vai dar certo. Preciso chegar
+perto para falar com ela.
+
+1105
+01:21:20,651 --> 01:21:23,643
+Dizer que vir conosco tem mais futuro
+que se casar com Waldrip.
+
+1106
+01:21:23,721 --> 01:21:25,416
+Seu maldito bona fide.
+
+1107
+01:21:25,489 --> 01:21:28,754
+- Eu tenho as respostas.
+- Everett, minha barba está coçando.
+
+1108
+01:21:41,539 --> 01:21:43,939
+"In The Jail House Now", amigos.
+
+1109
+01:21:44,008 --> 01:21:46,272
+Agora em "si".
+
+1110
+01:21:58,656 --> 01:21:59,588
+Sou eu.
+
+1111
+01:22:05,262 --> 01:22:08,993
+Eu tinha um amigo
+chamado Ramblin'Bob
+
+1112
+01:22:09,066 --> 01:22:11,933
+Ele roubava e jogava
+
+1113
+01:22:12,003 --> 01:22:16,940
+Pensava que era o cara
+mais inteligente
+
+1114
+01:22:20,044 --> 01:22:21,978
+Vamos sair do estado.
+
+1115
+01:22:22,046 --> 01:22:24,014
+Atrás de outras oportunidades.
+
+1116
+01:22:24,081 --> 01:22:26,345
+Tenho grandes planos.
+
+1117
+01:22:26,417 --> 01:22:29,318
+Este de trovador é só disfarce.
+Vou ser dentista.
+
+1118
+01:22:29,387 --> 01:22:32,845
+Conheço um cara que
+fará a minha licença.
+
+1119
+01:22:34,225 --> 01:22:37,558
+Hoje ele está no xadrez
+
+1120
+01:22:38,362 --> 01:22:41,354
+Eu disse a ele várias vezes
+
+1121
+01:22:41,432 --> 01:22:45,892
+Para parar com as cartas
+e com os dados
+
+1122
+01:22:45,970 --> 01:22:48,234
+Hoje ele está no xadrez
+
+1123
+01:23:09,794 --> 01:23:11,989
+Bob gostava de jogar pôquer
+
+1124
+01:23:13,798 --> 01:23:16,392
+Que proposta imprópria.
+
+1125
+01:23:17,301 --> 01:23:21,533
+Não posso mudar de partido
+no meio da campanha...
+
+1126
+01:23:21,605 --> 01:23:25,268
+nem trabalhar para um homem
+sem fibra moral.
+
+1127
+01:23:25,342 --> 01:23:28,743
+Fibra moral?
+Seu branquelo nojento.
+
+1128
+01:23:28,813 --> 01:23:30,610
+Inventei a fibra moral.
+
+1129
+01:23:30,681 --> 01:23:33,343
+Pappy O'Daniel exibia retitude
+e nobreza de caráter...
+
+1130
+01:23:33,417 --> 01:23:36,909
+quando o tonto que trabalha
+pra você ainda desarrumava gavetas.
+
+1131
+01:23:38,456 --> 01:23:39,923
+Vá embora.
+
+1132
+01:23:39,990 --> 01:23:43,585
+Serei o que você quiser.
+Quero você e as meninas comigo.
+
+1133
+01:23:43,661 --> 01:23:45,629
+Eu avisei para ele
+
+1134
+01:23:47,098 --> 01:23:50,625
+Para parar com as cartas
+e com os dados
+
+1135
+01:23:51,702 --> 01:23:54,296
+O que veio fazer aqui, Pappy?
+
+1136
+01:23:54,371 --> 01:23:56,601
+Alguém soltou que
+serviremos bebida alcóolica.
+
+1137
+01:23:56,674 --> 01:23:59,768
+Você vai rir do avesso
+em novembro.
+
+1138
+01:23:59,844 --> 01:24:01,744
+Pappy O'Daniel
+é quem rirá então.
+
+1139
+01:24:01,812 --> 01:24:03,746
+Mas não do avesso.
+
+1140
+01:24:03,814 --> 01:24:05,645
+Não, do lado certo.
+
+1141
+01:24:19,130 --> 01:24:20,757
+Elas também são minhas filhas.
+
+1142
+01:24:22,700 --> 01:24:24,634
+Você nunca ouviu...
+
+1143
+01:24:24,702 --> 01:24:27,728
+Um lamento constante
+
+1144
+01:24:27,805 --> 01:24:29,898
+Porto dos dias
+
+1145
+01:24:43,187 --> 01:24:45,018
+Eu
+
+1146
+01:24:45,089 --> 01:24:47,284
+Sou um homem
+
+1147
+01:24:47,358 --> 01:24:50,293
+Em lamento constante
+
+1148
+01:24:50,361 --> 01:24:52,761
+Passei por dificuldades
+
+1149
+01:24:52,830 --> 01:24:55,856
+Deus do céu!
+Os Irmãos Soggy Bottom!
+
+1150
+01:24:56,433 --> 01:25:00,699
+Eu me despeço
+
+1151
+01:25:00,771 --> 01:25:02,932
+Do velho Kentucky
+
+1152
+01:25:03,007 --> 01:25:05,475
+O lugar onde eu
+
+1153
+01:25:05,543 --> 01:25:07,602
+Nasci e cresci
+
+1154
+01:25:08,779 --> 01:25:11,373
+O lugar onde ele
+
+1155
+01:25:11,448 --> 01:25:14,178
+Nasceu e cresceu
+
+1156
+01:25:35,272 --> 01:25:37,797
+Mama mia!
+Os caras são um arraso!
+
+1157
+01:25:37,875 --> 01:25:40,537
+Mas, Pappy, são integrados.
+
+1158
+01:25:40,611 --> 01:25:43,079
+Esperem aí.
+
+1159
+01:25:43,147 --> 01:25:45,741
+Acho que o pessoal não se importa
+que sejam integrados.
+
+1160
+01:25:45,816 --> 01:25:48,216
+Estão miscigenados.
+
+1161
+01:25:48,285 --> 01:25:50,219
+Estão miscigenados!
+
+1162
+01:25:50,287 --> 01:25:52,915
+Dêem-me um microfone!
+Um microfone!
+
+1163
+01:25:55,059 --> 01:25:57,152
+Eles não são brancos.
+
+1164
+01:25:57,228 --> 01:26:00,561
+Eles não são brancos.
+Nem são da velha-guarda.
+
+1165
+01:26:00,631 --> 01:26:03,429
+Acontece que eu sei,
+senhoras e senhores...
+
+1166
+01:26:03,500 --> 01:26:05,434
+que esta banda de vilões aqui...
+
+1167
+01:26:05,502 --> 01:26:09,063
+esta noite mesmo interferiu
+com a quadrilha do linchamento...
+
+1168
+01:26:09,139 --> 01:26:11,073
+quando esta cumpria
+com os seus deveres.
+
+1169
+01:26:12,142 --> 01:26:13,666
+É verdade!
+
+1170
+01:26:13,744 --> 01:26:16,406
+Eu faço parte
+de uma sociedade secreta...
+
+1171
+01:26:16,480 --> 01:26:20,348
+acho que nem preciso
+mencionar o nome, vocês sabem.
+
+1172
+01:26:20,417 --> 01:26:22,385
+- Deixe que toquem!
+- Cale a boca!
+
+1173
+01:26:23,854 --> 01:26:26,118
+E estes rapazes aqui...
+
+1174
+01:26:26,190 --> 01:26:29,353
+eles arruinaram os nossos
+venerados rituais e observâncias.
+
+1175
+01:26:29,426 --> 01:26:32,953
+Esta música se acabou.
+Certo?
+
+1176
+01:26:37,835 --> 01:26:39,860
+Prestem atenção, gente.
+
+1177
+01:26:39,937 --> 01:26:43,270
+Estes rapazes profanaram
+uma cruz de fogo.
+
+1178
+01:26:44,341 --> 01:26:46,832
+Estão se divertindo?
+
+1179
+01:26:46,910 --> 01:26:51,142
+E são bandidos!
+Fugidos da colônia penal!
+
+1180
+01:26:51,215 --> 01:26:55,083
+Gente, estes rapazes devem ser
+entregues às autoridades!
+
+1181
+01:26:55,152 --> 01:26:56,312
+Criminosos!
+
+1182
+01:26:56,387 --> 01:26:59,413
+E soube de autoridade superior...
+
+1183
+01:26:59,490 --> 01:27:02,721
+que esse negro
+vendeu a alma ao diabo!
+
+1184
+01:27:08,465 --> 01:27:09,898
+É verdade!
+
+1185
+01:27:09,967 --> 01:27:11,400
+Calma, gente.
+
+1186
+01:27:11,468 --> 01:27:14,767
+Vocês são ou não são
+o meu eleitorado?
+
+1187
+01:27:14,838 --> 01:27:16,772
+"WFAK apresenta
+O Baile Country de Homer Stokes"
+
+1188
+01:27:16,840 --> 01:27:19,775
+Vocês são ou não são
+o meu eleitorado?
+
+1189
+01:27:25,182 --> 01:27:28,583
+Vocês são ou não são
+o meu eleitorado?
+
+1190
+01:27:28,652 --> 01:27:31,246
+- Ah! Vamos, pessoal!
+- Cale a boca!
+
+1191
+01:27:31,322 --> 01:27:35,315
+É Homer!
+Sou amigo do anãozinho!
+
+1192
+01:28:03,253 --> 01:28:07,781
+Agora digamos adeus
+
+1193
+01:28:07,858 --> 01:28:10,725
+Meu verdadeiro amor
+
+1194
+01:28:10,794 --> 01:28:13,228
+Eu jamais esperava
+
+1195
+01:28:13,297 --> 01:28:16,232
+Ver você outra vez
+
+1196
+01:28:17,468 --> 01:28:19,060
+Pois
+
+1197
+01:28:19,136 --> 01:28:21,730
+Estou prestes a partir
+
+1198
+01:28:21,805 --> 01:28:24,740
+Naquele trem pro norte
+
+1199
+01:28:24,808 --> 01:28:26,708
+Talvez eu morra
+
+1200
+01:28:27,511 --> 01:28:29,979
+Lá naquele trem
+
+1201
+01:28:30,047 --> 01:28:33,141
+Talvez ele morra
+
+1202
+01:28:33,217 --> 01:28:35,617
+Lá naquele trem
+
+1203
+01:28:35,686 --> 01:28:38,621
+Caramba!
+É nossa oportunidade!
+
+1204
+01:28:39,723 --> 01:28:42,055
+Saiam da frente!
+
+1205
+01:28:42,126 --> 01:28:44,822
+Sou apenas um estranho
+
+1206
+01:28:44,895 --> 01:28:50,094
+Meu rosto você não verá jamais
+
+1207
+01:28:51,235 --> 01:28:55,228
+Mas uma só promessa
+
+1208
+01:28:56,373 --> 01:28:58,705
+Eu faço aqui
+
+1209
+01:28:58,776 --> 01:29:02,041
+Eu encontrarei você
+
+1210
+01:29:02,112 --> 01:29:03,443
+Na costa dourada de Deus
+
+1211
+01:29:04,515 --> 01:29:08,212
+Ele encontrará você
+
+1212
+01:29:08,285 --> 01:29:10,048
+Na costa dourada de Deus
+
+1213
+01:29:10,120 --> 01:29:12,554
+Muito bem! Muito bem!
+
+1214
+01:29:16,560 --> 01:29:18,028
+Senhoras e senhores...
+
+1215
+01:29:18,028 --> 01:29:19,256
+Senhoras e senhores...
+
+1216
+01:29:19,329 --> 01:29:21,991
+aqui presentes e os de casa...
+
+1217
+01:29:22,065 --> 01:29:25,296
+o grande estado do Mississippi...
+
+1218
+01:29:25,369 --> 01:29:27,462
+com Pappy O'Daniel, o governador...
+
+1219
+01:29:27,538 --> 01:29:32,066
+quer agradecer aos Irmãos Soggy Bottom
+pela magnífica apresentação.
+
+1220
+01:29:36,650 --> 01:29:40,279
+Parece que um único homem
+neste vasto estado...
+
+1221
+01:29:40,353 --> 01:29:42,150
+não gosta de música...
+
+1222
+01:29:42,222 --> 01:29:46,989
+o meu concorrente nas eleições,
+Homer Stokes.
+
+1223
+01:29:47,060 --> 01:29:49,995
+Bem, gosto não se discute.
+
+1224
+01:29:50,063 --> 01:29:53,362
+A mim me pareceu que ele
+estava ressentido...
+
+1225
+01:29:53,433 --> 01:29:55,367
+porque os Irmãos Soggy Bottom...
+
+1226
+01:29:55,435 --> 01:29:58,199
+tiveram um passado difícil
+e desordeiro.
+
+1227
+01:30:00,140 --> 01:30:03,132
+Parece que Homer Stokes
+é o tipo de homem...
+
+1228
+01:30:03,210 --> 01:30:05,337
+que atira a primeira pedra.
+
+1229
+01:30:06,513 --> 01:30:08,640
+Estou com vocês.
+
+1230
+01:30:08,715 --> 01:30:12,242
+Sou cristão e perdôo,
+e eu digo que...
+
+1231
+01:30:12,319 --> 01:30:16,756
+se a desordem e a contravenção
+forem coisa do passado...
+
+1232
+01:30:17,824 --> 01:30:19,382
+E são, não é mesmo, rapazes?
+
+1233
+01:30:20,360 --> 01:30:21,292
+Sim, senhor.
+
+1234
+01:30:21,361 --> 01:30:23,295
+Bem, então eu digo...
+
+1235
+01:30:23,363 --> 01:30:25,991
+que pelo poder em mim investido...
+
+1236
+01:30:26,066 --> 01:30:29,058
+estes rapazes estão perdoados!
+
+1237
+01:30:33,206 --> 01:30:34,468
+E além disso...
+
+1238
+01:30:35,709 --> 01:30:38,701
+na segunda administração
+de Pappy O'Daniel...
+
+1239
+01:30:38,779 --> 01:30:40,076
+estes rapazes...
+
+1240
+01:30:40,147 --> 01:30:43,412
+serão meu grupo de especialistas.
+
+1241
+01:30:47,087 --> 01:30:48,645
+O que quer dizer isso, Everett?
+
+1242
+01:30:48,722 --> 01:30:52,123
+Delmar, significa que
+você, eu e o Tommy...
+
+1243
+01:30:52,192 --> 01:30:55,457
+teremos o poder
+por trás do poder, assim dizendo.
+
+1244
+01:30:56,463 --> 01:30:58,021
+Entendi.
+
+1245
+01:30:58,098 --> 01:31:00,032
+Então, sem mais espera...
+
+1246
+01:31:00,100 --> 01:31:03,160
+e aqui endossando
+a minha candidatura...
+
+1247
+01:31:03,236 --> 01:31:07,366
+os Irmãos Soggy Bottom
+cantarão conosco...
+
+1248
+01:31:07,440 --> 01:31:09,374
+"Você é o Meu Raio de Sol".
+
+1249
+01:31:10,343 --> 01:31:11,810
+Não é, rapazes?
+
+1250
+01:31:12,779 --> 01:31:14,713
+Governador,
+é uma das nossas prediletas.
+
+1251
+01:31:14,781 --> 01:31:16,373
+Filho...
+
+1252
+01:31:16,449 --> 01:31:18,314
+você irá longe.
+
+1253
+01:31:19,386 --> 01:31:22,150
+Você é o meu raio de sol
+
+1254
+01:31:22,222 --> 01:31:24,850
+Meu único raio de sol
+
+1255
+01:31:24,925 --> 01:31:27,792
+Você me faz feliz
+
+1256
+01:31:27,861 --> 01:31:30,125
+Quando o céu está cinzento
+
+1257
+01:31:30,197 --> 01:31:32,825
+Você jamais saberá, amor
+
+1258
+01:31:32,899 --> 01:31:35,732
+O quanto eu amo você
+
+1259
+01:31:35,802 --> 01:31:40,705
+Por favor, não levem
+o meu raio de sol
+
+1260
+01:31:44,244 --> 01:31:48,271
+Acho que Vernon T. Waldrip
+será destituído.
+
+1261
+01:31:48,348 --> 01:31:51,283
+Talvez eu possa dar
+um suporte a ele.
+
+1262
+01:31:51,351 --> 01:31:54,548
+Arrumo para ele cavar trincheiras
+ou catar cães de rua.
+
+1263
+01:31:54,621 --> 01:31:57,146
+Então o casório foi cancelado,
+Srta. Wharvey?
+
+1264
+01:31:57,224 --> 01:31:58,555
+McGill.
+
+1265
+01:31:58,625 --> 01:32:01,150
+Não, o casório será realizado
+conforme planejado.
+
+1266
+01:32:01,228 --> 01:32:03,253
+Mas o elenco mudou.
+
+1267
+01:32:03,330 --> 01:32:06,788
+Eu e a senhora vamos catar os
+pedaços e amarrar os burros...
+
+1268
+01:32:06,867 --> 01:32:08,858
+metaforicamente falando.
+
+1269
+01:32:08,935 --> 01:32:11,369
+Vocês estão convidados, é claro.
+
+1270
+01:32:11,438 --> 01:32:13,531
+E você será o padrinho.
+
+1271
+01:32:13,607 --> 01:32:14,938
+Já tenho as alianças.
+
+1272
+01:32:16,009 --> 01:32:19,945
+- E a sua aliança, querida?
+- Não a uso desde o divórcio.
+
+1273
+01:32:20,013 --> 01:32:23,642
+Deve estar lá na escrivaninha.
+Achei que não a usaria mais.
+
+1274
+01:32:23,717 --> 01:32:25,844
+Vernon me comprou um anel
+incrustado de pedras.
+
+1275
+01:32:25,919 --> 01:32:28,217
+É hora de comprar dele
+bem barato.
+
+1276
+01:32:29,990 --> 01:32:32,925
+Não nos casaremos com o dele.
+Você disse que tinha mudado.
+
+1277
+01:32:32,993 --> 01:32:35,928
+- O nosso é de latão.
+- Não haverá casamento.
+
+1278
+01:32:35,996 --> 01:32:38,430
+- É só simbólico, querida.
+- Nada de casório.
+
+1279
+01:32:38,498 --> 01:32:40,796
+Iremos buscar com você, Everett.
+
+1280
+01:32:40,867 --> 01:32:43,495
+Cale a boca, Delmar.
+É simbólico.
+
+1281
+01:32:43,570 --> 01:32:46,198
+Eu já falei e disse,
+e contei até três.
+
+1282
+01:32:47,274 --> 01:32:48,536
+Ela contou até três.
+
+1283
+01:32:49,175 --> 01:32:52,770
+Maldição.
+Ela contou até três.
+
+1284
+01:32:52,846 --> 01:32:54,279
+Filha da mãe!
+
+1285
+01:32:54,347 --> 01:32:57,111
+Sabem como esse casebre
+fica longe?
+
+1286
+01:33:13,867 --> 01:33:15,266
+George?
+
+1287
+01:33:15,335 --> 01:33:17,098
+Olá, rapazes!
+
+1288
+01:33:17,170 --> 01:33:21,607
+Estes baixinhos finalmente acharam
+o criminoso do século!
+
+1289
+01:33:21,675 --> 01:33:23,973
+George Nelson vai pra cadeira!
+
+1290
+01:33:24,044 --> 01:33:26,808
+É! Vão me eletrocutar!
+
+1291
+01:33:26,880 --> 01:33:29,576
+Vai parecer uma vela romana!
+
+1292
+01:33:30,750 --> 01:33:34,447
+Vinte mil volts
+percorrendo o corpo.
+
+1293
+01:33:34,521 --> 01:33:38,321
+Caramba! Vai acabar com
+a força do estado inteiro!
+
+1294
+01:33:38,391 --> 01:33:41,019
+Vai voar faísca
+da minha cabeça...
+
+1295
+01:33:41,094 --> 01:33:43,289
+e relâmpago dos meus dedos!
+
+1296
+01:33:43,363 --> 01:33:47,766
+Sou George Nelson,
+e tenho 3 metros de altura!
+
+1297
+01:33:47,834 --> 01:33:51,668
+Parece que George
+está mais animado.
+
+1298
+01:33:52,772 --> 01:33:54,364
+Matador de vacas!
+
+1299
+01:34:07,454 --> 01:34:11,220
+Pelo menos vocês
+verão a mansão ancestral...
+
+1300
+01:34:11,291 --> 01:34:14,226
+a casa onde eu passei
+dias tão felizes...
+
+1301
+01:34:14,294 --> 01:34:16,228
+no peito de minha família.
+
+1302
+01:34:16,296 --> 01:34:19,663
+Um refúgio, assim dizendo, com
+uma árvore de carvalho em frente...
+
+1303
+01:34:19,733 --> 01:34:22,167
+e um pneu como balanço...
+
+1304
+01:34:27,273 --> 01:34:29,867
+Onde está o pneu que balança?
+
+1305
+01:34:32,912 --> 01:34:35,346
+Fim da linha, rapazes.
+
+1306
+01:34:36,483 --> 01:34:38,417
+- Espere um pouco...
+- Vamos, rapazes.
+
+1307
+01:34:38,485 --> 01:34:41,352
+Tivemos desvios e curvas.
+
+1308
+01:34:41,421 --> 01:34:43,514
+Mas agora terminam aqui.
+
+1309
+01:34:43,590 --> 01:34:44,955
+Espere um pouco.
+
+1310
+01:34:45,025 --> 01:34:48,483
+Vocês eludiram o destino
+e eludiram a mim...
+
+1311
+01:34:48,561 --> 01:34:50,586
+pela última vez.
+
+1312
+01:34:50,663 --> 01:34:52,392
+Amarrem as mãos deles.
+
+1313
+01:34:52,465 --> 01:34:53,955
+Você não pode fazer isto.
+
+1314
+01:34:54,034 --> 01:34:56,832
+Não sabia que traria um amigo.
+
+1315
+01:34:56,903 --> 01:34:59,098
+Ele terá de esperar a vez.
+
+1316
+01:34:59,172 --> 01:35:01,265
+Dividir um túmulo com vocês.
+
+1317
+01:35:01,341 --> 01:35:04,674
+Não pode fazer isto.
+O governador acaba de nos perdoar.
+
+1318
+01:35:04,744 --> 01:35:06,678
+Deu no rádio.
+
+1319
+01:35:07,914 --> 01:35:09,176
+É verdade?
+
+1320
+01:35:11,918 --> 01:35:14,443
+Nós não temos rádio.
+
+1321
+01:35:16,923 --> 01:35:18,857
+Deus seja misericordioso!
+
+1322
+01:35:23,997 --> 01:35:26,966
+Você
+
+1323
+01:35:27,033 --> 01:35:28,796
+Precisa ir
+
+1324
+01:35:28,868 --> 01:35:31,962
+Para o vale da solidão
+
+1325
+01:35:42,449 --> 01:35:44,144
+Não é certo.
+
+1326
+01:35:44,217 --> 01:35:45,650
+A lei não é essa.
+
+1327
+01:35:45,718 --> 01:35:47,151
+A lei?
+
+1328
+01:35:49,022 --> 01:35:52,549
+A lei é uma instituição humana.
+
+1329
+01:35:52,625 --> 01:35:56,288
+Ninguém mais
+
+1330
+01:35:56,362 --> 01:35:59,422
+Pode ir em seu lugar, não
+
+1331
+01:36:00,300 --> 01:36:02,598
+Talvez queiram começar a rezar.
+
+1332
+01:36:07,640 --> 01:36:11,576
+Precisa
+
+1333
+01:36:14,247 --> 01:36:16,181
+Ir
+
+1334
+01:36:16,249 --> 01:36:17,944
+Ai, meu Deus.
+
+1335
+01:36:18,017 --> 01:36:19,450
+Everett.
+
+1336
+01:36:20,620 --> 01:36:24,522
+Tommy, lamento
+ter metido você nesta.
+
+1337
+01:36:24,591 --> 01:36:26,684
+Bom Senhor...
+
+1338
+01:36:26,759 --> 01:36:28,522
+o que vamos fazer?
+
+1339
+01:36:31,631 --> 01:36:34,828
+Sozinho
+
+1340
+01:36:38,404 --> 01:36:39,837
+Senhor...
+
+1341
+01:36:41,374 --> 01:36:44,309
+por favor, olhe bem
+esses pobres pecadores.
+
+1342
+01:36:47,881 --> 01:36:50,111
+Por favor, Deus...
+
+1343
+01:36:50,183 --> 01:36:52,617
+só quero ver
+as minhas filhas novamente.
+
+1344
+01:36:54,287 --> 01:36:57,222
+Estou longe da família
+há tanto tempo.
+
+1345
+01:36:58,625 --> 01:37:01,856
+Sei que sou culpado
+de feitos gananciosos e astutos.
+
+1346
+01:37:01,928 --> 01:37:04,522
+Lamento ter me afastado do Senhor.
+
+1347
+01:37:05,532 --> 01:37:06,965
+Perdoe-me...
+
+1348
+01:37:08,101 --> 01:37:09,534
+e ajude-nos, Senhor.
+
+1349
+01:37:10,870 --> 01:37:14,567
+Em nome da minha família.
+Pelo Tommy.
+
+1350
+01:37:14,641 --> 01:37:16,575
+Por Delmar e Pete.
+
+1351
+01:37:19,779 --> 01:37:22,043
+Deixe-me ver as minhas filhas
+outra vez, Senhor.
+
+1352
+01:37:24,217 --> 01:37:25,650
+Ajude-nos.
+
+1353
+01:37:25,718 --> 01:37:27,151
+Por favor.
+
+1354
+01:37:43,570 --> 01:37:45,060
+Você
+
+1355
+01:37:45,138 --> 01:37:46,867
+Precisa ir
+
+1356
+01:37:46,940 --> 01:37:50,671
+Ao vale da solidão
+
+1357
+01:37:50,743 --> 01:37:51,675
+Sim, senhor!
+
+1358
+01:37:51,744 --> 01:37:53,336
+Você
+
+1359
+01:37:59,958 --> 01:38:02,222
+Precisa
+
+1360
+01:38:05,430 --> 01:38:08,365
+Ir
+
+1361
+01:38:10,435 --> 01:38:13,370
+Lá
+
+1362
+01:38:20,445 --> 01:38:22,242
+Sozinho
+
+1363
+01:38:22,314 --> 01:38:24,942
+Ninguém mais
+
+1364
+01:38:26,251 --> 01:38:30,187
+Ninguém pode ir em seu lugar
+
+1365
+01:38:30,255 --> 01:38:33,281
+Você
+
+1366
+01:38:38,797 --> 01:38:41,732
+Precisa
+
+1367
+01:38:45,270 --> 01:38:49,764
+Ir
+
+1368
+01:38:49,841 --> 01:38:52,605
+Lá
+
+1369
+01:39:01,086 --> 01:39:04,112
+Sozinho
+
+1370
+01:39:42,160 --> 01:39:44,924
+Milagre!
+Foi um milagre!
+
+1371
+01:39:44,996 --> 01:39:48,261
+Delmar, não seja ignorante. Eu disse
+que iam inundar este vale.
+
+1372
+01:39:48,333 --> 01:39:51,825
+- Não foi isso.
+- Rezamos e Deus apiedou-se.
+
+1373
+01:39:51,903 --> 01:39:53,666
+Nunca falha.
+
+1374
+01:39:53,738 --> 01:39:57,230
+Mais uma vez, vocês dois
+comprovam a sua inteligência.
+
+1375
+01:39:57,308 --> 01:40:00,243
+Há uma explicação científica
+perfeita para o que aconteceu.
+
+1376
+01:40:00,311 --> 01:40:03,769
+Você não cantou esta canção
+lá na forca.
+
+1377
+01:40:03,848 --> 01:40:07,249
+Todo humano maquina algo
+na hora do aperto.
+
+1378
+01:40:07,318 --> 01:40:09,980
+Não, a verdade é que
+estão inundando o vale...
+
+1379
+01:40:10,055 --> 01:40:12,819
+para fazerem uma hidroelétrica
+em todo o estado.
+
+1380
+01:40:12,891 --> 01:40:15,826
+É, a região sul vai mudar.
+
+1381
+01:40:15,894 --> 01:40:19,421
+Tudo terá eletricidade
+mediante pagamento.
+
+1382
+01:40:19,497 --> 01:40:23,866
+Chega de baboseira espiritual,
+superstições e jeitos retrógrados.
+
+1383
+01:40:23,935 --> 01:40:27,029
+Veremos um admirável mundo novo
+onde todos ficarão ligados...
+
+1384
+01:40:27,105 --> 01:40:29,232
+e conectados a uma rede.
+
+1385
+01:40:29,307 --> 01:40:33,209
+A verdadeira Idade da Razão,
+como a que tiveram na França.
+
+1386
+01:40:33,278 --> 01:40:35,212
+Já não era sem tempo.
+
+1387
+01:40:40,618 --> 01:40:42,552
+Já não era sem tempo.
+
+1388
+01:40:44,656 --> 01:40:46,089
+Ei, é o Tommy.
+
+1389
+01:40:46,157 --> 01:40:48,091
+Tommy, em que está se apoiando?
+
+1390
+01:40:52,497 --> 01:40:54,226
+Em uma escrivaninha.
+
+1391
+01:40:54,299 --> 01:40:59,396
+Meu último sol está afundando
+
+1392
+01:40:59,471 --> 01:41:02,907
+Quase terminei a corrida
+
+1393
+01:41:02,974 --> 01:41:06,171
+Bom é o que bem acaba.
+Disse o poeta.
+
+1394
+01:41:06,244 --> 01:41:07,677
+Isso mesmo, amor.
+
+1395
+01:41:07,746 --> 01:41:10,681
+Quero lhe dizer que ainda bem...
+
+1396
+01:41:10,749 --> 01:41:13,684
+que meus dias de aventureiro
+chegaram ao fim.
+
+1397
+01:41:13,752 --> 01:41:16,687
+É hora deste rapaz aqui
+curtir um descanso.
+
+1398
+01:41:16,755 --> 01:41:20,316
+- Muito bem.
+- Você tinha razão sobre o anel.
+
+1399
+01:41:20,391 --> 01:41:23,758
+Não poderia ser outra aliança.
+
+1400
+01:41:23,828 --> 01:41:25,523
+Esta aqui foi encomendada.
+
+1401
+01:41:25,597 --> 01:41:27,531
+O destino sorriu para mim...
+
+1402
+01:41:27,599 --> 01:41:29,590
+- Essa aliança não é a minha.
+- Quê?
+
+1403
+01:41:29,667 --> 01:41:31,259
+Não é a minha aliança.
+
+1404
+01:41:31,336 --> 01:41:33,566
+- Não é a sua?
+- É da tia Hurlene.
+
+1405
+01:41:33,638 --> 01:41:36,573
+- Disse que estava na escrivaninha.
+- Achei que estivesse.
+
+1406
+01:41:36,641 --> 01:41:38,734
+- Não, você disse...
+- Ou debaixo do colchão.
+
+1407
+01:41:38,810 --> 01:41:41,108
+Talvez no meu cabide.
+Eu não sei.
+
+1408
+01:41:41,179 --> 01:41:43,977
+Sinto muito, querida.
+
+1409
+01:41:44,048 --> 01:41:45,606
+Precisamos daquela aliança.
+
+1410
+01:41:45,683 --> 01:41:49,779
+Aquela aliança está
+debaixo de um lago enorme.
+
+1411
+01:41:49,854 --> 01:41:52,948
+- Um lago de 20 mil acres.
+- Pode ter 200 mil.
+
+1412
+01:41:53,024 --> 01:41:54,958
+- O lago não foi culpa minha.
+- Claro que não.
+
+1413
+01:41:55,026 --> 01:41:58,223
+- Contei até três, querido.
+- Espere.
+
+1414
+01:41:58,296 --> 01:42:02,426
+Achar um anel nessa imensidão
+de água é uma tarefa pra heróis.
+
+1415
+01:42:02,500 --> 01:42:08,097
+E me faz vencer
+
+1416
+01:42:08,173 --> 01:42:10,607
+Ah, venha
+
+1417
+01:42:10,675 --> 01:42:13,269
+Banda dos anjos
+
+1418
+01:42:13,344 --> 01:42:18,043
+Venham e fiquem ao meu lado
+
+1419
+01:42:18,116 --> 01:42:23,247
+Sustentem-me
+em suas asas brancas
+
+1420
+01:42:23,321 --> 01:42:28,588
+Até a minha morada imortal
+
+1421
+01:42:28,660 --> 01:42:34,030
+Sustentem-me
+em suas asas brancas
+
+1422
+01:42:34,098 --> 01:42:40,564
+Até a minha morada imortal
+
+1423
+01:42:41,305 --> 01:43:41,593
+Contribua tornando-se um usuário VIP 
+e remova todos os anúncios do www.OpenSubtitles.org

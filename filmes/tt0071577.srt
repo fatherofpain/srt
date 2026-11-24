@@ -1,0 +1,5519 @@
+1
+00:00:35,996 --> 00:00:42,111
+O GRANDE GATSBY
+
+2
+00:00:42,528 --> 00:00:46,699
+Resync:
+MarcoALauten
+
+3
+00:03:44,574 --> 00:03:47,597
+<i>Quando eu era
+jovem e vunerável,</i>
+
+4
+00:03:47,597 --> 00:03:53,749
+<i>meu pai deu-me um conselho
+que tem me acompanhado sempre:</i>
+
+5
+00:03:53,749 --> 00:03:57,086
+<i>"Quando sentir vontade
+de criticar alguém, "</i>
+
+6
+00:03:57,086 --> 00:04:02,925
+<i>"lembre-se de que nem todos tiveram
+as mesmas oportunidades que você. "</i>
+
+7
+00:04:02,821 --> 00:04:07,722
+<i>Por isso, tento não
+fazer julgamentos.</i>
+
+8
+00:04:07,722 --> 00:04:11,684
+<i>Foi por acaso
+que decidi passar o Verão</i>
+
+9
+00:04:11,580 --> 00:04:16,898
+<i>na estreita e turbulenta ilha
+que percorre o estreito de Long Island,</i>
+
+10
+00:04:16,793 --> 00:04:19,400
+<i>30 km a leste de Nova lorque.</i>
+
+11
+00:04:19,504 --> 00:04:26,073
+<i>Eu vivia em West Egg... o lado
+menos cosmopolita da baía,</i>
+
+12
+00:04:26,073 --> 00:04:31,183
+<i>e a minha prima, Daisy Buchanan,
+numa bela mansão de East Egg</i>
+
+13
+00:04:31,078 --> 00:04:35,562
+<i>com o marido, Tom,
+que eu conhecera na faculdade.</i>
+
+14
+00:04:35,562 --> 00:04:40,358
+<i>Depois de casarem, viveram anos
+de um lado para o outro, aqui e ali,</i>
+
+15
+00:04:40,358 --> 00:04:43,904
+<i>onde quer que se jogasse pólo
+e houvesse gente rica.</i>
+
+16
+00:04:43,799 --> 00:04:46,093
+Nick Carraway!
+
+17
+00:04:53,080 --> 00:04:55,373
+Nick, até que enfim.
+
+18
+00:05:00,379 --> 00:05:02,881
+Não sei manobrar bem o bote.
+
+19
+00:05:02,881 --> 00:05:07,677
+Se tivesse avisado, mandaríamos
+a lancha ir buscar-lo. Como está?
+
+20
+00:05:07,677 --> 00:05:13,100
+- Isto é tudo seu?
+- Uma parte é da Daisy.
+
+21
+00:05:38,333 --> 00:05:40,940
+- Onde mora?
+- Do outro lado da baía.
+
+22
+00:05:41,044 --> 00:05:45,215
+- Numa casinha. Pago $80 por mês.
+- $80 por mês!
+
+23
+00:05:45,111 --> 00:05:48,239
+Em New Haven gastávamos
+mais do que isso em cerveja.
+
+24
+00:05:48,343 --> 00:05:53,869
+Não esqueça que sou um corretor
+da Bolsa em início de carreira.
+
+25
+00:05:56,163 --> 00:05:58,353
+Nick?
+
+26
+00:05:58,353 --> 00:06:02,107
+- É você mesmo?
+- Sou.
+
+27
+00:06:06,382 --> 00:06:09,927
+Meu querido amor perdido!
+
+28
+00:06:10,866 --> 00:06:15,141
+A felicidade é tanta
+que estou paralisada!
+
+29
+00:06:15,141 --> 00:06:20,667
+Jordan, este é Nick Carraway,
+meu primo em segundo grau.
+
+30
+00:06:20,667 --> 00:06:23,170
+Devemos nos beijar?
+
+31
+00:06:23,170 --> 00:06:25,881
+Espero que sim.
+
+32
+00:06:27,340 --> 00:06:32,033
+O Tom disse-me que chegou
+de Chicago. Conte-me tudo.
+
+33
+00:06:32,033 --> 00:06:35,369
+- Têm saudades minhas?
+- A cidade ficou tristíssima.
+
+34
+00:06:35,474 --> 00:06:37,038
+Que maravilha!
+
+35
+00:06:37,872 --> 00:06:41,834
+Os carros têm uma roda
+pintada de preto, em sinal de luto,
+
+36
+00:06:41,834 --> 00:06:44,962
+e ouve-se um lamento incessante
+à noite.
+
+37
+00:06:45,067 --> 00:06:49,029
+Vamos voltar amanhã, Tom.
+Adoro lamentos incessantes.
+
+38
+00:06:49,029 --> 00:06:52,157
+E eu adoro bebidas.
+
+39
+00:06:53,304 --> 00:06:56,536
+Vamos todos tomar uma bebida.
+
+40
+00:06:58,830 --> 00:07:02,688
+Estou deitada nesse sofá
+há uma eternidade.
+
+41
+00:07:02,688 --> 00:07:07,276
+Mora em West Egg...
+Conheço uma pessoa lá.
+
+42
+00:07:07,276 --> 00:07:10,300
+- Eu não conheço ninguém.
+- Deve conhecer Gatsby.
+
+43
+00:07:10,404 --> 00:07:14,054
+- É meu vizinho.
+- Gatsby? Qual Gatsby?
+
+44
+00:07:14,054 --> 00:07:16,244
+Vamos, Daisy.
+
+45
+00:07:18,746 --> 00:07:21,144
+Velas para quê?
+
+46
+00:07:24,064 --> 00:07:28,026
+O maior dia do ano
+é daqui a duas semanas.
+
+47
+00:07:28,026 --> 00:07:33,970
+Você também espera ansioso
+por ele e depois se esquece?
+
+48
+00:07:33,970 --> 00:07:39,079
+- Devíamos planejar qualquer coisa.
+- Está bem. O quê?
+
+49
+00:07:39,809 --> 00:07:42,520
+Que planos as pessoas fazem?
+
+50
+00:07:44,605 --> 00:07:50,861
+Olha... O meu dedo mindinho
+está todo negro.
+
+51
+00:07:50,861 --> 00:07:53,573
+Foi você, Tom.
+
+52
+00:07:53,677 --> 00:07:58,369
+Foi sem querer. Mas é o que dá
+casar com um brutamontes.
+
+53
+00:07:58,369 --> 00:08:02,957
+- Um brutamontes pesado.
+- Detesto que me chame disso.
+
+54
+00:08:03,061 --> 00:08:05,251
+Ainda que seja brincando.
+
+55
+00:08:05,251 --> 00:08:08,796
+- Brutamontes.
+- Por favor, chega de discussões.
+
+56
+00:08:10,360 --> 00:08:16,304
+Nick, já leu "A Ascensão
+dos Povos de Cor", de Goddard?
+
+57
+00:08:16,616 --> 00:08:21,621
+- Não.
+- Excelente obra. Todos deviam lê-la.
+
+58
+00:08:21,621 --> 00:08:26,105
+A verdade é que,
+se não nos acautelarmos,
+
+59
+00:08:26,105 --> 00:08:30,276
+a raça branca será dizimada.
+É isso mesmo!
+
+60
+00:08:30,276 --> 00:08:35,802
+A raça superior tem de vigiar
+ou as outras raças passarão a dominar.
+
+61
+00:08:35,802 --> 00:08:42,163
+- Temos de as subjugar.
+- Daisy, há provas científicas.
+
+62
+00:08:42,163 --> 00:08:45,812
+Nós somos nórdicos.
+Você, eu, a...
+
+63
+00:08:45,812 --> 00:08:48,419
+- Perdão, senhor...
+- Obrigado.
+
+64
+00:08:52,694 --> 00:08:55,092
+Dêem-me licença.
+
+65
+00:08:56,552 --> 00:08:57,908
+Seja como for,
+
+66
+00:08:58,012 --> 00:09:01,661
+fomos nós que criamos a civilização.
+
+67
+00:09:01,766 --> 00:09:05,519
+As artes, as ciências
+e todas essas coisas.
+
+68
+00:09:10,107 --> 00:09:14,591
+Adoro ve-lo em
+minha mesa, Nick.
+
+69
+00:09:14,591 --> 00:09:17,511
+Lembra-me uma...
+
+70
+00:09:17,615 --> 00:09:23,350
+...uma rosa. Uma rosa, decididamente.
+Não lembra?
+
+71
+00:09:34,507 --> 00:09:37,114
+É Jordan Baker,
+a campeã de golfe...
+
+72
+00:09:37,218 --> 00:09:40,033
+Não fale. Quero ouvir
+o que está havendo.
+
+73
+00:09:40,033 --> 00:09:42,953
+- Houve alguma coisa?
+- Não sabe?
+
+74
+00:09:43,057 --> 00:09:45,664
+- Pensei que todos soubessem.
+- Eu não sei.
+
+75
+00:09:45,768 --> 00:09:47,645
+Tom tem uma amante.
+
+76
+00:09:47,749 --> 00:09:53,380
+Ela podia ter o decorode não
+lhe telefonar na hora do jantar.
+
+77
+00:09:57,863 --> 00:10:00,679
+Foi inevitável.
+
+78
+00:10:05,371 --> 00:10:08,186
+Um pássaro na grama!
+
+79
+00:10:08,082 --> 00:10:13,921
+Penso que é um rouxinol, vindo
+num navio da Cunard ou da White Star.
+
+80
+00:10:13,921 --> 00:10:17,258
+Está cantando.
+
+81
+00:10:17,362 --> 00:10:20,177
+É romântico, não é, Tom?
+
+82
+00:10:22,054 --> 00:10:24,348
+Sim, é romântico.
+
+83
+00:10:27,476 --> 00:10:29,979
+<i>Foi uma tarde maravilhosa.</i>
+
+84
+00:10:30,083 --> 00:10:35,818
+<i>Convenci-me de que a vida
+recomeçava, com o Verão.</i>
+
+85
+00:10:35,818 --> 00:10:39,363
+<i>Chegado o Outono,
+a minha disposição seria outra.</i>
+
+86
+00:10:39,468 --> 00:10:43,534
+- Boa noite!
+- Volte logo!
+
+87
+00:10:43,430 --> 00:10:47,914
+<i>Não mais ambicionaria espreitar
+os recantos da alma humana.</i>
+
+88
+00:10:47,914 --> 00:10:53,127
+<i>Apenas o meu vizinho, Gatsby,
+ficaria imune à minha repulsa.</i>
+
+89
+00:10:53,023 --> 00:10:59,488
+<i>Gatsby, que representava tudo
+aquilo que desprezo abertamente.</i>
+
+90
+00:10:59,279 --> 00:11:03,346
+<i>Pois Gatsby acabou
+por revelar-se íntegro.</i>
+
+91
+00:11:03,450 --> 00:11:05,744
+<i>Ao contrário dos que o rodeavam,</i>
+
+92
+00:11:05,848 --> 00:11:11,374
+<i>partículas sujas agarradas
+à esteira dos sonhos dele.</i>
+
+93
+00:12:01,425 --> 00:12:03,406
+<i>Pelo menos de 15 em 15 dias,</i>
+
+94
+00:12:03,510 --> 00:12:07,472
+<i>surgia um batalhão de fornecedores
+com tendas enormes</i>
+
+95
+00:12:07,577 --> 00:12:12,686
+<i>e luzes que iluminavam os jardins
+de Gatsby, qual árvores de Natal.</i>
+
+96
+00:13:09,826 --> 00:13:14,518
+<i>Naquelas noites de Verão, havia
+música na casa do meu vizinho.</i>
+
+97
+00:13:14,518 --> 00:13:20,149
+<i>Naqueles jardins encantados,
+homens e mulheres iam e vinham</i>
+
+98
+00:13:20,149 --> 00:13:25,258
+<i>entre conversas,
+champanhe e estrelas.</i>
+
+99
+00:13:28,699 --> 00:13:34,226
+<i>Acho que poucas pessoas deviam rer
+sido convidadas: muitos só apareciam.</i>
+
+100
+00:13:34,226 --> 00:13:38,084
+<i>Entravam em carros
+que as levavam a Long Island</i>
+
+101
+00:13:38,084 --> 00:13:40,899
+<i>e apareciam à porta de Gatsby,</i>
+
+102
+00:13:41,003 --> 00:13:46,321
+<i>exibindo uma candura que, só por você,
+lhes permitia juntarem-se à festa.</i>
+
+103
+00:13:46,321 --> 00:13:48,824
+<i>Depois, comportavam-se</i>
+
+104
+00:13:48,928 --> 00:13:54,976
+<i>segundo as regras adequadas
+a um parque de diversões.</i>
+
+105
+00:14:26,361 --> 00:14:29,698
+<i>A meio caminho
+entre os dois Eggs e Nova lorque,</i>
+
+106
+00:14:29,594 --> 00:14:34,911
+<i>a estrada segue durante algum tempo
+ao longo da via férrea,</i>
+
+107
+00:14:34,911 --> 00:14:39,186
+<i>sob o olhar do
+Doutor T. J. Eckleburg,</i>
+
+108
+00:14:39,082 --> 00:14:45,860
+<i>ali posto por um oculista,
+querendo aumentar a clientela.</i>
+
+109
+00:14:45,860 --> 00:14:48,988
+<i>É uma área desolada,
+um vale de cinzas,</i>
+
+110
+00:14:48,988 --> 00:14:52,533
+<i>um lugar sobrenatural
+onde as cinzas crescem como trigo.</i>
+
+111
+00:14:52,533 --> 00:14:54,306
+GARAGEM WILSON
+
+112
+00:15:04,524 --> 00:15:08,382
+Entre. Quero que conheças
+a minha garota.
+
+113
+00:15:08,382 --> 00:15:10,155
+Wilson!
+
+114
+00:15:13,283 --> 00:15:15,056
+Wilson!
+
+115
+00:15:19,852 --> 00:15:22,042
+Wilson, meu velho...
+
+116
+00:15:22,146 --> 00:15:24,961
+- Que tal o negócio?
+- Não me queixo.
+
+117
+00:15:25,066 --> 00:15:30,696
+- Quando me vende o carro?
+- Meu mecânico está trabalhando nele.
+
+118
+00:15:30,592 --> 00:15:35,493
+- Trabalha devagar.
+- Até que nem tanto.
+
+119
+00:15:35,493 --> 00:15:38,934
+Se não está interessado
+em comprá-lo,
+
+120
+00:15:39,038 --> 00:15:42,896
+eu arranjo quem esteja.
+
+121
+00:15:42,792 --> 00:15:45,607
+Não é isso.
+O que eu quis dizer
+
+122
+00:15:45,711 --> 00:15:49,152
+é que posso eu arranjar
+alguém e lucrar um pouco.
+
+123
+00:15:49,257 --> 00:15:53,219
+Myrtle Wilson, Nick Carraway.
+Nick...
+
+124
+00:15:53,219 --> 00:15:56,451
+O Sr. e a Sra. Wilson.
+
+125
+00:15:56,556 --> 00:15:59,996
+Vá buscar cadeiras
+para nos sentarmos.
+
+126
+00:15:59,996 --> 00:16:02,082
+Com certeza.
+
+127
+00:16:11,362 --> 00:16:14,490
+Pegue o próximo trem.
+
+128
+00:16:16,367 --> 00:16:17,827
+Está bem.
+
+129
+00:16:19,912 --> 00:16:21,998
+Nos encontramos na cidade.
+
+130
+00:16:22,102 --> 00:16:25,751
+Estou interessado no carro.
+Acho que tenho comprador.
+
+131
+00:16:27,107 --> 00:16:32,008
+Ótimo. Vou dizer ao meu mecânico
+para despachar o serviço.
+
+132
+00:16:32,008 --> 00:16:35,344
+Nick.
+Sra. Wilson, foi um prazer vê-la.
+
+133
+00:16:37,117 --> 00:16:38,681
+Adeus.
+
+134
+00:17:00,474 --> 00:17:02,246
+Tom!
+
+135
+00:17:15,489 --> 00:17:17,365
+Olá, Nick.
+
+136
+00:17:25,186 --> 00:17:28,418
+Pare! Quero um cão destes.
+
+137
+00:17:28,522 --> 00:17:32,693
+Para ter no apartamento.
+É bom ter um cão.
+
+138
+00:17:32,693 --> 00:17:36,239
+- De que raça são?
+- De todas as raças.
+
+139
+00:17:36,239 --> 00:17:38,741
+Qual é a que quer?
+
+140
+00:17:38,845 --> 00:17:41,765
+Quero um cão policial.
+
+141
+00:17:45,206 --> 00:17:46,770
+Não é umcão policial!
+
+142
+00:17:46,978 --> 00:17:53,026
+Não é propriamente um cão policial.
+É mais um Airedale.
+
+143
+00:17:52,818 --> 00:17:56,154
+Vejam este pêlo.
+É um belo pêlo.
+
+144
+00:17:56,259 --> 00:18:00,534
+Este cão nunca ficará doente.
+
+145
+00:18:00,534 --> 00:18:03,662
+Ótimo. Quanto custa?
+
+146
+00:18:03,766 --> 00:18:05,434
+Esse cão?
+
+147
+00:18:05,539 --> 00:18:08,771
+Esse cão, uns dez dólares.
+
+148
+00:18:11,065 --> 00:18:15,132
+- É um ele ou uma ela?
+- Esse cão?
+
+149
+00:18:15,132 --> 00:18:18,051
+É macho.
+
+150
+00:18:18,155 --> 00:18:23,369
+Fêmea! Tome os dez dólares
+e vá comprar outros dez cães!
+
+151
+00:18:38,905 --> 00:18:41,512
+- Vou deixá-los.
+- Nem pense nisso.
+
+152
+00:18:41,512 --> 00:18:45,892
+A Myrtle ficaria ofendida
+se não fosse ao apartamento.
+
+153
+00:18:45,787 --> 00:18:51,001
+Venha. Vou ligar à minha irmã,
+a Catherine. Acham-na linda.
+
+154
+00:18:51,001 --> 00:18:55,797
+- E os nossos compromissos?
+- Wall Street não vai fugir.
+
+155
+00:18:56,631 --> 00:19:00,489
+Myrtle, esse vestido é lindo!
+
+156
+00:19:00,489 --> 00:19:05,599
+É um trapo velho, que uso quando
+não ligo pra minha aparência.
+
+157
+00:19:05,494 --> 00:19:08,831
+Lhe cai
+maravilhosamente.
+
+158
+00:19:08,935 --> 00:19:13,628
+Se o Chester
+a fotografasse nessa pose,
+
+159
+00:19:13,628 --> 00:19:17,277
+acho que seria
+um trabalho fantástico.
+
+160
+00:19:18,424 --> 00:19:21,969
+Sou Catherine, a irmã da Myrtle.
+
+161
+00:19:22,074 --> 00:19:26,661
+Dizem que parecemos gêmeas,
+mas eu não acho.
+
+162
+00:19:26,661 --> 00:19:30,519
+Sou Nick. Não se quer sentar?
+
+163
+00:19:30,415 --> 00:19:33,231
+Chamei a atenção
+do rapaz para o gelo.
+
+164
+00:19:33,335 --> 00:19:38,027
+Estes criados! Temos de estar
+sempre em cima deles.
+
+165
+00:19:43,241 --> 00:19:47,203
+- Também mora em Long Island?
+- Sim, em West Egg.
+
+166
+00:19:47,203 --> 00:19:50,018
+Palavra?
+
+167
+00:19:50,852 --> 00:19:55,127
+Fui a uma festa em West Egg,
+há cerca de um mês.
+
+168
+00:19:55,127 --> 00:19:57,421
+Na casa de um tal Gatsby.
+
+169
+00:19:57,526 --> 00:20:02,218
+- Conhece-o?
+- Sou vizinho dele.
+
+170
+00:20:04,825 --> 00:20:07,223
+Ele é alemão.
+
+171
+00:20:07,327 --> 00:20:12,853
+Sério. É primo, ou sobrinho,
+do Kaiser Guilherme.
+
+172
+00:20:12,853 --> 00:20:17,024
+É daí que vem a fortuna dele.
+
+173
+00:20:17,024 --> 00:20:20,778
+- Sério?
+- Tenho medo dele.
+
+174
+00:20:22,551 --> 00:20:25,783
+- Porquê?
+- Odiaria que tivesse algo contra mim.
+
+175
+00:20:31,205 --> 00:20:34,855
+- Que cão amoroso!
+- Tão querido!
+
+176
+00:20:35,585 --> 00:20:38,400
+Myrtle, pode vir aqui?
+
+177
+00:20:41,007 --> 00:20:45,595
+Eles não se suportam.
+
+178
+00:20:45,595 --> 00:20:49,974
+- Não?
+- Não se suportam!
+
+179
+00:20:51,225 --> 00:20:57,377
+Por que continuarem vivendo
+juntos, se não se suportam?
+
+180
+00:21:02,904 --> 00:21:06,762
+Beije este amorzinho!
+
+181
+00:21:06,866 --> 00:21:11,349
+Há 11 anos que a Myrtle
+mora em cima daquela garagem
+
+182
+00:21:11,349 --> 00:21:15,103
+e Tom é o primeiro amante
+que ela teve.
+
+183
+00:21:18,440 --> 00:21:24,488
+Eu ia de trem para Nova lorque.
+Passar a noite na casa da Catherine.
+
+184
+00:21:25,739 --> 00:21:28,867
+Tom estava sentado à minha frente.
+
+185
+00:21:30,952 --> 00:21:38,147
+Vestia um terno completo
+e calçava sapatos de verniz.
+
+186
+00:21:38,043 --> 00:21:41,901
+Notei que ele era um cavalheiro.
+
+187
+00:21:43,152 --> 00:21:47,427
+Não conseguia
+tirar os olhos dele.
+
+188
+00:21:48,261 --> 00:21:51,077
+Sempre que olhava para mim,
+
+189
+00:21:51,181 --> 00:21:55,143
+eu fingia estar vendo
+o anúncio atrás dele.
+
+190
+00:21:58,688 --> 00:22:02,859
+Quando o trem entrou na estação,
+ele estava ao meu lado,
+
+191
+00:22:02,964 --> 00:22:07,447
+com o peito, na sua camisa branca,
+encostado ao meu braço.
+
+192
+00:22:08,698 --> 00:22:13,703
+Eu disse,
+"Vou ter de chamar a Polícia."
+
+193
+00:22:14,850 --> 00:22:18,083
+Mas ele viu que eu
+estava mentindo.
+
+194
+00:22:18,187 --> 00:22:23,609
+Quando entrei no táxi,
+estava excitadíssima,
+
+195
+00:22:23,401 --> 00:22:26,112
+estava com a
+cabeça rodando.
+
+196
+00:22:26,112 --> 00:22:31,430
+Parecia ter um
+peixinho minúsculo
+
+197
+00:22:31,430 --> 00:22:34,453
+nadando dentro
+das minhas veias.
+
+198
+00:22:35,600 --> 00:22:40,188
+E eu só pensava...
+
+199
+00:22:41,648 --> 00:22:44,672
+"Não vivemos para sempre."
+
+200
+00:22:45,923 --> 00:22:48,739
+Não vivemos para sempre.
+
+201
+00:22:57,602 --> 00:23:01,251
+Foi o dia mais feliz da minha vida.
+
+202
+00:23:01,355 --> 00:23:03,754
+Myrtle...
+
+203
+00:23:03,858 --> 00:23:07,194
+Que fez a ela?
+Desajeitado...
+
+204
+00:23:08,029 --> 00:23:11,782
+- Que foi que fez?
+- Não me chame de desajeitado!
+
+205
+00:23:17,413 --> 00:23:20,541
+Não feche a porta
+na minha cara!
+
+206
+00:23:21,584 --> 00:23:23,461
+Saiam!
+
+207
+00:23:23,565 --> 00:23:25,233
+Por favor.
+
+208
+00:23:30,447 --> 00:23:34,826
+Mas quem os impede de estar juntos
+é a mulher dele.
+
+209
+00:23:34,826 --> 00:23:40,874
+É católica,
+e eles não admitem o divórcio.
+
+210
+00:23:42,125 --> 00:23:45,566
+Pronuncio o nome dela
+quando quiser!
+
+211
+00:23:45,670 --> 00:23:48,382
+- Daisy! Daisy! Daisy!
+- Cale-se.
+
+212
+00:23:48,486 --> 00:23:52,448
+Posso dizer o que eu quiser!
+Daisy! Daisy!
+
+213
+00:24:36,242 --> 00:24:40,100
+- Uma fatia de bolo de chocolate?
+- Obrigada.
+
+214
+00:24:52,925 --> 00:24:55,532
+- Desculpe o atraso.
+- Saia daqui.
+
+215
+00:24:55,532 --> 00:24:58,556
+- Mude de roupa!
+- Não me demoro.
+
+216
+00:25:28,690 --> 00:25:33,904
+Vou fazer com que se case
+com a Jordan.
+
+217
+00:25:33,799 --> 00:25:38,283
+Junto-os, fecho-os no
+armário de roupa,
+
+218
+00:25:38,387 --> 00:25:42,141
+jogo-os ao mar num barquinho,
+esse tipo de coisa.
+
+219
+00:25:42,141 --> 00:25:46,520
+Não tenho dinheiro. Jordan casaria
+com um homem sem dinheiro?
+
+220
+00:25:46,520 --> 00:25:48,710
+Claro que não.
+
+221
+00:25:51,108 --> 00:25:55,592
+Nesse caso, terá de
+ser uma aventura.
+
+222
+00:25:57,886 --> 00:26:04,664
+Não nos conhecemos muito bem,
+apesar de sermos primos.
+
+223
+00:26:04,455 --> 00:26:10,086
+- Não foi ao meu casamento.
+- Ainda não tinha voltado da guerra.
+
+224
+00:26:11,337 --> 00:26:15,925
+- Passei momentos muito difíceis, Nick.
+- Mamãe!
+
+225
+00:26:15,821 --> 00:26:18,323
+Olá, querida.
+
+226
+00:26:22,494 --> 00:26:26,248
+Vou te contar o que eu disse
+quando ela nasceu.
+
+227
+00:26:27,812 --> 00:26:32,400
+Ela ainda não tinha uma
+hora de vida, e Tom estava...
+
+228
+00:26:33,442 --> 00:26:36,675
+...vai lá se saber onde.
+
+229
+00:26:36,779 --> 00:26:41,367
+Acordei da anestesia
+num perfeito estado de abandono
+
+230
+00:26:41,263 --> 00:26:45,851
+e perguntei à enfermeira
+se era menino ou menina.
+
+231
+00:26:45,851 --> 00:26:48,353
+Ela disse-me que
+era uma menina.
+
+232
+00:26:49,292 --> 00:26:52,837
+E eu virei a cabeça para
+o outro lado e chorei.
+
+233
+00:26:52,941 --> 00:27:00,136
+"Ainda bem que é uma menina", disse.
+"Espero que seja tola."
+
+234
+00:27:00,031 --> 00:27:04,411
+É a melhor coisa
+que uma mulher pode ser,
+
+235
+00:27:04,411 --> 00:27:06,496
+ser tola e linda.
+
+236
+00:27:10,146 --> 00:27:12,648
+Estão aqui...
+
+237
+00:27:12,753 --> 00:27:15,985
+- Fazendo confidências a Nick?
+- Sim.
+
+238
+00:27:15,985 --> 00:27:20,469
+Estávamos falando da raça nórdica.
+Sim, definitivamente.
+
+239
+00:27:20,469 --> 00:27:24,327
+Surgiu insidiosamente
+e, quando demos conta...
+
+240
+00:27:24,327 --> 00:27:28,393
+Não acredite
+em tudo o que ouve, Nick.
+
+241
+00:27:33,920 --> 00:27:36,318
+Esta agora!
+
+242
+00:27:45,077 --> 00:27:50,186
+Nunca vi uma garota
+tão descarada!
+
+243
+00:27:52,167 --> 00:27:55,295
+- Sr. Carraway?
+- Sim?
+
+244
+00:27:55,295 --> 00:27:58,840
+Sr. Gatsby gostaria muito
+que fosse à festa dele.
+
+245
+00:28:42,738 --> 00:28:44,615
+Obrigado.
+
+246
+00:29:02,028 --> 00:29:04,948
+- Olá, Jordan.
+- Nick!
+
+247
+00:29:06,512 --> 00:29:09,432
+Tinha esperanças de
+o encontrar aqui.
+
+248
+00:29:09,536 --> 00:29:15,167
+A sua prima Daisy o adora.
+Mas, hoje, vai estar por minha conta.
+
+249
+00:30:03,131 --> 00:30:06,364
+Como nunca ligo pro que faço,
+divirto-me sempre.
+
+250
+00:30:06,468 --> 00:30:11,056
+Rasguei o vestido numa cadeira,
+e ele quis saber o meu nome.
+
+251
+00:30:10,952 --> 00:30:13,558
+- Ele, quem?
+- O Gatsby, claro.
+
+252
+00:30:13,558 --> 00:30:18,146
+Daí a uma semana, recebi
+um vestido de noite da loja Croirier.
+
+253
+00:30:18,146 --> 00:30:19,710
+- Ficou com ele?
+- Claro.
+
+254
+00:30:19,710 --> 00:30:23,568
+Queria vesti-lo hoje,
+mas precisou ser apertado.
+
+255
+00:30:23,568 --> 00:30:28,156
+É azul pálido, com contas
+cor de alfazema. 265 dólares!
+
+256
+00:30:28,052 --> 00:30:31,284
+Há algo suspeito num homem
+que faz essas coisas.
+
+257
+00:30:31,389 --> 00:30:33,995
+Ele não quer problemas
+com ninguém.
+
+258
+00:30:33,995 --> 00:30:37,124
+- Quem?
+- Gatsby.
+
+259
+00:30:38,166 --> 00:30:41,086
+Disseram-me...
+
+260
+00:30:42,546 --> 00:30:46,299
+Disseram-me que parece
+que ele matou um homem.
+
+261
+00:30:46,299 --> 00:30:47,863
+Matou um homem?
+
+262
+00:30:47,968 --> 00:30:53,494
+Parece que trabalhou para o Governo
+durante a guerra, como espião.
+
+263
+00:30:53,494 --> 00:30:57,561
+Está ligado ao petróleo, quem me disse
+foi um homem que o conhece do Texas.
+
+264
+00:30:57,456 --> 00:31:00,376
+Conheci uma pessoa
+que o conheceu em St. Paul.
+
+265
+00:31:00,480 --> 00:31:04,338
+Olhem-no bem, quando ele pensa
+que ninguém está olhando,
+
+266
+00:31:04,338 --> 00:31:06,424
+dá pra ver nos seus olhos.
+
+267
+00:31:06,528 --> 00:31:09,343
+Com certeza ele
+matou um homem.
+
+268
+00:31:09,343 --> 00:31:13,827
+- Onde ele está?
+- Nunca aparece nas festas que dá.
+
+269
+00:31:13,827 --> 00:31:17,268
+Espreita para ver quem está
+e depois desaparece.
+
+270
+00:31:17,372 --> 00:31:19,666
+Como se vai saber
+onde está!
+
+271
+00:31:55,431 --> 00:32:00,749
+- Sabe que eu quero sempre faisão.
+- Com certeza, minha senhora.
+
+272
+00:32:00,749 --> 00:32:03,460
+Boa noite. Sou o animador.
+
+273
+00:32:03,564 --> 00:32:07,214
+Casei com uma
+mulher gordíssima.
+
+274
+00:32:07,214 --> 00:32:12,219
+Tão gorda que, quando se sentou
+num banco alto, ficou pendurada.
+
+275
+00:32:12,219 --> 00:32:17,641
+Ela detestava vestidos.
+Andava sempre de saia. Quando...
+
+276
+00:32:21,916 --> 00:32:24,940
+Que bom, uma briga!
+
+277
+00:32:48,818 --> 00:32:53,093
+Vamos. É formal demais
+para meu gosto.
+
+278
+00:33:32,090 --> 00:33:34,488
+Se me dá licença...
+
+279
+00:33:34,488 --> 00:33:38,972
+- Importa-se de me acompanhar?
+- Não estou entendendo.
+
+280
+00:33:38,868 --> 00:33:41,892
+Acompanhe-me, por favor.
+
+281
+00:33:43,456 --> 00:33:45,333
+Com licença.
+
+282
+00:33:48,044 --> 00:33:50,129
+Fui convidado.
+
+283
+00:33:51,068 --> 00:33:54,821
+Sr. Gatsby mandou-me
+um convite pessoal.
+
+284
+00:33:54,821 --> 00:33:58,471
+Moro lá embaixo,
+aos fundos do gramado.
+
+285
+00:34:26,207 --> 00:34:29,856
+Tem certeza de que não
+se enganou de pessoa?
+
+286
+00:35:17,300 --> 00:35:19,594
+Desculpe...
+
+287
+00:35:22,305 --> 00:35:25,433
+Como vai, meu caro?
+Sou Gatsby.
+
+288
+00:35:26,580 --> 00:35:29,604
+Nick Carraway. Muito prazer.
+
+289
+00:35:32,315 --> 00:35:36,798
+Mora na cabana aos fundos
+do jardim. Tentei comprá-la.
+
+290
+00:35:36,903 --> 00:35:42,742
+- Procurei-o, mas...
+- Não sou um bom anfitrião.
+
+291
+00:35:43,889 --> 00:35:46,808
+Para ser sincero,
+
+292
+00:35:46,808 --> 00:35:49,728
+não gosto de festas.
+
+293
+00:35:57,235 --> 00:36:01,928
+Achei que devíamos conhecer-nos,
+já que somos vizinhos.
+
+294
+00:36:03,387 --> 00:36:08,497
+- Espero que esteja se divertindo.
+- Sim. Obrigado.
+
+295
+00:36:12,146 --> 00:36:16,317
+- Se desejar alguma coisa...
+- Não, está tudo ótimo.
+
+296
+00:36:16,317 --> 00:36:17,985
+Ainda bem.
+
+297
+00:36:21,948 --> 00:36:24,971
+Está uma bela noite
+para dar uma festa.
+
+298
+00:36:26,431 --> 00:36:28,204
+Sim.
+
+299
+00:36:32,792 --> 00:36:35,399
+Mais alguma coisa?
+
+300
+00:36:36,233 --> 00:36:38,318
+Não, não...
+
+301
+00:36:39,361 --> 00:36:43,219
+Achei apenas
+que devíamos conhecer-nos.
+
+302
+00:36:44,366 --> 00:36:46,764
+- Sim.
+- Dê-me licença.
+
+303
+00:36:46,868 --> 00:36:50,309
+- Quer que eu?
+- Não, não.
+
+304
+00:36:50,309 --> 00:36:52,603
+Sim.
+
+305
+00:36:52,707 --> 00:36:54,584
+O quê?
+
+306
+00:36:56,253 --> 00:36:59,485
+E eu não ligo pro que
+pensam da Filadélfia!
+
+307
+00:36:59,589 --> 00:37:04,073
+Se essa é a ideia dele de uma
+pequena cidade, ele não nos serve.
+
+308
+00:37:03,969 --> 00:37:05,950
+Não.
+
+309
+00:37:05,950 --> 00:37:07,827
+Não.
+
+310
+00:37:13,457 --> 00:37:16,481
+Desculpe, meu caro. Negócios...
+
+311
+00:37:16,586 --> 00:37:20,965
+Bem, já lhe tomei
+muito seu tempo.
+
+312
+00:37:23,572 --> 00:37:28,160
+- Quer conhecer algum dos convidados?
+- Não, obrigado.
+
+313
+00:37:28,160 --> 00:37:31,079
+Podíamos almoçar. Amanhã?
+
+314
+00:37:31,183 --> 00:37:33,999
+- Pode ser.
+- Ótimo.
+
+315
+00:37:34,833 --> 00:37:37,544
+Até amanhã, então.
+
+316
+00:38:39,585 --> 00:38:42,296
+Magnífico!
+
+317
+00:39:22,232 --> 00:39:25,986
+- Que acha? Não é uma maravilha?
+- É.
+
+318
+00:39:28,384 --> 00:39:33,180
+- Quer conduzi-lo?
+- É muita responsabilidade.
+
+319
+00:39:35,892 --> 00:39:37,456
+Entre.
+
+320
+00:39:38,811 --> 00:39:42,773
+Nick, o que pensa a meu respeito?
+
+321
+00:39:45,276 --> 00:39:48,821
+Nunca me ocorreu
+pensar em você.
+
+322
+00:39:48,717 --> 00:39:51,741
+Vou falar-lhe da minha vida.
+
+323
+00:39:51,845 --> 00:39:55,703
+Ouviu histórias. Não quero que fique
+com uma impressão errada.
+
+324
+00:39:55,807 --> 00:39:57,267
+Porquê eu?
+
+325
+00:39:57,267 --> 00:40:01,334
+Sou filho de gente abastada
+do interior, já falecida.
+
+326
+00:40:02,168 --> 00:40:03,836
+De que zona?
+
+327
+00:40:03,836 --> 00:40:09,780
+Fui criado na América, mas educado
+em Oxford. É a tradição familiar.
+
+328
+00:40:09,675 --> 00:40:13,742
+Os meus pais morreram
+e eu herdei uma fortuna.
+
+329
+00:40:16,036 --> 00:40:18,747
+Vivi em muitas
+capitais europeias,
+
+330
+00:40:18,851 --> 00:40:23,231
+tentando esquecer
+um acontecimento triste e remoto.
+
+331
+00:40:23,231 --> 00:40:26,359
+A guerra começou.
+
+332
+00:40:26,463 --> 00:40:32,198
+Fui promovido a major
+por atos de bravura em combate.
+
+333
+00:40:32,198 --> 00:40:35,952
+Fui condecorado
+por todos os governos aliados.
+
+334
+00:40:35,952 --> 00:40:40,748
+Até pelo minúsculo Montenegro,
+junto ao mar Adriático.
+
+335
+00:40:42,625 --> 00:40:45,023
+Vire-a.
+
+336
+00:40:46,066 --> 00:40:50,445
+"Ao Major Jay Gatsby,
+por bravura excepcional."
+
+337
+00:40:50,445 --> 00:40:53,365
+Porque me conta tudo isto?
+
+338
+00:40:55,242 --> 00:40:58,578
+Não ganha muito, não?
+Vende ações?
+
+339
+00:40:58,683 --> 00:41:01,915
+- Eu tento.
+- Tenho um negócio à margem.
+
+340
+00:41:01,811 --> 00:41:06,816
+Ocorreu-me que poderia querer
+ganhar algum dinheiro extra.
+
+341
+00:41:06,816 --> 00:41:10,257
+Que tipo de negócio,
+exatamente?
+
+342
+00:41:10,361 --> 00:41:13,593
+Gostaria de lhe apresentar
+um amigo meu.
+
+343
+00:41:19,120 --> 00:41:23,291
+Este restaurante é bom,
+mas prefiro o outro em frente.
+
+344
+00:41:23,291 --> 00:41:27,983
+- É muito abafado.
+- E pequeno. Mas cheio de recordações.
+
+345
+00:41:27,983 --> 00:41:31,215
+- Que lugar é esse?
+- O velho Metropole.
+
+346
+00:41:31,215 --> 00:41:37,263
+Repleto de rostos desaparecidos,
+de amigos que já não voltam.
+
+347
+00:41:37,263 --> 00:41:40,495
+Nunca me esquecerei
+da morte de Rosy Rosenthal.
+
+348
+00:41:40,600 --> 00:41:44,979
+Éramos seis.
+Rosy tinha comido e bebido muito.
+
+349
+00:41:44,875 --> 00:41:48,524
+O criado foi dizer-lhe
+que queriam falar com ele, lá fora.
+
+350
+00:41:48,420 --> 00:41:52,382
+Rosy levantou-se,
+mas eu o fiz sentar outra vez.
+
+351
+00:41:52,591 --> 00:41:58,951
+"Eles que venham aqui falar contigo.
+Você não sai daqui."
+
+352
+00:41:58,847 --> 00:42:04,165
+Eram 4 da manhã. Veríamos luz do dia,
+se as persianas estivessem levantadas.
+
+353
+00:42:04,165 --> 00:42:08,648
+- Ele foi?
+- Claro!
+
+354
+00:42:08,648 --> 00:42:11,777
+Disse: "Não deixem o garçom
+levar-me o café."
+
+355
+00:42:11,777 --> 00:42:15,635
+Na rua, alvejaram-no três vezes.
+Fugiram de carro.
+
+356
+00:42:15,635 --> 00:42:20,118
+- Procura um parceiro de negócios?
+- Falamos nisso mais tarde.
+
+357
+00:42:20,118 --> 00:42:23,038
+Ele é um amigo.
+Falamos mais tarde.
+
+358
+00:42:23,142 --> 00:42:25,749
+Peço desculpa.
+Enganei-me de pessoa.
+
+359
+00:42:25,853 --> 00:42:27,626
+Gatsby...
+
+360
+00:42:29,607 --> 00:42:31,692
+Dêem-me licença.
+
+361
+00:42:32,631 --> 00:42:37,010
+Ele tem de ir telefonar.
+Não é um sujeito fantástico?
+
+362
+00:42:37,010 --> 00:42:41,390
+- Bem-apessoado, e um cavalheiro.
+- Sim.
+
+363
+00:42:41,285 --> 00:42:45,769
+Passou pela Universidade de Oxford,
+na Inglaterra. Conhece?
+
+364
+00:42:45,769 --> 00:42:48,063
+Conhece o Gatsby
+há muito tempo?
+
+365
+00:42:48,167 --> 00:42:50,357
+Se o conheço? Fiz dele o que é.
+
+366
+00:42:50,461 --> 00:42:54,528
+O conheci
+logo depois da guerra.
+
+367
+00:42:54,528 --> 00:42:58,386
+De tão pobre que era, usava a farda
+para não comprar roupa.
+
+368
+00:42:58,490 --> 00:43:01,201
+Pensei: "É um homem decente,"
+
+369
+00:43:01,305 --> 00:43:05,268
+"a quem podemos apresentar
+a nossa mãe e a nossa irmã."
+
+370
+00:43:05,268 --> 00:43:08,500
+Vejo que reparou
+nos meus botões de punho.
+
+371
+00:43:10,794 --> 00:43:14,026
+Um exemplar perfeito
+de molar humano.
+
+372
+00:43:15,173 --> 00:43:19,970
+- É uma ideia muito interessante.
+- Pois é.
+
+373
+00:43:21,534 --> 00:43:26,122
+Era... era muito amigo
+do Sr. Rosenthal?
+
+374
+00:43:26,122 --> 00:43:29,354
+- Éramos unha com carne.
+- Lamento.
+
+375
+00:43:30,501 --> 00:43:35,402
+Porquê? A amizade demonstra-se
+em vida, e não depois da morte.
+
+376
+00:43:35,923 --> 00:43:39,677
+Depois, costumo pôr
+uma pedra no assunto.
+
+377
+00:43:41,867 --> 00:43:43,431
+Está tudo tratado.
+
+378
+00:43:43,431 --> 00:43:45,620
+- Belo almoço.
+- Não vá já.
+
+379
+00:43:45,725 --> 00:43:49,374
+É muito amável,
+mas eu sou de outra geração.
+
+380
+00:43:49,478 --> 00:43:54,066
+Fiquem conversando sobre esporte,
+mulheres e outras coisas assim.
+
+381
+00:43:54,066 --> 00:43:59,384
+Eu tenho 60 anos e não vou
+incomodá-los mais tempo.
+
+382
+00:44:00,114 --> 00:44:03,034
+Às vezes, ele é um sentimental.
+
+383
+00:44:03,138 --> 00:44:06,579
+O que faz, da vida? É dentista?
+
+384
+00:44:09,498 --> 00:44:11,897
+O Meyer Wolfsheim?
+
+385
+00:44:12,001 --> 00:44:15,859
+Não. É um apostador, meu caro.
+
+386
+00:44:17,110 --> 00:44:20,864
+Determinou os resultados
+do campeonato de 1919.
+
+387
+00:44:23,575 --> 00:44:27,433
+Nunca imaginei isso.
+Pensei que tivesse acontecido.
+
+388
+00:44:27,329 --> 00:44:32,751
+- Ele aproveitou a oportunidade.
+- Porque não está preso?
+
+389
+00:44:32,751 --> 00:44:36,400
+Não conseguem pegá-lo.
+É muito astuto.
+
+390
+00:44:37,652 --> 00:44:39,424
+Ouça, eu...
+
+391
+00:44:40,675 --> 00:44:42,969
+- Eu pago.
+- Nem pense.
+
+392
+00:44:42,969 --> 00:44:45,680
+Nick! Por onde tem andado?
+
+393
+00:44:45,785 --> 00:44:48,496
+A Daisy está furiosa.
+Não telefonou.
+
+394
+00:44:48,496 --> 00:44:53,188
+- O Sr. Gatsby. O Sr. Buchanan.
+- Muito prazer.
+
+395
+00:44:53,918 --> 00:44:57,776
+Tem posses para almoçar
+com homens de negócios?
+
+396
+00:44:57,880 --> 00:45:01,530
+Vim almoçar com o Sr. Gatsby.
+
+397
+00:45:25,616 --> 00:45:27,597
+É aqui que se esconde...
+
+398
+00:45:27,806 --> 00:45:31,455
+Tenho uma coisa extraordinária
+para te contar.
+
+399
+00:45:32,811 --> 00:45:37,712
+Ele pede para convidar a Daisy a ir
+a sua casa e para o deixar ir também.
+
+400
+00:45:37,712 --> 00:45:40,318
+- Quem?
+- O Gatsby.
+
+401
+00:45:41,987 --> 00:45:45,219
+Porque não me
+pediu diretamente?
+
+402
+00:45:45,219 --> 00:45:47,305
+Acho que teve receio.
+
+403
+00:45:47,513 --> 00:45:51,267
+Esperou muito tempo. Pensou
+que você ficaria ofendido.
+
+404
+00:45:51,163 --> 00:45:54,812
+Porquê ser eu a combinar
+o encontro, e não você?
+
+405
+00:45:54,812 --> 00:45:57,106
+Quer que ela veja a casa dele.
+
+406
+00:45:57,210 --> 00:46:00,130
+- Você mora ao lado.
+- É absurdo!
+
+407
+00:46:00,130 --> 00:46:04,196
+Ele esperava que ela aparecesse
+numa das festas dele.
+
+408
+00:46:04,196 --> 00:46:06,908
+Mas ela nunca apareceu.
+
+409
+00:46:08,576 --> 00:46:11,808
+Começou então a perguntar
+às pessoas se a conheciam.
+
+410
+00:46:11,913 --> 00:46:15,249
+Eu fui a primeira
+que ele encontrou.
+
+411
+00:46:15,249 --> 00:46:20,671
+Há anos que lê os jornais,
+na esperança de ver o nome dela.
+
+412
+00:46:22,757 --> 00:46:26,093
+Com que propósito?
+
+413
+00:46:26,093 --> 00:46:30,264
+Daisy merece um
+pouco de felicidade
+
+414
+00:46:30,160 --> 00:46:34,227
+- E Daisy quer vê-lo?
+- Ela não pode saber de nada.
+
+415
+00:46:34,227 --> 00:46:37,459
+Deve apenas convidá-la
+para lanchar.
+
+416
+00:46:38,606 --> 00:46:42,047
+Mas ela quer ver o Gatsby?
+
+417
+00:46:42,985 --> 00:46:47,365
+A sua prima irá agradecê-lo,
+e agradecê-lo, e agradecê-lo...
+
+418
+00:47:01,024 --> 00:47:02,797
+Nick!
+
+419
+00:47:04,882 --> 00:47:10,304
+- A sua casa é um mar de luz.
+- É? Eu estava olhando para ela.
+
+420
+00:47:10,200 --> 00:47:12,494
+- Falei com a Miss Baker.
+- Sim?
+
+421
+00:47:12,598 --> 00:47:17,499
+Amanhã, convidarei a Daisy para
+lanchar. Que dia acha melhor?
+
+422
+00:47:17,395 --> 00:47:22,400
+E você? Não quero
+causar-lhe transtorno.
+
+423
+00:47:22,400 --> 00:47:25,632
+- Venha abrigar-se da chuva.
+- Tenho de voltar.
+
+424
+00:47:25,632 --> 00:47:30,533
+- Que?
+- E se for depois de amanhã?
+
+425
+00:47:31,367 --> 00:47:35,121
+Tenho de mandar cortar a grama.
+
+426
+00:47:35,016 --> 00:47:37,519
+- Refere-se à minha grama.
+- Sim.
+
+427
+00:47:37,623 --> 00:47:40,230
+Estão juntas.
+
+428
+00:47:41,586 --> 00:47:44,609
+- Quanto à outra coisa...
+- Qual?
+
+429
+00:47:44,609 --> 00:47:47,946
+A nossa relação de negócios.
+
+430
+00:47:47,842 --> 00:47:52,013
+Não tem de me
+pagar favores.
+
+431
+00:47:52,951 --> 00:47:55,766
+Obrigado. Boa noite, Nick.
+
+432
+00:47:56,913 --> 00:48:01,293
+Nick, meu querido!
+Estás ligando da China?
+
+433
+00:48:01,293 --> 00:48:04,734
+Ouço-te muito mal.
+
+434
+00:48:04,734 --> 00:48:08,175
+Claro que irei.
+
+435
+00:48:08,800 --> 00:48:11,720
+Não levarTom?
+
+436
+00:48:11,720 --> 00:48:13,910
+Que Tom?
+
+437
+00:48:14,014 --> 00:48:17,038
+Sim... Adeus, meu querido.
+
+438
+00:48:18,915 --> 00:48:20,270
+Obrigada.
+
+439
+00:48:27,569 --> 00:48:30,176
+- Sr. Carraway?
+- Sim.
+
+440
+00:48:30,280 --> 00:48:33,200
+Sr. Gatsby mandou-me
+cortar a grama.
+
+441
+00:48:33,304 --> 00:48:36,432
+Com certeza. À vontade.
+
+442
+00:48:43,731 --> 00:48:47,068
+- Da parte do Sr. Gatsby.
+- Eu sei.
+
+443
+00:48:47,172 --> 00:48:50,613
+- Da parte do Sr. Gatsby.
+- Entre.
+
+444
+00:49:05,524 --> 00:49:09,069
+- Está tudo como deve ser?
+- A grama está impecável.
+
+445
+00:49:09,069 --> 00:49:13,865
+Qual grama? Sim, está ótima.
+Tem tudo o que é preciso para o chá?
+
+446
+00:49:13,865 --> 00:49:16,264
+Está bem assim?
+
+447
+00:49:16,368 --> 00:49:21,477
+Sim, claro.
+Mas tomei a liberdade de...
+
+448
+00:49:22,311 --> 00:49:24,814
+Tomei a liberdade de...
+
+449
+00:49:35,241 --> 00:49:39,516
+Tomei a liberdade
+de trazer algumas coisas.
+
+450
+00:50:15,489 --> 00:50:19,035
+- Vou para casa.
+- Por que?
+
+451
+00:50:18,930 --> 00:50:22,059
+Ela não vem. É tarde.
+
+452
+00:50:22,163 --> 00:50:26,125
+Ora! Faltam cinco minutos
+para as quatro.
+
+453
+00:50:32,277 --> 00:50:34,780
+Isto é um erro.
+
+454
+00:50:36,656 --> 00:50:39,472
+É um erro enorme.
+
+455
+00:50:48,648 --> 00:50:52,297
+É aqui que mora,
+meu querido?
+
+456
+00:50:52,401 --> 00:50:54,487
+Adoro!
+
+457
+00:50:55,112 --> 00:50:57,615
+- Está apaixonado por mim?
+- Estou.
+
+458
+00:50:58,553 --> 00:51:01,890
+Foi por isso que tive
+de vir sozinha?
+
+459
+00:51:01,890 --> 00:51:05,539
+Esse é o segredo
+mais bem guardado de todos.
+
+460
+00:51:09,502 --> 00:51:12,109
+É um encanto, Nick!
+
+461
+00:51:13,151 --> 00:51:17,322
+- E que lindas flores!
+- É curioso...
+
+462
+00:51:19,408 --> 00:51:23,057
+Branco. A minha cor preferida.
+
+463
+00:51:46,622 --> 00:51:51,106
+Daisy, apresento-lhe o meu vizinho,
+Jay Gatsby.
+
+464
+00:51:51,210 --> 00:51:57,675
+- Sr. Gatsby, a minha prima, Daisy...
+- Já nos conhecemos.
+
+465
+00:52:08,206 --> 00:52:12,064
+Não nos vemos há muitos anos.
+
+466
+00:52:13,941 --> 00:52:16,444
+Faz oito anos...
+
+467
+00:52:16,548 --> 00:52:18,946
+...em Novembro.
+
+468
+00:52:35,317 --> 00:52:36,777
+Bem...
+
+469
+00:52:38,132 --> 00:52:41,156
+Tomamos um chá?
+
+470
+00:53:55,293 --> 00:53:59,463
+- Parou de chover.
+- Sim?
+
+471
+00:54:02,279 --> 00:54:07,075
+- Que acha disso?
+- Fico contente, Jay.
+
+472
+00:54:08,326 --> 00:54:13,019
+- Um chá?
+- Nick, meu querido! Sinto...
+
+473
+00:54:13,019 --> 00:54:17,607
+Sinto-me como se alguém fizesse
+anos. Vamos beber champanhe.
+
+474
+00:54:17,711 --> 00:54:21,986
+Venham os dois a minha casa.
+Quero mostrá-la à Daisy.
+
+475
+00:54:21,986 --> 00:54:25,010
+- Quer mesmo que eu vá?
+- Claro.
+
+476
+00:54:25,010 --> 00:54:28,346
+Nick, queria ir retocar-me.
+
+477
+00:54:41,276 --> 00:54:45,760
+Olhe. A minha casa
+é apresentável, não é?
+
+478
+00:54:46,594 --> 00:54:48,784
+É magnífica.
+
+479
+00:54:49,722 --> 00:54:53,580
+Comprei-a com o dinheiro
+de três anos de trabalho.
+
+480
+00:54:53,684 --> 00:54:57,125
+Não disse que o seu dinheiro
+foi herdado?
+
+481
+00:54:57,125 --> 00:55:01,296
+Disse. Mas perdi-o quase todo
+na grande crise.
+
+482
+00:55:01,296 --> 00:55:04,007
+Na crise da guerra.
+
+483
+00:55:05,780 --> 00:55:09,846
+- Qual é o seu ramo de negócio?
+- São coisas minhas.
+
+484
+00:55:09,742 --> 00:55:12,974
+Desculpe. Desculpe...
+
+485
+00:55:13,079 --> 00:55:17,145
+Tive vários negócios.
+Farmácias e petróleo...
+
+486
+00:55:17,145 --> 00:55:19,648
+Já não estou em nenhum.
+
+487
+00:55:21,212 --> 00:55:25,487
+- É aquela mansão enorme?
+- Gosta?
+
+488
+00:55:25,487 --> 00:55:30,596
+Adoro! Mas como podes
+morar ali sozinho?
+
+489
+00:55:30,596 --> 00:55:34,663
+Tenho-a sempre cheia
+de gente interessante.
+
+490
+00:55:34,663 --> 00:55:38,521
+Gente que faz coisas
+interessantes, gente famosa.
+
+491
+00:55:38,521 --> 00:55:41,128
+É linda.
+
+492
+00:55:43,004 --> 00:55:45,090
+Linda.
+
+493
+00:55:58,124 --> 00:56:00,105
+- Desculpe!
+- Ora essa.
+
+494
+00:56:00,313 --> 00:56:03,546
+Klipspringer ficou de
+uma festa que dei em Abril.
+
+495
+00:56:03,546 --> 00:56:06,883
+Só depois de duas semanas
+percebi que tinha se mudado.
+
+496
+00:56:06,987 --> 00:56:12,096
+- Interrompemos-lhe os exercícios?
+- Estava dormindo. Estava antes...
+
+497
+00:56:12,096 --> 00:56:16,058
+- Klipspringer toca piano.
+- Quase não toco...
+
+498
+00:56:16,058 --> 00:56:19,812
+Vamos até lá acima
+e ele vai tocar para nós. Sim?
+
+499
+00:56:19,812 --> 00:56:23,045
+Claro que vou tocar.
+
+500
+00:56:24,713 --> 00:56:28,884
+- Estou muito destreinado.
+- Não fale tanto e toque!
+
+501
+00:56:53,075 --> 00:56:54,639
+Jay!
+
+502
+00:56:58,392 --> 00:57:01,833
+Tantos recortes a meu respeito!
+
+503
+00:57:10,175 --> 00:57:15,701
+É uma recordação de Oxford.
+Foi tirada no pátio da universidade.
+
+504
+00:57:17,787 --> 00:57:21,019
+O da esquerda
+é agora o Conde de Doncaster.
+
+505
+00:57:21,123 --> 00:57:22,792
+Sim?
+
+506
+00:57:24,252 --> 00:57:26,963
+Confirme com o Wolfsheim.
+
+507
+00:57:27,067 --> 00:57:29,986
+Faça isso. Agora não posso falar.
+
+508
+00:57:35,304 --> 00:57:38,224
+- Aqui está, meu caro.
+- Obrigado.
+
+509
+00:57:40,205 --> 00:57:43,125
+Venham aqui, depressa!
+
+510
+00:57:50,215 --> 00:57:52,613
+Olha.
+
+511
+00:57:52,613 --> 00:57:58,661
+Eu o poria numa daquelas nuvens
+cor-de-rosa e o empurraria.
+
+512
+00:58:04,083 --> 00:58:07,420
+Tenho uma pessoa em Londres
+que me compra a roupa toda.
+
+513
+00:58:12,008 --> 00:58:15,344
+Faz uma escolha
+no início de cada estação.
+
+514
+00:58:16,178 --> 00:58:18,785
+Primavera e Outono.
+
+515
+00:58:45,791 --> 00:58:50,067
+São as camisas mais bonitas
+que eu já vi!
+
+516
+00:59:45,122 --> 00:59:49,084
+- É uma péssima motorista.
+- Não batemos, não é?
+
+517
+00:59:50,127 --> 00:59:52,421
+- Olá, Sr. Wilson.
+- Como está?
+
+518
+00:59:52,525 --> 00:59:54,297
+Encha o tanque.
+
+519
+00:59:56,487 --> 00:59:59,824
+Devia ter mais cuidado
+ou nem sequer guiar.
+
+520
+00:59:59,824 --> 01:00:03,786
+Os outros que tenham cuidado.
+São precisos dois para uma colisão.
+
+521
+01:00:03,890 --> 01:00:06,914
+E se cruzar com alguém
+descuidado como você?
+
+522
+01:00:07,018 --> 01:00:13,066
+Tomara que não. Odeio gente descuidada.
+É por isso que gosto de você.
+
+523
+01:00:12,962 --> 01:00:15,360
+40 centavos, por favor.
+
+524
+01:00:16,924 --> 01:00:19,322
+Muito obrigado.
+
+525
+01:00:26,830 --> 01:00:28,811
+Myrtle?
+
+526
+01:01:20,634 --> 01:01:24,492
+- Lembra-se?
+- Sim.
+
+527
+01:01:24,596 --> 01:01:28,454
+Quando era impossível
+ficar uma hora a sós contigo.
+
+528
+01:01:28,454 --> 01:01:31,269
+- Os meus pais...
+- Não.
+
+529
+01:01:33,563 --> 01:01:36,691
+Outros oficiais
+
+530
+01:01:36,691 --> 01:01:42,009
+indo à sua mansão,
+buzinando, te chamando.
+
+531
+01:01:44,720 --> 01:01:48,578
+Lembro-me de um num porsche,
+
+532
+01:01:48,474 --> 01:01:53,271
+à espera, numa escuridão
+que nem se via o seu rosto.
+
+533
+01:01:53,166 --> 01:01:55,565
+Eles não me interessavam.
+
+534
+01:01:55,669 --> 01:01:59,005
+Uma hora do seu tempo,
+longe dos outros.
+
+535
+01:01:59,005 --> 01:02:02,029
+Tem agora, Jay.
+
+536
+01:02:01,925 --> 01:02:05,887
+Tantos oficiais...
+Como se chamavam eles?
+
+537
+01:02:05,992 --> 01:02:08,703
+Lembra dos nomes?
+
+538
+01:02:09,641 --> 01:02:14,020
+Lembro-me de parte dos nomes.
+Dos rostos, não.
+
+539
+01:02:15,063 --> 01:02:17,879
+Rapazes idiotas.
+
+540
+01:02:17,983 --> 01:02:23,196
+Idiotas, por se deixarem conquistar
+por uma garota de 18 anos.
+
+541
+01:02:23,092 --> 01:02:24,552
+Sentimentais.
+
+542
+01:02:29,348 --> 01:02:32,476
+Você nunca foi sentimental, Jay.
+
+543
+01:02:36,126 --> 01:02:41,548
+Não acredito! Está aqui
+tudo o que me aconteceu na vida!
+
+544
+01:02:41,444 --> 01:02:44,780
+Fui juntando. O seu debute
+depois do Armistício,
+
+545
+01:02:44,885 --> 01:02:48,326
+fotografias suas em belos carros,
+
+546
+01:02:48,326 --> 01:02:51,037
+todos os bailes a que foi...
+
+547
+01:02:52,496 --> 01:02:56,042
+Tantos sapatos que eu gastei!
+
+548
+01:02:58,648 --> 01:03:01,568
+Venha sentar-se
+ao meu lado, Jay.
+
+549
+01:03:03,445 --> 01:03:04,905
+Sim.
+
+550
+01:03:05,113 --> 01:03:10,014
+Porque se afasta tanto
+de mim, sempre?
+
+551
+01:03:12,516 --> 01:03:15,645
+É... difícil pra  mim
+
+552
+01:03:16,374 --> 01:03:19,086
+Estar perto de mim?
+
+553
+01:03:20,128 --> 01:03:25,655
+Passou muito tempo
+desde a última vez que te vi.
+
+554
+01:03:55,059 --> 01:03:58,813
+Gostaria que ainda tivesse
+o seu uniforme.
+
+555
+01:03:58,917 --> 01:04:04,965
+Eu poria o mesmo vestido de quando
+você era o meu admirador preferido.
+
+556
+01:04:04,756 --> 01:04:10,700
+Dançaríamos aqui mesmo, no salão
+desta sua casa absurda.
+
+557
+01:04:14,870 --> 01:04:18,624
+Meu terno e jovem
+tenente Jay Gatsby!
+
+558
+01:04:18,729 --> 01:04:21,961
+Ainda tenho o meu uniforme.
+
+559
+01:04:24,359 --> 01:04:27,800
+Então, é um sentimental.
+
+560
+01:05:10,864 --> 01:05:14,201
+E Tom? Amava-o?
+
+561
+01:05:14,305 --> 01:05:16,599
+- Tom?
+- O seu marido.
+
+562
+01:05:16,703 --> 01:05:19,936
+- Sei a quem se refere.
+- Porque casou com Tom?
+
+563
+01:05:19,936 --> 01:05:22,751
+Não quero falar do Tom!
+
+564
+01:05:23,794 --> 01:05:26,609
+Nem do meu casamento.
+
+565
+01:05:27,652 --> 01:05:31,822
+Entristece-me.
+E eu quero ficar feliz.
+
+566
+01:05:38,287 --> 01:05:43,501
+- Você gostava de me fazer feliz.
+- Não o amava?
+
+567
+01:05:47,046 --> 01:05:49,653
+Foi bom para você, não foi?
+
+568
+01:05:49,757 --> 01:05:53,928
+Entrou na minha vida,
+andou no meu carro branco,
+
+569
+01:05:54,032 --> 01:05:58,829
+no seu uniforme romântico que
+escondia quem você era e de onde vinha,
+
+570
+01:05:58,829 --> 01:06:02,582
+partiu meu coração
+com o seu amor impossível
+
+571
+01:06:02,582 --> 01:06:04,981
+e partiu para a sua aventura...
+
+572
+01:06:05,085 --> 01:06:09,464
+Eu disse que voltaria para você,
+na minha carta.
+
+573
+01:06:09,464 --> 01:06:11,967
+Você prometeu esperar.
+
+574
+01:06:13,427 --> 01:06:15,929
+Esperei tanto!
+
+575
+01:06:19,474 --> 01:06:22,602
+Nos aproximamos tanto..,
+
+576
+01:06:22,602 --> 01:06:25,418
+naquele mês de amor.
+
+577
+01:06:28,233 --> 01:06:31,257
+Porque casou com ele?
+
+578
+01:06:40,590 --> 01:06:47,055
+Sr. Tom Buchanan, filho do Sr. Tom
+Buchanan, de Chicago, Illinois,
+
+579
+01:06:46,951 --> 01:06:49,453
+surgiu na minha vida
+
+580
+01:06:49,557 --> 01:06:53,207
+com uma pompa e circunstância
+nunca vistas em Louisville.
+
+581
+01:06:53,207 --> 01:06:57,586
+Chegou com cem pessoas em quatro
+carruagens de vagões particulares.
+
+582
+01:06:57,691 --> 01:07:02,383
+Ocupou um andar inteiro
+do Hotel Muhlbach.
+
+583
+01:07:02,383 --> 01:07:05,302
+Ele deixou-me completamente
+deslumbrada
+
+584
+01:07:06,971 --> 01:07:10,203
+Ofereceu-a um colar de pérolas
+
+585
+01:07:10,203 --> 01:07:13,331
+avaliado em 350.000 dólares.
+
+586
+01:07:15,521 --> 01:07:18,858
+Foi Jordan Baker quem te disse,
+não foi?
+
+587
+01:07:18,962 --> 01:07:21,047
+Traidora!
+
+588
+01:07:22,090 --> 01:07:24,488
+Que mais ela te disse?
+
+589
+01:07:24,488 --> 01:07:27,721
+Contou como me encontrou
+nessa noite?
+
+590
+01:07:27,722 --> 01:07:30,641
+No meu quarto, ébria,
+
+591
+01:07:30,641 --> 01:07:35,751
+com uma garrafa de Sauternes
+numa mão e...
+
+592
+01:07:37,210 --> 01:07:39,921
+E a minha carta na outra.
+
+593
+01:07:40,026 --> 01:07:45,343
+"É a primeira vez que bebo,"
+disse eu, "mas estou gostando."
+
+594
+01:07:45,239 --> 01:07:50,453
+Fui buscar o colar de pérolas caríssimo
+no cesto dos papéis e disse:
+
+595
+01:07:50,453 --> 01:07:56,083
+"Querida, devolva-o àquele tal
+de Chicago a quem ele pertence"
+
+596
+01:07:56,083 --> 01:08:01,193
+"e diga-lhe, e aos outros todos,
+que Daisy mudou de idéia."
+
+597
+01:08:04,112 --> 01:08:06,302
+Daisy mudou de idéia!
+
+598
+01:08:06,406 --> 01:08:12,037
+No dia seguinte, casou com Tom
+Buchanan, sem hesitar sequer.
+
+599
+01:08:13,914 --> 01:08:16,416
+Sabe o que a Jordan fez?
+
+600
+01:08:16,416 --> 01:08:20,587
+Encheu a banheira de água fria
+e meteu-me lá dentro, vestida.
+
+601
+01:08:20,691 --> 01:08:24,862
+Eu não parava de chorar,
+mas não largava a carta.
+
+602
+01:08:24,862 --> 01:08:28,303
+Agarrei-me a ela
+com todas as forças.
+
+603
+01:08:28,303 --> 01:08:32,995
+Até que se desfez na água.
+
+604
+01:08:33,829 --> 01:08:36,540
+Derreteu-se como neve.
+
+605
+01:08:49,887 --> 01:08:54,267
+Porque não esperou por mim?
+
+606
+01:08:56,562 --> 01:08:58,751
+Porque...
+
+607
+01:09:00,628 --> 01:09:05,008
+...as meninas ricas não se casam
+com rapazes pobres, Jay Gatsby.
+
+608
+01:09:06,467 --> 01:09:08,240
+Não sabia?
+
+609
+01:09:09,804 --> 01:09:13,245
+As meninas ricas
+não se casam com rapazes pobres!
+
+610
+01:09:41,294 --> 01:09:45,256
+Os Chester Beckers vieram.
+
+611
+01:09:45,152 --> 01:09:47,654
+E os Leeches.
+
+612
+01:09:47,759 --> 01:09:50,991
+Aquele lá é Bunsen.
+Conheci-o em Yale.
+
+613
+01:09:51,095 --> 01:09:53,285
+Como vai?
+
+614
+01:09:53,389 --> 01:09:55,683
+Tratava-o com desprezo.
+
+615
+01:09:55,787 --> 01:09:58,707
+Os Hornbeams. Willie Voltaire.
+Como tem passado?
+
+616
+01:09:58,707 --> 01:10:01,001
+Muito prazer.
+
+617
+01:10:10,281 --> 01:10:12,367
+Obrigado.
+
+618
+01:10:14,452 --> 01:10:17,997
+Céus, olhem!
+O clã Blackbuck, ali ao canto.
+
+619
+01:10:18,101 --> 01:10:22,585
+- Com um ar superior.
+- East Egg está presente em peso.
+
+620
+01:10:22,585 --> 01:10:24,775
+- Olá.
+- Ismays, como vai?
+
+621
+01:10:24,880 --> 01:10:28,217
+Sr. Chrystie, como tem passado?
+Prazer em vê-lo.
+
+622
+01:10:28,217 --> 01:10:32,909
+A minha mulher, Daisy. Jordan
+Baker. O Sr. e a Sra. Chrystie.
+
+623
+01:10:40,208 --> 01:10:42,606
+E os Hammerheads.
+
+624
+01:10:42,710 --> 01:10:48,133
+- Beluga, o importador de tabaco.
+- E as meninas dele.
+
+625
+01:10:48,028 --> 01:10:50,739
+É um grupo heterogêneo.
+
+626
+01:10:50,739 --> 01:10:54,076
+Gente de West Egg.
+Reconheço alguns.
+
+627
+01:10:54,076 --> 01:10:56,057
+A Sra. Pole.
+
+628
+01:10:57,204 --> 01:11:01,166
+O casal Mulready, atrás dela.
+
+629
+01:11:01,271 --> 01:11:05,754
+Querida, olhe, é Cecil Roebuck.
+
+630
+01:11:05,650 --> 01:11:11,385
+Cecil Schoen, lá.
+O de terno azul é o Senador Gulick.
+
+631
+01:11:11,385 --> 01:11:15,139
+G. Earl Muldoon, irmão
+do que estrangulou a mulher.
+
+632
+01:11:15,139 --> 01:11:20,248
+James B. "Fígado" Ferret.
+E o jovem Nick Carraway!
+
+633
+01:11:20,248 --> 01:11:24,315
+Tem andado muito
+na companhia de Gatsby.
+
+634
+01:11:25,253 --> 01:11:28,902
+- Como tens passado, Nick?
+- Bem.
+
+635
+01:11:28,902 --> 01:11:32,448
+- É um prazer vê-lo.
+- Daisy, está linda.
+
+636
+01:11:32,552 --> 01:11:34,429
+- Você também, Jordan.
+- E eu?
+
+637
+01:11:34,533 --> 01:11:38,808
+- Vou fugir para África com o Nick.
+- Mas que ótimo!
+
+638
+01:11:38,704 --> 01:11:45,064
+Estas coisas me excitam tanto!
+Se quiser me beijar, eu dou um jeito.
+
+639
+01:11:44,960 --> 01:11:49,340
+Diga o meu nome
+ou mostre um cartão...
+
+640
+01:11:52,364 --> 01:11:56,014
+Jay Gatsby, mas que prazer vê-lo!
+
+641
+01:11:58,099 --> 01:12:03,626
+- Acho que já nos encontramos.
+- Certo. Lembro-me perfeitamente.
+
+642
+01:12:03,521 --> 01:12:06,441
+Há cerca de três semanas.
+
+643
+01:12:06,545 --> 01:12:08,735
+Certo. Estava com o Nick.
+
+644
+01:12:08,839 --> 01:12:12,072
+Devem ter conhecidos
+seus por aqui.
+
+645
+01:12:12,176 --> 01:12:16,451
+- Sim.
+- Na verdade não conhecemos ninguém.
+
+646
+01:12:16,347 --> 01:12:19,371
+- O Senador Evans. A Sra. Buchanan.
+- Muito prazer.
+
+647
+01:12:19,475 --> 01:12:23,229
+- O Sr. Buchanan, o jogador de pólo.
+- Muito prazer.
+
+648
+01:12:23,124 --> 01:12:27,295
+- Coronel...
+- Nunca vi tantas celebridades!
+
+649
+01:12:27,399 --> 01:12:30,736
+Gosto daquele homem
+de nariz azulado.
+
+650
+01:12:30,736 --> 01:12:36,471
+- É um produtor sem importância
+- Seja como for, gosto dele.
+
+651
+01:12:36,367 --> 01:12:39,286
+Preferia não ser
+"o jogador de pólo".
+
+652
+01:12:39,391 --> 01:12:44,604
+Ele gostaria mais de olhar
+sem ser visto
+
+653
+01:12:52,216 --> 01:12:55,553
+São de um novo espetáculo
+da Broadway.
+
+654
+01:13:02,330 --> 01:13:07,231
+Vamos. Se quiser me dar um endereço,
+tem aqui o meu lápis.
+
+655
+01:13:07,127 --> 01:13:10,672
+- Daisy!
+- Eu dou autorização.
+
+656
+01:13:10,776 --> 01:13:13,592
+Jordan será
+sua acompanhante.
+
+657
+01:13:34,864 --> 01:13:39,660
+Fique atento, em caso de incêndio,
+inundação ou outros desastres...
+
+658
+01:13:39,660 --> 01:13:41,746
+Beije-me.
+
+659
+01:14:23,663 --> 01:14:25,852
+Olá, Buchanan.
+
+660
+01:14:26,374 --> 01:14:31,587
+O meu cabelo! O meu cabelo!
+
+661
+01:15:51,043 --> 01:15:54,901
+- Viu Daisy?
+- Não.
+
+662
+01:15:54,901 --> 01:16:01,887
+- Segundo a Jordan, estava contigo.
+- Estava com Gatsby e com outros.
+
+663
+01:16:01,783 --> 01:16:05,745
+Quem é este Gatsby?
+Um grande traficante de álcool?
+
+664
+01:16:05,745 --> 01:16:09,916
+- Parece que é parente do Kaiser.
+- Nick...
+
+665
+01:16:11,584 --> 01:16:14,087
+Deve ser um traficante de álcool.
+
+666
+01:16:14,191 --> 01:16:17,840
+É o que são muitos
+destes novos-ricos.
+
+667
+01:16:17,736 --> 01:16:20,030
+O Gatsby, não.
+
+668
+01:16:20,135 --> 01:16:23,889
+Não poupou esforços
+para juntar esta gente toda.
+
+669
+01:16:23,889 --> 01:16:27,330
+- Ao menso são mais interessantes.
+- Onde estava?
+
+670
+01:16:27,330 --> 01:16:32,544
+- Lá em cima, dançando.
+- Nem pergunto com quem.
+
+671
+01:16:32,544 --> 01:16:37,757
+- Não foi com Beluga, o do tabaco.
+- Me dê aqui.
+
+672
+01:16:38,904 --> 01:16:42,762
+- Onde ele está?
+- "Sem camisa, sem camisa..."
+
+673
+01:16:42,658 --> 01:16:47,142
+- Quem? O Beluga?
+- Não. O Gatsby.
+
+674
+01:16:47,142 --> 01:16:50,478
+- Foi atender um telefonema.
+- Sim?
+
+675
+01:16:50,478 --> 01:16:54,649
+Quero saber quem ele é e o que faz.
+Entre no carro, já.
+
+676
+01:16:54,649 --> 01:16:56,839
+- Já.
+- Já, Daisy.
+
+677
+01:16:56,943 --> 01:17:02,052
+Eu te digo o que ele faz. É dono
+de uma cadeia de farmácias.
+
+678
+01:17:01,948 --> 01:17:05,076
+- Construídas por ele.
+- Entre no carro.
+
+679
+01:17:05,180 --> 01:17:07,996
+Daisy, entre!
+
+680
+01:17:08,100 --> 01:17:11,645
+- Boa noite, Nick.
+- Boa noite.
+
+681
+01:17:11,541 --> 01:17:14,252
+Adeus, Nick. Entre.
+
+682
+01:17:16,546 --> 01:17:19,361
+"Sem camisa, sem camisa...!"
+
+683
+01:18:08,995 --> 01:18:11,811
+Obrigado por ter ficado, Nick.
+
+684
+01:18:18,797 --> 01:18:22,550
+- Ela não gostou.
+- Claro que gostou.
+
+685
+01:18:22,446 --> 01:18:25,262
+Não se divertiu.
+
+686
+01:18:29,120 --> 01:18:35,063
+Vou resolver tudo. As coisas
+ficarão como antes. Ela vai ver.
+
+687
+01:18:38,191 --> 01:18:41,215
+Não podemos reproduzir o passado.
+
+688
+01:18:43,717 --> 01:18:46,533
+Não podemos reproduzir o passado?
+
+689
+01:18:48,305 --> 01:18:50,912
+Claro que podemos!
+
+690
+01:19:10,202 --> 01:19:13,330
+Descubra de onde
+lhe vem o dinheiro.
+
+691
+01:19:15,312 --> 01:19:17,814
+A que clube pertence.
+
+692
+01:19:17,919 --> 01:19:21,569
+Quem são os pais dele,
+e onde moram.
+
+693
+01:19:23,029 --> 01:19:25,427
+E as mulheres.
+
+694
+01:19:26,991 --> 01:19:29,806
+Quero saber tudo
+a respeito das mulheres dele.
+
+695
+01:20:19,439 --> 01:20:22,776
+- Vista o uniforme.
+- É uma tolice.
+
+696
+01:20:22,880 --> 01:20:26,113
+Ótimo! Vamos ser tolos.
+
+697
+01:20:26,217 --> 01:20:31,847
+Vista o uniforme. Apagamos as luzes,
+só fica uma vela acesa,
+
+698
+01:20:31,743 --> 01:20:34,976
+e poderá dizer que me ama.
+
+699
+01:21:26,591 --> 01:21:30,240
+<i>Lembra-se daquela noite?</i>
+
+700
+01:21:32,951 --> 01:21:35,662
+<i>Daquela noite serena de Outono.</i>
+
+701
+01:21:43,170 --> 01:21:46,298
+<i>Desde então,
+senti que estava casado contigo.</i>
+
+702
+01:21:47,341 --> 01:21:49,739
+<i>Sabia que, se pudesse beija-la...</i>
+
+703
+01:21:53,180 --> 01:21:55,474
+<i>Se pudesse beija-la...</i>
+
+704
+01:21:55,995 --> 01:21:58,602
+<i>Te amo, Jay.</i>
+
+705
+01:23:07,839 --> 01:23:13,261
+Sabe que comprei esta casa porque
+você estava do outro lado da baía?
+
+706
+01:23:15,034 --> 01:23:18,475
+Cale-se.
+Vou chorar de novo.
+
+707
+01:23:35,262 --> 01:23:37,452
+Oh, Jay!
+
+708
+01:23:39,537 --> 01:23:43,082
+É a cor da luz do teu cais.
+
+709
+01:23:47,359 --> 01:23:51,112
+Sabe que não poderei usá-lo.
+
+710
+01:23:52,364 --> 01:23:54,970
+Use-o você por mim.
+
+711
+01:24:07,066 --> 01:24:10,820
+- Te amarei para sempre.
+- Beije-me.
+
+712
+01:24:21,247 --> 01:24:24,271
+Seja o meu amante.
+
+713
+01:24:24,271 --> 01:24:28,441
+- Sempre.
+- Serei o seu marido.
+
+714
+01:24:28,546 --> 01:24:31,465
+Marido e amante.
+
+715
+01:25:02,538 --> 01:25:06,605
+Olá. Sou do
+New York Journal.
+
+716
+01:25:09,733 --> 01:25:14,738
+Queria fazer-lhe umas perguntas
+a respeito do seu vizinho.
+
+717
+01:25:15,469 --> 01:25:19,848
+- O Sr. Gatsby.
+- Que tipo de perguntas?
+
+718
+01:25:19,848 --> 01:25:26,000
+Será que notou
+alguma coisa interessante?
+
+719
+01:25:26,000 --> 01:25:27,460
+Não.
+
+720
+01:25:27,564 --> 01:25:31,318
+O nome dele tem vindo
+a mim recentemente.
+
+721
+01:25:31,422 --> 01:25:35,593
+Parece que ele e Meyer Wolfsheim,
+não sei se conhece,
+
+722
+01:25:35,593 --> 01:25:38,512
+estão planejando
+algo grande.
+
+723
+01:25:39,451 --> 01:25:44,352
+- Não sei do que está falando.
+- Isto não é oficial. Estou de folga.
+
+724
+01:25:44,247 --> 01:25:48,210
+Gosto de vir aqui de vez em quando,
+nos meus dias de folga.
+
+725
+01:25:50,504 --> 01:25:54,153
+Se quer informações,
+fale com o Sr. Gatsby.
+
+726
+01:26:08,125 --> 01:26:11,983
+<i>Quando a curiosidade em relação
+ao Gatsby estava no auge,</i>
+
+727
+01:26:11,983 --> 01:26:15,841
+<i>a casa dele não se iluminou,
+num sábado à noite.</i>
+
+728
+01:26:43,996 --> 01:26:47,437
+Vai fechar a casa?
+
+729
+01:26:47,541 --> 01:26:49,313
+Não.
+
+730
+01:26:49,313 --> 01:26:53,276
+Ouvi dizer que despediu o pessoal.
+
+731
+01:26:53,276 --> 01:26:59,115
+A Daisy vem aqui muitas vezes, à tarde.
+Não quero dar espaço à fofocas.
+
+732
+01:26:59,011 --> 01:27:02,139
+Parece atraí-los.
+
+733
+01:27:03,911 --> 01:27:07,144
+Dizem que matou um homem.
+
+734
+01:27:09,959 --> 01:27:12,566
+Só um?
+
+735
+01:27:39,572 --> 01:27:41,657
+E você?
+
+736
+01:27:43,430 --> 01:27:48,227
+- Alguma vez amou outra?
+- Não.
+
+737
+01:27:48,227 --> 01:27:52,606
+Claro que não poderia amar
+outra que não eu.
+
+738
+01:27:54,691 --> 01:27:58,028
+Adoro o modo
+como me ama.
+
+739
+01:28:25,661 --> 01:28:31,187
+Não quero que volte para ele.
+Quero contar a ele.
+
+740
+01:28:34,107 --> 01:28:36,714
+Contaremos.
+
+741
+01:28:36,714 --> 01:28:39,008
+Prometo.
+
+742
+01:28:39,112 --> 01:28:41,302
+Contaremos.
+
+743
+01:28:44,221 --> 01:28:45,577
+Em breve.
+
+744
+01:28:47,766 --> 01:28:50,790
+Li em algum lugar
+
+745
+01:28:50,790 --> 01:28:53,397
+que o Sol está cada
+vez mais quente.
+
+746
+01:28:55,587 --> 01:29:00,592
+Parece que a Terra
+vai colidir com o Sol.
+
+747
+01:29:01,739 --> 01:29:04,971
+Na verdade,
+é precisamente o contrário.
+
+748
+01:29:04,867 --> 01:29:09,038
+O Sol está cada vez mais frio.
+
+749
+01:29:09,142 --> 01:29:12,791
+Desculpe.
+É o Sr. Davis Goff ao telefone.
+
+750
+01:29:17,066 --> 01:29:19,048
+Dêem-me licença.
+
+751
+01:29:35,522 --> 01:29:37,608
+Sabe que te amo.
+
+752
+01:29:37,712 --> 01:29:40,632
+Se esquece de que está
+uma senhora na sala.
+
+753
+01:29:41,988 --> 01:29:46,993
+- Beije o Nick.
+- Que garota ordinária!
+
+754
+01:29:46,993 --> 01:29:49,391
+Não quero saber.
+
+755
+01:29:53,771 --> 01:29:55,648
+Mamãe!
+
+756
+01:29:57,108 --> 01:30:03,155
+Meu querido anjo!
+Vem pra mamãe, que te adora!
+
+757
+01:30:03,885 --> 01:30:07,639
+Diga, "Como está?"
+
+758
+01:30:07,639 --> 01:30:09,829
+Como está?
+
+759
+01:30:10,663 --> 01:30:13,999
+Diga, "Como está?"
+
+760
+01:30:21,715 --> 01:30:23,384
+Como está?
+
+761
+01:30:23,488 --> 01:30:29,223
+Está linda! Lindíssima!
+
+762
+01:30:29,223 --> 01:30:33,498
+A tia Jordan também
+tem um vestido azul.
+
+763
+01:30:35,062 --> 01:30:39,859
+Gosta dos amigos da mamãe?
+Acha-os bonitos?
+
+764
+01:30:39,859 --> 01:30:41,944
+Onde está o papai?
+
+765
+01:30:42,882 --> 01:30:46,323
+Ela não se parece com o pai,
+parece-se comigo.
+
+766
+01:30:46,428 --> 01:30:51,120
+Tem o meu cabelo,
+e o feitio do rosto.
+
+767
+01:30:54,665 --> 01:30:56,855
+Anda, Pammy.
+
+768
+01:30:57,063 --> 01:31:00,087
+- Adeus, querida.
+- Adeus, mamãe.
+
+769
+01:31:09,367 --> 01:31:13,017
+- Papai!
+- Como está a minha queridinha?
+
+770
+01:31:13,018 --> 01:31:15,312
+Conheci os amigos da mamãe.
+
+771
+01:31:15,416 --> 01:31:21,151
+Linda menina.
+Vamos. Até logo.
+
+772
+01:31:30,535 --> 01:31:32,621
+Bem...
+
+773
+01:31:33,768 --> 01:31:37,417
+Que fazemos, hoje à tarde?
+
+774
+01:31:37,521 --> 01:31:43,152
+E amanhã?
+E nos próximos 30 anos?
+
+775
+01:31:43,152 --> 01:31:48,053
+Não seja mórbida. A vida recomeça
+com o frescor do Outono.
+
+776
+01:31:47,949 --> 01:31:51,807
+Mas está tão quente,
+e é tudo tão confuso!
+
+777
+01:31:51,807 --> 01:31:55,873
+- Vamos todos à cidade.
+- É uma idéia.
+
+778
+01:31:58,167 --> 01:32:00,253
+Tens um ar tão sereno!
+
+779
+01:32:00,357 --> 01:32:04,319
+Tens sempre esse
+ar sereno.
+
+780
+01:32:05,675 --> 01:32:10,158
+Parece aquele anúncio
+do homem que...
+
+781
+01:32:10,263 --> 01:32:12,661
+Está bem.
+
+782
+01:32:12,661 --> 01:32:16,310
+Estou disposto a ir à cidade.
+
+783
+01:32:17,353 --> 01:32:20,273
+E se fôssemos todos à cidade?
+
+784
+01:32:23,714 --> 01:32:26,842
+Se queremos ir, vamos andando.
+
+785
+01:32:26,842 --> 01:32:31,325
+Vamos nos divertir! Está
+muito quente para discutir.
+
+786
+01:32:50,721 --> 01:32:54,162
+Não entendo
+esta ideia de ir à cidade.
+
+787
+01:32:58,541 --> 01:33:00,939
+Mulheres!
+
+788
+01:33:01,044 --> 01:33:06,466
+- Quando metem algo na cabeça...
+- Levamos algo para beber?
+
+789
+01:33:07,300 --> 01:33:09,907
+Vou buscar whisky.
+
+790
+01:33:23,462 --> 01:33:27,216
+Não posso dizer seja o
+que for na casa dele.
+
+791
+01:33:30,031 --> 01:33:32,950
+Ela tem uma voz indiscreta.
+
+792
+01:33:36,496 --> 01:33:40,354
+- Uma voz...
+- Uma voz...
+
+793
+01:33:40,458 --> 01:33:43,169
+Uma voz em que se
+sente o dinheiro.
+
+794
+01:33:44,837 --> 01:33:46,818
+Jay Gatsby!
+
+795
+01:34:01,208 --> 01:34:05,796
+- Vamos no meu carro?
+- O câmbio é normal?
+
+796
+01:34:07,777 --> 01:34:09,445
+É.
+
+797
+01:34:09,655 --> 01:34:13,617
+E se eu for no seu carro
+e você for no meu?
+
+798
+01:34:13,617 --> 01:34:16,641
+- Tem pouca gasolina.
+- É o suficiente.
+
+799
+01:34:16,745 --> 01:34:22,272
+E, caso acabe, podemos parar
+numa farmácia. Vendem de tudo.
+
+800
+01:34:22,272 --> 01:34:25,296
+Daisy, venha comigo
+neste carrão.
+
+801
+01:34:25,296 --> 01:34:30,405
+Vá com o Nick e com a Jordan.
+Nós te seguimos.
+
+802
+01:34:32,803 --> 01:34:35,723
+- Viu?
+- O quê?
+
+803
+01:34:35,827 --> 01:34:38,955
+Mandei investiga-lo.
+
+804
+01:34:39,059 --> 01:34:42,604
+- E descobriu que estudou em Oxford.
+- Oxford, uma ova!
+
+805
+01:34:42,604 --> 01:34:47,505
+- Usa um terno cor-de-rosa!
+- Mesmo assim, estudou em Oxford.
+
+806
+01:34:47,505 --> 01:34:50,112
+Oxford, Novo México!
+
+807
+01:34:52,510 --> 01:34:54,074
+Ou coisa parecida.
+
+808
+01:35:23,791 --> 01:35:27,024
+Queremos gasolina.
+
+809
+01:35:27,024 --> 01:35:31,195
+Estou mal. Passei o dia mal.
+
+810
+01:35:31,195 --> 01:35:34,323
+Tenho que fazer eu mesmo?
+
+811
+01:36:00,496 --> 01:36:02,686
+Desculpe.
+
+812
+01:36:07,065 --> 01:36:12,279
+Sr. Buchanan, quando poderei contar
+com o seu carro azul?
+
+813
+01:36:12,279 --> 01:36:16,449
+Gosta deste?
+Comprei-o na semana passada.
+
+814
+01:36:16,449 --> 01:36:21,454
+- É um amarelo bonito.
+- Gostaria de o comprar?
+
+815
+01:36:22,706 --> 01:36:28,232
+Seria ótimo! Não.
+Mas o outro me agradava mais.
+
+816
+01:36:28,128 --> 01:36:31,881
+Estou precisando muito de dinheiro.
+
+817
+01:36:31,881 --> 01:36:37,408
+- Vou partir com a minha mulher.
+- A sua mulher quer partir?
+
+818
+01:36:42,309 --> 01:36:48,043
+Descobri uma coisa, nos últimos dias.
+
+819
+01:36:48,043 --> 01:36:52,840
+É por isso que quero ir embora.
+
+820
+01:36:52,840 --> 01:36:55,968
+É por isso que insisto
+quanto ao carro.
+
+821
+01:36:56,072 --> 01:36:59,930
+Chega de gasolina.
+Quanto lhe devo?
+
+822
+01:37:01,077 --> 01:37:03,163
+1 dólar e 20.
+
+823
+01:37:07,335 --> 01:37:12,757
+Vendo-lhe o carro.
+Estará aqui amanhã à tarde.
+
+824
+01:37:59,991 --> 01:38:04,058
+Adoro Nova lorque
+nas tardes desertas de Verão.
+
+825
+01:38:04,058 --> 01:38:06,248
+Tem algo de sensual,
+
+826
+01:38:06,352 --> 01:38:11,983
+maduro, como se inúmeros frutos
+exóticos nos viessem parar às mãos.
+
+827
+01:38:11,983 --> 01:38:15,111
+- Aonde vamos?
+- Que tal ao cinema?
+
+828
+01:38:15,111 --> 01:38:19,073
+Está muito quente! Vão vocês.
+Nós vamos passear de carro.
+
+829
+01:38:19,073 --> 01:38:23,974
+Encontramo-nos numa esquina. Eu
+serei o homem fumando dois cigarros.
+
+830
+01:38:23,869 --> 01:38:28,457
+Não podemos debater isso aqui.
+Sigam-me até ao Hotel Plaza.
+
+831
+01:38:28,457 --> 01:38:33,254
+Pedimos cinco suítes
+e tomamos banhos gelados!
+
+832
+01:38:48,270 --> 01:38:50,772
+Céus!
+
+833
+01:38:50,772 --> 01:38:53,692
+Abram outra janela!
+
+834
+01:38:56,195 --> 01:39:00,157
+- Não há mais.
+- Então peçam um machado!
+
+835
+01:39:00,261 --> 01:39:03,493
+O melhor a fazer
+é esquecermos o calor.
+
+836
+01:39:03,493 --> 01:39:06,309
+Não adianta nos queixarmos.
+
+837
+01:39:06,413 --> 01:39:11,731
+Não implique com ela, meu caro.
+Você quis vir à cidade.
+
+838
+01:39:11,731 --> 01:39:16,006
+- Bela expressão, essa.
+- Qual?
+
+839
+01:39:16,006 --> 01:39:19,551
+A tal "meu caro".
+Onde a aprendeu?
+
+840
+01:39:19,655 --> 01:39:24,556
+Tom, se vai fazer observações
+pessoais, vou já embora.
+
+841
+01:39:25,390 --> 01:39:29,040
+Imaginem o que é
+casar com este calor.
+
+842
+01:39:29,040 --> 01:39:31,230
+Eu casei-me em Junho.
+
+843
+01:39:33,106 --> 01:39:36,964
+Sr. Gatsby,
+sei que se formou em Oxford.
+
+844
+01:39:39,988 --> 01:39:42,804
+Não propriamente.
+
+845
+01:39:43,742 --> 01:39:49,268
+- Sei que frequentou Oxford.
+- Sim, frequentei.
+
+846
+01:39:54,482 --> 01:39:58,757
+Deram essa oportunidade aos
+oficiais, após o Armistício.
+
+847
+01:39:58,653 --> 01:40:00,947
+Esteve na guerra?
+
+848
+01:40:02,511 --> 01:40:04,909
+Não, não estive.
+
+849
+01:40:09,602 --> 01:40:13,460
+Que tipo de discussão
+está querendo provocar?
+
+850
+01:40:13,460 --> 01:40:19,717
+Você é que está provocando!
+Por favor, controle-se.
+
+851
+01:40:19,612 --> 01:40:22,011
+Controle?
+
+852
+01:40:22,115 --> 01:40:24,722
+Me controlar?
+
+853
+01:40:24,722 --> 01:40:28,788
+A moda, agora, deve ser
+ficar calmo e descontraído
+
+854
+01:40:28,788 --> 01:40:33,689
+a ver um zé-ninguém, de lugar nenhum,
+atirar-se em cima de minha mulher!
+
+855
+01:40:33,585 --> 01:40:37,651
+Daisy, não conte comigo
+para isso.
+
+856
+01:40:37,651 --> 01:40:40,362
+Uma coisa te digo:
+
+857
+01:40:40,362 --> 01:40:45,159
+Se as pessoas desdenham da vida
+em família, das instituições familiares,
+
+858
+01:40:45,159 --> 01:40:47,348
+não tarda nada
+
+859
+01:40:47,348 --> 01:40:50,789
+teremos casamentos
+entre negros e brancos!
+
+860
+01:40:50,789 --> 01:40:54,439
+- Aqui, somos todos brancos.
+- Quero dizer-lhe uma coisa.
+
+861
+01:40:54,439 --> 01:40:56,524
+- Não, por favor.
+- Ouça...
+
+862
+01:40:56,629 --> 01:40:59,652
+- Vamos para casa, por favor.
+- Não.
+
+863
+01:40:59,757 --> 01:41:02,989
+- Vamos para casa.
+- Ninguém vai para casa.
+
+864
+01:41:02,989 --> 01:41:06,221
+Vou sentar-me aqui
+
+865
+01:41:06,221 --> 01:41:11,435
+e ouvir o que o Sr. Gatsby
+tem para me dizer.
+
+866
+01:41:12,373 --> 01:41:14,250
+Sim.
+
+867
+01:41:19,985 --> 01:41:22,071
+Obrigado.
+
+868
+01:41:28,327 --> 01:41:29,891
+Então?
+
+869
+01:41:35,210 --> 01:41:39,589
+A sua mulher não o ama.
+Nunca o amou. É a mim que ela ama.
+
+870
+01:41:39,589 --> 01:41:44,386
+- Você é louco! - Se casou-se com
+você era porque eu era pobre.
+
+871
+01:41:44,281 --> 01:41:47,618
+Ela cansou-se de esperar.
+Foi um erro.
+
+872
+01:41:47,514 --> 01:41:52,102
+- Ela nunca amou outro que não eu.
+- É mentira! Sentem-se.
+
+873
+01:41:52,102 --> 01:41:57,211
+Daisy amava-me quando casou
+comigo. Me ama, e eu a amo.
+
+874
+01:41:57,002 --> 01:42:03,050
+Às vezes, confunde-se e envolve-se
+em coisas que não entende.
+
+875
+01:42:03,050 --> 01:42:07,638
+Eu também tive os meus deslizes
+e fiz muitas bobagens.
+
+876
+01:42:07,638 --> 01:42:12,747
+Mas voltei sempre.
+E nunca deixei de a amar.
+
+877
+01:42:12,747 --> 01:42:15,875
+É nojento!
+
+878
+01:42:15,980 --> 01:42:19,212
+Lembra-se do que nos levou
+a deixar Chicago?
+
+879
+01:42:19,108 --> 01:42:22,549
+E se contasse a história
+desse pequeno deslize?
+
+880
+01:42:22,653 --> 01:42:26,824
+Daisy, diga-lhe a verdade.
+Diga-lhe.
+
+881
+01:42:26,720 --> 01:42:31,829
+Diga-lhe que nunca o amou
+e acaba-se tudo, para sempre.
+
+882
+01:42:35,687 --> 01:42:41,839
+Como poderia amá-lo?
+Seria possível? Eu...
+
+883
+01:42:43,299 --> 01:42:47,782
+- Você nunca o amou.
+- Eu nunca o amei.
+
+884
+01:42:47,782 --> 01:42:50,806
+- Nem na nossa lua-de-mel?
+- Não.
+
+885
+01:42:51,745 --> 01:42:57,480
+Nem naquele dia em que
+peguei-a e te levei ao colo
+
+886
+01:42:57,480 --> 01:43:02,589
+desde o Punch Bowl,
+para você não molhasse os pés?
+
+887
+01:43:02,590 --> 01:43:04,154
+Abram uma janela!
+
+888
+01:43:04,258 --> 01:43:07,386
+Daisy...
+
+889
+01:43:07,386 --> 01:43:11,036
+- Daisy, eu te amo.
+- Não, por favor!
+
+890
+01:43:18,126 --> 01:43:20,420
+Exige demais!
+
+891
+01:43:21,671 --> 01:43:26,051
+Te amo agora. Não basta?
+Não posso modificar o passado.
+
+892
+01:43:25,947 --> 01:43:29,596
+Te amei, em tempos,
+mas também te amei.
+
+893
+01:43:32,411 --> 01:43:34,705
+Também me amou?
+
+894
+01:43:36,999 --> 01:43:41,066
+Houve coisas entre Daisy eu
+que sempre irá ignorar.
+
+895
+01:43:41,066 --> 01:43:43,881
+Coisas que nenhum de nós
+pode esquecer.
+
+896
+01:43:43,985 --> 01:43:46,905
+Querida, vou cuidar melhor de você.
+
+897
+01:43:47,009 --> 01:43:50,450
+Não cuidará nunca mais dela.
+
+898
+01:43:50,450 --> 01:43:53,787
+- Não? Porquê?
+- Daisy vai deixá-lo.
+
+899
+01:43:58,062 --> 01:43:59,939
+Vou, sim.
+
+900
+01:44:01,712 --> 01:44:03,693
+Não.
+
+901
+01:44:03,901 --> 01:44:07,238
+Ela não vai deixar-me.
+
+902
+01:44:07,134 --> 01:44:12,973
+Muito menos por um trapaceiro que
+teria de roubar um anel para lhe dar.
+
+903
+01:44:16,205 --> 01:44:17,978
+Não!
+
+904
+01:44:21,210 --> 01:44:24,860
+- Deixem-me!
+- Daisy!
+
+905
+01:44:33,098 --> 01:44:36,956
+E sei que tipo de farmácias
+são as suas!
+
+906
+01:44:36,956 --> 01:44:41,440
+Ele e Meyer Wolfsheim
+compraram farmácias
+
+907
+01:44:41,440 --> 01:44:43,942
+para venderem
+álcool livremente.
+
+908
+01:44:44,047 --> 01:44:45,923
+Mas isso é só o começo.
+
+909
+01:44:46,028 --> 01:44:52,075
+Tem um negócio novo com Wolfsheim
+do qual todos receiam falar.
+
+910
+01:44:58,749 --> 01:45:01,460
+Agora ele a perdeu de vez.
+
+911
+01:45:08,967 --> 01:45:11,574
+Querem?
+
+912
+01:45:12,617 --> 01:45:14,702
+Nick?
+
+913
+01:45:14,911 --> 01:45:16,892
+Jordan?
+
+914
+01:45:19,394 --> 01:45:21,897
+- Nick?
+- O que?
+
+915
+01:45:22,001 --> 01:45:24,087
+Quer?
+
+916
+01:45:25,859 --> 01:45:27,423
+Não.
+
+917
+01:45:31,281 --> 01:45:35,452
+Este flerte arrogante
+chegou ao fim.
+
+918
+01:45:35,452 --> 01:45:38,789
+Lembrei-me agora...
+
+919
+01:45:38,789 --> 01:45:42,647
+Ele não a conhece
+como eu a conheço.
+
+920
+01:45:42,647 --> 01:45:45,566
+Hoje é meu aniversário.
+
+921
+01:45:50,884 --> 01:45:52,448
+30 anos.
+
+922
+01:45:53,074 --> 01:45:55,889
+- Dê-me a chave!
+- Fique aqui até partirmos.
+
+923
+01:45:55,993 --> 01:45:59,434
+- Como você queria.
+- Nunca quis ir contigo!
+
+924
+01:45:59,434 --> 01:46:01,624
+Estava louca para partir.
+
+925
+01:46:01,729 --> 01:46:05,900
+Louca estava eu
+quando casei contigo!
+
+926
+01:46:08,820 --> 01:46:12,052
+Mas casou comigo, Myrtle.
+
+927
+01:46:12,157 --> 01:46:18,309
+Pensei que fosse um cavalheiro.
+Depois vi que não é digno de mim!
+
+928
+01:46:19,143 --> 01:46:24,773
+Nem terno tinha para usar
+no casamento, e nunca me disse!
+
+929
+01:46:26,963 --> 01:46:31,551
+Não tinha posses
+para comprar um terno.
+
+930
+01:46:32,489 --> 01:46:35,722
+O que você quer fazer
+não está certo, Myrtle.
+
+931
+01:46:35,722 --> 01:46:40,622
+Confio nos outros.
+Não desejo o mal de ninguém.
+
+932
+01:46:40,622 --> 01:46:44,063
+Mas sei ver as coisas.
+
+933
+01:46:57,410 --> 01:47:00,747
+Acha que consegue me enganar.
+
+934
+01:47:03,249 --> 01:47:05,335
+Talvez consiga.
+
+935
+01:47:09,088 --> 01:47:14,198
+Mas não consegues enganar Deus.
+Deus vê tudo.
+
+936
+01:47:15,970 --> 01:47:19,516
+É um maldito out-door.
+
+937
+01:47:23,791 --> 01:47:28,900
+Você é tão tolo que nem
+mesmo sabe que está vivo
+
+938
+01:47:34,323 --> 01:47:38,807
+Tão tolo que não distingo
+o certo do errado?
+
+939
+01:47:50,068 --> 01:47:51,528
+Myrtle!
+
+940
+01:47:51,632 --> 01:47:53,717
+Está bem?
+
+941
+01:47:53,822 --> 01:47:55,907
+Deixe-me!
+
+942
+01:47:58,514 --> 01:47:59,869
+Não!
+
+943
+01:48:11,339 --> 01:48:13,216
+Um desastre.
+
+944
+01:48:14,884 --> 01:48:17,283
+Ainda bem.
+
+945
+01:48:17,387 --> 01:48:21,662
+Wilson terá finalmente
+o que fazer.
+
+946
+01:48:22,705 --> 01:48:26,250
+Vamos encostar e olhar.
+
+947
+01:48:26,146 --> 01:48:28,440
+Só olhar.
+
+948
+01:48:53,048 --> 01:48:57,427
+- M-a-v-o...
+- Não, com "r". Mavro.
+
+949
+01:48:57,427 --> 01:49:00,347
+Ouça-me
+
+950
+01:49:00,348 --> 01:49:03,267
+- Que quer?
+- Que aconteceu?
+
+951
+01:49:03,371 --> 01:49:06,395
+Um carro a atropelou.
+Morreu na hora.
+
+952
+01:49:07,334 --> 01:49:10,358
+Ela atravessou-se na estrada.
+O patife nem parou.
+
+953
+01:49:10,462 --> 01:49:13,694
+Eram dois carros.
+Um vindo e outro indo.
+
+954
+01:49:13,799 --> 01:49:16,822
+- Indo para onde?
+- Cada um ia para seu lado.
+
+955
+01:49:16,927 --> 01:49:19,221
+Meu Deus!
+
+956
+01:49:23,704 --> 01:49:25,894
+Era um carro amarelo grande.
+
+957
+01:49:25,998 --> 01:49:30,378
+Um carro amarelo grande. Novo.
+
+958
+01:49:30,378 --> 01:49:32,672
+- Viu o acidente?
+- Vi.
+
+959
+01:49:32,776 --> 01:49:34,966
+- Espere...
+- Não.
+
+960
+01:49:35,070 --> 01:49:40,179
+O carro ia a mais de 60.
+Talvez a 80 ou 100.
+
+961
+01:49:40,179 --> 01:49:44,767
+- Passou a toda a velocidade.
+- Seguiu em que direção?
+
+962
+01:49:44,663 --> 01:49:46,644
+Meu Deus!
+
+963
+01:50:11,356 --> 01:50:14,276
+Vamos embora.
+
+964
+01:50:16,048 --> 01:50:18,238
+O peito dela ficou despedaçado.
+
+965
+01:50:28,353 --> 01:50:30,960
+Filho da mãe!
+
+966
+01:50:35,131 --> 01:50:38,363
+Nem sequer parou,
+
+967
+01:50:38,468 --> 01:50:40,657
+Que acha?
+
+968
+01:51:07,976 --> 01:51:10,583
+Daisy está em casa.
+
+969
+01:51:22,470 --> 01:51:25,911
+Nick, entre e coma alguma coisa.
+
+970
+01:51:26,015 --> 01:51:30,395
+Depois, pode levar o carro pra casa.
+
+971
+01:51:30,395 --> 01:51:33,836
+Não podemos fazer
+mais nada hoje.
+
+972
+01:51:35,087 --> 01:51:38,319
+- Não vai entrar, Nick?
+- Não.
+
+973
+01:51:39,883 --> 01:51:41,447
+Nick...
+
+974
+01:51:45,618 --> 01:51:48,851
+- Boa noite, Nick.
+- Boa noite.
+
+975
+01:52:07,725 --> 01:52:10,331
+Que está fazendo aqui?
+
+976
+01:52:12,104 --> 01:52:14,919
+Nada. Estou aqui.
+
+977
+01:52:16,796 --> 01:52:20,237
+- Viu um acidente na estrada?
+- Vi.
+
+978
+01:52:20,237 --> 01:52:23,678
+- Ela morreu?
+- Sim.
+
+979
+01:52:23,782 --> 01:52:26,702
+Achei que sim.
+
+980
+01:52:28,370 --> 01:52:31,498
+Foi o que eu disse à Daisy.
+
+981
+01:52:31,603 --> 01:52:35,565
+- Porque não parou?
+- Foi um terrível choque para Daisy.
+
+982
+01:52:35,461 --> 01:52:39,840
+Para a Daisy?
+Francamente!
+
+983
+01:52:39,840 --> 01:52:44,949
+Vou ficar aqui para me certificar
+de que ele não lhe fará nada.
+
+984
+01:52:47,243 --> 01:52:50,476
+Não vai tocar nela.
+Não é ela que ele quer.
+
+985
+01:52:50,580 --> 01:52:53,395
+Não confio nele, meu caro.
+
+986
+01:52:55,168 --> 01:52:58,192
+Ficarei aqui toda a noite,
+se for preciso.
+
+987
+01:53:31,872 --> 01:53:36,669
+Talvez tenha um amigo a quem eu
+possa telefonar, George.
+
+988
+01:53:36,669 --> 01:53:39,693
+Eu desconfiava de alguma coisa.
+
+989
+01:53:39,797 --> 01:53:43,238
+Costuma ir a alguma igreja?
+
+990
+01:53:43,342 --> 01:53:48,660
+Desconfiei quando ela chegou em casa
+com o nariz inchado e sangrando.
+
+991
+01:53:48,556 --> 01:53:53,248
+Eu podia ligar para a igreja
+e pedir ao padre
+
+992
+01:53:53,248 --> 01:53:56,063
+para vir falar contigo.
+
+993
+01:53:56,167 --> 01:53:59,504
+Não pertenço a nenhuma igreja.
+
+994
+01:53:59,608 --> 01:54:04,301
+Mas devia pertencer, George,
+por causa de horas como esta.
+
+995
+01:54:07,012 --> 01:54:13,476
+Já deve ter ido à igreja.
+Não se casou lá?
+
+996
+01:54:20,880 --> 01:54:23,695
+Há muito tempo.
+
+997
+01:54:33,079 --> 01:54:36,103
+Abra essa gaveta.
+
+998
+01:54:53,829 --> 01:54:58,104
+Ela tinha isso embrulhado
+em papel de seda.
+
+999
+01:54:58,105 --> 01:55:01,546
+Num lugar onde escondia as coisas.
+
+1000
+01:55:06,343 --> 01:55:08,532
+Nós não temos um cão.
+
+1001
+01:55:10,097 --> 01:55:12,391
+Ela não tem um cão.
+
+1002
+01:55:15,414 --> 01:55:20,002
+Mas tem uma coleira de cão
+com diamantes.
+
+1003
+01:55:28,240 --> 01:55:30,325
+Meu Deus!
+
+1004
+01:55:34,287 --> 01:55:37,103
+Ele a matou.
+
+1005
+01:55:39,814 --> 01:55:43,150
+Quem a matou, George?
+
+1006
+01:55:43,150 --> 01:55:48,260
+- Matou-a.
+- Foi um acidente.
+
+1007
+01:55:54,203 --> 01:55:57,331
+Era o homem no carro.
+
+1008
+01:56:00,981 --> 01:56:04,526
+Ela disse que ele vinha buscá-la.
+
+1009
+01:56:07,654 --> 01:56:10,261
+E ele não parou.
+
+1010
+01:56:17,768 --> 01:56:20,897
+Vou ligar para a igreja.
+
+1011
+01:56:21,001 --> 01:56:24,337
+Ligo para qual, George?
+
+1012
+01:56:27,362 --> 01:56:31,742
+Vou procurar nomes
+de igrejas, George.
+
+1013
+01:56:38,415 --> 01:56:42,586
+Eu disse-lhe que Deus vê tudo.
+
+1014
+01:57:08,445 --> 01:57:11,782
+Vou enumerar algumas igrejas.
+
+1015
+01:57:18,142 --> 01:57:22,522
+Não fiz por mal. Não fiz por mal.
+
+1016
+01:57:23,564 --> 01:57:26,484
+Eu avisei-a.
+
+1017
+01:57:27,735 --> 01:57:29,716
+Lamento.
+
+1018
+01:57:32,740 --> 01:57:35,034
+Eu resolvo tudo.
+
+1019
+01:57:35,138 --> 01:57:39,101
+Eu resolvo tudo.
+
+1020
+01:57:40,039 --> 01:57:42,125
+Eu resolvo.
+
+1021
+01:57:43,063 --> 01:57:45,148
+Eu resolvo.
+
+1022
+01:57:47,755 --> 01:57:49,528
+Eu resolvo...
+
+1023
+01:58:43,750 --> 01:58:45,522
+Nick.
+
+1024
+01:58:46,461 --> 01:58:48,859
+Não aconteceu nada.
+
+1025
+01:58:48,963 --> 01:58:53,447
+Esperei até às quatro da manhã.
+Ela chegou à janela.
+
+1026
+01:58:53,551 --> 01:58:57,931
+Ficou lá algum tempo
+e depois apagou a luz.
+
+1027
+01:59:01,580 --> 01:59:04,500
+Tem um cigarro?
+
+1028
+01:59:13,258 --> 01:59:15,448
+É o último.
+
+1029
+01:59:18,159 --> 01:59:20,662
+Vamos dividi-lo.
+
+1030
+01:59:47,460 --> 01:59:54,029
+O que terão pensado os marinheiros
+holandeses quando viram esta ilha?
+
+1031
+01:59:55,489 --> 01:59:57,887
+Verdejante...
+
+1032
+01:59:59,660 --> 02:00:02,788
+...como a promessa de um novo mundo.
+
+1033
+02:00:04,248 --> 02:00:07,585
+Devem ter prendido a respiração,
+
+1034
+02:00:07,585 --> 02:00:11,964
+temendo que ela desaparecesse
+antes de poderem toca-la.
+
+1035
+02:00:22,287 --> 02:00:26,041
+Não chegou a ver a mulher.
+
+1036
+02:00:26,145 --> 02:00:29,064
+Ficou desfeita, e você não parou!
+
+1037
+02:00:29,064 --> 02:00:34,174
+Só vi Daisy.
+Só penso na Daisy.
+
+1038
+02:00:34,069 --> 02:00:38,240
+Assustou-se, eu tentei
+agarrar no volante, mas ela...
+
+1039
+02:00:38,345 --> 02:00:40,951
+Foi a Daisy?
+
+1040
+02:00:40,951 --> 02:00:43,558
+Ela estava dirijindo?
+
+1041
+02:00:43,662 --> 02:00:47,729
+Estava muito nervosa
+quando saímos de Nova lorque.
+
+1042
+02:00:48,876 --> 02:00:52,213
+Achou que dirijir
+lhe acalmaria os nervos.
+
+1043
+02:00:54,195 --> 02:00:57,636
+A mulher atravessou-se na frente.
+Aconteceu em segundos.
+
+1044
+02:00:57,740 --> 02:01:01,598
+Parecia ter
+reconhecido o carro.
+
+1045
+02:01:01,598 --> 02:01:06,812
+Parecia que queria falar conosco.
+
+1046
+02:01:06,812 --> 02:01:11,921
+Deve ter pensado que nos conhecia.
+É a 1a vez que Daisy precisa de mim.
+
+1047
+02:01:49,146 --> 02:01:52,169
+Acho que ela nunca o amou.
+
+1048
+02:01:54,672 --> 02:01:57,800
+A casa dela em Louisville...
+
+1049
+02:01:59,364 --> 02:02:03,744
+Eu nunca tinha visto
+uma casa tão bonita.
+
+1050
+02:02:03,744 --> 02:02:07,289
+Todos aqueles cristais...
+
+1051
+02:02:09,374 --> 02:02:11,355
+...e as pratas.
+
+1052
+02:02:15,630 --> 02:02:18,550
+Tudo aquilo respirava...
+
+1053
+02:02:22,305 --> 02:02:24,494
+Era...
+
+1054
+02:02:25,850 --> 02:02:27,414
+Era...
+
+1055
+02:02:27,727 --> 02:02:32,106
+Não se esqueça, meu caro,
+de que ela estava muito agitada.
+
+1056
+02:02:32,002 --> 02:02:34,922
+Ele descreveu-me
+como um vigarista.
+
+1057
+02:02:35,026 --> 02:02:37,841
+Ela não pensou no que disse.
+
+1058
+02:02:45,870 --> 02:02:48,685
+Claro que ela
+pode tê-lo amado.
+
+1059
+02:02:48,790 --> 02:02:53,378
+Brevemente,
+nos começo do casamento.
+
+1060
+02:02:55,359 --> 02:02:59,530
+Mas amava amim mais ainda,
+mesmo nessa hora.
+
+1061
+02:03:04,535 --> 02:03:08,080
+Seja como for, foi algo pessoal.
+
+1062
+02:03:14,962 --> 02:03:19,341
+Devia partir. Para Montreal
+ou para outro lugar seguro.
+
+1063
+02:03:19,341 --> 02:03:23,095
+- Partir? Neste momento?
+- Até as coisas acalmarem.
+
+1064
+02:03:23,095 --> 02:03:27,787
+Não posso partir! Ela virá me
+encontrar assim que puder.
+
+1065
+02:03:29,560 --> 02:03:31,958
+Suponho que sim.
+
+1066
+02:04:59,234 --> 02:05:02,362
+Não saia daí. Eu resolvo isto.
+
+1067
+02:05:09,035 --> 02:05:11,538
+Quem é ele? Sabe?
+
+1068
+02:05:11,642 --> 02:05:16,230
+É o Sr. Wilson, dono da garagem
+junto àquele cartaz publicitário.
+
+1069
+02:05:33,853 --> 02:05:37,085
+- Pammy, tem de usar o vestido.
+- Não!
+
+1070
+02:05:37,085 --> 02:05:41,047
+Faça o que te mando
+ou terei de falar com a tua mãe.
+
+1071
+02:05:41,152 --> 02:05:43,758
+- Mamãe!
+- Comporte-se.
+
+1072
+02:05:43,863 --> 02:05:48,451
+Mamãe, não quero usar este
+vestido! Detesto esta cor!
+
+1073
+02:05:50,536 --> 02:05:54,603
+Pronto, meu anjo querido, não chore.
+
+1074
+02:05:54,603 --> 02:05:56,479
+Não chore.
+
+1075
+02:05:56,584 --> 02:06:01,797
+As meninas tolas e lindas podem usar
+as cores que mais lhes agradarem.
+
+1076
+02:06:08,888 --> 02:06:11,599
+O Verão está acabando.
+
+1077
+02:06:16,499 --> 02:06:18,689
+É triste, não é?
+
+1078
+02:06:20,983 --> 02:06:23,590
+Sentimos vontade...
+
+1079
+02:06:24,528 --> 02:06:27,552
+...de segura-lo
+
+1080
+02:06:27,552 --> 02:06:30,159
+e de não deixa-lo ir.
+
+1081
+02:06:31,514 --> 02:06:34,330
+Haverá mais Verões.
+
+1082
+02:06:39,648 --> 02:06:42,463
+Quer dar um mergulho?
+
+1083
+02:06:42,567 --> 02:06:44,965
+Daqui a pouco.
+
+1084
+02:06:47,364 --> 02:06:52,056
+- Apareço por volta do meio-dia.
+- Esplêndido. Estarei na piscina.
+
+1085
+02:06:56,436 --> 02:06:58,939
+Nick...
+
+1086
+02:07:00,086 --> 02:07:02,171
+Obrigado.
+
+1087
+02:07:10,200 --> 02:07:12,494
+São pessoas execráveis.
+
+1088
+02:07:12,598 --> 02:07:16,873
+Você vale mais
+do que eles todos juntos.
+
+1089
+02:09:03,335 --> 02:09:05,525
+Daisy?
+
+1090
+02:10:09,861 --> 02:10:11,321
+Daisy?
+
+1091
+02:11:25,146 --> 02:11:28,587
+<i>Recordarei do resto daquele dia
+como um entra-e-sai incessante</i>
+
+1092
+02:11:28,691 --> 02:11:31,715
+<i>de policiais, fotógrafos
+e jornalistas</i>
+
+1093
+02:11:31,610 --> 02:11:35,051
+<i>na casa de Gatsby.</i>
+
+1094
+02:11:35,051 --> 02:11:40,265
+<i>Uma fita no portão, e um agente,
+afastavam os curiosos.</i>
+
+1095
+02:11:40,265 --> 02:11:43,810
+<i>Mas os garotos descobriram
+que podiam entrar pelo meu lado.</i>
+
+1096
+02:11:43,810 --> 02:11:49,024
+<i>Havia sempre uns tantos,
+boquiabertos, junto à piscina.</i>
+
+1097
+02:11:48,919 --> 02:11:50,692
+Sra. Buchanan, por favor.
+
+1098
+02:11:50,900 --> 02:11:54,967
+- Alguém tem de nos dizer o que fazer.
+- Não descobrimos nenhum familiar.
+
+1099
+02:11:54,967 --> 02:11:59,034
+- A lei é muito clara.
+- Quando é que ela volta?
+
+1100
+02:11:58,929 --> 02:12:02,892
+- Se não recebermos instruções...
+- Eu dou as instruções.
+
+1101
+02:12:02,996 --> 02:12:06,020
+- Quem é ele?
+- Como posso contactá-los?
+
+1102
+02:12:06,020 --> 02:12:08,209
+É o vizinho do lado.
+
+1103
+02:12:08,314 --> 02:12:12,797
+- Eu era amigo dele.
+- Os senhores partiram hoje à tarde.
+
+1104
+02:12:12,902 --> 02:12:14,987
+Obrigado.
+
+1105
+02:12:24,684 --> 02:12:29,794
+<i>Eu só conseguia pensar
+na extraordinária esperança dele.</i>
+
+1106
+02:12:29,689 --> 02:12:34,799
+<i>Na prontidão romântica que, até aí,
+eu não encontrara em mais ninguém</i>
+
+1107
+02:12:34,799 --> 02:12:39,074
+<i>e que, provavelmente,
+não voltarei a encontrar.</i>
+
+1108
+02:12:39,804 --> 02:12:44,079
+<i>No dia seguinte,
+telefonei para Wolfsheim.</i>
+
+1109
+02:12:44,080 --> 02:12:49,502
+<i>Estava certo de que ele iria ao funeral,
+mas limitou-se a dizer:</i>
+
+1110
+02:12:49,398 --> 02:12:55,341
+<i>"A amizade demonstra-se em vida,
+e não depois da morte. "</i>
+
+1111
+02:12:55,237 --> 02:12:58,573
+<i>"Depois, costumo pôr
+uma pedra no assunto. "</i>
+
+1112
+02:12:58,678 --> 02:13:01,389
+<i>Lembro-me de ele dizer isto
+em outra ocasião.</i>
+
+1113
+02:13:01,493 --> 02:13:03,891
+MERDA
+
+1114
+02:13:08,688 --> 02:13:13,067
+<i>Eu aguardava uma carta
+ou um telefonema de Daisy.</i>
+
+1115
+02:13:34,860 --> 02:13:36,945
+É...
+
+1116
+02:13:38,092 --> 02:13:40,386
+É...
+
+1117
+02:13:40,490 --> 02:13:43,097
+...a casa do meu filho?
+
+1118
+02:14:00,406 --> 02:14:03,534
+Li nos jornais de Chicago.
+
+1119
+02:14:03,430 --> 02:14:06,558
+Saiu em todos os
+jornais de Chicago.
+
+1120
+02:14:06,662 --> 02:14:10,729
+Eu não sabia como entrar
+em contacto com você, Sr. Gatsby.
+
+1121
+02:14:10,729 --> 02:14:12,606
+É claro...
+
+1122
+02:14:12,710 --> 02:14:16,777
+Deixamos de nos falar
+
+1123
+02:14:16,778 --> 02:14:20,114
+quando ele saiu de casa.
+
+1124
+02:14:21,157 --> 02:14:25,953
+Vejo agora que houve
+um motivo para isso.
+
+1125
+02:14:30,229 --> 02:14:34,087
+Ele sabia que tinha
+um grande futuro pela frente.
+
+1126
+02:14:42,324 --> 02:14:45,765
+Depois de alcançar o sucesso,
+
+1127
+02:14:47,433 --> 02:14:50,666
+mostrou-se muito generoso
+para comigo.
+
+1128
+02:14:59,112 --> 02:15:01,614
+Era jovem.
+
+1129
+02:15:03,595 --> 02:15:07,036
+Mas tinha uma grande inteligência.
+Aqui.
+
+1130
+02:15:12,875 --> 02:15:15,795
+Se tivesse vivido,
+
+1131
+02:15:16,942 --> 02:15:20,591
+teria ajudado o país a progredir.
+
+1132
+02:15:20,696 --> 02:15:22,677
+Sim, é verdade.
+
+1133
+02:15:25,909 --> 02:15:28,516
+Isto tudo é...
+
+1134
+02:15:28,516 --> 02:15:31,019
+É para que vejam.
+
+1135
+02:15:33,417 --> 02:15:36,024
+É para que vejam.
+
+1136
+02:15:38,526 --> 02:15:41,550
+Quem é esta garota?
+
+1137
+02:15:48,954 --> 02:15:52,916
+Eu não sabia o que iria querer,
+Sr. Gatsby.
+
+1138
+02:15:52,916 --> 02:15:55,732
+- Meu nome é Gatz.
+- Sr. Gatz.
+
+1139
+02:15:57,296 --> 02:16:00,841
+Pensei que talvez quisesse
+levar o corpo para o Oeste.
+
+1140
+02:16:02,718 --> 02:16:06,055
+Jimmy preferiu sempre o Leste.
+
+1141
+02:16:07,097 --> 02:16:10,225
+Foi no Leste que progrediu.
+
+1142
+02:16:11,581 --> 02:16:14,396
+Tinha muitos amigos aqui.
+
+1143
+02:16:15,335 --> 02:16:18,150
+É um dos amigos dele, senhor?
+
+1144
+02:16:19,088 --> 02:16:21,695
+Éramos muito amigos.
+
+1145
+02:16:29,098 --> 02:16:31,810
+Encontrei isto.
+
+1146
+02:16:35,563 --> 02:16:37,857
+Um livro.
+
+1147
+02:16:38,066 --> 02:16:40,777
+De quando ele era rapaz.
+
+1148
+02:16:42,237 --> 02:16:44,843
+É para que vejam.
+
+1149
+02:16:46,720 --> 02:16:50,578
+"Lista de decisões a seguir:"
+
+1150
+02:16:51,934 --> 02:16:53,706
+"Primeira..."
+
+1151
+02:16:55,270 --> 02:16:58,190
+"...praticar a eloquência"
+
+1152
+02:16:58,294 --> 02:17:02,778
+"e a maneira de
+conseguir estabilidade."
+
+1153
+02:17:04,134 --> 02:17:05,698
+"Segunda,"
+
+1154
+02:17:05,906 --> 02:17:10,077
+"estudar muito,
+serão necessárias..."
+
+1155
+02:17:12,580 --> 02:17:14,562
+"...invenções."
+
+1156
+02:17:16,230 --> 02:17:18,003
+<i>"Terceira..."</i>
+
+1157
+02:17:19,150 --> 02:17:25,197
+<i>"Poupar cinco dólares." Ele riscou.
+"Três dólares... por semana."</i>
+
+1158
+02:17:26,553 --> 02:17:31,349
+<i>"Quarta, deixar de fumar
+e de mascar chicletes. "</i>
+
+1159
+02:17:35,207 --> 02:17:38,648
+<i>"Quinta, tratar melhor meus pais."</i>
+
+1160
+02:17:40,421 --> 02:17:45,009
+...num Deus único. Amém.
+
+1161
+02:17:51,056 --> 02:17:54,497
+Ela não mandou flores,
+um bilhete... Nada!
+
+1162
+02:17:54,602 --> 02:17:58,355
+- Como poderia?
+- Poderia, se quisesse.
+
+1163
+02:17:58,355 --> 02:18:01,484
+Tom e Daisy
+são pessoas descuidadas.
+
+1164
+02:18:01,484 --> 02:18:04,820
+Cometem os erros
+e refugiam-se no dinheiro,
+
+1165
+02:18:04,820 --> 02:18:09,200
+na total inconsciência ou seja lá
+no que for que os mantém juntos,
+
+1166
+02:18:09,304 --> 02:18:12,641
+deixando aos outros
+a tarefa de reparar os estragos.
+
+1167
+02:18:12,641 --> 02:18:15,143
+Almocei com eles hoje.
+
+1168
+02:18:15,247 --> 02:18:20,982
+Vão passar umas semanas na Europa
+até a casa nova estar pronta.
+
+1169
+02:18:20,982 --> 02:18:25,153
+Eu também vou partir.
+Só que vou voltar ao Oeste.
+
+1170
+02:18:25,153 --> 02:18:30,784
+- Não tenho estômago para o Leste.
+- Foi por isso que me rejeitou?
+
+1171
+02:18:30,679 --> 02:18:33,703
+Tem a ver com más motoristas?
+
+1172
+02:18:35,267 --> 02:18:38,708
+E por serem precisos
+dois para uma colisão.
+
+1173
+02:18:47,989 --> 02:18:51,013
+Nick, como vai? Prazer em vê-lo.
+
+1174
+02:18:51,952 --> 02:18:54,871
+Não me aperta a mão?
+
+1175
+02:18:55,705 --> 02:18:58,417
+Que bicho lhe mordeu?
+
+1176
+02:18:58,938 --> 02:19:02,900
+- Que disse ao Wilson, Tom?
+- Ao Wilson?
+
+1177
+02:19:03,004 --> 02:19:05,716
+Disse-lhe a verdade.
+
+1178
+02:19:05,820 --> 02:19:09,991
+Se não lhe dissesse de quem era
+o carro, ele me mataria.
+
+1179
+02:19:09,886 --> 02:19:12,180
+Nick...
+
+1180
+02:19:12,180 --> 02:19:14,474
+Gatsby teve o que merecia.
+
+1181
+02:19:14,474 --> 02:19:20,418
+Atropelou Myrtle como se fosse
+um cão e nem sequer parou.
+
+1182
+02:19:21,878 --> 02:19:23,650
+Nick...
+
+1183
+02:19:25,318 --> 02:19:28,655
+Eu também sofri, sabia?
+
+1184
+02:19:28,655 --> 02:19:32,096
+Fui ao apartamento da Myrtle,
+
+1185
+02:19:32,200 --> 02:19:36,475
+vi a caixa dos biscoitos do cão
+
+1186
+02:19:36,475 --> 02:19:40,125
+e desatei a chorar
+como uma criança.
+
+1187
+02:19:41,376 --> 02:19:44,191
+Tom, não percebeu que...
+
+1188
+02:19:44,296 --> 02:19:46,068
+Nick!
+
+1189
+02:19:46,068 --> 02:19:48,050
+Nick!
+
+1190
+02:19:48,050 --> 02:19:51,699
+Que felicidade vê-lo!
+
+1191
+02:19:51,803 --> 02:19:54,827
+Há vários dias estou
+para te ligar,
+
+1192
+02:19:54,827 --> 02:19:58,477
+mas nem imagina como a casa
+tem me mantido ocupada.
+
+1193
+02:19:58,477 --> 02:20:01,813
+Terá de nos visitar
+assim que voltarmos.
+
+1194
+02:20:01,918 --> 02:20:05,150
+Será o nosso primeiro convidado.
+Prometa.
+
+1195
+02:20:05,150 --> 02:20:07,652
+Temos de ir.
+Nick... Jordan.
+
+1196
+02:20:07,757 --> 02:20:10,781
+Sabe que adoro
+vê-lo em minha mesa.
+
+1197
+02:20:10,886 --> 02:20:12,554
+Oh, Daisy!
+
+1198
+02:20:35,598 --> 02:20:38,830
+<i>Recordei
+o ar maravilhado de Gatsby</i>
+
+1199
+02:20:38,830 --> 02:20:42,480
+<i>ao descobrir a luz verde
+do cais de Daisy.</i>
+
+1200
+02:20:42,480 --> 02:20:46,338
+<i>Percorrera um longo caminho
+até chegar àquele gramado.</i>
+
+1201
+02:20:46,338 --> 02:20:52,177
+<i>O sonho parecia tão próximo
+que seria impossível não o alcançar.</i>
+
+1202
+02:20:53,533 --> 02:20:58,538
+<i>Ele não sabia que era um sonho
+impossível desde o começo.</i>
+
+1203
+02:20:59,501 --> 02:21:04,715
+Legendas:
+Vander Colombo
+
+1204
+02:21:04,716 --> 02:21:08,887
+Movimento Cinema Livre
+

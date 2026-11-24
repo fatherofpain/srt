@@ -1,0 +1,4855 @@
+1
+00:00:35,077 --> 00:00:37,371
+<i>Michael Rennie estava doente</i>
+
+2
+00:00:37,621 --> 00:00:40,707
+<i>No dia em que a Terra parou</i>
+
+3
+00:00:40,958 --> 00:00:46,004
+<i>Mas ele nos disse onde ele ficou</i>
+
+4
+00:00:46,255 --> 00:00:48,423
+<i>E Flash Gordon estava lá</i>
+
+5
+00:00:48,674 --> 00:00:51,718
+<i>De cuecas prateadas</i>
+
+6
+00:00:51,969 --> 00:00:56,098
+<i>Claude Rains era o homem invisível</i>
+
+7
+00:00:57,015 --> 00:00:59,476
+<i>Então, algo saiu errado</i>
+
+8
+00:00:59,726 --> 00:01:02,187
+<i>Para Fay Wray e King Kong</i>
+
+9
+00:01:02,437 --> 00:01:06,733
+<i>Eles ficaram presos em uma geléia de celulóide</i>
+
+10
+00:01:07,442 --> 00:01:10,070
+<i>Então, em um ritmo mortal</i>
+
+11
+00:01:10,279 --> 00:01:13,407
+<i>Ele veio do espaço sideral</i>
+
+12
+00:01:13,615 --> 00:01:17,995
+<i>E esta foi a mensagem enviada...</i>
+
+13
+00:01:19,830 --> 00:01:23,625
+<i>Ficção científica</i>
+
+14
+00:01:25,961 --> 00:01:29,047
+<i>Dupla apresentação</i>
+
+15
+00:01:31,466 --> 00:01:34,469
+<i>Dr. X</i>
+
+16
+00:01:36,430 --> 00:01:39,683
+<i>Construirá uma criatura</i>
+
+17
+00:01:41,351 --> 00:01:45,105
+<i>Veja andróides brigando</i>
+
+18
+00:01:47,441 --> 00:01:50,736
+<i>Com Brad e Janet</i>
+
+19
+00:01:52,154 --> 00:01:56,366
+<i>Anne Francis estrela em...</i>
+
+20
+00:01:57,910 --> 00:02:00,662
+<i>...Planeta Proibido</i>
+
+21
+00:02:00,913 --> 00:02:03,248
+<i>Oh, Oh, Oh, Oh</i>
+
+22
+00:02:06,835 --> 00:02:09,296
+<i>Tarde da noite</i>
+
+23
+00:02:09,505 --> 00:02:11,840
+<i>Dupla apresentação</i>
+
+24
+00:02:12,090 --> 00:02:14,301
+<i>Do filme</i>
+
+25
+00:02:23,477 --> 00:02:26,271
+<i>Eu soube que Leo G. Carrol</i>
+
+26
+00:02:26,522 --> 00:02:28,607
+<i>Estava sobre um barril</i>
+
+27
+00:02:28,857 --> 00:02:33,904
+<i>Quando Tarântula partiu para as colinas</i>
+
+28
+00:02:34,196 --> 00:02:36,615
+<i>E eu fiquei realmente excitado</i>
+
+29
+00:02:36,865 --> 00:02:39,159
+<i>Quando eu vi Janette Scott</i>
+
+30
+00:02:39,493 --> 00:02:40,827
+<i>Lutar com uma serpente que</i>
+
+31
+00:02:41,078 --> 00:02:44,331
+<i>Cospe veneno e mata</i>
+
+32
+00:02:44,831 --> 00:02:47,918
+<i>Dana Andrews disse que Prunes</i>
+
+33
+00:02:48,168 --> 00:02:50,295
+<i>Deu a ele as ruínas</i>
+
+34
+00:02:50,546 --> 00:02:55,175
+<i>e superando-os usou muitas habilidades</i>
+
+35
+00:02:55,467 --> 00:02:57,886
+<i>Mas quando mundos colidem</i>
+
+36
+00:02:58,095 --> 00:03:00,222
+<i>Disse George Pal para sua noiva</i>
+
+37
+00:03:00,472 --> 00:03:01,890
+<i>Eu vou lhe dar</i>
+
+38
+00:03:02,140 --> 00:03:05,018
+<i>Terríveis emoções</i>
+
+39
+00:03:05,269 --> 00:03:07,271
+<i>Como uma</i>
+
+40
+00:03:07,771 --> 00:03:11,024
+<i>Ficção científica</i>
+
+41
+00:03:13,151 --> 00:03:16,029
+<i>Dupla apresentação</i>
+
+42
+00:03:18,365 --> 00:03:21,034
+<i>Dr. X</i>
+
+43
+00:03:22,995 --> 00:03:26,665
+<i>Construirá uma criatura</i>
+
+44
+00:03:28,000 --> 00:03:31,670
+<i>Veja andróides brigando</i>
+
+45
+00:03:33,964 --> 00:03:36,884
+<i>Com Brad e Janet</i>
+
+46
+00:03:38,594 --> 00:03:42,723
+<i>Anne Francis estrela em...</i>
+
+47
+00:03:44,016 --> 00:03:46,810
+<i>...Planeta Proibido</i>
+
+48
+00:03:47,060 --> 00:03:49,605
+<i>Oh, Oh, Oh, Oh</i>
+
+49
+00:03:52,941 --> 00:03:55,235
+<i>Tarde da noite</i>
+
+50
+00:03:55,527 --> 00:03:57,738
+<i>Dupla apresentação</i>
+
+51
+00:03:58,071 --> 00:04:00,157
+<i>Do filme</i>
+
+52
+00:04:00,407 --> 00:04:03,160
+<i>Eu quero ir</i>
+
+53
+00:04:03,452 --> 00:04:06,496
+<i>Oh, Oh, Oh, Oh</i>
+
+54
+00:04:08,624 --> 00:04:11,084
+<i>Tarde da noite</i>
+
+55
+00:04:11,335 --> 00:04:13,587
+<i>Para a dupla apresentação</i>
+
+56
+00:04:13,837 --> 00:04:16,089
+<i>Do filme</i>
+
+57
+00:04:16,298 --> 00:04:18,800
+<i>Por RKO</i>
+
+58
+00:04:19,092 --> 00:04:22,346
+<i>Oh, Oh, Oh, Oh</i>
+
+59
+00:04:24,431 --> 00:04:26,767
+<i>Tarde da noite</i>
+
+60
+00:04:27,017 --> 00:04:29,436
+<i>Para a dupla apresentação</i>
+
+61
+00:04:29,686 --> 00:04:31,730
+<i>Do filme</i>
+
+62
+00:04:31,980 --> 00:04:34,650
+<i>Nos bastidores</i>
+
+63
+00:04:34,942 --> 00:04:37,361
+<i>Oh, Oh, Oh, Oh</i>
+
+64
+00:04:40,447 --> 00:04:42,783
+<i>Tarde da noite</i>
+
+65
+00:04:43,158 --> 00:04:45,327
+<i>Da dupla apresentação</i>
+
+66
+00:04:45,577 --> 00:04:47,454
+<i>Do filme</i>
+
+67
+00:05:04,638 --> 00:05:06,139
+Aí vêm eles.
+
+68
+00:05:18,819 --> 00:05:20,779
+Eu gostaria dos pais
+e dos avós.
+
+69
+00:05:21,029 --> 00:05:23,240
+Sim, toda a família próxima.
+
+70
+00:05:28,829 --> 00:05:31,498
+Sorria! Agüente assim. Lindo!
+
+71
+00:05:48,724 --> 00:05:50,601
+Parabéns.
+
+72
+00:05:50,851 --> 00:05:52,019
+Bem...
+
+73
+00:05:52,477 --> 00:05:54,730
+Parece que conseguimos, huh?
+
+74
+00:05:56,190 --> 00:05:58,901
+Você e Betty tem sido inseparáveis...
+
+75
+00:05:59,109 --> 00:06:01,195
+...desde que se encontraram
+Nos cursos do Dr. Scott.
+
+76
+00:06:01,445 --> 00:06:06,200
+Para lhe dizer a verdade, Brad, ela foi
+a única razão pela qual eu vim primeiramente.
+
+77
+00:06:07,409 --> 00:06:08,243
+Eu quero dizer...
+
+78
+00:06:08,452 --> 00:06:10,495
+Ok, pessoal, é agora!
+Vocês estão prontos?
+
+79
+00:06:10,704 --> 00:06:13,499
+Olhe, Betty vai jogar o buquê.
+
+80
+00:06:18,378 --> 00:06:19,713
+Eu peguei!
+
+81
+00:06:19,922 --> 00:06:22,090
+- Eu peguei!
+- Hey, amigo!
+
+82
+00:06:22,341 --> 00:06:24,885
+Parece que a próxima vez
+poderá ser a sua.
+
+83
+00:06:25,135 --> 00:06:26,637
+Quem sabe.
+
+84
+00:06:26,887 --> 00:06:28,931
+Até mais.
+Até logo, Brad.
+
+85
+00:06:32,434 --> 00:06:34,144
+Vamos, entre.
+
+86
+00:06:38,357 --> 00:06:40,275
+Até mais, Brad.
+
+87
+00:06:53,580 --> 00:06:57,334
+Brad, não foi lindo?
+Betty não parecia radiantemente linda?
+
+88
+00:06:57,584 --> 00:07:00,546
+Apenas uma hora atrás ela era
+simplesmente a Betty Munroe de sempre.
+
+89
+00:07:00,796 --> 00:07:05,217
+E agora ela é a Sra. Ralph Hapschatt.
+
+90
+00:07:07,803 --> 00:07:11,056
+- Sim, Janet. Ralph é um cara de sorte.
+- Sim.
+
+91
+00:07:11,765 --> 00:07:14,810
+Oh, sempre choro em casamentos.
+
+92
+00:07:16,436 --> 00:07:19,439
+Todos sabem que Betty é
+uma ótima cozinheira.
+
+93
+00:07:19,690 --> 00:07:21,066
+Sim.
+
+94
+00:07:26,655 --> 00:07:29,199
+Ralph estará na fila
+da promoção em um ano.
+
+95
+00:07:29,408 --> 00:07:30,659
+Sim.
+
+96
+00:07:33,871 --> 00:07:35,873
+- Ei, Janet.
+- Sim, Brad?
+
+97
+00:07:38,125 --> 00:07:40,043
+Tenho algo para dizer.
+
+98
+00:07:42,629 --> 00:07:44,423
+Eu realmente adorei
+
+99
+00:07:48,677 --> 00:07:50,470
+A maneira habilidosa
+
+100
+00:07:51,763 --> 00:07:54,057
+Com que você venceu as outras garotas
+
+101
+00:07:54,516 --> 00:07:56,018
+No buquê da noiva.
+
+102
+00:07:56,226 --> 00:07:57,060
+Oh, Brad.
+
+103
+00:08:01,607 --> 00:08:04,651
+<i>O rio estava profundo, mas eu o atravessei
+Janet</i>
+
+104
+00:08:04,860 --> 00:08:07,487
+<i>O futuro é nosso, então vamos planejá-lo
+- Janet</i>
+
+105
+00:08:07,738 --> 00:08:10,616
+<i>Então por favor não me diga para poder
+- Janet</i>
+
+106
+00:08:10,866 --> 00:08:14,244
+<i>Tenho uma coisa para falar, e é...
+Droga, Janet</i>
+
+107
+00:08:14,494 --> 00:08:16,330
+<i>Eu te amo</i>
+
+108
+00:08:17,998 --> 00:08:20,584
+<i>A estrada era longa mas eu a percorri
+- Janet</i>
+
+109
+00:08:20,792 --> 00:08:24,296
+<i>Há um fogo em meu coração e você o alimenta
+- Janet</i>
+
+110
+00:08:24,505 --> 00:08:27,007
+<i>Há um tolo para você, e esse sou eu
+- Janet</i>
+
+111
+00:08:27,257 --> 00:08:30,344
+<i>Tenho uma coisa para dizer, e é...
+Droga, Janet</i>
+
+112
+00:08:30,594 --> 00:08:32,095
+<i>Eu te amo</i>
+
+113
+00:08:34,556 --> 00:08:36,558
+<i>Aqui está um anel para provar</i>
+
+114
+00:08:36,767 --> 00:08:38,644
+<i>Que não estou brincando</i>
+
+115
+00:08:40,604 --> 00:08:41,772
+<i>Existem três maneiras</i>
+
+116
+00:08:41,980 --> 00:08:45,526
+<i>Do amor florescer</i>
+
+117
+00:08:46,818 --> 00:08:48,654
+<i>pelo bom, mal</i>
+
+118
+00:08:48,862 --> 00:08:51,782
+<i>ou medíocre</i>
+
+119
+00:08:52,574 --> 00:08:54,826
+<i>Oh, J-A-N-E-T</i>
+
+120
+00:08:55,077 --> 00:08:57,412
+<i>Eu te amo tanto</i>
+
+121
+00:08:58,747 --> 00:09:02,251
+<i>- Oh, é melhor do que teve Betty Munroe
+- Oh, Brad</i>
+
+122
+00:09:02,459 --> 00:09:05,796
+<i>- Agora estamos noivos e eu estou tão feliz
+- Oh, Brad</i>
+
+123
+00:09:06,004 --> 00:09:08,590
+<i>- Que você encontrou com minha mãe e conheceu meu pai
+- Oh, Brad</i>
+
+124
+00:09:08,841 --> 00:09:11,802
+<i>Eu tenho uma coisa para dizer, e é
+Brad, estou louca!</i>
+
+125
+00:09:12,052 --> 00:09:14,096
+<i>Por você também</i>
+
+126
+00:09:16,682 --> 00:09:18,892
+<i>Oh, Brad</i>
+
+127
+00:09:19,351 --> 00:09:21,812
+<i>Oh, droga</i>
+
+128
+00:09:22,104 --> 00:09:24,731
+<i>Eu estou louca!</i>
+
+129
+00:09:25,440 --> 00:09:28,277
+<i>Oh, Janet</i>
+
+130
+00:09:28,485 --> 00:09:30,571
+<i>Por você</i>
+
+131
+00:09:30,779 --> 00:09:33,490
+<i>Eu te amo também</i>
+
+132
+00:09:34,575 --> 00:09:39,413
+<i>Há uma coisa que falta ser feita
+Ah-ooh</i>
+
+133
+00:09:40,455 --> 00:09:43,333
+<i>- E é ir ver o homem que começou tudo
+- Janet</i>
+
+134
+00:09:43,584 --> 00:09:46,628
+<i>- Quando nos encontramos em seu laboratório de exames
+- Janet</i>
+
+135
+00:09:46,879 --> 00:09:49,756
+<i>- Me fez olhar para você, então entrei em pânico
+- Janet</i>
+
+136
+00:09:49,965 --> 00:09:53,302
+<i>Agora eu tenho uma coisa para dizer, e é
+droga, Janet</i>
+
+137
+00:09:53,552 --> 00:09:57,097
+<i>Eu te amo</i>
+
+138
+00:09:57,347 --> 00:10:00,225
+<i>Droga, Janet</i>
+
+139
+00:10:00,475 --> 00:10:03,353
+<i>Oh, Brad, eu estou louca</i>
+
+140
+00:10:03,604 --> 00:10:06,231
+<i>Droga, Janet</i>
+
+141
+00:10:06,440 --> 00:10:11,445
+<i>Eu te amo</i>
+
+142
+00:10:28,420 --> 00:10:32,216
+Eu gostaria, se possível,
+
+143
+00:10:32,466 --> 00:10:37,304
+de levá-lo em uma estranha jornada.
+
+144
+00:10:50,108 --> 00:10:53,195
+Parecia uma noite bem comum...
+
+145
+00:10:53,445 --> 00:10:58,116
+...quando Brad Majors e
+sua noiva, Janet Weiss...
+
+146
+00:10:58,367 --> 00:11:01,328
+...dois jovens comuns
+e saudáveis...
+
+147
+00:11:01,537 --> 00:11:05,249
+...partiram de Denton
+naquela noitinha de novembro...
+
+148
+00:11:05,499 --> 00:11:09,253
+...para visitar um Dr. Everett Scott...
+
+149
+00:11:09,503 --> 00:11:12,881
+...ex-tutor e agora amigo
+dos dois.
+
+150
+00:11:15,509 --> 00:11:20,097
+É verdade que haviam
+nuvens negras e tempestuosas...
+
+151
+00:11:20,347 --> 00:11:23,809
+...pesadas, negras e pendulares...
+
+152
+00:11:24,059 --> 00:11:26,520
+...Na direção onde eles estavam indo.
+
+153
+00:11:26,895 --> 00:11:29,898
+Também é verdade que o pneu reserva
+que eles carregavam...
+
+154
+00:11:30,148 --> 00:11:32,192
+...precisava terrivelmente de ar.
+
+155
+00:11:32,401 --> 00:11:35,946
+Mas eles, sendo garotos normais, e...
+
+156
+00:11:36,196 --> 00:11:37,698
+...em uma viagem à noite...
+
+157
+00:11:37,948 --> 00:11:42,578
+...eles não iam deixar uma tempestade
+estragar os acontecimentos de sua noitinha.
+
+158
+00:11:44,454 --> 00:11:46,748
+Em uma noite distante.
+
+159
+00:11:48,625 --> 00:11:50,335
+Era uma noite distante...
+
+160
+00:11:50,586 --> 00:11:52,629
+...que eles lembrariam...
+
+161
+00:11:52,880 --> 00:11:56,133
+...por muito tempo.
+
+162
+00:12:04,892 --> 00:12:08,020
+Nunca fui de desistir fácil.
+
+163
+00:12:08,812 --> 00:12:12,941
+<i>Deixar o escritório antes do meu turno
+é completamente averso...</i>
+
+164
+00:12:13,192 --> 00:12:15,319
+<i>...a cada instinto do meu corpo.</i>
+
+165
+00:12:16,612 --> 00:12:18,238
+<i>Mas como presidente,</i>
+
+166
+00:12:18,488 --> 00:12:22,618
+<i>devo pôr os interesses
+da América acima de tudo.</i>
+
+167
+00:12:23,952 --> 00:12:27,748
+<i>América precisa de um presidente em tempo integral</i>
+
+168
+00:12:27,998 --> 00:12:30,542
+<i>e um Congresso em tempo integral,</i>
+
+169
+00:12:30,918 --> 00:12:32,002
+<i>principalmente agora....</i>
+
+170
+00:12:34,379 --> 00:12:37,257
+Puxa, esse é o terceiro motociclista
+que nos ultrapassa.
+
+171
+00:12:37,508 --> 00:12:40,802
+Eles certamente tem as vidas
+nas próprias mãos.
+
+172
+00:12:41,053 --> 00:12:44,681
+Sim, Janet. A vida vale pouco
+para esse tipo de gente.
+
+173
+00:12:51,563 --> 00:12:53,482
+Qual o problema, Brad, querido?
+
+174
+00:12:55,651 --> 00:12:57,861
+Pegamos um desvio errado
+algumas milhas atrás.
+
+175
+00:12:58,070 --> 00:12:58,904
+Oh.
+
+176
+00:12:59,112 --> 00:13:01,365
+De onde vieram aqueles motociclistas?
+
+177
+00:13:03,367 --> 00:13:05,661
+Acho que vamos ter que voltar.
+
+178
+00:13:11,083 --> 00:13:12,084
+O que foi esse estouro?
+
+179
+00:13:12,543 --> 00:13:14,127
+Acho que o pneu estourou.
+
+180
+00:13:15,045 --> 00:13:18,674
+Droga! Eu sabia que devia ter
+consertado o estepe.
+
+181
+00:13:19,967 --> 00:13:21,844
+Você fica aqui e vou procurar ajuda.
+
+182
+00:13:22,094 --> 00:13:24,263
+Estamos no meio do nada.
+
+183
+00:13:29,142 --> 00:13:31,728
+Não passamos por um castelo
+algumas milhas atrás?
+
+184
+00:13:33,772 --> 00:13:36,233
+Talvez eles tenham um telefone
+que possamos usar.
+
+185
+00:13:36,608 --> 00:13:37,526
+Também vou.
+
+186
+00:13:37,985 --> 00:13:42,698
+- Não precisamos nos molhar os dois.
+- Vou com você.
+
+187
+00:13:44,867 --> 00:13:48,328
+Além disso, o dono desse telefone
+pode ser uma linda mulher...
+
+188
+00:13:48,579 --> 00:13:50,831
+e você poderia
+nunca mais voltar.
+
+189
+00:14:33,790 --> 00:14:36,543
+<i>Na escuridão de veludo</i>
+
+190
+00:14:36,793 --> 00:14:39,046
+<i>Da noite mais escura</i>
+
+191
+00:14:39,296 --> 00:14:42,132
+<i>Existe uma estrela guia</i>
+
+192
+00:14:43,050 --> 00:14:46,512
+<i>que queima brilhando</i>
+
+193
+00:14:49,181 --> 00:14:52,184
+<i>Não importa o que</i>
+
+194
+00:14:52,434 --> 00:14:54,436
+<i>Ou...</i>
+
+195
+00:14:55,479 --> 00:14:58,398
+<i>... quem você seja</i>
+
+196
+00:15:00,984 --> 00:15:04,029
+<i>Há uma luz</i>
+
+197
+00:15:05,322 --> 00:15:09,368
+<i>Sobre o lar do Frankenstein</i>
+
+198
+00:15:09,618 --> 00:15:12,538
+<i>Há uma luz</i>
+
+199
+00:15:16,416 --> 00:15:20,087
+<i>Queimando na lareira</i>
+
+200
+00:15:20,712 --> 00:15:25,843
+<i>Há uma luz, luz</i>
+
+201
+00:15:26,134 --> 00:15:29,805
+<i>Na escuridão</i>
+
+202
+00:15:30,055 --> 00:15:34,893
+<i>Da vida de todas as pessoas</i>
+
+203
+00:15:44,444 --> 00:15:48,866
+<i>A escuridão deve seguir</i>
+
+204
+00:15:49,116 --> 00:15:51,785
+<i>Pelo rio</i>
+
+205
+00:15:51,994 --> 00:15:55,747
+<i>Do sonhar da noite</i>
+
+206
+00:15:56,915 --> 00:16:00,169
+<i>Fluam, sonhos, devagar</i>
+
+207
+00:16:00,419 --> 00:16:02,671
+<i>Deixem o sol</i>
+
+208
+00:16:02,921 --> 00:16:05,799
+<i>E a luz virem na correnteza</i>
+
+209
+00:16:06,049 --> 00:16:09,303
+<i>Para dentro da minha vida</i>
+
+210
+00:16:11,805 --> 00:16:15,559
+<i>Para dentro da minha vida</i>
+
+211
+00:16:19,980 --> 00:16:23,483
+<i>Há uma luz</i>
+
+212
+00:16:24,651 --> 00:16:28,113
+<i>Sobre o lar do Frankenstein</i>
+
+213
+00:16:28,363 --> 00:16:31,617
+<i>Há uma luz</i>
+
+214
+00:16:35,204 --> 00:16:39,124
+<i>Queimando na lareira</i>
+
+215
+00:16:39,541 --> 00:16:42,211
+<i>Há uma luz</i>
+
+216
+00:16:42,711 --> 00:16:44,963
+<i>Luz</i>
+
+217
+00:16:45,589 --> 00:16:49,384
+<i>Na escuridão</i>
+
+218
+00:16:49,635 --> 00:16:54,765
+<i>Da vida de todas as pessoas</i>
+
+219
+00:17:01,605 --> 00:17:03,190
+E assim...
+
+220
+00:17:03,815 --> 00:17:08,153
+Parecia que a sorte havia sorrido para Brad e Janet...
+
+221
+00:17:08,403 --> 00:17:12,908
+<i>e eles encontraram a ajuda
+que suas súplicas pediram.</i>
+
+222
+00:17:13,575 --> 00:17:15,410
+<i>Ou não?</i>
+
+223
+00:17:18,121 --> 00:17:20,833
+Brad, vamos voltar.
+Estou com frio e assustada.
+
+224
+00:17:21,083 --> 00:17:23,544
+Só um instante, Janet.
+Eles podem ter um telefone.
+
+225
+00:17:43,021 --> 00:17:44,398
+Olá.
+
+226
+00:17:46,149 --> 00:17:49,403
+Oi! Meu nome é Brad Majors.
+
+227
+00:17:50,112 --> 00:17:53,073
+Esta é minha noiva, Janet Weiss.
+
+228
+00:17:53,615 --> 00:17:57,578
+Vocês poderiam nos ajudar?
+Nosso carro quebrou na estrada.
+
+229
+00:17:57,828 --> 00:17:59,663
+Vocês têm um telefone que podemos usar?
+
+230
+00:18:01,039 --> 00:18:02,791
+Vocês estão molhados.
+
+231
+00:18:04,710 --> 00:18:07,546
+Sim, está chovendo.
+
+232
+00:18:08,589 --> 00:18:09,631
+Sim.
+
+233
+00:18:10,674 --> 00:18:12,342
+Oh.
+
+234
+00:18:16,972 --> 00:18:21,310
+Acho que, talvez,
+vocês deveriam entrar um pouco.
+
+235
+00:18:25,147 --> 00:18:26,940
+Você é muito gentil.
+
+236
+00:18:42,372 --> 00:18:44,875
+Estou assustada.
+Que tipo de lugar é esse?
+
+237
+00:18:45,125 --> 00:18:49,254
+Provavelmente uma espécie de
+estação de caça para esquisitões ricos.
+
+238
+00:18:54,843 --> 00:18:56,136
+Por aqui.
+
+239
+00:19:01,141 --> 00:19:03,644
+Você está dando uma festa?
+
+240
+00:19:05,479 --> 00:19:08,273
+Vocês chegaram em
+uma noite bem especial.
+
+241
+00:19:08,524 --> 00:19:12,027
+- É um dos casos do mestre.
+- Oh.
+
+242
+00:19:12,277 --> 00:19:14,112
+- Sorte dele.
+- Você é sortudo.
+
+243
+00:19:14,363 --> 00:19:19,284
+Ele é sortudo, eu sou sortudo,
+somos todos sortudos!
+
+244
+00:19:33,257 --> 00:19:35,592
+<i>É impressionante</i>
+
+245
+00:19:35,843 --> 00:19:38,470
+<i>O tempo está voando</i>
+
+246
+00:19:39,346 --> 00:19:42,516
+<i>A loucura cobra seu pedágio</i>
+
+247
+00:19:44,560 --> 00:19:46,395
+<i>Mas escute com cuidado</i>
+
+248
+00:19:46,603 --> 00:19:49,731
+<i>E não por muito mais tempo</i>
+
+249
+00:19:50,440 --> 00:19:54,736
+<i>Tenho que manter o controle</i>
+
+250
+00:19:55,237 --> 00:19:57,656
+<i>Eu lembro</i>
+
+251
+00:19:57,906 --> 00:20:00,576
+<i>De fazer a dobra do tempo</i>
+
+252
+00:20:01,285 --> 00:20:02,661
+<i>Bebendo</i>
+
+253
+00:20:02,911 --> 00:20:05,414
+<i>Nesses momentos quando</i>
+
+254
+00:20:05,664 --> 00:20:08,083
+<i>A escuridão iria me atingir</i>
+
+255
+00:20:08,292 --> 00:20:11,003
+<i>E o vazio estaria chamando</i>
+
+256
+00:20:13,172 --> 00:20:15,966
+<i>Vamos fazer a dobra do tempo de novo</i>
+
+257
+00:20:17,593 --> 00:20:20,888
+<i>Vamos fazer a dobra do tempo de novo</i>
+
+258
+00:20:23,932 --> 00:20:26,310
+- É um pulo pra esquerda
+
+259
+00:20:28,228 --> 00:20:30,105
+<i>E um passo pra direita</i>
+
+260
+00:20:30,105 --> 00:20:31,982
+- Com suas mãos nos quadris
+
+261
+00:20:33,483 --> 00:20:35,944
+<i>Você aperta os joelhos</i>
+
+262
+00:20:36,195 --> 00:20:38,530
+<i>Mas é o impulso pélvico</i>
+
+263
+00:20:38,780 --> 00:20:41,450
+<i>Que realmente lhe deixa louco</i>
+
+264
+00:20:42,576 --> 00:20:46,872
+<i>Vamos fazer a dobra do tempo de novo</i>
+
+265
+00:20:48,165 --> 00:20:52,169
+<i>Vamos fazer a dobra do tempo de novo</i>
+
+266
+00:20:52,794 --> 00:20:54,838
+<i>É tão onírico</i>
+
+267
+00:20:55,088 --> 00:20:58,133
+<i>Oh, fantasia me liberte</i>
+
+268
+00:20:58,342 --> 00:21:00,135
+<i>Para que você não possa me ver</i>
+
+269
+00:21:03,305 --> 00:21:05,682
+<i>Em outra dimensão</i>
+
+270
+00:21:05,933 --> 00:21:08,560
+<i>Com intenção voyeurística</i>
+
+271
+00:21:08,810 --> 00:21:11,480
+<i>Bem escondido</i>
+
+272
+00:21:11,897 --> 00:21:13,732
+<i>Eu vejo tudo</i>
+
+273
+00:21:13,982 --> 00:21:16,360
+<i>Com um pouco de virada mental</i>
+
+274
+00:21:16,652 --> 00:21:19,404
+<i>Você está na fuga do tempo</i>
+
+275
+00:21:19,905 --> 00:21:24,201
+<i>E nada será jamais como antes</i>
+
+276
+00:21:24,451 --> 00:21:27,037
+<i>Você está navegando em sensações</i>
+
+277
+00:21:27,246 --> 00:21:30,249
+<i>Como se estivesse sedado</i>
+
+278
+00:21:31,041 --> 00:21:35,045
+<i>Vamos fazer a dobra do tempo de novo</i>
+
+279
+00:21:36,171 --> 00:21:40,467
+<i>Vamos fazer a dobra do tempo de novo</i>
+
+280
+00:21:41,260 --> 00:21:43,804
+<i>Eu estava andando pela rua,
+pensando na vida</i>
+
+281
+00:21:44,012 --> 00:21:46,682
+<i>Quando um cara dissimulado
+Me deu uma piscadela maligna</i>
+
+282
+00:21:46,890 --> 00:21:49,017
+<i>Ele me sacudiu
+Me pegou de surpresa</i>
+
+283
+00:21:49,268 --> 00:21:52,104
+<i>Ele tinha uma pickup
+E os olhos do diabo</i>
+
+284
+00:21:52,312 --> 00:21:54,690
+<i>Ele me encarou
+E senti uma mudança</i>
+
+285
+00:21:54,940 --> 00:21:57,109
+<i>O tempo não significava nada
+Nunca mais significaria</i>
+
+286
+00:21:57,526 --> 00:22:01,655
+<i>Vamos fazer a dobra do tempo novamente</i>
+
+287
+00:22:03,031 --> 00:22:07,077
+<i>Vamos fazer a dobra do tempo novamente</i>
+
+288
+00:22:07,327 --> 00:22:08,871
+É só um pulo pra esquerda
+
+289
+00:22:10,789 --> 00:22:12,708
+<i>E um passo pra direita</i>
+
+290
+00:22:12,708 --> 00:22:14,626
+- Com as mãos nos quadris
+
+291
+00:22:16,211 --> 00:22:18,630
+<i>Você aperta seus joelhos</i>
+
+292
+00:22:18,881 --> 00:22:21,383
+<i>Mas é o impulso pélvico</i>
+
+293
+00:22:21,592 --> 00:22:24,261
+<i>Que realmente lhe deixa louco</i>
+
+294
+00:22:25,345 --> 00:22:29,057
+<i>Vamos fazer a dobra do tempo novamente</i>
+
+295
+00:22:30,809 --> 00:22:35,105
+<i>Vamos fazer a dobra do tempo novamente</i>
+
+296
+00:22:53,457 --> 00:22:57,544
+<i>Vamos fazer a dobra do tempo novamente</i>
+
+297
+00:22:58,837 --> 00:23:03,008
+<i>Vamos fazer a dobra do tempo novamente</i>
+
+298
+00:23:03,258 --> 00:23:04,551
+É só um pulo pra esquerda
+
+299
+00:23:06,720 --> 00:23:08,555
+<i>E um passo pra direita</i>
+
+300
+00:23:08,555 --> 00:23:10,349
+- Com as mãos nos quadris
+
+301
+00:23:12,100 --> 00:23:13,894
+<i>Aperte seus joelhos</i>
+
+302
+00:23:14,436 --> 00:23:16,563
+<i>Mas é o impulso pélvico</i>
+
+303
+00:23:17,231 --> 00:23:19,650
+<i>Que realmente lhe deixa louco</i>
+
+304
+00:23:21,026 --> 00:23:25,155
+<i>Vamos fazer a dobra do tempo novamente</i>
+
+305
+00:23:26,406 --> 00:23:30,661
+<i>Vamos fazer a dobra do tempo novamente</i>
+
+306
+00:23:42,881 --> 00:23:44,341
+Diga algo.
+
+307
+00:23:45,467 --> 00:23:49,596
+Com licença! Algum de vocês
+sabe como chegar a Madison?
+
+308
+00:23:53,976 --> 00:23:58,772
+- Brad, por favor, vamos sair daqui.
+- Controle-se, Janet.
+
+309
+00:23:58,981 --> 00:24:02,484
+- Mas parece muito pouco saudável aqui.
+- É só uma festa, Janet.
+
+310
+00:24:02,734 --> 00:24:06,446
+- Bem, eu quero ir.
+- Não podemos até encontrarmos um telefone.
+
+311
+00:24:06,697 --> 00:24:09,324
+- Então pergunte ao mordomo ou alguém.
+- Só um instante.
+
+312
+00:24:09,533 --> 00:24:11,869
+Não queremos interferir
+com suas celebrações.
+
+313
+00:24:12,077 --> 00:24:14,163
+Aqui não é a Câmara de Comércio.
+
+314
+00:24:14,371 --> 00:24:17,124
+São provavelmente estrangeiros
+com costumes diferentes.
+
+315
+00:24:17,374 --> 00:24:20,085
+Deixe-os dançar mais um pouco de sua dança típica.
+
+316
+00:24:22,296 --> 00:24:24,715
+Estou com frio, molhada e
+muito assustada.
+
+317
+00:24:24,923 --> 00:24:27,926
+Estou aqui, não há nada
+para se preocupar.
+
+318
+00:24:32,806 --> 00:24:34,808
+<i>Como vão vocês?</i>
+
+319
+00:24:35,058 --> 00:24:37,144
+<i>Vejo que vocês encontraram</i>
+
+320
+00:24:37,394 --> 00:24:40,397
+<i>Meu fiel ajudante</i>
+
+321
+00:24:40,731 --> 00:24:42,983
+<i>Ele está um pouco abalado</i>
+
+322
+00:24:43,233 --> 00:24:46,278
+<i>Porque quando vocês bateram na porta</i>
+
+323
+00:24:46,528 --> 00:24:49,406
+<i>Ele pensou que era o bicho papão</i>
+
+324
+00:24:51,033 --> 00:24:52,993
+<i>Não se sintam abalados</i>
+
+325
+00:24:53,243 --> 00:24:55,245
+<i>Pela minha aparência</i>
+
+326
+00:24:55,496 --> 00:24:58,916
+<i>Não julguem um livro pela capa</i>
+
+327
+00:24:59,166 --> 00:25:01,418
+<i>Não sou muito homem</i>
+
+328
+00:25:01,668 --> 00:25:03,420
+<i>À luz do dia</i>
+
+329
+00:25:03,670 --> 00:25:07,549
+<i>Mas à noite sou um super amante</i>
+
+330
+00:25:07,799 --> 00:25:11,303
+<i>Sou apenas um doce travesti</i>
+
+331
+00:25:12,846 --> 00:25:15,724
+<i>Da transexual...</i>
+
+332
+00:25:15,974 --> 00:25:18,977
+<i>...Transylvania</i>
+
+333
+00:25:21,522 --> 00:25:23,440
+<i>Me deixem mostrar-lhes o lugar</i>
+
+334
+00:25:23,690 --> 00:25:26,527
+<i>Talvez tocar uma música</i>
+
+335
+00:25:26,818 --> 00:25:30,280
+<i>Vocês parecem ser do babado</i>
+
+336
+00:25:30,489 --> 00:25:33,242
+<i>Ou se quiserem algo visual</i>
+
+337
+00:25:33,492 --> 00:25:35,702
+<i>Isso não é muito abismal</i>
+
+338
+00:25:35,953 --> 00:25:39,248
+<i>Poderíamos afundar em um velho
+filme de Steve Reeves</i>
+
+339
+00:25:40,499 --> 00:25:43,001
+Que bom que o encontramos em casa
+
+340
+00:25:43,836 --> 00:25:45,712
+Podemos usar seu telefone?
+
+341
+00:25:46,213 --> 00:25:48,674
+- Estamos com um pouco de pressa.
+- Certo
+
+342
+00:25:48,882 --> 00:25:50,717
+Só queremos dizer onde estamos
+
+343
+00:25:50,968 --> 00:25:54,304
+- Então voltamos para o carro
+- Um prazer conhecê-lo, Dr. Furter
+
+344
+00:25:54,555 --> 00:25:56,765
+Não queremos ser nenhum transtorno
+
+345
+00:25:57,474 --> 00:26:00,936
+<i>Bem, vocês ficaram presos por um pneu furado</i>
+
+346
+00:26:01,144 --> 00:26:02,855
+<i>Bem, que tal isso</i>
+
+347
+00:26:03,105 --> 00:26:06,567
+<i>Bem, babies,nada de pânico</i>
+
+348
+00:26:06,817 --> 00:26:09,111
+<i>À luz da noite</i>
+
+349
+00:26:09,361 --> 00:26:11,363
+<i>tudo ficará bem</i>
+
+350
+00:26:11,613 --> 00:26:15,450
+<i>Vou lhes arranjar um mecânico satânico</i>
+
+351
+00:26:15,659 --> 00:26:18,871
+<i>Sou apenas um doce travesti</i>
+
+352
+00:26:20,497 --> 00:26:23,458
+<i>Da transexual...</i>
+
+353
+00:26:23,709 --> 00:26:27,212
+<i>...Transylvania</i>
+
+354
+00:26:29,256 --> 00:26:31,341
+<i>Por que vocês não ficam esta noite</i>
+
+355
+00:26:31,758 --> 00:26:33,886
+<i>- Noite
+- Ou talvez uma mordidinha</i>
+
+356
+00:26:34,136 --> 00:26:34,970
+<i>Mordidinha</i>
+
+357
+00:26:35,220 --> 00:26:38,432
+<i>Eu poderia lhes mostrar
+minha obsessão favorita</i>
+
+358
+00:26:39,057 --> 00:26:41,810
+<i>Estou fazendo um homem</i>
+
+359
+00:26:42,311 --> 00:26:44,438
+<i>de cabelo louro, e bronzeado</i>
+
+360
+00:26:44,688 --> 00:26:47,900
+<i>E ele é bom para aliviar
+minha tensão</i>
+
+361
+00:26:48,150 --> 00:26:51,612
+<i>Sou apenas um doce travesti</i>
+
+362
+00:26:53,572 --> 00:26:56,241
+<i>Da transexual...</i>
+
+363
+00:26:56,492 --> 00:26:59,745
+<i>...Transylvania</i>
+
+364
+00:27:00,787 --> 00:27:01,622
+<i>Abalow! Abalow!</i>
+
+365
+00:27:01,830 --> 00:27:06,668
+<i>Sou um doce travesti
+Doce travesti</i>
+
+366
+00:27:06,919 --> 00:27:09,963
+<i>Da transexual...</i>
+
+367
+00:27:10,172 --> 00:27:12,299
+<i>...Transylvania</i>
+
+368
+00:27:17,054 --> 00:27:19,598
+<i>Então venham até o laboratório</i>
+
+369
+00:27:20,474 --> 00:27:23,435
+<i>e vejam o que está na maca</i>
+
+370
+00:27:24,645 --> 00:27:25,687
+<i>Vejo que vocês estão tremendo</i>
+
+371
+00:27:25,896 --> 00:27:28,065
+<i>De anteci...</i>
+
+372
+00:27:29,983 --> 00:27:31,026
+<i>...pação</i>
+
+373
+00:27:32,319 --> 00:27:34,238
+<i>Mas talvez a chuva</i>
+
+374
+00:27:35,531 --> 00:27:37,282
+<i>seja a verdadeira culpada</i>
+
+375
+00:27:38,075 --> 00:27:40,786
+<i>Então, removerei a causa</i>
+
+376
+00:27:45,082 --> 00:27:46,625
+<i>Mas não os sintomas</i>
+
+377
+00:28:00,180 --> 00:28:01,223
+Obrigado.
+
+378
+00:28:05,143 --> 00:28:06,478
+Muito obrigado.
+
+379
+00:28:09,398 --> 00:28:10,440
+Brad!
+
+380
+00:28:10,691 --> 00:28:15,028
+Agora vamos jogar, e puxaremos
+os ases quando for a hora certa.
+
+381
+00:28:16,238 --> 00:28:20,117
+Devagar, devagar.
+É um trabalho muito bom para se apressar.
+
+382
+00:28:20,534 --> 00:28:25,455
+Hi. Meu nome é Brad Majors e
+esta é minha noiva, Janet Weiss.
+
+383
+00:28:29,293 --> 00:28:30,377
+Você é...?
+
+384
+00:28:30,627 --> 00:28:34,006
+Você é muito sortudo de ser convidado
+para o laboratório do Frank.
+
+385
+00:28:34,256 --> 00:28:37,885
+Algumas pessoas dariam o
+braço direito por esse privilégio.
+
+386
+00:28:38,135 --> 00:28:40,262
+Pessoas como você, talvez?
+
+387
+00:28:40,512 --> 00:28:42,556
+Eu já estive lá.
+
+388
+00:28:46,810 --> 00:28:50,480
+Vamos logo. O mestre não
+gosta de ficar esperando.
+
+389
+00:28:50,772 --> 00:28:52,983
+Largue isso!
+
+390
+00:29:08,040 --> 00:29:11,543
+Ele? Frank, eu quis dizer,
+Ele é o seu marido?
+
+391
+00:29:12,169 --> 00:29:16,131
+O mestre não é casado.
+Nem acho que jamais será.
+
+392
+00:29:16,381 --> 00:29:18,967
+- Somos simplesmente seus servos.
+- Oh.
+
+393
+00:30:03,637 --> 00:30:04,930
+Magenta.
+
+394
+00:30:06,139 --> 00:30:07,641
+Columbia.
+
+395
+00:30:08,308 --> 00:30:10,561
+Vão e ajudem Riff Raff.
+
+396
+00:30:12,312 --> 00:30:14,106
+Eu irei entreter...
+
+397
+00:30:19,194 --> 00:30:22,364
+Brad Majors e essa é
+minha noiva, Janet Vice.
+
+398
+00:30:22,614 --> 00:30:24,741
+- Weiss.
+- Weiss?
+
+399
+00:30:27,411 --> 00:30:29,329
+Enchanté.
+
+400
+00:30:29,621 --> 00:30:32,249
+Bem, que agradável.
+
+401
+00:30:32,541 --> 00:30:35,419
+E que roupas de baixo charmosas
+vocês têm.
+
+402
+00:30:35,669 --> 00:30:39,173
+Mas aqui, vistam isso.
+
+403
+00:30:39,423 --> 00:30:42,926
+Farão vocês se sentirem menos...
+vulneráveis.
+
+404
+00:30:44,219 --> 00:30:46,680
+Não é com freqüência
+que recebemos visitantes aqui.
+
+405
+00:30:46,930 --> 00:30:49,683
+Muito menos oferecemos hospitalidade.
+
+406
+00:30:49,933 --> 00:30:54,563
+Hospitalidade? Tudo o que queríamos
+era usar seu telefone. Diabos!
+
+407
+00:30:54,813 --> 00:30:57,107
+Um pedido razoável que você ignorou!
+
+408
+00:30:57,357 --> 00:31:00,611
+- Não seja ingrato.
+- Ingrato?!
+
+409
+00:31:01,111 --> 00:31:03,780
+Como você é poderoso, Brad.
+
+410
+00:31:04,031 --> 00:31:08,410
+Um espécime tão perfeito de virilidade.
+tão dominante.
+
+411
+00:31:12,080 --> 00:31:15,417
+Você deve ser terrivelmente orgulhosa
+dele, Janet.
+
+412
+00:31:15,918 --> 00:31:18,337
+Bem, sim, eu sou.
+
+413
+00:31:19,338 --> 00:31:22,508
+- Você tem alguma tatuagem, Brad?
+- Claro que não.
+
+414
+00:31:22,716 --> 00:31:25,844
+Oh, bem, e você?
+
+415
+00:31:26,136 --> 00:31:28,347
+Está tudo está pronto, mestre.
+
+416
+00:31:28,597 --> 00:31:31,683
+Apenas esperamos sua ordem.
+
+417
+00:31:39,983 --> 00:31:44,321
+Esta noite, meus convencionistas
+inconvencionais...
+
+418
+00:31:45,239 --> 00:31:47,741
+irão testemunhar
+um novo avanço
+
+419
+00:31:47,950 --> 00:31:51,119
+na pesquisa bioquímica.
+
+420
+00:31:51,370 --> 00:31:55,541
+E o paraíso será meu!
+
+421
+00:32:00,254 --> 00:32:02,548
+Foi estranho como tudo aconteceu.
+
+422
+00:32:03,465 --> 00:32:04,842
+De repente...
+
+423
+00:32:05,676 --> 00:32:07,135
+...você tem um estalo.
+
+424
+00:32:08,554 --> 00:32:11,932
+Todas as peças parecem se encaixar.
+
+425
+00:32:12,307 --> 00:32:16,103
+Que idiota você foi.
+Que tolo.
+
+426
+00:32:16,395 --> 00:32:19,064
+A resposta estava lá o tempo todo.
+
+427
+00:32:19,314 --> 00:32:23,819
+Foi preciso um pequeno acidente
+para fazer acontecer.
+
+428
+00:32:24,736 --> 00:32:27,406
+Um acidente!
+Um acidente!
+
+429
+00:32:27,656 --> 00:32:30,200
+Foi assim que descobri o segredo.
+
+430
+00:32:30,826 --> 00:32:33,787
+Aquele ingrediente misterioso.
+
+431
+00:32:34,037 --> 00:32:36,498
+A fagulha
+
+432
+00:32:36,748 --> 00:32:39,793
+que é o sopro da vida.
+
+433
+00:32:42,462 --> 00:32:43,755
+Sim.
+
+434
+00:32:45,465 --> 00:32:48,760
+Eu tenho esse conhecimento.
+
+435
+00:32:49,803 --> 00:32:52,139
+Eu possuo o segredo
+
+436
+00:32:52,389 --> 00:32:55,434
+da própria vida!
+
+437
+00:33:10,908 --> 00:33:12,075
+Vejam bem,
+
+438
+00:33:12,618 --> 00:33:14,912
+vocês tem muita sorte.
+
+439
+00:33:15,162 --> 00:33:18,207
+Pois esta é a noite
+
+440
+00:33:18,457 --> 00:33:23,587
+em que minha linda criatura
+está destinada para nascer.
+
+441
+00:34:01,750 --> 00:34:05,921
+Abra as válvulas
+do oscilador sônico.
+
+442
+00:34:11,009 --> 00:34:14,263
+E aumente a potência do reator...
+
+443
+00:34:14,471 --> 00:34:17,224
+...mais três pontos!
+
+444
+00:34:39,788 --> 00:34:40,998
+Oh, Brad!
+
+445
+00:34:41,248 --> 00:34:43,041
+Está tudo bem, Janet.
+
+446
+00:36:30,440 --> 00:36:32,651
+Oh, Rocky!
+
+447
+00:36:37,990 --> 00:36:42,953
+<i>A espada de Dâmocles
+está pendendo sobre a minha cabeça</i>
+
+448
+00:36:44,079 --> 00:36:47,749
+<i>Tenho a sensação que alguém irá
+cortar o fio que a segura</i>
+
+449
+00:36:51,753 --> 00:36:53,422
+<i>Oh, a tristeza sou eu</i>
+
+450
+00:36:53,672 --> 00:36:56,592
+<i>Minha vida é uma desgraça</i>
+
+451
+00:36:56,842 --> 00:36:59,052
+<i>Oh, você não vê</i>
+
+452
+00:36:59,303 --> 00:37:02,264
+<i>que eu estou na beira
+de uma grande queda</i>
+
+453
+00:37:05,350 --> 00:37:08,770
+<i>Esta manhã, acordei assustado
+quando caí da cama</i>
+
+454
+00:37:09,021 --> 00:37:11,148
+<i>Isso não é nenhum crime</i>
+
+455
+00:37:11,398 --> 00:37:14,902
+<i>e o que restou do meu sonho
+foi uma sensação de medo inominável</i>
+
+456
+00:37:15,152 --> 00:37:17,404
+<i>Isso não é nenhum crime</i>
+
+457
+00:37:17,654 --> 00:37:20,282
+<i>Meu alto é baixo</i>
+
+458
+00:37:20,908 --> 00:37:23,410
+<i>Estou arrumado sem ter para onde ir</i>
+
+459
+00:37:23,660 --> 00:37:26,330
+<i>E tudo o que eu sei</i>
+
+460
+00:37:26,580 --> 00:37:30,709
+<i>É que estou na beira
+de uma grande queda</i>
+
+461
+00:37:33,420 --> 00:37:35,881
+<i>- Isso não é nenhum crime.
+- Oh, não, não, não.</i>
+
+462
+00:37:36,131 --> 00:37:38,884
+<i>- Isso não é nenhum crime.
+- Oh, não, não, não.</i>
+
+463
+00:37:39,092 --> 00:37:41,762
+<i>Oh, meu querido!</i>
+
+464
+00:37:44,681 --> 00:37:48,018
+<i>A espada de Dâmocles
+está pendendo sobre a minha cabeça</i>
+
+465
+00:37:48,268 --> 00:37:50,521
+<i>Isso não é nenhum crime</i>
+
+466
+00:37:50,729 --> 00:37:54,107
+<i>Tenho a sensação de que alguém
+vai cortar o fio que a segura</i>
+
+467
+00:37:54,358 --> 00:37:56,902
+<i>Isso não é nenhum crime</i>
+
+468
+00:37:57,152 --> 00:37:59,947
+<i>Oh, a tristeza sou eu</i>
+
+469
+00:38:00,197 --> 00:38:02,533
+<i>Minha vida é um mistério</i>
+
+470
+00:38:02,783 --> 00:38:05,536
+<i>e você não pode ver</i>
+
+471
+00:38:05,786 --> 00:38:09,122
+<i>Que eu estou na beira
+de uma grande queda?</i>
+
+472
+00:38:12,292 --> 00:38:15,128
+<i>- Isso não é nenhum crime.
+- Oh, não, não, não.</i>
+
+473
+00:38:16,296 --> 00:38:18,173
+<i>Isso não é nenhum crime</i>
+
+474
+00:38:37,067 --> 00:38:38,110
+Bem, francamente!
+
+475
+00:38:39,194 --> 00:38:42,030
+Isto não são modos de se comportar
+no seu primeiro dia.
+
+476
+00:38:45,868 --> 00:38:50,372
+Mas como você tem
+uma beleza excepcional,
+
+477
+00:38:50,747 --> 00:38:53,083
+estou preparado para lhe perdoar.
+
+478
+00:38:58,547 --> 00:39:00,507
+Oh, adoro o sucesso!
+
+479
+00:39:00,757 --> 00:39:03,135
+- Ele é um crédito à sua genialidade.
+- Sim.
+
+480
+00:39:03,385 --> 00:39:05,387
+- Um triunfo da sua vontade.
+- Sim.
+
+481
+00:39:05,637 --> 00:39:07,014
+Ele é ok.
+
+482
+00:39:11,310 --> 00:39:12,686
+Ok?
+
+483
+00:39:15,480 --> 00:39:16,607
+Ok?!
+
+484
+00:39:18,400 --> 00:39:21,028
+Acho que podemos fazer melhor que isso.
+
+485
+00:39:25,365 --> 00:39:27,743
+Agora, Brad e Janet...
+
+486
+00:39:27,993 --> 00:39:29,995
+O que vocês acham dele?
+
+487
+00:39:30,662 --> 00:39:32,080
+Bem...
+
+488
+00:39:32,498 --> 00:39:36,043
+Não gosto de homens
+musculosos demais.
+
+489
+00:39:37,377 --> 00:39:40,005
+Não fiz para você!
+
+490
+00:39:41,131 --> 00:39:44,676
+Ele tem o selo de aprovação
+do Charles Atlas.
+
+491
+00:39:55,854 --> 00:40:01,068
+<i>Um fracote que pese uns 80 quilos</i>
+
+492
+00:40:01,568 --> 00:40:04,279
+<i>vai ficar com areia em seu rosto</i>
+
+493
+00:40:04,488 --> 00:40:07,074
+<i>Quando for chutado para o chão</i>
+
+494
+00:40:08,659 --> 00:40:11,620
+<i>E logo, na academia</i>
+
+495
+00:40:11,870 --> 00:40:14,623
+<i>Com o queixo empinado</i>
+
+496
+00:40:15,249 --> 00:40:17,376
+<i>O suor de seus poros,</i>
+
+497
+00:40:19,920 --> 00:40:23,590
+<i>enquanto ele malha por sua causa,</i>
+
+498
+00:40:24,466 --> 00:40:26,677
+<i>vai fazê-lo brilhar</i>
+
+499
+00:40:28,011 --> 00:40:30,055
+<i>e reluzir</i>
+
+500
+00:40:30,556 --> 00:40:33,016
+<i>E com uma massagem</i>
+
+501
+00:40:33,267 --> 00:40:38,397
+<i>e apenas um pouco de vapor</i>
+
+502
+00:40:42,651 --> 00:40:45,070
+<i>ele ficará rosado</i>
+
+503
+00:40:45,571 --> 00:40:48,323
+<i>e bem limpo</i>
+
+504
+00:40:48,574 --> 00:40:52,870
+<i>Ele vai ser um homem forte</i>
+
+505
+00:40:53,829 --> 00:40:58,417
+<i>Oh, querida,
+Mas o homem errado</i>
+
+506
+00:41:00,085 --> 00:41:03,755
+<i>Ele irá comer proteínas altamente nutritivas</i>
+
+507
+00:41:04,006 --> 00:41:06,466
+<i>E engolirá ovos crus</i>
+
+508
+00:41:06,717 --> 00:41:08,468
+<i>Tente fortalecer os seus ombros</i>
+
+509
+00:41:08,719 --> 00:41:11,805
+<i>Seu peito, braços e pernas</i>
+
+510
+00:41:12,055 --> 00:41:16,810
+<i>Um esforço tão grande.
+Se ele ao menos soubesse do meu plano</i>
+
+511
+00:41:17,060 --> 00:41:20,439
+<i>Em apenas sete dias</i>
+
+512
+00:41:20,689 --> 00:41:25,319
+<i>Posso fazer de você um homem</i>
+
+513
+00:41:28,071 --> 00:41:30,741
+<i>Ele ficará musculoso, peito elevado</i>
+
+514
+00:41:30,949 --> 00:41:33,118
+<i>remadas laterais, abdominais totais</i>
+
+515
+00:41:34,161 --> 00:41:36,788
+<i>Ele pensa que tensão dinâmica</i>
+
+516
+00:41:36,997 --> 00:41:39,291
+<i>deve ser muito trabalhosa</i>
+
+517
+00:41:39,541 --> 00:41:41,418
+<i>Uma vida tão exaustiva</i>
+
+518
+00:41:41,668 --> 00:41:43,921
+<i>Realmente não entendo</i>
+
+519
+00:41:44,171 --> 00:41:48,675
+<i>Pois em apenas sete dias
+Oh, baby</i>
+
+520
+00:41:48,884 --> 00:41:53,764
+<i>Posso fazer de você um homem.</i>
+
+521
+00:42:01,480 --> 00:42:02,814
+Eddie!
+
+522
+00:42:23,710 --> 00:42:26,547
+<i>O que aconteceu com o sábado à noite</i>
+
+523
+00:42:26,797 --> 00:42:32,094
+<i>Quando você se vestiu na moda, se sentiu bem
+Não parece o mesmo desde a luz cósmica</i>
+
+524
+00:42:32,344 --> 00:42:35,889
+<i>Entrou na minha vida
+Pensei ser divino</i>
+
+525
+00:42:36,139 --> 00:42:41,228
+<i>Daria uma volta com as gatas que quisessem
+E ouviria música no rádio</i>
+
+526
+00:42:41,436 --> 00:42:44,022
+<i>Um saxofone estava soprando
+num show de rock 'n' roll</i>
+
+527
+00:42:44,273 --> 00:42:48,902
+<i>Entramos nas últimas fileiras
+Tivemos realmente uma boa diversão</i>
+
+528
+00:42:49,153 --> 00:42:51,780
+<i>Hot patootie, bless my soul</i>
+
+529
+00:42:52,322 --> 00:42:54,575
+<i>Eu realmente amo aquele rock 'n' roll</i>
+
+530
+00:42:55,242 --> 00:42:57,953
+<i>Hot patootie, bless my soul</i>
+
+531
+00:42:58,203 --> 00:43:00,998
+<i>Eu realmente amo aquele rock 'n' roll</i>
+
+532
+00:43:19,766 --> 00:43:21,351
+Festa adorável!
+
+533
+00:43:27,441 --> 00:43:30,068
+<i>Minha cabeça flutuava
+no perfume que eu sentia</i>
+
+534
+00:43:30,319 --> 00:43:33,155
+<i>Minhas mãos ficavam desastradas
+com seu cinto branco de plástico</i>
+
+535
+00:43:33,363 --> 00:43:36,158
+<i>Eu provaria seu batom rosa bebê
+E era aí que eu me derretia</i>
+
+536
+00:43:36,408 --> 00:43:39,328
+<i>Ela sussurraria em meu ouvido
+Esta noite ela realmente seria minha</i>
+
+537
+00:43:39,578 --> 00:43:44,541
+<i>Fique em sua frente e coloque um pouco de brilhantina
+Buddy Holly estava cantando sua última canção</i>
+
+538
+00:43:44,791 --> 00:43:47,794
+<i>Com seus braços ao redor de sua garota
+Você tentou cantar junto</i>
+
+539
+00:43:48,045 --> 00:43:52,508
+<i>Eu me senti muito bem
+Tive realmente uma ótima diversão</i>
+
+540
+00:43:52,966 --> 00:43:55,886
+<i>Hot patootie, bless my soul</i>
+
+541
+00:43:56,136 --> 00:43:57,930
+<i>Eu realmente amo aquele rock 'n' roll</i>
+
+542
+00:43:58,847 --> 00:44:01,308
+<i>Hot patootie, bless my soul</i>
+
+543
+00:44:01,558 --> 00:44:04,269
+<i>Eu realmente amo aquele rock 'n' roll</i>
+
+544
+00:45:46,163 --> 00:45:48,290
+Escapou dos porões.
+
+545
+00:45:59,009 --> 00:46:00,802
+Oh, baby!
+
+546
+00:46:08,519 --> 00:46:10,395
+Não fique com raiva.
+
+547
+00:46:12,523 --> 00:46:14,983
+Foi uma morte misericordiosa.
+
+548
+00:46:15,442 --> 00:46:18,946
+Ele tinha um certo charme ingênuo...
+
+549
+00:46:19,154 --> 00:46:21,365
+...mas nenhum músculo.
+
+550
+00:46:24,034 --> 00:46:26,703
+<i>Mas um deltóide</i>
+
+551
+00:46:26,954 --> 00:46:30,040
+<i>E um biceps</i>
+
+552
+00:46:30,290 --> 00:46:35,337
+<i>Um abdômen quente
+E um triceps</i>
+
+553
+00:46:35,587 --> 00:46:37,965
+<i>Me fazem...</i>
+
+554
+00:46:39,049 --> 00:46:40,217
+<i>tremer</i>
+
+555
+00:46:40,467 --> 00:46:44,179
+<i>Me fazem querer levar Charles Atlas</i>
+
+556
+00:46:44,388 --> 00:46:47,266
+<i>Pela mão</i>
+
+557
+00:46:47,516 --> 00:46:50,644
+<i>Em apenas sete dias
+Oh, baby</i>
+
+558
+00:46:50,894 --> 00:46:55,941
+<i>Posso fazer de você um homem</i>
+
+559
+00:46:58,986 --> 00:47:03,031
+<i>Eu não quero nenhuma discussão</i>
+
+560
+00:47:04,575 --> 00:47:09,246
+<i>Apenas tensão dinâmica</i>
+
+561
+00:47:10,747 --> 00:47:15,043
+<i>Sou uma fã de músculos</i>
+
+562
+00:47:15,294 --> 00:47:18,589
+<i>Em apenas sete dias</i>
+
+563
+00:47:18,964 --> 00:47:23,886
+<i>Posso fazer de você um homem</i>
+
+564
+00:47:24,803 --> 00:47:29,016
+<i>Aproveite, se puder</i>
+
+565
+00:47:29,558 --> 00:47:32,769
+<i>Em apenas sete dias</i>
+
+566
+00:47:32,978 --> 00:47:36,857
+<i>Posso fazer de você um homem</i>
+
+567
+00:47:50,245 --> 00:47:54,666
+<i>Rocky, Rocky, rah, rah, rah!
+Rocky, Rocky, rah, rah, rah!</i>
+
+568
+00:48:09,556 --> 00:48:13,477
+Existem aqueles que dizem
+que a vida é uma ilusão...
+
+569
+00:48:13,727 --> 00:48:17,397
+e que a realidade é apenas
+fruto da imaginação.
+
+570
+00:48:18,106 --> 00:48:21,777
+Se assim for, então Brad e Janet
+estão seguros.
+
+571
+00:48:22,778 --> 00:48:26,824
+Entretanto, a súbita partida
+de seu anfitrião
+
+572
+00:48:27,074 --> 00:48:29,952
+e sua criação
+
+573
+00:48:30,202 --> 00:48:33,372
+para a segurança
+de sua sombria suíte nupcial
+
+574
+00:48:33,622 --> 00:48:38,502
+os deixou sentindo
+tanto apreensivos quanto desconfortáveis.
+
+575
+00:48:38,752 --> 00:48:42,422
+Um sentimento que cresceu
+enquanto os outros hóspedes partiam
+
+576
+00:48:42,673 --> 00:48:47,219
+e eles eram levados
+para quartos separados.
+
+577
+00:49:25,132 --> 00:49:27,718
+Quem é? Quem está aí?
+
+578
+00:49:31,263 --> 00:49:33,140
+Sou apenas eu, Janet.
+
+579
+00:49:33,640 --> 00:49:36,059
+Brad, querido, entre.
+
+580
+00:49:38,228 --> 00:49:40,230
+Oh, Brad!
+
+581
+00:49:41,607 --> 00:49:43,400
+Sim, meu querido! Mas e se...?
+
+582
+00:49:43,650 --> 00:49:45,652
+Tudo vai ficar bem.
+
+583
+00:49:45,944 --> 00:49:49,239
+Oh, espero que sim, meu querido.
+
+584
+00:49:51,825 --> 00:49:56,330
+- É você!
+- Temo que sim. Mas isso não é bom?
+
+585
+00:49:56,580 --> 00:50:01,001
+Sua besta, seu monstro!
+O que você fez com Brad?
+
+586
+00:50:01,293 --> 00:50:04,254
+Bem, nada.
+Por que, você acha que eu deveria?
+
+587
+00:50:04,505 --> 00:50:07,925
+Você me enganou! Eu não faria isso.
+Eu nunca, nunca... .
+
+588
+00:50:08,175 --> 00:50:10,427
+Sim. Sim, eu sei.
+
+589
+00:50:10,677 --> 00:50:13,013
+Mas não é de todo o mal, não é?
+
+590
+00:50:13,847 --> 00:50:17,351
+Acho que você vai realmente achar
+tudo muito prazeroso.
+
+591
+00:50:18,101 --> 00:50:20,521
+- Tão macia, tão sensual.
+- Pare! Quer dizer, socorro!
+
+592
+00:50:20,813 --> 00:50:22,606
+Brad. Oh, Brad!
+
+593
+00:50:23,732 --> 00:50:27,945
+Brad provavelmente está dormindo agora.
+Você quer que ele lhe veja assim?
+
+594
+00:50:28,195 --> 00:50:31,782
+Assim, assim como? É sua culpa!
+Você é o culpado!
+
+595
+00:50:31,990 --> 00:50:34,284
+Eu estava me guardando.
+
+596
+00:50:34,743 --> 00:50:38,872
+Bem, tenho certeza que você ainda não está gasta.
+
+597
+00:50:39,540 --> 00:50:41,375
+Promete que não vai contar ao Brad?
+
+598
+00:50:41,583 --> 00:50:44,711
+Quero morrer pretim no inferno se contar.
+
+599
+00:52:35,405 --> 00:52:38,408
+Oh, Brad, querido, aqui não é um lugar bom!
+
+600
+00:52:38,659 --> 00:52:40,244
+Ele vai nos destruir.
+
+601
+00:52:40,494 --> 00:52:43,747
+Não se preocupe. Vamos partir para longe
+de manhãzinha.
+
+602
+00:52:43,997 --> 00:52:47,084
+Oh, Brad, você é tão forte
+e protetor.
+
+603
+00:52:51,296 --> 00:52:52,756
+Você!
+
+604
+00:52:52,965 --> 00:52:55,676
+Temo que sim, Brad.
+Mas isso não é bom?
+
+605
+00:52:55,968 --> 00:52:59,012
+Por que você...
+O que você fez com Janet?
+
+606
+00:52:59,304 --> 00:53:01,765
+Nada. Por que? Você acha que eu deveria?
+
+607
+00:53:02,015 --> 00:53:06,937
+Você me enganou. Eu não faria isso.
+Eu nunca, nunca, nunca!
+
+608
+00:53:07,187 --> 00:53:09,857
+Sim, eu sei.
+Mas não é de todo o mal, não é?
+
+609
+00:53:10,107 --> 00:53:14,194
+Nem mesmo meio mau.
+Acho que na verdade você vai adorar.
+
+610
+00:53:15,154 --> 00:53:18,115
+- Tão macio. Tão sensual.
+- Não, pare.
+
+611
+00:53:18,365 --> 00:53:19,867
+Oh, Janet.
+
+612
+00:53:20,659 --> 00:53:21,910
+Janet!
+
+613
+00:53:22,536 --> 00:53:26,540
+Janet provavelmente está dormindo agora.
+Você quer que ela lhe veja assim?
+
+614
+00:53:26,832 --> 00:53:30,878
+Assim, assim como? É tudo culpa sua!
+Você é o culpado.
+
+615
+00:53:31,170 --> 00:53:33,213
+Pensei que era real!
+
+616
+00:53:33,505 --> 00:53:35,299
+Oh, vamos lá, Brad, admita.
+
+617
+00:53:35,549 --> 00:53:37,384
+Você gostou, não foi?
+
+618
+00:53:37,634 --> 00:53:40,971
+Não há crime em se entregar
+ao prazer.
+
+619
+00:53:41,221 --> 00:53:45,058
+Oh, Brad, você já desperdiçou
+tanto tempo.
+
+620
+00:53:45,350 --> 00:53:48,812
+Janet não precisa saber. Não contarei a ela.
+
+621
+00:53:49,563 --> 00:53:51,565
+Você promete que não vai contar?
+
+622
+00:53:52,774 --> 00:53:55,068
+Pelo túmulo da minha mãe.
+
+623
+00:53:56,236 --> 00:53:59,990
+Master, Rocky quebrou suas correntes
+e desapareceu.
+
+624
+00:54:00,282 --> 00:54:04,161
+O novo parceiro está solto
+e em algum lugar no terreno do castelo.
+
+625
+00:54:04,453 --> 00:54:07,831
+Magenta acabou de soltar os cachorros.
+
+626
+00:54:10,167 --> 00:54:12,169
+Estou indo!
+
+627
+00:54:16,381 --> 00:54:19,760
+O que está havendo aqui? Onde está Brad?
+
+628
+00:54:20,427 --> 00:54:22,596
+Onde está todo mundo?
+
+629
+00:54:31,271 --> 00:54:33,357
+Oh, Brad!
+
+630
+00:54:33,982 --> 00:54:39,112
+Brad, meu querido, como eu pude
+fazer isso com você?
+
+631
+00:54:50,249 --> 00:54:53,377
+Oh, se não tivéssemos
+vindo nessa jornada.
+
+632
+00:54:54,294 --> 00:54:56,964
+Se ao menos o carro não tivesse quebrado.
+
+633
+00:54:58,173 --> 00:55:03,136
+Se ao menos estivéssemos entre amigos
+ou pessoas sãs.
+
+634
+00:55:04,429 --> 00:55:06,640
+Oh, Brad.
+
+635
+00:55:09,101 --> 00:55:10,811
+O que fizeram com ele ?
+
+636
+00:55:16,817 --> 00:55:20,404
+Brad, como você pôde?
+
+637
+00:55:45,095 --> 00:55:47,097
+Mas você está ferido.
+
+638
+00:55:48,348 --> 00:55:50,809
+Eles fizeram isso com você?
+
+639
+00:55:53,770 --> 00:55:55,689
+Aqui. Cuidarei das suas feridas.
+
+640
+00:55:57,524 --> 00:55:59,776
+Baby, aí. Oh.
+
+641
+00:56:10,954 --> 00:56:15,209
+"Emoção: agitação ou perturbação
+da mente,
+
+642
+00:56:15,501 --> 00:56:19,630
+estado mental veemente ou excitado."
+
+643
+00:56:21,381 --> 00:56:25,469
+É também um poderoso
+e irracional mestre.
+
+644
+00:56:25,677 --> 00:56:30,474
+E pelo que Magenta e Columbia
+assistiam ansiosamente no monitor da TV,
+
+645
+00:56:30,766 --> 00:56:34,394
+parecia haver pouca dúvida
+de que Janet era, de fato,
+
+646
+00:56:34,645 --> 00:56:36,146
+sua escrava.
+
+647
+00:56:36,814 --> 00:56:39,817
+Nos fale sobre isso, Janet.
+
+648
+00:56:42,653 --> 00:56:46,490
+<i>Estava me sentindo derrotada</i>
+
+649
+00:56:47,157 --> 00:56:48,992
+<i>Não conseguia ganhar</i>
+
+650
+00:56:50,369 --> 00:56:53,831
+<i>Havia no máximo beijado, antes.</i>
+
+651
+00:56:55,916 --> 00:56:57,417
+Quer dizer que ela nunca...?
+
+652
+00:56:57,668 --> 00:57:01,338
+<i>Achava que não havia sentido em...</i>
+
+653
+00:57:01,547 --> 00:57:04,675
+<i>num agarrão mais profundo.</i>
+
+654
+00:57:04,967 --> 00:57:09,263
+<i>Isso apenas causa problemas</i>
+
+655
+00:57:09,471 --> 00:57:11,598
+<i>E bancos úmidos</i>
+
+656
+00:57:12,099 --> 00:57:15,102
+<i>Agora tudo o que quero saber</i>
+
+657
+00:57:15,853 --> 00:57:18,188
+<i>É como ir</i>
+
+658
+00:57:18,438 --> 00:57:21,441
+<i>Provei do sangue e quero mais</i>
+
+659
+00:57:21,733 --> 00:57:23,527
+Mais, mais, mais.
+
+660
+00:57:24,153 --> 00:57:26,822
+<i>Não oferecerei resistência</i>
+
+661
+00:57:27,072 --> 00:57:29,283
+<i>Quero manter a distância</i>
+
+662
+00:57:30,159 --> 00:57:32,202
+<i>Tenho uma coceira para coçar</i>
+
+663
+00:57:33,203 --> 00:57:35,539
+<i>Preciso de ajuda</i>
+
+664
+00:57:35,789 --> 00:57:38,250
+<i>Toca, toca, toca, toque-me</i>
+
+665
+00:57:38,542 --> 00:57:41,128
+<i>Quero ser suja</i>
+
+666
+00:57:41,378 --> 00:57:43,881
+<i>Me emocione, me arrepie, me preencha</i>
+
+667
+00:57:44,173 --> 00:57:46,550
+<i>Criatura da noite</i>
+
+668
+00:57:51,805 --> 00:57:54,474
+<i>Então se algo crescer</i>
+
+669
+00:57:54,808 --> 00:57:57,394
+<i>Enquanto você posa</i>
+
+670
+00:57:57,644 --> 00:58:00,647
+<i>Vou lhe lubrificar e massagear</i>
+
+671
+00:58:00,898 --> 00:58:03,233
+Para cima, para baixo, para baixo.
+
+672
+00:58:03,484 --> 00:58:08,489
+<i>E esta é apenas uma pequena fração
+da minha atração</i>
+
+673
+00:58:09,573 --> 00:58:11,825
+<i>Você precisa de uma mão amiga</i>
+
+674
+00:58:12,075 --> 00:58:14,328
+<i>Oh, e eu preciso de ação</i>
+
+675
+00:58:14,620 --> 00:58:17,289
+<i>Toca, toca, toca, toque-me</i>
+
+676
+00:58:17,539 --> 00:58:20,083
+<i>Quero ser suja</i>
+
+677
+00:58:20,334 --> 00:58:22,836
+<i>Me emocione, me arrepie, me preencha</i>
+
+678
+00:58:23,086 --> 00:58:25,672
+<i>Criatura da noite</i>
+
+679
+00:58:25,964 --> 00:58:28,091
+<i>Toca, toca, toca, toque-me</i>
+
+680
+00:58:28,383 --> 00:58:31,011
+<i>Quero ficar suja</i>
+
+681
+00:58:31,220 --> 00:58:33,597
+<i>Me emocione, me arrepie, Me preencha</i>
+
+682
+00:58:33,889 --> 00:58:35,516
+<i>Criatura da noite</i>
+
+683
+00:58:36,683 --> 00:58:39,228
+<i>toca, toca, toca, toque-me</i>
+
+684
+00:58:39,520 --> 00:58:42,272
+<i>Quero ficar suja</i>
+
+685
+00:58:42,523 --> 00:58:44,608
+<i>Me emocione, me arrepie, me preencha</i>
+
+686
+00:58:44,900 --> 00:58:47,277
+<i>Criatura da noite</i>
+
+687
+00:58:47,528 --> 00:58:49,112
+<i>Criatura da noite.</i>
+
+688
+00:58:50,155 --> 00:58:52,282
+<i>Criatura da noite?</i>
+
+689
+00:58:52,866 --> 00:58:54,785
+<i>Criatura da noite.</i>
+
+690
+00:58:55,577 --> 00:58:56,954
+<i>Criatura da noite.</i>
+
+691
+00:58:58,288 --> 00:59:00,207
+<i>Criatura da noite.</i>
+
+692
+00:59:00,916 --> 00:59:02,543
+<i>Criatura da noite</i>
+
+693
+00:59:03,377 --> 00:59:04,962
+<i>Criatura da noite.</i>
+
+694
+00:59:06,338 --> 00:59:08,966
+<i>Criatura da noite</i>
+
+695
+00:59:14,972 --> 00:59:17,307
+Misericórdia!
+
+696
+00:59:20,018 --> 00:59:21,728
+Como isso aconteceu?
+
+697
+00:59:21,979 --> 00:59:25,649
+Eu entendi que vocês deveriam estar vigiando.
+
+698
+00:59:25,899 --> 00:59:28,986
+Saí apenas por um minuto, mestre.
+
+699
+00:59:29,278 --> 00:59:34,158
+Bem, veja se pode encontrá-lo
+pelo monitor.
+
+700
+00:59:41,165 --> 00:59:42,583
+Mestre.
+
+701
+00:59:42,833 --> 00:59:46,086
+Mestre, temos um visitante.
+
+702
+00:59:51,341 --> 00:59:52,509
+Ei, Scotty!
+
+703
+00:59:54,761 --> 00:59:55,846
+Dr. Everett Scott.
+
+704
+00:59:56,096 --> 00:59:59,433
+Você conhece esse terrestre...
+essa pessoa?
+
+705
+00:59:59,725 --> 01:00:03,854
+Com certeza que sim. Ele é
+um velho amigo meu.
+
+706
+01:00:04,104 --> 01:00:05,856
+Sei.
+
+707
+01:00:06,607 --> 01:00:09,860
+Então este não foi
+apenas um encontro casual.
+
+708
+01:00:10,319 --> 01:00:12,696
+Vocês vieram para cá com um propósito.
+
+709
+01:00:13,197 --> 01:00:16,867
+Eu lhe disse, meu carro quebrou.
+Eu disse a verdade.
+
+710
+01:00:17,159 --> 01:00:19,620
+Sei o que você me disse, Brad.
+
+711
+01:00:19,870 --> 01:00:24,625
+Mas este Dr. Everett Scott,
+seu nome não é desconhecido para mim.
+
+712
+01:00:25,292 --> 01:00:27,461
+Ele era um professor de ciências
+em Denton High.
+
+713
+01:00:27,753 --> 01:00:29,880
+E agora trabalha para o seu governo.
+
+714
+01:00:30,797 --> 01:00:33,634
+Ele é ligado
+ao Bureau de Investigações,
+
+715
+01:00:33,842 --> 01:00:37,387
+daquilo que vocês chamam UFOs!
+Não é mesmo, Brad?
+
+716
+01:00:37,679 --> 01:00:40,057
+Ele pode ser. Eu não sei.
+
+717
+01:00:40,349 --> 01:00:43,393
+O intruso está entrando
+no prédio, mestre.
+
+718
+01:00:46,230 --> 01:00:50,150
+Ele provavelmente irá para o quarto Zen.
+
+719
+01:00:57,199 --> 01:01:00,911
+Devemos chamá-lo... pessoalmente?
+
+720
+01:01:35,612 --> 01:01:36,530
+Grande Scott!
+
+721
+01:01:48,709 --> 01:01:49,960
+Frank N. Furter.
+
+722
+01:01:51,170 --> 01:01:52,462
+Finalmente nos encontramos.
+
+723
+01:01:54,423 --> 01:01:56,049
+Dr. Scott!
+
+724
+01:01:56,466 --> 01:01:58,635
+Brad! O que você está fazendo aqui?
+
+725
+01:01:59,928 --> 01:02:02,222
+Não brinque comigo, Dr. Scott.
+
+726
+01:02:03,098 --> 01:02:06,143
+Você sabe perfeitamente bem
+o que Brad Majors está fazendo aqui.
+
+727
+01:02:06,518 --> 01:02:08,562
+Era parte do seu plano, não era?
+
+728
+01:02:08,812 --> 01:02:12,649
+Que ele e sua fêmea
+deveriam checar o ambiente para você?
+
+729
+01:02:13,275 --> 01:02:17,738
+Bem, infelizmente para vocês,
+os planos serão mudados.
+
+730
+01:02:19,239 --> 01:02:22,242
+Espero que você seja adaptável, Dr. Scott.
+
+731
+01:02:22,493 --> 01:02:24,745
+Sei que Brad é.
+
+732
+01:02:24,995 --> 01:02:29,082
+Eu lhe garanto, a presença de Brad
+é uma completa surpresa para mim.
+
+733
+01:02:29,374 --> 01:02:31,251
+Vim aqui para encontrar Eddie.
+
+734
+01:02:32,294 --> 01:02:34,421
+- Eddie? Eu o vi. Ele está...
+- Eddie?
+
+735
+01:02:34,713 --> 01:02:36,507
+O que você sabe sobre o Eddie?
+
+736
+01:02:37,591 --> 01:02:40,260
+Sei muito
+sobre muitas coisas.
+
+737
+01:02:40,511 --> 01:02:43,597
+Veja bem, acontece que Eddie é
+meu sobrinho.
+
+738
+01:02:48,852 --> 01:02:50,437
+Dr. Scott.
+
+739
+01:02:54,608 --> 01:02:56,276
+- Janet!
+- Dr. Scott!
+
+740
+01:02:56,527 --> 01:02:57,778
+- Janet!
+- Brad!
+
+741
+01:02:58,070 --> 01:02:59,112
+Rocky!
+
+742
+01:02:59,404 --> 01:03:01,031
+- Janet!
+- Dr. Scott!
+
+743
+01:03:01,323 --> 01:03:02,783
+- Janet!
+- Brad!
+
+744
+01:03:03,033 --> 01:03:04,117
+Rocky!
+
+745
+01:03:08,372 --> 01:03:12,125
+Escute! Eu construí você...
+
+746
+01:03:12,376 --> 01:03:16,046
+...e posso quebrá-lo tão facilmente quanto o fiz.
+
+747
+01:03:18,882 --> 01:03:22,052
+Mestre, o jantar está pronto!
+
+748
+01:03:24,888 --> 01:03:26,223
+Excelente.
+
+749
+01:03:27,432 --> 01:03:32,146
+Em vista das circunstâncias,
+o traje formal é opcional.
+
+750
+01:03:34,898 --> 01:03:39,403
+A comida sempre teve um papel vital
+nos rituais da vida.
+
+751
+01:03:39,695 --> 01:03:44,241
+O partir do pão,
+a última refeição de um homem condenado
+
+752
+01:03:44,533 --> 01:03:47,911
+e agora esta refeição.
+
+753
+01:03:48,453 --> 01:03:51,331
+Por mais informal que ela pareça,
+
+754
+01:03:51,623 --> 01:03:55,919
+pode estar certo que havia
+muito pouco de hospitalidade.
+
+755
+01:05:12,579 --> 01:05:13,580
+Um brinde.
+
+756
+01:05:15,499 --> 01:05:17,668
+Aos amigos ausentes.
+
+757
+01:05:18,210 --> 01:05:20,170
+Aos amigos ausentes.
+
+758
+01:05:23,799 --> 01:05:26,468
+e Rocky.
+
+759
+01:05:35,519 --> 01:05:37,271
+Parabéns pra você
+
+760
+01:05:37,521 --> 01:05:39,439
+Nessa data querida
+
+761
+01:05:39,690 --> 01:05:41,692
+Muitas felicidades
+
+762
+01:05:41,942 --> 01:05:43,861
+- Muitos anos...
+- Podemos continuar?
+
+763
+01:06:02,588 --> 01:06:05,465
+Viemos aqui discutir sobre o Eddie.
+
+764
+01:06:05,716 --> 01:06:07,050
+Eddie!
+
+765
+01:06:11,388 --> 01:06:13,056
+É um assunto bem suculento.
+
+766
+01:06:13,807 --> 01:06:15,893
+Mais uma fatia, alguém?
+
+767
+01:06:22,024 --> 01:06:23,817
+Com licença.
+
+768
+01:06:35,704 --> 01:06:39,333
+Eu sabia que ele estava acompanhado
+de gente ruim, mas é pior do que pensei.
+
+769
+01:06:39,625 --> 01:06:41,251
+Aliens!
+
+770
+01:06:41,502 --> 01:06:42,419
+Dr. Scott!
+
+771
+01:06:43,212 --> 01:06:44,838
+Vá em frente, Dr. Scott.
+
+772
+01:06:46,131 --> 01:06:49,426
+Ou deveria dizer Dr. Von Scott?
+
+773
+01:06:50,302 --> 01:06:52,763
+O que você está querendo dizer com isso?
+
+774
+01:06:53,055 --> 01:06:54,223
+Está tudo bem!
+
+775
+01:06:54,473 --> 01:06:56,183
+Está tudo bem, Brad.
+
+776
+01:06:59,686 --> 01:07:02,105
+<i>Desde o dia em que ele nasceu</i>
+
+777
+01:07:04,942 --> 01:07:07,778
+<i>Ele foi um problema</i>
+
+778
+01:07:09,780 --> 01:07:12,616
+<i>Ele foi o espinho</i>
+
+779
+01:07:14,159 --> 01:07:17,621
+<i>espetado em sua mãe</i>
+
+780
+01:07:19,581 --> 01:07:22,793
+<i>Ela tentou em vão</i>
+
+781
+01:07:25,796 --> 01:07:30,133
+<i>Mas ele nunca lhe deu
+nada além de vergonha</i>
+
+782
+01:07:31,051 --> 01:07:34,388
+<i>Ele saiu de casa</i>
+
+783
+01:07:34,680 --> 01:07:37,891
+<i>no dia em que ela morreu</i>
+
+784
+01:07:38,142 --> 01:07:40,310
+<i>Desde o dia em que ela se foi</i>
+
+785
+01:07:41,395 --> 01:07:43,480
+<i>Tudo o que ele queria</i>
+
+786
+01:07:44,356 --> 01:07:46,567
+<i>Era pornografia e rock 'n' roll</i>
+
+787
+01:07:47,234 --> 01:07:49,695
+<i>e uma motocicleta</i>
+
+788
+01:07:50,362 --> 01:07:52,823
+<i>cuspindo lixo</i>
+
+789
+01:07:53,907 --> 01:07:57,077
+<i>Ele era um pequeno punk reles e fracassado</i>
+
+790
+01:07:57,327 --> 01:08:02,416
+<i>Que levava qualquer um na garupa</i>
+
+791
+01:08:03,375 --> 01:08:06,044
+<i>Quando Eddie disse
+que não gostava de seu ursinho</i>
+
+792
+01:08:06,295 --> 01:08:08,755
+<i>você soube que ele não era um bom garoto</i>
+
+793
+01:08:09,006 --> 01:08:11,842
+<i>Mas quando ele ameaçou sua vida
+com uma faca retrátil</i>
+
+794
+01:08:12,092 --> 01:08:13,510
+<i>- Que cara
+- Te faz chorar</i>
+
+795
+01:08:13,719 --> 01:08:15,179
+<i>E eu fiz</i>
+
+796
+01:08:15,679 --> 01:08:18,515
+<i>Todos o escurraçavam</i>
+
+797
+01:08:18,807 --> 01:08:21,852
+<i>Eu quase o amava</i>
+
+798
+01:08:22,102 --> 01:08:24,771
+<i>Eu disse, ei, me escute</i>
+
+799
+01:08:25,022 --> 01:08:27,941
+<i>Fique são em sua insanidade</i>
+
+800
+01:08:28,192 --> 01:08:33,280
+<i>Mas ele trancou a porta
+e jogou a chave fora</i>
+
+801
+01:08:33,572 --> 01:08:35,449
+<i>Mas ele deve ter sido levado</i>
+
+802
+01:08:37,159 --> 01:08:38,785
+<i>a fazer algo</i>
+
+803
+01:08:40,078 --> 01:08:42,206
+<i>que o fez me avisar</i>
+
+804
+01:08:42,456 --> 01:08:44,124
+<i>em uma nota que diz:</i>
+
+805
+01:08:44,333 --> 01:08:45,792
+<i>O que ela diz? O que ela diz?</i>
+
+806
+01:08:46,084 --> 01:08:47,461
+<i>"Estou fora de mim</i>
+
+807
+01:08:49,338 --> 01:08:52,049
+<i>Oh, apresse-se ou poderei estar morto</i>
+
+808
+01:08:52,674 --> 01:08:57,805
+<i>Eles não devem completar
+seus planos malignos"</i>
+
+809
+01:08:59,056 --> 01:09:01,892
+<i>Quando Eddie disse
+que não gostava de seu ursinho</i>
+
+810
+01:09:02,100 --> 01:09:03,894
+<i>Você soube que ele não era um bom garoto</i>
+
+811
+01:09:04,561 --> 01:09:07,231
+<i>Quando ele ameaçou sua vida
+Com uma faca retrátil</i>
+
+812
+01:09:07,606 --> 01:09:09,149
+<i>- Que cara
+- Te faz chorar</i>
+
+813
+01:09:09,441 --> 01:09:10,818
+<i>E eu fiz</i>
+
+814
+01:09:11,109 --> 01:09:13,570
+<i>Quando Eddie disse
+que não gostava de seu ursinho</i>
+
+815
+01:09:13,779 --> 01:09:16,156
+<i>Você soube que ele não era um bom garoto</i>
+
+816
+01:09:16,448 --> 01:09:19,660
+<i>Mas quando ele ameaçou sua vida
+Com uma faca retrátil</i>
+
+817
+01:09:20,994 --> 01:09:25,332
+<i>- Que cara
+- Woe, woe, woe</i>
+
+818
+01:09:25,624 --> 01:09:30,254
+<i>- Te faz chorar
+- Hey, hey, hey</i>
+
+819
+01:09:30,504 --> 01:09:33,924
+<i>E eu fiz</i>
+
+820
+01:09:34,216 --> 01:09:37,970
+<i>Hey</i>
+
+821
+01:09:39,638 --> 01:09:40,639
+Oh.
+
+822
+01:09:52,234 --> 01:09:53,610
+Oh, Rocky!
+
+823
+01:09:55,821 --> 01:09:57,948
+Como você pôde?!
+
+824
+01:10:05,956 --> 01:10:07,791
+Por aqui! Por aqui!
+
+825
+01:10:10,711 --> 01:10:12,045
+Calada!
+
+826
+01:10:13,589 --> 01:10:16,717
+<i>Vou lhe dizer uma vez,
+não vou lhe dizer duas</i>
+
+827
+01:10:17,009 --> 01:10:20,554
+<i>É melhor você se ligar,
+Janet Weiss</i>
+
+828
+01:10:20,804 --> 01:10:24,141
+<i>Seu acarajé
+Não é tão gostoso assim</i>
+
+829
+01:10:24,433 --> 01:10:27,728
+<i>É melhor você se ligar
+Janet Weiss</i>
+
+830
+01:10:34,568 --> 01:10:38,071
+<i>Plantei a semente,
+deveria ser tudo o que você precisa</i>
+
+831
+01:10:38,322 --> 01:10:40,240
+<i>Você é tão sensual como uma lapiseira</i>
+
+832
+01:10:40,491 --> 01:10:42,075
+<i>Uó e gongada, é a última escolha</i>
+
+833
+01:10:42,367 --> 01:10:44,912
+<i>Quando nós fizemos,
+você ouviu sininhos?</i>
+
+834
+01:10:45,621 --> 01:10:48,665
+<i>Você teve um bloqueio.
+Bem, aceite meu conselho</i>
+
+835
+01:10:48,957 --> 01:10:53,003
+<i>É melhor você se ligar,
+Janet Weiss</i>
+
+836
+01:10:53,462 --> 01:10:56,924
+<i>O transductor
+irá seduzi-los</i>
+
+837
+01:10:58,967 --> 01:11:01,845
+Meus pés! Não consigo mover meus pés!
+
+838
+01:11:02,095 --> 01:11:05,182
+Minhas rodas!
+Meu Deus, não consigo mover minhas rodas.
+
+839
+01:11:06,683 --> 01:11:08,852
+É como se estivéssemos colados no chão.
+
+840
+01:11:09,353 --> 01:11:10,938
+Vocês estão.
+
+841
+01:11:11,396 --> 01:11:14,775
+Então quebrem o peito de medo, seus pequenos quatis.
+
+842
+01:11:16,276 --> 01:11:17,611
+Vocês estão presos.
+
+843
+01:11:18,278 --> 01:11:22,199
+É algo com o que vocês se acostumarão.
+Uma foda mental pode ser boa
+
+844
+01:11:22,449 --> 01:11:23,242
+Não!
+
+845
+01:11:23,534 --> 01:11:26,703
+Você vai ver que o povo da Terra
+não é o alvo fácil que você imagina.
+
+846
+01:11:26,995 --> 01:11:28,914
+O transductor sônico...
+
+847
+01:11:29,206 --> 01:11:33,627
+é um tipo de aparelho transportador
+fisiomolecular audio-vibratório?
+
+848
+01:11:33,877 --> 01:11:35,379
+- Você quer dizer...?
+- Sim, Brad.
+
+849
+01:11:35,671 --> 01:11:39,132
+É algo em que nós
+vínhamos trabalhando há algum tempo.
+
+850
+01:11:39,383 --> 01:11:43,220
+Mas parece que nosso amigo encontrou
+um modo de aperfeiçoá-lo.
+
+851
+01:11:43,470 --> 01:11:46,723
+Um aparelho capaz
+de quebrar a matéria sólida
+
+852
+01:11:47,015 --> 01:11:50,352
+e projetá-la através
+do espaço, e quem sabe
+
+853
+01:11:50,644 --> 01:11:54,148
+talvez até mesmo do tempo!
+
+854
+01:11:54,439 --> 01:11:56,817
+Ele vai nos mandar para outro planeta?
+
+855
+01:11:57,067 --> 01:12:00,195
+<i>Planeta Schmaneta, Janet.</i>
+
+856
+01:12:00,863 --> 01:12:03,866
+<i>É melhor você se ligar,
+Janet Weiss</i>
+
+857
+01:12:04,116 --> 01:12:08,078
+<i>É melhor você se ligar
+E engrossar suas coxas</i>
+
+858
+01:12:08,328 --> 01:12:09,830
+<i>É melhor você se ligar</i>
+
+859
+01:12:10,080 --> 01:12:12,207
+E então ela gritou:
+
+860
+01:12:12,457 --> 01:12:14,168
+Pare!
+
+861
+01:12:18,380 --> 01:12:23,510
+<i>Não fique quente e vermelha</i>
+
+862
+01:12:24,261 --> 01:12:28,515
+<i>Use um pouco de mostarda</i>
+
+863
+01:12:28,765 --> 01:12:31,477
+<i>Você é um hot dog</i>
+
+864
+01:12:31,727 --> 01:12:34,438
+<i>Mas é melhor você não</i>
+
+865
+01:12:35,063 --> 01:12:37,733
+<i>tentar machucá-la</i>
+
+866
+01:12:38,233 --> 01:12:39,318
+<i>Frank Furter</i>
+
+867
+01:12:40,444 --> 01:12:43,113
+<i>Você é um hot dog</i>
+
+868
+01:12:43,363 --> 01:12:46,200
+<i>Mas é melhor você não</i>
+
+869
+01:12:46,450 --> 01:12:49,369
+<i>tentar machucá-la</i>
+
+870
+01:12:49,786 --> 01:12:51,246
+<i>Frank Furter</i>
+
+871
+01:12:52,414 --> 01:12:54,541
+<i>Você é um hot dog</i>
+
+872
+01:12:57,002 --> 01:13:00,881
+Deus! Eu não posso
+agüentar mais isso.
+
+873
+01:13:01,173 --> 01:13:06,053
+Primeiro, você rouba o Eddie de mim; então
+você o troca como um casaco velho pelo Rocky.
+
+874
+01:13:06,678 --> 01:13:10,057
+Você mastiga as pessoas
+e as cospe de volta.
+
+875
+01:13:10,849 --> 01:13:12,142
+Eu amei você.
+
+876
+01:13:12,810 --> 01:13:14,645
+Você está me ouvindo? Eu amei você.
+
+877
+01:13:14,853 --> 01:13:18,398
+E o que isso me trouxe?
+Vou lhe dizer, um grande nada.
+
+878
+01:13:18,649 --> 01:13:22,820
+Você é como uma esponja. Você suga
+o amor e as emoções dos outros.
+
+879
+01:13:23,070 --> 01:13:24,655
+Bem, eu já estou farto disso!
+
+880
+01:13:24,863 --> 01:13:28,992
+Escolha entre eu e Rocky, assim nomeado
+pelas pedras dentro de sua cabeça.
+
+881
+01:13:39,753 --> 01:13:42,589
+Não é fácil se divertir.
+
+882
+01:13:50,889 --> 01:13:54,017
+Mesmo sorrir faz minha face doer.
+
+883
+01:13:57,479 --> 01:14:00,274
+E minhas crianças se voltam contra mim.
+
+884
+01:14:00,774 --> 01:14:04,027
+Rocky está se comportando
+da mesma maneira que Eddie.
+
+885
+01:14:06,780 --> 01:14:08,031
+Talvez eu tenha cometido um erro
+
+886
+01:14:08,323 --> 01:14:11,118
+ao repartir seu cérebro
+entre eles dois.
+
+887
+01:14:11,410 --> 01:14:13,662
+Estou cansado deste mundo!
+
+888
+01:14:13,954 --> 01:14:17,207
+Quando vamos voltar para Transylvania?!
+
+889
+01:14:18,333 --> 01:14:19,918
+Magenta,
+
+890
+01:14:20,544 --> 01:14:24,214
+estou realmente grato a você
+e a seu irmão, Riff Raff.
+
+891
+01:14:24,464 --> 01:14:26,967
+Vocês me serviram bem.
+
+892
+01:14:27,217 --> 01:14:31,305
+Lealdade como a sua
+não passará sem recompensa.
+
+893
+01:14:31,555 --> 01:14:36,143
+Vocês descobrirão que quando o bom humor
+me ataca, posso ser bem generoso.
+
+894
+01:14:36,393 --> 01:14:39,480
+Não estou pedindo nada, mestre.
+
+895
+01:14:40,022 --> 01:14:44,067
+E assim você receberá em abundância!
+
+896
+01:14:46,153 --> 01:14:49,490
+Venha. Estamos prontos
+para o show.
+
+897
+01:15:17,684 --> 01:15:22,731
+E então, por uma coincidência
+extraordinária
+
+898
+01:15:22,981 --> 01:15:25,859
+o destino, assim parece, decidiu
+que Brad e Janet
+
+899
+01:15:26,151 --> 01:15:29,988
+deveriam manter sua consulta
+com seu amigo, Dr. Everett Scott.
+
+900
+01:15:30,280 --> 01:15:32,199
+Mas ela seria em uma situação
+
+901
+01:15:32,449 --> 01:15:35,577
+na qual nenhum deles
+poderia ter previsto.
+
+902
+01:15:35,828 --> 01:15:40,249
+E apenas algumas horas
+após anunciarem seu casamento
+
+903
+01:15:40,541 --> 01:15:44,127
+Brad e Janet haviam ambos provado
+
+904
+01:15:45,087 --> 01:15:47,047
+do fruto proibido.
+
+905
+01:15:48,590 --> 01:15:50,217
+Apenas isso já é uma prova
+
+906
+01:15:50,509 --> 01:15:53,887
+de que seu anfitrião
+era um homem de pouca moral
+
+907
+01:15:54,138 --> 01:15:57,057
+e de alguma persuasão.
+
+908
+01:15:57,808 --> 01:16:02,479
+A que outras indignidades
+eles iriam ser sujeitados?
+
+909
+01:16:02,813 --> 01:16:07,734
+E o que seria este show
+do qual eles haviam falado?
+
+910
+01:16:08,360 --> 01:16:11,071
+Em uma casa vazia
+
+911
+01:16:11,363 --> 01:16:14,324
+no meio da noite?
+
+912
+01:16:14,575 --> 01:16:17,286
+Que plano diabólico
+
+913
+01:16:17,578 --> 01:16:21,665
+havia capturado
+a imaginação tresloucada de Frank?
+
+914
+01:16:23,625 --> 01:16:25,627
+O que seria?
+
+915
+01:16:26,295 --> 01:16:29,840
+Pelo que já acontecera antes,
+estava claro
+
+916
+01:16:30,132 --> 01:16:33,594
+que este não seria nenhum piquenique.
+
+917
+01:17:02,164 --> 01:17:05,918
+<i>Foi ótimo quando tudo começou</i>
+
+918
+01:17:06,210 --> 01:17:10,923
+<i>Eu era um fã do Frank</i>
+
+919
+01:17:11,131 --> 01:17:14,593
+<i>Mas tudo acabou quando ele fez o plano</i>
+
+920
+01:17:14,843 --> 01:17:19,056
+<i>de trabalhar em um homem musculoso</i>
+
+921
+01:17:19,264 --> 01:17:22,976
+<i>Agora a única coisa que me dá esperanças</i>
+
+922
+01:17:23,227 --> 01:17:27,815
+<i>É o meu amor com poder de me dopar</i>
+
+923
+01:17:28,065 --> 01:17:30,609
+<i>Meu mundo se tinge de rosa</i>
+
+924
+01:17:30,901 --> 01:17:34,738
+<i>Me mantém a salvo
+de meus problemas e minha dor</i>
+
+925
+01:17:36,240 --> 01:17:40,118
+<i>Tenho apenas sete horas de vida</i>
+
+926
+01:17:40,410 --> 01:17:43,413
+<i>Sou realmente belo de se olhar</i>
+
+927
+01:17:44,915 --> 01:17:48,252
+<i>E isso deveria ser dito para alguém</i>
+
+928
+01:17:48,544 --> 01:17:52,422
+<i>Minha libido não foi controlada</i>
+
+929
+01:17:53,006 --> 01:17:56,760
+<i>Agora, a única coisa em que podemos confiar</i>
+
+930
+01:17:57,177 --> 01:18:01,348
+<i>é numa onda de luxúria orgásmica</i>
+
+931
+01:18:01,682 --> 01:18:03,267
+<i>Meu mundo se tinge de rosa</i>
+
+932
+01:18:03,517 --> 01:18:07,813
+<i>E me mantém a salvo
+De meus problemas e de minha dor</i>
+
+933
+01:18:10,315 --> 01:18:14,111
+<i>Está além de mim</i>
+
+934
+01:18:14,403 --> 01:18:18,532
+<i>Me ajude, mamãe</i>
+
+935
+01:18:18,824 --> 01:18:22,452
+<i>Vou me comportar, você vai ver</i>
+
+936
+01:18:22,744 --> 01:18:26,206
+<i>Leve este sonho embora</i>
+
+937
+01:18:26,999 --> 01:18:29,459
+<i>O que é isso</i>
+
+938
+01:18:29,710 --> 01:18:31,628
+<i>Vamos ver</i>
+
+939
+01:18:31,879 --> 01:18:35,382
+<i>Eu me sinto sexy</i>
+
+940
+01:18:36,800 --> 01:18:39,553
+<i>O que deu em mim</i>
+
+941
+01:18:39,970 --> 01:18:42,723
+<i>Aí vou eu de novo</i>
+
+942
+01:18:46,018 --> 01:18:49,771
+<i>Eu me sinto livre</i>
+
+943
+01:18:50,063 --> 01:18:53,317
+<i>Os maus tempos desapareceram</i>
+
+944
+01:18:53,525 --> 01:18:56,778
+<i>Minha confiança aumentou</i>
+
+945
+01:18:58,113 --> 01:19:01,241
+<i>A realidade está aqui</i>
+
+946
+01:19:01,450 --> 01:19:05,621
+<i>O jogo foi encerrado</i>
+
+947
+01:19:05,913 --> 01:19:09,333
+<i>Minha mente foi expandida</i>
+
+948
+01:19:09,583 --> 01:19:12,753
+<i>Foi um estouro Frank ter
+aterrissado aqui</i>
+
+949
+01:19:13,962 --> 01:19:18,509
+<i>Sua luxúria é tão sincera</i>
+
+950
+01:19:54,294 --> 01:19:56,213
+<i>O que quer que tenha acontecido</i>
+
+951
+01:19:56,463 --> 01:19:58,966
+<i>à Fay Wray</i>
+
+952
+01:19:59,508 --> 01:20:01,301
+<i>Aquela delicada</i>
+
+953
+01:20:01,593 --> 01:20:06,098
+<i>tira de cetim pregueado</i>
+
+954
+01:20:07,307 --> 01:20:11,478
+<i>Que pendia de suas coxas</i>
+
+955
+01:20:11,812 --> 01:20:16,900
+<i>Como comecei a chorar</i>
+
+956
+01:20:18,360 --> 01:20:21,321
+<i>Porque eu queria estar vestido</i>
+
+957
+01:20:21,613 --> 01:20:25,909
+<i>Do mesmo jeito</i>
+
+958
+01:20:27,161 --> 01:20:29,329
+<i>Renda-se</i>
+
+959
+01:20:29,621 --> 01:20:33,667
+<i>Ao prazer absoluto</i>
+
+960
+01:20:33,917 --> 01:20:37,004
+<i>Nade nas águas mornas</i>
+
+961
+01:20:37,254 --> 01:20:40,924
+<i>Dos prazeres da carne</i>
+
+962
+01:20:41,216 --> 01:20:44,011
+<i>Pesadelos eróticos</i>
+
+963
+01:20:44,261 --> 01:20:48,015
+<i>Além de qualquer medida</i>
+
+964
+01:20:48,307 --> 01:20:51,602
+<i>E devaneios sensuais</i>
+
+965
+01:20:51,852 --> 01:20:56,356
+<i>Para lembrar para sempre</i>
+
+966
+01:20:56,648 --> 01:21:01,778
+<i>Você não consegue vê-los?</i>
+
+967
+01:21:15,209 --> 01:21:18,212
+<i>Não sonhe que é</i>
+
+968
+01:21:19,588 --> 01:21:22,382
+<i>Seja</i>
+
+969
+01:21:22,633 --> 01:21:26,386
+<i>Não sonhe que é</i>
+
+970
+01:21:27,304 --> 01:21:30,098
+<i>Seja</i>
+
+971
+01:21:30,390 --> 01:21:33,477
+<i>Não sonhe que é</i>
+
+972
+01:21:34,812 --> 01:21:36,647
+<i>Seja</i>
+
+973
+01:21:45,322 --> 01:21:49,827
+<i>Não sonhe que é</i>
+
+974
+01:21:50,077 --> 01:21:52,579
+<i>Seja</i>
+
+975
+01:22:23,694 --> 01:22:26,029
+Precisamos sair
+
+976
+01:22:26,321 --> 01:22:28,115
+dessa armadilha
+
+977
+01:22:29,366 --> 01:22:33,120
+antes que essa decadência
+
+978
+01:22:33,829 --> 01:22:36,206
+domine nossas vontades.
+
+979
+01:22:37,457 --> 01:22:39,793
+Preciso ser forte
+
+980
+01:22:40,210 --> 01:22:42,671
+e tentar me agüentar,
+
+981
+01:22:44,339 --> 01:22:46,300
+do contrário minha mente
+
+982
+01:22:47,593 --> 01:22:49,970
+pode muito bem pirar.
+
+983
+01:22:50,804 --> 01:22:55,017
+<i>E minha vida será vivida</i>
+
+984
+01:22:56,643 --> 01:23:01,482
+<i>para o prazer</i>
+
+985
+01:23:05,694 --> 01:23:09,323
+<i>Está além de mim</i>
+
+986
+01:23:09,573 --> 01:23:12,743
+<i>Me ajude, mamãezinha</i>
+
+987
+01:23:13,118 --> 01:23:14,995
+<i>Deus abençoe</i>
+
+988
+01:23:15,287 --> 01:23:19,416
+<i>Lily St. Cyr</i>
+
+989
+01:23:21,752 --> 01:23:23,837
+<i>My, my, my, my</i>
+
+990
+01:23:24,129 --> 01:23:26,423
+<i>My, my, my, my</i>
+
+991
+01:23:26,673 --> 01:23:28,592
+<i>Sou uma criatura selvagem e indomada</i>
+
+992
+01:23:28,884 --> 01:23:30,928
+<i>Sou uma abelha com um ferrão mortal</i>
+
+993
+01:23:31,178 --> 01:23:33,430
+<i>Seja picado e sua mente faz "ping"</i>
+
+994
+01:23:33,680 --> 01:23:35,849
+<i>Seu coração vai ecoar
+E seu sangue vai cantar</i>
+
+995
+01:23:36,141 --> 01:23:38,352
+<i>Deixe a festa e o som rolar</i>
+
+996
+01:23:38,602 --> 01:23:41,146
+<i>Nós vamos quebrar
+Até a vida acabar</i>
+
+997
+01:23:41,438 --> 01:23:45,859
+<i>Meu mundo é tinto de rosa
+E me mantém seguro dos problemas e da dor</i>
+
+998
+01:23:48,487 --> 01:23:50,531
+<i>Somos criaturas selvagens e indomadas</i>
+
+999
+01:23:50,781 --> 01:23:52,783
+<i>Somos abelhas com um ferrão mortal</i>
+
+1000
+01:23:53,033 --> 01:23:55,369
+<i>Seja picado e sua mente fará "ping"</i>
+
+1001
+01:23:55,661 --> 01:23:57,579
+<i>Seu coração vai ecoar
+E seu sangue vai cantar</i>
+
+1002
+01:23:57,871 --> 01:24:00,123
+<i>Então deixe a festa
+e o som rolarem</i>
+
+1003
+01:24:00,374 --> 01:24:03,043
+<i>Vamos quebrar,
+até a vida se acabar</i>
+
+1004
+01:24:03,335 --> 01:24:08,215
+<i>Meu mundo é tinto de rosa
+E me mantém a salvo dos problemas e da dor</i>
+
+1005
+01:24:18,684 --> 01:24:20,561
+<i>Somos criaturas selvagens e indomadas</i>
+
+1006
+01:24:20,853 --> 01:24:23,397
+<i>Somos abelhas com um ferrão mortal</i>
+
+1007
+01:24:23,647 --> 01:24:25,732
+<i>Seja picado e sua mente faz "ping"</i>
+
+1008
+01:24:25,983 --> 01:24:27,568
+<i>Seu coração vai ecoar
+E seu sangue irá cantar</i>
+
+1009
+01:24:28,068 --> 01:24:30,237
+<i>Então deixe a festa
+E o som rolarem</i>
+
+1010
+01:24:30,487 --> 01:24:32,865
+<i>Vamos quebrar,
+até a vida acabar</i>
+
+1011
+01:24:33,157 --> 01:24:37,995
+<i>Meu mundo é tinto de rosa
+E me mantém a salvo dos problemas e da dor</i>
+
+1012
+01:24:41,874 --> 01:24:44,585
+<i>Frank N. Furter</i>
+
+1013
+01:24:44,877 --> 01:24:47,671
+<i>Está tudo acabado</i>
+
+1014
+01:24:48,130 --> 01:24:51,175
+<i>Sua missão foi um fracasso</i>
+
+1015
+01:24:51,467 --> 01:24:54,928
+<i>Seu estilo de vida é muito extremo</i>
+
+1016
+01:24:55,179 --> 01:24:58,432
+<i>Sou seu novo comandante</i>
+
+1017
+01:24:58,682 --> 01:25:01,143
+<i>Você é agora meu prisioneiro</i>
+
+1018
+01:25:01,393 --> 01:25:04,688
+<i>Vamos retornar à Transylvania</i>
+
+1019
+01:25:05,439 --> 01:25:10,569
+<i>Prepare o raio transportador</i>
+
+1020
+01:25:12,529 --> 01:25:13,864
+Espere!
+
+1021
+01:25:17,284 --> 01:25:19,036
+Eu posso explicar.
+
+1022
+01:25:48,690 --> 01:25:52,820
+<i>No dia em que eu parti</i>
+
+1023
+01:25:53,070 --> 01:25:56,990
+<i>Adeus</i>
+
+1024
+01:25:57,241 --> 01:26:00,118
+<i>Era tudo o que eu tinha para dizer</i>
+
+1025
+01:26:00,786 --> 01:26:03,705
+<i>Agora eu</i>
+
+1026
+01:26:04,915 --> 01:26:08,335
+<i>quero voltar e ficar</i>
+
+1027
+01:26:08,585 --> 01:26:11,338
+<i>Oh, my, my</i>
+
+1028
+01:26:11,630 --> 01:26:16,760
+<i>Sorria e eu entenderei que eu posso</i>
+
+1029
+01:26:22,474 --> 01:26:23,725
+<i>Porque eu vi</i>
+
+1030
+01:26:27,187 --> 01:26:32,276
+<i>Céus azuis através das lágrimas</i>
+
+1031
+01:26:33,443 --> 01:26:34,444
+<i>Nos meus olhos</i>
+
+1032
+01:26:37,781 --> 01:26:40,117
+<i>E eu compreendi</i>
+
+1033
+01:26:42,870 --> 01:26:45,706
+<i>Estou indo para casa</i>
+
+1034
+01:26:49,918 --> 01:26:53,463
+<i>Estou indo para casa</i>
+
+1035
+01:27:00,637 --> 01:27:04,266
+<i>Em todo lugar tem sido a mesma</i>
+
+1036
+01:27:05,100 --> 01:27:08,770
+<i>sensação</i>
+
+1037
+01:27:09,062 --> 01:27:12,483
+<i>Como se eu estivesse do lado de fora
+na chuva</i>
+
+1038
+01:27:12,733 --> 01:27:15,736
+<i>Andando em círculos</i>
+
+1039
+01:27:16,028 --> 01:27:19,740
+<i>Livre para tentar achar um jogo</i>
+
+1040
+01:27:20,032 --> 01:27:22,743
+<i>Embaralhando</i>
+
+1041
+01:27:23,035 --> 01:27:25,579
+<i>Cartas para a tristeza</i>
+
+1042
+01:27:25,871 --> 01:27:31,001
+<i>Cartas para a dor</i>
+
+1043
+01:27:33,337 --> 01:27:35,339
+<i>Porque eu vi</i>
+
+1044
+01:27:37,925 --> 01:27:40,219
+<i>Céus azuis</i>
+
+1045
+01:27:40,511 --> 01:27:43,680
+<i>Através das lágrimas</i>
+
+1046
+01:27:43,972 --> 01:27:46,183
+<i>Nos meus olhos</i>
+
+1047
+01:27:48,393 --> 01:27:50,771
+<i>E eu compreendi</i>
+
+1048
+01:27:53,398 --> 01:27:55,776
+<i>Que estou indo para casa</i>
+
+1049
+01:28:00,197 --> 01:28:04,952
+<i>estou indo para casa</i>
+
+1050
+01:28:07,788 --> 01:28:11,208
+<i>estou indo para casa</i>
+
+1051
+01:28:16,129 --> 01:28:21,218
+<i>estou indo para casa</i>
+
+1052
+01:28:45,492 --> 01:28:48,537
+Que sentimental.
+
+1053
+01:29:00,090 --> 01:29:02,259
+E também presunçoso da sua parte.
+
+1054
+01:29:04,303 --> 01:29:07,306
+Veja bem, quando dissemos "nós"
+
+1055
+01:29:07,598 --> 01:29:10,142
+iremos retornar à Transylvania
+
+1056
+01:29:10,434 --> 01:29:12,769
+eu estava me referindo apenas
+a mim e à Magenta.
+
+1057
+01:29:13,812 --> 01:29:17,149
+Me desculpe, entretanto, se você
+achou minhas palavras ambiguas
+
+1058
+01:29:17,357 --> 01:29:18,442
+mas veja bem,
+
+1059
+01:29:18,692 --> 01:29:21,528
+você irá permanecer aqui.
+
+1060
+01:29:21,945 --> 01:29:24,406
+Pelo menos em espírito.
+
+1061
+01:29:26,074 --> 01:29:27,784
+Oh, céus, isso é um laser.
+
+1062
+01:29:27,993 --> 01:29:29,369
+Sim, Dr. Scott.
+
+1063
+01:29:30,162 --> 01:29:33,999
+Um laser capaz de emitir
+um raio de pura anti-matéria.
+
+1064
+01:29:35,125 --> 01:29:36,877
+Você vai matá-lo?
+
+1065
+01:29:37,461 --> 01:29:40,464
+- Qual o seu crime?
+- Você viu o que aconteceu com Eddie.
+
+1066
+01:29:40,756 --> 01:29:42,966
+A sociedade deve ser protegida.
+
+1067
+01:29:43,300 --> 01:29:45,469
+Exatamente, Dr. Scott.
+
+1068
+01:29:45,719 --> 01:29:48,639
+Agora, Frank N. Furter,
+sua hora chegou
+
+1069
+01:29:49,348 --> 01:29:52,810
+Diga adeus a tudo isso
+
+1070
+01:29:54,144 --> 01:29:58,065
+e alô para o esquecimento.
+
+1071
+01:30:15,415 --> 01:30:16,583
+Não.
+
+1072
+01:30:17,084 --> 01:30:18,085
+Não.
+
+1073
+01:30:18,335 --> 01:30:19,920
+Não!
+
+1074
+01:31:50,010 --> 01:31:51,428
+Por Deus!
+
+1075
+01:31:52,721 --> 01:31:53,931
+Você os matou.
+
+1076
+01:31:54,223 --> 01:31:58,936
+Mas achei que você gostava deles.
+Eles gostavam de você.
+
+1077
+01:31:59,603 --> 01:32:02,064
+Eles não gostavam de mim!
+
+1078
+01:32:03,023 --> 01:32:05,400
+Eles nunca gostaram de mim!
+
+1079
+01:32:05,734 --> 01:32:07,528
+Você fez bem.
+
+1080
+01:32:21,708 --> 01:32:24,795
+Uma decisão tinha que ser feita.
+
+1081
+01:32:25,337 --> 01:32:27,548
+Por mim, você é ok.
+
+1082
+01:32:28,674 --> 01:32:30,634
+Dr. Scott,
+
+1083
+01:32:31,593 --> 01:32:35,973
+me desculpe pelo seu sobrinho.
+
+1084
+01:32:36,265 --> 01:32:37,516
+Eddie?
+
+1085
+01:32:38,058 --> 01:32:41,311
+Sim, bem,
+talvez tenha sido melhor.
+
+1086
+01:32:43,647 --> 01:32:47,734
+Você deveria partir agora, Dr. Scott,
+enquanto ainda é possível.
+
+1087
+01:32:48,068 --> 01:32:50,737
+Estamos prestes
+a desintegrar a casa inteira
+
+1088
+01:32:50,988 --> 01:32:53,740
+de volta ao planeta Transexual,
+
+1089
+01:32:53,991 --> 01:32:57,161
+na galáxia de Transylvania.
+
+1090
+01:32:58,704 --> 01:32:59,830
+Vão.
+
+1091
+01:33:01,081 --> 01:33:02,332
+Agora.
+
+1092
+01:33:15,095 --> 01:33:19,016
+Nossa nobre missão
+está quase concluída
+
+1093
+01:33:20,559 --> 01:33:22,769
+minha linda irmã.
+
+1094
+01:33:23,604 --> 01:33:28,025
+E breve retornaremos
+para as praias banhadas pela lua
+
+1095
+01:33:28,275 --> 01:33:30,527
+de nosso amado planeta,
+
+1096
+01:33:32,196 --> 01:33:36,533
+da Transexual.
+
+1097
+01:33:37,659 --> 01:33:40,537
+A terra da noite.
+
+1098
+01:33:41,455 --> 01:33:46,543
+Para cantar e dançar mais uma vez
+o nosso refrão negro.
+
+1099
+01:33:51,799 --> 01:33:53,634
+Para dar aquele
+
+1100
+01:33:55,511 --> 01:33:58,639
+passo para a direita.
+
+1101
+01:34:00,641 --> 01:34:03,477
+Mas é o impulso pélvico...
+
+1102
+01:34:03,727 --> 01:34:06,980
+<i>Que realmente te deixa louco</i>
+
+1103
+01:34:07,606 --> 01:34:10,567
+E nosso mundo
+
+1104
+01:34:10,818 --> 01:34:15,739
+vai dar a dobra do tempo de novo !
+
+1105
+01:34:35,676 --> 01:34:39,012
+<i>Eu fiz muito,</i>
+
+1106
+01:34:39,304 --> 01:34:43,517
+<i>Deus sabe que tentei</i>
+
+1107
+01:34:43,725 --> 01:34:47,271
+<i>achar a verdade</i>
+
+1108
+01:34:47,563 --> 01:34:51,859
+<i>Eu até menti.</i>
+
+1109
+01:34:52,109 --> 01:34:55,612
+<i>Mas tudo o que eu sei</i>
+
+1110
+01:34:55,863 --> 01:34:58,949
+<i>Está dentro de mim</i>
+
+1111
+01:34:59,241 --> 01:35:03,787
+<i>estou sangrando</i>
+
+1112
+01:35:07,791 --> 01:35:12,045
+<i>E super heróis</i>
+
+1113
+01:35:12,296 --> 01:35:15,632
+<i>Vem se fartar</i>
+
+1114
+01:35:15,883 --> 01:35:19,386
+<i>E provar a carne</i>
+
+1115
+01:35:19,636 --> 01:35:23,223
+<i>Ainda não morta</i>
+
+1116
+01:35:23,515 --> 01:35:27,269
+<i>E tudo o que eu sei</i>
+
+1117
+01:35:27,519 --> 01:35:30,481
+<i>É que a besta</i>
+
+1118
+01:35:30,731 --> 01:35:34,568
+<i>Está se alimentando</i>
+
+1119
+01:36:25,953 --> 01:36:27,955
+E rastejando
+
+1120
+01:36:29,414 --> 01:36:31,959
+na face do planeta.
+
+1121
+01:36:32,793 --> 01:36:35,462
+Alguns insetos
+
+1122
+01:36:36,380 --> 01:36:39,216
+Chamaram a raça humana
+
+1123
+01:36:41,218 --> 01:36:43,595
+de perdidos no tempo
+
+1124
+01:36:46,431 --> 01:36:49,059
+e perdidos no espaço,
+
+1125
+01:36:49,726 --> 01:36:51,728
+e sem significado...
+
+1126
+01:36:52,980 --> 01:36:55,524
+<i>Significado</i>
+
+1127
+01:37:11,748 --> 01:37:15,335
+<i>Ficção científica</i>
+
+1128
+01:37:17,921 --> 01:37:21,425
+<i>Dupla apresentação</i>
+
+1129
+01:37:23,844 --> 01:37:27,347
+<i>Frank construiu</i>
+
+1130
+01:37:29,683 --> 01:37:33,520
+<i>e perdeu sua criatura</i>
+
+1131
+01:37:34,813 --> 01:37:39,443
+<i>A escuridão conquistou</i>
+
+1132
+01:37:41,278 --> 01:37:45,282
+<i>Brad e Janet</i>
+
+1133
+01:37:46,408 --> 01:37:50,954
+<i>Os servos se foram</i>
+
+1134
+01:37:52,498 --> 01:37:56,376
+<i>Para um planeta distante</i>
+
+1135
+01:38:02,216 --> 01:38:04,760
+<i>Tarde da noite</i>
+
+1136
+01:38:05,052 --> 01:38:07,721
+<i>Na dupla apresentação</i>
+
+1137
+01:38:07,971 --> 01:38:10,224
+<i>Do filme</i>
+
+1138
+01:38:10,474 --> 01:38:13,310
+<i>Eu quero ir</i>
+
+1139
+01:38:19,399 --> 01:38:22,069
+<i>Para a dupla apresentação</i>
+
+1140
+01:38:22,361 --> 01:38:24,571
+<i>Tarde da noite</i>
+
+1141
+01:38:24,780 --> 01:38:29,910
+<i>Do filme</i>
+

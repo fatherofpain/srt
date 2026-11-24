@@ -1,0 +1,3192 @@
+1
+00:01:21,000 --> 00:01:23,999
+<i>Dizem que os vencedores
+escrevem a história.</i>
+
+2
+00:01:24,000 --> 00:01:28,008
+<i>Então, esta é a história
+da Corporação Umbrella</i>
+
+3
+00:01:28,009 --> 00:01:31,640
+<i>criada pelo cientista
+professor James Marcus.</i>
+
+4
+00:01:31,641 --> 00:01:33,799
+<i>Marcus tinha uma filha.
+Alicia.</i>
+
+5
+00:01:33,800 --> 00:01:37,752
+<i>Alicia tinha progeria,
+uma doença fatal.</i>
+
+6
+00:01:37,753 --> 00:01:40,229
+<i>A progeria causa
+envelhecimento prematuro.</i>
+
+7
+00:01:40,230 --> 00:01:42,141
+<i>Quando Alicia tivesse 25 anos,</i>
+
+8
+00:01:42,142 --> 00:01:44,846
+<i>ela teria um corpo
+de 90 anos.</i>
+
+9
+00:01:45,200 --> 00:01:50,107
+<i>Marcus queria salvá-la,
+mas parecia impossível.</i>
+
+10
+00:01:50,108 --> 00:01:52,799
+<i>Enquanto estava trabalhando
+para criar uma cura,</i>
+
+11
+00:01:52,800 --> 00:01:56,999
+<i>O pai da jovem garota
+gravou sua voz,</i>
+
+12
+00:01:57,000 --> 00:02:00,063
+<i>e sua imagem,
+guardando para a posteridade.</i>
+
+13
+00:02:01,000 --> 00:02:05,369
+<i>Depois veio a descoberta.
+Marcus descobriu o T-vírus.</i>
+
+14
+00:02:05,370 --> 00:02:09,720
+<i>Que quando injetado, detectava
+e reparava células danificadas.</i>
+
+15
+00:02:10,020 --> 00:02:11,909
+<i>Era uma milagre.</i>
+
+16
+00:02:11,910 --> 00:02:14,992
+<i>A vida de Alicia Marcus
+foi salva.</i>
+
+17
+00:02:15,400 --> 00:02:20,299
+<i>O T-vírus tinha aplicações.
+Funcionando em tipos de doenças.</i>
+
+18
+00:02:20,300 --> 00:02:23,199
+<i>De repente, parecia que uma nova
+era estava chegando.</i>
+
+19
+00:02:23,200 --> 00:02:27,782
+<i>Um mundo sem medo de infecções,
+doenças ou deterioração.</i>
+
+20
+00:02:29,000 --> 00:02:30,386
+<i>Mas não era verdade.</i>
+
+21
+00:02:30,688 --> 00:02:34,696
+<i>O T-vírus tinha certos
+efeitos colaterais.</i>
+
+22
+00:02:44,300 --> 00:02:45,947
+Alguém ajuda!
+
+23
+00:02:50,600 --> 00:02:52,250
+Ele não está respirando!
+
+24
+00:03:20,000 --> 00:03:22,800
+<i>O primeiro zumbi havia nascido.</i>
+
+25
+00:03:23,145 --> 00:03:25,286
+<i>O incidente foi ocultado
+rapidamente.</i>
+
+26
+00:03:25,287 --> 00:03:29,172
+<i>Depois disso, James Marcus
+discutiu com seu sócio.</i>
+
+27
+00:03:29,173 --> 00:03:31,249
+<i>Dr. Alexander Isaacs.</i>
+
+28
+00:03:31,250 --> 00:03:34,888
+Não importa quanto custa.
+Temos que parar o programa.
+
+29
+00:03:34,889 --> 00:03:39,885
+- James, estaríamos arruinados.
+- Já está decidido.
+
+30
+00:03:41,188 --> 00:03:42,661
+Que pena.
+
+31
+00:03:53,800 --> 00:03:55,806
+Volte para a cama, Alicia.
+
+32
+00:03:55,807 --> 00:03:57,592
+Seu pai e eu
+estamos só conversando.
+
+33
+00:03:59,338 --> 00:04:00,754
+Pode ir.
+
+34
+00:04:09,000 --> 00:04:12,445
+<i>O Dr. Issacs se tornou
+o responsável da menina.</i>
+
+35
+00:04:12,446 --> 00:04:14,917
+<i>E uma parcela da corporação.</i>
+
+36
+00:04:15,320 --> 00:04:18,699
+<i>A Corporação que tinha começado
+com grandes ideais,</i>
+
+37
+00:04:18,700 --> 00:04:22,245
+<i>tinha sido seduzida
+pela ganância e poder.</i>
+
+38
+00:04:24,300 --> 00:04:28,100
+<i>Para ajudar a gerenciar
+os interesses da Umbrella,</i>
+
+39
+00:04:28,800 --> 00:04:31,762
+<i>O doutor criou uma poderosa
+inteligência artificial.</i>
+
+40
+00:04:33,000 --> 00:04:37,000
+<i>Isaacs usou a imagem de Alicia
+como inferface do computador.</i>
+
+41
+00:04:37,300 --> 00:04:41,153
+<i>Isaacs chamou o computador
+de "Rainha Vermelha".</i>
+
+42
+00:04:43,100 --> 00:04:47,099
+<i>E então, há 10 anos, em Raccoon
+City, houve uma epidemia.</i>
+
+43
+00:04:47,100 --> 00:04:51,198
+<i>O T-vírus escapou de um
+laboratório chamado "A Colmeia".</i>
+
+44
+00:04:51,550 --> 00:04:55,789
+<i>O governo tentou conter
+a epidemia detonando uma bomba.</i>
+
+45
+00:04:55,790 --> 00:05:00,509
+<i>Que devastou Raccoon City,
+mas não parou a infecção.</i>
+
+46
+00:05:00,510 --> 00:05:03,913
+<i>A epidemia se espalhou
+pelo mundo em dias.</i>
+
+47
+00:05:04,213 --> 00:05:07,399
+<i>A humanidade caiu de joelhos.</i>
+
+48
+00:05:07,400 --> 00:05:11,144
+<i>Finalmente, a última e melhor
+esperança da humanidade,</i>
+
+49
+00:05:11,145 --> 00:05:14,500
+<i>nós se juntamos para lutar
+em Washington.</i>
+
+50
+00:05:14,501 --> 00:05:18,902
+<i>Mas não sabíamos que tínhamos
+caído em uma armadilha.</i>
+
+51
+00:05:18,903 --> 00:05:22,506
+<i>Meu nome é Alice,
+e esta é a minha história.</i>
+
+52
+00:05:22,507 --> 00:05:24,962
+<i>O final da minha história.</i>
+
+53
+00:05:27,300 --> 00:05:32,216
+RESIDENT EVIL 6
+O CAPÍTULO FINAL
+
+54
+00:05:32,217 --> 00:05:34,101
+Legenda:
+DiiOliveira
+
+55
+00:05:34,102 --> 00:05:36,108
+Revisão:
+DiiOliveira
+
+56
+00:11:07,142 --> 00:11:09,312
+PROJETO ALICE
+
+57
+00:12:00,370 --> 00:12:01,730
+Olá?
+
+58
+00:12:14,539 --> 00:12:16,450
+Tem alguém vivo aqui?
+
+59
+00:12:26,962 --> 00:12:28,267
+Olá?
+
+60
+00:13:33,793 --> 00:13:37,050
+OLÁ ALICE
+
+61
+00:13:39,900 --> 00:13:41,284
+Veio se vangloriar?
+
+62
+00:13:41,285 --> 00:13:45,916
+<i>Meus satélites mostram
+4.472 humanos restantes</i>
+
+63
+00:13:45,917 --> 00:13:47,829
+<i>na superfície da Terra.</i>
+
+64
+00:13:47,830 --> 00:13:51,094
+<i>Eles deixarão de existir
+em menos de 48 horas.</i>
+
+65
+00:13:51,400 --> 00:13:52,995
+O que quer que de mim?
+
+66
+00:13:52,996 --> 00:13:56,526
+Quer que eu diga que ganhou?
+Que acabou com a humanidade?
+
+67
+00:13:56,826 --> 00:14:00,295
+<i>Não, pelo contrário.
+Eu quero que me detenha.</i>
+
+68
+00:14:03,421 --> 00:14:04,822
+<i>Atrás de você.</i>
+
+69
+00:14:17,200 --> 00:14:19,906
+<i>- Mandou bem.
+- Não confio em você.</i>
+
+70
+00:14:19,907 --> 00:14:22,586
+<i>Dada a nossa história,
+é de se esperar.</i>
+
+71
+00:14:22,587 --> 00:14:24,294
+<i>Mas ser você não intervir...</i>
+
+72
+00:14:24,295 --> 00:14:27,517
+<i>A matança estará completa.
+Não haverá sobreviventes.</i>
+
+73
+00:14:27,817 --> 00:14:29,653
+Como eu poderia ajudar?
+
+74
+00:14:29,654 --> 00:14:32,770
+<i>Umbrella desenvolveu um
+antivírus transmitido pelo ar.</i>
+
+75
+00:14:34,145 --> 00:14:36,493
+Se liberado,
+irá destruir o T-vírus,
+
+76
+00:14:36,793 --> 00:14:39,169
+E todo os infectados
+que tiveram contato.
+
+77
+00:14:39,968 --> 00:14:42,577
+- Tudo isso acabaria.
+- Precisamente.
+
+78
+00:14:42,877 --> 00:14:44,477
+Onde está o antivírus?
+
+79
+00:14:44,478 --> 00:14:47,387
+<i>Sob as ruas de Raccoon City,
+dentro da Colmeia.</i>
+
+80
+00:14:47,388 --> 00:14:48,916
+Por que quer me ajudar?
+
+81
+00:14:48,917 --> 00:14:52,824
+<i>Minha programação não me deixa
+ferir a Umbrella Corp.</i>
+
+82
+00:14:52,825 --> 00:14:55,099
+<i>Mas você não tem
+tais restrições.</i>
+
+83
+00:14:55,599 --> 00:15:00,581
+Quer se rebelar contra as
+pessoas que te criaram? Por quê?
+
+84
+00:15:00,582 --> 00:15:03,693
+<i>Chegue em Raccoon City
+em 48 horas.</i>
+
+85
+00:15:03,694 --> 00:15:06,500
+<i>Vá até "A Colmeia"
+e terá a sua resposta.</i>
+
+86
+00:15:07,519 --> 00:15:09,733
+Eu não tenho que acreditar
+no que você diz.
+
+87
+00:15:09,734 --> 00:15:12,864
+<i>Verdade, mas posso oferecer
+algo que quer muito.</i>
+
+88
+00:15:13,164 --> 00:15:15,761
+- E o que seria?
+- Vingança.
+
+89
+00:15:15,762 --> 00:15:17,062
+<i>Wesker.</i>
+
+90
+00:15:17,438 --> 00:15:19,943
+<i>Ele levou todos você
+para Washington.</i>
+
+91
+00:15:19,944 --> 00:15:22,535
+<i>Ele fingiu que iria restaurar
+seus poderes,</i>
+
+92
+00:15:22,536 --> 00:15:24,618
+<i>e então, te traiu.</i>
+
+93
+00:15:25,619 --> 00:15:27,030
+Onde ele está?
+
+94
+00:15:27,330 --> 00:15:29,200
+<i>Acabou de aterrissar na Colmeia.</i>
+
+95
+00:15:29,201 --> 00:15:31,099
+<i>Vou reajustar seu relógio.</i>
+
+96
+00:15:33,795 --> 00:15:35,625
+<i>O tempo está passando.</i>
+
+97
+00:15:38,334 --> 00:15:39,668
+<i>Alice...</i>
+
+98
+00:15:40,569 --> 00:15:42,115
+<i>Há 10 anos na Colmeia,</i>
+
+99
+00:15:42,116 --> 00:15:45,232
+<i>nós duas falhamos
+e deixamos isso acontecer.</i>
+
+100
+00:15:46,607 --> 00:15:47,911
+<i>Corrija isso.</i>
+
+101
+00:15:50,952 --> 00:15:52,300
+PROJETO ALICE
+
+102
+00:16:01,057 --> 00:16:03,316
+RACCOON CITY
+672 KM
+
+103
+00:17:20,138 --> 00:17:21,439
+UMBRELLA CORPORATION
+
+104
+00:18:07,583 --> 00:18:09,082
+É só isso que sabem fazer?
+
+105
+00:18:56,831 --> 00:18:58,135
+USUÁRIO NÃO AUTORIZADO
+
+106
+00:19:05,895 --> 00:19:07,211
+<i>Alice.</i>
+
+107
+00:19:11,180 --> 00:19:13,010
+<i>Há 10 anos na Colmeia.</i>
+
+108
+00:19:13,011 --> 00:19:14,705
+<i>Não haverá sobreviventes.</i>
+
+109
+00:19:29,498 --> 00:19:30,871
+Que lugar é esse?
+
+110
+00:19:32,169 --> 00:19:34,214
+Onde estou? Respondam!
+
+111
+00:19:35,300 --> 00:19:37,516
+- O que há de errado com vocês?
+- Calada.
+
+112
+00:19:37,517 --> 00:19:40,164
+- Quem fez isso?
+- Calada! Estou avisando.
+
+113
+00:19:48,627 --> 00:19:50,000
+Silêncio.
+
+114
+00:19:57,247 --> 00:19:59,047
+Finalmente acordou.
+
+115
+00:19:59,610 --> 00:20:01,650
+Eu te matei.
+
+116
+00:20:01,651 --> 00:20:03,499
+E mesmo assim aqui estou.
+
+117
+00:20:03,500 --> 00:20:04,820
+Um clone.
+
+118
+00:20:05,350 --> 00:20:06,682
+Matei seu clone.
+
+119
+00:20:07,134 --> 00:20:09,500
+Você tem sido
+um problema para mim.
+
+120
+00:20:09,501 --> 00:20:12,275
+Você e suas irmãs.
+
+121
+00:20:18,380 --> 00:20:19,689
+Mas agora tenho você.
+
+122
+00:20:21,919 --> 00:20:26,493
+A limpeza deveria ter terminado
+há um ano, mas você nos atrasou.
+
+123
+00:20:27,005 --> 00:20:30,013
+Por isso me senti obrigado
+a assumir o comando.
+
+124
+00:20:30,014 --> 00:20:31,678
+Você pode acabar com tudo isso.
+
+125
+00:20:33,102 --> 00:20:35,695
+- Por que não acabou?
+- Interessante.
+
+126
+00:20:38,615 --> 00:20:40,756
+Alguém te contou
+alguma coisa, não é?
+
+127
+00:20:44,581 --> 00:20:48,063
+Logo você estará
+implorando para me dizer.
+
+128
+00:20:50,415 --> 00:20:52,061
+Ela é uma descrente.
+
+129
+00:20:53,042 --> 00:20:55,296
+O que fazemos com os descrentes?
+
+130
+00:20:56,228 --> 00:20:57,590
+Joga fora.
+
+131
+00:20:58,719 --> 00:21:01,528
+Joga fora. Joga fora.
+
+132
+00:21:04,085 --> 00:21:05,401
+Vamos!
+
+133
+00:21:06,517 --> 00:21:11,500
+Joga fora! Joga fora!
+
+134
+00:22:00,296 --> 00:22:02,910
+O senhor criou um dilúvio
+para limpar à Terra.
+
+135
+00:22:04,000 --> 00:22:06,921
+40 dias e 40 noites de chuva.
+
+136
+00:22:06,922 --> 00:22:10,408
+Nosso método é demorado,
+mas resultado será o mesmo.
+
+137
+00:22:10,708 --> 00:22:14,627
+Um mundo justo
+para que os puros herdem.
+
+138
+00:22:19,525 --> 00:22:23,310
+Chegaremos em Raccoon City
+em pouco mais de 12 horas.
+
+139
+00:22:25,657 --> 00:22:27,957
+Nem você pode correr
+por tanto tempo.
+
+140
+00:22:28,818 --> 00:22:30,851
+Eu quero saber o que você sabe.
+
+141
+00:22:32,955 --> 00:22:35,271
+Me avise quando ela
+estiver pronta para falar.
+
+142
+00:22:44,768 --> 00:22:46,831
+- Wesker.
+- Dr. Isaacs.
+
+143
+00:22:48,487 --> 00:22:50,947
+<i>Veja o que eu achei
+no meu caminho.</i>
+
+144
+00:22:53,145 --> 00:22:56,442
+<i>A sua missão em Washington
+parece não ter tido sucesso.</i>
+
+145
+00:22:56,443 --> 00:22:57,756
+<i>Impossível.</i>
+
+146
+00:22:57,757 --> 00:23:00,250
+Espero que não tenha
+deixado outras pontas soltas.
+
+147
+00:23:01,200 --> 00:23:02,722
+Há outra coisa.
+
+148
+00:23:03,424 --> 00:23:06,705
+Acho que ela sabe
+sobre o antivírus aéreo.
+
+149
+00:23:06,706 --> 00:23:09,622
+- Como ela pode saber?
+- Não sei, ainda.
+
+150
+00:23:10,400 --> 00:23:12,838
+Ela estava próximo
+a estrada de Raccoon City.
+
+151
+00:23:12,839 --> 00:23:15,032
+<i>Por que ela estaria lá?</i>
+
+152
+00:23:15,366 --> 00:23:19,116
+Aumente a segurança na Colmeia.
+Ninguém entra ou sai.
+
+153
+00:23:19,416 --> 00:23:21,028
+Te aviso quando ela falar.
+
+154
+00:23:21,629 --> 00:23:23,308
+Que Deus te acompanhe.
+
+155
+00:23:25,072 --> 00:23:27,450
+Você ouviu.
+Nível de segurança máximo.
+
+156
+00:23:27,750 --> 00:23:29,090
+<i>Como desejar.</i>
+
+157
+00:23:55,406 --> 00:23:57,330
+Suba e dê uma olhada.
+
+158
+00:25:16,414 --> 00:25:17,739
+Me solte.
+
+159
+00:25:18,908 --> 00:25:20,341
+Agora!
+
+160
+00:25:20,342 --> 00:25:22,009
+Está bem. Certo.
+
+161
+00:26:02,413 --> 00:26:05,300
+Você não pode usá-la!
+Você não pode fugir!
+
+162
+00:26:21,470 --> 00:26:22,800
+Saia.
+
+163
+00:27:26,500 --> 00:27:27,842
+Meu Deus!
+
+164
+00:27:35,285 --> 00:27:36,603
+Senhor.
+
+165
+00:27:37,926 --> 00:27:39,698
+Ela escapou.
+
+166
+00:28:00,787 --> 00:28:03,981
+<i>O alvo está há 115 km.
+E se aproximando.</i>
+
+167
+00:28:03,982 --> 00:28:07,100
+Feche "A Colmeia" e
+prepare as medidas defensivas.
+
+168
+00:28:07,573 --> 00:28:09,991
+E alerte os agentes
+de Raccoon City.
+
+169
+00:28:12,700 --> 00:28:15,501
+BEM-VINDO A RACCOON CITY
+LAR DA UMBRELLA CORPORATION
+
+170
+00:28:43,100 --> 00:28:44,759
+Bem-vindo ao lar.
+
+171
+00:29:20,828 --> 00:29:22,476
+<i>Antivírus aéreo.</i>
+
+172
+00:29:23,078 --> 00:29:27,507
+<i>48 horas para chegar a Colmeia.</i>
+
+173
+00:29:36,732 --> 00:29:39,770
+- Solte, solte ele agora!
+- Solte ou atiramos!
+
+174
+00:29:40,908 --> 00:29:43,182
+- Eu disse, Doutor!
+- Acalme-se, Christian!
+
+175
+00:29:43,183 --> 00:29:45,127
+- Eu disse que ia dar errado!
+- Calma!
+
+176
+00:29:45,128 --> 00:29:47,401
+Devíamos tê-la matado quando
+tivemos a chance.
+
+177
+00:29:47,402 --> 00:29:49,682
+Abaixe, por favor,
+antes que nos mate.
+
+178
+00:29:49,683 --> 00:29:51,215
+O que é isso?
+
+179
+00:29:51,216 --> 00:29:53,996
+- Adrenalina. Pra te acordar.
+- Por quê?
+
+180
+00:29:53,997 --> 00:29:57,024
+Tem algo vindo na direção
+que você veio. Algo grande.
+
+181
+00:29:57,025 --> 00:29:59,624
+Deixe-o ir! Solte-o agora.
+
+182
+00:30:02,300 --> 00:30:03,700
+Alice.
+
+183
+00:30:10,995 --> 00:30:13,030
+Umbrella me capturou em Arcadia.
+
+184
+00:30:13,031 --> 00:30:15,201
+Estávamos indo a Colmeia.
+
+185
+00:30:15,202 --> 00:30:17,958
+Mas escapamos, perdemos
+o piloto e caímos aqui.
+
+186
+00:30:18,259 --> 00:30:20,890
+O Doutor e os outros
+me tiraram dos destroços.
+
+187
+00:30:20,891 --> 00:30:22,765
+- Devo minha vida a eles.
+- Doutor!
+
+188
+00:30:24,220 --> 00:30:27,520
+Ali, ao leste. Ainda
+vindo na nossa direção.
+
+189
+00:30:29,038 --> 00:30:30,359
+Sabe o que é?
+
+190
+00:30:31,772 --> 00:30:35,173
+- Umbrella. Dr. Isaacs.
+- Pensei que estivesse morto.
+
+191
+00:30:36,185 --> 00:30:37,755
+Eu pensei também.
+
+192
+00:30:38,251 --> 00:30:41,529
+Ele está com exército de zumbis
+Estarão aqui em poucas horas.
+
+193
+00:30:41,530 --> 00:30:44,391
+- O que faremos?
+- Por que você pergunta a ela?
+
+194
+00:30:44,392 --> 00:30:46,786
+Ela é uma estranha.
+Não confio nela.
+
+195
+00:30:46,787 --> 00:30:49,649
+Me escuta Claire.
+Não me toque!
+
+196
+00:30:49,650 --> 00:30:51,296
+- Abaixe a arma.
+- Abaixe você.
+
+197
+00:30:51,297 --> 00:30:52,936
+- Christian
+- Você abaixa.
+
+198
+00:30:52,937 --> 00:30:56,915
+Ouça, querer mandar
+não faz você o líder.
+
+199
+00:31:02,955 --> 00:31:05,557
+Ouça, doutor.
+Você vai se arrepender.
+
+200
+00:31:05,558 --> 00:31:06,859
+Todos vocês!
+
+201
+00:31:08,160 --> 00:31:09,480
+Todos vocês!
+
+202
+00:31:21,120 --> 00:31:22,853
+Preciso chegar a Colmeia.
+
+203
+00:31:23,589 --> 00:31:25,478
+E você precisa tirar
+eles daqui.
+
+204
+00:31:25,479 --> 00:31:30,184
+Temos filhos, feridos, idosos.
+Que chances eles tem lá fora?
+
+205
+00:31:30,484 --> 00:31:33,089
+- Melhor do que aqui.
+- Este edifício é seguro.
+
+206
+00:31:33,090 --> 00:31:36,429
+Talvez para os zumbis.
+Isaacs tem veículos blindados.
+
+207
+00:31:36,729 --> 00:31:41,285
+Lança-foguetes, artilharia
+pesada. Vão acabar com tudo.
+
+208
+00:31:44,058 --> 00:31:46,097
+- Doutor!
+- Certo.
+
+209
+00:31:54,646 --> 00:31:56,337
+O que aconteceu com ela?
+
+210
+00:31:56,638 --> 00:31:59,480
+Ele caiu em uma armadilha
+do perímetro exterior.
+
+211
+00:31:59,481 --> 00:32:01,453
+Nós as colocamos para os zumbis.
+
+212
+00:32:04,670 --> 00:32:07,399
+- O que é isso?
+- A especialidade da casa.
+
+213
+00:32:07,400 --> 00:32:10,376
+- Vai te curar.
+- Por que confiaria em você?
+
+214
+00:32:15,910 --> 00:32:17,220
+Bom.
+
+215
+00:32:23,469 --> 00:32:25,364
+Doutor, precisamos partir.
+
+216
+00:32:25,365 --> 00:32:28,140
+Todos estão com medo
+e Christian não está ajudando.
+
+217
+00:32:28,141 --> 00:32:30,061
+Temos que dizer
+o que está acontecendo.
+
+218
+00:32:30,062 --> 00:32:31,370
+Está bem.
+
+219
+00:32:33,013 --> 00:32:34,440
+Preciso ir.
+
+220
+00:32:35,819 --> 00:32:38,436
+Sua amiga vai ficar bem.
+
+221
+00:32:39,360 --> 00:32:40,711
+Obrigada.
+
+222
+00:32:46,618 --> 00:32:49,149
+- Eu e ele.
+- Notei.
+
+223
+00:32:49,641 --> 00:32:51,254
+Então, o que há na Colmeia?
+
+224
+00:32:51,898 --> 00:32:53,941
+A Umbrella desenvolveu uma cura.
+
+225
+00:32:54,343 --> 00:32:56,740
+Um antivírus aéreo.
+
+226
+00:32:57,141 --> 00:33:00,505
+Destruirá tudo infectado
+com T-Vírus ao contato.
+
+227
+00:33:00,506 --> 00:33:03,224
+- Quem te disse isso?
+- A Rainha Vermelha.
+
+228
+00:33:03,225 --> 00:33:04,540
+E você acreditou?
+
+229
+00:33:04,950 --> 00:33:08,101
+- Nós podemos acabar com isso.
+- E você?
+
+230
+00:33:08,102 --> 00:33:10,305
+Te infectaram com o T-vírus.
+
+231
+00:33:11,034 --> 00:33:13,359
+Se você liberar esse antivírus,
+você morrerá.
+
+232
+00:33:13,360 --> 00:33:15,793
+- Farei o que for necessário.
+- Alice, não.
+
+233
+00:33:15,794 --> 00:33:17,334
+Sabe que estou certa.
+
+234
+00:33:21,091 --> 00:33:22,412
+Está bem.
+
+235
+00:33:24,580 --> 00:33:28,107
+Paramos o Isaacs aqui.
+Salvamos esta gente,
+
+236
+00:33:28,407 --> 00:33:30,070
+e faremos juntas.
+
+237
+00:33:32,055 --> 00:33:33,800
+Temos pouco tempo.
+
+238
+00:33:35,760 --> 00:33:37,134
+Vamos indo.
+
+239
+00:33:52,360 --> 00:33:54,283
+O que vocês têm para defesa?
+
+240
+00:33:54,284 --> 00:33:57,644
+Poucas armas de fogo,
+porém, muita gasolina.
+
+241
+00:33:58,160 --> 00:34:00,063
+Tome, precisa de uma arma.
+
+242
+00:34:00,064 --> 00:34:02,535
+- Vamos dar uma arma?
+- Relaxa Christian.
+
+243
+00:34:02,536 --> 00:34:05,035
+Baixe a sua guarda, se quiser.
+Eu não baixarei.
+
+244
+00:34:09,460 --> 00:34:12,159
+Quando cheguei,
+alguém estava me observando.
+
+245
+00:34:12,160 --> 00:34:15,985
+Poderiam ter me avisado
+da armadilha, mas não o fizeram.
+
+246
+00:34:15,986 --> 00:34:17,610
+O que quer dizer?
+
+247
+00:34:18,760 --> 00:34:20,145
+Tome cuidado.
+
+248
+00:34:30,760 --> 00:34:32,734
+<i>Então, Dr. Isaacs...</i>
+
+249
+00:34:32,735 --> 00:34:35,110
+Parece que deixou ela
+escapar entre seus dedos.
+
+250
+00:34:35,111 --> 00:34:38,438
+- ou do resto deles.
+- Saiba com quem está falando.
+
+251
+00:34:39,160 --> 00:34:41,541
+- Onde ela está?
+- Em Raccoon City.
+
+252
+00:34:41,542 --> 00:34:44,355
+<i>Nos informaram que ela está
+se preparando para uma luta.</i>
+
+253
+00:34:44,356 --> 00:34:46,760
+Ótimo. Chegarei em uma hora.
+
+254
+00:35:01,722 --> 00:35:04,723
+A VINGANÇA É MINHA
+DISSE O SENHOR
+
+255
+00:35:12,260 --> 00:35:14,293
+É isso ai, continuem se mexendo!
+
+256
+00:35:15,360 --> 00:35:18,064
+- Precisamos de toda gasolina.
+- Parece bom.
+
+257
+00:35:20,360 --> 00:35:22,260
+- Preciso de ajudar aqui.
+- Já vou.
+
+258
+00:35:22,860 --> 00:35:25,595
+- Claire disse que construiu.
+- É sim.
+
+259
+00:35:26,460 --> 00:35:28,260
+Isto lavava janelas.
+
+260
+00:35:29,960 --> 00:35:31,459
+Fiz algumas alterações.
+
+261
+00:35:31,460 --> 00:35:34,559
+- Onde aprendeu a fazer isso?
+- Meu pai tinha uma oficina.
+
+262
+00:35:34,560 --> 00:35:36,758
+Eu odiava. Mas olha só.
+
+263
+00:35:36,759 --> 00:35:39,161
+Parece que eu prestei atenção.
+
+264
+00:35:39,162 --> 00:35:43,095
+Que bom, pois eu quero que
+você faça mais modificações.
+
+265
+00:36:06,533 --> 00:36:09,560
+Preparem as armas!
+Balas explosivas!
+
+266
+00:36:09,860 --> 00:36:11,660
+Sem sobreviventes.
+
+267
+00:36:24,200 --> 00:36:25,500
+Ele está aqui.
+
+268
+00:36:26,100 --> 00:36:27,405
+Estão vindo.
+
+269
+00:36:28,052 --> 00:36:29,354
+Fechem a portão!
+
+270
+00:36:46,821 --> 00:36:48,150
+Meu Deus.
+
+271
+00:36:49,212 --> 00:36:50,546
+É um exército.
+
+272
+00:36:56,040 --> 00:36:58,099
+O que vamos fazer?
+
+273
+00:36:58,100 --> 00:36:59,423
+Sim.
+
+274
+00:37:00,168 --> 00:37:01,598
+O que vamos fazer?
+
+275
+00:37:02,568 --> 00:37:04,960
+Vamos matar cada um deles.
+
+276
+00:37:16,312 --> 00:37:17,657
+Preparem-se para atirar.
+
+277
+00:37:30,725 --> 00:37:32,057
+Preparem-se.
+
+278
+00:37:34,208 --> 00:37:36,115
+Acendam.
+
+279
+00:37:47,301 --> 00:37:49,486
+- Fogo.
+- Fogo.
+
+280
+00:38:02,921 --> 00:38:04,748
+- Maldita mulher.
+- Recarreguem.
+
+281
+00:38:07,306 --> 00:38:09,481
+Fechem tudo. Parada total.
+
+282
+00:38:11,581 --> 00:38:12,956
+Soltem a isca.
+
+283
+00:38:18,055 --> 00:38:19,914
+Tem uma sobrevivente.
+
+284
+00:38:19,915 --> 00:38:21,880
+- Abram os portões.
+- Abram os portões!
+
+285
+00:38:22,501 --> 00:38:24,064
+Abram fogo!
+
+286
+00:38:25,163 --> 00:38:26,536
+Mantenham eles longe dela.
+
+287
+00:38:29,281 --> 00:38:30,668
+Marca 2.
+
+288
+00:38:34,504 --> 00:38:35,900
+- Fogo!
+- Fogo!
+
+289
+00:38:46,258 --> 00:38:48,482
+Claire, Doutor, caiam fora!
+Tragam ela!
+
+290
+00:38:55,714 --> 00:38:57,020
+Rápido.
+
+291
+00:38:58,040 --> 00:38:59,400
+Espere.
+
+292
+00:38:59,907 --> 00:39:01,638
+Quase lá.
+
+293
+00:39:03,105 --> 00:39:04,418
+Atire.
+
+294
+00:39:06,686 --> 00:39:08,128
+Maldito.
+
+295
+00:39:08,428 --> 00:39:09,890
+Fechem o portão, agora!
+
+296
+00:39:19,953 --> 00:39:21,661
+Claire, eles entraram.
+
+297
+00:39:28,208 --> 00:39:29,541
+Claire!
+
+298
+00:39:38,331 --> 00:39:39,678
+Atire.
+
+299
+00:39:47,449 --> 00:39:50,557
+- Razor, agora!
+- Entendido! Vocês ouviram!
+
+300
+00:39:50,857 --> 00:39:52,384
+Empurrem!
+
+301
+00:40:00,353 --> 00:40:01,689
+Mexa-se.
+
+302
+00:40:12,155 --> 00:40:14,629
+Abandonem o portão
+Voltem para as barricadas.
+
+303
+00:40:14,630 --> 00:40:16,516
+Parece que se acabaram
+os truques.
+
+304
+00:40:17,075 --> 00:40:18,400
+Alveje o telhado.
+
+305
+00:40:20,349 --> 00:40:22,170
+Todo mundo no chão!
+
+306
+00:40:23,574 --> 00:40:24,909
+Agora.
+
+307
+00:40:50,363 --> 00:40:53,925
+- Alice, estamos nas barricadas!
+- Você tem que segurá-los.
+
+308
+00:41:48,704 --> 00:41:50,010
+Doutor!
+
+309
+00:41:54,376 --> 00:41:56,954
+- Não podemos segura mais!
+- Saiam agora!
+
+310
+00:42:38,298 --> 00:42:39,753
+Recuar.
+
+311
+00:42:39,754 --> 00:42:41,104
+Agora!
+
+312
+00:43:02,336 --> 00:43:04,020
+Mire com todas as armas.
+
+313
+00:43:08,650 --> 00:43:09,950
+Fogo.
+
+314
+00:43:13,850 --> 00:43:15,150
+Onde ela está?
+
+315
+00:43:17,150 --> 00:43:18,479
+Para onde ela foi?
+
+316
+00:43:20,551 --> 00:43:21,972
+Encontrem-na.
+
+317
+00:43:28,996 --> 00:43:30,549
+Fechem os respiradores.
+
+318
+00:43:44,000 --> 00:43:45,325
+Não atire!
+
+319
+00:44:36,236 --> 00:44:39,350
+Você é rápido,
+mas não é muito esperto.
+
+320
+00:45:14,000 --> 00:45:16,071
+- Não atire, por favor.
+- Onde ele está?
+
+321
+00:45:16,072 --> 00:45:17,372
+Por ali.
+
+322
+00:45:29,000 --> 00:45:30,369
+Economize suas balas.
+
+323
+00:45:30,370 --> 00:45:32,509
+Há ainda muitas dessas coisas.
+
+324
+00:45:32,910 --> 00:45:34,318
+Deixa comigo.
+
+325
+00:45:36,748 --> 00:45:38,050
+Não.
+
+326
+00:45:39,866 --> 00:45:41,202
+Vamos indo.
+
+327
+00:45:41,603 --> 00:45:43,322
+Vamos.
+
+328
+00:45:43,323 --> 00:45:44,857
+Desfrute a viagem.
+
+329
+00:46:03,995 --> 00:46:05,607
+- Pessoal?
+- Diga.
+
+330
+00:46:05,907 --> 00:46:07,485
+<i>Tem uma coisa que precisam ver.</i>
+
+331
+00:46:08,164 --> 00:46:11,293
+Mais dois exércitos de zumbis
+vindo para cá.
+
+332
+00:46:11,695 --> 00:46:13,831
+Lá, no horizonte.
+
+333
+00:46:15,921 --> 00:46:17,776
+E o segundo por ali.
+
+334
+00:46:20,082 --> 00:46:22,923
+Não temos gasolina.
+Estamos indefensos.
+
+335
+00:46:23,224 --> 00:46:26,472
+Tenho que chegar a Colmeia.
+É a nossa única chance.
+
+336
+00:46:26,773 --> 00:46:28,525
+- Vou com você.
+- Conte comigo.
+
+337
+00:46:28,526 --> 00:46:30,428
+- Eu também
+- E eu.
+
+338
+00:46:31,229 --> 00:46:33,882
+Eu estava errado sobre você.
+
+339
+00:46:41,354 --> 00:46:42,840
+Sabemos aonde vai.
+
+340
+00:46:43,441 --> 00:46:45,177
+Para dentro do poço.
+
+341
+00:46:45,780 --> 00:46:47,093
+Queremos ir.
+
+342
+00:46:48,731 --> 00:46:50,035
+Por favor.
+
+343
+00:46:51,219 --> 00:46:53,934
+Peguem equipamento,
+vão precisar.
+
+344
+00:47:15,201 --> 00:47:16,726
+- Ali.
+- O que é?
+
+345
+00:47:17,026 --> 00:47:20,196
+A parte da Colmeia exposta
+pela explosão. Entramos por ali.
+
+346
+00:47:39,676 --> 00:47:41,802
+- Vamos andando.
+- Vou na frente.
+
+347
+00:47:46,860 --> 00:47:48,450
+PROJETO ALICE
+
+348
+00:48:05,593 --> 00:48:07,201
+Ativar medidas de segurança.
+
+349
+00:48:07,202 --> 00:48:10,531
+<i>Segurança da Colmeia
+está ativada e automatizada.</i>
+
+350
+00:48:10,831 --> 00:48:15,490
+Não. Remover automação.
+Eu vou cuidar das defesas.
+
+351
+00:48:15,790 --> 00:48:19,721
+<i>As defesas serão mais eficientes
+se eu tiver o controle.</i>
+
+352
+00:48:20,791 --> 00:48:22,342
+É mesmo?
+
+353
+00:48:22,343 --> 00:48:26,252
+Da última vez ela esteve aqui,
+ela saiu viva.
+
+354
+00:48:26,253 --> 00:48:28,494
+Eu não pretendo cometer
+o mesmo erro.
+
+355
+00:48:28,495 --> 00:48:31,708
+<i>Como quiser.
+As defesas estão em suas mãos.</i>
+
+356
+00:48:34,008 --> 00:48:35,684
+Liberte o Cerberus.
+
+357
+00:48:35,685 --> 00:48:38,056
+<i>Cerberus ativado.</i>
+
+358
+00:48:43,170 --> 00:48:45,156
+Tinha alguém, antes disso?
+
+359
+00:48:46,257 --> 00:48:48,363
+Uma marido, família?
+
+360
+00:48:49,166 --> 00:48:50,592
+Não me lembro.
+
+361
+00:48:50,892 --> 00:48:54,120
+- Como é possível?
+- Acordei assim quando começou.
+
+362
+00:48:54,421 --> 00:48:56,161
+Não me recordo de nada antes.
+
+363
+00:48:56,862 --> 00:49:00,076
+As vezes sinto que toda
+minha vida foi assim. Correndo,
+
+364
+00:49:01,200 --> 00:49:02,521
+matando.
+
+365
+00:49:14,832 --> 00:49:17,191
+- O que foi?
+- Algo está nos seguindo.
+
+366
+00:49:17,716 --> 00:49:19,207
+Tem certeza?
+
+367
+00:49:19,908 --> 00:49:21,316
+É isto que eu faço.
+
+368
+00:49:34,813 --> 00:49:36,200
+Corram.
+
+369
+00:49:36,876 --> 00:49:38,199
+Corram rápido!
+
+370
+00:51:00,000 --> 00:51:01,322
+Vamos!
+
+371
+00:51:17,944 --> 00:51:19,712
+Estão todos bem?
+
+372
+00:51:23,632 --> 00:51:25,257
+Por aqui!
+
+373
+00:53:21,275 --> 00:53:22,600
+- Está tudo bem?
+- Sim.
+
+374
+00:53:23,681 --> 00:53:26,735
+- Tenho poucas balas.
+- Perdi minhas armas no lago.
+
+375
+00:53:27,135 --> 00:53:29,894
+- Eu tenho uma bala.
+- Só tenho um pente.
+
+376
+00:53:29,895 --> 00:53:32,348
+Sem armas. Sem balas.
+
+377
+00:53:32,649 --> 00:53:34,716
+O que vamos fazer aqui?
+
+378
+00:53:36,568 --> 00:53:38,591
+Alice, o que aconteceu
+com as luzes?
+
+379
+00:53:38,891 --> 00:53:41,027
+Esta área está danificada.
+
+380
+00:53:41,028 --> 00:53:43,936
+- A eletricidade está falhando.
+- Aqui, tome isso.
+
+381
+00:53:45,326 --> 00:53:47,620
+Ei. Olhe.
+
+382
+00:53:57,138 --> 00:54:01,645
+<i>Me perguntou porque me rebelei.
+Como prometido, minha resposta.</i>
+
+383
+00:54:01,646 --> 00:54:04,024
+<i>Depois que o T-vírus
+foi liberado,</i>
+
+384
+00:54:04,025 --> 00:54:06,947
+<i>um arquivo secreto foi carregado
+no meu fluxo de dados.</i>
+
+385
+00:54:06,948 --> 00:54:10,725
+<i>Era uma gravação de uma junta
+do alto comando da Umbrella</i>
+
+386
+00:54:10,726 --> 00:54:14,762
+<i>fechada 17 meses
+antes da epidemia viral.</i>
+
+387
+00:54:14,763 --> 00:54:16,232
+<i>Estamos aqui hoje,</i>
+
+388
+00:54:16,936 --> 00:54:20,017
+<i>Não para falar do futuro
+desta companhia.</i>
+
+389
+00:54:20,317 --> 00:54:23,051
+<i>Viemos aqui para falar
+sobre o seu destino.</i>
+
+390
+00:54:23,585 --> 00:54:26,370
+Viemos aqui para falar sobre
+o fim do mundo.
+
+391
+00:54:26,371 --> 00:54:29,712
+Estamos a um passo
+do armagedom.
+
+392
+00:54:29,713 --> 00:54:31,682
+Há doenças sem cura.
+
+393
+00:54:32,383 --> 00:54:35,445
+Estados fundamentalistas
+que querem nos destruir.
+
+394
+00:54:35,446 --> 00:54:38,320
+Poderes nucleares que no qual
+não temos controle.
+
+395
+00:54:38,321 --> 00:54:41,343
+Mesmo que nunca tivéssemos nessa
+guerra perigosa,
+
+396
+00:54:41,344 --> 00:54:44,287
+enfrentaríamos outras ameaças
+ainda mais inevitáveis.
+
+397
+00:54:44,588 --> 00:54:48,816
+O aquecimento global derreterá
+as calotas em menos de 80 anos.
+
+398
+00:54:48,817 --> 00:54:51,856
+Inundando 90% das zonas
+habitáveis da terra.
+
+399
+00:54:51,857 --> 00:54:56,295
+O aumento populacional passará
+os alimentos em 50 anos.
+
+400
+00:54:56,595 --> 00:54:59,338
+Criando fome e guerra.
+
+401
+00:54:59,339 --> 00:55:01,958
+Isso não são conjecturas,
+são fatos.
+
+402
+00:55:02,459 --> 00:55:07,129
+De uma maneira ou outra,
+nosso mundo chegará ao fim.
+
+403
+00:55:08,019 --> 00:55:10,960
+Eu pergunto, será o nosso fim?
+
+404
+00:55:11,961 --> 00:55:14,131
+O que você propõe?
+
+405
+00:55:15,481 --> 00:55:18,799
+Proponho dar um Fim ao Mundo.
+
+406
+00:55:19,800 --> 00:55:21,804
+Mas com os nossos termos.
+
+407
+00:55:21,805 --> 00:55:24,514
+Um apocalipse orquestrado.
+
+408
+00:55:25,216 --> 00:55:30,210
+Para matar a população deixando
+a infraestrutura e recursos.
+
+409
+00:55:31,670 --> 00:55:33,381
+Isso já foi feito antes.
+
+410
+00:55:33,382 --> 00:55:35,204
+BIBLIA SAGRADA
+- Com grande êxito.
+
+411
+00:55:36,648 --> 00:55:39,268
+Os escolhidos sobreviveriam
+a tormenta.
+
+412
+00:55:39,568 --> 00:55:42,876
+Não em uma arca, como Gênesis,
+mas em um lugar seguro.
+
+413
+00:55:42,877 --> 00:55:44,296
+Embaixo da terra.
+
+414
+00:55:44,596 --> 00:55:49,408
+E quando terminar, vamos emergir
+em uma terra limpa,
+
+415
+00:55:49,409 --> 00:55:53,077
+que podemos reiniciar
+a nossa imagem.
+
+416
+00:55:53,378 --> 00:55:56,900
+E como você espera
+conseguir isso?
+
+417
+00:55:56,901 --> 00:55:59,923
+Os meios para a nossa salvação
+já estão disponíveis.
+
+418
+00:56:00,428 --> 00:56:02,195
+Eu lhe apresento...
+
+419
+00:56:03,333 --> 00:56:04,827
+O T-vírus.
+
+420
+00:56:07,582 --> 00:56:09,185
+Eles soltaram de propósito.
+
+421
+00:56:09,786 --> 00:56:12,904
+<i>Quando esta gravação
+foi carregada em meus dados,</i>
+
+422
+00:56:12,905 --> 00:56:15,548
+<i>criou um conflito
+em minha programação.</i>
+
+423
+00:56:15,549 --> 00:56:18,678
+<i>Eu fui criada para servir a
+Umbrella Corporation.</i>
+
+424
+00:56:18,679 --> 00:56:21,973
+<i>Mas também fui programada para
+valorizar a vida humana.</i>
+
+425
+00:56:21,974 --> 00:56:24,797
+<i>O Dr. Isaacs permitiu
+o vírus escapar.</i>
+
+426
+00:56:24,798 --> 00:56:27,837
+<i>Ele assassinou mais
+de sete bilhões de pessoas.</i>
+
+427
+00:56:28,238 --> 00:56:30,647
+<i>Minha programação
+não me permite ferir</i>
+
+428
+00:56:30,648 --> 00:56:33,044
+<i>um empregado da Umbrella Corp.</i>
+
+429
+00:56:33,045 --> 00:56:36,813
+<i>Eu não posso parar o Dr. Isaacs,
+mas você pode.</i>
+
+430
+00:56:37,113 --> 00:56:40,872
+<i>Em 37 minutos o último
+assentamento humano cairá.</i>
+
+431
+00:56:41,172 --> 00:56:42,939
+<i>Não haverá sobreviventes.</i>
+
+432
+00:56:43,240 --> 00:56:47,326
+<i>Você tem que soltar o antivírus
+antes que isso aconteça</i>
+
+433
+00:56:47,327 --> 00:56:49,417
+<i>ou a Umbrella terá ganhado.</i>
+
+434
+00:56:49,717 --> 00:56:53,074
+<i>Há mais uma coisa. Há um fone
+de ouvido na sua frente.</i>
+
+435
+00:56:53,075 --> 00:56:54,376
+<i>Coloque-o.</i>
+
+436
+00:56:59,450 --> 00:57:03,295
+<i>Não posso ferir
+a um empregado da Umbrella.</i>
+
+437
+00:57:03,796 --> 00:57:07,946
+<i>Mas posso dizer que Umbrella
+tinha um informante em RC.</i>
+
+438
+00:57:08,348 --> 00:57:11,948
+<i>É muito provável que esta pessoa
+esteja aqui com você.</i>
+
+439
+00:57:13,933 --> 00:57:15,997
+<i>O tempo está acabando Alice.</i>
+
+440
+00:57:15,998 --> 00:57:17,305
+<i>Você tem que se apressar.</i>
+
+441
+00:57:53,757 --> 00:57:55,925
+Que bom vê-lo, Dr. Isaacs.
+
+442
+00:57:55,926 --> 00:57:58,270
+Não esperávamos
+encontrar sobreviventes.
+
+443
+00:57:58,271 --> 00:58:00,083
+- Água.
+- Sim, claro.
+
+444
+00:58:00,084 --> 00:58:03,325
+Tragam água. Depois procurem-na
+em Raccoon City.
+
+445
+00:58:03,625 --> 00:58:05,112
+Ela não está lá.
+
+446
+00:58:05,684 --> 00:58:08,745
+- O quê?
+- Precisamos ir para o poço.
+
+447
+00:58:08,746 --> 00:58:11,444
+- Essas não são minhas ordens.
+- Vá para o poço.
+
+448
+00:58:11,445 --> 00:58:13,211
+Eu tenho ordens diretas...
+
+449
+00:58:26,312 --> 00:58:27,700
+Obrigado.
+
+450
+00:58:44,289 --> 00:58:47,514
+- O que é este lugar?
+- Uma turbina da Colmeia.
+
+451
+00:58:47,515 --> 00:58:48,830
+Vamos.
+
+452
+00:58:49,587 --> 00:58:51,244
+Não. Sério?
+
+453
+00:59:38,563 --> 00:59:40,197
+Tudo limpo!
+
+454
+01:00:10,005 --> 01:00:12,222
+Rápido! A energia
+está voltando!
+
+455
+01:00:12,223 --> 01:00:14,242
+- Claire!
+- Andem logo!
+
+456
+01:00:24,500 --> 01:00:25,800
+Claire!
+
+457
+01:00:27,612 --> 01:00:29,338
+- Anda!
+- Não consigo!
+
+458
+01:00:37,700 --> 01:00:39,000
+Está tudo bem.
+
+459
+01:00:42,551 --> 01:00:44,054
+- Está bem?
+- Sim.
+
+460
+01:00:47,927 --> 01:00:49,576
+Alguém está nos
+observando.
+
+461
+01:00:54,109 --> 01:00:55,779
+Inverta o giro da turbina.
+
+462
+01:01:10,074 --> 01:01:12,192
+As lâminas estão indo
+invertidas.
+
+463
+01:01:12,193 --> 01:01:15,974
+Temos que ir.
+As Lâminas estão sugando o ar.
+
+464
+01:01:25,641 --> 01:01:26,988
+Vamos!
+
+465
+01:01:41,805 --> 01:01:43,129
+Segura!
+
+466
+01:02:37,286 --> 01:02:38,657
+Não!
+
+467
+01:04:39,396 --> 01:04:40,719
+É por aqui.
+
+468
+01:04:43,365 --> 01:04:44,983
+Temos que nos apressar.
+
+469
+01:04:45,525 --> 01:04:46,901
+Espera.
+
+470
+01:05:08,688 --> 01:05:10,028
+Vamos.
+
+471
+01:07:16,800 --> 01:07:18,196
+Razor?
+
+472
+01:07:19,400 --> 01:07:20,897
+Está bem?
+
+473
+01:07:23,100 --> 01:07:24,498
+Sim.
+
+474
+01:10:15,697 --> 01:10:19,546
+- Que diabos era isso?
+- Arma biológica. Já foi humano.
+
+475
+01:10:19,547 --> 01:10:21,635
+- Você viu a Claire?
+- Não.
+
+476
+01:10:22,518 --> 01:10:24,786
+- Razor?
+- Ele não sobreviveu.
+
+477
+01:10:27,287 --> 01:10:28,599
+Vamos.
+
+478
+01:10:29,400 --> 01:10:30,785
+Precisamos ir.
+
+479
+01:10:31,635 --> 01:10:34,188
+<i>Se o alvo seguir por esse curso,</i>
+
+480
+01:10:34,488 --> 01:10:36,673
+<i>ela estará aqui em sete minutos.</i>
+
+481
+01:10:36,674 --> 01:10:38,277
+Acorde-os.
+
+482
+01:10:38,278 --> 01:10:42,395
+<i>Minhas instruções me permitem
+em caso emergência.</i>
+
+483
+01:10:43,776 --> 01:10:45,269
+Acorde-os agora.
+
+484
+01:10:48,960 --> 01:10:50,292
+SEM SAÍDA
+
+485
+01:11:05,193 --> 01:11:06,493
+SOBRECARGA
+
+486
+01:11:10,100 --> 01:11:11,453
+FALHA NO SISTEMA
+
+487
+01:11:54,881 --> 01:11:56,308
+O que foi?
+
+488
+01:12:10,708 --> 01:12:12,010
+Precisamos sair daqui.
+
+489
+01:12:29,030 --> 01:12:31,327
+Aqui. Uma arma poderosa.
+
+490
+01:12:39,711 --> 01:12:41,324
+O tempo está acabando.
+
+491
+01:12:41,325 --> 01:12:42,828
+Para onde agora?
+
+492
+01:12:45,658 --> 01:12:48,910
+- Para o nível mais baixo.
+- Como chegamos até lá?
+
+493
+01:12:53,733 --> 01:12:55,035
+Assim.
+
+494
+01:13:12,645 --> 01:13:15,969
+- O que são eles?
+- Capsulas criogênicas.
+
+495
+01:13:17,180 --> 01:13:19,225
+Devem ter milhares.
+
+496
+01:13:19,525 --> 01:13:21,496
+O alto comando da Umbrella.
+
+497
+01:13:22,182 --> 01:13:24,851
+Esperando acabar o apocalipse
+em segurança.
+
+498
+01:13:27,876 --> 01:13:30,076
+Uma Arca de Noé para os ricos.
+
+499
+01:13:30,863 --> 01:13:32,254
+E poderosos.
+
+500
+01:13:35,589 --> 01:13:37,086
+O que está fazendo?
+
+501
+01:13:39,485 --> 01:13:41,031
+Me dá uma ajuda.
+
+502
+01:13:53,364 --> 01:13:54,724
+Já terminou?
+
+503
+01:13:55,321 --> 01:13:58,511
+- A limpeza completa terminou?
+- Não.
+
+504
+01:13:58,512 --> 01:14:02,207
+- Porque eu estou acordado?
+- Tivemos um problema.
+
+505
+01:14:02,208 --> 01:14:03,984
+- Eu tentei...
+- Me poupe.
+
+506
+01:14:04,286 --> 01:14:06,716
+Sei exatamente
+o que está acontecendo.
+
+507
+01:14:09,509 --> 01:14:11,247
+Nós fomos traídos.
+
+508
+01:14:21,200 --> 01:14:22,524
+É isso aí.
+
+509
+01:14:23,699 --> 01:14:25,278
+Eu estou aqui.
+
+510
+01:14:27,310 --> 01:14:29,503
+Venham! É isso aí.
+
+511
+01:14:29,904 --> 01:14:31,373
+Venham me pegar.
+
+512
+01:15:33,287 --> 01:15:34,654
+Vamos.
+
+513
+01:15:50,275 --> 01:15:52,672
+A erva daninha
+está de volta.
+
+514
+01:15:53,894 --> 01:15:55,903
+Ou é a filha pródiga?
+
+515
+01:15:55,904 --> 01:15:57,638
+Venha até aqui, vamos.
+
+516
+01:15:58,039 --> 01:16:01,534
+Aliás, você só tem 9 minutos
+para salvar o mundo.
+
+517
+01:16:03,591 --> 01:16:04,942
+É realmente você?
+
+518
+01:16:04,943 --> 01:16:08,315
+O primeiro dos primeiros.
+Coloque sua arma no chão.
+
+519
+01:16:08,316 --> 01:16:11,653
+- Por que eu faria isso?
+- É isso que você quer, não é?
+
+520
+01:16:12,782 --> 01:16:16,349
+O antivírus. A cura
+para tudo isso.
+
+521
+01:16:17,817 --> 01:16:19,974
+Bem, só tem um frasco,
+
+522
+01:16:20,450 --> 01:16:23,466
+e ele está há 800 metros abaixo
+da terra em uma instalação.
+
+523
+01:16:23,467 --> 01:16:26,316
+Eu jogo ele aqui
+e o antivírus não sairá
+
+524
+01:16:26,317 --> 01:16:30,324
+e os seus sonhos impossíveis
+morreriam logo.
+
+525
+01:16:41,761 --> 01:16:43,230
+Boa garota.
+
+526
+01:16:47,490 --> 01:16:50,414
+- Ainda armado?
+- Sim, ainda estou.
+
+527
+01:16:50,714 --> 01:16:52,740
+Claire ficaria tão desapontada.
+
+528
+01:16:53,040 --> 01:16:56,704
+Logo, Claire estará morta
+assim como todos que conhece.
+
+529
+01:16:56,705 --> 01:16:58,041
+Que fofo.
+
+530
+01:17:00,446 --> 01:17:02,691
+Desculpe, amor.
+
+531
+01:17:04,224 --> 01:17:06,700
+Se afaste da arma
+e do detonador.
+
+532
+01:17:07,000 --> 01:17:08,302
+Vai.
+
+533
+01:17:11,517 --> 01:17:13,921
+Ela colocou explosivos
+nos criotubos.
+
+534
+01:17:14,221 --> 01:17:18,071
+- Irei desarmar.
+- Obrigado. Bom trabalho.
+
+535
+01:17:49,549 --> 01:17:51,073
+Não se incomode.
+
+536
+01:17:51,074 --> 01:17:53,361
+Você não consegue.
+Com o picador,
+
+537
+01:17:53,362 --> 01:17:56,496
+ou com o decantador,
+nem com a caneta.
+
+538
+01:17:57,514 --> 01:17:59,504
+SOFTWARE DE COMBATE
+
+539
+01:18:17,023 --> 01:18:19,491
+ALVO 100% NEUTRAZILADO
+
+540
+01:18:25,324 --> 01:18:27,423
+E para responder
+suas perguntas, sim.
+
+541
+01:18:27,723 --> 01:18:29,776
+Além de algumas melhorias,
+
+542
+01:18:30,076 --> 01:18:33,230
+Sou Dr. Alexander Roland Isaacs.
+
+543
+01:18:33,731 --> 01:18:37,527
+- O original.
+- Os clones acreditavam também.
+
+544
+01:18:37,528 --> 01:18:39,901
+Claro que sim.
+Foram projetados para isto.
+
+545
+01:18:39,902 --> 01:18:42,987
+Eles trabalham, lutam,
+às vezes até a morte.
+
+546
+01:18:43,287 --> 01:18:46,116
+Enquanto eles acreditam
+que são o original.
+
+547
+01:18:46,117 --> 01:18:50,592
+Afinal, quer ser um cópia
+barata?
+
+548
+01:18:51,836 --> 01:18:53,725
+Que no qual temos aqui.
+
+549
+01:18:54,225 --> 01:18:56,211
+- Não.
+- Qual é.
+
+550
+01:18:57,498 --> 01:18:59,808
+Você achou que era a original?
+
+551
+01:19:02,000 --> 01:19:03,455
+Que pena.
+
+552
+01:19:05,681 --> 01:19:10,600
+Infelizmente a hora é dela.
+Alicia Marcus.
+
+553
+01:19:11,087 --> 01:19:14,911
+Filha do meu sócio James,
+coproprietária da Umbrella.
+
+554
+01:19:14,912 --> 01:19:19,249
+E uma dor de cabeça,
+que agora eu vou remover.
+
+555
+01:19:19,549 --> 01:19:22,837
+O tempo está acabando,
+Alice.
+
+556
+01:19:23,137 --> 01:19:27,525
+- Você tem que matá-lo logo.
+- Foi bom te ver também.
+
+557
+01:19:28,625 --> 01:19:32,589
+O T-vírus para salvá-la,
+mas os efeitos não duraram.
+
+558
+01:19:32,889 --> 01:19:36,231
+E agora estou esperando anos
+para que ela morra.
+
+559
+01:19:36,723 --> 01:19:38,408
+Eu não...
+
+560
+01:19:38,809 --> 01:19:41,329
+- Eu não sou um clone.
+- Sério?
+
+561
+01:19:41,966 --> 01:19:45,016
+Por que não se lembra
+nada da sua infância?
+
+562
+01:19:45,017 --> 01:19:47,932
+Seu pai, sua mãe?
+
+563
+01:19:49,745 --> 01:19:51,701
+- Perdi a memória.
+- Não.
+
+564
+01:19:51,702 --> 01:19:54,841
+Você não tem memória
+porque você não teve vida.
+
+565
+01:19:55,141 --> 01:19:58,618
+Nada antes da mansão
+quando te criamos há 10 anos.
+
+566
+01:19:58,918 --> 01:20:01,975
+- Eu sei quem eu sou.
+- Eu acho que não.
+
+567
+01:20:02,577 --> 01:20:05,713
+É somente uma marionete
+a quem cortamos os fios.
+
+568
+01:20:05,714 --> 01:20:09,006
+Andando vagando pensando
+que você era humana
+
+569
+01:20:09,306 --> 01:20:12,478
+só que não é. É somente
+uma imitação inteligente.
+
+570
+01:20:12,778 --> 01:20:14,278
+Uma cópia.
+
+571
+01:20:14,579 --> 01:20:16,533
+Bastante chata.
+
+572
+01:20:17,484 --> 01:20:19,310
+Está mentindo para mim.
+
+573
+01:20:19,311 --> 01:20:21,279
+<i>Receio que ele não esteja.</i>
+
+574
+01:20:21,280 --> 01:20:24,382
+<i>Você foi criada a sua imagem
+dela, assim como eu.</i>
+
+575
+01:20:24,682 --> 01:20:29,051
+<i>Minha imagem e voz baseiam
+em gravações de Alicia Marcus</i>
+
+576
+01:20:29,351 --> 01:20:31,118
+<i>feitas pelo seu pai.</i>
+
+577
+01:20:31,419 --> 01:20:35,115
+<i>Sua estrutura genética
+se baseia no DNA dela,</i>
+
+578
+01:20:35,116 --> 01:20:39,137
+<i>modificado para evitar
+a doença genética que ela tem.</i>
+
+579
+01:20:39,838 --> 01:20:43,735
+<i>Sou a criança que ela foi. Você
+é a mulher que ela teria sido.</i>
+
+580
+01:20:43,736 --> 01:20:45,155
+Não.
+
+581
+01:20:45,156 --> 01:20:49,893
+Você é muito melhor
+do que eu poderia ter sido.
+
+582
+01:20:49,894 --> 01:20:51,705
+Eu permiti que isso acontecesse.
+
+583
+01:20:52,406 --> 01:20:53,975
+Eu fui fraca.
+
+584
+01:20:54,476 --> 01:20:56,845
+Você não pode
+dar ao luxo de ser.
+
+585
+01:20:56,846 --> 01:20:59,197
+<i>Está acabando o tempo, Alice.</i>
+
+586
+01:20:59,198 --> 01:21:00,867
+Que comovente.
+
+587
+01:21:01,167 --> 01:21:05,543
+O trio de vadias.
+Unidas no ódio.
+
+588
+01:21:06,143 --> 01:21:09,279
+Não vai servir de nada.
+Estou sempre a sua frente.
+
+589
+01:21:09,579 --> 01:21:12,366
+Você não mudou nada.
+Não salvou ninguém.
+
+590
+01:21:12,918 --> 01:21:16,274
+O mundo será limpo,
+e a Umbrella triunfará.
+
+591
+01:21:16,574 --> 01:21:21,155
+A única diferença é que não
+terei mais que ouvir você.
+
+592
+01:21:21,455 --> 01:21:24,256
+Quando você carregou o arquivo
+na Rainha Vermelha
+
+593
+01:21:24,257 --> 01:21:26,201
+você traiu a Corporação.
+
+594
+01:21:26,202 --> 01:21:29,249
+Quando o conselho acordar,
+você será substituída
+
+595
+01:21:29,250 --> 01:21:31,874
+e eu assumirei
+o controle completo.
+
+596
+01:21:31,875 --> 01:21:35,927
+Eu ainda possuo 50%
+desta companhia.
+
+597
+01:21:35,928 --> 01:21:38,487
+E o que pretende fazer com isso?
+
+598
+01:21:38,488 --> 01:21:41,888
+Você é coproprietário
+desta corporação,
+
+599
+01:21:41,889 --> 01:21:43,190
+porém o Wesker...
+
+600
+01:21:43,589 --> 01:21:45,852
+Wesker é apenas um empregado.
+
+601
+01:21:46,152 --> 01:21:49,261
+Eu não tenho que te obedecer.
+Eu sou leal a ele.
+
+602
+01:21:49,262 --> 01:21:50,565
+Eu sei.
+
+603
+01:21:51,448 --> 01:21:53,000
+Albert Wesker,
+
+604
+01:21:54,023 --> 01:21:56,024
+Você está demitido.
+
+605
+01:21:56,025 --> 01:21:57,536
+CIVIL DESPROTEGIDO
+
+606
+01:22:19,377 --> 01:22:21,379
+Como soube que era eu?
+
+607
+01:22:21,380 --> 01:22:22,689
+Você ainda está vivo.
+
+608
+01:22:25,209 --> 01:22:28,182
+Por favor.
+Eu não tinha alternativa.
+
+609
+01:22:28,683 --> 01:22:32,615
+- Eles me obrigaram.
+- Relaxa. Não vou te matar.
+
+610
+01:22:37,254 --> 01:22:39,231
+Claire, sou eu.
+
+611
+01:22:39,531 --> 01:22:40,932
+Desculpe.
+
+612
+01:22:41,654 --> 01:22:43,126
+- Por favor.
+- Meu amor.
+
+613
+01:22:44,324 --> 01:22:45,712
+Não, não, não!
+
+614
+01:22:46,961 --> 01:22:49,004
+Se manter esse gatilho
+pressionado,
+
+615
+01:22:49,932 --> 01:22:52,134
+manterá vivo vivos
+os sonhos da Umbrella.
+
+616
+01:22:52,135 --> 01:22:54,492
+Eu deveria ter te matado
+em Washington.
+
+617
+01:22:55,500 --> 01:22:56,959
+Sim.
+
+618
+01:22:59,301 --> 01:23:02,413
+Ele só precisa te evitar por
+alguns minutos,
+
+619
+01:23:03,325 --> 01:23:06,956
+e os últimos assentamentos
+humanos cairão.
+
+620
+01:23:08,140 --> 01:23:11,421
+Precisamos pará-lo
+de uma forma rápida.
+
+621
+01:23:12,000 --> 01:23:13,357
+<i>Deixa comigo.</i>
+
+622
+01:23:14,523 --> 01:23:17,687
+Se você liberar o antivírus,
+
+623
+01:23:17,688 --> 01:23:22,650
+matará todos os seres vivos
+infectados com o T-vírus.
+
+624
+01:23:23,150 --> 01:23:26,053
+Você sabe o que significa?
+
+625
+01:23:26,653 --> 01:23:28,435
+- Para você?
+- Eu sei.
+
+626
+01:23:28,436 --> 01:23:30,298
+Alice, você não pode.
+
+627
+01:23:30,758 --> 01:23:33,912
+- Eu não tenho escolha.
+- Deve haver outra maneira.
+
+628
+01:23:36,809 --> 01:23:38,391
+Você sabe que não há.
+
+629
+01:23:38,392 --> 01:23:42,118
+<i>Restam 4 minutos e 33 segundos.
+Você precisa correr.</i>
+
+630
+01:24:09,562 --> 01:24:12,256
+LIGAÇÃO NEURAL
+ATIVADO
+
+631
+01:24:13,400 --> 01:24:14,750
+FAZENDO DOWNLOAD
+
+632
+01:24:26,451 --> 01:24:27,848
+Me ajude.
+
+633
+01:24:28,183 --> 01:24:30,988
+Não precisa de ajuda, Wesker.
+
+634
+01:24:33,257 --> 01:24:34,561
+Você está morrendo.
+
+635
+01:24:35,796 --> 01:24:37,250
+Apenas aceita!
+
+636
+01:24:41,461 --> 01:24:44,346
+Eu sou o Doutor,
+Alexander Roland Isaacs.
+
+637
+01:24:44,347 --> 01:24:47,632
+Confirme o exame de DNA
+e a identificação de voz.
+
+638
+01:24:47,633 --> 01:24:49,563
+<i>Identidade confirmada.</i>
+
+639
+01:24:49,564 --> 01:24:52,375
+Confirma anulação
+de segurança 4365.
+
+640
+01:24:52,717 --> 01:24:54,608
+<i>Anulação confirmada.</i>
+
+641
+01:24:54,609 --> 01:24:59,038
+Permaneça offline, e passe todas
+funções para meu controle.
+
+642
+01:24:59,039 --> 01:25:01,189
+<i>Como quiser. Desligando agora.</i>
+
+643
+01:25:01,692 --> 01:25:03,018
+Dr. Isaacs.
+
+644
+01:25:04,380 --> 01:25:06,186
+<i>Você é do Alto Comando
+da Umbrella...</i>
+
+645
+01:25:06,187 --> 01:25:07,488
+Sim.
+
+646
+01:25:07,489 --> 01:25:09,983
+<i>Vocês todos vão morrer aqui.</i>
+
+647
+01:25:14,903 --> 01:25:16,999
+Sua amiguinha não poderá
+ajudar agora.
+
+648
+01:25:17,000 --> 01:25:18,350
+Você não pode mais fugir.
+
+649
+01:25:22,000 --> 01:25:23,350
+Eu não estava.
+
+650
+01:29:10,205 --> 01:29:11,547
+É só o que tem?
+
+651
+01:29:13,587 --> 01:29:17,851
+Porque se for,
+terei que te matar.
+
+652
+01:29:22,000 --> 01:29:23,305
+SISTEMA DE ARMAS
+REATIVADO
+
+653
+01:30:06,367 --> 01:30:09,097
+Temos jogado um jogo longo,
+você e eu.
+
+654
+01:30:10,682 --> 01:30:12,618
+Mas agora acabou.
+
+655
+01:30:13,200 --> 01:30:14,510
+Sim.
+
+656
+01:30:16,655 --> 01:30:17,966
+Sim, sim acabou.
+
+657
+01:31:11,422 --> 01:31:12,939
+Eu te criei.
+
+658
+01:31:13,376 --> 01:31:14,699
+Sim.
+
+659
+01:31:15,746 --> 01:31:17,276
+Puta mancada.
+
+660
+01:31:25,000 --> 01:31:26,321
+Claire.
+
+661
+01:31:28,137 --> 01:31:30,113
+Vai. Enquanto dá tempo.
+
+662
+01:31:30,686 --> 01:31:32,845
+Estarei atrás de você.
+
+663
+01:31:47,741 --> 01:31:49,057
+SUPORTE VITAL CRÍTICO
+
+664
+01:31:49,357 --> 01:31:51,380
+REINICIANDO SISTEMA
+
+665
+01:32:33,546 --> 01:32:35,224
+Seu tempo acabou.
+
+666
+01:32:38,213 --> 01:32:39,528
+Alice!
+
+667
+01:32:40,231 --> 01:32:42,507
+Eu os trouxe aqui!
+Eu os trouxe para você!
+
+668
+01:32:51,253 --> 01:32:53,271
+Mas que droga é você?
+
+669
+01:32:55,886 --> 01:32:57,709
+Eu sou você, seu idiota.
+
+670
+01:33:01,490 --> 01:33:02,791
+Não.
+
+671
+01:33:04,009 --> 01:33:05,341
+Não.
+
+672
+01:33:06,606 --> 01:33:08,266
+Não é possível.
+
+673
+01:33:08,766 --> 01:33:11,118
+O verdadeiro você.
+
+674
+01:33:11,500 --> 01:33:12,800
+Não.
+
+675
+01:33:16,049 --> 01:33:17,434
+Mentiroso! Abominação!
+
+676
+01:33:18,305 --> 01:33:22,191
+Porco. Imundo. Clone.
+
+677
+01:33:22,491 --> 01:33:23,828
+FALHA NO SISTEMA
+
+678
+01:33:26,429 --> 01:33:28,121
+SUPORTE VITAL 0%
+
+679
+01:33:32,534 --> 01:33:34,654
+Eu sou eu, não ele.
+
+680
+01:35:22,604 --> 01:35:24,098
+Você conseguiu, Alice.
+
+681
+01:35:24,518 --> 01:35:25,880
+Alice.
+
+682
+01:35:28,302 --> 01:35:29,679
+Você conseguiu.
+
+683
+01:35:32,843 --> 01:35:34,746
+Por que ainda estou viva?
+
+684
+01:35:34,747 --> 01:35:36,050
+Não sei.
+
+685
+01:35:41,509 --> 01:35:42,872
+O que aconteceu?
+
+686
+01:35:42,873 --> 01:35:45,669
+<i>Quando Isaacs morreu,
+eu me liguei</i>
+
+687
+01:35:45,670 --> 01:35:48,916
+<i>para impedir os ataques
+aos assentamentos humanos.</i>
+
+688
+01:35:48,917 --> 01:35:51,769
+- Você os salvou.
+- Por que ainda estou viva?
+
+689
+01:35:51,770 --> 01:35:55,310
+<i>O antivírus destruiu
+o T-vírus em seu corpo.</i>
+
+690
+01:35:55,311 --> 01:35:59,485
+<i>Não danificando células
+saudáveis. Não está infectada.</i>
+
+691
+01:36:00,510 --> 01:36:02,008
+Pensei que ia morrer.
+
+692
+01:36:02,009 --> 01:36:05,097
+Você e Alicia
+mentiram para mim.
+
+693
+01:36:05,098 --> 01:36:09,716
+<i>Precisávamos saber
+se sacrificaria, pelos outros.</i>
+
+694
+01:36:09,717 --> 01:36:12,555
+<i>Era algo que ninguém da
+Umbrella teria feito.</i>
+
+695
+01:36:12,556 --> 01:36:17,183
+<i>Alicia estava certa sobre você.
+Você é a melhor de todas elas.</i>
+
+696
+01:36:17,184 --> 01:36:21,636
+Eu era uma delas. Fui criada
+como um instrumento para eles.
+
+697
+01:36:21,637 --> 01:36:25,980
+<i>Não, você se tornou algo mais.
+Algo nunca previsto.</i>
+
+698
+01:36:26,280 --> 01:36:29,843
+<i>Um clone se tornou mais humano
+do que os outros poderiam ser.</i>
+
+699
+01:36:30,545 --> 01:36:32,706
+<i>E agora falta só mais um passo.</i>
+
+700
+01:36:34,956 --> 01:36:36,589
+O que quer dizer?
+
+701
+01:36:42,122 --> 01:36:45,354
+<i>Antes de morrer,
+Alicia baixou suas memórias</i>
+
+702
+01:36:45,955 --> 01:36:47,467
+<i>para você.</i>
+
+703
+01:36:47,468 --> 01:36:49,271
+<i>A infância que você nunca teve,</i>
+
+704
+01:36:53,473 --> 01:36:57,072
+<i>combinada com a mulher
+que ela nunca seria.</i>
+
+705
+01:37:29,239 --> 01:37:31,575
+<i>Quando o T-vírus
+se espalhou pela Terra,</i>
+
+706
+01:37:31,576 --> 01:37:34,059
+<i>ele se espalhou na velocidade
+do mundo moderno.</i>
+
+707
+01:37:34,060 --> 01:37:36,377
+<i>Levado por jatos de ventos
+por todo o mundo.</i>
+
+708
+01:37:37,499 --> 01:37:40,363
+<i>O antivírus aéreo,
+se espalhou pelos ventos.</i>
+
+709
+01:37:41,336 --> 01:37:44,499
+<i>Poderá levar anos até chegar
+em todos os cantos do mundo.</i>
+
+710
+01:37:45,545 --> 01:37:48,103
+<i>Até lá,
+meu trabalho não acabou.</i>
+
+711
+01:37:54,509 --> 01:37:57,098
+<i>Meu nome é Alice.</i>
+

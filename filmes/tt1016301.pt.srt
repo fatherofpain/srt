@@ -1,0 +1,4065 @@
+1
+00:00:06,000 --> 00:00:12,074
+OpenSubtitles.org AP stops working soon,
+but not for VIP members -> osdb.link/vip
+
+2
+00:00:49,799 --> 00:00:52,038
+Sabem o que são números primos?
+
+3
+00:00:52,215 --> 00:00:55,960
+É que, se não sabem,
+o melhor é irem embora.
+
+4
+00:00:57,423 --> 00:01:00,069
+Em 1742, o matemático
+Christian Goldbach,
+
+5
+00:01:00,173 --> 00:01:02,944
+afirmou que os números pares
+poderiam ser expressos...
+
+6
+00:01:03,048 --> 00:01:05,769
+através da soma de dois números primos.
+
+7
+00:01:06,256 --> 00:01:08,194
+É fácil de se verificar
+com números pequenos.
+
+8
+00:01:08,298 --> 00:01:11,746
+O 18, par, é 7 mais 11,
+que são primos.
+
+9
+00:01:11,922 --> 00:01:14,790
+O 24 é 5 mais 19,
+que são primos.
+
+10
+00:01:14,964 --> 00:01:18,377
+O 50 é 13 mais 37,
+e assim sucessivamente.
+
+11
+00:01:18,548 --> 00:01:20,631
+Diga um número par.
+
+12
+00:01:20,839 --> 00:01:23,588
+100.
+1000.
+
+13
+00:01:24,589 --> 00:01:26,673
+100 é 83 mais 17...
+
+14
+00:01:26,745 --> 00:01:31,003
+e 1000 é 521 mais 479.
+
+15
+00:01:31,340 --> 00:01:35,818
+Com números bem maiores é igual.
+Por exemplo, um número aleatório...
+
+16
+00:01:35,922 --> 00:01:37,360
+7112.
+
+17
+00:01:37,464 --> 00:01:40,960
+7112 é igual...
+
+18
+00:01:42,005 --> 00:01:46,959
+a 5119 mais 1993.
+
+19
+00:01:48,005 --> 00:01:51,276
+Ambos primos. O problema
+é que não se pode comprovar...
+
+20
+00:01:51,380 --> 00:01:54,026
+que todos os números pares
+são a soma de dois primos,
+
+21
+00:01:54,130 --> 00:01:55,776
+porque os números são infinitos.
+
+22
+00:01:55,881 --> 00:01:57,985
+Seria preciso encontrar uma regra...
+
+23
+00:01:58,089 --> 00:02:01,917
+e esse tem sido o problema
+mais difícil da Matemática.
+
+24
+00:02:04,713 --> 00:02:07,914
+Dá pra mim um autógrafo?
+- Sim, claro.
+
+25
+00:02:08,130 --> 00:02:10,213
+Como te chama?
+- Inés.
+
+26
+00:02:11,588 --> 00:02:13,671
+Para a Inés.
+
+27
+00:02:17,255 --> 00:02:19,708
+Aqui está.
+- Obrigada. Boa sorte!
+
+28
+00:02:19,879 --> 00:02:20,984
+Obrigado.
+
+29
+00:02:21,089 --> 00:02:23,172
+Boa sorte? Por quê?
+
+30
+00:02:23,245 --> 00:02:25,484
+Dia 20 de Fevereiro
+vou apresentar minha tese,
+
+31
+00:02:25,588 --> 00:02:27,751
+sobre a Conjectura de Goldbach.
+
+32
+00:02:28,588 --> 00:02:30,671
+Venha aqui! Rápido!
+
+33
+00:02:51,420 --> 00:02:53,661
+Destruíram sua tese?
+- Raios!
+
+34
+00:02:54,879 --> 00:02:58,126
+E agora?
+- Vou refazê-la, mas preciso de tempo.
+
+35
+00:02:59,629 --> 00:03:03,041
+Como conseguiram entrar,
+sem termos percebido?
+
+36
+00:03:52,919 --> 00:03:57,743
+O QUARTO DE FERMAT...
+
+37
+00:04:51,877 --> 00:04:55,456
+4 MESES DEPOIS
+
+38
+00:05:12,043 --> 00:05:16,083
+Gosta de enigmas, não é?
+Vê se acerta este.
+
+39
+00:05:17,584 --> 00:05:21,246
+O que têm em comum
+Georg Cantor, Yutaka Taniyama...
+
+40
+00:05:21,667 --> 00:05:23,751
+e Kurt Gödel?
+
+41
+00:05:26,667 --> 00:05:30,164
+Deixe-me ver... foram matemáticos,
+
+42
+00:05:31,417 --> 00:05:34,488
+ficaram para a História...
+- E enlouqueceram.
+
+43
+00:05:35,126 --> 00:05:38,990
+Kurt Gödel propos
+o Teorema da Incompletude.
+
+44
+00:05:39,626 --> 00:05:41,709
+E se suicidou.
+
+45
+00:05:41,875 --> 00:05:44,790
+Também tentei me suicidar, há dias.
+
+46
+00:05:46,417 --> 00:05:48,646
+No entanto, lembrei que
+tínhamos esta partida pendente,
+
+47
+00:05:48,750 --> 00:05:51,682
+coisa que você esquece
+com muita freqüência.
+
+48
+00:05:52,125 --> 00:05:53,813
+Não pode continuar assim.
+
+49
+00:05:53,917 --> 00:05:56,729
+Tem que sair. Digo como médico,
+não como amigo.
+
+50
+00:05:56,834 --> 00:05:59,605
+E repete o triplo das vezes
+do que seria normal.
+
+51
+00:05:59,709 --> 00:06:02,431
+Digo como matemático,
+não como amigo.
+
+52
+00:06:02,497 --> 00:06:05,288
+Por falar nisso,
+vou dar uma "fugidinha".
+
+53
+00:06:05,584 --> 00:06:08,724
+Quer saber o que recebi,
+pelo correio, hoje?
+
+54
+00:06:12,958 --> 00:06:16,039
+Torre "f" para a casa "e8".
+
+55
+00:06:17,833 --> 00:06:20,997
+Ouça isto: "se conseguir resolver...
+
+56
+00:06:21,166 --> 00:06:23,610
+o seguinte enigma, o que não duvido,
+
+57
+00:06:23,670 --> 00:06:26,520
+será convidado para uma reunião
+de fim-de-semana...
+
+58
+00:06:26,624 --> 00:06:29,556
+com as mais brilhantes
+mentes matemáticas.
+
+59
+00:06:29,666 --> 00:06:34,323
+Atenciosamente, Fermat."
+- E qual é o enigma?
+
+60
+00:06:34,707 --> 00:06:36,865
+É uma seqüência de números.
+
+61
+00:06:37,041 --> 00:06:41,533
+Tenho que ver qual é o padrão.
+Tenho 10 dias, mas não é fácil.
+
+62
+00:06:41,707 --> 00:06:45,783
+...6, 7, 3, 1.
+5, 4, 2, 9, 8...
+
+63
+00:06:46,499 --> 00:06:49,248
+"10 dias depois"
+
+64
+00:06:49,707 --> 00:06:52,989
+...8, 5, 4, 9, 1, 7...
+
+65
+00:07:26,832 --> 00:07:29,747
+Então, resolveu o enigma ou não?
+
+66
+00:07:30,790 --> 00:07:32,686
+Parece que não.
+
+67
+00:07:32,790 --> 00:07:34,770
+Além do mais,
+hoje era o último dia.
+
+68
+00:07:34,874 --> 00:07:37,936
+Se quiser ficar até mais tarde,
+deixo a chave.
+
+69
+00:07:38,040 --> 00:07:40,622
+Depois, deixe-a na caixa do correio.
+
+70
+00:07:41,331 --> 00:07:44,744
+Mas não diga a ninguém.
+- Obrigado.
+
+71
+00:07:46,373 --> 00:07:51,445
+Deixe os livros que usar
+por ordem alfabética.
+
+72
+00:08:00,997 --> 00:08:05,489
+"Em que ordem..."
+
+73
+00:08:08,165 --> 00:08:13,367
+Cinco, quatro, dois...
+os números por ordem alfabética!
+
+74
+00:08:17,706 --> 00:08:20,241
+Por ordem alfabética!
+
+75
+00:08:21,581 --> 00:08:24,810
+"Ilustríssimo senhor,
+só o senhor e mais três pessoas...
+
+76
+00:08:24,914 --> 00:08:27,699
+"conseguiram resolver o enigma.
+
+77
+00:08:28,706 --> 00:08:30,434
+"Como referi, na carta anterior,
+
+78
+00:08:30,539 --> 00:08:33,685
+"a sociedade que presido
+gostaria que estivesse presente...
+
+79
+00:08:33,789 --> 00:08:37,487
+numa das nossas reuniões
+para troca de conhecimentos.
+
+80
+00:08:38,455 --> 00:08:40,893
+Espero não tê-lo ofendido,
+ao pô-lo à prova.
+
+81
+00:08:40,997 --> 00:08:43,393
+Agora, sei que posso confiar em si.
+
+82
+00:08:43,497 --> 00:08:46,744
+Se confiar em mim,
+siga as minhas indicações.
+
+83
+00:08:50,914 --> 00:08:55,238
+Na sexta-feira, 25 de Julho,
+às 19h00, vá ao ponto de encontro.
+
+84
+00:08:55,621 --> 00:08:59,319
+Siga pela estrada 141,
+até o quilômetro 18.
+
+85
+00:08:59,497 --> 00:09:02,498
+Saia na bifurcação
+e siga sempre em frente.
+
+86
+00:09:03,871 --> 00:09:07,684
+Lembre-se, espero que consiga
+resolver aquele que, para mim,
+
+87
+00:09:07,788 --> 00:09:10,869
+é o enigma mais engenhoso dos tempos.
+
+88
+00:09:13,996 --> 00:09:16,079
+Não leve celular.
+
+89
+00:09:18,288 --> 00:09:21,777
+Não revele a sua identidade
+aos outros convidados.
+
+90
+00:09:24,287 --> 00:09:27,949
+Durante a reunião,
+o seu pseudônimo será Pascal.
+
+91
+00:09:31,621 --> 00:09:34,074
+Atenciosamente, Fermat."
+
+92
+00:10:12,162 --> 00:10:14,828
+Desculpe.
+O meu carro quebrou.
+
+93
+00:10:15,537 --> 00:10:18,747
+É o problema dos carros velhos.
+Senhor Hilbert?
+
+94
+00:10:18,911 --> 00:10:22,266
+Vamos para o mesmo lugar!
+- É verdade. Que coincidência!
+
+95
+00:10:22,370 --> 00:10:26,613
+Quanto mais se estuda a lógica,
+mais valor se dá ao acaso.
+
+96
+00:10:27,036 --> 00:10:29,869
+Sabes de quem é esta frase?
+- Não.
+
+97
+00:10:30,953 --> 00:10:33,036
+É minha.
+
+98
+00:11:06,911 --> 00:11:09,909
+Então, vai à reunião misteriosa?
+
+99
+00:11:12,785 --> 00:11:14,941
+Segundo o convite,
+
+100
+00:11:15,994 --> 00:11:19,028
+eu me chamo Oliva.
+
+101
+00:11:21,077 --> 00:11:24,218
+Oliva deve ser por causa
+de Oliva Sabuco, não?
+
+102
+00:11:25,202 --> 00:11:27,488
+A cientista do século XVI?
+
+103
+00:11:28,660 --> 00:11:30,743
+Não?
+
+104
+00:11:35,494 --> 00:11:37,577
+Sou inventor.
+
+105
+00:11:40,160 --> 00:11:42,723
+E já inventou alguma coisa
+que possa ser usada?
+
+106
+00:11:42,827 --> 00:11:47,069
+Não sei. Inventei desde
+prensas hidráulicas enormes,
+
+107
+00:11:47,951 --> 00:11:51,399
+a coisas como esta...
+vai gostar desta.
+
+108
+00:12:04,451 --> 00:12:05,806
+Isto é... olha,
+
+109
+00:12:05,910 --> 00:12:10,696
+põe o milho por aqui e...
+
+110
+00:12:12,326 --> 00:12:15,194
+...e as pipocas saem pela boca...
+
+111
+00:12:17,701 --> 00:12:19,784
+É um pato...
+
+112
+00:12:30,243 --> 00:12:32,222
+Por que será que nos deu apelidos?
+
+113
+00:12:32,326 --> 00:12:37,029
+Em teoria, porque nesta reunião,
+o que importa são as idéias...
+
+114
+00:12:37,201 --> 00:12:40,483
+e não as pessoas.
+E isso é que é bonito.
+
+115
+00:12:40,784 --> 00:12:44,203
+Estou farto de que me dêem
+razão por ser quem sou.
+
+116
+00:12:44,492 --> 00:12:47,262
+Sim, nesse sentido, é melhor
+que não nos conheçamos.
+
+117
+00:12:47,367 --> 00:12:49,451
+Mas eu o conheço.
+
+118
+00:12:52,908 --> 00:12:55,211
+Vi a sua fotografia numa revista.
+
+119
+00:12:55,366 --> 00:12:59,610
+Dizia que resolvou
+a Conjectura de Goldbach.
+
+120
+00:13:02,158 --> 00:13:06,650
+É verdade?
+- Se for, é melhor ninguém saber.
+
+121
+00:13:07,200 --> 00:13:10,131
+Todos me dariam razão,
+só por ser quem sou.
+
+122
+00:13:46,491 --> 00:13:48,574
+Tudo bem?
+
+123
+00:13:49,574 --> 00:13:51,657
+Já estamos todos?
+
+124
+00:13:52,240 --> 00:13:54,178
+Pensei que não deveríamos nos conhecer.
+
+125
+00:13:54,282 --> 00:13:56,366
+E não nos conhecemos.
+
+126
+00:13:56,491 --> 00:13:59,386
+O Sr. Galois me apanhou
+na estrada e me deu carona.
+
+127
+00:13:59,491 --> 00:14:02,274
+Já são 19h00.
+E agora, o que fazemos?
+
+128
+00:14:02,449 --> 00:14:04,678
+Para ser preciso, falta meio minuto.
+
+129
+00:14:04,782 --> 00:14:06,938
+Suponho que venham nos buscar.
+
+130
+00:14:07,657 --> 00:14:10,011
+Já esteve em reuniões deste tipo?
+
+131
+00:14:10,115 --> 00:14:12,178
+Há sempre jogos e coisas do gênero.
+
+132
+00:14:12,282 --> 00:14:16,227
+Aposto que virão nos buscar
+num carro de luxo.
+
+133
+00:14:17,032 --> 00:14:19,178
+Venham como vierem,
+não serão pontuais.
+
+134
+00:14:19,282 --> 00:14:23,524
+Faltam 5 segundos
+para as 19h00... três, dois,
+
+135
+00:14:23,698 --> 00:14:25,781
+um...
+
+136
+00:14:28,865 --> 00:14:30,949
+Luzes!
+
+137
+00:14:48,823 --> 00:14:52,172
+Parece que acabou
+de encontrar o carro de luxo.
+
+138
+00:15:00,239 --> 00:15:04,482
+Isto parece o enigma do pastor
+que tem de atravessar...
+
+139
+00:15:04,656 --> 00:15:06,819
+o rio num barco,
+com uma ovelha,
+
+140
+00:15:06,894 --> 00:15:09,815
+um lobo e uma couve.
+Conhecem?
+
+141
+00:15:10,864 --> 00:15:13,510
+No barco, só podem viajar dois.
+Por exemplo:
+
+142
+00:15:13,614 --> 00:15:16,565
+o pastor e a ovelha,
+ou o pastor e a couve.
+
+143
+00:15:16,739 --> 00:15:19,301
+O objetivo é ver como
+o pastor pode atravessar o rio,
+
+144
+00:15:19,405 --> 00:15:23,035
+sem o lobo comer a ovelha
+nem a ovelha comer a couve.
+
+145
+00:15:29,072 --> 00:15:31,934
+Mas... por que é
+que o pastor leva um lobo?
+
+146
+00:15:33,072 --> 00:15:36,651
+Além disso, não percebo
+a relação com esta situação.
+
+147
+00:15:40,072 --> 00:15:42,301
+Na melhor das hipóteses,
+o Professor Hilbert está insinuando...
+
+148
+00:15:42,405 --> 00:15:46,093
+que um de nós é o pastor,
+outro o lobo, outro a ovelha...
+
+149
+00:15:46,197 --> 00:15:48,280
+...e outro a couve.
+
+150
+00:16:44,529 --> 00:16:47,443
+Ligaram o sistema do carro a um PDA,
+
+151
+00:16:47,778 --> 00:16:51,687
+que, devia estar programado
+para acender as luzes às 19h00.
+
+152
+00:16:52,570 --> 00:16:54,653
+E agora? Aonde vamos?
+
+153
+00:16:54,986 --> 00:16:59,727
+Estamos aqui e temos de ir até aqui.
+
+154
+00:18:35,276 --> 00:18:37,563
+Parece que temos de entrar aqui.
+
+155
+00:18:37,777 --> 00:18:41,023
+Aqui? Neste celeiro?
+
+156
+00:19:09,068 --> 00:19:13,192
+Já vi granjas com mais estilo.
+
+157
+00:19:17,609 --> 00:19:21,437
+O típico destas reuniões
+seria uma sala elegante,
+
+158
+00:19:28,401 --> 00:19:32,773
+com uma biblioteca cheia
+de livros de Matemática,
+
+159
+00:19:33,484 --> 00:19:37,462
+um quadro, para fazermos cálculos,
+um bom sofá, poltronas,
+
+160
+00:19:38,067 --> 00:19:40,150
+uma mesinha de chá...
+
+161
+00:19:55,191 --> 00:19:58,059
+Então, falta alguma coisa?
+
+162
+00:19:58,483 --> 00:20:01,481
+Bom, à primeira vista,
+
+163
+00:20:02,649 --> 00:20:04,732
+falta o Sr. Fermat.
+
+164
+00:21:05,357 --> 00:21:10,180
+Que horas são?
+- 21h50.
+
+165
+00:21:33,147 --> 00:21:36,498
+Alguém sabe alguma coisa
+sobre o nosso anfitrião?
+
+166
+00:21:37,147 --> 00:21:42,303
+Só sei que nada sei.
+- Não devemos saber nada.
+
+167
+00:21:44,897 --> 00:21:46,981
+Eu sei uma coisa.
+
+168
+00:21:48,773 --> 00:21:52,418
+Fiz uma pesquisa e descobri
+umas coisas sobre o Fermat.
+
+169
+00:21:52,523 --> 00:21:54,606
+Querem que eu conte?
+
+170
+00:21:54,640 --> 00:21:57,710
+É contra as regras investigá-lo.
+Prefiro não saber nada.
+
+171
+00:21:57,814 --> 00:21:59,897
+Correto...
+
+172
+00:22:00,105 --> 00:22:03,877
+...mas já que um de nós tem
+mais informação que os outros,
+
+173
+00:22:03,981 --> 00:22:08,472
+é melhor partilhá-la, para estarmos
+todos ao mesmo nível. Não?
+
+174
+00:22:08,981 --> 00:22:11,064
+Concordo.
+
+175
+00:22:12,480 --> 00:22:15,667
+Há um mês tivemos de enviar
+a solução da seqüência numérica...
+
+176
+00:22:15,771 --> 00:22:19,102
+para o apartado do Fermat,
+que era o 325.
+
+177
+00:22:19,688 --> 00:22:24,760
+Bom, procurei o nome
+do dono do endereço 325...
+
+178
+00:22:25,980 --> 00:22:27,709
+Para saber o nome verdadeiro
+do Fermat?
+
+179
+00:22:27,813 --> 00:22:30,542
+Mas os correios não podem
+te dar essa informação.
+
+180
+00:22:30,646 --> 00:22:32,730
+Na teoria.
+
+181
+00:22:33,147 --> 00:22:35,792
+Fui aos correios
+e me fiz passar por presidente...
+
+182
+00:22:35,896 --> 00:22:38,549
+da Associação da Defesa do Urso Pardo.
+
+183
+00:22:38,854 --> 00:22:43,252
+Disse-lhes que só restavam 325
+ursos pardos nos nossos montes...
+
+184
+00:22:43,356 --> 00:22:46,125
+e que a nossa associação queria
+esse endereço, simbolicamente.
+
+185
+00:22:46,229 --> 00:22:49,998
+A funcionária me disse que
+esse endereço já tinha dono.
+
+186
+00:22:50,397 --> 00:22:54,234
+Insisti na importância desse
+número para a associação...
+
+187
+00:22:54,480 --> 00:22:57,551
+e disse que os 325 ursos pardos
+agradeceriam.
+
+188
+00:22:57,609 --> 00:23:00,763
+E lhe disse o nome do dono?
+
+189
+00:23:01,688 --> 00:23:05,333
+Até estava disposto a lhe dar uma propina.
+Sim, deu-me o nome.
+
+190
+00:23:05,437 --> 00:23:09,083
+Pesquisei na Internet, e agora
+é que vem a boa notícia...
+
+191
+00:23:09,187 --> 00:23:11,909
+...não há nada sobre ele.
+
+192
+00:23:12,688 --> 00:23:14,771
+Nada!
+
+193
+00:23:20,979 --> 00:23:23,727
+E é só isso?
+
+194
+00:23:24,562 --> 00:23:28,259
+Parabéns, descobriu
+que não descobriu nada.
+
+195
+00:23:29,520 --> 00:23:34,308
+Ao menos... diga-nos
+como se chama o Fermat?
+
+196
+00:23:38,645 --> 00:23:40,125
+Sim...
+
+197
+00:23:40,229 --> 00:23:44,518
+Tinha um "F". Fran... não.
+Fer...
+
+198
+00:23:44,728 --> 00:23:47,182
+Espera, mais devagar.
+
+199
+00:23:47,354 --> 00:23:50,982
+Não podemos processar
+tanta informação de uma só vez.
+
+200
+00:23:56,978 --> 00:23:59,301
+Descobriu mais alguma coisa?
+
+201
+00:24:12,562 --> 00:24:14,645
+Boa noite.
+
+202
+00:24:17,602 --> 00:24:20,517
+Peço desculpa pelo atraso.
+Sou o Fermat.
+
+203
+00:24:24,477 --> 00:24:25,623
+A espera terá valido a pena,
+
+204
+00:24:25,727 --> 00:24:29,078
+se esse enigma for tão original
+como diz a carta.
+
+205
+00:24:29,142 --> 00:24:33,143
+O enigma a que se refere...
+- Bom, não há pressa.
+
+206
+00:24:34,769 --> 00:24:38,207
+Podemos  nos sentar, antes,
+e levar as coisas com calma.
+
+207
+00:24:38,311 --> 00:24:42,174
+Não, não. O maior enigma
+da história é exigente.
+
+208
+00:24:43,144 --> 00:24:46,082
+Como é possível que estejam
+aqui quatro pessoas...
+
+209
+00:24:46,186 --> 00:24:49,551
+e nenhuma ainda tenha tocado no jantar.
+
+210
+00:24:52,685 --> 00:24:57,151
+A última reunião deste tipo,
+em que participei, era acerca disto.
+
+211
+00:24:57,560 --> 00:24:59,456
+De laranjas?
+
+212
+00:24:59,560 --> 00:25:03,247
+Sobre o velho problema de Kepler,
+de como empilhar formas esféricas.
+
+213
+00:25:03,352 --> 00:25:05,373
+Esse problema continua
+sem solução, certo?
+
+214
+00:25:05,477 --> 00:25:07,664
+O problema são
+os matemáticos perderem tempo...
+
+215
+00:25:07,768 --> 00:25:10,330
+com disparates que
+não têm aplicabilidade prática.
+
+216
+00:25:10,435 --> 00:25:13,039
+Não é disparate ficar na História
+por resolver um problema.
+
+217
+00:25:13,143 --> 00:25:15,205
+Deveria ser o sonho
+de qualquer matemático.
+
+218
+00:25:15,309 --> 00:25:17,539
+Talvez eu não seja
+um matemático qualquer.
+
+219
+00:25:17,643 --> 00:25:20,664
+Recentemente, li um estudo
+sobre os desejos impossíveis...
+
+220
+00:25:20,768 --> 00:25:23,997
+mais comuns do ser humano.
+São voar e ser invisível.
+
+221
+00:25:24,101 --> 00:25:27,661
+Resolver enigmas matemáticos,
+não. O que parece para você?
+
+222
+00:25:28,018 --> 00:25:30,101
+Eu prefiro voar.
+
+223
+00:25:31,060 --> 00:25:33,143
+Por quê?
+
+224
+00:25:33,559 --> 00:25:38,631
+Não sei. Para voar,
+para ver lugares,
+
+225
+00:25:39,517 --> 00:25:41,601
+para me divertir.
+
+226
+00:25:42,351 --> 00:25:44,434
+Eu também gostaria de voar.
+
+227
+00:25:44,892 --> 00:25:47,247
+Mas se todos pudessem voar,
+não teria graça.
+
+228
+00:25:47,351 --> 00:25:49,413
+Bom seria sermos nós
+os únicos a conseguir voar.
+
+229
+00:25:49,517 --> 00:25:52,030
+Para mim, voar está supervalorizado.
+
+230
+00:25:52,559 --> 00:25:55,759
+Parece-me muito mais prático
+ser invisível.
+
+231
+00:25:57,226 --> 00:26:00,259
+Para que?
+- Para ver, sem ser visto!
+
+232
+00:26:02,684 --> 00:26:06,096
+Penso que ser invisível
+só serve para fazer mal.
+
+233
+00:26:08,100 --> 00:26:10,746
+O que faria uma pessoa invisível?
+
+234
+00:26:10,850 --> 00:26:13,433
+Meter-se nos vestiários das mulheres,
+
+235
+00:26:13,528 --> 00:26:16,204
+roubar gorjetas nos bares,
+ir à missa nu...
+
+236
+00:26:16,308 --> 00:26:18,391
+Nada de bom.
+
+237
+00:26:18,767 --> 00:26:22,047
+Quando fazemos algo bom,
+gostamos que nos vejam.
+
+238
+00:26:27,350 --> 00:26:31,640
+Sim... mas, se fosse invisível,
+aproveitaria para fazer bem...
+
+239
+00:26:31,809 --> 00:26:34,723
+a toda a humanidade,
+sem ser visto.
+
+240
+00:26:36,017 --> 00:26:38,801
+Assim, ninguém teria de me agradecer.
+
+241
+00:27:01,225 --> 00:27:04,672
+Vejamos se ele diz, de uma vez,
+qual é o enigma!
+
+242
+00:27:08,974 --> 00:27:12,257
+Bom, suponho que possamos começar já...
+
+243
+00:27:12,433 --> 00:27:14,329
+a resolver o maior enigma de história.
+
+244
+00:27:14,433 --> 00:27:18,260
+Não sei. Pode ser. Desculpe.
+- Claro.
+
+245
+00:27:20,140 --> 00:27:22,224
+Sim?
+
+246
+00:27:25,182 --> 00:27:27,265
+Sim, diga?
+
+247
+00:27:27,766 --> 00:27:31,883
+Quando investigou o Fermat
+e descobriou tanta informação,
+
+248
+00:27:32,307 --> 00:27:35,517
+não se lembra de ter visto
+se era um assassino?
+
+249
+00:27:41,932 --> 00:27:44,764
+Por que havia de ser?
+- Ora essa...
+
+250
+00:27:44,932 --> 00:27:47,794
+Porque, das cinco pessoas,
+que estão aqui,
+
+251
+00:27:47,895 --> 00:27:50,177
+é o único que tem um celular.
+
+252
+00:27:52,598 --> 00:27:55,964
+Percebou? Celular...
+- Não tem piada...
+
+253
+00:27:58,598 --> 00:28:02,227
+Parece que vou ter de sair.
+- Aconteceu algo?
+
+254
+00:28:02,764 --> 00:28:04,494
+Acho que me chamaram
+ao hospital central,
+
+255
+00:28:04,598 --> 00:28:07,948
+mas não se ouvia bem.
+Além disso, a chamada caiu.
+
+256
+00:28:09,265 --> 00:28:11,348
+O que se passa, no hospital?
+
+257
+00:28:13,848 --> 00:28:17,047
+Tenho a minha filha lá...
+Está em coma.
+
+258
+00:28:21,222 --> 00:28:24,014
+Se está em coma,
+podem ser boas notícias.
+
+259
+00:28:25,556 --> 00:28:27,760
+Sim, mas também podem ser más.
+
+260
+00:28:28,181 --> 00:28:30,716
+Se for só por faltar algum dado,
+
+261
+00:28:30,889 --> 00:28:34,449
+dentro de uma hora estarei
+de volta, aqui, com vocês.
+
+262
+00:28:37,681 --> 00:28:40,612
+Mas penso que o melhor
+é começarem sem mim.
+
+263
+00:28:52,472 --> 00:28:56,589
+Sei no que está pensando...
+que tudo isto é muito estranho.
+
+264
+00:28:59,430 --> 00:29:01,593
+O Fermat esqueceu o casaco.
+
+265
+00:29:05,305 --> 00:29:07,388
+"Fermat?"
+
+266
+00:29:13,430 --> 00:29:15,551
+Fermat? O casaco!
+
+267
+00:29:15,846 --> 00:29:18,465
+Fermat? Fermat?
+O casaco!
+
+268
+00:29:53,929 --> 00:29:56,631
+Bom... então...
+
+269
+00:29:57,262 --> 00:30:00,759
+...o que faremos,
+agora que estamos sós?
+
+270
+00:30:06,762 --> 00:30:08,845
+Onde está o Pascal?
+
+271
+00:30:15,429 --> 00:30:17,512
+É o casaco do Fermat?!
+
+272
+00:30:17,970 --> 00:30:19,782
+Claro!
+
+273
+00:30:19,887 --> 00:30:22,589
+Deixe-me ver! Román...
+
+274
+00:30:24,429 --> 00:30:26,963
+Román... Román...
+
+275
+00:30:28,720 --> 00:30:32,714
+O Fermat se chama Román.
+Román Naranjo López.
+
+276
+00:30:35,387 --> 00:30:38,053
+Román Naranjo López?
+Não conheço.
+
+277
+00:30:38,219 --> 00:30:40,303
+Eu não conheço nenhum Román.
+
+278
+00:30:41,303 --> 00:30:44,723
+O endereço que investiguei
+não estava neste nome.
+
+279
+00:30:45,136 --> 00:30:48,253
+Estava no nome de um Fermín
+
+280
+00:30:49,344 --> 00:30:51,549
+De la Vega ou De la Cuadra...
+
+281
+00:30:51,761 --> 00:30:54,084
+... ou De las Vegas...
+
+282
+00:30:55,386 --> 00:30:57,469
+... ou De las Cuevas.
+
+283
+00:30:57,886 --> 00:31:00,126
+Talvez não fosse Fermín.
+
+284
+00:31:19,802 --> 00:31:23,547
+Têm um minuto para resolver
+o seguinte enigma:
+
+285
+00:31:24,802 --> 00:31:27,634
+um pasteleiro recebe
+três caixas opacas.
+
+286
+00:31:28,094 --> 00:31:32,715
+Uma contém balas de
+menta, outra balas de anis...
+
+287
+00:31:32,885 --> 00:31:36,445
+e outra um sortido de balas
+de menta e de anis.
+
+288
+00:31:36,635 --> 00:31:41,790
+As caixas têm etiquetas
+que as identificam,
+
+289
+00:31:42,261 --> 00:31:45,448
+mas o pasteleiro foi avisado
+de que todas as caixas...
+
+290
+00:31:45,552 --> 00:31:47,635
+têm as etiquetas trocadas.
+
+291
+00:31:48,010 --> 00:31:50,947
+Quantos balas terá
+o pasteleiro de tirar,
+
+292
+00:31:51,051 --> 00:31:54,962
+no mínimo, para verificar
+o conteúdo das caixas?"
+
+293
+00:31:56,218 --> 00:31:59,631
+O maior enigma da história
+é este disparate.
+
+294
+00:31:59,802 --> 00:32:02,864
+É um problema estimulante.
+- Ouçam, por um instante...
+
+295
+00:32:02,968 --> 00:32:05,739
+Se não o resolvermos num minuto,
+o que acontece?
+
+296
+00:32:05,843 --> 00:32:07,927
+Leia novamente, Oliva.
+
+297
+00:32:08,468 --> 00:32:10,447
+São três caixas:
+uma com balas de menta,
+
+298
+00:32:10,551 --> 00:32:12,739
+outra com balas de anis
+e outra com um sortido...
+
+299
+00:32:12,843 --> 00:32:15,697
+de balas de menta e anis.
+As etiquetas estão trocadas.
+
+300
+00:32:15,802 --> 00:32:20,375
+Como colocar a etiqueta,
+tirando o mínimo de balas?
+
+301
+00:32:20,551 --> 00:32:22,906
+É simples, basta tirar
+uma de cada caixa.
+
+302
+00:32:23,010 --> 00:32:25,947
+Não. Assim, teria uma de menta,
+outro de anis...
+
+303
+00:32:26,051 --> 00:32:28,488
+e outro que podia ser de menta
+ou de anis.
+
+304
+00:32:28,592 --> 00:32:30,965
+Como sabe qual é a caixa sortida?
+
+305
+00:32:36,967 --> 00:32:39,050
+A parede está se movendo.
+
+306
+00:32:39,384 --> 00:32:40,655
+Vamos lá ver.
+
+307
+00:32:40,759 --> 00:32:44,363
+Para saber se a caixa é sortida,
+tínhamos de tirar mais de um.
+
+308
+00:32:44,467 --> 00:32:47,196
+Imagina que tiravas três
+e eram os três de anis.
+
+309
+00:32:47,301 --> 00:32:49,405
+Podia ter certeza de que era
+a caixa de balas de anis?
+
+310
+00:32:49,509 --> 00:32:51,322
+Claro... é um problema
+de probabilidades.
+
+311
+00:32:51,426 --> 00:32:54,708
+Basta tirar uma bala.
+É um problema básico!
+
+312
+00:32:55,592 --> 00:32:58,874
+O segredo está no enunciado.
+"Todas as caixas",
+
+313
+00:32:59,050 --> 00:33:01,424
+todas, "têm as etiquetas trocadas".
+
+314
+00:33:01,477 --> 00:33:05,668
+Se estão todas trocadas, basta tirar
+um bala da caixa sortida,
+
+315
+00:33:05,884 --> 00:33:07,946
+porque o sortido não pode estar nessa.
+
+316
+00:33:08,050 --> 00:33:10,445
+Se o bala for de menta,
+é a caixa das balas de menta.
+
+317
+00:33:10,550 --> 00:33:13,830
+Então, onde está o sortido?
+Aqui não pode estar,
+
+318
+00:33:13,967 --> 00:33:15,696
+porque, se assim fosse,
+aqui estariam as balas de anis...
+
+319
+00:33:15,800 --> 00:33:18,029
+e esta caixa teria
+a etiqueta correta. Mas,
+
+320
+00:33:18,133 --> 00:33:22,755
+como todas têm as etiquetas trocadas,
+o sortido está aqui...
+
+321
+00:33:23,175 --> 00:33:27,039
+e as balas de anis aqui.
+Solução: uma bala.
+
+322
+00:33:28,716 --> 00:33:32,206
+Certo, vou enviar a resposta,
+a ver o que acontece.
+
+323
+00:33:38,425 --> 00:33:40,154
+Está certo.
+
+324
+00:33:40,258 --> 00:33:44,714
+Já podem me ouvir?
+A sala está encolhendo.
+
+325
+00:33:55,549 --> 00:33:57,633
+Não abre?
+
+326
+00:34:03,757 --> 00:34:05,841
+Outro enigma.
+
+327
+00:34:06,257 --> 00:34:09,111
+Têm um minuto para
+decifrar o seguinte código:
+
+328
+00:34:09,215 --> 00:34:11,455
+1, 1...
+- Qual é o código?
+
+329
+00:34:11,799 --> 00:34:13,986
+É uma lista enorme de uns e zeros.
+
+330
+00:34:14,090 --> 00:34:16,533
+E, se demorarmos mais de um minuto,
+
+331
+00:34:16,841 --> 00:34:18,924
+a sala volta a encolher.
+
+332
+00:34:19,382 --> 00:34:23,375
+Só pode ser um jogo...
+uma partida do nosso anfitrião.
+
+333
+00:34:23,716 --> 00:34:27,460
+Deixe-me ver... 1, 1, 0, 1...
+Quantos números são?
+
+334
+00:34:28,049 --> 00:34:30,418
+Estou contando... 167, 168...
+
+335
+00:34:30,590 --> 00:34:32,673
+são 169.
+
+336
+00:34:34,215 --> 00:34:36,298
+Sabem o que é o 169, não?
+
+337
+00:34:36,423 --> 00:34:39,788
+Tive uma idéia! Preciso
+de peças de alguma coisa!
+
+338
+00:34:53,257 --> 00:34:56,373
+Olha, há mais de dois meses,
+
+339
+00:34:56,548 --> 00:35:00,755
+o Sr. Román Naranjo comprou
+quatro prensas hidráulicas.
+
+340
+00:35:05,256 --> 00:35:07,527
+É normal o anfitrião
+se dar a tanto trabalho,
+
+341
+00:35:07,631 --> 00:35:09,402
+para pregar uma peça
+nos seus convidados?
+
+342
+00:35:09,506 --> 00:35:10,610
+Não sei.
+
+343
+00:35:10,714 --> 00:35:13,318
+Como disse que tinha estado
+em muitas reuniões como esta...
+
+344
+00:35:13,423 --> 00:35:16,074
+Em muitas, muitas, não.
+Estive em duas.
+
+345
+00:35:17,047 --> 00:35:19,131
+Em duas... com esta.
+
+346
+00:35:19,297 --> 00:35:21,777
+O Fermat, Román Naranjo,
+ou sei lá como se chama,
+
+347
+00:35:21,881 --> 00:35:24,120
+não nos quer pregar uma peça.
+
+348
+00:35:25,380 --> 00:35:27,464
+Quer cometer um crime.
+
+349
+00:35:28,714 --> 00:35:31,609
+Comprou quatro prensas
+hidráulicas do tipo Poseidón,
+
+350
+00:35:31,714 --> 00:35:33,797
+uma para cada parede.
+
+351
+00:35:33,922 --> 00:35:36,923
+E suponho que tenha ligado
+o sistema ao PDA.
+
+352
+00:35:37,422 --> 00:35:39,708
+Cada enigma tem um tempo limite.
+
+353
+00:35:40,796 --> 00:35:44,837
+Se o ultrapassarmos,
+as prensas começam a trabalhar.
+
+354
+00:36:02,214 --> 00:36:04,234
+Falta muito?
+- Não! Estou quase!
+
+355
+00:36:04,338 --> 00:36:06,734
+Esta sala tem cerca
+de 50 metros quadrados...
+
+356
+00:36:06,838 --> 00:36:10,607
+e as paredes avançam nove
+a dez centímetros por minuto.
+
+357
+00:36:11,713 --> 00:36:13,401
+Quer dizer que...
+- Em menos de uma hora,
+
+358
+00:36:13,505 --> 00:36:15,567
+a sala terá a área de um elevador.
+
+359
+00:36:15,671 --> 00:36:18,253
+De um elevador com demasiados móveis!
+
+360
+00:36:25,421 --> 00:36:27,864
+Vamos resolver isto de outra forma.
+
+361
+00:36:28,546 --> 00:36:30,630
+Ajudem-me!
+
+362
+00:36:34,004 --> 00:36:36,936
+O que quer fazer?
+- Estão perdendo tempo!
+
+363
+00:36:37,022 --> 00:36:40,168
+Sabem para que servem
+prensas como estas?
+
+364
+00:36:40,337 --> 00:36:42,067
+Diga-nos.
+
+365
+00:36:42,171 --> 00:36:44,457
+Alguma vez viram as prensas...
+
+366
+00:36:44,629 --> 00:36:47,420
+que transformam carros
+em cubos de chapa?
+
+367
+00:36:48,004 --> 00:36:50,316
+Quando essas prensas já não servem,
+
+368
+00:36:50,420 --> 00:36:53,840
+transformam-nas num cubo,
+com uma prensa daquelas,
+
+369
+00:36:54,670 --> 00:36:56,994
+daquelas, daquelas...
+
+370
+00:36:58,837 --> 00:37:00,920
+e daquelas.
+
+371
+00:37:01,337 --> 00:37:03,420
+Empurrem!
+
+372
+00:37:04,171 --> 00:37:06,254
+Vamos lá!
+
+373
+00:37:08,753 --> 00:37:10,837
+Isso! Pronto!
+
+374
+00:37:26,128 --> 00:37:28,211
+Já está!
+
+375
+00:38:28,627 --> 00:38:32,668
+Raios! Que porcaria de reunião é esta?!
+
+376
+00:38:33,460 --> 00:38:35,231
+O que quer este tipo?!
+
+377
+00:38:35,335 --> 00:38:38,701
+Sente-se e tente encontrar
+a solução do enigma!
+
+378
+00:38:43,418 --> 00:38:46,768
+Temos que resolver os enigmas
+dentro do tempo.
+
+379
+00:38:46,854 --> 00:38:48,731
+Exato.
+
+380
+00:38:48,835 --> 00:38:52,324
+Mas somos humanos e
+começaremos a nos cansar.
+
+381
+00:38:52,793 --> 00:38:54,877
+As máquinas não.
+
+382
+00:38:57,501 --> 00:39:00,432
+Por que acha que o Fermat
+quer nos esmagar?
+
+383
+00:39:00,584 --> 00:39:02,818
+Vocês? Não!
+Vocês são um extra.
+
+384
+00:39:05,293 --> 00:39:07,376
+Ele quer me matar.
+
+385
+00:39:31,000 --> 00:39:33,084
+Tem a ver com a filha dele.
+
+386
+00:39:33,917 --> 00:39:36,813
+Há meses, consegui algo
+importante para um inventor:
+
+387
+00:39:36,917 --> 00:39:39,290
+vender uma patente a uma empresa.
+
+388
+00:39:40,459 --> 00:39:44,120
+Era um boneco que fazia pipocas...
+
+389
+00:39:44,709 --> 00:39:46,792
+você já o viu.
+
+390
+00:39:47,834 --> 00:39:49,646
+Organizou-se uma pequena
+festa em minha homenagem.
+
+391
+00:39:49,750 --> 00:39:52,896
+O presidente deveria ir, mas telefonou
+dizendo que iria se atrasar...
+
+392
+00:39:53,000 --> 00:39:56,419
+porque chovia muito e
+não conseguia arranjar um táxi.
+
+393
+00:39:58,083 --> 00:40:00,536
+Ofereci-me para ir buscá-lo.
+
+394
+00:40:00,834 --> 00:40:04,183
+Meti-me no carro, arranquei
+e fui até a sua casa.
+
+395
+00:40:04,666 --> 00:40:07,737
+Ficava a 1 km, não mais que isso.
+
+396
+00:40:07,838 --> 00:40:12,041
+De repente, reparei num cheiro
+estranho, no carro.
+
+397
+00:40:13,624 --> 00:40:15,708
+Eram fezes de cão.
+
+398
+00:40:19,166 --> 00:40:22,895
+Que pensaria de mim, o presidente,
+se entrasse naquela câmara de gás?
+
+399
+00:40:22,999 --> 00:40:26,977
+Não pensou em abrir as janelas?
+- Não dava. Chovia muito.
+
+400
+00:40:28,250 --> 00:40:30,343
+Mas me lembrei de algo melhor.
+
+401
+00:40:31,208 --> 00:40:33,929
+Tirar o sapato e metê-lo no porta-luvas.
+
+402
+00:40:34,416 --> 00:40:38,327
+Tirei o sapato, meti-o no porta-luvas...
+
+403
+00:40:39,624 --> 00:40:42,346
+e, quando olhei para frente,
+
+404
+00:40:42,707 --> 00:40:44,871
+vi uma moça.
+
+405
+00:40:45,207 --> 00:40:48,687
+Estava atravessando, sem olhar,
+sem semáforos, sem passarela...
+
+406
+00:40:48,791 --> 00:40:50,874
+no meio da estrada.
+
+407
+00:40:51,373 --> 00:40:56,119
+Não estava muito depressa. Se tivesse
+freiado, não teria acontecido nada,
+
+408
+00:40:57,624 --> 00:40:59,707
+mas não o fiz...
+
+409
+00:41:02,207 --> 00:41:04,290
+...porque, nesse instante,
+
+410
+00:41:05,373 --> 00:41:07,697
+imaginei o meu pé, descalço,
+
+411
+00:41:08,707 --> 00:41:11,954
+pisando no pedal do freio,
+cheio de merda.
+
+412
+00:41:14,248 --> 00:41:16,332
+Ainda assim, freiei,
+
+413
+00:41:17,124 --> 00:41:21,311
+mas esse instante de dúvida
+bastou para atrasar a freada...
+
+414
+00:41:23,831 --> 00:41:25,914
+e atropelar a moça.
+
+415
+00:41:27,581 --> 00:41:30,931
+Chamei imediatamente uma ambulância,
+esperei que chegasse,
+
+416
+00:41:32,332 --> 00:41:34,452
+mas, assim que chegou, fugi.
+
+417
+00:41:39,914 --> 00:41:43,576
+Pense que quem atravessou
+no lugar errado foi ela.
+
+418
+00:41:46,664 --> 00:41:48,951
+Só não deveria ter fugido.
+
+419
+00:41:49,581 --> 00:41:52,268
+Apresentei-me à policia,
+no dia seguinte.
+
+420
+00:41:52,373 --> 00:41:56,280
+Quando passou o efeito
+da bebedeira da noite anterior?
+
+421
+00:42:01,081 --> 00:42:05,198
+Tentei pedir desculpa à família,
+mas nem me deixaram vê-los.
+
+422
+00:42:05,873 --> 00:42:10,613
+E, quando vi esta fotografia,
+na carteira do Román,
+
+423
+00:42:13,039 --> 00:42:14,893
+percebi tudo.
+
+424
+00:42:14,997 --> 00:42:17,810
+E teve a coragem de  nos dizer
+que iria ao hospital ver a filha!
+
+425
+00:42:17,914 --> 00:42:22,351
+Já está! 169 tinha de ser 13 por 13,
+as coordenadas de um quadrado.
+
+426
+00:42:22,455 --> 00:42:25,185
+Os uns e os zeros formam
+o desenho de uma cara, vê?
+
+427
+00:42:25,289 --> 00:42:27,528
+Zero, um, um, zero, zero, zero.
+
+428
+00:42:27,914 --> 00:42:30,915
+Portanto, a solução do problema
+é uma cara.
+
+429
+00:42:41,663 --> 00:42:45,160
+Não parou.
+- Porque não é uma cara...
+
+430
+00:42:49,913 --> 00:42:51,996
+...é uma caveira.
+
+431
+00:42:56,038 --> 00:42:58,121
+Vou escrever.
+
+432
+00:43:20,329 --> 00:43:23,058
+O Fermat quer te matar.
+Até aí, compreendo.
+
+433
+00:43:23,162 --> 00:43:24,683
+Mas o que nós temos a ver com isso?
+
+434
+00:43:24,788 --> 00:43:28,556
+Temos que morrer por ter
+atropelado uma moça qualquer?
+
+435
+00:43:29,537 --> 00:43:33,306
+Vocês são danos colaterais.
+Sou eu que ele quer matar.
+
+436
+00:43:34,579 --> 00:43:37,115
+Vocês são parte desta armadilha.
+
+437
+00:43:39,037 --> 00:43:40,641
+Outro enigma.
+
+438
+00:43:40,745 --> 00:43:42,828
+Atenção, temos um minuto.
+
+439
+00:43:45,246 --> 00:43:48,693
+Pára de beber. Precisamos
+de neurônios despertos.
+
+440
+00:43:50,620 --> 00:43:53,453
+Toma.
+Vamos lá ver.
+
+441
+00:43:53,745 --> 00:43:57,025
+No interior de uma sala
+hermeticamente fechada,
+
+442
+00:43:57,161 --> 00:44:01,535
+há uma lâmpada e fora da sala
+há três interruptores.
+
+443
+00:44:02,454 --> 00:44:04,610
+Apenas um acende a lâmpada.
+
+444
+00:44:04,995 --> 00:44:07,016
+Enquanto a porta estiver fechada,
+
+445
+00:44:07,120 --> 00:44:10,307
+pode carregar no interruptor
+quantas vezes quiser.
+
+446
+00:44:10,412 --> 00:44:12,724
+Mas, ao abrir a porta,
+terá que dizer...
+
+447
+00:44:12,828 --> 00:44:15,969
+qual dos três interruptores
+acende a lâmpada.
+
+448
+00:44:18,995 --> 00:44:22,275
+Imaginemos que carregamos
+em dois interruptores:
+
+449
+00:44:22,411 --> 00:44:24,057
+no 1 e no 2.
+
+450
+00:44:24,161 --> 00:44:27,194
+Ao abrirmos a porta,
+a lâmpada está apagada.
+
+451
+00:44:27,577 --> 00:44:30,640
+Isso significa que o interruptor
+que funciona é o 3.
+
+452
+00:44:30,745 --> 00:44:33,015
+Por isso é que marcou
+o encontro junto à lagoa!
+
+453
+00:44:33,119 --> 00:44:35,203
+...ficamos sem saber qual é.
+
+454
+00:44:35,237 --> 00:44:39,057
+Agora está afundando nossos
+carros, para não deixar rasto.
+
+455
+00:44:39,161 --> 00:44:41,244
+Vamos nos concentrar.
+
+456
+00:44:44,369 --> 00:44:46,681
+Mas há uma coisa que não bate certo.
+
+457
+00:44:46,785 --> 00:44:49,390
+E se eu não tivesse solucionado
+o enigma do convite?
+
+458
+00:44:49,494 --> 00:44:53,751
+Resolvi-o com uma perna às costas.
+- Ninguém te deu uma pista?
+
+459
+00:44:55,577 --> 00:44:57,660
+Não.
+
+460
+00:44:58,077 --> 00:45:01,738
+Deixa os livros que usar
+por ordem alfabética.
+
+461
+00:45:03,286 --> 00:45:05,369
+... que ordem...
+
+462
+00:45:06,160 --> 00:45:09,988
+Vamos nos concentrar nos
+interruptores e na lâmpada.
+
+463
+00:45:11,660 --> 00:45:15,778
+Por que Fermat se dá
+a tanto trabalho para se vingar?
+
+464
+00:45:15,855 --> 00:45:18,856
+Bastava te dar um tiro e pronto!
+- Já chega!
+
+465
+00:45:28,243 --> 00:45:31,389
+Não sei o que o Fermat quer
+de nós, mas deve pensar...
+
+466
+00:45:31,493 --> 00:45:34,139
+que a forma mais simples
+de consegui-lo é através desta sala.
+
+467
+00:45:34,243 --> 00:45:36,889
+Tenho uma teoria sobre
+as intenções do nosso anfitrião,
+
+468
+00:45:36,993 --> 00:45:39,505
+mas antes vamos resolver o problema!
+
+469
+00:45:44,576 --> 00:45:46,815
+Agora, vamos ficar às escuras!
+
+470
+00:46:07,992 --> 00:46:10,694
+O que aconteceu?
+- Nada. Queimei-me.
+
+471
+00:46:11,492 --> 00:46:13,576
+Queimou-se...
+
+472
+00:46:16,284 --> 00:46:18,472
+O segredo está
+na temperatura das lâmpadas!
+
+473
+00:46:18,576 --> 00:46:21,680
+Acendemos um interruptor, o 1.
+Deixamos aceso um pouco.
+
+474
+00:46:21,784 --> 00:46:24,865
+Apagamos, acendemos o 2
+e abrimos a porta.
+
+475
+00:46:25,034 --> 00:46:27,846
+Se estiver acesa,
+o interruptor que funciona é o 2.
+
+476
+00:46:27,950 --> 00:46:32,441
+Se estiver apagada e quente
+é o 1, que ficou ligado um pouco.
+
+477
+00:46:32,617 --> 00:46:36,735
+Se estiver apagada e fria,
+o interruptor que funciona é o 3.
+
+478
+00:46:37,408 --> 00:46:40,821
+Enigma resolvido.
+- É essa a solução.
+
+479
+00:46:41,575 --> 00:46:43,658
+Rápido, rápido!
+
+480
+00:46:51,699 --> 00:46:53,783
+Correto!
+
+481
+00:47:04,783 --> 00:47:09,487
+Oliva, qual era a sua teoria
+sobre o que se passa aqui?
+
+482
+00:47:11,949 --> 00:47:14,392
+Para mim, o segredo está no casaco.
+
+483
+00:47:15,283 --> 00:47:18,678
+Será que o Fermat o esqueceu
+ou o deixou de propósito?
+
+484
+00:47:18,782 --> 00:47:22,482
+Deixou de propósito,
+para que o Pascal visse a foto.
+
+485
+00:47:23,449 --> 00:47:27,803
+Sem o casaco, o Pascal não saberia
+por que razão o Fermat quer matá-lo.
+
+486
+00:47:27,907 --> 00:47:29,178
+O atropelamento.
+
+487
+00:47:29,282 --> 00:47:32,613
+Mas nós três não sabemos
+por que quer nos matar.
+
+488
+00:47:35,115 --> 00:47:38,536
+Não sei o que terá sido,
+mas fizemos alguma coisa.
+
+489
+00:48:03,615 --> 00:48:06,755
+Bem, hoje está calor, não?
+- O Audi, quanto é?
+
+490
+00:48:07,698 --> 00:48:11,230
+O Audi grená?
+- Exato.
+
+491
+00:48:12,365 --> 00:48:16,311
+Pois, só está ali um... o grená.
+- Senhor, tenho pressa.
+
+492
+00:48:28,531 --> 00:48:32,856
+45 euros, por favor.
+45, a idade de Cristo.
+
+493
+00:48:34,531 --> 00:48:36,771
+Merda, esqueci a carteira!
+
+494
+00:48:38,156 --> 00:48:40,529
+Pois, mas não sai daqui sem pagar.
+
+495
+00:49:16,530 --> 00:49:18,260
+Mas...
+
+496
+00:49:18,364 --> 00:49:21,942
+Mas já conhecia o Fermat?
+- Não. Esta sou eu.
+
+497
+00:49:23,114 --> 00:49:26,603
+Sem pseudônimos!
+Não sei o que fiz para estar aqui!
+
+498
+00:49:28,113 --> 00:49:29,925
+Eu atropelei a filha dele, já disse.
+
+499
+00:49:30,030 --> 00:49:33,468
+E eu sou matemático, porque
+é a única coisa que sei fazer.
+
+500
+00:49:33,572 --> 00:49:36,967
+Além disso, devolvo as cassetes
+ao clube de vídeo sem rebobinar,
+
+501
+00:49:37,071 --> 00:49:41,258
+minto nos inquéritos eleitorais,
+comungo sem estar em jejum,
+
+502
+00:49:41,988 --> 00:49:44,640
+pego na fruta sem luva de plástico...
+
+503
+00:49:45,238 --> 00:49:48,189
+Poderá alguém me odiar
+por coisas assim?
+
+504
+00:49:48,988 --> 00:49:50,717
+Eu não tenho inimigos.
+
+505
+00:49:50,821 --> 00:49:54,380
+Não faço mal a ninguém
+e assim ninguém me faz mal.
+
+506
+00:49:55,154 --> 00:49:57,237
+Tem certeza?
+
+507
+00:50:02,446 --> 00:50:05,300
+Passei cinco anos trabalhando
+na Conjectura de Goldbach.
+
+508
+00:50:05,404 --> 00:50:08,405
+Quando faltavam 20 dias
+para apresentá-la,
+
+509
+00:50:08,821 --> 00:50:11,612
+entraram no meu quarto
+e destruíram tudo.
+
+510
+00:50:18,946 --> 00:50:22,607
+Tem 26 anos?
+- E então?
+
+511
+00:50:24,487 --> 00:50:27,558
+Foi com essa idade
+que morreu a Oliva Sabuco.
+
+512
+00:50:27,820 --> 00:50:29,903
+Você, que idade tem?
+
+513
+00:50:30,820 --> 00:50:31,924
+22.
+
+514
+00:50:32,028 --> 00:50:33,758
+A idade com que Evariste Galois morreu.
+
+515
+00:50:33,862 --> 00:50:37,310
+O Blas Pascal morreu
+com 39 anos, a minha idade.
+
+516
+00:50:37,903 --> 00:50:41,814
+E com qual idade morreu o David Hilbert?
+
+517
+00:50:52,778 --> 00:50:55,231
+O Pierre Fermat morreu com 64 anos.
+
+518
+00:51:05,319 --> 00:51:07,855
+O Román Naranjo tem 64 anos!
+
+519
+00:51:10,403 --> 00:51:13,548
+Já estou farto deste tipo!
+Com certeza está por perto!
+
+520
+00:51:13,652 --> 00:51:16,653
+Deve estar nos observando
+de um esconderijo!
+
+521
+00:51:23,278 --> 00:51:25,812
+Román! O que quer?!
+
+522
+00:51:38,194 --> 00:51:41,061
+Agora vamos ter sete anos de azar.
+
+523
+00:51:42,110 --> 00:51:44,315
+Não querem ouvir o novo enigma?
+
+524
+00:51:44,694 --> 00:51:47,131
+Como se pode cronometrar
+um tempo de nove minutos,
+
+525
+00:51:47,236 --> 00:51:51,312
+utilizando duas ampulhetas,
+uma de quatro e outra de sete?
+
+526
+00:51:51,486 --> 00:51:53,798
+Dão-nos dois minutos para resolvê-lo.
+
+527
+00:51:53,902 --> 00:51:56,188
+Toma. Já dá uma ajuda.
+
+528
+00:51:58,193 --> 00:52:01,357
+Pascal, acha que as prensas pararão,
+
+529
+00:52:02,735 --> 00:52:06,101
+quando as estantes estiverem juntas?
+
+530
+00:52:07,484 --> 00:52:12,687
+Só uma coisa pode parar uma
+prensa Poseidón: duas prensas.
+
+531
+00:52:15,193 --> 00:52:19,767
+Temos quatro. Não podemos
+virá-las umas contra as outras?
+
+532
+00:52:22,151 --> 00:52:24,722
+Bom, isto é uma planta da sala.
+
+533
+00:52:27,443 --> 00:52:30,643
+Aqui está a porta, aqui o quadro,
+
+534
+00:52:31,193 --> 00:52:33,276
+isto é a mesa...
+
+535
+00:52:33,859 --> 00:52:37,391
+e aqui, aqui e aqui
+estão as estantes...
+
+536
+00:52:41,193 --> 00:52:43,276
+Mais cedo ou mais tarde,
+
+537
+00:52:45,067 --> 00:52:47,816
+há que dizer a eles aquilo.
+
+538
+00:52:48,942 --> 00:52:53,185
+Quanto medem as estantes?
+- Uns dois metros de altura.
+
+539
+00:52:53,859 --> 00:52:57,983
+E de largura?
+- Juntas, uns quatro metros.
+
+540
+00:52:58,484 --> 00:53:02,180
+Então, se fizermos assim...
+
+541
+00:53:02,359 --> 00:53:05,838
+Já sei o que quer fazer.
+- Acha que vai funcionar?
+
+542
+00:53:05,942 --> 00:53:08,478
+Só há uma forma de saber.
+- Pois.
+
+543
+00:53:13,775 --> 00:53:18,646
+A forma de saber é fazendo.
+- Pois... sim!
+
+544
+00:53:30,608 --> 00:53:32,764
+Já está! Envio a solução?
+
+545
+00:53:33,817 --> 00:53:36,254
+Espera, quanto tempo temos?
+- 20 segundos.
+
+546
+00:53:36,358 --> 00:53:38,879
+Confira o resultado.
+Vamos esgotar o tempo.
+
+547
+00:53:38,983 --> 00:53:40,337
+Está certo.
+
+548
+00:53:40,441 --> 00:53:43,522
+Pomos as duas ampulhetas
+ao mesmo tempo.
+
+549
+00:53:43,691 --> 00:53:46,901
+Quando a de 4 termina,
+terão se passado 4 minutos.
+
+550
+00:53:46,995 --> 00:53:51,226
+Voltamos a virá-la. 3 minutos
+depois, acaba a areia da de 7.
+
+551
+00:53:52,275 --> 00:53:55,629
+Voltamos a virá-la.
+Quando terminar a areia da de 4,
+
+552
+00:53:55,733 --> 00:53:59,170
+terão passado 8 minutos, mas a de 7
+terá cronometrado 1 minuto,
+
+553
+00:53:59,275 --> 00:54:02,962
+Voltamos a virá-la e teremos os
+9 minutos que nos pediram.
+
+554
+00:54:03,066 --> 00:54:05,933
+Ouviram bem?
+- Sim, sim! É assim mesmo!
+
+555
+00:54:06,274 --> 00:54:08,976
+Falta um segundo. Vou enviar!
+
+556
+00:54:35,482 --> 00:54:37,925
+Outro enigma.
+Vou lê-lo em voz alta.
+
+557
+00:54:39,315 --> 00:54:42,419
+Um aluno pergunta ao professor:
+Que idade têm as suas três filhas?
+
+558
+00:54:42,523 --> 00:54:45,835
+O professor responde: se
+multiplicares as idades, dá 36,
+
+559
+00:54:45,940 --> 00:54:47,877
+se as somares,
+dá o número da tua porta.
+
+560
+00:54:47,982 --> 00:54:49,586
+Falta-me um dado,
+protesta o aluno.
+
+561
+00:54:49,690 --> 00:54:53,253
+Ao que o professor responde:
+Sim. A mais velha toca plano.
+
+562
+00:54:53,357 --> 00:54:57,185
+Que idade têm as três filhas?
+Isto é surreal!
+
+563
+00:54:57,898 --> 00:55:00,377
+A mais velha tem 9 anos
+e tem duas gêmeas de 2,
+
+564
+00:55:00,482 --> 00:55:02,575
+mas não envie o resultado ainda.
+
+565
+00:55:02,643 --> 00:55:04,794
+Como sabe?
+- É um enigma clássico.
+
+566
+00:55:04,898 --> 00:55:07,620
+Agora, não temos tempo
+para explicações!
+
+567
+00:56:11,688 --> 00:56:14,251
+Acha que agüenta?
+- A pressão é imprevisível.
+
+568
+00:56:14,355 --> 00:56:16,418
+Tanto converte o carvão em pó
+como em diamante.
+
+569
+00:56:16,522 --> 00:56:19,768
+Isso é de Arquimedes?
+- Não. Do MacGyver.
+
+570
+00:57:23,186 --> 00:57:25,271
+Rápido! Rápido! Venham!
+
+571
+00:57:55,770 --> 00:57:58,601
+Envia a solução!
+- Não tenho o PDA!
+
+572
+00:57:59,602 --> 00:58:02,008
+O que?!
+- Quem tem o PDA?
+
+573
+00:58:03,727 --> 00:58:07,217
+Estava em cima da mesa!
+- Então, está caído por aí!
+
+574
+00:58:22,894 --> 00:58:26,057
+O que é isso?
+- É o convite do Fermat!
+
+575
+00:58:26,685 --> 00:58:29,123
+O que?
+- É o convite que o Fermat trazia!
+
+576
+00:58:29,228 --> 00:58:32,158
+Por que é que o anfitrião
+trazia um convite?
+
+577
+00:58:33,394 --> 00:58:36,060
+Está endossado ao Román Naranjo López!
+
+578
+00:58:41,310 --> 00:58:43,665
+Só o senhor e mais quatro
+pessoas foram convidados,
+
+579
+00:58:43,769 --> 00:58:47,081
+para a reunião que organizei,
+a decorrer no dia 25 de Julho...
+
+580
+00:58:47,185 --> 00:58:49,804
+...às 22h00.
+
+581
+00:58:53,018 --> 00:58:58,008
+Dizem para comparecer aqui?
+- Lembre-se de levar celular.
+
+582
+00:58:58,226 --> 00:59:01,888
+O seu pseudônimo,
+durante a reunião, será Fermat.
+
+583
+00:59:04,143 --> 00:59:06,226
+O que é isto?
+
+584
+00:59:07,101 --> 00:59:10,289
+Devíamos procurar o PDA,
+enquanto ainda temos espaço.
+
+585
+00:59:10,393 --> 00:59:12,081
+Não estão percebendo?
+
+586
+00:59:12,185 --> 00:59:16,225
+Disseram ao Román que viesse
+dez minutos depois de nós...
+
+587
+00:59:16,393 --> 00:59:18,765
+e que se apresentasse como Fermat.
+
+588
+00:59:18,818 --> 00:59:22,713
+Quando o Román chegou,
+pensamos que fosse o anfitrião.
+
+589
+00:59:23,434 --> 00:59:27,081
+Mas, se não era o anfitrião,
+por que se sentou à cabeceira?
+
+590
+00:59:27,185 --> 00:59:30,414
+Porque deixamos, convencidos
+de que era o anfitrião.
+
+591
+00:59:30,518 --> 00:59:32,996
+Ele se fez passar pelo anfitrião?
+- Não, não!
+
+592
+00:59:33,100 --> 00:59:35,753
+O Román não sabia que era o anfitrião!
+
+593
+00:59:35,934 --> 00:59:37,330
+Por isso é que estava estranho.
+
+594
+00:59:37,434 --> 00:59:39,079
+Penso que o melhor
+é começarem sem mim.
+
+595
+00:59:39,184 --> 00:59:40,830
+Como poderíamos começar sem ele?
+
+596
+00:59:40,934 --> 00:59:44,163
+E por que só foi pedido a ele
+que trouxesse o celular?
+
+597
+00:59:44,267 --> 00:59:47,163
+Para lhe telefonarem,
+com a estória do hospital!
+
+598
+00:59:47,267 --> 00:59:49,204
+Desculpe. Sim?
+
+599
+00:59:49,308 --> 00:59:51,880
+Mas então o Román Naranjo é inocente.
+
+600
+00:59:52,183 --> 00:59:55,534
+Tenho certeza!
+Diria até que não te reconheceu.
+
+601
+00:59:57,975 --> 01:00:00,059
+O PDA!
+
+602
+01:00:03,600 --> 01:00:05,684
+Vou enviar!
+
+603
+01:00:18,558 --> 01:00:20,620
+Telefonaram-me,
+saí de uma reunião,
+
+604
+01:00:20,724 --> 01:00:22,579
+perdi a carteira,
+percorri 60 km,
+
+605
+01:00:22,683 --> 01:00:25,287
+fiquei sem gasolina, ainda tenho
+que voltar ao posto para pagá-la...
+
+606
+01:00:25,391 --> 01:00:27,329
+Mas te garanto, não fomos nós
+quem ligou para ele!
+
+607
+01:00:27,433 --> 01:00:30,662
+Pode não ter sido a senhora,
+mas foi alguém do hospital!
+
+608
+01:00:30,766 --> 01:00:33,912
+Fale com a enfermeira!
+- Não vim aqui por capricho!
+
+609
+01:00:34,016 --> 01:00:35,537
+Sr. Naranjo, ouça!
+
+610
+01:00:35,641 --> 01:00:37,944
+Estamos num hospital,
+Sr. Naranjo!
+
+611
+01:00:39,558 --> 01:00:42,140
+Diga-me o número do qual lhe ligaram.
+
+612
+01:00:45,932 --> 01:00:47,870
+Aparece número privado.
+
+613
+01:00:47,974 --> 01:00:50,370
+Quando ligamos,
+aparece o número central.
+
+614
+01:00:50,475 --> 01:00:53,056
+Sr. Naranjo,
+a sua filha está estável.
+
+615
+01:00:53,599 --> 01:00:55,839
+Não fomos nós que lhe ligamos.
+
+616
+01:00:56,724 --> 01:01:00,800
+Só sei que tenho que fazer mais 60 km,
+
+617
+01:01:00,974 --> 01:01:04,007
+pegar a carteira, pagar a gasolina...
+
+618
+01:01:04,766 --> 01:01:07,348
+e voltar a fazer mais 60 km.
+
+619
+01:01:07,421 --> 01:01:11,135
+Sr. Naranjo, por que
+não deixa isso para amanhã?
+
+620
+01:01:12,182 --> 01:01:14,265
+Vá para casa e descanse.
+
+621
+01:01:20,015 --> 01:01:22,848
+Está bem. Obrigado.
+- De nada.
+
+622
+01:01:28,806 --> 01:01:31,804
+As chaves de casa
+também estão no casaco...
+
+623
+01:01:32,057 --> 01:01:33,869
+Já viu isto?
+
+624
+01:01:33,974 --> 01:01:37,801
+As chaves, o casaco,
+a gasolina... Raios!
+
+625
+01:01:38,557 --> 01:01:40,760
+Tenho tanta pena dele.
+- Pois é.
+
+626
+01:01:40,931 --> 01:01:45,118
+Se não foi o Román Naranjo
+quem organizou isto, quem terá sido?!
+
+627
+01:01:45,223 --> 01:01:48,160
+Não terá sido quem destruiu a
+sua tese sobre a Conjectura de Goldbach?
+
+628
+01:01:48,265 --> 01:01:49,661
+Isso foi qualquer idiota invejoso.
+
+629
+01:01:49,765 --> 01:01:52,327
+Por favor, um idiota não entra
+numa residência universitária,
+
+630
+01:01:52,432 --> 01:01:54,827
+destrói uns papéis e sai
+sem ser visto nem ouvido.
+
+631
+01:01:54,931 --> 01:01:57,369
+Menina Oliva, não deveria
+resolver o problema...
+
+632
+01:01:57,473 --> 01:02:00,221
+com um dado que não está no enunciado.
+
+633
+01:02:02,848 --> 01:02:06,197
+Como sabe que foi
+numa residência universitária?
+
+634
+01:02:15,848 --> 01:02:20,421
+Namoramos durante dois anos.
+Depois, acabamos.
+
+635
+01:02:24,014 --> 01:02:26,097
+Por que acabaram?
+
+636
+01:02:27,806 --> 01:02:32,214
+Pergunte a ele. Talvez te diga!
+- Acabamos e ponto final!
+
+637
+01:02:33,222 --> 01:02:37,576
+Pouco tempo depois, recebi o convite.
+Pensei que fosse coisa sua.
+
+638
+01:02:37,680 --> 01:02:40,576
+Só te liguei para esclarecer!
+- Achei boa idéia revê-la,
+
+639
+01:02:40,680 --> 01:02:42,534
+fingir que não nos conhecíamos,
+começar do zero...
+
+640
+01:02:42,638 --> 01:02:43,826
+"Começar do zero" foram suas palavras.
+
+641
+01:02:43,930 --> 01:02:46,013
+Foram e as mantenho!
+
+642
+01:02:46,722 --> 01:02:50,142
+Na Terra da Mentira,
+os habitantes mentem sempre.
+
+643
+01:02:50,472 --> 01:02:54,241
+Na Terra da Verdade,
+os habitantes só dizem a verdade.
+
+644
+01:02:55,763 --> 01:02:58,950
+Um estrangeiro está preso
+numa sala com duas portas.
+
+645
+01:02:59,055 --> 01:03:01,777
+Uma dá acesso à liberdade,
+a outra não.
+
+646
+01:03:01,888 --> 01:03:05,075
+As portas eram vigiadas por um
+carcereiro da Terra da Mentira...
+
+647
+01:03:05,179 --> 01:03:06,992
+e por outro da Terra da Verdade.
+
+648
+01:03:07,096 --> 01:03:08,659
+Para dar com a porta
+que dá acesso à liberdade,
+
+649
+01:03:08,763 --> 01:03:12,117
+o estrangeiro pode fazer apenas
+uma pergunta a um carcereiro.
+
+650
+01:03:12,221 --> 01:03:14,408
+Contudo, não sabe
+qual é o da Terra da Mentira...
+
+651
+01:03:14,513 --> 01:03:16,493
+e qual é o da Terra da Verdade.
+
+652
+01:03:16,597 --> 01:03:19,879
+Que pergunta fez?
+Temos menos de um minuto.
+
+653
+01:03:20,304 --> 01:03:23,034
+Vi isso num filme!
+- São dois carcereiros.
+
+654
+01:03:23,138 --> 01:03:24,992
+Um carcereiro só diz a verdade.
+Imaginemos que é você.
+
+655
+01:03:25,096 --> 01:03:26,408
+O outro só mente.
+Imagina que é você..
+
+656
+01:03:26,512 --> 01:03:27,950
+Deveria ser ao contrário,
+mas tudo bem.
+
+657
+01:03:28,054 --> 01:03:31,125
+Você é o estrangeiro
+que está fechado na sala.
+
+658
+01:03:35,888 --> 01:03:40,924
+Se perguntar qual é a porta...
+- Mas não sabe quem mente.
+
+659
+01:03:42,471 --> 01:03:44,283
+Esperem, tive uma idéia.
+
+660
+01:03:44,387 --> 01:03:47,918
+Se te perguntar que porta
+me aconselharia ele...
+
+661
+01:03:49,346 --> 01:03:53,718
+Como só digo a verdade, digo-te
+que ele aconselharia aquela!
+
+662
+01:03:54,679 --> 01:03:59,466
+Já percebi! Tem que perguntar
+qual porta aconselharia o outro!
+
+663
+01:03:59,637 --> 01:04:03,132
+Como ambos indicariam
+a porta má, escolho a outra.
+
+664
+01:04:03,304 --> 01:04:05,387
+Percebem?
+
+665
+01:04:13,178 --> 01:04:15,261
+Correto!
+
+666
+01:04:19,970 --> 01:04:22,053
+Por que acabaram?
+
+667
+01:04:25,803 --> 01:04:28,801
+Porque ele meteu na cabeça
+que tenho outro.
+
+668
+01:04:35,303 --> 01:04:38,095
+Não conseguiu convencê-lo
+do contrário?
+
+669
+01:04:41,219 --> 01:04:43,303
+É um enigma de idades.
+
+670
+01:04:43,469 --> 01:04:46,040
+Eu o resolvo, pois já tenho alguma.
+
+671
+01:04:52,386 --> 01:04:56,510
+Nunca gostei de Internet.
+
+672
+01:04:57,386 --> 01:05:01,296
+Um dia, entrei para jogar xadrez.
+
+673
+01:05:03,844 --> 01:05:08,101
+O que é mais inocente que jogar
+xadrez com alguém "invisível"?
+
+674
+01:05:08,261 --> 01:05:11,922
+De vez em quando,
+trocávamos mensagens,
+
+675
+01:05:13,093 --> 01:05:16,922
+até que um dia aconteceu...
+
+676
+01:05:18,135 --> 01:05:21,345
+algo que nunca tinha acontecido.
+
+677
+01:05:27,885 --> 01:05:29,968
+Ele ganhou.
+
+678
+01:05:30,968 --> 01:05:34,749
+Jogamos xadrez dezenas
+de vezes e ele sempre ganhava.
+
+679
+01:05:40,593 --> 01:05:43,315
+Então, comecei a me interessar por ele.
+
+680
+01:05:46,135 --> 01:05:49,582
+Um dia, surgiu a idéia
+de nos encontrarmos,
+
+681
+01:05:49,759 --> 01:05:52,130
+para jogarmos frente a frente.
+
+682
+01:05:53,093 --> 01:05:56,707
+Convidou-me para uma festa
+de gente importante.
+
+683
+01:05:57,509 --> 01:05:59,593
+Na casa dele?
+
+684
+01:05:59,801 --> 01:06:02,633
+Não, não foi na casa dele.
+
+685
+01:06:04,218 --> 01:06:06,301
+Foi num barco.
+
+686
+01:06:06,926 --> 01:06:09,009
+Num barco?
+
+687
+01:06:09,509 --> 01:06:12,342
+Por quê?
+- Foi isso que lhe perguntei.
+
+688
+01:06:12,634 --> 01:06:14,717
+Por que num barco?
+
+689
+01:06:16,926 --> 01:06:19,009
+Não tardei a saber.
+
+690
+01:06:21,842 --> 01:06:25,172
+Teve que ser em alto-mar,
+porque, nessa festa,
+
+691
+01:06:27,134 --> 01:06:30,972
+passaram-se coisas que
+seriam ilegais em qualquer país.
+
+692
+01:06:36,468 --> 01:06:38,551
+Quer saber que coisas?
+
+693
+01:06:39,842 --> 01:06:42,591
+Anda, atreva-se a perguntar.
+
+694
+01:06:44,508 --> 01:06:46,591
+Não, deixa quieto.
+
+695
+01:06:48,300 --> 01:06:50,383
+Nessa festa,
+
+696
+01:06:54,092 --> 01:06:56,175
+aconteceram coisas...
+
+697
+01:06:57,175 --> 01:07:02,377
+...e o que aconteceu,
+me fez voltar lá mais vezes.
+
+698
+01:07:09,133 --> 01:07:12,794
+Espera, não pode ter sido ele
+o organizador de tudo isto?
+
+699
+01:07:13,258 --> 01:07:15,793
+Não.
+- Por quê? Um ocioso, excêntrico,
+
+700
+01:07:15,966 --> 01:07:18,113
+com talento e dinheiro,
+por que não pode ser ele?
+
+701
+01:07:18,217 --> 01:07:20,300
+Porque está aqui dentro!
+
+702
+01:07:25,508 --> 01:07:29,750
+O tempo está se esgotando.
+Querem ouvir o enigma?
+
+703
+01:07:31,799 --> 01:07:34,487
+A mãe é 21 anos
+mais velha que o filho...
+
+704
+01:07:34,591 --> 01:07:36,820
+Nunca pensei encontrá-lo aqui.
+- Em seis anos,
+
+705
+01:07:36,924 --> 01:07:40,171
+o filho será cinco vezes
+mais novo que a mãe.
+
+706
+01:07:40,340 --> 01:07:43,920
+O que o pai está fazendo?
+Faltam dez segundos.
+
+707
+01:07:45,299 --> 01:07:47,622
+Merecem morrer aqui, os dois!
+
+708
+01:07:51,465 --> 01:07:54,001
+O que está fazendo?
+Também morrerá!
+
+709
+01:07:54,799 --> 01:07:56,882
+Quero lá saber!
+
+710
+01:08:00,007 --> 01:08:02,090
+Não se importa em morrer?
+
+711
+01:08:02,882 --> 01:08:05,278
+Estão se passsando
+coisas muito interessantes,
+
+712
+01:08:05,382 --> 01:08:08,131
+para que o organizador disto as perca.
+
+713
+01:08:15,715 --> 01:08:19,344
+Se organizasse isto tudo,
+não me bastaria a vingança.
+
+714
+01:08:19,465 --> 01:08:22,815
+la querer saber o que
+está acontecendo aqui dentro.
+
+715
+01:08:25,548 --> 01:08:27,153
+O que está dizendo?
+
+716
+01:08:27,257 --> 01:08:30,569
+O culpado pode ser alguém
+que quer tanto se vingar,
+
+717
+01:08:30,673 --> 01:08:32,756
+que não se importe em morrer.
+
+718
+01:08:37,173 --> 01:08:40,941
+Está  insinuando que eu
+seria capaz de organizar isto?!
+
+719
+01:08:43,423 --> 01:08:46,902
+Disse que eles merecem
+morrer e que para você tanto faz.
+
+720
+01:08:47,006 --> 01:08:50,751
+Quebrar o PDA é o mesmo que nos matar.
+
+721
+01:08:51,422 --> 01:08:54,207
+Descobriu que havia algo entre nós.
+
+722
+01:08:54,590 --> 01:08:57,730
+Isto faz mesmo o seu gênero.
+É muito infantil!
+
+723
+01:08:59,048 --> 01:09:03,041
+Os enigmas pretensiosos,
+os quebra-cabeças estúpidos!
+
+724
+01:09:03,380 --> 01:09:05,464
+Era preciso isto tudo?
+
+725
+01:09:05,537 --> 01:09:09,096
+Podia ter comprado quatro
+prensas em nome do Román,
+
+726
+01:09:09,130 --> 01:09:12,584
+podia ter montado a casa
+e enviado os convites...
+
+727
+01:09:12,755 --> 01:09:14,839
+Podia, perfeitamente.
+
+728
+01:09:24,588 --> 01:09:26,672
+Mas não o fez.
+
+729
+01:09:29,588 --> 01:09:31,672
+O que?
+
+730
+01:09:32,046 --> 01:09:34,914
+Acabo de perceber que não foi ele!
+
+731
+01:09:35,547 --> 01:09:37,668
+Lembram-se do fim do jantar?
+
+732
+01:09:38,297 --> 01:09:40,025
+Estávamos nos levantando da mesa,
+
+733
+01:09:40,130 --> 01:09:43,443
+à espera que o Fermat nos
+propusesse o famoso enigma,
+
+734
+01:09:43,547 --> 01:09:46,793
+quando, de repente,
+ouvimos um som estranho.
+
+735
+01:09:48,171 --> 01:09:50,609
+Esse telefonema era
+a parte fundamental do plano.
+
+736
+01:09:50,713 --> 01:09:54,831
+O Fermat tinha de abandonar
+a casa, para suspeitarmos dele.
+
+737
+01:09:55,046 --> 01:09:59,419
+Quem fez esse telefonema foi
+o organizador disto tudo.
+
+738
+01:10:00,171 --> 01:10:04,149
+Não pode ter sido ele, porque
+estava ao meu lado, no sofá.
+
+739
+01:10:05,338 --> 01:10:07,817
+Só uma pessoa
+pode ter feito esse telefonema.
+
+740
+01:10:07,921 --> 01:10:11,400
+A única pessoa que não estava na sala,
+quando o Fermat estava ao telefone.
+
+741
+01:10:11,504 --> 01:10:13,587
+Passou-se alguma coisa?
+
+742
+01:10:16,796 --> 01:10:20,789
+Já só te falta descobrir um X.
+
+743
+01:10:30,421 --> 01:10:34,201
+Efrén Cuevas?!
+Foi ele que enviou as cartas!
+
+744
+01:10:34,754 --> 01:10:37,456
+Não era Fermín, era Efrén!
+
+745
+01:10:37,670 --> 01:10:40,206
+A última chamada foi feita às 22h55.
+
+746
+01:10:40,504 --> 01:10:43,899
+Ligou ao Fermat, deste celular.
+- Telefona para pedir ajuda!
+
+747
+01:10:44,003 --> 01:10:46,358
+Ninguém poderá chegar a tempo!
+- Liga ao Fermat.
+
+748
+01:10:46,462 --> 01:10:49,812
+Talvez esteja a regressar!
+- O Fermat está morto.
+
+749
+01:11:50,419 --> 01:11:53,831
+Boa noite.
+Mostre-me a carta de condução.
+
+750
+01:11:57,710 --> 01:12:02,415
+Não tenho. Tenho, mas está
+numa casa a 5 km daqui.
+
+751
+01:12:02,835 --> 01:12:07,023
+Se vier atrás de mim, posso
+lhe mostrar. Por favor, peço-lhe.
+
+752
+01:12:08,376 --> 01:12:12,322
+Siga-me, é muito perto!
+Por que não vem comigo?
+
+753
+01:12:14,043 --> 01:12:17,954
+Estou lhe pedindo por favor, sério.
+Por favor.
+
+754
+01:12:19,585 --> 01:12:21,231
+Não atende.
+
+755
+01:12:21,335 --> 01:12:23,917
+Como se pára isto?
+Como se sai daqui?!
+
+756
+01:12:24,376 --> 01:12:27,825
+Não há saída.
+- Também vai morrer.
+
+757
+01:12:28,002 --> 01:12:30,751
+Há muito tempo
+que preparo este momento.
+
+758
+01:12:31,168 --> 01:12:33,251
+Até fiz uma maquete.
+
+759
+01:12:34,251 --> 01:12:36,335
+Se me dão licença...
+
+760
+01:12:39,085 --> 01:12:40,772
+Aqui está,
+
+761
+01:12:40,876 --> 01:12:44,272
+a minha tese de que a
+Conjectura de Goldbach é certa!
+
+762
+01:12:44,376 --> 01:12:47,796
+Destruiu a tese da
+Conjectura de Goldbach dele?!
+
+763
+01:12:48,459 --> 01:12:52,405
+Eu? Há dois meses,
+estava quase acabando a tese.
+
+764
+01:12:52,959 --> 01:12:55,827
+Faltavam-me apenas
+pequenas verificações.
+
+765
+01:12:56,001 --> 01:12:58,620
+E, de repente,
+deparo-me com isto!
+
+766
+01:13:00,626 --> 01:13:02,896
+35 anos à procura de uma resposta...
+
+767
+01:13:03,001 --> 01:13:05,998
+e um cara a descobre
+dez dias antes de mim.
+
+768
+01:13:06,709 --> 01:13:11,247
+Além disso, diz coisas como:
+O meu único mérito é ser jovem.
+
+769
+01:13:17,959 --> 01:13:20,042
+Não sabia o que fazer.
+
+770
+01:13:21,667 --> 01:13:24,665
+Pensei em me suicidar,
+
+771
+01:13:25,834 --> 01:13:27,917
+mas sentia...
+
+772
+01:13:28,875 --> 01:13:32,288
+...uma curiosidade enorme
+em te conhecer
+
+773
+01:13:35,751 --> 01:13:38,701
+Foi então que li isto num jornal.
+
+774
+01:13:39,458 --> 01:13:43,452
+A solução do maior enigma
+matemático sabotada.
+
+775
+01:13:47,208 --> 01:13:51,396
+Enviei-te um "e-mail", mas quem
+respondeu foi a tua namorada.
+
+776
+01:13:52,458 --> 01:13:54,541
+Foi assim que nos conhecemos.
+
+777
+01:13:56,416 --> 01:13:59,187
+Confirmou aquilo
+que me parecia inacreditável.
+
+778
+01:13:59,292 --> 01:14:03,830
+Que haviam sabotado a sua tese e
+que teria que refazer o trabalho.
+
+779
+01:14:04,458 --> 01:14:07,562
+Passei dia e noite em volta
+da Conjectura de Goldbach,
+
+780
+01:14:07,666 --> 01:14:10,333
+até que consegui prová-la!
+
+781
+01:14:13,333 --> 01:14:15,416
+Aí a tem!
+
+782
+01:14:42,999 --> 01:14:45,082
+Muito obrigado.
+
+783
+01:15:02,373 --> 01:15:03,519
+Isto é brilhante!
+
+784
+01:15:03,623 --> 01:15:07,462
+Provei a Conjectura de Goldbach,
+mas você o fez antes!
+
+785
+01:15:07,553 --> 01:15:09,436
+Ainda que demore três anos
+para recuperar o trabalho,
+
+786
+01:15:09,540 --> 01:15:11,912
+será reconhecido como o primeiro.
+
+787
+01:15:12,123 --> 01:15:15,489
+A menos que não consiga recuperá-lo.
+
+788
+01:15:17,081 --> 01:15:20,561
+Alguém tão inteligente não sabe
+o que está o pai a fazer,
+
+789
+01:15:20,665 --> 01:15:22,602
+se a mãe é 21 anos
+mais velha que o filho?
+
+790
+01:15:22,706 --> 01:15:24,790
+Não agüento mais...
+- Anda!
+
+791
+01:15:25,415 --> 01:15:28,935
+Em seis anos, o filho será cinco
+vezes mais novo que a mãe.
+
+792
+01:15:29,039 --> 01:15:31,477
+O que está o pai a fazer?
+- O resultado é negativo!
+
+793
+01:15:31,581 --> 01:15:35,824
+Sim, pode ser!
+X é igual a menos três quartos!
+
+794
+01:15:35,998 --> 01:15:39,227
+O filho tem menos três quartos
+de ano. O que está o pai a fazer?
+
+795
+01:15:39,331 --> 01:15:41,018
+Não sei!
+- Deixe-o em paz!
+
+796
+01:15:41,122 --> 01:15:44,404
+Menos três quartos de ano,
+são menos nove meses!
+
+797
+01:15:46,706 --> 01:15:48,789
+O pai está comendo a mãe.
+
+798
+01:15:49,748 --> 01:15:54,239
+Construí esta sala para pôr
+as suas inteligências à prova.
+
+799
+01:15:54,414 --> 01:15:55,893
+Se quiserem, digo a vocês as notas.
+
+800
+01:15:55,998 --> 01:15:57,684
+O que temos eu e
+o Román Naranjo a ver com isto?
+
+801
+01:15:57,788 --> 01:16:01,450
+Amanhã pensarão
+que ele quis se vingar de você...
+
+802
+01:16:01,622 --> 01:16:03,226
+e que nós fomos sacrificados.
+
+803
+01:16:03,330 --> 01:16:05,768
+Quando acusarem o Román,
+ele há de se defender.
+
+804
+01:16:05,872 --> 01:16:08,851
+Já disse a vocês que ele está morto.
+- Não pode ser.
+
+805
+01:16:08,955 --> 01:16:11,039
+Vi-o sair de carro.
+
+806
+01:16:11,112 --> 01:16:14,031
+Depois do jantar,
+levantamos a mesa.
+
+807
+01:16:15,372 --> 01:16:19,017
+Não tinha imaginado que
+a situação do falso anfitrião...
+
+808
+01:16:19,121 --> 01:16:21,206
+iria ser tão divertida.
+
+809
+01:16:21,240 --> 01:16:24,287
+Antes de perder o controle da situação,
+
+810
+01:16:25,163 --> 01:16:28,494
+saí para fazer o famoso telefonema.
+
+811
+01:16:28,747 --> 01:16:30,867
+<i>Desculpe. Sim?</i>
+
+812
+01:16:31,580 --> 01:16:35,028
+<i>Boa noite, Sr. Naranjo.
+Estou ligando do hospital.</i>
+
+813
+01:16:35,204 --> 01:16:36,642
+"Sim, diga."
+
+814
+01:16:36,747 --> 01:16:38,830
+"Um momento, por favor."
+
+815
+01:16:42,830 --> 01:16:45,133
+Isso, descobriram com facilidade.
+
+816
+01:16:45,454 --> 01:16:48,267
+O que não sabem é que,
+enquanto falava com ele,
+
+817
+01:16:48,371 --> 01:16:52,199
+pus fosgênio no fecho
+do cinto de segurança.
+
+818
+01:16:52,496 --> 01:16:56,823
+"É melhor vir imediatamente
+ao hospital, porque a sua filha..."
+
+819
+01:16:57,412 --> 01:16:59,725
+"O fosgênio, inalado,
+provoca asfixia...
+
+820
+01:16:59,830 --> 01:17:02,600
+"em menos de dois minutos,
+sem deixar qualquer rasto.
+
+821
+01:17:02,704 --> 01:17:04,100
+E, se formos conduzindo..."
+
+822
+01:17:04,204 --> 01:17:07,392
+<i>"- Parece que vou ter que sair.
+- Passou-se alguma coisa?"</i>
+
+823
+01:17:07,496 --> 01:17:10,659
+O acidente dissimula a causa de morte.
+
+824
+01:17:15,204 --> 01:17:18,414
+O que está fazendo?
+- Estou ligando ao Fermat!
+
+825
+01:17:32,579 --> 01:17:35,859
+Nunca atendo o celular,
+quando vou conduzir.
+
+826
+01:17:36,579 --> 01:17:38,662
+Prudência acima de tudo.
+
+827
+01:17:39,412 --> 01:17:43,016
+E não sabe que 28% das vítimas
+mortais de acidentes rodoviários...
+
+828
+01:17:43,120 --> 01:17:47,244
+vão como o senhor,
+sem cinto de segurança?
+
+829
+01:17:50,078 --> 01:17:54,486
+Então, os outros 72%
+morrem com o cinto posto.
+
+830
+01:18:51,452 --> 01:18:52,806
+Não acredito
+que não se importe em morrer.
+
+831
+01:18:52,910 --> 01:18:56,139
+Quando nos encontrarem,
+estarei agarrado a este "dossier".
+
+832
+01:18:56,243 --> 01:18:58,098
+Ficarei para a História,
+como o matemático...
+
+833
+01:18:58,202 --> 01:19:01,982
+que comprovou a Conjectura
+de Goldbach. Isso me basta.
+
+834
+01:19:08,451 --> 01:19:10,940
+A culpa é minha, menti.
+
+835
+01:19:14,659 --> 01:19:16,743
+O que?
+
+836
+01:19:21,035 --> 01:19:23,756
+Não solucionei
+a Conjectura de Goldbach!
+
+837
+01:19:25,285 --> 01:19:29,097
+Disse-te que estava a trabalhar
+nela, para te impressionar.
+
+838
+01:19:29,201 --> 01:19:31,285
+E funcionou.
+
+839
+01:19:31,618 --> 01:19:34,181
+Depois, a mentira começou
+a se tornar maior,
+
+840
+01:19:34,285 --> 01:19:37,013
+faziam-me entrevistas,
+pediam-me a tese...
+
+841
+01:19:37,118 --> 01:19:39,571
+e já não sabia como ganhar tempo.
+
+842
+01:19:40,576 --> 01:19:42,659
+Ninguém entrou no meu quarto.
+
+843
+01:19:44,243 --> 01:19:48,450
+Fui eu que destruí tudo.
+Já não sabia o que fazer.
+
+844
+01:19:56,534 --> 01:20:00,693
+Eu o fiz por ti. Eu o fiz por ti!
+
+845
+01:20:06,450 --> 01:20:11,486
+Então, fui mesmo eu o primeiro!
+
+846
+01:20:16,242 --> 01:20:19,737
+Solucionei a Conjectura antes de todos!
+
+847
+01:20:28,242 --> 01:20:30,971
+O que fez, idiota!
+- Já estava merecendo!
+
+848
+01:20:31,075 --> 01:20:34,984
+Ele deveria ter alguma carta na manga,
+para sair na última hora!
+
+849
+01:20:36,658 --> 01:20:38,928
+Não acredito nessa história
+de morrer abraçado ao "dossier"!
+
+850
+01:20:39,034 --> 01:20:40,804
+É claro que tinha pensado numa saída!
+
+851
+01:20:40,908 --> 01:20:43,179
+Por que não admitimos que vamos morrer?
+
+852
+01:20:43,283 --> 01:20:47,221
+Sim, vamos morrer com a mesma idade
+do Evariste Galois, da Oliva Sabuco...
+
+853
+01:20:47,325 --> 01:20:51,721
+ou do Blas Pascal, mas o David Hilbert
+morreu aos oitenta e tal.
+
+854
+01:20:52,575 --> 01:20:54,658
+Ele não pensava em morrer.
+
+855
+01:20:56,199 --> 01:20:59,898
+Disse que esta sala era
+um teste à nossa inteligência!
+
+856
+01:20:59,997 --> 01:21:03,068
+Tem que haver uma forma
+de passarmos no teste!
+
+857
+01:21:35,115 --> 01:21:37,199
+Está a partir!
+
+858
+01:21:49,324 --> 01:21:51,407
+É um trinco!
+
+859
+01:21:52,199 --> 01:21:56,061
+Vamos, só cabe um. Passa!
+- Não consigo!
+
+860
+01:21:56,240 --> 01:21:58,303
+Se a cabeça couber,
+o corpo também cabe!
+
+861
+01:21:58,407 --> 01:22:00,977
+Tenta meter o cu num capacete!
+
+862
+01:22:10,532 --> 01:22:12,052
+Já saí!
+- Mande-o para cima!
+
+863
+01:22:12,156 --> 01:22:15,272
+A saída está trancada!
+- Não consigo!
+
+864
+01:22:16,447 --> 01:22:18,885
+Mande-o para cima!
+- Não consigo! É pesado!
+
+865
+01:22:18,989 --> 01:22:23,030
+Tenta empurrá-lo!
+- Espere! Vou tentar isto!
+
+866
+01:22:29,698 --> 01:22:31,781
+Passa tu, agora!
+
+867
+01:22:33,781 --> 01:22:36,151
+Despacha-te!
+- Não, não! Espera!
+
+868
+01:22:36,322 --> 01:22:37,844
+O que é?
+- Só um segundo!
+
+869
+01:22:37,948 --> 01:22:40,614
+Não temos um segundo!
+- Já está!
+
+870
+01:23:00,572 --> 01:23:03,523
+Merda!
+- O que aconteceu?
+
+871
+01:23:09,071 --> 01:23:11,312
+Fiquei com as calças presas!
+
+872
+01:24:32,278 --> 01:24:34,361
+Olhem...
+
+873
+01:24:38,486 --> 01:24:43,025
+Quarto minguante...
+Que ironia.
+
+874
+01:24:43,862 --> 01:24:46,350
+Quarto... minguante.
+
+875
+01:25:21,527 --> 01:25:23,611
+O que vai fazer com isso?
+
+876
+01:25:28,694 --> 01:25:30,777
+Estou num dilema.
+
+877
+01:25:31,611 --> 01:25:34,727
+Se a publicasse tal como está,
+
+878
+01:25:35,401 --> 01:25:39,310
+o Efrén fica para a História
+e será uma vitória para ele.
+
+879
+01:25:40,110 --> 01:25:43,756
+Se a publicasse com a minha
+assinatura, não seria ético.
+
+880
+01:25:43,860 --> 01:25:47,978
+Isso, para mim, era o mais fácil.
+Tirava-me um peso de cima.
+
+881
+01:25:51,193 --> 01:25:53,672
+O que está fazendo?!
+- Problema resolvido!
+
+882
+01:25:53,777 --> 01:25:55,860
+O que você fez?!
+
+883
+01:25:56,651 --> 01:26:00,432
+Era a resolução de um problema
+com mais de 250 anos!
+
+884
+01:26:01,526 --> 01:26:03,690
+Como pode fazer isto ao mundo!
+
+885
+01:26:14,110 --> 01:26:16,314
+O mundo está como estava.
+
+886
+01:26:17,305 --> 01:27:17,329
+Por favor, avalie esta legenda em www.osdb.link/8frew
+Ajude outros usuários a escolher as melhores legendas.

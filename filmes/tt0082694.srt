@@ -1,0 +1,1969 @@
+1
+00:01:24,588 --> 00:01:25,588
+resync: DARKSICK
+
+2
+00:01:32,596 --> 00:01:35,258
+<i>Minha vida se esvai...</i>
+
+3
+00:01:35,532 --> 00:01:37,864
+<i>... a visão se escurece.</i>
+
+4
+00:01:38,035 --> 00:01:41,527
+<i>Tudo que fica são as memórias.</i>
+
+5
+00:01:42,039 --> 00:01:45,873
+<i>Eu recordo... uma época de caos...</i>
+
+6
+00:01:46,744 --> 00:01:50,737
+<i>... sonhos arruinados...
+... esta Terra Devastada.</i>
+
+7
+00:01:51,382 --> 00:01:55,546
+<i>Mas, acima de tudo, eu me lembro
+do Guerreiro das Estradas...</i>
+
+8
+00:01:56,387 --> 00:01:59,254
+<i>... o homem chamado Max.</i>
+
+9
+00:01:59,623 --> 00:02:03,650
+<i>Para entender quem ele era,
+seria preciso voltar no tempo...</i>
+
+10
+00:02:04,395 --> 00:02:07,558
+<i>... quando o mundo era
+girado pelo combustível negro...</i>
+
+11
+00:02:07,798 --> 00:02:11,859
+<i>... e no deserto brotavam
+grandes cidades de cano e aço.</i>
+
+12
+00:02:14,505 --> 00:02:17,497
+<i>Desaparecidas... aniquiladas.</i>
+
+13
+00:02:17,908 --> 00:02:22,277
+<i>Por razões há muito esquecidas,
+duas grandes tribos guerrearam...</i>
+
+14
+00:02:22,846 --> 00:02:26,475
+<i>... e dispararam bombas
+que aniquilaram tudo.</i>
+
+15
+00:02:26,784 --> 00:02:30,777
+<i>Sem combustível, não eram nada.
+Eles não conseguiriam sobreviver.</i>
+
+16
+00:02:31,422 --> 00:02:35,290
+<i>As enormes máquinas
+crepitaram a pararam.</i>
+
+17
+00:02:37,594 --> 00:02:42,293
+<i>Seus líderes falaram...
+e falaram... e falaram...</i>
+
+18
+00:02:45,302 --> 00:02:48,601
+<i>... mas nada deteria a avalanche.</i>
+
+19
+00:02:49,506 --> 00:02:53,806
+<i>Seu mundo desmoronou...
+... as cidades explodiram.</i>
+
+20
+00:02:54,945 --> 00:02:57,436
+<i>Um turbilhão de saques...</i>
+
+21
+00:02:57,681 --> 00:03:00,616
+<i>... uma tempestade de medo.</i>
+
+22
+00:03:00,918 --> 00:03:03,819
+<i>Homens começaram a se
+alimentar de homens.</i>
+
+23
+00:03:05,456 --> 00:03:08,857
+<i>Nas estradas, era um
+pesadelo terrível.</i>
+
+24
+00:03:09,526 --> 00:03:12,188
+<i>Só os que tinham mobilidade
+para fugir...</i>
+
+25
+00:03:12,463 --> 00:03:15,455
+<i>... e brutalidade para
+pilhar sobreviveriam.</i>
+
+26
+00:03:16,133 --> 00:03:19,125
+<i>As gangues tomaram as rodovias...</i>
+
+27
+00:03:19,403 --> 00:03:23,339
+<i>... prontas para guerrear
+por um tanque de gasolina.</i>
+
+28
+00:03:24,141 --> 00:03:27,338
+<i>E nesse turbilhão decadente...</i>
+
+29
+00:03:27,478 --> 00:03:30,379
+<i>... homens comuns foram
+surrados e esmagados.</i>
+
+30
+00:03:30,848 --> 00:03:32,839
+<i>Homens como Max...</i>
+
+31
+00:03:33,150 --> 00:03:35,141
+<i>... o guerreiro Max.</i>
+
+32
+00:03:37,855 --> 00:03:41,222
+<i>No estrondo de um motor,
+ele perdeu tudo...</i>
+
+33
+00:03:46,497 --> 00:03:48,863
+<i>... e se tornou um homem amargo...</i>
+
+34
+00:03:49,099 --> 00:03:52,000
+<i>... desolado, arruinado...</i>
+
+35
+00:03:52,302 --> 00:03:56,864
+<i>... um homem perseguido
+pelos demõnios do passado.</i>
+
+36
+00:03:57,407 --> 00:04:01,173
+<i>Um homem que se aventurou
+dentro da Terra Devastada.</i>
+
+37
+00:04:02,646 --> 00:04:07,379
+<i>E foi aqui...
+neste lugar arruinado...</i>
+
+38
+00:04:09,386 --> 00:04:12,014
+<i>... que ele reaprendeu a viver.</i>
+
+39
+00:10:39,338 --> 00:10:42,330
+Não machuque a cobra!
+Ponha no chão...
+
+40
+00:10:42,575 --> 00:10:45,169
+...devagar, devagar, isso.
+
+41
+00:10:46,112 --> 00:10:48,103
+Agora o ferro.
+
+42
+00:10:50,683 --> 00:10:52,674
+A arma.
+
+43
+00:10:53,186 --> 00:10:56,178
+No chão, no chão. Vire-se.
+
+44
+00:11:09,101 --> 00:11:12,537
+Acho que consegui um
+pouco de gasolina, hein?
+
+45
+00:11:12,805 --> 00:11:14,363
+V8?
+
+46
+00:11:14,774 --> 00:11:18,369
+Tem armadilha.
+Se tocar nos tanques, BUM!
+
+47
+00:11:26,319 --> 00:11:29,379
+Armadilha! Pra trás!
+
+48
+00:11:30,756 --> 00:11:33,623
+Seu espertinho engenhoso!
+
+49
+00:11:33,893 --> 00:11:37,056
+Você é rápido... muito rápido.
+
+50
+00:11:38,264 --> 00:11:42,291
+Nunca vi ninguém pegar cobra assim.
+Quem é você?
+
+51
+00:11:44,437 --> 00:11:47,736
+Reflexos... É isso que você tem.
+
+52
+00:11:49,742 --> 00:11:51,903
+Eu... eu tenho inteligência.
+
+53
+00:11:59,018 --> 00:12:01,919
+Um cara... um cara rápido...
+
+54
+00:12:02,255 --> 00:12:06,521
+...deve ter uma arma aí embaixo.
+Eu terei de amarrá-lo no painel.
+
+55
+00:12:24,310 --> 00:12:26,938
+Não me faça de bobo!
+
+56
+00:12:32,885 --> 00:12:36,377
+Não! Combustível! Gasolina!
+Milhares de litros!
+
+57
+00:12:36,622 --> 00:12:38,385
+- O quanto quiser!
+- Onde? Onde?
+
+58
+00:12:38,624 --> 00:12:41,957
+30 quilômetros daqui!
+É uma bomba, uma refinaria!
+
+59
+00:12:43,396 --> 00:12:45,864
+- Um tanque enorme.
+- Mentira!
+
+60
+00:12:46,032 --> 00:12:47,795
+Não, é verdade!
+
+61
+00:12:47,967 --> 00:12:51,459
+Não é self-service, não.
+Pra mim, não dá...
+
+62
+00:12:51,637 --> 00:12:53,662
+...mas um homem como você...
+
+63
+00:12:53,839 --> 00:12:54,669
+Onde?
+
+64
+00:12:55,641 --> 00:12:58,337
+Se me matar, nunca vai descobrir!
+
+65
+00:13:17,997 --> 00:13:19,692
+Bom cachorro...
+
+66
+00:13:19,999 --> 00:13:21,261
+Bonzinho, hein?
+
+67
+00:13:54,967 --> 00:13:59,028
+Bem, lá está.
+
+68
+00:14:01,540 --> 00:14:03,872
+Há 4 dias, eu estava aqui.
+
+69
+00:14:04,043 --> 00:14:08,036
+Eu e as cobras...
+jogando mah-jong, tomando chá...
+
+70
+00:14:09,115 --> 00:14:11,777
+...observando, pensando...
+
+71
+00:14:12,051 --> 00:14:15,214
+...como eu poderia entrar
+e pegar gasolina?
+
+72
+00:14:16,722 --> 00:14:19,782
+Eles bombeiam noite e dia...
+
+73
+00:14:22,261 --> 00:14:24,252
+Combustível para queimar.
+
+74
+00:14:24,830 --> 00:14:28,561
+Eles têm tudo: Energia,
+luzes, o que imaginar.
+
+75
+00:14:29,402 --> 00:14:32,894
+E pode apostar que eles
+pretendem mantê-las.
+
+76
+00:14:33,239 --> 00:14:35,230
+Há uns 30 lá dentro.
+
+77
+00:14:35,408 --> 00:14:38,070
+Flechas, lança-chamas, armas!
+
+78
+00:14:38,744 --> 00:14:41,679
+Não é lugar para homem ou cobra, pensei.
+
+79
+00:14:42,915 --> 00:14:45,907
+Aí, essa corja chegou...
+
+80
+00:14:46,085 --> 00:14:48,076
+...como mariposas na luz.
+
+81
+00:14:48,254 --> 00:14:51,587
+Cercam, cercam, atacam, atacam...
+
+82
+00:14:51,757 --> 00:14:55,352
+...como formigas iradas, loucas
+com o cheiro da gasolina.
+
+83
+00:15:11,544 --> 00:15:15,105
+No carro-tanque, é lá
+que eles guardam.
+
+84
+00:15:15,948 --> 00:15:19,975
+Milhares de litros.
+Quanto você quiser.
+
+85
+00:15:21,287 --> 00:15:24,450
+Se alguém vai entrar lá,
+vai ser você.
+
+86
+00:15:24,623 --> 00:15:28,286
+Eu... vou dar comida às cobras.
+
+87
+00:15:31,630 --> 00:15:35,464
+Um homem vive de sua palavra.
+Acho que mantive a minha, não?
+
+88
+00:15:44,810 --> 00:15:47,802
+Nós fizemos um trato. Eu te mostrei
+a gasolina, você me deixa ir, certo?
+
+89
+00:15:47,980 --> 00:15:49,641
+O trato era que eu
+não iria te matar.
+
+90
+00:15:49,815 --> 00:15:51,646
+Depois do que fiz por você...
+
+91
+00:15:52,384 --> 00:15:55,046
+Você conseguiu uma barganha, não?
+
+92
+00:16:23,182 --> 00:16:26,174
+<i>Ataquem, meus parasitas, ataquem!</i>
+
+93
+00:16:50,576 --> 00:16:54,205
+<i>Avante! Tragam-me o combustível.
+Para a glória de Humungus.</i>
+
+94
+00:16:54,380 --> 00:16:57,213
+<i>Para a grande glória de Humungus.</i>
+
+95
+00:17:01,554 --> 00:17:04,216
+<i>Loucos do Esmegma à esquerda!</i>
+
+96
+00:17:06,492 --> 00:17:09,552
+<i>Ao portão!
+Alucinados do Gayboy ao portão!</i>
+
+97
+00:17:15,901 --> 00:17:18,563
+<i>Eu sou seu senhor.</i>
+
+98
+00:17:21,574 --> 00:17:25,169
+<i>Ataquem, meus parasitas, ataquem!</i>
+
+99
+00:24:11,149 --> 00:24:14,084
+Obrigado, obrigado, obrigado!
+
+100
+00:24:14,252 --> 00:24:15,810
+Pare.
+
+101
+00:24:16,088 --> 00:24:18,579
+Só vim aqui atrás de gasolina.
+
+102
+00:24:25,530 --> 00:24:27,293
+Quanto você quiser.
+
+103
+00:24:27,466 --> 00:24:29,764
+Me leve de volta para lá.
+
+104
+00:25:16,314 --> 00:25:19,647
+Mostre suas armas e venha adiante!
+
+105
+00:25:22,654 --> 00:25:23,848
+Devagar!
+
+106
+00:25:26,458 --> 00:25:29,586
+Vá com muita calma!
+
+107
+00:25:29,895 --> 00:25:31,829
+É o máximo que pode ir!
+
+108
+00:25:32,497 --> 00:25:34,089
+Vire-se!
+
+109
+00:25:35,000 --> 00:25:37,594
+Nathan! Nathan! É o Nathan!
+
+110
+00:25:38,403 --> 00:25:40,030
+Solte-as!
+
+111
+00:25:43,008 --> 00:25:45,067
+Abram o portão!
+
+112
+00:25:49,714 --> 00:25:52,080
+Tragam logo a maca!
+
+113
+00:25:53,585 --> 00:25:57,021
+Ei, tudo bem, tudo bem.
+Fique aí.
+
+114
+00:25:57,189 --> 00:25:59,589
+Cubra-o, cubra-o!
+
+115
+00:26:01,359 --> 00:26:03,190
+Vem! Rápido, rápido!
+
+116
+00:26:04,029 --> 00:26:06,589
+Que desperdício!
+
+117
+00:26:06,865 --> 00:26:08,492
+Cuidado com sua perna!
+
+118
+00:26:11,536 --> 00:26:13,367
+Você e suas idéias!
+
+119
+00:26:13,738 --> 00:26:15,535
+Ele não tinha a menor chance!
+
+120
+00:26:15,707 --> 00:26:19,302
+Eu avisei! Todos me ouviram!
+"Loucura!" Eu disse!
+
+121
+00:26:19,711 --> 00:26:22,305
+"Podemos fugir,
+levar a gasolina!", ele disse!
+
+122
+00:26:33,391 --> 00:26:34,722
+Coloque o carro para dentro!
+
+123
+00:26:35,894 --> 00:26:38,055
+Fechem o maldito portão!
+
+124
+00:26:57,983 --> 00:26:59,541
+Quem é você?
+
+125
+00:27:00,418 --> 00:27:02,352
+Como conseguiu passar lá fora?
+
+126
+00:27:02,754 --> 00:27:05,484
+Eu quero respostas.
+Onde o encontrou?
+
+127
+00:27:06,091 --> 00:27:09,492
+Uns 4 km lá na estrada, abandonado
+para morrer. Fizemos um trato...
+
+128
+00:27:09,661 --> 00:27:11,925
+Havia 3 outros veículos.
+Viu algum deles?
+
+129
+00:27:12,097 --> 00:27:14,691
+Sim, foram para o sudoeste
+no meio de uma confusão.
+
+130
+00:27:14,766 --> 00:27:16,825
+Ele disse que, se eu o trouxesse
+aqui, vocês me dariam gasolina.
+
+131
+00:27:16,935 --> 00:27:20,063
+- Não tenho muito tempo.
+- Havia uma mulher no carro...
+
+132
+00:27:21,306 --> 00:27:22,273
+Ela está morta.
+
+133
+00:27:24,309 --> 00:27:25,333
+O que eles fizeram?
+
+134
+00:27:25,944 --> 00:27:28,469
+Foi rápido. Escuta, só quero minha
+gasolina e caio fora daqui.
+
+135
+00:27:28,647 --> 00:27:30,706
+Ele pode ser um deles!
+Não dê nada!
+
+136
+00:27:31,449 --> 00:27:33,110
+Tem razão, ele é um parasita!
+
+137
+00:27:33,285 --> 00:27:36,948
+Fazendo comércio humano!
+Lixo mercenário!
+
+138
+00:27:37,355 --> 00:27:39,949
+Nós fizemos um trato.
+
+139
+00:27:40,125 --> 00:27:42,116
+Converse com ele.
+
+140
+00:27:43,628 --> 00:27:47,291
+Façam algo! Façam algo!
+
+141
+00:27:48,033 --> 00:27:51,161
+Façam algo!
+
+142
+00:27:59,878 --> 00:28:02,540
+Se tinha um contrato, era com ele.
+
+143
+00:28:02,714 --> 00:28:04,477
+E morreu com ele.
+
+144
+00:28:04,649 --> 00:28:06,617
+Livrem-se dele!
+
+145
+00:28:06,985 --> 00:28:08,384
+À esquerda!
+
+146
+00:28:15,660 --> 00:28:18,652
+Você merece meus parabéns!
+O último dos Interceptores V8!
+
+147
+00:28:19,197 --> 00:28:21,062
+Uma peça de museu!
+
+148
+00:28:22,500 --> 00:28:24,832
+Teria sido uma pena explodi-lo.
+
+149
+00:28:39,184 --> 00:28:43,518
+Lá vem eles! Fechem os portões!
+Eles estão voltando!
+
+150
+00:29:52,824 --> 00:29:57,158
+Não atirem!
+Ele vem em paz!
+
+151
+00:29:57,329 --> 00:30:01,732
+Pelo amor de Deus, não atirem!
+
+152
+00:30:54,619 --> 00:30:57,213
+Saudações do Humungus!
+
+153
+00:30:57,655 --> 00:30:59,885
+O Sr. Humungus!
+
+154
+00:31:00,058 --> 00:31:03,459
+O Guerreiro da Terra Devastada!
+
+155
+00:31:04,829 --> 00:31:08,321
+O aiatolá do Rock'n'roll!
+
+156
+00:31:11,236 --> 00:31:13,898
+Estou muito decepcionado.
+
+157
+00:31:14,072 --> 00:31:17,564
+Novamente me obrigaram
+a soltar meus cães de guerra.
+
+158
+00:31:17,742 --> 00:31:21,906
+Vejam o que sobrou de
+seus galantes patrulheiros.
+
+159
+00:31:22,080 --> 00:31:24,947
+Por quê? Porque são egoístas!
+
+160
+00:31:25,583 --> 00:31:27,312
+Vocês escondem sua gasolina.
+
+161
+00:31:28,453 --> 00:31:30,683
+Não dêem ouvidos a ele!
+
+162
+00:31:30,855 --> 00:31:32,948
+<i>Meus prisioneiros disseram...</i>
+
+163
+00:31:33,158 --> 00:31:36,184
+...que pretendem tirar sua
+gasolina da Terra Devastada.
+
+164
+00:31:37,095 --> 00:31:40,462
+<i>Vocês os enviaram hoje
+para que descobrissem um veículo.</i>
+
+165
+00:31:40,932 --> 00:31:44,663
+Um caminhão grande o suficiente
+para carregar esse tanque.
+
+166
+00:31:45,937 --> 00:31:47,996
+Que plano medíocre!
+
+167
+00:31:48,173 --> 00:31:50,164
+Olhem em volta.
+
+168
+00:31:52,043 --> 00:31:53,806
+<i>Este é o Vale da Morte.</i>
+
+169
+00:31:54,345 --> 00:31:56,210
+Viram?
+
+170
+00:31:56,448 --> 00:31:59,884
+Nada consegue escapar!
+Humungus domina a Terra Devastada!
+
+171
+00:32:00,385 --> 00:32:03,445
+Não entreguem nada!
+Joguem fora!
+
+172
+00:32:06,124 --> 00:32:09,321
+<i>Humungus não aceitará desafios!</i>
+
+173
+00:32:30,613 --> 00:32:32,046
+<i>Wez! Wez!</i>
+
+174
+00:32:32,982 --> 00:32:34,540
+<i>Escutem-me!</i>
+
+175
+00:32:41,324 --> 00:32:42,814
+Eu pego! Eu pego!
+
+176
+00:32:57,473 --> 00:33:01,341
+<i>Silêncio! Silêncio!
+Chega de brincadeiras!</i>
+
+177
+00:33:01,811 --> 00:33:04,177
+<i>Chega de brincadeiras!</i>
+
+178
+00:33:04,347 --> 00:33:06,178
+<i>Nós temos um propósito.</i>
+
+179
+00:33:06,349 --> 00:33:08,681
+<i>Viemos com uma oferta.</i>
+
+180
+00:33:11,721 --> 00:33:15,020
+Não! Chega de conversa!
+
+181
+00:33:15,258 --> 00:33:17,488
+Vamos entrar! Vamos matar!
+
+182
+00:33:17,660 --> 00:33:21,027
+Vamos matar todos!
+
+183
+00:33:38,114 --> 00:33:39,775
+Fique quieto, meu cão de guerra!
+
+184
+00:33:40,383 --> 00:33:42,283
+Eu entendo a sua dor.
+
+185
+00:33:42,451 --> 00:33:46,387
+Todos perdemos alguém que amamos.
+Mas faremos do meu modo!
+
+186
+00:33:46,522 --> 00:33:48,581
+Quem perde espera!
+
+187
+00:33:48,758 --> 00:33:50,851
+Faremos do meu modo!
+
+188
+00:33:51,060 --> 00:33:56,123
+O medo é nosso aliado...
+a gasolina será nossa.
+
+189
+00:33:56,299 --> 00:33:59,757
+Depois, você terá sua revanche.
+
+190
+00:34:04,273 --> 00:34:06,138
+Levem-no!
+
+191
+00:34:20,489 --> 00:34:24,721
+Já houve violência demais,
+dor demais.
+
+192
+00:34:25,094 --> 00:34:27,790
+<i>Todos aqui já pecaram.</i>
+
+193
+00:34:28,531 --> 00:34:30,522
+<i>Mas dou minha palavra de honra.</i>
+
+194
+00:34:31,601 --> 00:34:33,626
+Vão embora.
+
+195
+00:34:33,803 --> 00:34:35,270
+Dêem-me a bomba...
+
+196
+00:34:35,905 --> 00:34:37,566
+<i>... o óleo...</i>
+
+197
+00:34:37,740 --> 00:34:39,105
+<i>... a gasolina...</i>
+
+198
+00:34:39,742 --> 00:34:43,109
+...e toda a instalação,
+e eu pouparei suas vidas.
+
+199
+00:34:43,980 --> 00:34:48,314
+<i>Basta saírem, eu vos darei
+passagem segura aqui fora.</i>
+
+200
+00:34:48,951 --> 00:34:53,513
+Basta saírem, e chegará ao fim
+todo o terror.
+
+201
+00:34:58,160 --> 00:35:00,185
+<i>Aguardo a resposta.</i>
+
+202
+00:35:00,363 --> 00:35:03,298
+<i>Vocês têm um dia para decidir.</i>
+
+203
+00:35:30,159 --> 00:35:32,650
+Nós jamais sairemos!
+
+204
+00:35:33,362 --> 00:35:34,954
+Jamais!
+
+205
+00:35:55,217 --> 00:35:58,015
+Você ouviu o que ele disse!
+Parece razoável!
+
+206
+00:35:58,988 --> 00:36:01,286
+Não precisamos morrer!
+
+207
+00:36:01,524 --> 00:36:03,389
+Basta nós sairmos daqui!
+
+208
+00:36:03,592 --> 00:36:05,184
+Não! Trabalhamos demais!
+
+209
+00:36:05,261 --> 00:36:09,561
+É simples! Basta trocarmos o combustível
+e esse ferro-velho por nossa vida!
+
+210
+00:36:09,699 --> 00:36:12,065
+Se nós sairmos lá fora,
+seremos massacrados!
+
+211
+00:36:12,268 --> 00:36:15,601
+Eles vão nos pendurar e
+nos abrir como a porcos!
+
+212
+00:36:15,738 --> 00:36:17,262
+Não dêem ouvidos a ele!
+
+213
+00:36:17,440 --> 00:36:19,772
+Tudo bem, tudo bem!
+
+214
+00:36:19,942 --> 00:36:22,877
+Eu vou falar com esse Humungus!
+
+215
+00:36:23,679 --> 00:36:26,546
+Ele é um homem razoável...
+
+216
+00:36:26,682 --> 00:36:28,650
+...aberto a negociação.
+
+217
+00:36:29,118 --> 00:36:31,882
+Ele prometeu passagem segura!
+Ele deu sua palavra!
+
+218
+00:36:32,221 --> 00:36:34,052
+E suponhamos que ele a mantenha...
+
+219
+00:36:35,024 --> 00:36:39,461
+...e nós saiamos daqui com
+a nossa vida. E depois?
+
+220
+00:36:39,862 --> 00:36:44,663
+Andaremos pela Terra Devastada
+como eles? Selvagens?
+
+221
+00:37:48,564 --> 00:37:49,997
+Mas lembrem-se!
+
+222
+00:37:50,166 --> 00:37:53,693
+Lembrem-se de uma coisa: Isso
+é mais do que um tanque de gasolina.
+
+223
+00:37:53,869 --> 00:37:58,806
+É a possibilidade de irmos para
+um lugar longe desses parasitas.
+
+224
+00:37:58,974 --> 00:38:00,874
+Isso é a mais de 3.000 km daqui!
+
+225
+00:38:01,944 --> 00:38:04,936
+Como acha que chegaremos
+lá? Arrastando?
+
+226
+00:38:05,114 --> 00:38:08,811
+Se for preciso, sim!
+Há sempre uma saída!
+
+227
+00:38:08,951 --> 00:38:11,044
+Mas o primeiro passo:
+
+228
+00:38:11,787 --> 00:38:14,085
+Defenda o combustível.
+
+229
+00:38:14,623 --> 00:38:16,523
+Palavras.
+
+230
+00:38:16,625 --> 00:38:18,490
+Apenas palavras!
+
+231
+00:38:18,661 --> 00:38:20,458
+Você morreria por um sonho!
+
+232
+00:38:20,796 --> 00:38:22,559
+Lutamos por uma convicção! Eu fico!
+
+233
+00:38:32,341 --> 00:38:33,831
+Eu gostaria que desse certo,
+Pappagallo.
+
+234
+00:38:34,844 --> 00:38:36,971
+Não dá para competir com isso.
+
+235
+00:38:37,780 --> 00:38:40,146
+A cada dia ficamos mais fracos;
+e eles, mais fortes... Acabou!
+
+236
+00:38:41,884 --> 00:38:43,749
+Sinto muito.
+
+237
+00:38:49,592 --> 00:38:53,426
+Há dois dias, eu vi um veículo
+que arrastaria esse tanque.
+
+238
+00:38:54,830 --> 00:38:58,766
+Se quiserem sair daqui...
+falem comigo.
+
+239
+00:39:04,406 --> 00:39:06,533
+Ok, essa é minha oferta.
+
+240
+00:39:06,775 --> 00:39:08,936
+Eu entrego um caminhão que
+puxe o tanque de vocês...
+
+241
+00:39:09,044 --> 00:39:11,979
+...e vocês devolvem meu carro e
+a gasolina que eu puder carregar.
+
+242
+00:39:12,915 --> 00:39:15,281
+Nós perdemos 8 pessoas hoje.
+
+243
+00:39:17,419 --> 00:39:19,410
+O que ele tem em mente?
+
+244
+00:39:19,922 --> 00:39:22,914
+Para fazer o serviço, preciso
+de 5 galões de diesel...
+
+245
+00:39:23,092 --> 00:39:24,889
+...e gasolina com muito octano.
+
+246
+00:39:28,831 --> 00:39:30,458
+Considerem como uma entrada.
+
+247
+00:39:30,933 --> 00:39:33,595
+E nunca mais veremos
+a cara dele.
+
+248
+00:39:33,802 --> 00:39:35,997
+Ele terá de vir buscar seu carro.
+
+249
+00:39:36,205 --> 00:39:37,866
+O que temos a perder?
+
+250
+00:39:40,309 --> 00:39:41,833
+Negócio fechado.
+
+251
+00:40:06,735 --> 00:40:10,330
+Meu carro e quanta
+gasolina eu puder levar.
+
+252
+00:41:00,689 --> 00:41:02,680
+Vem, cachorro.
+
+253
+00:43:56,198 --> 00:43:59,690
+Sabe do que mais sinto falta?
+Mulheres limpas.
+
+254
+00:44:00,435 --> 00:44:03,563
+Esmalte, perfume...
+
+255
+00:44:04,072 --> 00:44:07,872
+...o cheiro de assentos
+de bicicleta, coquetéis...
+
+256
+00:44:08,377 --> 00:44:09,708
+Cale-se!
+
+257
+00:44:10,946 --> 00:44:14,712
+Lingerie. Lembra-se de lingerie?
+
+258
+00:44:25,594 --> 00:44:28,222
+Eu sabia! Sabia que funcionaria!
+
+259
+00:44:28,397 --> 00:44:32,390
+Letais! Essas cobras são letais!
+Nascidas para matar!
+
+260
+00:44:35,237 --> 00:44:38,400
+A cobra é minha! Eu treinei!
+E vou comê-la!
+
+261
+00:44:38,607 --> 00:44:41,633
+Vá achar a sua! Cai fora!
+
+262
+00:44:42,411 --> 00:44:45,869
+Conheço uma receita de cobra.
+Deliciosa.
+
+263
+00:44:46,114 --> 00:44:48,105
+Fricassê de réptil.
+
+264
+00:44:48,917 --> 00:44:51,613
+Melhor que sua ração!
+
+265
+00:44:52,120 --> 00:44:53,246
+Proteína pura...
+
+266
+00:44:53,689 --> 00:44:58,023
+...minerais, vitaminas.
+A gente precisa se cuidar.
+
+267
+00:44:58,760 --> 00:45:01,627
+Mente sã em corpo são, cachorro.
+
+268
+00:45:01,930 --> 00:45:04,490
+Você é o que come, imagino.
+
+269
+00:45:04,666 --> 00:45:05,758
+Cai fora!
+
+270
+00:45:06,134 --> 00:45:09,001
+Vocês dois precisam se olhar
+no espelho às vezes.
+
+271
+00:45:09,171 --> 00:45:11,162
+Não têm estilo nem gosto.
+
+272
+00:45:13,275 --> 00:45:14,708
+Vazio!
+
+273
+00:45:15,277 --> 00:45:17,245
+O tempo todo!
+
+274
+00:45:21,283 --> 00:45:24,684
+Isso é desonesto... baixo!
+
+275
+00:45:27,656 --> 00:45:29,920
+Vamos dar uma olhada
+nessa sua máquina.
+
+276
+00:45:30,959 --> 00:45:33,291
+Como sei se essa aí funciona?
+
+277
+00:45:34,229 --> 00:45:35,662
+Descubra.
+
+278
+00:45:38,367 --> 00:45:41,894
+Você precisa entender os princípios
+básicos da aerodinâmica aqui.
+
+279
+00:45:42,070 --> 00:45:43,799
+Cale a boca!
+
+280
+00:46:29,517 --> 00:46:32,577
+E eu? Você não vai
+me deixar aqui, vai?
+
+281
+00:46:36,257 --> 00:46:38,054
+Faça o que quiser.
+
+282
+00:46:39,994 --> 00:46:42,292
+Somos parceiros!
+
+283
+00:46:50,171 --> 00:46:53,470
+Você e eu... somos parceiros!
+
+284
+00:46:54,375 --> 00:46:56,138
+Parceiros!
+
+285
+00:48:04,211 --> 00:48:05,542
+Vamos!
+
+286
+00:51:35,789 --> 00:51:38,952
+Meu cães, corram! O portão!
+
+287
+00:51:43,097 --> 00:51:45,998
+O portão! O portão!
+
+288
+00:53:07,681 --> 00:53:09,672
+Você! Você pode correr...
+
+289
+00:53:09,850 --> 00:53:12,011
+...mas não pode se esconder!
+
+290
+00:53:37,544 --> 00:53:39,535
+Você fez muito bem!
+
+291
+00:53:43,917 --> 00:53:46,215
+Não precisam exagerar.
+
+292
+00:53:46,887 --> 00:53:50,550
+Não toquem, por favor.
+É um instrumento de precisão.
+
+293
+00:54:02,236 --> 00:54:03,999
+Não toque!
+
+294
+00:54:14,081 --> 00:54:17,573
+Diga-me, filho... essa sua máquina...
+
+295
+00:54:17,918 --> 00:54:20,580
+...ela pode levar dois, não?
+
+296
+00:54:22,089 --> 00:54:23,750
+É possível.
+
+297
+00:54:29,296 --> 00:54:32,788
+Estou bem. Organize todos,
+vamos sair hoje à noite.
+
+298
+00:54:36,804 --> 00:54:40,296
+Prestem atenção, todos!
+Vamos sair hoje à noite!
+
+299
+00:54:40,474 --> 00:54:42,840
+Vocês sabem o que fazer,
+apressem-se.
+
+300
+00:54:43,010 --> 00:54:45,979
+Timbo, Derek...
+Pappagallo foi ferido.
+
+301
+00:54:47,147 --> 00:54:48,910
+Como está o caminhão?
+
+302
+00:54:49,550 --> 00:54:51,609
+O caminhão... como está?
+
+303
+00:54:51,819 --> 00:54:53,252
+Rachou a tampa do distribuidor
+e quebrou...
+
+304
+00:54:53,320 --> 00:54:54,981
+...alguns dentes da
+engrenagem do distribuidor.
+
+305
+00:54:55,189 --> 00:54:58,249
+Rachou a tampa do distribuidor
+e quebrou...
+
+306
+00:54:58,325 --> 00:54:59,656
+...alguns dentes da engrenagem.
+
+307
+00:55:01,195 --> 00:55:03,322
+O radiador foi danificado.
+
+308
+00:55:04,331 --> 00:55:06,322
+Rachou a bomba-d'água.
+
+309
+00:55:07,167 --> 00:55:09,499
+E rompeu o cabo do injetor.
+
+310
+00:55:09,670 --> 00:55:10,967
+E o que isso significa?
+
+311
+00:55:11,138 --> 00:55:13,197
+Ok, mas o que isso significa?
+
+312
+00:55:13,974 --> 00:55:15,999
+- O que isso significa?
+- 24 horas.
+
+313
+00:55:18,445 --> 00:55:19,935
+Eles têm 12!
+
+314
+00:55:20,848 --> 00:55:22,179
+Vocês têm 12!
+
+315
+00:55:31,859 --> 00:55:34,384
+Escuta, eu me enganei com você...
+
+316
+00:55:34,862 --> 00:55:36,830
+...me desculpe.
+
+317
+00:55:53,547 --> 00:55:56,277
+Há muito tempo, não vejo ninguém
+dirigindo assim, cara!
+
+318
+00:55:56,550 --> 00:55:58,541
+Você está ok comigo, filho.
+
+319
+00:55:58,719 --> 00:56:02,211
+Com você dirigindo o carro-tanque, será
+moleza! É bom tê-lo a bordo, filho.
+
+320
+00:56:02,389 --> 00:56:04,857
+Eu guardo há muito tempo.
+Fique com elas.
+
+321
+00:56:09,062 --> 00:56:11,053
+Obrigada e bem-vindo.
+
+322
+00:56:14,234 --> 00:56:17,726
+Foi um prazer tratar com vocês,
+mas estou indo embora.
+
+323
+00:56:26,113 --> 00:56:27,876
+Meu Deus, vejam!
+
+324
+00:56:28,048 --> 00:56:30,414
+Lá na montanha!
+
+325
+00:56:30,584 --> 00:56:33,917
+Eles vão rasgá-los,
+os miseráveis!
+
+326
+00:56:34,788 --> 00:56:36,119
+Vejam!
+
+327
+00:56:42,262 --> 00:56:46,562
+Vocês me desafiaram! Vocês conhecerão...
+
+328
+00:56:46,733 --> 00:56:50,100
+...a vingança do
+Sr. Humungus!
+
+329
+00:56:50,604 --> 00:56:52,765
+Eu prometo a vocês...
+
+330
+00:56:53,340 --> 00:56:56,537
+...que ninguém... ninguém...
+
+331
+00:56:56,777 --> 00:57:00,110
+...sairá daqui vivo!
+
+332
+00:57:50,163 --> 00:57:54,497
+Quem ficou de me ajudar
+com os tambores? Vamos!
+
+333
+00:58:03,410 --> 00:58:06,345
+Tragam os tambores, vamos!
+
+334
+00:58:46,386 --> 00:58:49,549
+Qual é o problema? Vamos.
+
+335
+00:58:49,723 --> 00:58:53,887
+Não parece certo
+sair de fininho assim.
+
+336
+00:58:57,064 --> 00:59:00,397
+Mas você disse que queria
+vir, querida.
+
+337
+00:59:01,068 --> 00:59:02,729
+Eu sei que disse.
+
+338
+00:59:03,870 --> 00:59:07,237
+É que você está com medo.
+É muito mais seguro lá em cima.
+
+339
+00:59:07,807 --> 00:59:10,139
+O que estamos esperando?
+
+340
+00:59:11,978 --> 00:59:14,640
+Esta é a minha família...
+
+341
+00:59:15,148 --> 00:59:17,810
+...não vou abandonar essas pessoas.
+
+342
+00:59:19,118 --> 00:59:21,143
+Eu vou ficar.
+
+343
+00:59:22,322 --> 00:59:24,153
+Desculpe.
+
+344
+00:59:51,150 --> 00:59:53,675
+Vem, eu te mostro!
+
+345
+00:59:54,254 --> 00:59:57,018
+Eu falei. Ele vai embora.
+
+346
+01:00:00,260 --> 01:00:04,390
+Escuta, não tenho tempo para discursos.
+Quero que você dirija o carro-tanque.
+
+347
+01:00:06,366 --> 01:00:07,856
+Sinto muito.
+
+348
+01:00:08,868 --> 01:00:12,360
+Fizemos um trato.
+Eu cumpri a minha parte.
+
+349
+01:00:12,872 --> 01:00:14,863
+Vamos fazer outro trato.
+
+350
+01:00:18,878 --> 01:00:21,176
+Tenho tudo que preciso aqui.
+
+351
+01:00:21,347 --> 01:00:25,374
+Mas não tem futuro. Isso eu posso
+te oferecer. Reconstruir nossa vida.
+
+352
+01:00:26,786 --> 01:00:28,879
+Compre uma passagem para 3.000 km.
+
+353
+01:00:29,222 --> 01:00:33,716
+Você precisa vir, filho.
+É para lá que vamos. O paraíso!
+
+354
+01:00:34,460 --> 01:00:36,553
+A 3.000 km daqui.
+
+355
+01:00:36,729 --> 01:00:39,425
+Água fresca, muito sol...
+
+356
+01:00:39,599 --> 01:00:41,726
+...nada a fazer senão procriar.
+
+357
+01:00:43,236 --> 01:00:44,567
+Não, obrigado.
+
+358
+01:00:45,405 --> 01:00:48,397
+Qual é o seu problema?
+O que está procurando?
+
+359
+01:00:49,075 --> 01:00:51,908
+Qual é, Max! Todo mundo
+procura alguma coisa.
+
+360
+01:00:52,412 --> 01:00:54,744
+Você é feliz aí fora?
+
+361
+01:00:54,914 --> 01:00:58,247
+Vagando por aí... um dia
+se arrastando após o outro?
+
+362
+01:00:58,585 --> 01:01:01,748
+Você é um abutre, Max.
+Você é um parasita.
+
+363
+01:01:02,088 --> 01:01:06,081
+Sabia? Você está se alimentando
+do cadáver do velho mundo.
+
+364
+01:01:06,993 --> 01:01:10,759
+Conte-me a sua história, Max.
+O que te deixou assim?
+
+365
+01:01:10,997 --> 01:01:14,592
+Matou gente demais? Viu muita
+gente morrer? Perdeu familiares?
+
+366
+01:01:14,934 --> 01:01:19,268
+Então é isso! Só porque perdeu
+alguém, você se acha especial?
+
+367
+01:01:19,706 --> 01:01:21,503
+Escuta aqui...
+
+368
+01:01:43,463 --> 01:01:45,829
+Você acha que é a única
+pessoa que sofre?
+
+369
+01:01:46,633 --> 01:01:50,797
+Todos nós passamos por isso
+aqui, mas não desistimos.
+
+370
+01:01:51,771 --> 01:01:54,797
+Ainda somos seres humanos
+com dignidade.
+
+371
+01:01:54,974 --> 01:01:58,933
+Mas você, você está
+lá fora com o lixo.
+
+372
+01:01:59,145 --> 01:02:01,136
+Você não é nada!
+
+373
+01:02:42,355 --> 01:02:44,323
+Sai, garoto!
+
+374
+01:02:46,893 --> 01:02:49,020
+Vai, sai daqui.
+
+375
+01:03:10,316 --> 01:03:12,944
+Vai, sai! Cai fora!
+
+376
+01:03:44,417 --> 01:03:47,250
+Vai deixá-lo ir embora?
+
+377
+01:03:48,254 --> 01:03:51,087
+Vamos ficar com o carro dele.
+
+378
+01:03:51,257 --> 01:03:55,250
+Ele cumpriu com a palavra.
+É um homem honrado.
+
+379
+01:03:56,429 --> 01:03:59,262
+Ok, mas quem vai dirigir o carro-tanque?
+
+380
+01:04:00,433 --> 01:04:02,094
+Eu vou.
+
+381
+01:04:28,561 --> 01:04:30,995
+Eles não te entendem,
+você não é covarde.
+
+382
+01:04:31,164 --> 01:04:34,156
+Burro, talvez, mas não covarde.
+
+383
+01:04:34,700 --> 01:04:37,362
+Você está cometendo um grande erro...
+
+384
+01:04:37,970 --> 01:04:40,996
+...destruindo uma grande equipe.
+
+385
+01:04:41,340 --> 01:04:44,002
+Você e eu juntos, pense
+nas possibilidades.
+
+386
+01:04:44,177 --> 01:04:47,169
+A gente se vê, talvez.
+Adeus, e boa sorte.
+
+387
+01:05:14,874 --> 01:05:15,863
+Vamos!
+
+388
+01:05:26,385 --> 01:05:29,786
+Você me desobedeceu! Seu peralta!
+
+389
+01:06:32,018 --> 01:06:35,351
+Toadie, a gasolina! Rápido!
+
+390
+01:06:42,962 --> 01:06:46,125
+Não o mate! Se estiver vivo...
+
+391
+01:06:46,632 --> 01:06:48,293
+...ele é meu!
+
+392
+01:07:14,293 --> 01:07:18,491
+Os tanques estão cheios, grande
+Wez, e são todos seus!
+
+393
+01:08:13,552 --> 01:08:17,215
+Acabou. Vamos!
+
+394
+01:08:29,568 --> 01:08:32,230
+Vejam! Ali.
+
+395
+01:08:40,413 --> 01:08:42,404
+Ah, inferno!
+
+396
+01:08:44,216 --> 01:08:46,548
+Viu? Seu tolo!
+
+397
+01:10:03,295 --> 01:10:06,628
+Calma, parceiro!
+
+398
+01:11:42,161 --> 01:11:44,220
+Eu vou dirigir o carro-tanque.
+
+399
+01:11:45,064 --> 01:11:49,057
+Agora a gente vai... ou racha.
+
+400
+01:11:49,868 --> 01:11:53,565
+Neste ponto, é tudo que
+eles querem: O carro-tanque.
+
+401
+01:11:53,739 --> 01:11:55,900
+Então virão direto pra cima de nós.
+
+402
+01:11:56,075 --> 01:11:58,908
+Então, com isso, a gente
+consegue passar...
+
+403
+01:11:59,178 --> 01:12:02,409
+...o que dará a vocês
+uma chance muito, muito boa.
+
+404
+01:12:02,581 --> 01:12:04,173
+Não hesitem!
+
+405
+01:12:04,350 --> 01:12:09,083
+Uma vez lá fora, dispersem-se
+e acelerem o máximo que puderem.
+
+406
+01:12:09,555 --> 01:12:12,080
+A 300 km ao norte...
+
+407
+01:12:12,258 --> 01:12:16,854
+...há um local com uma ponte
+chamado Powder River.
+
+408
+01:12:17,029 --> 01:12:19,088
+Nos encontraremos lá.
+
+409
+01:12:20,432 --> 01:12:22,525
+Até o pôr-do-sol.
+
+410
+01:12:23,202 --> 01:12:27,366
+Se não chegarmos até lá...
+continuem.
+
+411
+01:12:27,773 --> 01:12:29,604
+Eu posso construir,
+mas não posso dirigir?
+
+412
+01:12:29,775 --> 01:12:31,265
+Você não irá no carro-tanque!
+
+413
+01:12:31,443 --> 01:12:33,206
+Eu suei para consertá-lo,
+e ninguém vai me dizer...
+
+414
+01:12:33,279 --> 01:12:37,215
+...que vou num ônibus escolar!
+- Ok, acalmem-se!
+
+415
+01:12:37,383 --> 01:12:38,873
+Se está tudo bem com vocês...
+
+416
+01:12:41,320 --> 01:12:42,810
+...eu dirijo o carro-tanque.
+
+417
+01:12:44,723 --> 01:12:48,591
+A oferta já era.
+Tarde demais para tratos.
+
+418
+01:12:49,061 --> 01:12:52,292
+Nada de tratos. Quero dirigir.
+
+419
+01:12:52,464 --> 01:12:55,228
+Por quê? Por que a mudança?
+
+420
+01:12:55,401 --> 01:12:57,062
+Acredite-me, não tenho escolha.
+
+421
+01:12:57,403 --> 01:12:59,735
+E como acha que fará isso?
+
+422
+01:12:59,905 --> 01:13:03,898
+Olhe para você. Não conseguiria
+nem dirigir uma cadeira de rodas!
+
+423
+01:13:04,910 --> 01:13:07,902
+Deveria se olhar no espelho, Max.
+Está um trapo.
+
+424
+01:13:09,148 --> 01:13:11,810
+Qual é, sem esse papo!
+
+425
+01:13:13,018 --> 01:13:15,418
+Eu sou sua melhor escolha.
+
+426
+01:13:23,495 --> 01:13:25,725
+Certo, vamos andando!
+
+427
+01:14:37,102 --> 01:14:39,900
+Tirem esse menino! Tirem-no daqui!
+
+428
+01:15:55,914 --> 01:15:57,677
+Droga!
+
+429
+01:19:12,177 --> 01:19:14,873
+Vamos! Vamos! Vamos!
+
+430
+01:20:26,685 --> 01:20:28,550
+Eu estou bem! Eu estou bem!
+
+431
+01:20:35,060 --> 01:20:37,358
+Peguei! Peguei!
+
+432
+01:21:08,660 --> 01:21:11,925
+Vai! Vai! Vai!
+
+433
+01:23:06,945 --> 01:23:10,005
+O pneu! Atire no pneu!
+
+434
+01:25:44,335 --> 01:25:46,997
+Garoto! Venha, pule!
+
+435
+01:25:51,609 --> 01:25:53,099
+Nós vencemos!
+
+436
+01:25:53,278 --> 01:25:55,246
+Já acabou, garoto!
+
+437
+01:27:45,623 --> 01:27:46,885
+Pegue a bala!
+
+438
+01:27:53,965 --> 01:27:55,523
+Pegue o cartucho!
+
+439
+01:31:32,483 --> 01:31:35,919
+<i>E assim começou a viagem
+ao Norte... à segurança...</i>
+
+440
+01:31:36,421 --> 01:31:38,082
+<i>... ao nosso lugar ao sol.</i>
+
+441
+01:31:38,423 --> 01:31:42,587
+<i>Entre nós, encontramos um novo
+líder: O homem que veio do céu...</i>
+
+442
+01:31:42,760 --> 01:31:44,751
+<i>... o capitão Gyro.</i>
+
+443
+01:31:45,029 --> 01:31:47,429
+<i>E, assim como Pappagallo
+havia planejado...</i>
+
+444
+01:31:47,598 --> 01:31:51,591
+<i>... nós viajamos para longe
+dos homens motorizados.</i>
+
+445
+01:31:51,769 --> 01:31:56,103
+<i>O combustível precioso estava
+escondido nos veículos.</i>
+
+446
+01:31:57,275 --> 01:32:00,108
+<i>Quanto a mim,
+tornei-me um homem...</i>
+
+447
+01:32:00,278 --> 01:32:03,441
+<i>... e, quando chegou meu tempo,
+tornei-me o líder...</i>
+
+448
+01:32:03,614 --> 01:32:06,276
+<i>... o chefe da Grande
+Tribo do Norte.</i>
+
+449
+01:32:07,885 --> 01:32:10,115
+<i>E o Guerreiro das Estradas?</i>
+
+450
+01:32:10,588 --> 01:32:13,921
+<i>Essa foi a última vez
+que eu o vi.</i>
+
+451
+01:32:14,125 --> 01:32:18,118
+<i>Ele permanece...
+apenas em minhas lembranças.</i>
+

@@ -1,0 +1,5907 @@
+1
+00:00:09,300 --> 00:00:16,700
+LEGENDA, TRADUÇÃO E SINCRONIA:
+Doris_The_Man
+
+2
+00:01:26,000 --> 00:01:32,000
+PASSAGEIROS
+
+3
+00:01:33,300 --> 00:01:33,300
+NA
+
+4
+00:01:33,300 --> 00:01:33,300
+NAV
+
+5
+00:01:33,300 --> 00:01:33,400
+NAVE
+
+6
+00:01:33,400 --> 00:01:33,400
+NAVE I
+
+7
+00:01:33,400 --> 00:01:33,500
+NAVE IN
+
+8
+00:01:33,500 --> 00:01:33,500
+NAVE INT
+
+9
+00:01:33,500 --> 00:01:33,500
+NAVE INTE
+
+10
+00:01:33,500 --> 00:01:33,600
+NAVE INTER
+
+11
+00:01:33,600 --> 00:01:33,600
+NAVE INTERE
+
+12
+00:01:33,600 --> 00:01:33,700
+NAVE INTERES
+
+13
+00:01:33,700 --> 00:01:33,700
+NAVE INTEREST
+
+14
+00:01:33,700 --> 00:01:33,700
+NAVE INTERESTE
+
+15
+00:01:33,700 --> 00:01:33,800
+NAVE INTERESTEL
+
+16
+00:01:33,800 --> 00:01:33,800
+NAVE INTERESTELA
+
+17
+00:01:33,800 --> 00:01:34,100
+NAVE INTERESTELAR
+
+18
+00:01:34,100 --> 00:01:34,100
+NAVE INTERESTELAR A
+
+19
+00:01:34,100 --> 00:01:34,200
+NAVE INTERESTELAR AV
+
+20
+00:01:34,200 --> 00:01:34,400
+NAVE INTERESTELAR AVA
+
+21
+00:01:34,400 --> 00:01:34,600
+NAVE INTERESTELAR AVAL
+
+22
+00:01:34,600 --> 00:01:34,800
+NAVE INTERESTELAR AVALO
+
+23
+00:01:34,800 --> 00:01:34,900
+NAVE INTERESTELAR AVALON
+
+24
+00:01:34,900 --> 00:01:36,500
+NAVE INTERESTELAR AVALON
+
+25
+00:01:37,600 --> 00:01:37,700
+D
+
+26
+00:01:37,700 --> 00:01:37,700
+DE
+
+27
+00:01:37,700 --> 00:01:37,800
+DES
+
+28
+00:01:37,800 --> 00:01:37,900
+DEST
+
+29
+00:01:37,900 --> 00:01:37,900
+DESTI
+
+30
+00:01:37,900 --> 00:01:38,000
+DESTIN
+
+31
+00:01:38,000 --> 00:01:38,100
+DESTINO
+
+32
+00:01:38,100 --> 00:01:38,800
+DESTINO
+
+33
+00:01:38,900 --> 00:01:39,000
+DESTINO
+O
+
+34
+00:01:39,000 --> 00:01:39,000
+DESTINO
+O M
+
+35
+00:01:39,000 --> 00:01:39,100
+DESTINO
+O MU
+
+36
+00:01:39,100 --> 00:01:39,200
+DESTINO
+O MUN
+
+37
+00:01:39,200 --> 00:01:39,200
+DESTINO
+O MUND
+
+38
+00:01:39,200 --> 00:01:39,300
+DESTINO
+O MUNDO
+
+39
+00:01:39,300 --> 00:01:39,400
+DESTINO
+O MUNDO C
+
+40
+00:01:39,400 --> 00:01:39,400
+DESTINO
+O MUNDO CO
+
+41
+00:01:39,400 --> 00:01:39,500
+DESTINO
+O MUNDO COL
+
+42
+00:01:39,500 --> 00:01:39,600
+DESTINO
+O MUNDO COLÔ
+
+43
+00:01:39,600 --> 00:01:39,600
+DESTINO
+O MUNDO COLÔN
+
+44
+00:01:39,600 --> 00:01:39,700
+DESTINO
+O MUNDO COLÔNI
+
+45
+00:01:39,700 --> 00:01:39,800
+DESTINO
+O MUNDO COLÔNIA
+
+46
+00:01:39,800 --> 00:01:39,800
+DESTINO
+O MUNDO COLÔNIA H
+
+47
+00:01:39,800 --> 00:01:39,900
+DESTINO
+O MUNDO COLÔNIA HO
+
+48
+00:01:39,900 --> 00:01:40,000
+DESTINO
+O MUNDO COLÔNIA HOM
+
+49
+00:01:40,000 --> 00:01:40,000
+DESTINO
+O MUNDO COLÔNIA HOME
+
+50
+00:01:40,000 --> 00:01:40,100
+DESTINO
+O MUNDO COLÔNIA HOMES
+
+51
+00:01:40,100 --> 00:01:40,200
+DESTINO
+O MUNDO COLÔNIA HOMEST
+
+52
+00:01:40,200 --> 00:01:40,200
+DESTINO
+O MUNDO COLÔNIA HOMESTE
+
+53
+00:01:40,200 --> 00:01:40,300
+DESTINO
+O MUNDO COLÔNIA HOMESTEA
+
+54
+00:01:40,300 --> 00:01:40,400
+DESTINO
+O MUNDO COLÔNIA HOMESTEAD
+
+55
+00:01:40,400 --> 00:01:40,400
+DESTINO
+O MUNDO COLÔNIA HOMESTEAD I
+
+56
+00:01:40,400 --> 00:01:40,800
+DESTINO
+O MUNDO COLÔNIA HOMESTEAD II
+
+57
+00:01:40,800 --> 00:01:42,800
+DESTINO
+O MUNDO COLÔNIA HOMESTEAD II
+
+58
+00:01:57,000 --> 00:01:57,100
+E
+
+59
+00:01:57,100 --> 00:01:57,200
+ES
+
+60
+00:01:57,200 --> 00:01:57,300
+EST
+
+61
+00:01:57,300 --> 00:01:57,400
+ESTA
+
+62
+00:01:57,400 --> 00:01:57,500
+ESTAD
+
+63
+00:01:57,500 --> 00:01:57,600
+ESTADO
+
+64
+00:01:57,600 --> 00:01:57,700
+ESTADO:
+
+65
+00:01:57,700 --> 00:01:58,100
+ESTADO:
+
+66
+00:01:58,100 --> 00:01:58,100
+ESTADO: P
+
+67
+00:01:58,100 --> 00:01:58,200
+ESTADO: PI
+
+68
+00:01:58,200 --> 00:01:58,200
+ESTADO: PIL
+
+69
+00:01:58,200 --> 00:01:58,300
+ESTADO: PILO
+
+70
+00:01:58,300 --> 00:01:58,300
+ESTADO: PILOT
+
+71
+00:01:58,300 --> 00:01:58,300
+ESTADO: PILOTO
+
+72
+00:01:58,300 --> 00:01:58,400
+ESTADO: PILOTO A
+
+73
+00:01:58,400 --> 00:01:58,400
+ESTADO: PILOTO AU
+
+74
+00:01:58,400 --> 00:01:58,500
+ESTADO: PILOTO AUT
+
+75
+00:01:58,500 --> 00:01:58,500
+ESTADO: PILOTO AUTO
+
+76
+00:01:58,500 --> 00:01:58,500
+ESTADO: PILOTO AUTOM
+
+77
+00:01:58,500 --> 00:01:58,600
+ESTADO: PILOTO AUTOMÁ
+
+78
+00:01:58,600 --> 00:01:58,600
+ESTADO: PILOTO AUTOMÁT
+
+79
+00:01:58,600 --> 00:01:58,600
+ESTADO: PILOTO AUTOMÁTI
+
+80
+00:01:58,600 --> 00:01:58,700
+ESTADO: PILOTO AUTOMÁTIC
+
+81
+00:01:58,700 --> 00:01:58,800
+ESTADO: PILOTO AUTOMÁTICO
+
+82
+00:01:58,800 --> 00:02:00,600
+ESTADO: PILOTO AUTOMÁTICO
+
+83
+00:02:01,200 --> 00:02:01,200
+S
+
+84
+00:02:01,200 --> 00:02:01,300
+SA
+
+85
+00:02:01,300 --> 00:02:01,300
+SAL
+
+86
+00:02:01,300 --> 00:02:01,400
+SALA
+
+87
+00:02:01,400 --> 00:02:01,400
+SALA D
+
+88
+00:02:01,400 --> 00:02:01,500
+SALA DE
+
+89
+00:02:01,500 --> 00:02:01,500
+SALA DE C
+
+90
+00:02:01,500 --> 00:02:01,600
+SALA DE CO
+
+91
+00:02:01,600 --> 00:02:01,700
+SALA DE COM
+
+92
+00:02:01,700 --> 00:02:01,700
+SALA DE COMA
+
+93
+00:02:01,700 --> 00:02:01,800
+SALA DE COMAN
+
+94
+00:02:01,800 --> 00:02:01,800
+SALA DE COMAND
+
+95
+00:02:01,800 --> 00:02:01,900
+SALA DE COMANDO
+
+96
+00:02:01,900 --> 00:02:01,900
+SALA DE COMANDO
+H
+
+97
+00:02:01,900 --> 00:02:02,000
+SALA DE COMANDO
+HI
+
+98
+00:02:02,000 --> 00:02:02,000
+SALA DE COMANDO
+HIB
+
+99
+00:02:02,000 --> 00:02:02,100
+SALA DE COMANDO
+HIBE
+
+100
+00:02:02,100 --> 00:02:02,200
+SALA DE COMANDO
+HIBER
+
+101
+00:02:02,200 --> 00:02:02,200
+SALA DE COMANDO
+HIBERN
+
+102
+00:02:02,200 --> 00:02:02,300
+SALA DE COMANDO
+HIBERNA
+
+103
+00:02:02,300 --> 00:02:02,300
+SALA DE COMANDO
+HIBERNAÇ
+
+104
+00:02:02,300 --> 00:02:02,400
+SALA DE COMANDO
+HIBERNAÇÃ
+
+105
+00:02:02,400 --> 00:02:02,400
+SALA DE COMANDO
+HIBERNAÇÃO
+
+106
+00:02:02,400 --> 00:02:02,500
+SALA DE COMANDO
+HIBERNAÇÃO D
+
+107
+00:02:02,500 --> 00:02:02,600
+SALA DE COMANDO
+HIBERNAÇÃO DA
+
+108
+00:02:02,600 --> 00:02:02,600
+SALA DE COMANDO
+HIBERNAÇÃO DA T
+
+109
+00:02:02,600 --> 00:02:02,700
+SALA DE COMANDO
+HIBERNAÇÃO DA TR
+
+110
+00:02:02,700 --> 00:02:02,700
+SALA DE COMANDO
+HIBERNAÇÃO DA TRI
+
+111
+00:02:02,700 --> 00:02:02,800
+SALA DE COMANDO
+HIBERNAÇÃO DA TRIP
+
+112
+00:02:02,800 --> 00:02:02,800
+SALA DE COMANDO
+HIBERNAÇÃO DA TRIPU
+
+113
+00:02:02,800 --> 00:02:02,900
+SALA DE COMANDO
+HIBERNAÇÃO DA TRIPUL
+
+114
+00:02:02,900 --> 00:02:02,900
+SALA DE COMANDO
+HIBERNAÇÃO DA TRIPULA
+
+115
+00:02:02,900 --> 00:02:03,000
+SALA DE COMANDO
+HIBERNAÇÃO DA TRIPULAÇ
+
+116
+00:02:03,000 --> 00:02:03,100
+SALA DE COMANDO
+HIBERNAÇÃO DA TRIPULAÇÃ
+
+117
+00:02:03,100 --> 00:02:03,500
+SALA DE COMANDO
+HIBERNAÇÃO DA TRIPULAÇÃO
+
+118
+00:02:03,500 --> 00:02:05,700
+SALA DE COMANDO
+HIBERNAÇÃO DA TRIPULAÇÃO
+
+119
+00:02:06,300 --> 00:02:06,400
+T
+
+120
+00:02:06,400 --> 00:02:06,400
+TR
+
+121
+00:02:06,400 --> 00:02:06,500
+TRI
+
+122
+00:02:06,500 --> 00:02:06,500
+TRIP
+
+123
+00:02:06,500 --> 00:02:06,600
+TRIPU
+
+124
+00:02:06,600 --> 00:02:06,600
+TRIPUL
+
+125
+00:02:06,600 --> 00:02:06,700
+TRIPULA
+
+126
+00:02:06,700 --> 00:02:06,700
+TRIPULAÇ
+
+127
+00:02:06,700 --> 00:02:06,800
+TRIPULAÇÃ
+
+128
+00:02:06,800 --> 00:02:06,800
+TRIPULAÇÃO
+
+129
+00:02:06,800 --> 00:02:06,900
+TRIPULAÇÃO:
+
+130
+00:02:06,900 --> 00:02:07,200
+TRIPULAÇÃO:
+
+131
+00:02:07,200 --> 00:02:07,400
+TRIPULAÇÃO: 2
+
+132
+00:02:07,400 --> 00:02:07,500
+TRIPULAÇÃO: 25
+
+133
+00:02:07,500 --> 00:02:07,700
+TRIPULAÇÃO: 258
+
+134
+00:02:07,700 --> 00:02:10,100
+TRIPULAÇÃO: 258
+
+135
+00:02:10,800 --> 00:02:10,900
+P
+
+136
+00:02:10,900 --> 00:02:11,000
+PA
+
+137
+00:02:11,000 --> 00:02:11,100
+PAS
+
+138
+00:02:11,100 --> 00:02:11,200
+PASS
+
+139
+00:02:11,200 --> 00:02:11,300
+PASSA
+
+140
+00:02:11,300 --> 00:02:11,300
+PASSAG
+
+141
+00:02:11,300 --> 00:02:11,400
+PASSAGE
+
+142
+00:02:11,400 --> 00:02:11,500
+PASSAGEI
+
+143
+00:02:11,500 --> 00:02:11,600
+PASSAGEIR
+
+144
+00:02:11,600 --> 00:02:11,700
+PASSAGEIRO
+
+145
+00:02:11,700 --> 00:02:11,700
+PASSAGEIROS
+
+146
+00:02:11,700 --> 00:02:11,800
+PASSAGEIROS:
+
+147
+00:02:11,800 --> 00:02:12,900
+PASSAGEIROS:
+
+148
+00:02:12,900 --> 00:02:13,100
+PASSAGEIROS: 5
+
+149
+00:02:13,100 --> 00:02:13,200
+PASSAGEIROS: 5.0
+
+150
+00:02:13,200 --> 00:02:13,400
+PASSAGEIROS: 5.00
+
+151
+00:02:13,400 --> 00:02:13,500
+PASSAGEIROS: 5.000
+
+152
+00:02:13,500 --> 00:02:16,300
+PASSAGEIROS: 5.000
+
+153
+00:02:40,500 --> 00:02:42,200
+DESVIANDO ENERGIA
+PARA ESCUDO PRINCIPAL
+
+154
+00:03:04,600 --> 00:03:06,000
+ALERTA DE COLISÃO
+
+155
+00:03:23,900 --> 00:03:25,500
+REPARANDO
+
+156
+00:03:25,500 --> 00:03:27,700
+REATOR DE FUSÃO
+
+157
+00:04:01,500 --> 00:04:02,900
+JAMES PRESTON
+ENGENHEIRO MECÂNICO
+
+158
+00:04:23,300 --> 00:04:24,600
+PASSAGEIRO LIBERADO
+
+159
+00:04:25,700 --> 00:04:29,300
+<i>Bom dia, James.
+Como se sente?</i>
+
+160
+00:04:29,300 --> 00:04:30,900
+Espera... O quê?
+
+161
+00:04:30,900 --> 00:04:33,300
+<i>É perfeitamente normal
+se sentir confuso.</i>
+
+162
+00:04:33,300 --> 00:04:37,000
+<i>Acabou de passar
+120 anos em animação suspensa.</i>
+
+163
+00:04:37,700 --> 00:04:39,000
+O quê...?
+
+164
+00:04:39,000 --> 00:04:40,700
+<i>Está tudo bem, James.</i>
+
+165
+00:04:40,700 --> 00:04:42,200
+Me chamo Jim.
+
+166
+00:04:42,200 --> 00:04:43,500
+<i>Jim.</i>
+
+167
+00:04:43,600 --> 00:04:47,200
+<i>Respire.
+Está tudo bem.</i>
+
+168
+00:04:47,200 --> 00:04:48,300
+Onde estou?
+
+169
+00:04:48,300 --> 00:04:50,500
+<i>É uma passageiro
+da nave interestelar Avalon.</i>
+
+170
+00:04:50,500 --> 00:04:54,100
+<i>A melhor nave interestelar
+da companhia Homestead.</i>
+
+171
+00:04:54,100 --> 00:04:55,400
+SINAIS VITAIS
+
+172
+00:04:55,400 --> 00:04:57,100
+<i>Estamos quase
+completando a viagem</i>
+
+173
+00:04:57,100 --> 00:04:59,100
+<i>da Terra ao seu novo lar.</i>
+
+174
+00:04:59,200 --> 00:05:01,600
+<i>O mundo colônia Homestead II.</i>
+
+175
+00:05:02,300 --> 00:05:05,200
+<i>Um novo mundo,
+um novo começo.</i>
+
+176
+00:05:05,200 --> 00:05:06,900
+<i>Com espaço para crescermos.</i>
+
+177
+00:05:06,900 --> 00:05:08,500
+Ah, sim...
+
+178
+00:05:08,500 --> 00:05:10,700
+<i>A Avalon já está
+se aproximando.</i>
+
+179
+00:05:10,700 --> 00:05:14,900
+<i>Nos 4 meses, aproveitará
+uma viagem espacial de luxo.</i>
+
+180
+00:05:14,900 --> 00:05:17,900
+<i>Comida, diversão e amigos.</i>
+
+181
+00:05:17,900 --> 00:05:20,400
+- Diversão e amigos...
+- <i>Isso mesmo, James.</i>
+
+182
+00:05:20,400 --> 00:05:22,700
+<i>Sua pulseira de identificação
+é sua chave</i>
+
+183
+00:05:22,700 --> 00:05:24,500
+<i>para as maravilhas
+da Avalon.</i>
+
+184
+00:05:26,000 --> 00:05:28,200
+<i>Sua saúde está
+perfeita, James.</i>
+
+185
+00:05:28,200 --> 00:05:31,200
+<i>O levarei à sua cabine
+onde poderá descansar.</i>
+
+186
+00:05:38,400 --> 00:05:42,200
+<i>Poderá experienciar
+enjoos pós-hibernatórios.</i>
+
+187
+00:05:43,500 --> 00:05:46,300
+<i>Sua porta se iluminará
+para você.</i>
+
+188
+00:05:49,400 --> 00:05:53,100
+<i>Bem-vindo à sua cabine.
+Seu lar até aterrissarmos.</i>
+
+189
+00:05:53,100 --> 00:05:54,500
+<i>Pelos próximos 4 meses,</i>
+
+190
+00:05:54,500 --> 00:05:57,500
+<i>se preparará para sua nova vida
+em Homestead II.</i>
+
+191
+00:05:57,500 --> 00:06:00,900
+<i>Conhecerá colegas passageiros,
+aprenderá habilidades com aulas</i>
+
+192
+00:06:00,900 --> 00:06:02,800
+<i>e aprenderá
+sobre viver em colônia.</i>
+
+193
+00:06:03,100 --> 00:06:05,600
+<i>Você foi atribuído à turma 38,</i>
+
+194
+00:06:05,600 --> 00:06:09,100
+<i>para passageiros com habilidades
+técnicas e de engenharia.</i>
+
+195
+00:06:09,100 --> 00:06:12,000
+<i>Favor escanear sua pulseira
+para confirmar recebimento.</i>
+
+196
+00:06:13,000 --> 00:06:17,700
+<i>Jim, favor escanear a pulseira
+para confirmar recebimento.</i>
+
+197
+00:06:21,700 --> 00:06:23,900
+<i>Para ajudá-lo
+a se recuperar da hibernação,</i>
+
+198
+00:06:23,900 --> 00:06:26,400
+<i>sempre beba muito líquido.</i>
+
+199
+00:06:27,800 --> 00:06:30,800
+<i>Aproveite o resto
+de sua viagem na Avalon.</i>
+
+200
+00:06:30,800 --> 00:06:33,400
+<i>Uma nave
+da companhia Homestead.</i>
+
+201
+00:06:35,300 --> 00:06:39,800
+<i>Bom dia a todos,
+é uma linda manhã na Avalon.</i>
+
+202
+00:06:39,800 --> 00:06:42,500
+<i>Não fique com saudades de casa,
+sinta-se em casa.</i>
+
+203
+00:06:42,500 --> 00:06:45,200
+<i>Para começar, uma
+das minhas músicas favoritas...</i>
+
+204
+00:06:51,600 --> 00:06:53,000
+Não.
+
+205
+00:06:56,200 --> 00:06:57,900
+Senti sua falta.
+
+206
+00:07:01,200 --> 00:07:05,000
+Aja naturalmente, Jim.
+Você tem uma jaqueta legal.
+
+207
+00:07:18,300 --> 00:07:20,600
+<i>Olá, passageiros.</i>
+
+208
+00:07:21,100 --> 00:07:23,900
+<i>Sentem-se todos, por favor.</i>
+
+209
+00:07:24,500 --> 00:07:27,200
+<i>Bem-vindos, turma 38.</i>
+
+210
+00:07:27,200 --> 00:07:30,200
+<i>Hoje será sua introdução
+à vida colonial.</i>
+
+211
+00:07:30,200 --> 00:07:34,900
+<i>A Terra é um planeta próspero,
+o berço da civilização.</i>
+
+212
+00:07:34,900 --> 00:07:38,000
+<i>Mas para muitos,
+é superpopulosa,</i>
+
+213
+00:07:38,000 --> 00:07:40,000
+<i>cara e supervalorizada.</i>
+
+214
+00:07:40,000 --> 00:07:42,600
+Me desculpe,
+acho que estou na sala...
+
+215
+00:07:42,600 --> 00:07:44,900
+- <i>Perguntas no final, por favor.</i>
+- Desculpe.
+
+216
+00:07:44,900 --> 00:07:47,700
+<i>As colônias oferecem
+uma alternativa.</i>
+
+217
+00:07:47,700 --> 00:07:49,700
+- <i>Um lugar melhor...</i>
+- Cadê os outros...
+
+218
+00:07:49,700 --> 00:07:53,500
+<i>E não há colônia mais bonita
+que a Homestead II.</i>
+
+219
+00:07:53,500 --> 00:07:56,900
+<i>A joia dos mundos ocupados.</i>
+
+220
+00:07:56,900 --> 00:07:58,800
+Onde estão todos?
+
+221
+00:07:58,800 --> 00:08:02,600
+- <i>Estamos todos na nave Avalon.</i>
+- Mas sou o único aqui.
+
+222
+00:08:02,600 --> 00:08:06,900
+<i>Há 5.000 passageiros
+e 258 membros da tripulação.</i>
+
+223
+00:08:06,900 --> 00:08:08,700
+Então por que estou sozinho?
+
+224
+00:08:08,700 --> 00:08:11,400
+<i>Estamos todos juntos
+nesta jornada.</i>
+
+225
+00:08:13,000 --> 00:08:14,500
+Olá?
+
+226
+00:08:15,500 --> 00:08:17,600
+Alguém aqui?
+
+227
+00:08:17,600 --> 00:08:19,500
+Olá!
+
+228
+00:08:29,900 --> 00:08:33,200
+<i>Favor apertar os cintos
+e segurar pertences soltos.</i>
+
+229
+00:08:33,200 --> 00:08:37,100
+<i>Este elevador passará
+por um momento de maxigravidade.</i>
+
+230
+00:08:59,900 --> 00:09:01,700
+<i>Saguão Principal.</i>
+
+231
+00:09:15,200 --> 00:09:16,800
+<i>Olá!</i>
+
+232
+00:09:16,800 --> 00:09:20,100
+<i>Bem-vindo ao Saguão Principal
+da Avalon. Posso ajudá-lo?</i>
+
+233
+00:09:20,600 --> 00:09:23,000
+Preciso falar
+com uma pessoa.
+
+234
+00:09:23,000 --> 00:09:24,700
+Alguém vivo, por favor.
+
+235
+00:09:24,700 --> 00:09:26,200
+<i>Que tipo?
+Personal trainer?</i>
+
+236
+00:09:26,200 --> 00:09:27,800
+<i>Agente de viagens?
+Terapeuta?</i>
+
+237
+00:09:27,800 --> 00:09:29,900
+Não sei... Alguém no comando.
+
+238
+00:09:29,900 --> 00:09:32,200
+<i>O supervisor lida
+com questões de passageiros.</i>
+
+239
+00:09:32,200 --> 00:09:34,000
+<i>No piso 3 do Saguão Principal.</i>
+
+240
+00:09:34,000 --> 00:09:36,200
+- Obrigado.
+- <i>Feliz em ajudá-lo!</i>
+
+241
+00:09:41,300 --> 00:09:43,200
+Nada bom.
+
+242
+00:09:43,200 --> 00:09:44,800
+- <i>Olá!</i>
+- Quem está pilotando?
+
+243
+00:09:44,800 --> 00:09:46,500
+<i>Equipe de voo:
+Capitão, piloto...</i>
+
+244
+00:09:46,500 --> 00:09:48,800
+Quero falar com o capitão.
+
+245
+00:09:48,800 --> 00:09:52,900
+- <i>O capitão raramente lida...</i>
+- É uma emergência! Por favor.
+
+246
+00:09:52,900 --> 00:09:56,600
+<i>O capitão normalmente está
+na ponte de comando.</i>
+
+247
+00:10:03,400 --> 00:10:05,800
+PONTE DE COMANDO
+
+248
+00:10:06,600 --> 00:10:10,200
+<i>Acesso à ponte requer
+autorização especial.</i>
+
+249
+00:10:12,100 --> 00:10:15,700
+<i>Acesso à ponte requer
+autorização especial.</i>
+
+250
+00:10:17,800 --> 00:10:20,200
+Só pode estar brincando...
+
+251
+00:10:33,500 --> 00:10:36,000
+<i>Bem-vindo ao observatório.</i>
+
+252
+00:10:37,200 --> 00:10:39,600
+<i>O que posso mostrá-lo?</i>
+
+253
+00:10:40,400 --> 00:10:42,800
+Devemos aterrissar logo.
+
+254
+00:10:44,900 --> 00:10:48,200
+Sou...
+Sou o único acordado.
+
+255
+00:10:48,200 --> 00:10:51,600
+<i>Não compreendo.
+O que posso mostrá-lo?</i>
+
+256
+00:10:52,400 --> 00:10:54,000
+Me mostre Homestead II.
+
+257
+00:10:54,000 --> 00:10:57,600
+<i>Homestead II é o quarto planeta
+do sistema Bucket.</i>
+
+258
+00:10:57,600 --> 00:10:59,700
+Certo. E onde estamos?
+
+259
+00:10:59,700 --> 00:11:02,900
+<i>Estamos em trânsito,
+a caminho de Homestead II.</i>
+
+260
+00:11:02,900 --> 00:11:05,800
+<i>Chegaremos
+em aproximadamente 90 anos.</i>
+
+261
+00:11:05,800 --> 00:11:09,600
+- O quê?
+- <i>Em 90 anos, 3 semanas e...</i>
+
+262
+00:11:09,700 --> 00:11:13,200
+Não, espere...
+Há quanto tempo saímos da Terra?
+
+263
+00:11:13,200 --> 00:11:16,100
+<i>Aproximadamente
+30 anos atrás.</i>
+
+264
+00:11:18,800 --> 00:11:21,400
+Acordei cedo demais.
+
+265
+00:11:23,800 --> 00:11:25,200
+<i>Olá!</i>
+
+266
+00:11:25,200 --> 00:11:27,100
+Como mando
+uma mensagem para a Terra?
+
+267
+00:11:27,100 --> 00:11:29,600
+<i>Mensagens interestelares
+são mandadas via laser.</i>
+
+268
+00:11:29,600 --> 00:11:31,300
+<i>É um serviço caro.</i>
+
+269
+00:11:31,300 --> 00:11:33,400
+- Vá se ferrar.
+- <i>Feliz em ajudá-lo!</i>
+
+270
+00:11:35,300 --> 00:11:37,000
+<i>Destino da conexão?</i>
+
+271
+00:11:37,000 --> 00:11:39,300
+Terra. Companhia Homestead.
+
+272
+00:11:39,300 --> 00:11:43,900
+<i>Há 30.826 contatos listados
+em "Companhia Homestead".</i>
+
+273
+00:11:43,900 --> 00:11:47,300
+Estou imigrando à Homestead II
+e tenho uma emergência.
+
+274
+00:11:47,300 --> 00:11:50,200
+- <i>Atendimento ao consumidor.</i>
+- Isso mesmo.
+
+275
+00:11:50,200 --> 00:11:51,800
+<i>Começar mensagem.</i>
+
+276
+00:11:51,800 --> 00:11:55,000
+Olá, sou Jim Preston.
+
+277
+00:11:55,500 --> 00:11:57,500
+Sou um passageiro da Avalon.
+
+278
+00:11:58,000 --> 00:12:00,600
+E...
+
+279
+00:12:02,200 --> 00:12:05,000
+Acho que algo deu errado
+com minha câmara de hibernação.
+
+280
+00:12:05,000 --> 00:12:07,000
+Acordei cedo demais.
+
+281
+00:12:07,000 --> 00:12:10,100
+Quer dizer...
+Demais mesmo.
+
+282
+00:12:10,100 --> 00:12:12,800
+Ninguém mais está acordado
+
+283
+00:12:13,600 --> 00:12:15,700
+e não sei
+como voltar a dormir.
+
+284
+00:12:15,700 --> 00:12:18,600
+E o lance é
+que faltam 90 anos.
+
+285
+00:12:21,500 --> 00:12:24,600
+Se continuar assim, eu...
+
+286
+00:12:27,700 --> 00:12:30,600
+Me desculpe, estou tentando
+consertar isso...
+
+287
+00:12:30,600 --> 00:12:33,600
+Se há algo que deixei passar,
+uma ajuda cairia bem.
+
+288
+00:12:34,100 --> 00:12:35,700
+Só isso.
+
+289
+00:12:36,600 --> 00:12:38,100
+Obrigado.
+
+290
+00:12:38,100 --> 00:12:39,200
+ENVIADO
+
+291
+00:12:39,200 --> 00:12:40,500
+<i>Mensagem enviada.</i>
+
+292
+00:12:42,300 --> 00:12:43,800
+Maravilha.
+
+293
+00:12:43,800 --> 00:12:47,100
+- <i>Mensagem chegará em 19 anos.</i>
+- Como...?
+
+294
+00:12:47,100 --> 00:12:50,000
+<i>Resposta chegará
+em no mínimo 55 anos.</i>
+
+295
+00:12:50,000 --> 00:12:51,800
+55 anos...
+
+296
+00:12:51,800 --> 00:12:54,400
+<i>Pedimos desculpas
+pelo atraso.</i>
+
+297
+00:12:54,400 --> 00:12:57,200
+<i>A mensagem custou $6.012.</i>
+
+298
+00:13:10,900 --> 00:13:12,900
+- Boa tarde.
+- Caramba!
+
+299
+00:13:12,900 --> 00:13:15,000
+Que bom encontrar alguém.
+
+300
+00:13:15,000 --> 00:13:17,000
+Pensei que fosse
+o único acordado.
+
+301
+00:13:17,000 --> 00:13:20,300
+Quem quer dormir
+em um dia lindo como este?
+
+302
+00:13:20,300 --> 00:13:23,200
+Não, estamos em apuros.
+Não deveríamos estar aqui.
+
+303
+00:13:23,200 --> 00:13:25,300
+Eu não conto
+se você não contar.
+
+304
+00:13:25,300 --> 00:13:28,100
+- Hein?
+- Nosso segredinho.
+
+305
+00:13:29,200 --> 00:13:31,100
+O que deseja?
+
+306
+00:13:31,100 --> 00:13:34,100
+- O quê?
+- Parece gostar de whisky.
+
+307
+00:13:34,100 --> 00:13:35,900
+Pode ser...
+
+308
+00:13:39,900 --> 00:13:41,900
+Você é um robô.
+
+309
+00:13:42,600 --> 00:13:45,500
+Androide, tecnicamente.
+
+310
+00:13:46,900 --> 00:13:49,200
+O nome é Arthur.
+
+311
+00:13:49,700 --> 00:13:52,100
+- Jim.
+- Prazer em conhecê-lo, Jim.
+
+312
+00:13:57,500 --> 00:14:00,100
+O quanto sabe
+sobre essa nave?
+
+313
+00:14:00,100 --> 00:14:03,200
+Não sei... Algumas coisas.
+
+314
+00:14:03,200 --> 00:14:05,500
+O que faço
+se minha câmara quebrou?
+
+315
+00:14:05,500 --> 00:14:08,200
+As câmaras de hibernação são
+à prova de falhas.
+
+316
+00:14:08,200 --> 00:14:09,500
+Nunca quebram.
+
+317
+00:14:09,500 --> 00:14:11,000
+Mas eu acordei cedo.
+
+318
+00:14:11,000 --> 00:14:12,400
+Impossível.
+
+319
+00:14:12,500 --> 00:14:14,900
+Quanto tempo
+até chegarmos à Homestead II?
+
+320
+00:14:14,900 --> 00:14:16,600
+Em torno de 90 anos.
+
+321
+00:14:16,600 --> 00:14:18,900
+E quando os passageiros
+devem acordar?
+
+322
+00:14:18,900 --> 00:14:21,100
+Quatro meses antes.
+
+323
+00:14:21,100 --> 00:14:23,600
+E como estou aqui,
+sentado com você?
+
+324
+00:14:24,100 --> 00:14:26,400
+Faltando 90 anos.
+
+325
+00:14:29,600 --> 00:14:32,300
+Não é possível
+você estar aqui.
+
+326
+00:14:34,600 --> 00:14:36,500
+Pois estou.
+
+327
+00:14:41,000 --> 00:14:44,100
+<i>Bom dia a todos,
+é um lindo dia na Avalon...</i>
+
+328
+00:14:44,100 --> 00:14:47,800
+<i>Acorde, querido. Hora de relaxar
+e aproveitar sua estadia.</i>
+
+329
+00:14:57,900 --> 00:15:00,100
+<i>Por favor, escolha uma opção.</i>
+
+330
+00:15:01,800 --> 00:15:06,100
+<i>Perdão, o Mochacapuccino Extreme
+é só para membros Gold.</i>
+
+331
+00:15:06,100 --> 00:15:08,800
+<i>Perdão, o Mochacapuccino Extreme
+é só para...</i>
+
+332
+00:15:08,800 --> 00:15:11,300
+Quero Mochacapuccino Extreme.
+Ponha na minha conta.
+
+333
+00:15:11,300 --> 00:15:13,200
+<i>Você pode comprar comida na...</i>
+
+334
+00:15:13,200 --> 00:15:14,500
+<i>Perdão, o French Roast...</i>
+
+335
+00:15:14,500 --> 00:15:16,400
+<i>Perdão, o Pumpkin Spice...</i>
+
+336
+00:15:16,400 --> 00:15:17,800
+<i>Perdão, o Vanilla Chai...</i>
+
+337
+00:15:17,900 --> 00:15:20,300
+<i>Perdão...
+Perdão... Perdão...</i>
+
+338
+00:15:21,100 --> 00:15:23,100
+- <i>Café grande.</i>
+- Com creme e...
+
+339
+00:15:23,100 --> 00:15:26,000
+- <i>Aproveite seu café.</i>
+- Sério?
+
+340
+00:15:35,100 --> 00:15:36,400
+LIVRO MÉDICO
+
+341
+00:15:37,900 --> 00:15:39,300
+MODELO DE GARÇOM DE BAR
+
+342
+00:15:39,600 --> 00:15:42,500
+CÂMARA DE HIBERNAÇÃO
+
+343
+00:16:47,000 --> 00:16:50,600
+<i>Acesso à tripulação
+requer autorização especial.</i>
+
+344
+00:17:29,800 --> 00:17:32,500
+FALHA NO CONTROLE DE TRANSPORTE
+ELEVADOR 2B
+
+345
+00:17:40,400 --> 00:17:42,700
+<i>Saguão Principal.</i>
+
+346
+00:17:42,700 --> 00:17:44,300
+Estou ferrado, Arthur.
+
+347
+00:17:44,300 --> 00:17:46,500
+Completamente ferrado.
+
+348
+00:17:46,500 --> 00:17:50,300
+Ora, vamos...
+Tudo tem seu lado positivo.
+
+349
+00:17:51,500 --> 00:17:55,100
+Verdade, pois vou morrer
+de velhice, sozinho em uma nave.
+
+350
+00:17:55,100 --> 00:17:56,500
+Todos morreremos.
+
+351
+00:17:56,500 --> 00:17:59,300
+Até androides viram sucata.
+
+352
+00:17:59,800 --> 00:18:02,800
+Sou seu único cliente.
+Por que sempre limpa os copos?
+
+353
+00:18:02,800 --> 00:18:04,800
+Ossos do ofício.
+
+354
+00:18:04,800 --> 00:18:08,100
+Se o barman só fica parado,
+clientes ficam menos relaxados.
+
+355
+00:18:08,100 --> 00:18:09,700
+Me manda
+a sabedoria de barman.
+
+356
+00:18:09,700 --> 00:18:11,500
+Estou perdido aqui no espaço.
+
+357
+00:18:12,800 --> 00:18:15,700
+Você não está
+onde gostaria.
+
+358
+00:18:15,700 --> 00:18:19,000
+Se sente como se devesse
+estar em outro lugar.
+
+359
+00:18:22,600 --> 00:18:23,900
+Falou e disse.
+
+360
+00:18:23,900 --> 00:18:26,200
+Bem, digamos que pudesse
+estalar os dedos
+
+361
+00:18:26,200 --> 00:18:28,400
+e ir para onde gostaria.
+
+362
+00:18:28,400 --> 00:18:32,200
+Aposto que ainda assim
+se sentiria do mesmo modo.
+
+363
+00:18:32,200 --> 00:18:35,500
+Não se apegue tanto
+a onde gostaria de estar,
+
+364
+00:18:35,500 --> 00:18:38,900
+ou se esquecerá de aproveitar
+o lugar onde está.
+
+365
+00:18:38,900 --> 00:18:40,500
+O que está dizendo?
+
+366
+00:18:40,500 --> 00:18:44,000
+Deixe de lado
+o que não pode controlar.
+
+367
+00:18:45,100 --> 00:18:47,100
+Viva um pouco.
+
+368
+00:18:47,100 --> 00:18:48,900
+"Viva um pouco..."
+
+369
+00:18:58,200 --> 00:19:01,300
+<i>Bem-vindo à suíte Viena.</i>
+
+370
+00:19:01,800 --> 00:19:03,700
+Isso...
+
+371
+00:19:08,100 --> 00:19:10,100
+O quê?!
+
+372
+00:19:19,600 --> 00:19:22,100
+Acho que vou querer
+um camarão jumbo. Triplo.
+
+373
+00:19:22,100 --> 00:19:23,900
+<i>Arigatou gozaimasu.</i>
+
+374
+00:19:24,700 --> 00:19:26,100
+Competição de dança.
+
+375
+00:19:31,300 --> 00:19:33,400
+Fiz igualzinho a você!
+
+376
+00:19:37,500 --> 00:19:40,000
+SELECIONE SUA OPÇÃO
+<i>Café grande.</i>
+
+377
+00:19:44,200 --> 00:19:46,500
+<i>Una más margarita, por favor.</i>
+
+378
+00:19:46,500 --> 00:19:48,400
+<i>Já tomou muitas, señor.</i>
+
+379
+00:19:48,400 --> 00:19:51,800
+<i>Hector, por favor.
+Otra vez.</i>
+
+380
+00:19:51,800 --> 00:19:53,500
+<i>Si, señor.</i>
+
+381
+00:19:53,500 --> 00:19:54,800
+<i>Gracias.</i>
+
+382
+00:20:06,400 --> 00:20:08,900
+Saiam daqui!
+
+383
+00:20:09,500 --> 00:20:11,600
+Voltem...
+
+384
+00:20:13,900 --> 00:20:15,300
+Venham aqui.
+
+385
+00:21:10,500 --> 00:21:12,300
+<i>Bem-vindo, Jim.</i>
+
+386
+00:21:13,600 --> 00:21:18,200
+<i>Por favor, atente-se à tela
+com dicas de segurança.</i>
+
+387
+00:21:18,200 --> 00:21:19,900
+<i>Estes trajes foram desenhados</i>
+
+388
+00:21:19,900 --> 00:21:22,700
+<i>para aguentar
+as tempéries espaciais.</i>
+
+389
+00:21:22,700 --> 00:21:25,700
+<i>A estrutura
+de fibra de carbono e...</i>
+
+390
+00:21:52,800 --> 00:21:56,800
+<i>Abaixe a alavanca à sua direita
+para liberar a pressão.</i>
+
+391
+00:21:58,100 --> 00:22:00,400
+<i>Botas magnéticas ativadas.</i>
+
+392
+00:22:00,400 --> 00:22:04,000
+<i>Poderão ser desativadas
+pelo painel em seu braço.</i>
+
+393
+00:22:04,000 --> 00:22:06,700
+<i>Pressione o botão vermelho
+para abrir a comporta.</i>
+
+394
+00:22:10,100 --> 00:22:12,500
+<i>Divirta-se!</i>
+
+395
+00:22:19,600 --> 00:22:21,600
+<i>Ancoragem acoplada.</i>
+
+396
+00:22:56,600 --> 00:22:58,200
+BOTAS MAGNÉTICAS
+
+397
+00:23:48,500 --> 00:23:50,600
+<i>Bem-vindo de volta, Jim!</i>
+
+398
+00:23:53,800 --> 00:23:59,000
+<i>Esperamos que volte para outra
+experiência emocionante.</i>
+
+399
+00:24:22,200 --> 00:24:25,000
+<i>Divirta-se!</i>
+
+400
+00:25:35,200 --> 00:25:37,000
+AURORA LANE
+
+401
+00:25:45,400 --> 00:25:47,500
+Aurora...
+
+402
+00:25:48,700 --> 00:25:51,300
+<i>Buscando perfil de passageiro.</i>
+
+403
+00:25:51,300 --> 00:25:53,200
+<i>Meu nome é Aurora Lane.</i>
+
+404
+00:25:53,200 --> 00:25:56,400
+<i>Passageira 1456.
+Sou escritora.</i>
+
+405
+00:25:56,400 --> 00:25:58,200
+<i>Acho que contamos histórias</i>
+
+406
+00:25:58,200 --> 00:26:00,900
+<i>para não ficarmos sós.
+Para fazer contato.</i>
+
+407
+00:26:00,900 --> 00:26:04,400
+<i>Seu pai é Arthur Lane,
+escritor vencedor do Pulitzer.</i>
+
+408
+00:26:04,400 --> 00:26:05,800
+<i>Sem pressão, certo?</i>
+
+409
+00:26:05,800 --> 00:26:07,300
+<i>Meu pai costumava dizer:</i>
+
+410
+00:26:07,300 --> 00:26:11,300
+<i>"Se vive uma vida comum,
+só terá histórias comuns."</i>
+
+411
+00:26:11,300 --> 00:26:13,600
+<i>"Precisa viver
+uma vida de aventuras."</i>
+
+412
+00:26:14,500 --> 00:26:16,200
+<i>Por isso...</i>
+
+413
+00:26:16,900 --> 00:26:18,600
+<i>Cá estou.</i>
+
+414
+00:26:24,800 --> 00:26:26,200
+Bom dia.
+
+415
+00:26:28,900 --> 00:26:32,400
+<i>Estamos recomeçando
+de todas as formas.</i>
+
+416
+00:26:32,400 --> 00:26:35,400
+<i>Precisarei descobrir
+onde e como morar,</i>
+
+417
+00:26:35,400 --> 00:26:36,700
+<i>quem meus amigos serão...</i>
+
+418
+00:26:36,700 --> 00:26:38,200
+<i>É como voltar à escola.</i>
+
+419
+00:26:38,200 --> 00:26:41,200
+<i>Só que o ônibus escolar
+demora 120 anos para chegar.</i>
+
+420
+00:26:43,100 --> 00:26:45,500
+<i>Estamos criando
+uma nova cultura...</i>
+
+421
+00:26:45,500 --> 00:26:46,900
+Você é engraçada.
+
+422
+00:26:46,900 --> 00:26:49,700
+Já leu algo que pareceu
+ter sido escrito para você?
+
+423
+00:26:49,700 --> 00:26:52,000
+Não costumo ler muito.
+
+424
+00:26:52,000 --> 00:26:53,900
+Ela é boa.
+
+425
+00:26:54,600 --> 00:26:57,600
+- Quem?
+- Aurora.
+
+426
+00:26:59,100 --> 00:27:00,700
+A garota adormecida.
+
+427
+00:27:04,900 --> 00:27:07,600
+Não estou dizendo
+que o universo é maléfico,
+
+428
+00:27:07,600 --> 00:27:09,400
+mas tem um senso
+de humor perverso.
+
+429
+00:27:09,400 --> 00:27:13,200
+- Por quê?
+- Você voa para outro planeta
+
+430
+00:27:13,200 --> 00:27:15,300
+só para morrer
+no meio do caminho.
+
+431
+00:27:16,300 --> 00:27:18,900
+E encontra a mulher perfeita
+
+432
+00:27:20,100 --> 00:27:22,000
+bem na sua frente.
+
+433
+00:27:22,700 --> 00:27:25,600
+Mas ainda assim, completamente
+fora do seu alcance.
+
+434
+00:27:28,100 --> 00:27:30,500
+<i>Sentirei falta de Nova York.</i>
+
+435
+00:27:30,500 --> 00:27:33,100
+<i>Com café e uma vista
+para o edifício Chrysler,</i>
+
+436
+00:27:33,100 --> 00:27:34,500
+<i>escrevo o dia todo.</i>
+
+437
+00:27:34,500 --> 00:27:37,200
+<i>Mas tem café
+em Homestead II, certo?</i>
+
+438
+00:27:37,200 --> 00:27:40,200
+<i>Senão é melhor
+eu já ir voltando para a Terra.</i>
+
+439
+00:27:42,700 --> 00:27:45,500
+CÂMARA DE HIBERNAÇÃO
+
+440
+00:28:00,500 --> 00:28:03,100
+Digamos que estivesse preso
+em uma ilha deserta.
+
+441
+00:28:03,100 --> 00:28:05,900
+E pudesse desejar
+que alguém estivesse junto.
+
+442
+00:28:05,900 --> 00:28:07,800
+Você não ficaria sozinho.
+
+443
+00:28:08,500 --> 00:28:11,300
+Mas estaria prendendo
+mais um na ilha.
+
+444
+00:28:11,300 --> 00:28:13,700
+Como você...
+Você faria esse desejo?
+
+445
+00:28:13,700 --> 00:28:16,200
+Não sei.
+Nunca estive em uma ilha.
+
+446
+00:28:16,200 --> 00:28:18,100
+Tá, mas...
+
+447
+00:28:18,200 --> 00:28:20,300
+Esqueça a ilha.
+
+448
+00:28:21,100 --> 00:28:25,500
+Digamos que você descobrisse
+como fazer algo
+
+449
+00:28:25,500 --> 00:28:29,500
+que melhoraria muito sua vida
+mas que soubesse ser errado.
+
+450
+00:28:29,500 --> 00:28:31,700
+Não teria como voltar atrás.
+Como saber?
+
+451
+00:28:31,700 --> 00:28:34,100
+Estas não são
+perguntas para robôs.
+
+452
+00:28:39,900 --> 00:28:42,100
+Sei como acordar Aurora.
+
+453
+00:28:42,100 --> 00:28:44,500
+Parece uma ideia bacana.
+
+454
+00:28:44,500 --> 00:28:46,100
+Companhia lhe cairia bem.
+
+455
+00:28:46,100 --> 00:28:48,800
+Eu estaria prendendo-a aqui
+para o resto da vida dela.
+
+456
+00:28:48,800 --> 00:28:51,100
+Bem...
+Então não pode fazer isso.
+
+457
+00:28:52,200 --> 00:28:55,200
+- O que faço?
+- Ficarei aqui com você.
+
+458
+00:28:55,200 --> 00:28:57,200
+Arthur, você é uma máquina.
+
+459
+00:29:01,100 --> 00:29:04,700
+Não sente nada,
+não tem sentimentos.
+
+460
+00:29:06,700 --> 00:29:08,200
+Viu?
+
+461
+00:29:08,200 --> 00:29:10,100
+Não doeu.
+
+462
+00:29:10,100 --> 00:29:11,700
+E você nem se importou.
+
+463
+00:29:12,400 --> 00:29:15,200
+Ela é uma pessoa.
+
+464
+00:29:22,000 --> 00:29:23,400
+Não faça isso.
+
+465
+00:29:23,400 --> 00:29:25,200
+Chega de falar da Aurora.
+
+466
+00:29:25,200 --> 00:29:26,700
+Superei ela.
+
+467
+00:29:26,700 --> 00:29:28,400
+Bola pra frente.
+
+468
+00:29:31,100 --> 00:29:33,200
+O que fazer,
+ficar sentado pensando nisso?
+
+469
+00:29:33,200 --> 00:29:35,500
+Não posso, então não vou.
+Fechou.
+
+470
+00:29:35,500 --> 00:29:38,100
+Tomei minha decisão.
+Sei o que vou fazer.
+
+471
+00:29:38,100 --> 00:29:39,900
+Cortei.
+
+472
+00:29:41,800 --> 00:29:46,600
+Chega, nem vou mencionar mais
+o nome dela.
+
+473
+00:29:46,600 --> 00:29:48,400
+Acabou.
+
+474
+00:29:50,400 --> 00:29:52,100
+Não posso fazer isso...
+
+475
+00:29:57,000 --> 00:29:59,000
+Estou fazendo a barba.
+
+476
+00:30:09,500 --> 00:30:11,800
+Por favor, não faça isso.
+
+477
+00:32:03,600 --> 00:32:05,300
+<i>Bom dia, Aurora.</i>
+
+478
+00:32:05,300 --> 00:32:07,000
+<i>Como se sente?</i>
+
+479
+00:32:07,600 --> 00:32:10,500
+<i>É perfeitamente normal
+se sentir confusa.</i>
+
+480
+00:32:10,500 --> 00:32:14,100
+<i>Acabou de passar 120 anos
+em animação suspensa.</i>
+
+481
+00:33:02,000 --> 00:33:04,000
+<i>Saguão Principal.</i>
+
+482
+00:33:04,000 --> 00:33:05,700
+<i>Olá?</i>
+
+483
+00:33:08,400 --> 00:33:10,400
+Alguém?
+
+484
+00:33:19,300 --> 00:33:21,100
+Olá.
+
+485
+00:33:23,700 --> 00:33:25,600
+Oi...
+
+486
+00:33:27,800 --> 00:33:30,500
+Você é passageiro
+ou tripulação?
+
+487
+00:33:32,300 --> 00:33:34,000
+Passageiro.
+
+488
+00:33:34,000 --> 00:33:35,400
+Jim Preston.
+
+489
+00:33:35,400 --> 00:33:37,400
+Aurora Lane.
+
+490
+00:33:38,700 --> 00:33:40,500
+Sabe o que está acontecendo?
+
+491
+00:33:40,500 --> 00:33:42,900
+Ninguém mais
+da minha fileira acordou.
+
+492
+00:33:43,200 --> 00:33:45,300
+Aconteceu o mesmo comigo.
+
+493
+00:33:45,300 --> 00:33:48,500
+A tripulação deveria acordar
+um mês antes que nós, mas...
+
+494
+00:33:48,500 --> 00:33:50,600
+Não os vi.
+
+495
+00:33:53,100 --> 00:33:55,300
+A tripulação
+ainda está dormindo.
+
+496
+00:33:56,800 --> 00:33:59,400
+Está dizendo
+que ninguém mais acordou?
+
+497
+00:33:59,400 --> 00:34:01,000
+Só eu.
+
+498
+00:34:01,000 --> 00:34:03,800
+- Só você?
+- Só nós.
+
+499
+00:34:03,800 --> 00:34:07,100
+Mas alguém deverá pousar a nave
+dentro de algumas semanas.
+
+500
+00:34:07,600 --> 00:34:11,200
+<i>Chegaremos
+em aproximadamente 89 anos.</i>
+
+501
+00:34:11,200 --> 00:34:13,600
+89 anos?
+
+502
+00:34:15,200 --> 00:34:18,500
+Os outros passageiros não estão
+atrasados para acordar.
+
+503
+00:34:19,300 --> 00:34:21,600
+Nós que acordamos cedo.
+
+504
+00:34:25,700 --> 00:34:28,700
+Nós precisamos de ajuda.
+
+505
+00:34:28,700 --> 00:34:30,400
+Onde está a tripulação?
+
+506
+00:34:30,400 --> 00:34:33,100
+Eles estão em uma sala
+de hibernação fechada.
+
+507
+00:34:33,100 --> 00:34:37,000
+Tudo de importante, controles,
+reatores, motores...
+
+508
+00:34:37,000 --> 00:34:39,800
+Tudo atrás de portas seladas,
+não temos como passar.
+
+509
+00:34:50,000 --> 00:34:52,700
+Faz quanto tempo
+que está acordado?
+
+510
+00:34:53,100 --> 00:34:55,500
+Um ano e três semanas.
+
+511
+00:34:55,500 --> 00:34:58,700
+Não... Não...
+
+512
+00:34:59,300 --> 00:35:01,300
+Isso não pode
+estar acontecendo.
+
+513
+00:35:01,300 --> 00:35:03,500
+Temos que voltar a dormir.
+
+514
+00:35:03,500 --> 00:35:05,600
+Aurora não podemos...
+
+515
+00:35:07,900 --> 00:35:09,900
+Só precisamos voltar
+para nossas câmaras
+
+516
+00:35:09,900 --> 00:35:11,600
+e ligá-las de novo.
+
+517
+00:35:14,100 --> 00:35:17,200
+Não estou achando
+minha câmara...
+
+518
+00:35:17,800 --> 00:35:19,500
+Não importa.
+
+519
+00:35:20,400 --> 00:35:22,600
+- Aurora... Pare.
+- Não estou achando!
+
+520
+00:35:22,600 --> 00:35:25,700
+- Aurora, pare!
+- Não sei qual a minha!
+
+521
+00:35:25,700 --> 00:35:29,200
+Pare! Não importa.
+
+522
+00:35:31,800 --> 00:35:33,700
+Colocar alguém
+em estado de hibernação
+
+523
+00:35:33,700 --> 00:35:35,500
+requer equipamentos especiais.
+
+524
+00:35:35,500 --> 00:35:39,900
+Lembre-se de todos
+os procedimentos que passamos.
+
+525
+00:35:39,900 --> 00:35:44,200
+Elas são feitas para nos manter
+em hibernação e nos acordar.
+
+526
+00:35:44,200 --> 00:35:46,200
+Elas não podem
+nos colocar de volta.
+
+527
+00:35:46,200 --> 00:35:49,100
+Não acha que temos como
+voltarmos à hibernação?
+
+528
+00:35:50,200 --> 00:35:51,600
+Não.
+
+529
+00:35:51,600 --> 00:35:53,400
+Mas tem que haver um jeito!
+
+530
+00:35:53,400 --> 00:35:55,600
+Tem que haver...
+
+531
+00:36:04,100 --> 00:36:06,200
+Nove horas.
+
+532
+00:36:06,200 --> 00:36:07,900
+Hora de dormir.
+
+533
+00:36:12,000 --> 00:36:15,100
+Sei que eu deveria estar
+tentando resolver isso, mas...
+
+534
+00:36:15,100 --> 00:36:17,800
+Mal consigo manter
+meus olhos abertos.
+
+535
+00:36:18,600 --> 00:36:20,700
+Acabou de sair
+da hibernação.
+
+536
+00:36:20,700 --> 00:36:23,100
+Demorará alguns dias
+até ficar 100%.
+
+537
+00:36:23,100 --> 00:36:24,700
+Deveria descansar.
+
+538
+00:36:25,400 --> 00:36:27,300
+Serei obrigada.
+
+539
+00:36:28,500 --> 00:36:31,400
+- Te acompanharei à sua cabine.
+- Não precisa.
+
+540
+00:36:31,400 --> 00:36:33,200
+Ficarei bem.
+
+541
+00:36:34,000 --> 00:36:35,300
+Tudo bem.
+
+542
+00:36:38,200 --> 00:36:40,200
+Boa noite, Aurora.
+
+543
+00:36:41,500 --> 00:36:45,400
+Mais de um ano...
+Mal posso imaginar.
+
+544
+00:36:45,400 --> 00:36:47,800
+Deve ter sido
+muito difícil para você.
+
+545
+00:36:47,800 --> 00:36:49,700
+Foi.
+
+546
+00:36:49,700 --> 00:36:51,400
+Boa noite, Jim.
+
+547
+00:36:53,200 --> 00:36:56,400
+<i>Favor apertar os cintos
+e segurar pertences soltos.</i>
+
+548
+00:36:59,100 --> 00:37:02,200
+- Whisky, puro.
+- É pra já.
+
+549
+00:37:07,700 --> 00:37:09,800
+Como foi seu dia, amigo?
+
+550
+00:37:10,300 --> 00:37:12,400
+Aurora acordou.
+
+551
+00:37:12,400 --> 00:37:14,300
+Parabéns.
+
+552
+00:37:16,000 --> 00:37:17,900
+Não me parece feliz.
+
+553
+00:37:21,600 --> 00:37:23,900
+Arthur, pode
+guardar um segredo?
+
+554
+00:37:23,900 --> 00:37:27,900
+Jim, não sou só um barman,
+sou um cavalheiro.
+
+555
+00:37:27,900 --> 00:37:30,800
+Não conte à Aurora
+que eu a acordei.
+
+556
+00:37:32,600 --> 00:37:35,800
+Ela acha que foi um acidente,
+deixe que eu conto.
+
+557
+00:37:35,800 --> 00:37:37,300
+Claro.
+
+558
+00:37:50,900 --> 00:37:53,300
+Como assim, não tem como
+voltar à hibernação?
+
+559
+00:37:53,300 --> 00:37:54,700
+E se uma câmara quebrar?
+
+560
+00:37:54,700 --> 00:37:58,800
+<i>Nenhuma câmara quebrou
+em milhares de voos.</i>
+
+561
+00:37:59,300 --> 00:38:01,900
+Bem... Eu estou acordada!
+
+562
+00:38:01,900 --> 00:38:04,300
+<i>Câmaras de hibernação
+são à prova de falhas.</i>
+
+563
+00:38:04,800 --> 00:38:07,100
+Bom dia. Já comeu?
+
+564
+00:38:07,100 --> 00:38:09,100
+Não, estou faminta.
+
+565
+00:38:09,100 --> 00:38:11,600
+E essa máquina é estúpida.
+
+566
+00:38:11,600 --> 00:38:13,300
+<i>Feliz em ajudá-la!</i>
+
+567
+00:38:21,100 --> 00:38:25,200
+ERRO CRÍTICO
+
+568
+00:38:25,200 --> 00:38:27,900
+<i>Café da manhã nível Gold.</i>
+
+569
+00:38:38,100 --> 00:38:40,400
+Você é um homem
+de gostos simples.
+
+570
+00:38:40,400 --> 00:38:42,800
+Não sou
+passageiro nível Gold.
+
+571
+00:38:44,900 --> 00:38:47,600
+O café da manhã francês
+não me pertence.
+
+572
+00:38:47,600 --> 00:38:49,300
+O quê?
+Esse tempo todo?
+
+573
+00:38:49,300 --> 00:38:51,000
+- É...
+- O que você gostaria?
+
+574
+00:38:51,100 --> 00:38:53,000
+- Não precisa.
+- Pare.
+
+575
+00:38:53,000 --> 00:38:54,600
+Sério... Está bem.
+
+576
+00:38:56,400 --> 00:38:57,800
+Aqui está.
+
+577
+00:39:02,500 --> 00:39:04,100
+É...
+
+578
+00:39:04,100 --> 00:39:06,100
+Estive pensando.
+
+579
+00:39:06,100 --> 00:39:09,100
+Talvez haja outra forma.
+E a enfermaria?
+
+580
+00:39:09,100 --> 00:39:11,500
+Já chequei. Só tem
+equipamento padrão.
+
+581
+00:39:11,500 --> 00:39:13,900
+Poderia haver
+outra câmara no depósito.
+
+582
+00:39:13,900 --> 00:39:15,300
+Já pensei nisso também.
+
+583
+00:39:15,300 --> 00:39:17,500
+Mas li o manifesto.
+Lá é só para agricultura.
+
+584
+00:39:17,500 --> 00:39:18,900
+Máquinas, tratores...
+
+585
+00:39:18,900 --> 00:39:21,200
+Peças sobressalentes
+para computadores.
+
+586
+00:39:21,200 --> 00:39:23,700
+Não encontraremos
+uma câmara encaixotada.
+
+587
+00:39:23,700 --> 00:39:25,400
+- Podemos construir uma.
+- Não dá.
+
+588
+00:39:25,400 --> 00:39:29,000
+- Jim, não está nem tentando!
+- Já tentei de tudo.
+
+589
+00:39:29,000 --> 00:39:31,100
+Por mais de um ano...
+
+590
+00:39:32,200 --> 00:39:34,000
+Eu tentei tudo.
+
+591
+00:39:36,400 --> 00:39:38,600
+Bem, ainda não estou
+pronta para desistir.
+
+592
+00:39:47,400 --> 00:39:49,000
+<i>Enfermaria.</i>
+
+593
+00:39:57,000 --> 00:39:59,900
+E quanto a artigos de pesquisa?
+Algum documento técnico?
+
+594
+00:39:59,900 --> 00:40:02,700
+<i>Tecnologia hibernatória
+é restrita.</i>
+
+595
+00:40:02,700 --> 00:40:06,500
+<i>Os artigos a seguir lidam
+com o assunto de forma teórica.</i>
+
+596
+00:40:49,400 --> 00:40:50,900
+Arquivo novo.
+
+597
+00:40:50,900 --> 00:40:52,500
+"Minha Viagem."
+
+598
+00:40:52,500 --> 00:40:55,100
+"Entrei na Avalon
+com uma ideia.
+
+599
+00:40:55,100 --> 00:40:56,600
+Um destino.
+
+600
+00:40:57,100 --> 00:41:00,900
+Ambos agora
+fora de alcance.
+
+601
+00:41:03,000 --> 00:41:05,300
+Estive acordada por 7 dias.
+
+602
+00:41:05,300 --> 00:41:08,100
+Acordada cedo demais.
+
+603
+00:41:08,100 --> 00:41:10,800
+E pode ser que eu passe
+o resto da minha vida aqui.
+
+604
+00:41:10,800 --> 00:41:14,900
+Em um mundo estático,
+um lar de milhares de metros.
+
+605
+00:41:16,200 --> 00:41:18,500
+Há um outro
+passageiro acordado.
+
+606
+00:41:18,500 --> 00:41:21,000
+Um mecânico
+chamado Jim Preston.
+
+607
+00:41:22,700 --> 00:41:25,500
+Ele parece ter
+aceitado nosso destino.
+
+608
+00:41:26,400 --> 00:41:28,300
+Estou com medo.
+
+609
+00:41:29,100 --> 00:41:31,500
+Lutando para manter a calma.
+
+610
+00:41:33,600 --> 00:41:38,600
+Todos os outros passageiros
+dormirão por mais 90 anos.
+
+611
+00:41:39,400 --> 00:41:42,500
+Enquanto vivo
+toda minha vida nesta nave.
+
+612
+00:41:42,500 --> 00:41:45,000
+Viajando para sempre.
+
+613
+00:41:45,900 --> 00:41:47,600
+Sem nunca chegar.
+
+614
+00:41:48,300 --> 00:41:51,000
+Minha única companhia:
+um estranho."
+
+615
+00:42:00,000 --> 00:42:01,900
+Por que fez isso?
+
+616
+00:42:03,800 --> 00:42:05,600
+O quê?
+
+617
+00:42:06,500 --> 00:42:09,200
+Imigrou. Deixou a Terra.
+
+618
+00:42:09,900 --> 00:42:13,100
+- Estou te entrevistando.
+- Está fazendo o quê?
+
+619
+00:42:13,100 --> 00:42:14,900
+Você é a primeira
+falha de hibernação
+
+620
+00:42:14,900 --> 00:42:16,700
+na história
+das viagens espaciais.
+
+621
+00:42:16,700 --> 00:42:18,600
+Isso te transforma
+em uma história.
+
+622
+00:42:18,600 --> 00:42:21,400
+- Para quem irá contá-la?
+- Para a posteridade.
+
+623
+00:42:21,400 --> 00:42:22,700
+E então?
+
+624
+00:42:22,700 --> 00:42:24,700
+Por que desistiu
+da sua vida na Terra?
+
+625
+00:42:24,700 --> 00:42:26,900
+120 anos de hibernação
+
+626
+00:42:26,900 --> 00:42:29,100
+significa nunca mais ver
+família ou amigos.
+
+627
+00:42:29,100 --> 00:42:31,200
+Acordará em um novo século,
+
+628
+00:42:31,200 --> 00:42:32,800
+em um novo planeta.
+
+629
+00:42:32,800 --> 00:42:35,400
+É o maior
+dos suicídios geográficos.
+
+630
+00:42:35,400 --> 00:42:37,800
+Poderia te perguntar
+a mesma coisa.
+
+631
+00:42:37,800 --> 00:42:39,600
+Mas a entrevista é minha.
+
+632
+00:42:39,600 --> 00:42:41,900
+Estava fugindo de algo?
+
+633
+00:42:41,900 --> 00:42:43,300
+Não.
+
+634
+00:42:43,700 --> 00:42:45,800
+- Estava tudo bem.
+- Então...?
+
+635
+00:42:45,800 --> 00:42:48,900
+Acho que só queria
+um mundo novo, um começo novo.
+
+636
+00:42:49,000 --> 00:42:51,000
+Esta é a propaganda
+da Homestead.
+
+637
+00:42:51,000 --> 00:42:52,600
+- É mesmo?
+- Jim...
+
+638
+00:42:52,600 --> 00:42:54,800
+Acho que está certa.
+
+639
+00:42:59,400 --> 00:43:03,100
+Na Terra, quando algo se quebra,
+não se conserta. Se substitui.
+
+640
+00:43:03,600 --> 00:43:06,300
+Nas colônias,
+há problemas para resolver.
+
+641
+00:43:06,300 --> 00:43:08,200
+Meus tipos de problemas.
+
+642
+00:43:09,400 --> 00:43:14,000
+Na mecânica é parecido.
+Um novo mundo sendo construído.
+
+643
+00:43:16,000 --> 00:43:18,500
+Posso construir uma casa
+e morar nela.
+
+644
+00:43:22,900 --> 00:43:26,300
+Terra aberta,
+com espaço para crescer.
+
+645
+00:43:26,300 --> 00:43:27,900
+Agora está inventado slogans.
+
+646
+00:43:27,900 --> 00:43:29,900
+Slogans não podem
+ser verdadeiros?
+
+647
+00:43:31,100 --> 00:43:34,800
+Sabe quanto a Homestead lucrou
+com seu primeiro planeta?
+
+648
+00:43:34,800 --> 00:43:37,300
+Oito quadrilhões de dólares.
+
+649
+00:43:37,300 --> 00:43:39,600
+São oito milhões de bilhões.
+
+650
+00:43:39,600 --> 00:43:42,200
+Colonização de planetas
+são o maior negócio atual.
+
+651
+00:43:42,800 --> 00:43:44,700
+Pagou o preço integral
+pela passagem?
+
+652
+00:43:44,700 --> 00:43:46,800
+Não, minha ocupação
+é cobiçada.
+
+653
+00:43:46,800 --> 00:43:50,600
+Certo.
+Encha sua cabeça de sonhos,
+
+654
+00:43:50,600 --> 00:43:53,700
+desconte sua passagem,
+voe e popule o planeta deles
+
+655
+00:43:53,700 --> 00:43:56,700
+e doe 20% de tudo que lucrar
+à Homestead pelo resto da vida.
+
+656
+00:43:56,700 --> 00:43:59,900
+Sem contar a dívida que faz
+nesta nave espacial.
+
+657
+00:43:59,900 --> 00:44:02,700
+Então tudo que vê aqui
+são 5.000 otários?
+
+658
+00:44:03,100 --> 00:44:07,100
+Vejo vários zeros
+no valor final da Homestead.
+
+659
+00:44:07,100 --> 00:44:10,200
+Eu vejo 5.000 pessoas
+mudando suas vidas.
+
+660
+00:44:10,800 --> 00:44:13,800
+5.000 razões diferentes.
+Você não os conhece.
+
+661
+00:44:13,800 --> 00:44:16,600
+Sou jornalista.
+Conheço como pessoas são.
+
+662
+00:44:17,900 --> 00:44:19,400
+Verdade?
+
+663
+00:44:19,900 --> 00:44:21,200
+Este aqui.
+
+664
+00:44:21,200 --> 00:44:23,900
+Ele é banqueiro,
+professor ou jardineiro?
+
+665
+00:44:25,100 --> 00:44:27,600
+- Banqueiro.
+- Jardineiro.
+
+666
+00:44:28,400 --> 00:44:31,400
+E ela, se chama...
+
+667
+00:44:31,800 --> 00:44:34,500
+...Maddison, Donna ou Lola?
+
+668
+00:44:35,200 --> 00:44:37,900
+Donna é muito sério
+para aquele cabelo.
+
+669
+00:44:37,900 --> 00:44:39,400
+Lola.
+
+670
+00:44:39,400 --> 00:44:41,700
+- Maddison.
+- Merda!
+
+671
+00:44:43,500 --> 00:44:45,000
+Certo.
+
+672
+00:44:45,000 --> 00:44:47,100
+Cozinheira,
+contadora ou parteira?
+
+673
+00:44:47,100 --> 00:44:49,600
+Tem que ser parteira,
+você não inventou isso.
+
+674
+00:44:49,600 --> 00:44:51,300
+Ela é parteira.
+
+675
+00:44:52,400 --> 00:44:54,600
+Bom saber que tem parteiras.
+
+676
+00:44:56,500 --> 00:44:59,400
+Eu gostei dela.
+Seríamos amigas.
+
+677
+00:44:59,400 --> 00:45:01,500
+Acha que consegue
+prever isso?
+
+678
+00:45:01,500 --> 00:45:03,200
+Você não?
+
+679
+00:45:04,900 --> 00:45:06,700
+Eu acho.
+
+680
+00:45:06,700 --> 00:45:08,300
+Uma passagem de ida e volta.
+
+681
+00:45:08,300 --> 00:45:10,700
+Isso mesmo. Eu ia voar
+para Homestead II,
+
+682
+00:45:10,700 --> 00:45:13,100
+viver um ano
+e voltar para Terra.
+
+683
+00:45:13,100 --> 00:45:15,200
+Não entendo. Fui embora
+por uma nova vida,
+
+684
+00:45:15,200 --> 00:45:16,800
+você voltaria
+para onde começou.
+
+685
+00:45:16,800 --> 00:45:20,400
+Eu voltaria no futuro.
+250 anos depois.
+
+686
+00:45:20,400 --> 00:45:24,600
+Na Terra,
+ainda o berço da civilização.
+
+687
+00:45:25,200 --> 00:45:29,300
+E eu seria a única que teria
+ido para uma colônia e voltado.
+
+688
+00:45:29,300 --> 00:45:31,100
+Uma história
+que só eu posso contar.
+
+689
+00:45:31,100 --> 00:45:32,600
+Qual história?
+
+690
+00:45:32,600 --> 00:45:35,400
+O voo da humanidade aos céus.
+
+691
+00:45:35,400 --> 00:45:37,600
+A maior migração
+da história humana.
+
+692
+00:45:37,600 --> 00:45:39,000
+É a maior história de todas.
+
+693
+00:45:39,000 --> 00:45:42,100
+- Mas não conhece seus leitores.
+- Mas lerão mesmo assim.
+
+694
+00:45:44,500 --> 00:45:46,400
+Pelo menos, leriam.
+
+695
+00:45:48,000 --> 00:45:49,900
+Mas agora
+não escreverei mais.
+
+696
+00:45:49,900 --> 00:45:52,200
+Nem sei se voltarei
+a escrever um dia.
+
+697
+00:45:53,700 --> 00:45:57,500
+Jim, não consigo pensar
+em mais nada para tentar.
+
+698
+00:45:57,500 --> 00:45:59,700
+Para nos salvar.
+
+699
+00:46:01,200 --> 00:46:03,900
+E nem quero mais
+pensar nisso.
+
+700
+00:46:06,200 --> 00:46:08,200
+O que tem para se fazer
+nesse lugar?
+
+701
+00:46:10,600 --> 00:46:13,600
+- Está falando sério?
+- Seríssimo.
+
+702
+00:46:13,600 --> 00:46:15,500
+Modo de duplas.
+
+703
+00:46:16,700 --> 00:46:18,700
+Vamos, em seus lugares.
+
+704
+00:46:24,900 --> 00:46:28,700
+Fique bem aqui
+e repita o que eles fazem.
+
+705
+00:46:36,500 --> 00:46:38,900
+Não tem mais nada
+que possamos fazer?
+
+706
+00:46:38,900 --> 00:46:41,200
+- Só faça o que ela...
+- Está bem.
+
+707
+00:46:42,400 --> 00:46:43,800
+Ei!
+
+708
+00:46:43,800 --> 00:46:46,200
+Lá vamos nós.
+Vamos ver se...
+
+709
+00:46:48,700 --> 00:46:50,700
+Por que está sorrindo?
+
+710
+00:46:50,700 --> 00:46:52,900
+Porque estou ganhando
+por dois pontos.
+
+711
+00:46:52,900 --> 00:46:54,900
+Quem é a adorável dama?
+
+712
+00:46:54,900 --> 00:46:58,500
+- Esta é Aurora.
+- Aurora. Prazer.
+
+713
+00:47:01,200 --> 00:47:03,800
+- Você foi ótima!
+- Mais uma vez.
+
+714
+00:47:03,800 --> 00:47:05,200
+Mais uma vez.
+
+715
+00:47:21,200 --> 00:47:23,400
+Eu não usei calças
+por um mês.
+
+716
+00:47:23,400 --> 00:47:25,600
+Sete semanas e dois dias,
+para ser exato.
+
+717
+00:47:26,000 --> 00:47:27,400
+Ele não tem
+vergonha nenhuma.
+
+718
+00:47:27,400 --> 00:47:30,200
+Mas você também não pode
+falar muito, Arthur.
+
+719
+00:47:32,800 --> 00:47:36,900
+Ri de um homem sem calças
+até ver que não tenho pernas.
+
+720
+00:47:43,100 --> 00:47:46,200
+Por um minuto, quase esqueci
+que a vida não estava arruinada.
+
+721
+00:47:46,200 --> 00:47:47,800
+Sinto muito.
+
+722
+00:47:47,800 --> 00:47:49,700
+Pelo quê?
+
+723
+00:47:50,600 --> 00:47:52,700
+Vou para a cama.
+
+724
+00:47:53,500 --> 00:47:55,000
+- Boa noite.
+- Tudo bem.
+
+725
+00:47:55,000 --> 00:47:56,700
+Boa noite, Aurora.
+
+726
+00:47:59,200 --> 00:48:02,200
+Ela é maravilhosa.
+
+727
+00:48:02,200 --> 00:48:04,400
+Excelente escolha.
+
+728
+00:49:31,800 --> 00:49:33,600
+Olá.
+
+729
+00:49:33,600 --> 00:49:35,100
+<i>Oi!</i>
+
+730
+00:49:35,100 --> 00:49:36,800
+Aqui está.
+
+731
+00:49:40,400 --> 00:49:42,000
+JANTAR HOJE?
+JIM
+
+732
+00:49:42,600 --> 00:49:44,500
+<i>Ele está
+me chamando para sair?</i>
+
+733
+00:49:46,900 --> 00:49:48,500
+Precisa de uma caneta?
+
+734
+00:50:00,900 --> 00:50:03,500
+Ela não me pareceu
+muito impressionada.
+
+735
+00:50:14,400 --> 00:50:16,200
+ADORARIA.
+A.
+
+736
+00:50:20,700 --> 00:50:23,300
+"Adoraria".
+Ela escreveu "adoraria".
+
+737
+00:50:31,000 --> 00:50:33,100
+<i>Você tem visita.</i>
+
+738
+00:50:50,800 --> 00:50:52,600
+Nossa.
+
+739
+00:50:52,600 --> 00:50:54,800
+Você também se ajeitou bem.
+
+740
+00:50:55,600 --> 00:50:58,400
+- Fez compras.
+- Eu... roubei a loja.
+
+741
+00:51:03,300 --> 00:51:06,000
+Boa noite.
+O que gostariam?
+
+742
+00:51:06,000 --> 00:51:08,300
+Um Manhattan, por favor.
+
+743
+00:51:09,300 --> 00:51:11,600
+- Whisky com gelo.
+- É pra já.
+
+744
+00:51:19,600 --> 00:51:21,800
+Os dois estão
+elegantes esta noite.
+
+745
+00:51:21,800 --> 00:51:23,100
+Obrigada, Arthur.
+
+746
+00:51:23,100 --> 00:51:24,600
+Estamos em um encontro.
+
+747
+00:51:24,600 --> 00:51:26,500
+Que ótimo!
+
+748
+00:51:26,500 --> 00:51:28,900
+Demorou para me perguntar.
+
+749
+00:51:28,900 --> 00:51:30,700
+Estava te dando espaço.
+
+750
+00:51:31,800 --> 00:51:33,400
+Espaço.
+
+751
+00:51:33,400 --> 00:51:36,000
+A única coisa da qual
+já tenho o suficiente.
+
+752
+00:51:39,000 --> 00:51:40,900
+<i>Merci beaucoup.</i>
+
+753
+00:51:42,100 --> 00:51:43,500
+Estava tão bom!
+
+754
+00:51:43,500 --> 00:51:45,300
+Não foi fácil
+conseguir uma reserva.
+
+755
+00:51:45,300 --> 00:51:47,500
+Provavelmente daqui a pouco
+vão nos expulsar.
+
+756
+00:51:47,500 --> 00:51:50,900
+- Todos estão me olhando feio.
+- Estão detestando você.
+
+757
+00:51:52,600 --> 00:51:54,500
+Como está indo seu livro?
+
+758
+00:51:54,500 --> 00:51:56,700
+Ainda nem sei
+o que ele vai ser.
+
+759
+00:51:57,400 --> 00:52:00,400
+Meu pai costumava escrever
+sobre a vida dele,
+
+760
+00:52:00,400 --> 00:52:02,600
+mas ele tinha histórias.
+
+761
+00:52:02,600 --> 00:52:05,000
+Ele navegou pela Antártica,
+
+762
+00:52:05,000 --> 00:52:09,000
+foi repórter internacional,
+teve amantes...
+
+763
+00:52:09,000 --> 00:52:11,300
+Escreveu sobre a filha...
+
+764
+00:52:11,300 --> 00:52:13,400
+- Ele escreveu sobre você?
+- Escreveu.
+
+765
+00:52:13,400 --> 00:52:15,400
+Cresci lendo
+sobre mim mesma.
+
+766
+00:52:15,400 --> 00:52:16,800
+E como foi isso?
+
+767
+00:52:17,600 --> 00:52:18,900
+Nem sempre foi fácil.
+
+768
+00:52:18,900 --> 00:52:21,500
+Mais do que eu queria
+saber sobre mim mesma.
+
+769
+00:52:22,000 --> 00:52:27,100
+Quando eu tinha 17 anos,
+ele teve um infarto cardíaco.
+
+770
+00:52:27,800 --> 00:52:30,100
+Enquanto digitava no teclado.
+
+771
+00:52:31,000 --> 00:52:32,600
+Fim da história.
+
+772
+00:52:35,500 --> 00:52:38,600
+Sério demais...
+Me desculpa.
+
+773
+00:52:38,600 --> 00:52:39,900
+Precisamos de mais vinho.
+
+774
+00:52:39,900 --> 00:52:41,700
+Gosto de saber da sua vida.
+
+775
+00:52:42,900 --> 00:52:44,400
+Obrigada.
+
+776
+00:52:46,700 --> 00:52:49,800
+- Por que estou aqui?
+- Você vai ver.
+
+777
+00:52:51,300 --> 00:52:53,300
+O melhor show da cidade.
+
+778
+00:52:56,600 --> 00:52:58,900
+Então já fez isso antes?
+
+779
+00:52:58,900 --> 00:53:00,600
+Sim, claro!
+
+780
+00:53:00,600 --> 00:53:03,500
+- E é seguro?
+- Não...
+
+781
+00:53:04,300 --> 00:53:06,100
+Razoavelmente seguro.
+
+782
+00:53:07,400 --> 00:53:10,100
+Entra aí.
+Você é a próxima.
+
+783
+00:53:11,200 --> 00:53:13,000
+E o meu vestido?
+
+784
+00:53:15,000 --> 00:53:17,100
+Verdade...
+
+785
+00:53:19,300 --> 00:53:21,300
+Vire-se de costas.
+
+786
+00:53:51,800 --> 00:53:54,000
+<i>Ancoragem acoplada.</i>
+
+787
+00:54:34,000 --> 00:54:35,800
+O que está fazendo?
+
+788
+00:54:35,800 --> 00:54:37,600
+Confia em mim?
+
+789
+00:55:24,300 --> 00:55:26,400
+Obrigada.
+
+790
+00:56:15,000 --> 00:56:17,800
+Você é a mulher
+mais bonita que já vi.
+
+791
+00:56:20,700 --> 00:56:23,000
+Você vai me matar.
+
+792
+00:57:05,300 --> 00:57:07,100
+Você está bem?
+
+793
+00:57:07,700 --> 00:57:09,100
+Sim.
+
+794
+00:57:10,600 --> 00:57:12,400
+Estou bem.
+
+795
+00:57:21,400 --> 00:57:23,500
+Precisamos ficar bem.
+
+796
+00:57:38,800 --> 00:57:41,600
+"Então, estou
+saindo com alguém.
+
+797
+00:57:41,600 --> 00:57:43,600
+Nunca adivinhará com quem.
+
+798
+00:57:44,800 --> 00:57:48,200
+Duas pessoas
+que nunca ficariam juntas.
+
+799
+00:57:48,200 --> 00:57:50,100
+Mas cá estamos.
+
+800
+00:57:50,100 --> 00:57:52,600
+As duas últimas
+pessoas do mundo.
+
+801
+00:57:52,600 --> 00:57:55,500
+- O que foi que disse?
+- Quieto, estou escrevendo.
+
+802
+00:57:55,500 --> 00:57:59,300
+Jim e eu vivemos
+em uma felicidade acidental.
+
+803
+00:57:59,300 --> 00:58:02,600
+Dois náufragos formando um lar
+em um litoral abandonado."
+
+804
+00:58:02,600 --> 00:58:04,700
+"Litoral abandonado"?
+Adorei.
+
+805
+00:58:04,700 --> 00:58:06,200
+Mesmo?
+Não precisa dizer isso.
+
+806
+00:58:06,200 --> 00:58:08,600
+- Eu sei.
+- Posso comer isto?
+
+807
+00:58:10,100 --> 00:58:12,500
+Algo te parece estranho?
+
+808
+00:58:14,300 --> 00:58:15,900
+Continue lendo.
+
+809
+00:58:15,900 --> 00:58:17,500
+"Está tudo bem.
+
+810
+00:58:17,500 --> 00:58:19,000
+Todos temos sonhos."
+
+811
+00:58:19,000 --> 00:58:20,300
+METAIS PRECIOSOS
+
+812
+00:58:20,300 --> 00:58:24,000
+"Planejamos o futuro, pensamos
+ser capitães de nosso destino.
+
+813
+00:58:24,000 --> 00:58:28,400
+Mas somos passageiros.
+Vamos onde o destino nos levar."
+
+814
+00:58:31,200 --> 00:58:32,500
+Arthur!
+
+815
+00:58:32,500 --> 00:58:34,800
+"Não é esta
+a vida que planejamos.
+
+816
+00:58:34,800 --> 00:58:36,400
+Mas é nossa.
+
+817
+00:58:36,400 --> 00:58:38,900
+E pela primeira vez na vida,
+
+818
+00:58:38,900 --> 00:58:40,900
+não me sinto sozinha.
+
+819
+00:58:43,000 --> 00:58:45,700
+Não era para termos
+nos encontrado,
+
+820
+00:58:47,100 --> 00:58:48,600
+mas nos encontramos.
+
+821
+00:58:49,600 --> 00:58:52,600
+Me faz sentir
+que minha vida não acabou.
+
+822
+00:58:52,600 --> 00:58:54,800
+Está só começando."
+
+823
+00:58:55,500 --> 00:58:58,700
+- Como foi seu dia?
+- Bom, escrevi algumas páginas.
+
+824
+00:58:58,700 --> 00:59:00,800
+Achou algo que possa
+nos ajudar?
+
+825
+00:59:04,200 --> 00:59:06,700
+- Achei.
+- São de verdade?
+
+826
+00:59:06,700 --> 00:59:09,000
+Eu mesmo as cortei.
+
+827
+00:59:12,000 --> 00:59:15,900
+Por mais que sejamos azarados,
+você deu muita sorte.
+
+828
+00:59:20,600 --> 00:59:22,100
+<i>Atenção.</i>
+
+829
+00:59:22,100 --> 00:59:25,800
+<i>Talvez queiram ir
+para a área de visualização.</i>
+
+830
+00:59:25,800 --> 00:59:30,100
+<i>A Avalon circulará
+a estrela Arcturus.</i>
+
+831
+01:00:08,000 --> 01:00:10,200
+Foi maravilhoso.
+
+832
+01:00:11,600 --> 01:00:14,000
+Uma gigante vermelha.
+
+833
+01:00:18,000 --> 01:00:20,400
+Foi o presente
+do universo para você.
+
+834
+01:00:20,400 --> 01:00:22,100
+O quê?
+
+835
+01:00:23,100 --> 01:00:25,200
+Feliz aniversário.
+
+836
+01:00:32,500 --> 01:00:40,700
+<i>Parabéns para você...
+Parabéns para você...</i>
+
+837
+01:00:40,700 --> 01:00:44,900
+<i>Parabéns, querida Aurora...</i>
+
+838
+01:00:44,900 --> 01:00:49,000
+<i>Parabéns para você!</i>
+
+839
+01:00:51,000 --> 01:00:53,300
+Bebida de aniversário
+para a aniversariante.
+
+840
+01:00:53,300 --> 01:00:55,900
+Não quer ver meu RG?
+Sou muito nova para beber.
+
+841
+01:00:55,900 --> 01:00:58,400
+Nunca perguntaria sua idade
+junto a um cavalheiro.
+
+842
+01:00:58,400 --> 01:01:00,000
+Jim não é um cavalheiro.
+
+843
+01:01:00,000 --> 01:01:02,500
+E não há segredos
+entre eu e Jim.
+
+844
+01:01:03,500 --> 01:01:06,500
+- É verdade?
+- Ouviu o que ela disse.
+
+845
+01:01:06,500 --> 01:01:08,700
+Volto em um instante.
+
+846
+01:01:22,800 --> 01:01:25,200
+Foi um aniversário perfeito.
+Obrigada.
+
+847
+01:01:25,200 --> 01:01:28,800
+Me lembro deste dia,
+um ano atrás.
+
+848
+01:01:28,800 --> 01:01:31,200
+O Jim estava tão ansioso
+para te conhecer.
+
+849
+01:01:31,200 --> 01:01:33,200
+Como?
+
+850
+01:01:33,800 --> 01:01:36,100
+Como ele podia
+estar ansioso?
+
+851
+01:01:36,100 --> 01:01:38,900
+Ele passou meses decidindo
+se te acordaria.
+
+852
+01:01:38,900 --> 01:01:41,900
+Não falava em outra coisa.
+
+853
+01:01:45,700 --> 01:01:47,900
+Jim me acordou?
+
+854
+01:01:48,600 --> 01:01:50,000
+Sim, claro.
+
+855
+01:01:50,500 --> 01:01:53,400
+Disse que foi a decisão
+mais difícil da vida dele.
+
+856
+01:01:53,400 --> 01:01:56,500
+Mas vejo que tudo deu
+perfeitamente certo.
+
+857
+01:02:08,000 --> 01:02:09,800
+O que foi?
+
+858
+01:02:12,400 --> 01:02:14,500
+Você me acordou?
+
+859
+01:02:21,800 --> 01:02:23,900
+Sim, te acordei.
+
+860
+01:02:27,600 --> 01:02:29,400
+Como...?
+
+861
+01:02:30,000 --> 01:02:31,800
+Como pôde fazer isso?
+
+862
+01:02:34,200 --> 01:02:36,000
+Tentei evitar.
+
+863
+01:02:42,000 --> 01:02:44,300
+Estou me sentindo mal.
+
+864
+01:02:44,800 --> 01:02:46,900
+Não consigo ver!
+
+865
+01:02:48,000 --> 01:02:53,000
+- Aurora, por favor...
+- Fique longe de mim!
+
+866
+01:04:15,900 --> 01:04:18,000
+Posso conversar com você?
+
+867
+01:05:45,900 --> 01:05:47,700
+<i>Aurora.</i>
+
+868
+01:05:47,700 --> 01:05:51,000
+<i>Não há nada que eu possa dizer
+que consertará isso.</i>
+
+869
+01:05:51,400 --> 01:05:53,500
+<i>Mas por favor, me ouça.</i>
+
+870
+01:05:53,500 --> 01:05:55,400
+Eu estava tão sozinho.
+
+871
+01:05:55,700 --> 01:05:57,400
+Por tanto tempo.
+
+872
+01:05:58,800 --> 01:06:01,300
+Me senti
+como se estivesse desaparecendo.
+
+873
+01:06:02,100 --> 01:06:05,500
+Quando te vi pela primeira vez,
+estava pronto para...
+
+874
+01:06:08,100 --> 01:06:10,300
+Você salvou minha vida.
+
+875
+01:06:12,700 --> 01:06:15,800
+<i>E sei que isso
+não serve de desculpa.</i>
+
+876
+01:06:17,200 --> 01:06:19,300
+Li tudo que você escreveu.
+
+877
+01:06:19,300 --> 01:06:23,100
+<i>E me apaixonei pela sua voz,</i>
+
+878
+01:06:23,100 --> 01:06:25,900
+<i>pelo jeito
+que sua mente funciona.</i>
+
+879
+01:06:25,900 --> 01:06:28,400
+<i>Me apaixonei por você.</i>
+
+880
+01:06:29,600 --> 01:06:31,800
+<i>E de repente,</i>
+
+881
+01:06:31,800 --> 01:06:35,700
+era como se eu
+não estivesse mais preso.
+
+882
+01:06:35,700 --> 01:06:39,000
+Minha vida
+de repente ganhou sentido.
+
+883
+01:06:41,000 --> 01:06:43,600
+Eu gostaria de poder
+voltar atrás.
+
+884
+01:06:44,600 --> 01:06:46,500
+<i>Mas não posso.</i>
+
+885
+01:06:47,900 --> 01:06:49,800
+<i>Aurora, não quero te perder.</i>
+
+886
+01:06:49,800 --> 01:06:52,300
+Não me importa!
+
+887
+01:06:52,300 --> 01:06:54,500
+Não me importa
+o que você quer!
+
+888
+01:06:54,500 --> 01:06:57,000
+<i>Não me importa
+por que me acordou!</i>
+
+889
+01:06:57,300 --> 01:07:00,500
+Você tirou minha vida!
+
+890
+01:07:23,000 --> 01:07:24,900
+<i>Por favor, aguarde.</i>
+
+891
+01:07:24,900 --> 01:07:28,600
+<i>O controle da sua suíte
+está reiniciando.</i>
+
+892
+01:07:47,200 --> 01:07:49,500
+FALHA NO SISTEMA
+DE DISAGNÓSTICO
+
+893
+01:08:03,300 --> 01:08:05,400
+Tenho inveja
+de você, Arthur.
+
+894
+01:08:06,100 --> 01:08:07,500
+Por quê?
+
+895
+01:08:07,500 --> 01:08:09,200
+Você tem um objetivo.
+
+896
+01:08:11,200 --> 01:08:13,300
+Está sempre feliz.
+
+897
+01:08:13,900 --> 01:08:16,200
+Como está indo seu livro?
+
+898
+01:08:16,200 --> 01:08:19,000
+Nunca escrevi
+sobre mim antes.
+
+899
+01:08:19,000 --> 01:08:23,000
+É um dos meus melhores,
+mas nem sei por que escrevo.
+
+900
+01:08:24,100 --> 01:08:27,100
+Só há uma pessoa para lê-lo,
+e não o suporto.
+
+901
+01:08:27,100 --> 01:08:31,000
+Dizem que o tempo cura tudo.
+
+902
+01:08:33,400 --> 01:08:36,200
+Corações feridos
+não são tão simples.
+
+903
+01:08:38,700 --> 01:08:41,100
+Você não entenderia.
+
+904
+01:08:41,800 --> 01:08:43,800
+Arthur!
+
+905
+01:08:47,700 --> 01:08:49,900
+Terça é meu dia com Arthur.
+
+906
+01:08:49,900 --> 01:08:51,900
+Hoje é quarta.
+
+907
+01:08:59,200 --> 01:09:01,500
+O bar é todo seu.
+
+908
+01:09:09,400 --> 01:09:11,700
+O que vai querer?
+Whisky?
+
+909
+01:09:12,900 --> 01:09:14,300
+Café.
+
+910
+01:09:14,300 --> 01:09:16,700
+<i>Aurora, te amamos!</i>
+
+911
+01:09:16,700 --> 01:09:18,300
+<i>O que faremos sem você?</i>
+
+912
+01:09:21,400 --> 01:09:23,000
+<i>Melhor mulher que conheço.</i>
+
+913
+01:09:23,000 --> 01:09:24,400
+<i>Tchau, Aurora!</i>
+
+914
+01:09:24,400 --> 01:09:27,900
+<i>Prometo que pensarei
+em você todos os dias.</i>
+
+915
+01:09:27,900 --> 01:09:30,500
+<i>Quando você acordar
+não estarei aí,</i>
+
+916
+01:09:30,500 --> 01:09:33,100
+<i>mas saiba
+que nunca te esquecerei.</i>
+
+917
+01:09:33,900 --> 01:09:35,700
+<i>Você é minha melhor amiga.</i>
+
+918
+01:09:36,600 --> 01:09:38,900
+<i>Sei que nunca foi feliz aqui.</i>
+
+919
+01:09:39,400 --> 01:09:41,700
+<i>Nada era
+o suficiente para você.</i>
+
+920
+01:09:43,100 --> 01:09:48,700
+<i>Você não precisa ir,
+pode fazer tudo aqui mesmo.</i>
+
+921
+01:09:50,500 --> 01:09:53,700
+<i>Mas, já que está indo,</i>
+
+922
+01:09:53,700 --> 01:09:55,600
+<i>aqui estão meus desejos:</i>
+
+923
+01:09:57,200 --> 01:10:01,400
+<i>Desejo que finalmente encontre
+alguém que preencha seu coração,</i>
+
+924
+01:10:02,300 --> 01:10:04,400
+<i>e espero que o deixe entrar.</i>
+
+925
+01:10:05,200 --> 01:10:07,700
+<i>Desejo que perceba
+que não precisamos</i>
+
+926
+01:10:07,700 --> 01:10:10,200
+<i>fazer algo incrível
+para sermos felizes.</i>
+
+927
+01:10:11,900 --> 01:10:15,100
+<i>Divirta-se.</i>
+
+928
+01:10:15,800 --> 01:10:17,500
+<i>Arrisque.</i>
+
+929
+01:10:18,800 --> 01:10:21,200
+<i>Está bem.</i>
+
+930
+01:10:21,900 --> 01:10:23,900
+<i>Te amo, Aurora.</i>
+
+931
+01:10:24,400 --> 01:10:25,900
+<i>Tchau.</i>
+
+932
+01:10:28,200 --> 01:10:30,100
+Bom dia, Arthur!
+
+933
+01:10:30,700 --> 01:10:32,900
+- Café, por favor.
+- É pra já.
+
+934
+01:10:38,400 --> 01:10:40,900
+Está sujando meu bar?
+
+935
+01:10:40,900 --> 01:10:43,700
+Se quer fazer algo,
+tem que meter a mão na massa.
+
+936
+01:10:43,700 --> 01:10:47,000
+- E o que anda fazendo?
+- Melhorias.
+
+937
+01:10:47,800 --> 01:10:49,900
+<i>Saguão Principal.</i>
+
+938
+01:11:17,000 --> 01:11:18,800
+<i>Primeiro andar.</i>
+
+939
+01:11:31,600 --> 01:11:33,500
+<i>Café da manhã nível Gold.</i>
+
+940
+01:11:49,500 --> 01:11:52,000
+<i>Aqui é o Supervisor do Deck
+Gus Mancuso.</i>
+
+941
+01:11:52,500 --> 01:11:56,000
+<i>Quem diabos plantou
+uma árvore na minha nave?</i>
+
+942
+01:12:17,500 --> 01:12:20,500
+- Quem fez aquilo?
+- Fui eu.
+
+943
+01:12:20,500 --> 01:12:23,400
+- Quem são vocês?
+- Jim Preston.
+
+944
+01:12:24,600 --> 01:12:26,300
+Aurora Lane.
+
+945
+01:12:26,300 --> 01:12:29,200
+- Mais alguém acordado?
+- Só eu e ele.
+
+946
+01:12:29,900 --> 01:12:31,800
+Quanto já percorremos?
+
+947
+01:12:31,800 --> 01:12:34,200
+Faltam 88 anos.
+
+948
+01:12:42,000 --> 01:12:44,200
+Falha na câmara
+de hibernação.
+
+949
+01:12:45,200 --> 01:12:47,300
+Diziam que era
+impossível de acontecer.
+
+950
+01:12:47,300 --> 01:12:51,100
+Mas três pessoas,
+três falhas de câmara...
+
+951
+01:12:55,500 --> 01:12:58,800
+Não faz ideia de quanto tempo
+eu tentei entrar aqui.
+
+952
+01:12:58,800 --> 01:13:01,200
+Agora que entrou,
+não encoste em nada.
+
+953
+01:13:01,200 --> 01:13:02,900
+É aqui que estava?
+
+954
+01:13:02,900 --> 01:13:05,300
+Não, aqui é da tripulação,
+sou supervisor.
+
+955
+01:13:05,900 --> 01:13:08,700
+Comunicadores de navegação...
+
+956
+01:13:10,900 --> 01:13:13,000
+<i>Pessoa não autorizada.</i>
+
+957
+01:13:14,100 --> 01:13:15,600
+Me desculpe.
+
+958
+01:13:17,400 --> 01:13:20,900
+Se estou lendo isso certo,
+ainda estamos no percurso.
+
+959
+01:13:21,100 --> 01:13:24,000
+O que quer que esteja errado,
+não afetou a navegação.
+
+960
+01:13:24,000 --> 01:13:25,500
+Há algo de errado
+com a nave?
+
+961
+01:13:25,500 --> 01:13:28,200
+Três falhas de câmara?
+Sim, há algo errado.
+
+962
+01:13:28,200 --> 01:13:29,800
+Só não sabemos o quê.
+
+963
+01:13:32,200 --> 01:13:34,000
+Que estranho...
+
+964
+01:13:34,000 --> 01:13:36,800
+Era possível diagnosticar
+a nave toda por aqui,
+
+965
+01:13:36,800 --> 01:13:38,600
+mas não há informações.
+
+966
+01:13:40,200 --> 01:13:42,200
+Teremos que checar
+manualmente.
+
+967
+01:13:42,200 --> 01:13:44,400
+Não podemos voltar
+com a nave para a Terra?
+
+968
+01:13:44,400 --> 01:13:48,100
+Estamos a 50% da velocidade
+da luz, voltar demoraria mais.
+
+969
+01:13:48,100 --> 01:13:50,300
+Deve haver algo
+que possamos fazer!
+
+970
+01:13:50,300 --> 01:13:52,400
+Sinto muito,
+o rumo continua o mesmo.
+
+971
+01:13:54,900 --> 01:13:56,400
+Você está bem?
+
+972
+01:13:57,000 --> 01:13:58,900
+Ressaca da hibernação.
+
+973
+01:13:58,900 --> 01:14:00,800
+É sempre assim.
+
+974
+01:14:00,800 --> 01:14:02,700
+<i>Saguão Principal.</i>
+
+975
+01:14:02,700 --> 01:14:06,100
+Dois anos. Mais alguma árvore
+que eu precise saber?
+
+976
+01:14:06,100 --> 01:14:07,800
+Cuidado!
+
+977
+01:14:12,000 --> 01:14:13,800
+Nunca vi
+isso acontecer antes.
+
+978
+01:14:13,800 --> 01:14:16,200
+Estes robôs estão
+quebrando bastante.
+
+979
+01:14:16,200 --> 01:14:19,100
+Com este, já é o 15º.
+
+980
+01:14:19,100 --> 01:14:20,300
+15º...
+
+981
+01:14:20,400 --> 01:14:23,100
+- O servidor de café da manhã.
+- E o elevador.
+
+982
+01:14:23,100 --> 01:14:26,100
+Semana passada a porta quebrou.
+Fiquei presa dois dias.
+
+983
+01:14:26,100 --> 01:14:27,800
+Ficou presa?
+
+984
+01:14:27,800 --> 01:14:31,000
+Coisas assim não acontecem.
+Não nesta nave.
+
+985
+01:14:31,000 --> 01:14:34,100
+Há pelo menos 60 estações destas
+em cada deck.
+
+986
+01:14:34,100 --> 01:14:36,000
+Encaixe desta forma.
+
+987
+01:14:36,000 --> 01:14:38,800
+As informações ficarão
+registradas. Entenderam?
+
+988
+01:14:39,500 --> 01:14:42,400
+Você fica com os decks 1 e 2.
+Você, com o 3 e 4.
+
+989
+01:14:42,400 --> 01:14:45,800
+Vou para a ala de hibernação
+checar nossas câmaras.
+
+990
+01:14:46,500 --> 01:14:48,700
+Isso será interessante.
+
+991
+01:14:58,500 --> 01:15:01,000
+Era para estar
+fazendo as checagens.
+
+992
+01:15:01,600 --> 01:15:03,300
+Terminei.
+
+993
+01:15:05,500 --> 01:15:07,500
+Chequei sua câmara.
+
+994
+01:15:08,300 --> 01:15:11,200
+O problema foi simples,
+o relógio queimou.
+
+995
+01:15:11,200 --> 01:15:13,800
+Não era para acontecer, mas...
+Foi algo simples.
+
+996
+01:15:13,800 --> 01:15:15,500
+Já a minha foi
+mais complicada.
+
+997
+01:15:15,500 --> 01:15:18,400
+Várias falhas de sistema
+aconteceram ao mesmo tempo.
+
+998
+01:15:18,400 --> 01:15:20,800
+O sistema todo
+foi danificado.
+
+999
+01:15:22,400 --> 01:15:25,100
+O que explica
+por que não me sinto tão bem.
+
+1000
+01:15:25,100 --> 01:15:27,100
+Mas a câmara da Aurora...
+
+1001
+01:15:30,100 --> 01:15:32,300
+Foi você.
+
+1002
+01:15:34,100 --> 01:15:35,500
+Foi.
+
+1003
+01:15:35,500 --> 01:15:38,300
+E eu aqui pensando
+que você havia sido sortudo
+
+1004
+01:15:38,300 --> 01:15:40,000
+de ficar preso aqui com ela.
+
+1005
+01:15:42,700 --> 01:15:45,300
+Não foi sorte, foi?
+
+1006
+01:15:45,300 --> 01:15:46,800
+Não.
+
+1007
+01:15:46,800 --> 01:15:48,200
+Ela sabe?
+
+1008
+01:15:48,200 --> 01:15:50,000
+Ela sabe.
+
+1009
+01:15:51,500 --> 01:15:53,200
+Por quanto tempo
+ficou sozinho?
+
+1010
+01:15:53,200 --> 01:15:54,900
+Um ano.
+
+1011
+01:15:58,100 --> 01:15:59,900
+Ainda assim...
+
+1012
+01:16:01,200 --> 01:16:03,400
+Caramba.
+
+1013
+01:16:21,600 --> 01:16:23,700
+O mesmo que os outros.
+
+1014
+01:16:23,700 --> 01:16:25,900
+Sistemas desligados...
+
+1015
+01:16:25,900 --> 01:16:28,600
+Em vários lugares,
+mas não há uma conexão.
+
+1016
+01:16:30,200 --> 01:16:32,600
+Viu as câmaras de hibernação?
+
+1017
+01:16:32,600 --> 01:16:34,600
+Vi.
+
+1018
+01:16:35,900 --> 01:16:37,900
+Então você sabe?
+
+1019
+01:16:38,700 --> 01:16:40,600
+O que o Jim fez...
+
+1020
+01:16:42,400 --> 01:16:44,300
+Sim.
+
+1021
+01:16:45,000 --> 01:16:46,500
+E...?
+
+1022
+01:16:46,500 --> 01:16:49,200
+- Não cabe a mim...
+- Ele me acordou!
+
+1023
+01:16:49,200 --> 01:16:50,800
+Ele tirou minha vida!
+
+1024
+01:16:50,800 --> 01:16:52,900
+Sei disso, e sinto muito.
+Mas temos que...
+
+1025
+01:16:52,900 --> 01:16:54,900
+É assassinato!
+
+1026
+01:16:57,500 --> 01:16:59,600
+Está certa, Aurora.
+
+1027
+01:16:59,600 --> 01:17:02,700
+Mas aquele que está se afogando
+sempre arrastará alguém junto.
+
+1028
+01:17:02,700 --> 01:17:06,500
+Não é certo,
+mas ele está se afogando.
+
+1029
+01:17:07,800 --> 01:17:09,700
+Com esse, são 16.
+
+1030
+01:17:16,300 --> 01:17:18,700
+Você está bem?
+
+1031
+01:17:20,800 --> 01:17:22,600
+- Deveria ir descansar.
+- Sim.
+
+1032
+01:17:24,100 --> 01:17:28,600
+Mas só por algumas horas.
+Voltaremos aqui de manhã.
+
+1033
+01:18:21,200 --> 01:18:24,200
+PERDA DE GRAVIDADE
+
+1034
+01:19:32,300 --> 01:19:34,900
+CONTROLE DE GRAVIDADE
+DESATIVADO
+
+1035
+01:20:15,500 --> 01:20:17,600
+Estava na piscina
+quando a gravidade parou.
+
+1036
+01:20:17,600 --> 01:20:19,800
+- Está bem?
+- Precisamos achar o Gus.
+
+1037
+01:20:21,600 --> 01:20:23,500
+<i>Gus! Gus!</i>
+
+1038
+01:20:23,900 --> 01:20:25,400
+Perda de gravidade significa
+
+1039
+01:20:25,400 --> 01:20:27,600
+que algo começou
+a afetar coisas importantes.
+
+1040
+01:20:27,600 --> 01:20:28,900
+Nada bom.
+
+1041
+01:20:29,400 --> 01:20:34,100
+Cada falha faz parte, a nave
+está se sobrecarregando.
+
+1042
+01:20:34,500 --> 01:20:36,000
+Por quê?
+
+1043
+01:20:36,500 --> 01:20:39,800
+Computador, mostre estes dados
+de acordo com o tempo.
+
+1044
+01:20:39,800 --> 01:20:41,600
+<i>Processando linha do tempo.</i>
+
+1045
+01:20:42,800 --> 01:20:44,700
+Certo, vamos ver.
+
+1046
+01:20:45,700 --> 01:20:48,200
+Começou dois anos atrás,
+com um surto de energia.
+
+1047
+01:20:48,700 --> 01:20:51,400
+17 falhas em um dia.
+
+1048
+01:20:51,900 --> 01:20:54,300
+Incluindo na câmara
+de hibernação 1498.
+
+1049
+01:20:54,300 --> 01:20:57,100
+Foi a minha.
+Quando me acordou.
+
+1050
+01:20:58,700 --> 01:21:01,400
+- O que aconteceu nesse dia?
+- Algo grande.
+
+1051
+01:21:01,600 --> 01:21:03,800
+Algum sistema vital
+foi danificado.
+
+1052
+01:21:04,400 --> 01:21:07,000
+Todos os outros sistemas estão
+tentando compensar,
+
+1053
+01:21:07,000 --> 01:21:08,400
+mas a carga é grande demais.
+
+1054
+01:21:08,400 --> 01:21:10,700
+Precisamos descobrir
+o que iniciou tudo isso.
+
+1055
+01:21:10,700 --> 01:21:13,300
+- E consertar.
+- Quanto mais pode piorar?
+
+1056
+01:21:14,400 --> 01:21:16,900
+Faça uma análise de risco
+com base nestes dados.
+
+1057
+01:21:16,900 --> 01:21:18,700
+<i>Extrapolando.</i>
+
+1058
+01:21:18,700 --> 01:21:21,100
+<i>Falha crítica iminente.</i>
+
+1059
+01:21:21,100 --> 01:21:22,400
+<i>Sistemas que irão falhar:</i>
+
+1060
+01:21:22,400 --> 01:21:24,300
+<i>Suporte Vital,
+Reator de Fusão...</i>
+
+1061
+01:21:24,300 --> 01:21:26,200
+Estamos presos.
+
+1062
+01:21:26,900 --> 01:21:29,400
+Em uma nave
+que está afundando.
+
+1063
+01:21:37,600 --> 01:21:39,500
+<i>Central de Engenharia.</i>
+
+1064
+01:21:39,500 --> 01:21:42,700
+Algo muito grande
+deve ter nos atingido.
+
+1065
+01:21:45,500 --> 01:21:47,000
+Sem o sistema de diagnósticos,
+
+1066
+01:21:47,000 --> 01:21:48,800
+nós mesmos
+teremos que encontrar.
+
+1067
+01:21:48,800 --> 01:21:50,700
+Por onde começamos?
+
+1068
+01:21:51,300 --> 01:21:52,700
+Gus!
+
+1069
+01:21:56,400 --> 01:21:57,900
+<i>Escaneamento completo.</i>
+
+1070
+01:21:57,900 --> 01:21:59,700
+<i>Analisando dados.</i>
+
+1071
+01:22:00,000 --> 01:22:01,700
+612 PROBLEMAS ENCONTRADOS
+
+1072
+01:22:03,000 --> 01:22:05,100
+O que diz
+que está errado comigo?
+
+1073
+01:22:05,100 --> 01:22:06,800
+Algumas coisas.
+
+1074
+01:22:06,800 --> 01:22:09,200
+<i>612 problemas encontrados.</i>
+
+1075
+01:22:09,700 --> 01:22:11,600
+Me tire daqui.
+
+1076
+01:22:25,600 --> 01:22:27,600
+Qual é o prognóstico?
+
+1077
+01:22:27,600 --> 01:22:31,200
+Prognósticos não podem ser
+discutidos sem médico presente.
+
+1078
+01:22:31,600 --> 01:22:35,800
+Autorização para desobedecer.
+Identificação 2317.
+
+1079
+01:22:35,800 --> 01:22:37,400
+Me diga, doutor.
+
+1080
+01:22:37,400 --> 01:22:39,200
+<i>Necrose pansistêmica.</i>
+
+1081
+01:22:39,200 --> 01:22:42,000
+<i>Falha progressiva de órgãos.
+Causa desconhecida.</i>
+
+1082
+01:22:42,000 --> 01:22:44,700
+Foram as falhas
+na minha câmara de hibernação.
+
+1083
+01:22:44,700 --> 01:22:47,600
+- Qual o tratamento?
+- <i>Vários são possíveis.</i>
+
+1084
+01:22:47,600 --> 01:22:50,700
+<i>Nenhum irá estender
+a vida do paciente.</i>
+
+1085
+01:22:53,700 --> 01:22:55,400
+Quanto tempo tenho?
+
+1086
+01:22:55,400 --> 01:22:58,600
+<i>Já estamos enviando ajuda
+para sua transição.</i>
+
+1087
+01:22:59,400 --> 01:23:03,400
+<i>Eles aliviarão seu sofrimento
+para estas suas últimas horas.</i>
+
+1088
+01:23:20,900 --> 01:23:22,400
+Gus?
+
+1089
+01:23:26,800 --> 01:23:29,000
+Preciso de um minuto.
+
+1090
+01:23:58,600 --> 01:24:01,700
+<i>Estamos passando
+por dificuldades em nosso voo.</i>
+
+1091
+01:24:01,700 --> 01:24:04,700
+- Gus!
+- Gus! Onde ele pode estar?
+
+1092
+01:24:04,700 --> 01:24:07,900
+<i>Para sua segurança,
+favor retornar às suas cabines.</i>
+
+1093
+01:24:18,100 --> 01:24:20,900
+Merda, as pílulas...
+
+1094
+01:24:20,900 --> 01:24:23,400
+- Vou pegá-las.
+- Não, fique.
+
+1095
+01:24:30,600 --> 01:24:33,300
+Cuidem um do outro.
+
+1096
+01:24:42,400 --> 01:24:44,500
+Minha pulseira
+de identificação.
+
+1097
+01:24:45,600 --> 01:24:48,400
+Vocês precisam ir.
+
+1098
+01:24:49,100 --> 01:24:51,400
+Consertem a nave.
+
+1099
+01:24:52,400 --> 01:24:54,500
+Descubram o que há de errado.
+
+1100
+01:24:57,100 --> 01:24:59,600
+Como estou?
+
+1101
+01:24:59,600 --> 01:25:02,100
+Está magnífico.
+
+1102
+01:25:03,000 --> 01:25:05,900
+As mulheres adoram
+bem vestidos...
+
+1103
+01:25:14,200 --> 01:25:16,400
+O que faremos agora?
+
+1104
+01:25:23,000 --> 01:25:24,800
+Isso não pode ser bom.
+
+1105
+01:25:27,700 --> 01:25:29,400
+Vou voltar à Engenharia.
+
+1106
+01:25:29,400 --> 01:25:31,300
+Consegue consertar isso?
+
+1107
+01:25:31,300 --> 01:25:33,000
+Preciso da sua ajuda.
+
+1108
+01:25:36,400 --> 01:25:37,700
+Vamos!
+
+1109
+01:26:00,000 --> 01:26:01,400
+Arthur!
+
+1110
+01:26:17,000 --> 01:26:18,400
+Vamos!
+
+1111
+01:26:21,700 --> 01:26:23,600
+<i>Central de Engenharia.</i>
+
+1112
+01:26:23,900 --> 01:26:26,100
+Não podemos
+acordar a tripulação?
+
+1113
+01:26:26,100 --> 01:26:28,600
+Demoraria muito,
+não temos tempo.
+
+1114
+01:26:28,600 --> 01:26:30,400
+O que estamos procurando?
+
+1115
+01:26:30,900 --> 01:26:32,800
+Algo quebrado.
+
+1116
+01:26:33,100 --> 01:26:34,800
+Algo grande.
+
+1117
+01:26:34,800 --> 01:26:36,200
+Vamos!
+
+1118
+01:26:37,800 --> 01:26:40,300
+- Está quebrado?
+- Parece que não.
+
+1119
+01:26:40,300 --> 01:26:43,300
+- Qual o próximo?
+- Gerador de energia. Por aqui.
+
+1120
+01:26:49,100 --> 01:26:50,900
+Vamos!
+
+1121
+01:26:51,100 --> 01:26:53,500
+A seção inteira está fechada.
+Algo está errado.
+
+1122
+01:26:53,500 --> 01:26:55,000
+Estamos procurando
+o "errado".
+
+1123
+01:26:55,000 --> 01:26:57,000
+Tente abrir.
+
+1124
+01:27:10,000 --> 01:27:13,600
+<i>Falha na pressão.
+Iniciando contenção.</i>
+
+1125
+01:27:15,900 --> 01:27:18,200
+<i>Favor fechar
+portas de contenção.</i>
+
+1126
+01:27:18,200 --> 01:27:19,500
+Aurora!
+
+1127
+01:27:21,400 --> 01:27:24,800
+<i>Aviso: Nível
+de oxigênio perigoso.</i>
+
+1128
+01:27:24,800 --> 01:27:26,800
+<i>Favor fechar
+portas de contenção.</i>
+
+1129
+01:27:35,800 --> 01:27:38,300
+<i>Aviso: Nível
+de oxigênio perigoso.</i>
+
+1130
+01:27:38,300 --> 01:27:40,400
+<i>Favor fechar
+portas de contenção.</i>
+
+1131
+01:27:44,300 --> 01:27:46,300
+Segure isto!
+
+1132
+01:27:52,500 --> 01:27:55,400
+<i>Aumento da pressão
+mal-sucedida.</i>
+
+1133
+01:28:04,100 --> 01:28:06,300
+<i>Pressão normalizada.</i>
+
+1134
+01:28:06,900 --> 01:28:08,600
+<i>Nível de oxigênio restaurado.</i>
+
+1135
+01:28:08,700 --> 01:28:10,600
+<i>Encerrando contenção.</i>
+
+1136
+01:28:10,600 --> 01:28:13,400
+Tem um buraco na nave.
+
+1137
+01:28:15,400 --> 01:28:17,200
+Mais de um.
+
+1138
+01:28:20,300 --> 01:28:22,900
+Como isso pôde acontecer?
+Ela é à prova de meteoros.
+
+1139
+01:28:22,900 --> 01:28:24,900
+Acho que um deve ter passado.
+
+1140
+01:28:32,600 --> 01:28:34,100
+Está quente!
+
+1141
+01:28:40,700 --> 01:28:42,800
+Acho que encontramos.
+
+1142
+01:28:52,100 --> 01:28:54,500
+É o computador
+que controla o reator.
+
+1143
+01:29:00,800 --> 01:29:02,300
+Nos atingiu
+dois anos atrás.
+
+1144
+01:29:02,300 --> 01:29:03,700
+Jim...
+
+1145
+01:29:04,400 --> 01:29:06,300
+Como vamos consertar isso?
+
+1146
+01:29:09,300 --> 01:29:10,600
+Vamos morrer.
+
+1147
+01:29:10,600 --> 01:29:12,500
+Há peças sobressalentes
+para tudo.
+
+1148
+01:29:17,000 --> 01:29:19,900
+- Luz.
+- Me desculpe.
+
+1149
+01:29:21,500 --> 01:29:24,400
+Assim que eu puxar,
+o computador desligará.
+
+1150
+01:29:24,400 --> 01:29:25,900
+E o que acontecerá então?
+
+1151
+01:29:27,400 --> 01:29:29,800
+Tentarei encaixar o novo
+o mais rápido que puder.
+
+1152
+01:29:33,800 --> 01:29:35,200
+Rápido!
+
+1153
+01:29:37,400 --> 01:29:38,700
+Jim!
+
+1154
+01:29:41,700 --> 01:29:44,200
+<i>Computador de controle
+restaurado.</i>
+
+1155
+01:29:45,200 --> 01:29:47,300
+<i>Ventilando reator.</i>
+
+1156
+01:29:49,100 --> 01:29:50,500
+Mas nós consertamos!
+
+1157
+01:29:50,500 --> 01:29:54,200
+<i>Falha na comporta de ventilação.
+Ativação manual necessária.</i>
+
+1158
+01:29:59,600 --> 01:30:00,900
+<i>Falha na ventilação.</i>
+
+1159
+01:30:01,200 --> 01:30:02,700
+- Vamos!
+- Jim...
+
+1160
+01:30:07,200 --> 01:30:09,200
+<i>Porta exterior inoperante.</i>
+
+1161
+01:30:09,200 --> 01:30:10,800
+O que isso significa?
+
+1162
+01:30:12,700 --> 01:30:14,800
+A porta exterior
+está emperrada.
+
+1163
+01:30:14,800 --> 01:30:16,800
+Precisamos abri-la
+para esfriar o reator
+
+1164
+01:30:16,800 --> 01:30:18,100
+ou a nave explodirá.
+
+1165
+01:30:18,100 --> 01:30:20,800
+- Como?
+- Tenho que ir lá fora.
+
+1166
+01:30:20,800 --> 01:30:22,900
+Abrir por fora.
+
+1167
+01:30:23,400 --> 01:30:25,600
+Abrirei a porta
+e me afastarei.
+
+1168
+01:30:26,200 --> 01:30:28,100
+Você manda aquele fogo
+para o espaço.
+
+1169
+01:30:28,100 --> 01:30:30,800
+- Você se afastará?
+- Nos comunicaremos com isto.
+
+1170
+01:30:30,800 --> 01:30:32,900
+O que acontecerá
+quando abrir a porta?
+
+1171
+01:30:43,200 --> 01:30:45,700
+Para-brisas.
+Talvez ajude.
+
+1172
+01:30:54,100 --> 01:30:55,700
+Talvez precise disto.
+
+1173
+01:31:09,500 --> 01:31:11,100
+Vai ficar tudo bem.
+
+1174
+01:31:20,600 --> 01:31:22,100
+Já vou indo.
+
+1175
+01:31:27,300 --> 01:31:28,600
+Jim.
+
+1176
+01:31:28,900 --> 01:31:30,200
+Jim...
+
+1177
+01:31:32,900 --> 01:31:34,500
+Volte para mim.
+
+1178
+01:31:35,800 --> 01:31:38,500
+Não posso viver
+nesta nave sem você.
+
+1179
+01:32:04,100 --> 01:32:06,800
+<i>Aviso: Temperatura crítica.</i>
+
+1180
+01:32:19,600 --> 01:32:20,900
+O que aconteceu?
+
+1181
+01:32:22,300 --> 01:32:24,200
+<i>O que foi? Está bem?</i>
+
+1182
+01:32:24,200 --> 01:32:25,800
+Não foi nada, pode ir.
+
+1183
+01:32:25,800 --> 01:32:27,700
+- <i>Certeza?</i>
+- Vá.
+
+1184
+01:32:35,400 --> 01:32:37,400
+Entrando
+no tubo de ventilação.
+
+1185
+01:32:38,100 --> 01:32:40,900
+<i>Novo porto.
+Resetar ancoragem.</i>
+
+1186
+01:32:44,300 --> 01:32:45,900
+Estou vendo a comporta.
+
+1187
+01:32:46,500 --> 01:32:48,900
+<i>Temperatura aumentando.</i>
+
+1188
+01:32:55,800 --> 01:32:58,500
+<i>Nível de temperatura crítico.</i>
+
+1189
+01:33:04,300 --> 01:33:07,100
+<i>Nível de contenção instável.</i>
+
+1190
+01:33:08,000 --> 01:33:09,500
+Onde está você?
+
+1191
+01:33:09,500 --> 01:33:12,000
+- Estou na porta.
+- <i>Só me avise quando.</i>
+
+1192
+01:33:12,000 --> 01:33:13,600
+Lá vai.
+
+1193
+01:33:16,600 --> 01:33:19,500
+A porta não está abrindo.
+Terei que contornar o sistema.
+
+1194
+01:33:22,000 --> 01:33:24,000
+<i>Nível de temperatura
+aumentando.</i>
+
+1195
+01:33:25,000 --> 01:33:26,600
+<i>Jim, vamos!</i>
+
+1196
+01:33:26,600 --> 01:33:28,100
+<i>Por favor, apresse-se!</i>
+
+1197
+01:33:28,100 --> 01:33:31,100
+- Vou tentar de novo.
+- <i>Me avise quando.</i>
+
+1198
+01:33:35,000 --> 01:33:37,000
+- Não!
+- O que foi?
+
+1199
+01:33:37,600 --> 01:33:39,200
+O que está acontecendo?
+
+1200
+01:33:39,500 --> 01:33:41,000
+<i>Jim?</i>
+
+1201
+01:33:45,300 --> 01:33:46,600
+Jim!
+
+1202
+01:33:46,600 --> 01:33:48,500
+A porta não quer
+ficar aberta.
+
+1203
+01:33:50,000 --> 01:33:53,400
+Vou ter que ficar aqui
+para segurá-la aberta.
+
+1204
+01:33:54,400 --> 01:33:56,000
+Não!
+
+1205
+01:33:56,000 --> 01:33:57,500
+<i>De jeito nenhum, saia daí!</i>
+
+1206
+01:33:57,500 --> 01:33:59,000
+Não posso.
+
+1207
+01:33:59,000 --> 01:34:00,400
+<i>Jim...</i>
+
+1208
+01:34:00,800 --> 01:34:02,400
+Estamos sem tempo.
+
+1209
+01:34:03,900 --> 01:34:06,400
+- <i>Nível de contenção...</i>
+- Jim!
+
+1210
+01:34:12,900 --> 01:34:14,500
+Ative a ventilação.
+
+1211
+01:34:20,800 --> 01:34:23,700
+<i>Não, você
+não está entendendo!</i>
+
+1212
+01:34:24,200 --> 01:34:26,700
+<i>Se eu abrir agora,
+você irá morrer!</i>
+
+1213
+01:34:26,700 --> 01:34:28,200
+Espero que não.
+
+1214
+01:34:28,200 --> 01:34:30,100
+Volte, pensaremos
+em outra coisa.
+
+1215
+01:34:30,100 --> 01:34:31,600
+Não há "outra coisa".
+
+1216
+01:34:32,800 --> 01:34:34,300
+Jim!
+
+1217
+01:34:35,100 --> 01:34:37,200
+- Está tudo bem.
+- Não está não!
+
+1218
+01:34:37,200 --> 01:34:40,200
+- Aurora...
+- <i>Nível de temperatura excedido.</i>
+
+1219
+01:34:40,200 --> 01:34:42,400
+Não era para ser assim!
+
+1220
+01:34:43,600 --> 01:34:45,900
+- Aurora, a nave vai explodir.
+- Não me importo.
+
+1221
+01:34:45,900 --> 01:34:47,600
+Se você morrer, eu morro.
+
+1222
+01:34:48,000 --> 01:34:50,800
+Há 5.000 pessoas na nave.
+
+1223
+01:34:51,900 --> 01:34:53,900
+Precisamos fazer isso.
+
+1224
+01:34:54,800 --> 01:34:56,700
+<i>Pressão máxima alcançada.</i>
+
+1225
+01:34:59,900 --> 01:35:02,400
+Ative. Agora.
+
+1226
+01:35:03,600 --> 01:35:05,800
+<i>Pressão máxima alcançada.</i>
+
+1227
+01:35:27,000 --> 01:35:29,100
+<i>Temperatura diminuindo.</i>
+
+1228
+01:35:30,600 --> 01:35:32,100
+Jim...
+
+1229
+01:35:49,800 --> 01:35:50,800
+Jim.
+
+1230
+01:35:50,800 --> 01:35:52,200
+<i>Ventilação bem sucedida.</i>
+
+1231
+01:35:52,200 --> 01:35:54,700
+<i>Processo
+de reiniciação ativado.</i>
+
+1232
+01:35:54,700 --> 01:35:56,100
+Jim, diga alguma coisa.
+
+1233
+01:36:32,700 --> 01:36:35,400
+<i>Pressão do traje caindo.</i>
+
+1234
+01:36:38,200 --> 01:36:41,300
+Retorne à nave imediatamente.
+
+1235
+01:36:42,400 --> 01:36:43,900
+Aurora.
+
+1236
+01:36:45,300 --> 01:36:46,800
+Funcionou!
+
+1237
+01:36:46,800 --> 01:36:48,600
+Você conseguiu,
+pode voltar agora.
+
+1238
+01:36:48,600 --> 01:36:52,000
+- Então, quanto a isso...
+- O que foi, se machucou?
+
+1239
+01:36:53,000 --> 01:36:55,700
+- <i>O fogo me jogou para longe.</i>
+- Como...?
+
+1240
+01:36:55,700 --> 01:36:58,500
+Minha ancoragem quebrou,
+não consigo voltar.
+
+1241
+01:36:59,200 --> 01:37:01,600
+Vou sair e te puxar.
+
+1242
+01:37:01,600 --> 01:37:04,600
+<i>Aviso: Nível
+de oxigênio crítico.</i>
+
+1243
+01:37:04,600 --> 01:37:07,000
+<i>Retorne à nave imediatamente.</i>
+
+1244
+01:37:15,100 --> 01:37:18,000
+Aurora, me desculpe...
+
+1245
+01:37:19,400 --> 01:37:20,900
+Por tudo...
+
+1246
+01:37:20,900 --> 01:37:22,900
+Cale a boca, estou indo!
+
+1247
+01:37:23,400 --> 01:37:27,500
+<i>Eu queria que tivéssemos
+nos encontrado em 90 anos.</i>
+
+1248
+01:37:32,500 --> 01:37:36,300
+Eu teria construído
+uma casa para você.
+
+1249
+01:37:40,000 --> 01:37:42,700
+Eu teria lido seu livro.
+
+1250
+01:37:44,500 --> 01:37:46,500
+Vai ficar tudo bem.
+
+1251
+01:37:59,000 --> 01:38:00,400
+<i>Ancoragem acoplada.</i>
+
+1252
+01:38:00,400 --> 01:38:02,300
+Localizar Jim Preston.
+
+1253
+01:38:06,600 --> 01:38:09,500
+<i>Jim Preston localizado.</i>
+
+1254
+01:38:10,100 --> 01:38:11,700
+Vou te buscar.
+
+1255
+01:38:36,400 --> 01:38:37,900
+Jim!
+
+1256
+01:39:37,700 --> 01:39:40,500
+<i>Sinto muito.
+O paciente está morto.</i>
+
+1257
+01:39:40,500 --> 01:39:41,900
+Ressucite-o!
+
+1258
+01:39:41,900 --> 01:39:45,200
+<i>Operações pós-morte requerem
+autorização médica.</i>
+
+1259
+01:39:45,300 --> 01:39:46,800
+Não...
+
+1260
+01:39:55,300 --> 01:39:57,700
+Autorização!
+Autorização para desobedecer!
+
+1261
+01:39:57,700 --> 01:40:02,100
+Identificação: Um-Sete...
+
+1262
+01:40:02,100 --> 01:40:04,000
+Dois...
+
+1263
+01:40:04,600 --> 01:40:06,400
+Dois-Dois...
+
+1264
+01:40:07,600 --> 01:40:10,100
+Dois-Três-Um-Sete!
+Identificação 2317!
+
+1265
+01:40:12,900 --> 01:40:14,700
+RESSUSCITAÇÃO
+
+1266
+01:40:14,700 --> 01:40:16,300
+DEFIBRILAÇÃO
+OXIGENAÇÃO
+
+1267
+01:40:18,400 --> 01:40:20,500
+<i>Múltiplos procedimentos
+não recomendado.</i>
+
+1268
+01:40:20,500 --> 01:40:21,900
+Desobedecer!
+
+1269
+01:40:21,900 --> 01:40:23,600
+Agora!
+
+1270
+01:40:23,600 --> 01:40:25,100
+<i>Executando.</i>
+
+1271
+01:41:27,600 --> 01:41:29,200
+Jim!
+
+1272
+01:41:56,900 --> 01:41:59,000
+Você me trouxe de volta.
+
+1273
+01:41:59,000 --> 01:42:00,800
+É...
+
+1274
+01:42:24,200 --> 01:42:26,000
+Obrigado.
+
+1275
+01:42:26,000 --> 01:42:28,500
+- Fique parado.
+- Claro.
+
+1276
+01:43:13,400 --> 01:43:15,900
+Tem algo
+que preciso te mostrar.
+
+1277
+01:43:15,900 --> 01:43:19,300
+No modo Comando, a estação
+de tratamento tem a opção
+
+1278
+01:43:19,300 --> 01:43:21,600
+chamada
+"Estabilizar e Suspender".
+
+1279
+01:43:21,600 --> 01:43:24,300
+Ela interrompe
+toda atividade metabólica.
+
+1280
+01:43:25,800 --> 01:43:27,400
+O que está dizendo?
+
+1281
+01:43:27,400 --> 01:43:29,900
+Foi ideia do Gus.
+É como uma hibernação,
+
+1282
+01:43:29,900 --> 01:43:32,600
+fora das câmaras.
+Você poderia voltar a dormir.
+
+1283
+01:43:36,800 --> 01:43:39,200
+Mas só há uma estação.
+
+1284
+01:43:43,200 --> 01:43:44,700
+Isso.
+
+1285
+01:43:46,700 --> 01:43:51,100
+E você irá deitar nela,
+e dormir.
+
+1286
+01:43:51,800 --> 01:43:54,300
+E acordará em Homestead II,
+
+1287
+01:43:54,300 --> 01:43:56,300
+e escreverá seu livro.
+
+1288
+01:43:57,600 --> 01:44:00,800
+Realize seu sonho,
+faça o que veio fazer.
+
+1289
+01:44:09,100 --> 01:44:11,200
+Você ficaria sozinho.
+
+1290
+01:44:12,100 --> 01:44:14,400
+Já fiquei sozinho antes.
+
+1291
+01:44:14,400 --> 01:44:16,400
+Ficarei bem.
+
+1292
+01:44:17,400 --> 01:44:19,700
+Mas eu nunca o veria de novo.
+
+1293
+01:44:22,500 --> 01:44:24,800
+Eu viria te visitar.
+
+1294
+01:45:07,400 --> 01:45:10,200
+Terça é o meu dia com Arthur.
+
+1295
+01:45:11,400 --> 01:45:13,300
+Adorável como sempre.
+
+1296
+01:45:13,300 --> 01:45:15,700
+Obrigada, Arthur.
+Você também está lindo.
+
+1297
+01:45:15,700 --> 01:45:17,200
+Graças a você.
+
+1298
+01:45:18,200 --> 01:45:19,700
+O que é isso?
+
+1299
+01:45:21,700 --> 01:45:24,700
+Algo que quis te dar
+já faz muito tempo.
+
+1300
+01:45:31,200 --> 01:45:33,100
+É lindo.
+
+1301
+01:45:45,400 --> 01:45:48,400
+Demorou para perguntar.
+
+1302
+01:45:51,000 --> 01:45:53,100
+Champanhe.
+
+1303
+01:45:53,100 --> 01:45:54,500
+Eu espero.
+
+1304
+01:46:11,500 --> 01:46:13,200
+Uma bela de uma vida.
+
+1305
+01:46:15,800 --> 01:46:17,700
+Uma bela de uma vida...
+
+1306
+01:46:36,200 --> 01:46:40,200
+HOMESTEAD II
+
+1307
+01:46:40,200 --> 01:46:47,000
+HOMESTEAD II
+88 ANOS DEPOIS
+
+1308
+01:46:48,800 --> 01:46:52,500
+<i>Processo de acordar
+a tripulação iniciado.</i>
+
+1309
+01:46:52,800 --> 01:46:56,700
+<i>"Meus caros passageiros,
+se estão lendo isto,</i>
+
+1310
+01:46:56,700 --> 01:47:00,500
+<i>então a nave Avalon
+chegou ao seu destino.</i>
+
+1311
+01:47:02,600 --> 01:47:04,900
+<i>Muita coisa aconteceu
+enquanto dormiam.</i>
+
+1312
+01:47:11,900 --> 01:47:13,800
+<i>Um amigo uma vez me disse</i>
+
+1313
+01:47:13,800 --> 01:47:17,000
+<i>que não pode ficar preso
+a onde você quer estar</i>
+
+1314
+01:47:17,000 --> 01:47:20,700
+<i>a ponto de esquecer
+de aproveitar onde está.</i>
+
+1315
+01:47:21,300 --> 01:47:23,600
+<i>Nos perdemos no caminho.</i>
+
+1316
+01:47:24,300 --> 01:47:26,100
+<i>Mas nos encontramos.</i>
+
+1317
+01:47:26,600 --> 01:47:28,600
+<i>E fizemos uma vida.</i>
+
+1318
+01:47:28,600 --> 01:47:30,600
+<i>Uma vida linda.</i>
+
+1319
+01:47:31,000 --> 01:47:32,700
+<i>Juntos.</i>
+
+										
+  
+
+   
+
+     
+
+
+ 
+   
+ 
+ 
+
+ 
+
+										
+   
+  
+
+
+
+
+ 
+ 
+
+ 
+  
+

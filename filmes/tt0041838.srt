@@ -1,0 +1,8199 @@
+1
+00:00:03,339 --> 00:00:09,203
+<b>ABERTURA</b>
+
+2
+00:00:11,000 --> 00:00:17,074
+Contribua tornando-se um usuário VIP 
+e remova todos os anúncios do www.OpenSubtitles.org
+
+3
+00:04:11,706 --> 00:04:17,406
+<b>SANSÃO E DALILA</b>
+
+4
+00:05:46,855 --> 00:05:51,100
+<b>PRODUÇÃO E REALIZAÇÃO
+CECIL B. DeMILLE</b>
+
+5
+00:05:58,007 --> 00:06:00,307
+<i>Antes do início da História,</i>
+
+6
+00:06:00,308 --> 00:06:04,137
+<i>exactamente desde que o primeiro
+Homem descobriu a sua alma,</i>
+
+7
+00:06:04,200 --> 00:06:06,506
+<i>ele lutou contra as forças</i>
+
+8
+00:06:06,510 --> 00:06:08,978
+<i>que procuravam escravizá-lo.</i>
+
+9
+00:06:09,090 --> 00:06:11,151
+<i>Ele viu o terrível poder da Natureza</i>
+
+10
+00:06:11,200 --> 00:06:12,876
+<i>lançado contra ele.</i>
+
+11
+00:06:12,970 --> 00:06:15,555
+<i>O olho diabólico do raio,</i>
+
+12
+00:06:15,595 --> 00:06:18,919
+<i>o som aterrorizador do trovão,</i>
+
+13
+00:06:18,960 --> 00:06:21,720
+<i>o bramido do vento forte na escuridão,</i>
+
+14
+00:06:21,750 --> 00:06:26,195
+<i>escravizando a sua mente
+com as grilhetas do medo.</i>
+
+15
+00:06:26,220 --> 00:06:30,427
+<i>O medo alimentou a superstição
+cegando a sua razão.</i>
+
+16
+00:06:30,638 --> 00:06:33,971
+<i>Foi dominado por uma hoste
+de deuses demoníacos.</i>
+
+17
+00:06:34,175 --> 00:06:38,490
+<i>A dignidade Humana pereceu
+no altar da idolatria.</i>
+
+18
+00:06:39,320 --> 00:06:41,330
+<i>E a tirania despertou,</i>
+
+19
+00:06:41,860 --> 00:06:45,790
+<i>esmagando o Espírito Humano
+sob o calcanhar do conquistador.</i>
+
+20
+00:06:46,300 --> 00:06:49,350
+<i>Mas, bem lá no fundo no coração do
+homem, ainda ardia,</i>
+
+21
+00:06:49,450 --> 00:06:52,105
+<i>o inextinguível desejo de Liberdade.</i>
+
+22
+00:06:53,290 --> 00:06:57,600
+<i>Quando esta centelha divina arde
+na alma de algum mortal,</i>
+
+23
+00:06:57,998 --> 00:06:59,693
+<i>seja sacerdote ou soldado,</i>
+
+24
+00:06:59,780 --> 00:07:01,697
+<i>artista ou patriota,</i>
+
+25
+00:07:01,902 --> 00:07:03,927
+<i>amante ou estadista,</i>
+
+26
+00:07:04,030 --> 00:07:07,403
+<i>os seus feitos mudam
+o curso da História da Humanidade,</i>
+
+27
+00:07:07,590 --> 00:07:10,580
+<i>e o seu nome sobrevive
+através dos séculos.</i>
+
+28
+00:07:11,270 --> 00:07:12,903
+<i>Na aldeia de Zorah,</i>
+
+29
+00:07:12,950 --> 00:07:14,800
+<i>nas terras de Dan,</i>
+
+30
+00:07:15,149 --> 00:07:18,641
+<i>mil anos antes do nascimento
+de Cristo,</i>
+
+31
+00:07:18,853 --> 00:07:20,912
+<i>Viveu um homem assim.</i>
+
+32
+00:07:21,010 --> 00:07:26,150
+<i>Nele, os elementos fundiram
+a grandeza e a fraqueza,</i>
+
+33
+00:07:26,310 --> 00:07:28,294
+<i>a força e a loucura.</i>
+
+34
+00:07:28,496 --> 00:07:31,850
+<i>Mas com estas, estava um
+arrojado sonho...</i>
+
+35
+00:07:32,410 --> 00:07:34,270
+<i>A Liberdade para a sua Nação.</i>
+
+36
+00:07:35,402 --> 00:07:37,500
+<i>O seu nome era Sansão.</i>
+
+37
+00:07:38,050 --> 00:07:39,490
+<i>Durante quarenta anos,</i>
+
+38
+00:07:39,650 --> 00:07:43,830
+<i>os filisteus mantiveram o
+seu povo na escravidão.</i>
+
+39
+00:07:46,547 --> 00:07:53,544
+<i>Conduzi três rebanhos de cabras
+para Zorah, à procura de esposa...</i>
+
+40
+00:07:53,754 --> 00:08:01,217
+<i>mas o pai dela disse: Arranja mais,
+ou levarás uma vida de solidão...</i>
+
+41
+00:08:03,364 --> 00:08:05,389
+E Ele disse...
+
+42
+00:08:05,599 --> 00:08:07,931
+Quando regressares ao Egipto,
+
+43
+00:08:08,135 --> 00:08:12,540
+vê se realizas todos
+os milagres que pus na tua mão.
+
+44
+00:08:13,874 --> 00:08:16,468
+e o Senhor disse a Moisés,
+
+45
+00:08:16,677 --> 00:08:22,320
+Enfrenta o Faraó e traz
+o meu povo para fora do Egipto.
+
+46
+00:08:23,530 --> 00:08:25,570
+O Faraó governava os Egípcios...
+
+47
+00:08:25,664 --> 00:08:28,030
+tal como Saran governa
+os filisteus, aqui...
+
+48
+00:08:28,131 --> 00:08:29,815
+e os filisteus nos governam a nós.
+
+49
+00:08:29,916 --> 00:08:31,850
+Saul, deixa-o contar a história.
+
+50
+00:08:32,326 --> 00:08:33,990
+O Faraó disse a Moisés:
+
+51
+00:08:34,830 --> 00:08:36,530
+Quem é Este Senhor?
+
+52
+00:08:37,164 --> 00:08:38,540
+Eu não o conheço.
+
+53
+00:08:39,500 --> 00:08:43,650
+O teu povo é meu escravo,
+e não o deixarei partir.
+
+54
+00:08:43,651 --> 00:08:45,800
+Mas eles fugiram através
+do Mar Vermelho!
+
+55
+00:08:46,707 --> 00:08:48,500
+E um dia, mostraremos a Saran,
+
+56
+00:08:49,276 --> 00:08:52,850
+que as pedras podem voar tão
+certeiras quanto as lanças filistinas.
+
+57
+00:08:52,851 --> 00:08:55,090
+Saul, diz-lhe para que
+serve essa funda.
+
+58
+00:08:55,091 --> 00:08:57,666
+- Sim, diz-lhe.
+- Cala essa boca, Saul.
+
+59
+00:08:59,987 --> 00:09:02,600
+Alguns pensamentos não devem
+ser revelados.
+
+60
+00:09:03,490 --> 00:09:05,500
+Posso encher a minha ânfora, Miriam?
+
+61
+00:09:05,501 --> 00:09:07,850
+Vamos enchê-las juntas,
+pequena Samaritana.
+
+62
+00:09:08,495 --> 00:09:11,290
+<i>E o Senhor falou a Moisés e a Aaron,</i>
+
+63
+00:09:11,291 --> 00:09:16,020
+<i>dizendo: Quando o Faraó
+vos disser...</i>
+
+64
+00:09:17,137 --> 00:09:20,265
+<i>mostrem-me um milagre...
+Então, deverão...</i>
+
+65
+00:09:20,474 --> 00:09:22,450
+Deverás calar essa boca, velho bode!
+
+66
+00:09:24,600 --> 00:09:26,645
+Agora, aqui está algo
+para aprenderem...
+
+67
+00:09:26,847 --> 00:09:28,680
+Curvem-se quando um filisteu passa!
+
+68
+00:09:29,090 --> 00:09:30,690
+Somos um povo conquistado.
+
+69
+00:09:30,890 --> 00:09:33,500
+Somente nos curvamos diante
+do nosso invisível Senhor.
+
+70
+00:09:33,501 --> 00:09:36,210
+Cada filisteu é um vosso senhor.
+
+71
+00:09:36,211 --> 00:09:37,590
+Curva-te!
+
+72
+00:09:37,591 --> 00:09:39,100
+Vejam, suas escórias de Dan,
+
+73
+00:09:39,393 --> 00:09:41,070
+Eis como saudar os vossos senhores.
+
+74
+00:09:41,300 --> 00:09:42,830
+Bravos filisteus...
+
+75
+00:09:43,100 --> 00:09:45,760
+mostrando a vossa coragem
+contra crianças e velhos.
+
+76
+00:09:46,600 --> 00:09:48,275
+Bem...
+
+77
+00:09:49,590 --> 00:09:53,100
+Aqui está um jarro de vinho de Dan,
+que ainda não provámos.
+
+78
+00:09:53,400 --> 00:09:54,980
+Se se aproximarem mais de Miriam,
+
+79
+00:09:55,442 --> 00:09:57,990
+Sansão esmagará as vossas
+cabeças com se fossem nozes.
+
+80
+00:09:58,050 --> 00:10:00,078
+Sansão?
+
+81
+00:10:01,615 --> 00:10:04,300
+Ele reserva a sua força para
+as prostitutas!
+
+82
+00:10:05,900 --> 00:10:08,388
+O poder do Senhor está
+no braço de Sansão,
+
+83
+00:10:09,423 --> 00:10:10,910
+e um dia, vós ireis senti-lo.
+
+84
+00:10:10,911 --> 00:10:13,240
+Coaxa na lama, velho sapo.
+
+85
+00:10:17,111 --> 00:10:18,460
+Vão, fujam!
+Saiam da rua!
+
+86
+00:10:19,000 --> 00:10:21,429
+Deixem a velha tartaruga na lama,
+gritar por Sansão!
+
+87
+00:10:24,938 --> 00:10:28,200
+- Vá lá, Saul, atira.
+- Aponta para o grandalhão, depressa.
+
+88
+00:10:28,235 --> 00:10:30,470
+- Não, Saul, não.
+- Farei parar um deles.
+
+89
+00:10:30,471 --> 00:10:32,111
+Trarás a morte para a aldeia.
+
+90
+00:10:34,700 --> 00:10:36,100
+Sansão é o nosso guerreiro.
+
+91
+00:10:41,400 --> 00:10:44,216
+Um líder... tu?
+
+92
+00:10:44,425 --> 00:10:45,915
+Certamente sei onde estavas.
+
+93
+00:10:46,126 --> 00:10:47,561
+Lesh Lakish disse-me.
+
+94
+00:10:48,429 --> 00:10:50,624
+Andavas em rixas pelas
+ruas de Timnath,
+
+95
+00:10:50,831 --> 00:10:52,298
+com os filisteus,
+
+96
+00:10:52,299 --> 00:10:54,633
+a beber e a jogar os dados
+com os nossos inimigos.
+
+97
+00:10:54,800 --> 00:10:56,610
+Eu estava a aprender os seus costumes.
+
+98
+00:10:57,104 --> 00:10:59,390
+Farias melhor em aprender os
+caminhos do Senhor.
+
+99
+00:10:59,400 --> 00:11:01,830
+É a melhor cozinheira de Zorah, mãe.
+
+100
+00:11:02,080 --> 00:11:03,638
+E tu o pior filho.
+
+101
+00:11:04,407 --> 00:11:06,330
+Tu, o líder de Dan,
+
+102
+00:11:06,947 --> 00:11:08,424
+o juiz escolhido pelo teu povo.
+
+103
+00:11:08,916 --> 00:11:10,216
+E o que fazes?
+
+104
+00:11:10,217 --> 00:11:12,151
+Casar com uma filha dos
+nossos inimigos.
+
+105
+00:11:12,353 --> 00:11:15,300
+Uma filisteia para ser a mãe
+dos filhos de Sansão.
+
+106
+00:11:16,624 --> 00:11:18,897
+Devia dar-te umas palmadas
+como costumava fazer.
+
+107
+00:11:18,910 --> 00:11:21,093
+E não foi assim há tanto tempo.
+
+108
+00:11:21,295 --> 00:11:24,010
+Desaparece, ou a tua mãe põe-te
+o teu corpo negro, também.
+
+109
+00:11:25,366 --> 00:11:27,391
+Sim, é a verdade!
+
+110
+00:11:28,569 --> 00:11:30,503
+Repara, vê o que fizeste.
+
+111
+00:11:30,704 --> 00:11:33,250
+És teimoso e desmiolado como um boi.
+
+112
+00:11:34,375 --> 00:11:35,921
+Sou seu filho.
+
+113
+00:11:37,400 --> 00:11:40,250
+Sansão, porque não és como
+os filhos dos nossos vizinhos...
+
+114
+00:11:40,351 --> 00:11:43,090
+Felizes por cuidarem dos rebanhos
+de seus pais...
+
+115
+00:11:43,117 --> 00:11:45,250
+e não escolhes uma noiva, da
+nossa aldeia?
+
+116
+00:11:45,285 --> 00:11:48,700
+- Os figos proibidos são os mais doces.
+- Mas os mais doces, crescem...
+
+117
+00:11:48,755 --> 00:11:50,617
+precisamente no nosso próprio jardim.
+
+118
+00:11:50,720 --> 00:11:53,487
+De manhã à noite, as mãos de Miriam
+nunca estão ociosas.
+
+119
+00:11:53,594 --> 00:11:56,050
+Jamais palavras agrestes
+passaram pelos seus lábios.
+
+120
+00:11:56,151 --> 00:11:59,495
+E uniria este anjo,
+a um boi teimoso e desmiolado?
+
+121
+00:11:59,700 --> 00:12:01,250
+Tu não és de todo mau, Sansão.
+
+122
+00:12:01,251 --> 00:12:04,550
+Mas os teus olhos, olham
+sempre para o que não devem.
+
+123
+00:12:04,772 --> 00:12:07,830
+Sim, uma esposa como Miriam...
+mostraria o que de bom há em ti.
+
+124
+00:12:10,477 --> 00:12:13,620
+Um homem deve casar-se, com quem
+o seu coração escolhe, "mãezinha".
+
+125
+00:12:15,149 --> 00:12:17,460
+O coração dum homem pode
+estar cego, filho.
+
+126
+00:12:17,818 --> 00:12:19,663
+Sansão, Sansão!
+
+127
+00:12:19,720 --> 00:12:21,628
+Estão alguns soldados
+filisteus no poço.
+
+128
+00:12:21,729 --> 00:12:23,334
+Quem molestaram desta vez, pai?
+
+129
+00:12:23,389 --> 00:12:25,004
+O velho contador de histórias.
+
+130
+00:12:25,058 --> 00:12:27,298
+Os soldados já se foram,
+e a confusão acabou.
+
+131
+00:12:27,360 --> 00:12:29,375
+Bem, os problemas com ele não passaram.
+
+132
+00:12:29,429 --> 00:12:32,164
+- Diz à Miriam o que me disseste a mim.
+- Então, Hazell!
+
+133
+00:12:32,265 --> 00:12:34,909
+Espera até ouvires o que
+este teu belo filho pretende.
+
+134
+00:12:34,968 --> 00:12:36,453
+Vamos.
+Diz-lhe.
+
+135
+00:12:38,071 --> 00:12:39,576
+Vamos.
+
+136
+00:12:47,648 --> 00:12:50,569
+Desta vez, deves ter feito
+algo realmente terrível.
+
+137
+00:12:52,119 --> 00:12:56,075
+Miriam, estás mais acima
+de mim que a lua.
+
+138
+00:12:56,590 --> 00:12:58,283
+Mas não tão difícil de alcançar.
+
+139
+00:12:59,326 --> 00:13:01,239
+Basta apenas estenderes a tua mão.
+
+140
+00:13:02,129 --> 00:13:03,717
+Eu não quero magoar-te, Miriam.
+
+141
+00:13:05,899 --> 00:13:10,281
+Tu és como um pardalinho,
+tão gentil e...
+
+142
+00:13:10,337 --> 00:13:12,512
+Essa é uma maneira simpática
+de me dizeres...
+
+143
+00:13:12,573 --> 00:13:15,718
+que estás apaixonado por outra pessoa.
+
+144
+00:13:16,810 --> 00:13:18,942
+Tu vês sempre o interior
+das pessoas, como...
+
+145
+00:13:19,043 --> 00:13:21,883
+se elas fossem teias de aranha.
+
+146
+00:13:22,583 --> 00:13:24,900
+Ouvi dizer que viste uma mulher
+em Timnath.
+
+147
+00:13:26,920 --> 00:13:28,500
+Sim...
+
+148
+00:13:29,523 --> 00:13:31,050
+Não consigo esquecê-la.
+
+149
+00:13:35,596 --> 00:13:37,516
+Acontece o mesmo comigo.
+
+150
+00:13:38,565 --> 00:13:40,500
+Não consigo esquecer-te.
+
+151
+00:13:45,205 --> 00:13:46,680
+Miriam...
+
+152
+00:13:51,411 --> 00:13:53,140
+Estarei sempre aqui.
+
+153
+00:14:08,061 --> 00:14:11,420
+Que é que te tinha dito?
+Ele quer casar com uma filisteia.
+
+154
+00:14:17,171 --> 00:14:18,471
+Sansão...
+
+155
+00:14:18,472 --> 00:14:21,050
+Não irás cobrir-nos com essa vergonha.
+
+156
+00:14:21,542 --> 00:14:23,463
+Não há vergonha num casamento, pai.
+
+157
+00:14:23,464 --> 00:14:25,220
+Com uma mulher filisteia?
+
+158
+00:14:25,222 --> 00:14:28,166
+Pai, Semadar agrada-me.
+
+159
+00:14:28,416 --> 00:14:32,199
+Vá ter com Tubal de Timnath, e diga-lhe
+que eu tomarei a sua filha como esposa.
+
+160
+00:14:32,200 --> 00:14:33,587
+A lei proíbe-o.
+
+161
+00:14:34,121 --> 00:14:35,450
+Uma lei filisteia?
+
+162
+00:14:37,024 --> 00:14:38,366
+Sansão.
+
+163
+00:14:40,427 --> 00:14:44,690
+Sansão, que te irá acontecer
+no caminho que estás a percorrer?
+
+164
+00:14:48,402 --> 00:14:50,645
+Uma esposa de cabelo dourado, mãezinha,
+
+165
+00:14:50,737 --> 00:14:53,305
+que não me irá bater com
+colheres de madeira.
+
+166
+00:14:54,500 --> 00:14:56,422
+Sansão, Sansão,
+
+167
+00:14:56,476 --> 00:14:59,424
+Estás cego!
+
+168
+00:14:59,479 --> 00:15:00,926
+Afastas-te de Miriam,
+
+169
+00:15:00,981 --> 00:15:03,420
+e de tudo o que é bom na tua vida!
+
+170
+00:15:05,252 --> 00:15:08,650
+Apenas porque viste uma
+mulher em Timnath...
+
+171
+00:15:09,389 --> 00:15:12,240
+Uma mulher com sedas e jóias.
+
+172
+00:15:20,567 --> 00:15:23,379
+Magnífico.
+
+173
+00:15:23,437 --> 00:15:25,020
+Os seus ricos presentes...
+
+174
+00:15:25,072 --> 00:15:26,689
+roubam-me as palavras, Athur.
+
+175
+00:15:26,740 --> 00:15:28,915
+Roubar-lhe-ão uma filha, Tubal,
+
+176
+00:15:28,976 --> 00:15:30,453
+e enriquecem-me com uma esposa.
+
+177
+00:15:35,382 --> 00:15:37,500
+O Governador Militar de Dan...
+
+178
+00:15:37,551 --> 00:15:39,635
+honra muito a minha casa.
+
+179
+00:15:39,686 --> 00:15:42,650
+Semadar é a companheira ideal
+para um comandante militar.
+
+180
+00:15:43,223 --> 00:15:46,260
+Agora, eis aqui um novo tecido
+dos teares de Gaza.
+
+181
+00:15:47,227 --> 00:15:49,250
+Chamam-lhe gaze.
+
+182
+00:15:51,865 --> 00:15:54,575
+Belíssimo...
+
+183
+00:15:54,635 --> 00:15:57,446
+- Belíssimo!
+- Levai-o para a luz.
+
+184
+00:16:01,441 --> 00:16:02,742
+Semadar!
+
+185
+00:16:02,743 --> 00:16:04,250
+Semada...
+
+186
+00:16:17,658 --> 00:16:20,260
+- Mas nem sequer lhe mostrou...
+- Ela lança o dardo...
+
+187
+00:16:20,361 --> 00:16:21,820
+como a deusa Dictina.
+
+188
+00:16:21,928 --> 00:16:25,945
+Levá-la-ei comigo na caçada de Saran
+aos leões, com a vossa permissão.
+
+189
+00:16:26,099 --> 00:16:30,276
+Sim, com certeza, com certeza.
+
+190
+00:16:30,337 --> 00:16:32,387
+Sabe, eu tenho outra filha...
+
+191
+00:16:32,439 --> 00:16:34,352
+a irmã mais nova de Semadar.
+
+192
+00:16:34,408 --> 00:16:36,818
+Que beleza incrível.
+
+193
+00:16:43,583 --> 00:16:45,016
+Foi um bom lançamento.
+
+194
+00:16:46,787 --> 00:16:48,740
+Mas o coração do leão,
+fica do outro lado.
+
+195
+00:16:56,000 --> 00:16:57,396
+Perdestes o juízo?
+
+196
+00:16:57,420 --> 00:17:00,522
+Todo o grupo de caça está a chegar,
+e o próprio Saran vem de Gaza.
+
+197
+00:17:00,533 --> 00:17:02,615
+Eu sei.
+Vim para o ajudar a matar o leão.
+
+198
+00:17:02,706 --> 00:17:05,257
+Seria melhor ajudar
+o leão a matar o Saran.
+
+199
+00:17:05,338 --> 00:17:08,052
+Não antes de ele dar a permissão
+para o nosso casamento.
+
+200
+00:17:08,108 --> 00:17:09,560
+O nosso casamento?
+
+201
+00:17:09,576 --> 00:17:11,350
+Perdestes mesmo o juízo!
+
+202
+00:17:11,578 --> 00:17:12,993
+E o meu coração.
+
+203
+00:17:13,914 --> 00:17:17,329
+Já sussurrastes isso em
+muitos belos ouvidos.
+
+204
+00:17:17,384 --> 00:17:21,394
+Nenhuns tão belos como os vossos.
+
+205
+00:17:30,397 --> 00:17:33,641
+A minha irmã faz a sua caçada
+aos leões, com caroços de ameixa.
+
+206
+00:17:33,667 --> 00:17:36,809
+Sede boa agora, ou a presa
+pode comer o caçador.
+
+207
+00:17:36,903 --> 00:17:39,526
+Não posso culpá-la por
+tentar caçar-vos.
+
+208
+00:17:42,008 --> 00:17:44,280
+Sansão,
+pareceis-vos bastante com um leão.
+
+209
+00:17:45,011 --> 00:17:47,460
+Então devíeis aprender mais
+acerca da caça ao leão.
+
+210
+00:17:47,480 --> 00:17:49,730
+Orgulhoso, forte e destemido.
+
+211
+00:17:49,883 --> 00:17:53,200
+- Mas não muito sensato.
+- Ahtur.
+
+212
+00:17:53,201 --> 00:17:56,900
+Toma. Trouxe um espinho
+para uma rosa.
+
+213
+00:17:56,901 --> 00:17:58,620
+Obrigada, Ahtur.
+
+214
+00:17:59,926 --> 00:18:01,526
+Perfeitamente equilibrado.
+
+215
+00:18:04,297 --> 00:18:07,440
+Existe apenas um Danita suficientemente
+doido para subir este muro.
+
+216
+00:18:14,107 --> 00:18:16,272
+O Governador de Dan,
+tem olho de caçador.
+
+217
+00:18:18,345 --> 00:18:20,663
+- Acabei de dizer a Semadar...
+- Sim, eu ouvi-te.
+
+218
+00:18:25,385 --> 00:18:28,060
+Hoje, irás caçar da minha
+quadriga, Semadar.
+
+219
+00:18:28,121 --> 00:18:30,658
+Sansão crê que nos pode
+ajudar a matar o leão.
+
+220
+00:18:33,527 --> 00:18:35,702
+Ficamos-lhe muito gratos,
+
+221
+00:18:35,729 --> 00:18:37,244
+mas o Senhor de cinco cidades,
+
+222
+00:18:37,297 --> 00:18:40,250
+cujas conquistas vão desde o
+Nilo à Babilónia,
+
+223
+00:18:40,734 --> 00:18:45,480
+pode ser bem sucedido sem a ajuda
+dum juiz de pastores.
+
+224
+00:18:45,539 --> 00:18:48,430
+Um pastor necessita de saber
+mais de leões do que um rei.
+
+225
+00:18:49,609 --> 00:18:51,488
+A sua vida depende disso.
+
+226
+00:18:51,545 --> 00:18:53,128
+Um pastor obedece à Lei.
+
+227
+00:18:53,180 --> 00:18:55,560
+A sua vida depende disso.
+
+228
+00:18:55,615 --> 00:18:58,092
+A primeira Lei que os teus
+antepassados aprenderam...
+
+229
+00:18:58,184 --> 00:19:01,014
+foi curvarem-se diante das
+lanças filisteias.
+
+230
+00:19:02,923 --> 00:19:05,561
+Agrada-vos ver o povo
+curvado sob o poder das lanças.
+
+231
+00:19:07,894 --> 00:19:09,300
+Eu gosto de ver as lanças...
+
+232
+00:19:11,031 --> 00:19:12,400
+curvarem-se diante do povo.
+
+233
+00:19:19,172 --> 00:19:20,982
+Especialmente diante
+de belas mulheres.
+
+234
+00:19:21,120 --> 00:19:24,160
+Destróis uma arma,
+que não tens habilidade para usar.
+
+235
+00:19:24,420 --> 00:19:26,369
+Talvez Semadar me possa ensinar...
+
+236
+00:19:28,100 --> 00:19:29,600
+depois do nosso casamento.
+
+237
+00:19:29,850 --> 00:19:31,538
+Casamento?...
+
+238
+00:19:33,340 --> 00:19:36,410
+O teu humor é mesmo maior que
+a tua força.
+
+239
+00:19:40,661 --> 00:19:42,027
+O Saran.
+
+240
+00:19:42,028 --> 00:19:45,362
+O juiz de Dan faria melhor em abandonar
+o caminho que tem percorrido...
+
+241
+00:19:54,375 --> 00:19:57,220
+Procura uma noiva em qualquer
+outra pastagem.
+
+242
+00:20:04,384 --> 00:20:06,832
+<i>Ahtur!</i>
+
+243
+00:20:06,887 --> 00:20:09,155
+<i>- Heil, grande majestade.
+- Heil!</i>
+
+244
+00:20:09,156 --> 00:20:10,900
+Eu também não gosto de Ahtur.
+
+245
+00:20:10,901 --> 00:20:13,471
+<i>Água para os cavalos!</i>
+
+246
+00:20:20,901 --> 00:20:23,187
+Caça o teu leão com isto,
+Nimrod (Rei de Shinar).
+
+247
+00:20:23,236 --> 00:20:26,210
+Se matasses o leão,
+chamar-te-iam "Magnífico".
+
+248
+00:20:26,407 --> 00:20:29,900
+Eu posso dobrar as suas lanças, mas
+não posso ultrapassar os seus cavalos.
+
+249
+00:20:30,001 --> 00:20:32,120
+Eu podia levar-te lá primeiro.
+
+250
+00:20:32,245 --> 00:20:33,930
+Nós temos estábulos.
+
+251
+00:20:38,818 --> 00:20:40,160
+Qual é o teu preço?
+
+252
+00:20:41,254 --> 00:20:42,800
+Leva-me contigo.
+
+253
+00:20:45,859 --> 00:20:47,873
+És ousada, "macaquinha"!
+
+254
+00:20:48,495 --> 00:20:50,061
+Como te chamas?
+
+255
+00:20:53,867 --> 00:20:55,200
+Dalila.
+
+256
+00:20:59,973 --> 00:21:01,362
+Vamos.
+
+257
+00:21:19,426 --> 00:21:21,305
+Mais depressa, Sansão, mais depressa!
+
+258
+00:21:21,361 --> 00:21:24,337
+- Agarra-te bem à barra de protecção!
+- Agarrar-me-ia bem a ti!
+
+259
+00:21:24,397 --> 00:21:25,778
+Cuidado, podes cair!
+
+260
+00:21:25,832 --> 00:21:27,149
+Não, não caio!
+
+261
+00:21:27,200 --> 00:21:29,900
+Semadar não aprecia a tua força,
+como eu.
+
+262
+00:21:29,901 --> 00:21:32,450
+Gostaria de sentir o poder
+dos teus braços.
+
+263
+00:21:32,806 --> 00:21:35,350
+Eu preferia sentir um gato selvagem
+nas minhas costas!
+
+264
+00:21:35,370 --> 00:21:37,100
+Conseguirás domesticar-me, Sansão?
+
+265
+00:21:37,120 --> 00:21:39,219
+Usar-te-ei como engodo para o leão!
+
+266
+00:21:39,279 --> 00:21:40,800
+Não vejo qualquer leão!
+
+267
+00:22:01,000 --> 00:22:03,450
+Toma.
+Mata-o antes deles chegarem.
+
+268
+00:22:03,451 --> 00:22:05,550
+Não vou precisar disso.
+É um leão jovem.
+
+269
+00:22:08,341 --> 00:22:09,750
+Sansão!
+
+270
+00:22:14,900 --> 00:22:16,300
+Sansão!
+
+271
+00:22:17,238 --> 00:22:19,260
+- És mais problemática que...
+- Tenho medo!
+
+272
+00:22:19,271 --> 00:22:21,140
+Sobe para aquela rocha e não te movas.
+
+273
+00:22:32,966 --> 00:22:34,530
+Cuidado!
+
+274
+00:23:24,684 --> 00:23:26,180
+Sansão!
+
+275
+00:24:25,296 --> 00:24:26,636
+Sansão!
+
+276
+00:24:29,067 --> 00:24:30,578
+Mataste-o com as tuas mãos!
+
+277
+00:24:30,579 --> 00:24:31,962
+Oh, Sansão.
+
+278
+00:24:31,963 --> 00:24:34,811
+Um gato de cada vez.
+
+279
+00:24:36,775 --> 00:24:38,090
+Que se passa contigo?
+
+280
+00:24:39,344 --> 00:24:41,080
+Amo-te.
+É o que se passa comigo...
+
+281
+00:24:41,081 --> 00:24:42,470
+Amo-te.
+
+282
+00:24:47,453 --> 00:24:50,538
+Leão!
+
+283
+00:24:55,260 --> 00:24:56,594
+Parem a caçada!
+
+284
+00:24:56,595 --> 00:24:59,004
+- A fera foi abatida.
+- Quem a matou?
+
+285
+00:25:00,600 --> 00:25:02,300
+O Saran!
+
+286
+00:25:10,800 --> 00:25:13,690
+- Dalila!
+- Semadar, o Saran.
+
+287
+00:25:13,745 --> 00:25:15,692
+Quem é esta rapariga?
+
+288
+00:25:15,747 --> 00:25:17,728
+A minha irmã, Lorde Saran.
+
+289
+00:25:17,783 --> 00:25:19,957
+Não sei como é que ela chegou aqui
+com este...
+
+290
+00:25:19,970 --> 00:25:21,363
+Danita, não é?
+
+291
+00:25:21,420 --> 00:25:25,131
+Talvez esta pequena flor do jardim
+de Tubal nos possa esclarecer.
+
+292
+00:25:25,172 --> 00:25:26,910
+Sim, majestade, posso.
+
+293
+00:25:27,174 --> 00:25:29,918
+Sansão matou o leão com as
+suas mãos nuas.
+
+294
+00:25:29,977 --> 00:25:32,860
+Nunca existiu tal poder,
+em qualquer outro homem!
+
+295
+00:25:34,340 --> 00:25:37,615
+A tua irmã tem uma imaginação viva.
+
+296
+00:25:40,161 --> 00:25:43,880
+Então és Sansão, o
+desordeiro agressivo.
+
+297
+00:25:44,792 --> 00:25:46,109
+O Saran conhece-me.
+
+298
+00:25:46,110 --> 00:25:48,570
+Sim.
+E não sei nada de bom, de ti.
+
+299
+00:25:48,662 --> 00:25:50,240
+Vem cá, jovem.
+
+300
+00:25:52,299 --> 00:25:54,576
+Disseste que não usou nenhuma arma?
+
+301
+00:25:54,635 --> 00:25:56,582
+Só as suas duas mãos, Lorde Saran.
+
+302
+00:25:56,637 --> 00:25:58,778
+Foi magnífico!
+
+303
+00:25:58,839 --> 00:26:00,792
+Somente um Deus podia fazer
+o que ele fez.
+
+304
+00:26:01,308 --> 00:26:03,585
+Bem, Danita, tens uma adoradora.
+
+305
+00:26:03,644 --> 00:26:05,455
+Ahtur, examina o animal,
+
+306
+00:26:05,513 --> 00:26:08,815
+e encontra a marca do dardo.
+- Mas eu...
+
+307
+00:26:08,816 --> 00:26:12,000
+Dalila, desce dessa roda.
+Não tens nenhum respeito?
+
+308
+00:26:22,029 --> 00:26:23,350
+Não há sangue.
+
+309
+00:26:23,480 --> 00:26:25,320
+O ferimento deve estar do outro lado.
+
+310
+00:26:26,066 --> 00:26:27,670
+O corpo ainda está quente.
+
+311
+00:26:29,870 --> 00:26:31,403
+Não há nenhuma marca na pele.
+
+312
+00:26:31,404 --> 00:26:33,090
+O quê?
+Como é possível?!
+
+313
+00:26:34,408 --> 00:26:36,251
+Eu disse que não havia.
+
+314
+00:26:38,345 --> 00:26:39,880
+Nenhuma marca?
+
+315
+00:26:41,615 --> 00:26:45,420
+Queres que acreditemos que
+a fera caiu morta de medo?
+
+316
+00:26:46,720 --> 00:26:48,450
+A jovem disse-vos a verdade.
+
+317
+00:26:48,923 --> 00:26:51,304
+Naquilo que acreditais ou não,
+é uma questão vossa.
+
+318
+00:26:52,226 --> 00:26:54,510
+Gostaria de ver tal força.
+
+319
+00:26:55,195 --> 00:26:56,610
+Garmiskar!
+
+320
+00:26:56,750 --> 00:26:58,300
+Agora ver-se-á pele a voar.
+
+321
+00:26:58,301 --> 00:26:59,713
+Ver-se-á algum sangue correr.
+
+322
+00:27:04,638 --> 00:27:06,450
+Parte os ossos a este fanfarrão.
+
+323
+00:27:07,474 --> 00:27:09,876
+Não tenho nenhuma questão
+com o vosso guerreiro.
+
+324
+00:27:09,877 --> 00:27:12,427
+Que tipo de coragem alega
+enfrentar um leão,
+
+325
+00:27:12,479 --> 00:27:14,020
+e receia o meu lutador?
+
+326
+00:27:14,415 --> 00:27:15,900
+O homem não me fez mal nenhum.
+
+327
+00:27:18,953 --> 00:27:21,680
+Luta com ele, Sansão.
+Luta com ele.
+
+328
+00:27:30,900 --> 00:27:33,480
+Como todos os fanfarrões,
+é um cobarde.
+
+329
+00:27:35,502 --> 00:27:38,400
+Garmiskar... faz-lhe sentir o chicote.
+
+330
+00:27:44,011 --> 00:27:45,450
+Agora, vejam.
+
+331
+00:27:58,200 --> 00:28:00,750
+- Garmiskar caiu!
+- Levanta-te Garmiskak. Levanta-te!
+
+332
+00:28:00,760 --> 00:28:04,370
+<i>- Ele pesa quase 180 quilos.
+Atirou-o como se fosse um saco de grão.</i>
+
+333
+00:28:25,653 --> 00:28:27,900
+O prémio para o caçador é teu.
+
+334
+00:28:32,500 --> 00:28:34,750
+Um anel por dois leões.
+
+335
+00:28:36,130 --> 00:28:38,178
+Gostaria de escolher eu mesmo,
+o meu prémio.
+
+336
+00:28:38,866 --> 00:28:40,180
+Sim?
+
+337
+00:28:40,280 --> 00:28:42,390
+O que gostarias de ter?
+
+338
+00:28:43,237 --> 00:28:44,630
+O meu trono?
+
+339
+00:28:45,806 --> 00:28:47,730
+Gostaria de escolher
+uma noiva filisteia.
+
+340
+00:28:48,150 --> 00:28:52,240
+A jovem parece-me bastante disposta.
+Preciso de homens como tu.
+
+341
+00:28:52,241 --> 00:28:55,309
+<i>Se uma cara bonita te ligar a mim,
+o teu pedido está garantido.</i>
+
+342
+00:28:55,310 --> 00:28:56,700
+Escolhe a tua noiva.
+
+343
+00:29:09,029 --> 00:29:11,010
+É esta a mulher que escolho.
+
+344
+00:29:11,565 --> 00:29:14,309
+Mas Semadar está-me prometida.
+
+345
+00:29:14,368 --> 00:29:16,412
+Eu dei a minha palavra, Ahtur.
+
+346
+00:29:23,310 --> 00:29:25,700
+Ela é tua... e cem moedas de prata.
+
+347
+00:29:25,701 --> 00:29:27,318
+Dais-me um grande tesouro.
+
+348
+00:29:28,115 --> 00:29:31,050
+Aceitareis de mim a pele do leão,
+sem marca de qualquer arma?
+
+349
+00:29:31,520 --> 00:29:32,852
+Como uma oferta de paz,
+
+350
+00:29:32,853 --> 00:29:34,490
+de um príncipe para outro.
+
+351
+00:29:36,550 --> 00:29:39,165
+É sensato ter este cão
+danado na nossa cidade?
+
+352
+00:29:39,460 --> 00:29:42,050
+Ele pode ser domado na nossa cidade.
+
+353
+00:29:44,732 --> 00:29:46,150
+Lorde Saran,
+
+354
+00:29:46,834 --> 00:29:48,645
+o Sansão não causará nenhum problema,
+
+355
+00:29:48,669 --> 00:29:51,310
+se Ahtur trouxer trinta
+dos seus guerreiros
+
+356
+00:29:51,371 --> 00:29:52,800
+à festa de casamento.
+
+357
+00:29:53,641 --> 00:29:55,680
+Esta jovem tem a sabedoria
+de uma serpente.
+
+358
+00:29:55,690 --> 00:29:58,826
+Regressem juntos à cidade, e discutam
+os convidados do casamento.
+
+359
+00:29:58,879 --> 00:30:00,200
+Terminou a caçada!
+
+360
+00:30:00,681 --> 00:30:02,600
+Terminou a caçada!
+
+361
+00:30:23,270 --> 00:30:25,040
+Vejam!
+A dança das plumas!
+
+362
+00:30:28,000 --> 00:30:29,365
+Plumas contra espadas.
+
+363
+00:30:29,400 --> 00:30:30,730
+As plumas vencem sempre.
+
+364
+00:30:31,100 --> 00:30:33,620
+Não é nada mais do que
+um truque de feiticeiro.
+
+365
+00:30:40,487 --> 00:30:43,362
+Nenhum homem pode matar um leão,
+com as suas mãos nuas.
+
+366
+00:30:43,423 --> 00:30:46,330
+- Quem o viu matar a fera?
+- Viste-o derrubar Garmiskar.
+
+367
+00:30:53,701 --> 00:30:56,317
+Porque não estás a entreter os
+convidados do casamento?
+
+368
+00:30:56,370 --> 00:30:59,489
+Eles odeiam-no.
+
+369
+00:31:01,308 --> 00:31:02,969
+Porque é um Danita?
+
+370
+00:31:02,970 --> 00:31:04,980
+Porque é um idiota.
+
+371
+00:31:06,079 --> 00:31:08,260
+A maioria dos homens são, Dalila.
+
+372
+00:31:09,082 --> 00:31:11,300
+Não há nada que possas fazer
+acerca disso.
+
+373
+00:31:13,420 --> 00:31:16,200
+Por vezes uma abelha,
+pode mover um boi.
+
+374
+00:31:22,980 --> 00:31:24,940
+Um homem não devia ter
+de alcançar nada,
+
+375
+00:31:24,966 --> 00:31:26,614
+na festa do seu próprio casamento.
+
+376
+00:31:26,666 --> 00:31:29,386
+As mais desejáveis uvas...
+estão sempre fora do alcance.
+
+377
+00:31:29,436 --> 00:31:32,800
+- Não, se alcançares bastante alto.
+- Ou esperares tempo suficiente.
+
+378
+00:31:32,850 --> 00:31:35,618
+- Esperaste demasiado tempo, Athur.
+- Pelo quê?
+
+379
+00:31:35,676 --> 00:31:37,589
+Divertimento?
+
+380
+00:31:37,644 --> 00:31:39,489
+Que escolherás?
+Vinho...
+
+381
+00:31:39,546 --> 00:31:41,425
+Beleza...
+Canção?
+
+382
+00:31:41,481 --> 00:31:42,900
+Eu tenho vinho.
+
+383
+00:31:42,920 --> 00:31:44,700
+Tu tens beleza.
+
+384
+00:31:45,650 --> 00:31:47,600
+Sansão tem uma voz.
+
+385
+00:31:48,322 --> 00:31:50,650
+Canta-nos uma das tuas canções
+de pastor, Sansão.
+
+386
+00:31:53,894 --> 00:31:57,338
+O meu cantar soa mais como
+o balir das minhas ovelhas.
+
+387
+00:32:01,301 --> 00:32:02,890
+Mas colocar-vos-ei uma adivinha.
+
+388
+00:32:02,991 --> 00:32:05,039
+- Uma adivinha?
+- Consegue ele inventar uma?
+
+389
+00:32:06,600 --> 00:32:08,074
+Fala, matulão!
+
+390
+00:32:08,075 --> 00:32:10,660
+<i>- Que adivinha?
+- Diz-nos.</i>
+
+391
+00:32:11,979 --> 00:32:15,550
+"Do predador saiu a carne.
+
+392
+00:32:17,351 --> 00:32:20,335
+Do forte saiu a doçura.
+
+393
+00:32:21,388 --> 00:32:23,390
+Do predador saiu...
+
+394
+00:32:25,959 --> 00:32:28,577
+É uma adivinha para tolos.
+
+395
+00:32:28,629 --> 00:32:30,220
+Então, dá a resposta.
+
+396
+00:32:31,365 --> 00:32:34,128
+- Não faz sentido nenhum.
+- Doçura do forte?
+
+397
+00:32:34,129 --> 00:32:36,424
+- Ele está a enrolar as palavras.
+- Adivinha?
+
+398
+00:32:36,450 --> 00:32:38,974
+Ora, pelos sete planetas,
+isso não é adivinha nenhuma.
+
+399
+00:32:39,006 --> 00:32:42,255
+- Não é adivinha nenhuma.
+- Não há uma adivinha, sem uma aposta.
+
+400
+00:32:42,260 --> 00:32:43,820
+Ou sem ouro.
+
+401
+00:32:44,200 --> 00:32:46,270
+Que ouro pode o Sansão apostar?
+
+402
+00:32:47,650 --> 00:32:49,080
+Há muitas espécies de ouro.
+
+403
+00:32:50,800 --> 00:32:52,660
+Há o ouro no cabelo de Semadar.
+
+404
+00:32:52,670 --> 00:32:54,180
+Mas não queremos apostar esse.
+
+405
+00:32:56,556 --> 00:32:58,470
+Há o fio de ouro dum manto.
+
+406
+00:32:59,559 --> 00:33:01,010
+Nesse, apostarei.
+
+407
+00:33:01,461 --> 00:33:04,223
+Se solucionarem o enigma,
+pagarei a cada um, um novo traje.
+
+408
+00:33:04,698 --> 00:33:06,300
+A todos os trinta?
+
+409
+00:33:06,633 --> 00:33:08,719
+- A todos os trinta.
+- Trinta trajes?
+
+410
+00:33:08,720 --> 00:33:11,090
+- É uma aposta pesada.
+- Como pode ele pagar?
+
+411
+00:33:11,091 --> 00:33:13,550
+Com trinta peles de leão?
+
+412
+00:33:13,551 --> 00:33:17,950
+- Teremos todos roupas de pastor.
+- Onde é que arranjas os trinta trajes?
+
+413
+00:33:17,951 --> 00:33:19,450
+Sim!
+Um para cada um de nós!
+
+414
+00:33:19,820 --> 00:33:21,314
+Tenham cuidado.
+
+415
+00:33:21,315 --> 00:33:23,729
+Sansão é hábil a caçar raposas.
+
+416
+00:33:23,784 --> 00:33:25,220
+Podem perder!
+
+417
+00:33:25,485 --> 00:33:28,250
+Então, cada um de nós pagar-lhe-á
+um novo traje.
+
+418
+00:33:28,789 --> 00:33:31,357
+- Todos os trinta?
+- Todos os trinta.
+
+419
+00:33:31,358 --> 00:33:33,250
+De acordo!
+Está apostado!
+
+420
+00:33:33,251 --> 00:33:35,400
+- Trinta trajes.
+- É uma pechincha! Pagarás!
+
+421
+00:33:35,410 --> 00:33:39,150
+Deixa-os com a tua adivinha Sansão,
+enquanto coloco o meu véu de noiva.
+
+422
+00:33:39,600 --> 00:33:42,781
+Do forte saiu a doçura.
+
+423
+00:33:42,836 --> 00:33:45,050
+O fruto da palmeira!
+
+424
+00:33:45,100 --> 00:33:47,620
+A árvore é forte, e o fruto é doce.
+
+425
+00:33:48,080 --> 00:33:49,757
+Com que alimentas as palmeiras...
+
+426
+00:33:49,810 --> 00:33:51,350
+para as fazer predadoras?
+
+427
+00:33:54,815 --> 00:33:58,080
+Bem, é um ovo de falcão.
+O falcão é um predador.
+
+428
+00:33:58,090 --> 00:33:59,900
+E o ovo é forte!
+
+429
+00:34:01,555 --> 00:34:03,495
+Encontrem a resposta
+antes do casamento.
+
+430
+00:34:03,557 --> 00:34:06,200
+Sansão, depois, não terá tempo
+para adivinhas.
+
+431
+00:34:07,194 --> 00:34:09,790
+Pai, leve-o.
+Mas traga-mo de volta.
+
+432
+00:34:09,891 --> 00:34:11,790
+Decerto não conseguiria mantê-lo longe.
+
+433
+00:34:11,891 --> 00:34:13,575
+Também já o tentou bastante, Tubal.
+
+434
+00:34:13,580 --> 00:34:16,850
+Músicos, toquem no meio dos convidados,
+enquanto nos preparamos.
+
+435
+00:34:18,873 --> 00:34:20,980
+Aquela miserável adivinha não
+tem resposta.
+
+436
+00:34:21,081 --> 00:34:22,890
+Não!
+É uma fraude!
+
+437
+00:34:22,891 --> 00:34:24,625
+Ele tem razão.
+É um truque do Danita!
+
+438
+00:34:24,678 --> 00:34:26,420
+Toda a adivinha tem uma resposta,
+
+439
+00:34:26,421 --> 00:34:28,950
+Só que vós sois demasiado
+estúpidos para encontrá-la.
+
+440
+00:34:29,316 --> 00:34:31,090
+Encontrá-la?
+Onde?
+
+441
+00:34:31,420 --> 00:34:33,800
+Não na tua taça de vinho, Gammad!
+
+442
+00:34:35,380 --> 00:34:37,750
+Agucem a vossa inteligência,
+não os vossos dentes.
+
+443
+00:34:37,751 --> 00:34:39,180
+O quê?
+
+444
+00:34:39,200 --> 00:34:41,565
+Não vêem que Sansão
+se está a rir de todos vós?
+
+445
+00:34:41,566 --> 00:34:43,770
+- A rir-se de mim?
+- A rir-se? De nós?
+
+446
+00:34:43,820 --> 00:34:45,130
+É mais esperto que vós.
+
+447
+00:34:45,131 --> 00:34:47,050
+Ele disse-te a resposta, Dalila?
+
+448
+00:34:47,530 --> 00:34:48,970
+Não, mas...
+
+449
+00:34:49,603 --> 00:34:51,280
+Conheço alguém que a pode arranjar.
+
+450
+00:34:51,295 --> 00:34:52,760
+Quem?
+
+451
+00:34:53,150 --> 00:34:54,620
+Diz-nos.
+
+452
+00:34:54,920 --> 00:34:56,990
+- Semadar.
+- Semadar?
+
+453
+00:34:57,078 --> 00:35:00,700
+Claro, por Dagon, ela di-la-á, ou eu
+espremerei a resposta da sua garganta.
+
+454
+00:35:00,801 --> 00:35:03,170
+Não pagarei nenhuma aposta
+a esse palhaço Danita.
+
+455
+00:35:03,271 --> 00:35:05,330
+Sim, pagarás!
+Fizeste uma aposta.
+
+456
+00:35:05,431 --> 00:35:08,146
+Antes de pagar, queimarei esta casa,
+e com eles lá dentro.
+
+457
+00:35:09,256 --> 00:35:10,759
+Não conheces Sansão!
+
+458
+00:35:10,760 --> 00:35:12,350
+Sansão...
+
+459
+00:35:13,230 --> 00:35:17,357
+Seria mais seguro, se Ahtur
+soubesse a resposta pela Semadar.
+
+460
+00:35:17,440 --> 00:35:18,815
+Sim. Pela Semadar.
+
+461
+00:35:18,850 --> 00:35:20,525
+- Jovem inteligente.
+- Sim.
+
+462
+00:35:20,530 --> 00:35:23,570
+As mulheres cedem sempre a Ahtur.
+
+463
+00:35:31,745 --> 00:35:33,873
+Porque se preocupariam
+os nossos convidados,
+
+464
+00:35:33,899 --> 00:35:35,480
+com um estúpido jogo de palavras?
+
+465
+00:35:35,515 --> 00:35:37,260
+Não é só um jogo, para eles.
+
+466
+00:35:37,317 --> 00:35:38,903
+É um Danita contra Filisteus.
+
+467
+00:35:38,904 --> 00:35:41,030
+O vinho entorpeceu-lhes os sentidos.
+
+468
+00:35:41,250 --> 00:35:43,100
+Não lhes entorpeceu a raiva.
+
+469
+00:35:44,124 --> 00:35:47,440
+Estás a tentar assustar-me, porque
+não queres que eu case com Sansão.
+
+470
+00:35:47,541 --> 00:35:49,680
+Eu não quero que te cases
+com Sansão, mas...
+
+471
+00:35:50,730 --> 00:35:53,615
+há ódio ali em baixo, na tua
+festa de casamento.
+
+472
+00:35:53,616 --> 00:35:55,820
+Pensam que te juntaste
+a Sansão, contra nós.
+
+473
+00:35:55,830 --> 00:35:57,200
+Mas eu não o fiz.
+
+474
+00:35:58,138 --> 00:35:59,438
+Diz-lhes que eu não o fiz.
+
+475
+00:35:59,439 --> 00:36:00,906
+Não.
+
+476
+00:36:00,907 --> 00:36:04,100
+Diz-lhes a resposta para a adivinha.
+
+477
+00:36:04,484 --> 00:36:06,050
+Mas eu não a sei!
+
+478
+00:36:06,646 --> 00:36:07,980
+Infelizmente.
+
+479
+00:36:08,348 --> 00:36:11,113
+Ahtur, Sansão não me disse nada.
+
+480
+00:36:11,685 --> 00:36:16,099
+Certamente que ele partilhará a
+resposta, com tão encantadora noiva.
+
+481
+00:36:16,156 --> 00:36:17,556
+Mas se o não fizer?
+
+482
+00:36:17,557 --> 00:36:21,330
+Consegue-a, ou a morte poderá
+resolver a adivinha do Danita.
+
+483
+00:36:36,910 --> 00:36:40,087
+Não significo para ti mais, do que
+aqueles estranhos ali em baixo.
+
+484
+00:36:40,147 --> 00:36:43,300
+Semadar, não chores.
+Eu não suporto lágrimas.
+
+485
+00:36:43,301 --> 00:36:46,005
+- Tu não me amas.
+- Mas Semadar, repara...
+
+486
+00:36:46,006 --> 00:36:47,520
+Não!
+Vai-te embora!
+
+487
+00:36:47,660 --> 00:36:49,430
+Eu não disse a ninguém a resposta.
+
+488
+00:36:50,300 --> 00:36:51,938
+Estamos na nossa noite de núpcias,
+
+489
+00:36:51,992 --> 00:36:53,720
+e para ti não sou ninguém.
+
+490
+00:36:54,100 --> 00:36:55,475
+Mulheres!
+
+491
+00:36:56,763 --> 00:36:58,780
+Não me queres fazer feliz?
+
+492
+00:36:59,933 --> 00:37:01,983
+Diz-me a resposta à adivinha.
+
+493
+00:37:02,035 --> 00:37:03,920
+Podias agradar-me tanto!
+
+494
+00:37:04,604 --> 00:37:06,190
+Se um favo de mel te agrada,
+
+495
+00:37:06,560 --> 00:37:08,480
+Um leão não nos manterá afastados.
+
+496
+00:37:08,842 --> 00:37:10,379
+Favo de mel!
+
+497
+00:37:10,380 --> 00:37:11,800
+É essa a resposta?
+
+498
+00:37:12,312 --> 00:37:13,884
+Lembraste daquele leão que matei?
+
+499
+00:37:14,875 --> 00:37:16,740
+O sol branqueou-lhe os ossos.
+
+500
+00:37:17,520 --> 00:37:19,850
+E abelhas silvestres fizeram
+uma colmeia neles.
+
+501
+00:37:20,220 --> 00:37:21,750
+Oh, Sansão!
+
+502
+00:37:22,255 --> 00:37:24,130
+Esse foi o favo de mel que
+me trouxeste.
+
+503
+00:37:24,550 --> 00:37:25,884
+O que é mais doce que o mel?
+
+504
+00:37:26,270 --> 00:37:28,780
+O que é mais forte que um leão?
+
+505
+00:37:42,342 --> 00:37:44,460
+<i>Semadar!
+Tão bela como uma pérola!</i>
+
+506
+00:37:49,049 --> 00:37:52,885
+Perante estes convidados,
+dou a minha filha, Semadar,
+
+507
+00:37:52,886 --> 00:37:55,850
+a Sansão, em casamento.
+
+508
+00:37:57,500 --> 00:37:59,890
+O que é mais doce que o mel, Sansão?
+
+509
+00:38:01,561 --> 00:38:02,920
+Diz-nos...
+
+510
+00:38:03,900 --> 00:38:06,040
+O que é mais forte que um leão?
+
+511
+00:38:07,701 --> 00:38:09,990
+Ahtur ganhou a aposta do Danita.
+
+512
+00:38:09,991 --> 00:38:12,400
+Ou a noiva do Danita.
+
+513
+00:38:14,374 --> 00:38:16,980
+Uma adivinha inteligente.
+Inteligentemente respondida.
+
+514
+00:38:17,081 --> 00:38:19,530
+E agora, Sansão, toma a taça de vinho.
+
+515
+00:38:19,800 --> 00:38:21,540
+Paga a tua aposta, noivo.
+
+516
+00:38:21,750 --> 00:38:24,310
+- Um novo traje para cada um!
+- Antes de irmos embora.
+
+517
+00:38:24,311 --> 00:38:26,250
+Um manto vermelho é o que eu quero,
+
+518
+00:38:26,251 --> 00:38:28,960
+para que as nódoas de vinho
+não se vejam.
+
+519
+00:38:28,961 --> 00:38:30,415
+Uma túnica de lã para mim,
+
+520
+00:38:30,416 --> 00:38:32,790
+para me proteger do ar fétido de Dan.
+
+521
+00:38:32,791 --> 00:38:34,220
+Traz-me um manto bordado,
+
+522
+00:38:34,221 --> 00:38:35,800
+para deslumbrar as prostitutas.
+
+523
+00:38:36,830 --> 00:38:39,471
+Eu contento-me com um manto prateado.
+
+524
+00:38:39,532 --> 00:38:41,628
+Se não tivesses conspirado com
+a minha noiva,
+
+525
+00:38:42,510 --> 00:38:44,550
+não terias respondido
+à minha adivinha.
+
+526
+00:38:44,840 --> 00:38:46,750
+És um mau perdedor, homem forte.
+
+527
+00:38:47,440 --> 00:38:48,890
+Paga a tua dívida.
+
+528
+00:38:48,900 --> 00:38:51,100
+Pagarei a minha dívida.
+
+529
+00:38:51,545 --> 00:38:53,540
+Da mesma forma que encontraste
+a resposta.
+
+530
+00:38:53,641 --> 00:38:55,810
+Um manto vermelho é o que eu quero.
+
+531
+00:38:55,820 --> 00:38:57,620
+Terás o teu manto vermelho, Damac.
+
+532
+00:38:58,930 --> 00:39:00,540
+Terás a tua túnica de lã, Targil!
+
+533
+00:39:00,641 --> 00:39:02,480
+Com fios de ouro!
+
+534
+00:39:02,510 --> 00:39:04,330
+E tu, Bergam, o teu manto prateado.
+
+535
+00:39:04,331 --> 00:39:06,230
+Serão todos pagos na íntegra.
+
+536
+00:39:07,961 --> 00:39:10,152
+Traíste-me, antes do
+casamento estar celebrado.
+
+537
+00:39:11,631 --> 00:39:13,780
+Os gatos dos becos de Timnath,
+
+538
+00:39:14,320 --> 00:39:15,960
+podiam aprender muito contigo.
+
+539
+00:39:16,536 --> 00:39:17,970
+Ela fica connosco.
+
+540
+00:39:18,540 --> 00:39:20,860
+E tu, farás melhor em voltar
+para o teu povo.
+
+541
+00:39:20,861 --> 00:39:22,461
+Sim, volta.
+
+542
+00:39:23,370 --> 00:39:24,900
+Voltarei.
+
+543
+00:39:26,446 --> 00:39:29,018
+Mas primeiro devo pagar a dívida
+para com o vosso povo.
+
+544
+00:39:30,900 --> 00:39:32,464
+Ou pagar a tua aposta.
+
+545
+00:39:32,519 --> 00:39:33,840
+Estarei à tua espera.
+
+546
+00:39:33,841 --> 00:39:36,232
+Sansão!
+
+547
+00:39:36,256 --> 00:39:39,170
+- Deixe-o ir, pai.
+- Mas o Saran deu-a a Sansão.
+
+548
+00:39:39,259 --> 00:39:42,280
+E Sansão chamou-lhe "gata dos
+becos de Timnath".
+
+549
+00:39:42,281 --> 00:39:45,320
+Isto é terrível.
+Ele não a deve querer, agora.
+
+550
+00:39:45,321 --> 00:39:46,760
+Mas Ahtur quere-a.
+
+551
+00:39:47,167 --> 00:39:48,534
+Ahtur!
+
+552
+00:39:48,535 --> 00:39:51,430
+E o quarto nupcial está
+à espera duma noiva.
+
+553
+00:39:54,374 --> 00:39:56,400
+Tens bom senso,
+nessa tua linda cabeça.
+
+554
+00:39:56,401 --> 00:39:57,995
+Ahtur!
+
+555
+00:39:59,546 --> 00:40:02,400
+A desgraça que provocastes
+hoje, ireis recebê-la amanhã.
+
+556
+00:40:05,585 --> 00:40:12,991
+Eu preferia ser um mercador do
+que um capitão da frota...
+
+557
+00:40:14,060 --> 00:40:18,408
+O Saran possui um Palácio...
+
+558
+00:40:18,465 --> 00:40:22,517
+o bobo possui um traseiro.
+
+559
+00:40:22,569 --> 00:40:24,846
+Socorro!
+
+560
+00:40:24,904 --> 00:40:26,300
+Socorro!
+
+561
+00:40:26,500 --> 00:40:29,800
+Piedade!
+Socorro, Deus!
+
+562
+00:40:29,801 --> 00:40:31,830
+Fomos roubados!
+Um gigante!
+
+563
+00:40:31,831 --> 00:40:33,289
+Dagon, protegei-nos!
+
+564
+00:40:33,313 --> 00:40:36,222
+Ele matar-nos-á!
+Socorro! Misericórdia!
+
+565
+00:40:36,282 --> 00:40:38,750
+Ladrões!
+Socorro!
+
+566
+00:40:39,652 --> 00:40:42,062
+Socorro! Socorro!
+Roubaram-me!
+
+567
+00:40:42,063 --> 00:40:45,260
+Algum demónio caiu sobre mim, e
+roubou-me a minha melhor túnica.
+
+568
+00:40:45,261 --> 00:40:47,349
+- Um demónio?
+- Grande como um camelo...
+
+569
+00:40:47,350 --> 00:40:50,100
+As minhas roupas! As minhas roupas!
+O meu manto vermelho!
+
+570
+00:40:50,111 --> 00:40:51,740
+- Desapareceram!
+- Isso vejo eu.
+
+571
+00:40:51,831 --> 00:40:54,250
+Um gigante atirou-me ao ar...
+tentei combatê-lo...
+
+572
+00:40:55,435 --> 00:40:57,950
+- Paz! Paz! Paz!
+- Um momento! Falem sensatamente!
+
+573
+00:40:57,951 --> 00:41:00,188
+A minha túnica florida...
+Foi roubada.
+
+574
+00:41:00,240 --> 00:41:03,449
+Aquela que a minha mulher fez para mim.
+Ela nunca acreditará em mim.
+
+575
+00:41:03,509 --> 00:41:04,990
+Peço que façam uma busca!
+
+576
+00:41:05,044 --> 00:41:08,425
+- O meu manto, o meu manto vermelho!
+- A minha veste de tecido prateado!
+
+577
+00:41:08,640 --> 00:41:12,820
+Viemos por um casamento, e, por Dagon,
+tivemos um casamento.
+
+578
+00:41:13,119 --> 00:41:15,690
+Não te vais embora antes do Danita
+pagar a sua aposta?
+
+579
+00:41:15,791 --> 00:41:17,945
+A sua dívida é tão má como
+a sua adivinha.
+
+580
+00:41:17,991 --> 00:41:20,092
+- Ele não vai voltar.
+- Sim, voltará.
+
+581
+00:41:20,093 --> 00:41:22,880
+Se voltar, trespassá-lo-ei
+como um vitelo gordo.
+
+582
+00:41:24,400 --> 00:41:26,257
+Aí está a tua túnica com fios de ouro.
+
+583
+00:41:26,533 --> 00:41:28,630
+Aqui está o teu vitelo gordo, Targil.
+
+584
+00:41:30,303 --> 00:41:33,060
+Um manto vermelho,
+da cor do teu nariz, Gammad.
+
+585
+00:41:34,207 --> 00:41:35,585
+Toma, Teresh.
+
+586
+00:41:35,642 --> 00:41:39,022
+Usa isto na tua cabeça, para que as
+prostitutas possam ver a tua cara.
+
+587
+00:41:39,078 --> 00:41:41,490
+- Espera!
+- E tu, Gergam.
+
+588
+00:41:41,648 --> 00:41:43,020
+Queres um manto prateado?
+
+589
+00:41:43,021 --> 00:41:46,281
+Escolhe-o tu mesmo, há aqui trinta
+de onde podes escolher.
+
+590
+00:41:50,100 --> 00:41:52,211
+Onde foi ele buscar tais vestes?
+
+591
+00:41:52,850 --> 00:41:54,870
+Agora, foram pagos.
+
+592
+00:41:54,871 --> 00:41:56,443
+Todos vós.
+
+593
+00:41:56,920 --> 00:41:58,400
+Onde está Semadar?
+
+594
+00:42:03,050 --> 00:42:05,200
+- Onde está Semadar?
+- Espera, espera, Sansão.
+
+595
+00:42:05,301 --> 00:42:06,800
+Onde está a minha esposa?
+
+596
+00:42:06,901 --> 00:42:08,880
+Mas ela não é tua esposa.
+Tu disseste...
+
+597
+00:42:08,981 --> 00:42:11,080
+Não importa o que eu disse.
+Onde está ela?
+
+598
+00:42:11,181 --> 00:42:14,560
+Disseste que tinhas terminado com ela.
+Tu mesmo o disseste.
+
+599
+00:42:14,661 --> 00:42:17,657
+Pensei que a odiasses.
+Assim, dei-a ao teu companheiro, Ahtur.
+
+600
+00:42:17,758 --> 00:42:19,062
+Vós... Ahtur?!
+
+601
+00:42:19,118 --> 00:42:21,345
+Ele queria casar com ela.
+Que podia eu fazer?
+
+602
+00:42:21,346 --> 00:42:23,024
+Não queria ter um Danita por genro!
+
+603
+00:42:23,035 --> 00:42:25,400
+Eu? Espera, espera.
+Toma! Sansão.
+
+604
+00:42:25,792 --> 00:42:27,980
+A minha outra filha.
+Toma-a.
+
+605
+00:42:27,981 --> 00:42:29,959
+Ela fará uma esposa
+muito melhor para ti.
+
+606
+00:42:30,060 --> 00:42:31,605
+É mais justa que Semadar.
+
+607
+00:42:31,720 --> 00:42:34,950
+- E muito, muito mais bela.
+- Está a oferecer-me um nabo por...
+
+608
+00:42:34,951 --> 00:42:38,875
+Espera, espera Sansão.
+Esta é uma rainha entre as mulheres.
+
+609
+00:42:38,876 --> 00:42:42,555
+Sansão, olha, olha!
+Alguma vez viste olhos como estes?
+
+610
+00:42:42,556 --> 00:42:44,180
+Tão cheios de amor por ti?
+
+611
+00:42:44,340 --> 00:42:46,415
+Vê a brancura da sua pele,
+
+612
+00:42:46,416 --> 00:42:48,640
+suave como uma pomba jovem.
+
+613
+00:42:48,641 --> 00:42:50,860
+Transformar-se-á numa flor rara.
+
+614
+00:42:50,861 --> 00:42:52,700
+Transformar-se-á num espinheiro.
+
+615
+00:42:53,190 --> 00:42:56,350
+Foi um espinheiro que furtou a
+quadriga, que te levou até ao leão?
+
+616
+00:42:56,451 --> 00:43:00,060
+Foi um espinheiro que disse a Saran...
+como o mataste com as tuas mãos nuas?
+
+617
+00:43:00,161 --> 00:43:02,405
+Não, fui eu que disse.
+E ele acreditou em mim.
+
+618
+00:43:02,416 --> 00:43:03,990
+Então tu escolheste Semadar.
+
+619
+00:43:04,081 --> 00:43:05,830
+Tira as tuas garras de cima de mim.
+
+620
+00:43:05,841 --> 00:43:07,878
+Nunca conseguirás tirá-las
+de cima de ti.
+
+621
+00:43:07,969 --> 00:43:10,513
+Eu fiz Ahtur roubar o
+segredo da adivinha a Semadar.
+
+622
+00:43:10,526 --> 00:43:12,387
+Menti, para evitar que
+casasses com ela.
+
+623
+00:43:12,398 --> 00:43:14,370
+Mataria para te guardar para mim.
+
+624
+00:43:14,461 --> 00:43:16,690
+És a única coisa no mundo que desejo.
+
+625
+00:43:16,709 --> 00:43:19,750
+Pára esta língua bífida de víbora,
+antes que eu a esmague.
+
+626
+00:43:20,192 --> 00:43:21,900
+Se terminares com a minha vida,
+
+627
+00:43:21,901 --> 00:43:24,262
+beijar-te-ei com o meu
+último sopro de vida.
+
+628
+00:43:24,609 --> 00:43:27,080
+E quer que me case com esta
+gata selvagem?
+
+629
+00:43:28,630 --> 00:43:30,634
+Deixa-o destruir-se a si próprio!
+
+630
+00:43:31,891 --> 00:43:33,250
+Sansão!
+
+631
+00:43:34,494 --> 00:43:36,480
+Irás morrer por causa disto, seu louco!
+
+632
+00:43:49,509 --> 00:43:51,013
+Vejam!
+Ahtur está caído!
+
+633
+00:43:51,150 --> 00:43:53,080
+Dêem-me um dardo!
+
+634
+00:43:55,480 --> 00:43:58,969
+Deixa-me sair!
+Targil! Gammad!
+
+635
+00:44:00,653 --> 00:44:02,572
+A minha espada!
+
+636
+00:44:04,924 --> 00:44:06,580
+Não está armado.
+Ataquem-no!
+
+637
+00:44:06,600 --> 00:44:08,342
+Vou partir aquele escudo!
+Um dardo!
+
+638
+00:44:08,394 --> 00:44:10,860
+Semadar! Aqui está um
+espinho para as suas costelas.
+
+639
+00:44:10,871 --> 00:44:12,560
+- Matem-no!
+- Para dentro, Semadar!
+
+640
+00:44:12,651 --> 00:44:14,270
+Vem, Sansão, eles vão matar-nos.
+
+641
+00:44:14,510 --> 00:44:16,070
+Cuidado!
+Ele vai atirar.
+
+642
+00:44:17,900 --> 00:44:19,330
+Cerrar os escudos!
+
+643
+00:44:22,120 --> 00:44:24,620
+Não, não Targil! Esconde-te, Semadar.
+Esconde-te!
+
+644
+00:44:24,621 --> 00:44:27,619
+- E morte ao pai dela!
+- Pai...
+
+645
+00:44:27,620 --> 00:44:29,150
+Semadar!
+Não! Não!
+
+646
+00:44:29,151 --> 00:44:30,515
+Targil! Targ...
+
+647
+00:44:40,393 --> 00:44:41,900
+Minha filha!
+
+648
+00:44:44,300 --> 00:44:46,270
+Queimem-na, e ao pai, com fogo.
+
+649
+00:44:47,100 --> 00:44:48,560
+Ataquem-no!
+
+650
+00:44:55,080 --> 00:44:57,150
+Ele tem a força do inferno.
+
+651
+00:44:57,160 --> 00:44:59,239
+Sangrará como qualquer homem!
+
+652
+00:44:59,240 --> 00:45:01,570
+Vieram a esta casa
+como convidados do casamento.
+
+653
+00:45:02,400 --> 00:45:05,220
+Fogo e morte são as vossas ofertas
+para a minha noiva.
+
+654
+00:45:06,390 --> 00:45:08,593
+Por tudo o que faço contra vós agora,
+
+655
+00:45:09,700 --> 00:45:11,480
+eu estarei inocente.
+
+656
+00:45:12,980 --> 00:45:15,270
+Retribuirei fogo com fogo!
+
+657
+00:45:16,680 --> 00:45:18,285
+E morte com morte.
+
+658
+00:45:29,400 --> 00:45:33,635
+Que invisível poder
+ataca através do seu braço?
+
+659
+00:45:50,130 --> 00:45:52,210
+Recusai ver, pequena ama.
+
+660
+00:45:52,211 --> 00:45:54,246
+Não olheis mais.
+
+661
+00:45:54,247 --> 00:45:57,990
+Tudo o que tendes no mundo, são
+cinzas e morte.
+
+662
+00:46:02,308 --> 00:46:03,800
+Sansão está vivo.
+
+663
+00:46:03,801 --> 00:46:06,468
+Possa a sua carne apodrecer,
+e separar-se dos seus ossos.
+
+664
+00:46:06,479 --> 00:46:08,395
+Está calada, velha tonta.
+
+665
+00:46:08,396 --> 00:46:11,057
+Mesmo que leve toda a minha vida,
+
+666
+00:46:11,117 --> 00:46:14,590
+fá-lo-ei amaldiçoar o dia
+em que nasceu.
+
+667
+00:46:14,591 --> 00:46:17,330
+Ele chamou-vos língua bífida de víbora.
+
+668
+00:46:17,331 --> 00:46:20,780
+Vai sentir a sua mordedura.
+
+669
+00:46:21,900 --> 00:46:25,380
+Que força podem ter
+estas mãos contra ele?
+
+670
+00:46:27,620 --> 00:46:33,850
+Talvez mais força que as de um leão,
+mas mais suaves que as duma pomba.
+
+671
+00:46:34,520 --> 00:46:37,670
+Encontrarei forças, Hisham.
+
+672
+00:46:38,444 --> 00:46:41,654
+Forças para o destruir.
+
+673
+00:46:46,385 --> 00:46:48,594
+Sansão! Sansão! Sansão!
+
+674
+00:46:48,654 --> 00:46:51,210
+Todos os pastores Danitas
+sabem onde encontrá-lo,
+
+675
+00:46:51,211 --> 00:46:53,374
+ainda que o considerem invisível.
+
+676
+00:46:53,600 --> 00:46:57,340
+Eu sei que os Danitas adoram
+um Deus invisível, Ahtur.
+
+677
+00:46:57,400 --> 00:46:59,300
+Mas um líder invisível?!
+
+678
+00:46:59,301 --> 00:47:02,320
+Desperdicei um ano a
+perseguir mentiras e boatos.
+
+679
+00:47:02,560 --> 00:47:04,760
+Açoitei Danitas,
+pendurei-os acorrentados,
+
+680
+00:47:04,761 --> 00:47:07,815
+queimei-os, mas eles não o entregam.
+
+681
+00:47:07,850 --> 00:47:11,150
+Aparentemente amam mais Sansão
+do que te temem a ti.
+
+682
+00:47:11,151 --> 00:47:14,500
+Dai-me dez mil homens, e eu
+ensino-os a ter medo.
+
+683
+00:47:16,210 --> 00:47:20,710
+Como todos os soldados, quando falhas
+com a espada, pedes-me mais espadas.
+
+684
+00:47:21,030 --> 00:47:22,670
+Devias estudar as formigas.
+
+685
+00:47:23,680 --> 00:47:26,420
+- As formigas?
+- Sim.
+
+686
+00:47:26,750 --> 00:47:29,620
+Os Babilónios chamaram-lhes "Zerbabu".
+
+687
+00:47:29,630 --> 00:47:32,170
+Os Danitas chamam-lhes "Nemalah".
+
+688
+00:47:32,850 --> 00:47:34,580
+Nós chamamos-lhes formigas.
+
+689
+00:47:34,581 --> 00:47:36,282
+Vê como estas formigas dominantes,
+
+690
+00:47:36,335 --> 00:47:38,450
+Cobram alimento aos seus escravos.
+
+691
+00:47:39,050 --> 00:47:41,130
+Podemos chamá-las
+cobradores de impostos.
+
+692
+00:47:41,510 --> 00:47:44,370
+Precisamos de soldados para
+destruir este Danita.
+
+693
+00:47:45,070 --> 00:47:46,706
+Achas que sim, Ahtur?
+
+694
+00:47:47,690 --> 00:47:49,724
+Eu penso que um cobrador de impostos,
+
+695
+00:47:49,749 --> 00:47:52,120
+vale por mil soldados.
+
+696
+00:47:56,989 --> 00:47:58,410
+Um terço de cada rebanho.
+
+697
+00:47:58,411 --> 00:48:00,790
+Mas os nossos rebanhos,
+são as nossas vidas.
+
+698
+00:48:00,791 --> 00:48:02,440
+As suas peles vestem-nos.
+
+699
+00:48:02,641 --> 00:48:04,560
+O seu leite alimenta as
+nossas crianças.
+
+700
+00:48:04,661 --> 00:48:06,900
+Um em cada três, esse é o
+imposto do Saran.
+
+701
+00:48:06,910 --> 00:48:09,930
+Um em cada três vai arruinar-nos.
+Não podemos pagar tal imposto.
+
+702
+00:48:10,031 --> 00:48:12,460
+Pagá-lo-ão, até nos entregarem Sansão,
+
+703
+00:48:12,561 --> 00:48:14,380
+amarrado como este.
+
+704
+00:48:15,800 --> 00:48:17,820
+Da próxima vez, levarei as
+tuas cabras.
+
+705
+00:48:18,350 --> 00:48:20,530
+Vamos soldado.
+
+706
+00:48:23,749 --> 00:48:25,910
+Não! Não!
+Parem!
+
+707
+00:48:25,911 --> 00:48:29,250
+Vós, cobradores de impostos,
+alimentai-vos de nós como abutres.
+
+708
+00:48:29,400 --> 00:48:31,590
+Não me resta nada para vender.
+
+709
+00:48:31,700 --> 00:48:33,800
+Vende-nos Sansão amarrado, amigo!
+
+710
+00:48:34,200 --> 00:48:35,790
+Prendê-lo?
+
+711
+00:48:35,910 --> 00:48:37,930
+Nós não conseguimos sequer encontrá-lo.
+
+712
+00:48:39,690 --> 00:48:41,380
+Tu sabes onde ele está.
+
+713
+00:48:42,400 --> 00:48:44,700
+Os barbeiros sabem todas
+as bisbilhotices.
+
+714
+00:48:45,700 --> 00:48:48,425
+A minha bolsa!
+
+715
+00:48:48,426 --> 00:48:51,060
+Ficaremos com isto
+até que entreguem Sansão.
+
+716
+00:48:52,050 --> 00:48:53,700
+Apanharão Sansão,
+
+717
+00:48:53,701 --> 00:48:56,750
+quando a luz do Senhor se apagar.
+
+718
+00:49:07,020 --> 00:49:10,680
+Até tirais a luz com que oramos.
+
+719
+00:49:10,681 --> 00:49:13,099
+Não deves orar muito mais tempo,
+ancião.
+
+720
+00:49:13,100 --> 00:49:15,579
+A menos que nos tragas Sansão,
+para fora do deserto.
+
+721
+00:49:15,580 --> 00:49:18,860
+Ele voltará para vos expulsar
+da nossa terra.
+
+722
+00:49:18,880 --> 00:49:21,600
+Será uma terra de fome, olhos grandes.
+
+723
+00:49:21,610 --> 00:49:23,400
+Podem matar-nos à fome com impostos,
+
+724
+00:49:23,409 --> 00:49:27,129
+tirar as nossas casas, saquear, queimar
+roubar, mas nós nunca trairemos Sansão.
+
+725
+00:49:27,140 --> 00:49:29,140
+Uma rocha não é uma montanha, Miriam.
+
+726
+00:49:29,150 --> 00:49:31,180
+E um homem não é uma nação.
+
+727
+00:49:31,840 --> 00:49:34,650
+Pode Sansão trazer de volta o trigo
+para os nossos campos,
+
+728
+00:49:34,651 --> 00:49:37,155
+queimando os campos dos filisteus?
+
+729
+00:49:37,220 --> 00:49:39,140
+Pode Sansão alimentar as
+nossas crianças,
+
+730
+00:49:39,151 --> 00:49:42,260
+quando elas choram por comida
+às portas de Gaza?
+
+731
+00:49:42,300 --> 00:49:44,800
+Ele fez aos filisteus
+o que eles lhe fizeram.
+
+732
+00:49:44,810 --> 00:49:46,450
+Quem mais se levantou contra eles?
+
+733
+00:49:46,461 --> 00:49:49,160
+Ele lutou contra eles, por causa
+da sua mulher filisteia.
+
+734
+00:49:49,251 --> 00:49:50,620
+Não por nós.
+
+735
+00:49:50,631 --> 00:49:52,700
+A sua força é o nosso escudo,
+Lesh Lakish.
+
+736
+00:49:52,795 --> 00:49:54,140
+Ele não nos defendeu.
+
+737
+00:49:54,190 --> 00:49:57,200
+Devemos todos sofrer por aquilo
+que um só homem fez?
+
+738
+00:49:57,201 --> 00:49:58,790
+Nunca o entregaremos.
+
+739
+00:49:58,840 --> 00:50:01,150
+Vamos amarrá-lo e entregá-lo,
+
+740
+00:50:01,151 --> 00:50:03,650
+nas mãos dos filisteus.
+
+741
+00:50:07,640 --> 00:50:09,381
+Vão entregá-lo à morte.
+
+742
+00:50:09,826 --> 00:50:12,400
+Enquanto a força do Senhor
+estiver com ele,
+
+743
+00:50:12,950 --> 00:50:15,520
+nenhum homem pode amarrar Sansão.
+
+744
+00:50:16,060 --> 00:50:19,000
+Ele não levantará a sua mão
+contra nós, avô.
+
+745
+00:50:20,250 --> 00:50:22,240
+Ele próprio se deixará amarrar.
+
+746
+00:50:22,241 --> 00:50:24,810
+Porque terão sempre
+os homens de trair,
+
+747
+00:50:24,820 --> 00:50:26,989
+o mais forte de entre eles?
+
+748
+00:50:28,600 --> 00:50:31,840
+O seu nome será escrito
+no Livro dos Juízes.
+
+749
+00:50:47,120 --> 00:50:48,960
+Muje, seu boi fanfarrão,
+
+750
+00:50:48,961 --> 00:50:52,050
+para que o Saran te possa ouvir
+em Gaza.
+
+751
+00:51:00,900 --> 00:51:04,336
+Mesmo um rubi perde o brilho,
+frente aos teus lábios.
+
+752
+00:51:09,680 --> 00:51:12,230
+Tomarei uma safira e uma esmeralda
+juntos,
+
+753
+00:51:12,231 --> 00:51:14,660
+para combinarem com os teus
+olhos azuis-esverdeados.
+
+754
+00:51:18,980 --> 00:51:21,720
+Conheci o temperamento
+de muitas mulheres,
+
+755
+00:51:22,090 --> 00:51:24,530
+cheias de fogo nas veias,
+
+756
+00:51:25,380 --> 00:51:27,750
+mas só uma Dalila.
+
+757
+00:51:30,340 --> 00:51:32,700
+O meu Lorde tem-me oferecido
+muitos presentes,
+
+758
+00:51:32,890 --> 00:51:35,340
+mas nenhum mais precioso
+que a sua estima.
+
+759
+00:51:35,341 --> 00:51:37,775
+Pequena ama!
+
+760
+00:51:37,776 --> 00:51:40,965
+Estás proibida de me perturbar,
+quando o Senhor de Gaza está aqui.
+
+761
+00:51:41,100 --> 00:51:43,448
+É um mensageiro com notícias,
+de Lorde General.
+
+762
+00:51:43,459 --> 00:51:46,030
+- Diz que é muito urgente!
+- Não queremos ver ninguém.
+
+763
+00:51:46,031 --> 00:51:49,800
+Dalila, em que dragão com "covinhas"
+te podes transformar,
+
+764
+00:51:49,801 --> 00:51:51,760
+a expelir fogo e fumo.
+
+765
+00:51:52,300 --> 00:51:54,250
+Mas até mesmo a tua raiva me encanta,
+
+766
+00:51:54,251 --> 00:51:56,710
+enquanto for dirigida para
+outra pessoa qualquer.
+
+767
+00:51:57,035 --> 00:51:59,540
+Pobre Hisham.
+Deixa o homem entrar.
+
+768
+00:52:08,650 --> 00:52:11,550
+- Majestade!
+- Fala!
+
+769
+00:52:11,551 --> 00:52:15,292
+Lorde Ahtur, governador militar de Dan,
+príncipe da Filistina,
+
+770
+00:52:15,614 --> 00:52:17,745
+envia as suas saudações ao
+Saran de Gaza.
+
+771
+00:52:17,746 --> 00:52:20,044
+- Mages...
+- Sim, sim. Passa à mensagem.
+
+772
+00:52:20,045 --> 00:52:23,222
+- Sansão é nosso prisioneiro.
+- Prisioneiro?
+
+773
+00:52:23,224 --> 00:52:26,272
+- O que eles lhe fizeram?
+- Permites-me que faça eu as perguntas.
+
+774
+00:52:26,284 --> 00:52:28,785
+- Perdão, meu Lorde, mas este homem...
+- Sim, eu sei.
+
+775
+00:52:28,795 --> 00:52:30,379
+Mas deixa isso comigo.
+Continua.
+
+776
+00:52:30,390 --> 00:52:33,775
+O Lorde Ahtur está a levar o Sansão,
+amarrado, em direcção a Gaza.
+
+777
+00:52:33,859 --> 00:52:35,527
+Eles ainda não vão muito longe.
+
+778
+00:52:35,945 --> 00:52:39,239
+Esperei muito tempo para
+ouvir essas palavras.
+
+779
+00:52:42,357 --> 00:52:44,800
+Semelhante notícia merece um prémio!
+
+780
+00:52:47,200 --> 00:52:48,644
+Retira-te.
+
+781
+00:52:51,920 --> 00:52:54,577
+Essa jóia foi muito dispendiosa.
+
+782
+00:52:55,470 --> 00:52:57,900
+Que ides fazer com Sansão, meu Lorde?
+
+783
+00:52:58,955 --> 00:53:01,285
+Bom, podemos pendurá-lo
+pelos calcanhares,
+
+784
+00:53:01,286 --> 00:53:02,932
+da tua varanda.
+
+785
+00:53:03,530 --> 00:53:06,150
+Ou, qual seria a tua sugestão, Dalila?
+
+786
+00:53:08,180 --> 00:53:10,409
+Obrigai-o a empurrar a mó
+do moinho de cereais,
+
+787
+00:53:10,435 --> 00:53:12,522
+chicoteado e conduzido como um animal,
+
+788
+00:53:12,623 --> 00:53:16,580
+onde toda a Gaza possa
+troçar e rir-se dele.
+
+789
+00:53:16,940 --> 00:53:19,590
+Humilhai-o.
+Ponde-o de joelhos.
+
+790
+00:53:19,643 --> 00:53:22,405
+Mas eu pensei que uma vez por outra,
+admiraste esse Danita.
+
+791
+00:53:22,655 --> 00:53:25,592
+Como admiro os ratos
+das sarjetas de Gaza.
+
+792
+00:53:26,370 --> 00:53:28,401
+Sinto ciúmes do teu ódio.
+
+793
+00:53:29,490 --> 00:53:31,666
+Mesmo isso, não partilhes
+com mais ninguém.
+
+794
+00:53:33,000 --> 00:53:35,710
+Vamos acorrentar esse matador de leões
+à mó do moinho...
+
+795
+00:53:35,811 --> 00:53:38,170
+se é esse o teu desejo,
+
+796
+00:53:38,214 --> 00:53:41,343
+e talvez arranjemos algumas outras
+pequenas distracções para ele.
+
+797
+00:53:41,410 --> 00:53:42,798
+Qualquer coisa.
+
+798
+00:53:42,899 --> 00:53:45,470
+Deixai-me só estar presente,
+para assistir a isso.
+
+799
+00:54:04,800 --> 00:54:07,972
+Inconquistável líder dos Danitas,
+
+800
+00:54:08,007 --> 00:54:10,610
+defensor do Deus invisível.
+
+801
+00:54:10,611 --> 00:54:12,760
+Estás muito silencioso, Sansão.
+
+802
+00:54:13,520 --> 00:54:15,785
+Pensei que gostasses da
+companhia dos filisteus.
+
+803
+00:54:15,786 --> 00:54:18,915
+Ele prefere a companhia de um
+burro, Lorde General.
+
+804
+00:54:19,790 --> 00:54:21,800
+Têm muito em comum.
+
+805
+00:54:22,200 --> 00:54:25,200
+Um burro é suficientemente esperto,
+para obedecer ao seu dono.
+
+806
+00:54:25,210 --> 00:54:27,420
+Os teus pés devem
+estar cansados Sansão.
+
+807
+00:54:27,521 --> 00:54:29,750
+Porque não tentas andar de joelhos?
+
+808
+00:54:38,060 --> 00:54:41,110
+Parem todos, parem todos!
+
+809
+00:54:41,111 --> 00:54:43,121
+Carregadores de água, para as fileiras!
+
+810
+00:54:50,870 --> 00:54:53,174
+Deixa-nos ouvir a tua oração, Sansão.
+
+811
+00:54:57,070 --> 00:55:00,030
+Duvido se as orações serão
+de muita ajuda, agora.
+
+812
+00:55:00,667 --> 00:55:02,954
+A sua verdadeira força,
+reside nas adivinhas.
+
+813
+00:55:02,955 --> 00:55:04,943
+Excelente, Excelência.
+
+814
+00:55:05,004 --> 00:55:07,388
+Adivinhas são a diversão dos tolos.
+
+815
+00:55:08,960 --> 00:55:11,100
+Então, adivinha esta, Sansão.
+
+816
+00:55:11,101 --> 00:55:15,483
+De Dan, veio um matador de feras...
+
+817
+00:55:15,484 --> 00:55:18,090
+Que cabeça pagará, pela sua
+festa de casamento?
+
+818
+00:55:19,881 --> 00:55:21,977
+A promessa feita ao meu povo
+foi cumprida?
+
+819
+00:55:21,978 --> 00:55:24,799
+Sim, mas não é essa a resposta
+à adivinha.
+
+820
+00:55:26,000 --> 00:55:28,370
+Estou verdadeiramente entregue
+nas vossas mãos?
+
+821
+00:55:28,371 --> 00:55:30,991
+Tão verdadeiramente quanto
+o estares sujeito por cordas.
+
+822
+00:55:32,499 --> 00:55:35,443
+Parece que perdeste a tua habilidade
+para as adivinhas.
+
+823
+00:55:37,203 --> 00:55:39,090
+É este o lugar de Lehi?
+
+824
+00:55:41,207 --> 00:55:43,150
+Até o céu fala contra ele.
+
+825
+00:55:44,911 --> 00:55:47,090
+Senhor, meu Deus, escutai-me.
+
+826
+00:55:48,650 --> 00:55:51,746
+Escarneceis de mim, por lutar contra
+as espadas dos meus inimigos.
+
+827
+00:55:52,300 --> 00:55:54,027
+Não me abandoneis, Senhor.
+
+828
+00:55:54,370 --> 00:55:56,150
+Mas dai força aos meus braços,
+
+829
+00:55:56,230 --> 00:55:59,400
+para destruir os leões que
+dispersaram os Vossos rebanhos.
+
+830
+00:56:00,260 --> 00:56:03,868
+Grande caveira, escuta-me.
+
+831
+00:56:06,370 --> 00:56:08,840
+Deixai-os ver o Vosso poder, ó Deus.
+
+832
+00:56:20,660 --> 00:56:23,040
+- Partem-se como linho a arder!
+- Sangue do diabo!
+
+833
+00:56:24,700 --> 00:56:26,400
+O seu Deus, libertou-o!
+
+834
+00:56:27,070 --> 00:56:28,520
+Depressa!
+Agarrem-no!
+
+835
+00:56:28,621 --> 00:56:30,940
+Vivo, se puderem!
+Usem as correntes!
+
+836
+00:56:50,310 --> 00:56:52,930
+Levantem isto, seus idiotas. O meu
+braço está preso.
+
+837
+00:57:26,320 --> 00:57:27,900
+Filho do demónio!
+
+838
+00:57:52,805 --> 00:57:55,622
+Nunca um mortal lutou assim!
+
+839
+00:57:56,376 --> 00:57:57,993
+A sua força era maior,
+
+840
+00:57:58,044 --> 00:58:00,085
+que qualquer máquina de guerra.
+
+841
+00:58:00,213 --> 00:58:02,620
+E quando ele chamou pelo seu Deus...
+
+842
+00:58:02,621 --> 00:58:04,680
+...o trovão, o ciclone e o relâmpago,
+
+843
+00:58:04,681 --> 00:58:06,440
+estavam nos seus golpes.
+
+844
+00:58:06,441 --> 00:58:09,002
+Uma centena de mortos,
+talvez um milhar.
+
+845
+00:58:09,010 --> 00:58:11,730
+Foi impossível contar as vítimas
+do massacre.
+
+846
+00:58:12,270 --> 00:58:14,660
+Mas que arma tinha ele?
+
+847
+00:58:15,461 --> 00:58:19,420
+Para maior vergonha nossa,
+a queixada de um burro.
+
+848
+00:58:20,921 --> 00:58:22,670
+Um brinquedo do bobo?
+
+849
+00:58:22,671 --> 00:58:26,217
+Nenhuma espada de ferro alguma
+vez desferiu tais golpes.
+
+850
+00:58:26,273 --> 00:58:28,970
+Os homens caiam diante dele como
+trigo diante da gadanha.
+
+851
+00:58:28,981 --> 00:58:33,310
+Um só Homem? Como é possível?
+Quem é esse homem? É doido!
+
+852
+00:58:33,501 --> 00:58:36,951
+Mas não tínhamos cavalos,
+quadrigas para o derrubar?
+
+853
+00:58:36,952 --> 00:58:39,751
+Ele virou quadrigas com
+um simples movimento.
+
+854
+00:58:39,786 --> 00:58:42,250
+Ele lutou dentro de um desfiladeiro
+tão estreito,
+
+855
+00:58:42,351 --> 00:58:44,745
+que nós espezinhávamos os moribundos
+para o atacar.
+
+856
+00:58:44,846 --> 00:58:47,510
+E aqueles que estavam atrás
+pressionavam para a frente,
+
+857
+00:58:47,611 --> 00:58:49,831
+E os da frente, eram
+forçados a recuar contra
+
+858
+00:58:49,932 --> 00:58:51,843
+as espadas que estavam
+por detrás deles.
+
+859
+00:58:51,897 --> 00:58:54,665
+Os meus olhos nunca viram
+um tal massacre.
+
+860
+00:58:54,766 --> 00:58:58,580
+E agora, os abutres voam em círculos
+sobre Ramath-Lehi.
+
+861
+00:58:58,855 --> 00:59:01,160
+E Sansão,
+
+862
+00:59:01,161 --> 00:59:03,830
+fugiu para as montanhas.
+
+863
+00:59:09,060 --> 00:59:11,926
+Levem este idiota, e tratem
+os seus ferimentos.
+
+864
+00:59:24,570 --> 00:59:27,113
+Então, onde está o Lorde Ahtur?
+
+865
+00:59:27,167 --> 00:59:29,155
+Estou aqui, Poderoso Saran.
+
+866
+00:59:29,156 --> 00:59:30,460
+Poderoso?
+
+867
+00:59:30,950 --> 00:59:32,450
+Em quê?
+
+868
+00:59:33,573 --> 00:59:35,535
+Certamente não no meu exército.
+
+869
+00:59:35,536 --> 00:59:38,185
+Vieste relatar-nos o teu triunfo?
+
+870
+00:59:39,050 --> 00:59:41,610
+O teu mensageiro deu-nos uma
+descrição muito completa.
+
+871
+00:59:41,611 --> 00:59:44,762
+Contou-nos mesmo como o teu guerreiro
+Zamath atacou como um leão,
+
+872
+00:59:44,863 --> 00:59:47,861
+unicamente para ficar com o seu
+crânio, esmagado como um ovo,
+
+873
+00:59:47,962 --> 00:59:49,573
+através do seu elmo.
+
+874
+00:59:49,923 --> 00:59:53,236
+E... com quê,
+
+875
+00:59:53,280 --> 00:59:55,970
+nobre príncipe Ahtur?
+
+876
+00:59:56,930 --> 01:00:00,877
+Dizei a este conselho, a arma
+que foi usada contra vós.
+
+877
+01:00:04,637 --> 01:00:07,087
+Bem?
+<i>Dizei-lhes.</i>
+
+878
+01:00:07,173 --> 01:00:08,670
+Falai.
+
+879
+01:00:10,120 --> 01:00:11,960
+A queixada dum burro.
+
+880
+01:00:14,250 --> 01:00:16,085
+Lorde Ahtur.
+
+881
+01:00:16,220 --> 01:00:18,260
+Governador Militar de Dan,
+
+882
+01:00:18,570 --> 01:00:20,400
+Príncipe da Filistina,
+
+883
+01:00:20,954 --> 01:00:22,969
+Chefe Supremo dos exércitos...
+
+884
+01:00:23,023 --> 01:00:26,248
+batido com a queixada dum burro.
+
+885
+01:00:27,160 --> 01:00:31,041
+Os nossos exércitos, que
+derrotaram os Hititas,
+
+886
+01:00:31,097 --> 01:00:33,477
+que varreram os Amonitas antes deles,
+
+887
+01:00:33,533 --> 01:00:36,441
+que atravessaram Canaã,
+para conquistar meio mundo,
+
+888
+01:00:36,503 --> 01:00:38,936
+derrotados com a queixada dum burro.
+
+889
+01:00:39,750 --> 01:00:43,884
+Sois um soldado, ou um
+palhaço a comandar idiotas?
+
+890
+01:00:44,900 --> 01:00:48,270
+Qual é o número de todas as forças
+sob o vosso comando, Lorde Shariff?
+
+891
+01:00:48,371 --> 01:00:50,030
+De quadrigas, 600 pesadas,
+
+892
+01:00:50,031 --> 01:00:51,860
+- e 1000 ligeiras.
+- Sim...
+
+893
+01:00:51,861 --> 01:00:53,852
+500 dromedários dos mais velozes.
+
+894
+01:00:54,421 --> 01:00:57,080
+2.000 cavaleiros, sem contar
+a guarda do palácio.
+
+895
+01:00:57,081 --> 01:00:59,350
+3.000 lanceiros de elite
+fortemente armados.
+
+896
+01:00:59,451 --> 01:01:00,830
+Oito mil...
+
+897
+01:01:00,831 --> 01:01:02,185
+Sim, sim.
+
+898
+01:01:02,211 --> 01:01:04,525
+E fomos derrotados pela
+queixada dum burro.
+
+899
+01:01:04,570 --> 01:01:06,310
+Sou eu, Lorde de cinco cidades,
+
+900
+01:01:06,311 --> 01:01:09,084
+que serei ridicularizado
+por todo o mundo,
+
+901
+01:01:09,135 --> 01:01:11,647
+diante dos povos por mim subjugados,
+
+902
+01:01:11,705 --> 01:01:14,120
+porque um pastor Danita
+derrotou os meus exércitos?
+
+903
+01:01:14,131 --> 01:01:15,910
+Não registes isso, seu idiota.
+
+904
+01:01:16,910 --> 01:01:19,577
+Queima as minhas colheitas,
+pilha as caravanas à vontade,
+
+905
+01:01:19,589 --> 01:01:21,657
+sim, leva mesmo os portões da
+minha cidade!
+
+906
+01:01:21,748 --> 01:01:24,965
+Pedi dez mil homens para esmagar
+aqueles Danitas para sempre.
+
+907
+01:01:25,018 --> 01:01:28,160
+Em vez disso, destes-me cobradores
+de impostos.
+
+908
+01:01:28,221 --> 01:01:31,185
+Os impostos entregaram Sansão
+nas vossas mãos, não é verdade?
+
+909
+01:01:31,196 --> 01:01:33,330
+Fostes vós que não o
+conseguistes segurar.
+
+910
+01:01:33,421 --> 01:01:35,480
+Este Sansão tem algum
+poder desconhecido.
+
+911
+01:01:35,581 --> 01:01:37,979
+Algum segredo que lhe dá uma
+força sobre-humana.
+
+912
+01:01:38,031 --> 01:01:39,651
+Nenhum homem consegue enfrentá-lo.
+
+913
+01:01:39,730 --> 01:01:41,960
+Talvez ele caia, diante de uma mulher.
+
+914
+01:01:48,020 --> 01:01:51,185
+Mesmo a força de Sansão,
+deve ter algum ponto fraco.
+
+915
+01:01:51,612 --> 01:01:53,360
+Não há nenhum homem no mundo,
+
+916
+01:01:53,461 --> 01:01:56,329
+que não partilhe os seus
+segredos com alguma mulher.
+
+917
+01:01:59,586 --> 01:02:02,253
+A maioria de nós, já partilhou
+o seu ouro com uma mulher.
+
+918
+01:02:04,291 --> 01:02:07,480
+Mais homens têm sido aprisionados
+por sorrisos, do que por cordas.
+
+919
+01:02:07,581 --> 01:02:09,850
+Sim, vós tentastes cordas, Athur.
+
+920
+01:02:09,950 --> 01:02:12,850
+Talvez devêsseis ter sorrido para ele.
+
+921
+01:02:13,200 --> 01:02:14,750
+Qual é o teu plano, Dalila?
+
+922
+01:02:14,751 --> 01:02:18,542
+Enfiar-lhe uma estaca na cabeça,
+como Jael, o Cananita?
+
+923
+01:02:19,050 --> 01:02:21,429
+Não, não é esse o meu plano,
+Lorde Shariff.
+
+924
+01:02:21,700 --> 01:02:24,104
+Dalila, conheceis uma mulher,
+
+925
+01:02:24,105 --> 01:02:27,150
+que pudesse seduzir este bárbaro,
+este assassino?
+
+926
+01:02:27,151 --> 01:02:30,165
+Sim, meus senhores,
+eu posso entregar-vos Sansão.
+
+927
+01:02:30,400 --> 01:02:31,750
+Vós, Dalila?
+
+928
+01:02:31,751 --> 01:02:34,257
+- Vós, capturar Sansão?
+- Esse demónio?
+
+929
+01:02:34,307 --> 01:02:37,617
+- Que os céus a protejam!
+- Uma pomba contra um touro.
+
+930
+01:02:38,030 --> 01:02:40,502
+Metam nisto uma mulher,
+e meter-se-ão em sarilhos.
+
+931
+01:02:40,503 --> 01:02:42,497
+Semelhante dedicação, é muito tocante,
+
+932
+01:02:42,549 --> 01:02:44,873
+mas que ganharias com a sua captura?
+
+933
+01:02:44,908 --> 01:02:46,420
+Os favores do meu soberano.
+
+934
+01:02:46,421 --> 01:02:48,900
+Mas esses, tens tu.
+É então tudo o que queres?
+
+935
+01:02:48,901 --> 01:02:51,830
+- Não.
+- Dizei o vosso preço, e tê-lo-eis.
+
+936
+01:02:51,831 --> 01:02:54,990
+Talvez alguma pequena frivolidade,
+da rua dos joalheiros?
+
+937
+01:02:56,710 --> 01:02:58,632
+Sois muito generoso.
+
+938
+01:02:59,600 --> 01:03:03,412
+Dizei-me, Sohrab, que valor estimastes
+para a vossa última caravana,
+
+939
+01:03:03,750 --> 01:03:05,383
+que Sansão saqueou perto de Gath?
+
+940
+01:03:05,750 --> 01:03:09,399
+Mil e cem peças em prata.
+Aqui está a avaliação.
+
+941
+01:03:09,400 --> 01:03:12,600
+Então é esse o meu preço,
+mil e cem peças de prata.
+
+942
+01:03:12,601 --> 01:03:15,023
+Mil e cem? O vosso preço é alto.
+
+943
+01:03:15,300 --> 01:03:17,631
+O resgate dum Faraó, por um pastor?
+
+944
+01:03:17,900 --> 01:03:20,150
+É melhor pagar em prata,
+do que em sangue.
+
+945
+01:03:20,600 --> 01:03:22,100
+Pagaremos isso.
+
+946
+01:03:22,200 --> 01:03:26,078
+Mil e cem peças de prata,
+de cada um de vós.
+
+947
+01:03:26,137 --> 01:03:27,520
+O quê?
+
+948
+01:03:28,100 --> 01:03:29,439
+Mil e cem!
+
+949
+01:03:29,440 --> 01:03:31,319
+Mil e cem?
+
+950
+01:03:33,450 --> 01:03:35,795
+- Afastem-se, por favor.
+- Mil e cem peças!
+
+951
+01:03:35,796 --> 01:03:38,320
+- Eu sei, mas tem de ser escrito!
+- De cada um de nós!
+
+952
+01:03:38,370 --> 01:03:39,700
+Silêncio!
+
+953
+01:03:40,080 --> 01:03:41,400
+Acalmai-vos.
+
+954
+01:03:42,553 --> 01:03:44,796
+Estás a conduzir o acordo com
+astúcia, Dalila!
+
+955
+01:03:44,856 --> 01:03:47,500
+De vós, meu Lorde,
+só peço uma promessa.
+
+956
+01:03:48,200 --> 01:03:50,150
+Uma promessa, por uma promessa.
+
+957
+01:03:50,728 --> 01:03:52,320
+Qual é a tua?
+
+958
+01:03:52,600 --> 01:03:56,250
+Trazer-vos Sansão, amarrado e indefeso.
+
+959
+01:03:57,400 --> 01:03:59,420
+Amarrado por estes braços brancos.
+
+960
+01:03:59,750 --> 01:04:01,099
+Não.
+
+961
+01:04:01,100 --> 01:04:03,290
+É um preço demasiado alto
+para eu pagar.
+
+962
+01:04:04,021 --> 01:04:06,920
+Os meus pensamentos,
+estarão unicamente convosco.
+
+963
+01:04:06,921 --> 01:04:08,870
+Eu sugiro à princesa de Gaza,
+
+964
+01:04:08,871 --> 01:04:10,960
+que encontre outra forma de
+capturar Sansão.
+
+965
+01:04:10,961 --> 01:04:13,470
+Já tentastes todas as outras maneiras.
+
+966
+01:04:14,840 --> 01:04:17,020
+Quando o meu pai e a minha irmã
+caíram mortos
+
+967
+01:04:17,021 --> 01:04:19,700
+nas cinzas da nossa casa por
+causa de Sansão,
+
+968
+01:04:20,590 --> 01:04:22,750
+ele riu-se das minhas lágrimas.
+
+969
+01:04:23,190 --> 01:04:25,476
+Não podeis recusar a minha
+pretensão, meu Senhor.
+
+970
+01:04:25,820 --> 01:04:27,710
+Que promessa pedes?
+
+971
+01:04:27,711 --> 01:04:30,940
+Descobrirei o segredo da sua força.
+
+972
+01:04:31,700 --> 01:04:35,500
+Mas quando ele estiver preso e fraco,
+como qualquer outro homem,
+
+973
+01:04:36,171 --> 01:04:39,240
+nem uma gota do seu sangue
+será derramado.
+
+974
+01:04:39,741 --> 01:04:42,310
+Nenhuma lâmina tocará na sua pele.
+
+975
+01:04:42,705 --> 01:04:44,589
+Pelos sagrados pilares do templo,
+
+976
+01:04:44,646 --> 01:04:46,400
+nós pedimos a sua morte!
+
+977
+01:04:46,581 --> 01:04:48,510
+Eu quero a sua vida.
+
+978
+01:04:49,651 --> 01:04:51,330
+Acorrentem-no no moinho de cereais.
+
+979
+01:04:51,431 --> 01:04:54,229
+Deixem-no moer os nossos cereais,
+como um animal.
+
+980
+01:04:54,289 --> 01:04:56,710
+Deixem o povo troçar dele
+e divertir-se com ele,
+
+981
+01:04:56,725 --> 01:04:58,980
+até que a sua respiração seja
+fraca e em agonia,
+
+982
+01:04:58,994 --> 01:05:01,710
+e cada palavra que fale, seja uma
+prece para morrer.
+
+983
+01:05:01,711 --> 01:05:03,283
+Eu pagarei o vosso preço, Dalila.
+
+984
+01:05:03,331 --> 01:05:04,650
+- E eu.
+- E eu.
+
+985
+01:05:04,671 --> 01:05:07,000
+Tereis a vossa prata quando
+nós tivermos Sansão.
+
+986
+01:05:07,021 --> 01:05:08,380
+Toda a Gaza vos louvará.
+
+987
+01:05:08,391 --> 01:05:11,475
+E se fordes bem sucedida, nenhum
+preço será demasiado elevado.
+
+988
+01:05:11,576 --> 01:05:13,890
+O Conselho está encerrado.
+
+989
+01:05:17,070 --> 01:05:19,321
+Achais que ela consegue?
+
+990
+01:05:19,381 --> 01:05:22,500
+<i>Dalila consegue.</i>
+
+991
+01:05:26,388 --> 01:05:30,304
+Bem, Dalila, conseguiste o teu preço
+e a tua promessa.
+
+992
+01:05:30,358 --> 01:05:32,976
+O meu Senhor é o mais sábio dos reis,
+
+993
+01:05:33,028 --> 01:05:36,511
+e o maior dos homens.
+
+994
+01:05:36,564 --> 01:05:40,172
+Como rei, não tenho opção.
+
+995
+01:05:40,235 --> 01:05:41,875
+Como homem, deixo-te partir,
+
+996
+01:05:41,936 --> 01:05:45,954
+porque tu assim o queres.
+
+997
+01:05:46,007 --> 01:05:51,523
+Meu amado rei, eu vou destruir
+o vosso, e também meu inimigo.
+
+998
+01:05:51,579 --> 01:05:53,720
+Dalila, Dalila...
+
+999
+01:05:53,782 --> 01:05:55,661
+O meu amor é unicamente para si.
+
+1000
+01:05:58,253 --> 01:06:00,496
+Um homem que pode parar
+o coração de um leão...
+
+1001
+01:06:00,555 --> 01:06:04,232
+Pode perturbar o coração duma mulher.
+
+1002
+01:06:04,259 --> 01:06:09,020
+Entregar-vos-ei Sansão,
+antes do mês das colheitas.
+
+1003
+01:06:38,830 --> 01:06:42,379
+<i>Tab tah azi!</i>
+
+1004
+01:06:48,995 --> 01:06:50,890
+Parece ser um mercador rico.
+
+1005
+01:06:51,531 --> 01:06:54,680
+Parece uma ameixa
+filisteia pronta a ser colhida.
+
+1006
+01:06:58,638 --> 01:07:00,030
+Voltem para trás.
+
+1007
+01:07:00,131 --> 01:07:03,590
+Digam a Ahtur para esperar com os
+seus soldados, na colina do escorpião.
+
+1008
+01:07:03,676 --> 01:07:05,300
+Acamparei no Vale de Sorek.
+
+1009
+01:07:05,312 --> 01:07:06,890
+Sim, senhora.
+
+1010
+01:07:10,884 --> 01:07:14,300
+Vão acampar junto à
+lagoa, nas ruínas do templo.
+
+1011
+01:07:16,189 --> 01:07:18,290
+Porque é que os soldados
+se foram embora?
+
+1012
+01:07:19,426 --> 01:07:20,950
+Talvez estejam à nossa procura.
+
+1013
+01:07:22,495 --> 01:07:25,010
+Jebus fará fugir os camelos depois
+do anoitecer,
+
+1014
+01:07:25,565 --> 01:07:27,335
+enquanto atacamos os donos.
+
+1015
+01:07:27,550 --> 01:07:29,342
+Eles podem atacar-nos.
+
+1016
+01:07:31,671 --> 01:07:34,100
+Preocupas-te mais que a minha mãe.
+Vamos.
+
+1017
+01:08:54,220 --> 01:08:57,010
+- Não grites.
+- Não vou gritar.
+
+1018
+01:08:57,924 --> 01:09:00,115
+Estás com medo?
+
+1019
+01:09:04,263 --> 01:09:05,730
+Duma mulher?
+
+1020
+01:09:06,466 --> 01:09:07,890
+Sim.
+
+1021
+01:09:15,274 --> 01:09:17,120
+A tua caravana é rica.
+
+1022
+01:09:50,076 --> 01:09:53,650
+Nem os pardais não viajam tão
+longe das suas rotas habituais.
+
+1023
+01:09:53,980 --> 01:09:55,495
+Porque o fizeste?
+
+1024
+01:09:56,082 --> 01:09:59,180
+A caixa das jóias está naquela
+arca prateada.
+
+1025
+01:10:13,332 --> 01:10:14,810
+Onde está o teu marido?
+
+1026
+01:10:14,967 --> 01:10:16,830
+Não tenho marido.
+
+1027
+01:10:25,320 --> 01:10:26,790
+Então chama o teu amo.
+
+1028
+01:10:27,113 --> 01:10:29,255
+Não tenho amo.
+
+1029
+01:10:30,516 --> 01:10:32,160
+A mesa está posta para dois.
+
+1030
+01:10:33,319 --> 01:10:35,470
+Estou à espera de um visitante.
+
+1031
+01:10:35,688 --> 01:10:37,100
+Sim?
+
+1032
+01:10:37,857 --> 01:10:41,255
+- Quem?
+- Tu, Sansão.
+
+1033
+01:10:54,707 --> 01:10:56,520
+Sabes o meu nome?
+
+1034
+01:10:56,943 --> 01:10:59,085
+Toda a Gaza sabe o teu nome.
+
+1035
+01:11:00,146 --> 01:11:02,020
+Disseram-me que não gostam dele.
+
+1036
+01:11:03,149 --> 01:11:05,100
+Eles respeitavam-no.
+
+1037
+01:11:05,418 --> 01:11:08,910
+Antes do grande Sansão se tornar
+num vulgar ladrão.
+
+1038
+01:11:09,422 --> 01:11:12,670
+E Dalila tornar-se a
+grande cortesã de Gaza.
+
+1039
+01:11:16,262 --> 01:11:18,437
+Eu sou estúpida, Sansão,
+
+1040
+01:11:18,497 --> 01:11:20,860
+por pensar que podia enganar-te.
+
+1041
+01:11:21,968 --> 01:11:24,350
+Rouba o que desejares.
+
+1042
+01:11:26,239 --> 01:11:27,980
+Isto não é roubar.
+
+1043
+01:11:28,107 --> 01:11:29,700
+Isto são impostos.
+
+1044
+01:11:29,876 --> 01:11:31,860
+O teu Saran cobra-nos impostos,
+
+1045
+01:11:32,178 --> 01:11:34,400
+eu cobro impostos aos filisteus.
+
+1046
+01:11:39,485 --> 01:11:42,840
+Que bonita e jovem Danita
+usará estes impostos?
+
+1047
+01:11:42,955 --> 01:11:44,640
+Irão comprar armaduras.
+
+1048
+01:11:48,270 --> 01:11:52,070
+Vão comprar armaduras para nos
+protegerem das lanças filisteias.
+
+1049
+01:11:52,398 --> 01:11:54,680
+Tu precisas de protecção?
+
+1050
+01:11:55,268 --> 01:11:58,130
+A mulher que domina o
+governante de cinco cidades,
+
+1051
+01:11:58,971 --> 01:12:00,660
+deve ter muitos valores.
+
+1052
+01:12:06,045 --> 01:12:07,770
+Onde está o resto deles?
+
+1053
+01:12:09,510 --> 01:12:11,535
+Não muito longe.
+
+1054
+01:12:16,989 --> 01:12:19,530
+Não esconderei nada de ti.
+
+1055
+01:12:24,597 --> 01:12:26,740
+O truque mais velho do mundo...
+
+1056
+01:12:27,767 --> 01:12:31,920
+Uma armadilha de seda,
+iscada com uma mulher.
+
+1057
+01:12:35,608 --> 01:12:38,105
+Conheces um isco melhor, Sansão?
+
+1058
+01:12:38,344 --> 01:12:40,800
+Os homens caem sempre.
+
+1059
+01:12:41,948 --> 01:12:43,861
+De todas as mulheres de Gaza,
+
+1060
+01:12:43,883 --> 01:12:46,251
+porque foi que o Saran te mandou a ti?
+
+1061
+01:12:46,252 --> 01:12:48,250
+Eu pedi para vir.
+
+1062
+01:12:49,522 --> 01:12:50,832
+Porquê?
+
+1063
+01:12:50,890 --> 01:12:54,790
+Eu sei que te submeterias
+a qualquer outra mulher.
+
+1064
+01:12:58,270 --> 01:13:00,520
+E vieste aqui salvar-me.
+
+1065
+01:13:01,834 --> 01:13:05,500
+Não.
+Vim para te trair.
+
+1066
+01:13:12,111 --> 01:13:15,840
+Pelos quatro ventos!
+Tu tens coragem, Dalila.
+
+1067
+01:13:19,518 --> 01:13:21,185
+Não menosprezes isto.
+
+1068
+01:13:21,487 --> 01:13:24,260
+É um presente do Saran.
+
+1069
+01:13:26,092 --> 01:13:27,868
+Podias prender um homem,
+
+1070
+01:13:27,869 --> 01:13:30,490
+mais firmemente do que as
+correntes de Saran.
+
+1071
+01:13:31,364 --> 01:13:33,460
+Podia prender-te?
+
+1072
+01:13:33,866 --> 01:13:36,720
+Não, Dalila.
+Vais voltar para o Saran,
+
+1073
+01:13:37,730 --> 01:13:39,778
+da única forma que te pode
+tornar confiável.
+
+1074
+01:13:42,200 --> 01:13:43,980
+Matar-me-ás tu mesmo?
+
+1075
+01:13:46,379 --> 01:13:49,595
+Podias esmagar-me entre
+estas duas mãos.
+
+1076
+01:13:51,200 --> 01:13:52,750
+Porque não o fazes?
+
+1077
+01:13:54,253 --> 01:13:58,050
+Disse-te uma vez que te beijaria
+com o meu último suspiro.
+
+1078
+01:13:59,191 --> 01:14:02,290
+Os teus beijos têm o ferrão da morte.
+
+1079
+01:14:04,697 --> 01:14:07,260
+Não acredito que fosses
+capaz de matar-me.
+
+1080
+01:14:07,566 --> 01:14:08,995
+Tenta.
+
+1081
+01:14:11,170 --> 01:14:13,740
+Tu tens medo de matar-me.
+
+1082
+01:14:15,474 --> 01:14:17,830
+Deixarei que o diabo faça isso.
+
+1083
+01:14:20,146 --> 01:14:21,785
+Eu sei que o farás.
+
+1084
+01:14:22,300 --> 01:14:25,320
+Mas não me faças comer a ceia sozinha.
+
+1085
+01:14:28,754 --> 01:14:30,055
+Hisham.
+
+1086
+01:14:33,993 --> 01:14:36,495
+Voltarei para Gaza, ao amanhecer.
+
+1087
+01:14:36,720 --> 01:14:38,650
+Partirás esta noite.
+
+1088
+01:14:40,933 --> 01:14:42,380
+Estamos de partida, Hisham.
+
+1089
+01:14:42,435 --> 01:14:44,348
+Os homens já carregaram os camelos?
+
+1090
+01:14:44,403 --> 01:14:45,709
+Quais camelos?
+
+1091
+01:14:45,710 --> 01:14:48,560
+Os bandidos dele roubaram
+os vossos camelos.
+
+1092
+01:14:49,708 --> 01:14:52,120
+Então os carregadores que
+prepararem uma liteira.
+
+1093
+01:14:52,478 --> 01:14:53,850
+Vós não tendes carregadores.
+
+1094
+01:14:54,313 --> 01:14:59,130
+Fugiram para as colinas, quando
+viram este, descendente do demónio.
+
+1095
+01:14:59,131 --> 01:15:01,095
+Como é que eu posso ir, Sansão?
+
+1096
+01:15:01,520 --> 01:15:03,980
+Mandarei devolver os teus camelos.
+
+1097
+01:15:04,100 --> 01:15:06,650
+Porque não os trazes,
+tu mesmo, amanhã?
+
+1098
+01:15:07,093 --> 01:15:10,850
+Porque quando eu voltar as costas,
+mandarás chamar os soldados de Ahtur.
+
+1099
+01:15:11,530 --> 01:15:13,409
+Não poderei chamar por ninguém,
+
+1100
+01:15:13,448 --> 01:15:15,260
+se tu estiveres comigo.
+
+1101
+01:15:18,471 --> 01:15:21,330
+Hisham, serve o vinho.
+
+1102
+01:15:21,774 --> 01:15:23,650
+Serve só para um.
+
+1103
+01:15:25,144 --> 01:15:27,819
+Deixaste de gostar de vinho, Sansão?
+
+1104
+01:15:27,854 --> 01:15:29,230
+Já consegui o que quero.
+
+1105
+01:15:30,216 --> 01:15:32,225
+Tu és tudo o que quero.
+
+1106
+01:15:36,288 --> 01:15:38,190
+Tu...
+
+1107
+01:15:39,925 --> 01:15:41,690
+Filha do inferno.
+
+1108
+01:16:00,079 --> 01:16:03,690
+Sete juncos verdes, para os
+nossos sete dias, Sansão.
+
+1109
+01:16:03,949 --> 01:16:06,560
+Pára de tentar ser um peixe!
+
+1110
+01:16:06,986 --> 01:16:08,501
+Deixa-me experimenta-los em ti.
+
+1111
+01:16:08,554 --> 01:16:10,610
+O último povo que tentou
+afogar Danitas,
+
+1112
+01:16:10,611 --> 01:16:12,205
+acabou sob o Mar Vermelho.
+
+1113
+01:16:12,206 --> 01:16:16,880
+Não, não, não, Sansão,
+essa água está demasiado fria!
+
+1114
+01:16:18,631 --> 01:16:20,695
+Vem aqui acima, e ajuda-me com isto.
+
+1115
+01:16:25,380 --> 01:16:27,553
+Tenho as minhas mãos cheias de ti.
+
+1116
+01:16:30,809 --> 01:16:32,524
+Para que queres esses juncos verdes?
+
+1117
+01:16:32,590 --> 01:16:34,240
+Estás a planear caçar um coelho?
+
+1118
+01:16:34,446 --> 01:16:37,420
+Não... um leão.
+
+1119
+01:16:37,880 --> 01:16:39,400
+Com isso?
+
+1120
+01:16:40,619 --> 01:16:42,630
+Estou a entrançar-te uma coroa.
+
+1121
+01:16:43,820 --> 01:16:45,470
+Um leão com lírios na juba?
+
+1122
+01:16:45,471 --> 01:16:46,998
+Segura estes.
+
+1123
+01:16:46,999 --> 01:16:49,680
+Esta coroa terá um poder secreto.
+
+1124
+01:16:51,150 --> 01:16:52,960
+Para mim ou para ti?
+
+1125
+01:16:53,820 --> 01:16:56,400
+Só um segredo pode comprar
+outro segredo.
+
+1126
+01:16:57,490 --> 01:16:59,395
+Não me resta nenhum segredo
+para revelar.
+
+1127
+01:17:00,190 --> 01:17:01,700
+Não?!
+
+1128
+01:17:02,160 --> 01:17:05,300
+Nunca me disseste porque és mais
+forte do que os outros homens.
+
+1129
+01:17:05,420 --> 01:17:07,420
+É alguma erva que misturas na
+tua comida,
+
+1130
+01:17:07,521 --> 01:17:12,370
+ou algum óleo encantado com
+que friccionas o teu corpo?
+
+1131
+01:17:16,021 --> 01:17:17,360
+Que farias tu se...
+
+1132
+01:17:17,630 --> 01:17:19,740
+soubesses o segredo da minha força?
+
+1133
+01:17:20,459 --> 01:17:21,930
+Amarrava-te.
+
+1134
+01:17:23,262 --> 01:17:24,770
+Porquê?
+
+1135
+01:17:25,564 --> 01:17:27,800
+Para que assim, nunca pudesses
+abandonar-me.
+
+1136
+01:17:30,380 --> 01:17:32,095
+Não podia libertar-me de ti se tu...
+
+1137
+01:17:32,890 --> 01:17:35,730
+me prendesses com estes
+sete juncos verdes.
+
+1138
+01:17:36,020 --> 01:17:39,830
+Poderiam sete pequenos juncos verdes,
+segurar Sansão?
+
+1139
+01:17:40,512 --> 01:17:43,179
+Estes juncos verdes são muito
+mais fortes do que parecem.
+
+1140
+01:17:43,849 --> 01:17:45,150
+Segura-os com força.
+
+1141
+01:17:47,253 --> 01:17:48,700
+Vês?
+
+1142
+01:17:48,854 --> 01:17:51,100
+Se me amarrasses com estes
+sete pequenos juncos,
+
+1143
+01:17:51,200 --> 01:17:53,560
+Ficaria tão vulnerável como qualquer
+outro homem.
+
+1144
+01:17:53,661 --> 01:17:55,110
+A sério?
+
+1145
+01:17:55,461 --> 01:17:56,950
+Experimenta.
+
+1146
+01:17:57,290 --> 01:18:00,050
+Pobre Sansão, vais ficar indefeso,
+
+1147
+01:18:01,300 --> 01:18:02,750
+conduzido com uma trela,
+
+1148
+01:18:02,751 --> 01:18:04,390
+escravo duma mulher.
+
+1149
+01:18:04,703 --> 01:18:08,060
+Esse nó aí... não seguraria um pardal.
+
+1150
+01:18:08,340 --> 01:18:09,850
+Ata com nó duplo.
+
+1151
+01:18:12,878 --> 01:18:14,750
+Agora és meu prisioneiro.
+
+1152
+01:18:19,885 --> 01:18:21,350
+Ou és tu minha?
+
+1153
+01:18:33,957 --> 01:18:37,270
+Sansão, os filisteus estão
+muito perto de ti.
+
+1154
+01:18:51,720 --> 01:18:55,360
+Devia quebrar isto na tua
+cabecinha mentirosa.
+
+1155
+01:18:55,554 --> 01:18:57,764
+Mas era uma filisteia.
+
+1156
+01:19:00,793 --> 01:19:03,550
+Serias capaz de ensinar novas
+manhas ao diabo!
+
+1157
+01:19:03,729 --> 01:19:07,065
+Bem, tentaste enganar-me.
+
+1158
+01:19:32,925 --> 01:19:36,025
+- Dalila...
+- Não, não vou ouvir.
+
+1159
+01:19:36,962 --> 01:19:39,275
+- Mas pediste-me para...
+- Não quero ouvir-te.
+
+1160
+01:19:40,420 --> 01:19:43,100
+Três vezes me atormentaste
+para que te dissesse...
+
+1161
+01:19:43,101 --> 01:19:45,200
+E três vezes me mentiste.
+
+1162
+01:19:45,538 --> 01:19:48,270
+Disseste que cordas novas, que nunca
+tivessem sido usadas,
+
+1163
+01:19:48,371 --> 01:19:49,885
+te prenderiam.
+
+1164
+01:19:50,776 --> 01:19:53,660
+Quem é que sabe a resistência
+da corda que nunca foi usada?
+
+1165
+01:19:53,761 --> 01:19:56,100
+Depois disseste-me que a tua
+força desapareceria,
+
+1166
+01:19:56,201 --> 01:19:58,740
+se eu entrelaçasse o teu cabelo,
+na teia do meu tear.
+
+1167
+01:19:58,780 --> 01:20:00,440
+Agora, olha para o meu tear.
+
+1168
+01:20:01,086 --> 01:20:02,450
+Prefiro olhar para ti.
+
+1169
+01:20:04,556 --> 01:20:06,290
+Não vale a pena, Sansão.
+
+1170
+01:20:06,425 --> 01:20:09,490
+Encontrarás sempre um novo
+estratagema, para me enganares.
+
+1171
+01:20:10,162 --> 01:20:12,720
+Na noite em que vim para o
+Vale de Sorek,
+
+1172
+01:20:12,990 --> 01:20:15,245
+quiseste mandar-me embora.
+
+1173
+01:20:15,750 --> 01:20:19,265
+Tinhas razão. É melhor que eu vá.
+
+1174
+01:20:21,940 --> 01:20:23,500
+Dalila.
+
+1175
+01:20:28,213 --> 01:20:29,610
+Dalila...
+
+1176
+01:20:30,910 --> 01:20:33,330
+Uma vez, o teu pai ofereceu-te a mim
+em casamento.
+
+1177
+01:20:33,331 --> 01:20:35,290
+Eu lembro-me o que me chamaste.
+
+1178
+01:20:36,822 --> 01:20:39,194
+Não importa o que eu então disse.
+
+1179
+01:20:40,470 --> 01:20:42,860
+Casar-te-ias comigo agora?
+
+1180
+01:20:47,633 --> 01:20:50,035
+Há demasiadas mentiras entre nós.
+
+1181
+01:20:50,469 --> 01:20:53,050
+Continuas ainda a temer-me mais,
+do que me amas.
+
+1182
+01:20:53,372 --> 01:20:55,140
+Não te temo o suficiente.
+
+1183
+01:20:58,577 --> 01:21:00,680
+Não confias em mim suficientemente.
+
+1184
+01:21:02,100 --> 01:21:03,770
+Amo-te o suficiente.
+
+1185
+01:21:05,784 --> 01:21:07,260
+Então...
+
+1186
+01:21:07,986 --> 01:21:10,960
+Então, diz-me o segredo da tua força.
+
+1187
+01:21:11,857 --> 01:21:13,230
+A minha força?
+
+1188
+01:21:18,864 --> 01:21:21,550
+- A minha força é...
+- Não, Sansão, não!
+
+1189
+01:21:22,200 --> 01:21:25,360
+Não quero estar munida
+duma arma que pode destruir-te.
+
+1190
+01:21:29,220 --> 01:21:30,716
+Arma?
+
+1191
+01:21:36,481 --> 01:21:39,040
+Não seria uma arma se tu
+realmente me amasses.
+
+1192
+01:21:39,618 --> 01:21:42,150
+Sansão, Sansão.
+
+1193
+01:21:42,421 --> 01:21:45,480
+Como pode ainda restar alguma
+dúvida em ti?
+
+1194
+01:21:47,950 --> 01:21:50,060
+Se ainda há, acabarei com ela agora.
+
+1195
+01:21:54,433 --> 01:21:56,460
+Olha à tua volta, Dalila.
+
+1196
+01:22:00,072 --> 01:22:03,730
+A lua que ilumina este oásis à noite...
+
+1197
+01:22:04,143 --> 01:22:06,040
+e o sol que o ilumina durante o dia,
+
+1198
+01:22:06,141 --> 01:22:08,000
+Não estão lá por acaso.
+
+1199
+01:22:10,096 --> 01:22:12,220
+No princípio, havia apenas trevas,
+
+1200
+01:22:12,651 --> 01:22:15,230
+até que um poder criou a luz,
+
+1201
+01:22:15,620 --> 01:22:18,422
+formou a terra e todas as
+criaturas que nela vivem.
+
+1202
+01:22:18,423 --> 01:22:20,720
+O teu Deus invisível.
+
+1203
+01:22:21,026 --> 01:22:23,167
+A minha força vem Dele.
+
+1204
+01:22:23,228 --> 01:22:26,330
+Mas... como é que esse
+poder chega até ti?
+
+1205
+01:22:26,625 --> 01:22:29,150
+Ele está aqui connosco agora?
+
+1206
+01:22:29,601 --> 01:22:31,290
+Ele está em toda a parte.
+
+1207
+01:22:32,070 --> 01:22:36,080
+No vento, no mar, no fogo.
+
+1208
+01:22:37,309 --> 01:22:39,590
+No teu coração, se acreditares n'Ele.
+
+1209
+01:22:41,446 --> 01:22:43,780
+Ele é a única força no mundo,
+
+1210
+01:22:44,182 --> 01:22:46,527
+que consegue
+fazer germinar uma semente,
+
+1211
+01:22:46,585 --> 01:22:48,910
+e transformá-la naquela grande árvore.
+
+1212
+01:22:52,357 --> 01:22:55,990
+E, posso compartilhar esse
+poder contigo?
+
+1213
+01:22:56,495 --> 01:22:58,380
+Qualquer um pode compartilhá-lo.
+
+1214
+01:23:00,065 --> 01:23:04,530
+É um dom que torna os homens
+maiores do que eles próprios.
+
+1215
+01:23:05,937 --> 01:23:09,900
+Com ele, alguns podem estimular
+a alma com música.
+
+1216
+01:23:10,709 --> 01:23:15,670
+Outros podem ver a verdade nos
+corações dos homens, e perdoar.
+
+1217
+01:23:16,548 --> 01:23:19,460
+Comigo, tenho a força para
+quebrar quaisquer grilhetas,
+
+1218
+01:23:19,461 --> 01:23:21,051
+com que me prendam.
+
+1219
+01:23:21,052 --> 01:23:23,568
+E terás sempre essa força?
+
+1220
+01:23:23,622 --> 01:23:26,520
+Enquanto mantiver a fé no
+Todo-Poderoso.
+
+1221
+01:23:26,691 --> 01:23:29,520
+Há muito tempo, eu fui-lhe consagrado.
+
+1222
+01:23:31,196 --> 01:23:33,871
+Quebrei muitos dos meus votos,
+
+1223
+01:23:33,965 --> 01:23:36,106
+mas há um que conservo.
+
+1224
+01:23:36,168 --> 01:23:38,616
+Um voto fez-te forte?
+
+1225
+01:23:38,670 --> 01:23:41,040
+É muito mais do que isso.
+
+1226
+01:23:44,009 --> 01:23:46,260
+Lembras-te do leão que eu matei?
+
+1227
+01:23:47,045 --> 01:23:49,505
+Nunca esquecerei.
+
+1228
+01:23:49,915 --> 01:23:53,450
+A força do leão faz dele o
+rei dos animais.
+
+1229
+01:23:53,685 --> 01:23:55,666
+E o grande tufo da sua juba,
+
+1230
+01:23:55,720 --> 01:23:57,310
+é o símbolo do seu poder.
+
+1231
+01:23:58,089 --> 01:24:00,030
+Continua, Sansão.
+
+1232
+01:24:00,158 --> 01:24:03,915
+Os homens do deserto sabem, que a
+longa e harmoniosa crina do garanhão,
+
+1233
+01:24:04,000 --> 01:24:06,100
+é o símbolo do seu poder.
+
+1234
+01:24:07,766 --> 01:24:09,540
+Entre o meu povo,
+
+1235
+01:24:09,835 --> 01:24:13,400
+costumam dizer que o carneiro mais
+forte, tem a lã mais pesada.
+
+1236
+01:24:14,639 --> 01:24:16,400
+Mas corta o símbolo do seu poder...
+
+1237
+01:24:16,401 --> 01:24:20,477
+Tosquia-o, e tronas-lho
+num motivo de gozo.
+
+1238
+01:24:20,912 --> 01:24:23,389
+Tosquia-o, e a sua força desaparece.
+
+1239
+01:24:24,727 --> 01:24:28,020
+Já viste a águia erguer-se no céu.
+
+1240
+01:24:28,193 --> 01:24:30,070
+Mas arranca-lhe as duas
+primeiras penas,
+
+1241
+01:24:30,071 --> 01:24:31,850
+do extremo de uma asa,
+
+1242
+01:24:32,564 --> 01:24:35,411
+e a poderosa águia já não pode voar.
+
+1243
+01:24:35,500 --> 01:24:38,180
+O símbolo do seu poder desapareceu.
+
+1244
+01:24:39,438 --> 01:24:42,230
+O símbolo do seu poder.
+
+1245
+01:24:43,642 --> 01:24:45,690
+Sansão...
+
+1246
+01:24:47,245 --> 01:24:50,100
+este é o símbolo do teu poder.
+
+1247
+01:24:50,430 --> 01:24:52,156
+É o teu cabelo.
+
+1248
+01:24:52,250 --> 01:24:54,580
+Se ele for cortado curto,
+
+1249
+01:24:56,320 --> 01:24:59,100
+Serei tão vulnerável como qualquer
+outro homem.
+
+1250
+01:24:59,591 --> 01:25:02,293
+Acreditas que este teu Grande Deus,
+
+1251
+01:25:02,294 --> 01:25:05,280
+te deu a tua força, através
+do teu cabelo?
+
+1252
+01:25:05,864 --> 01:25:08,085
+Acreditas nisso, não acreditas?
+
+1253
+01:25:09,201 --> 01:25:12,270
+Desde o início,
+a minha mãe assim mo disse.
+
+1254
+01:25:12,737 --> 01:25:15,540
+O teu poder está no teu cabelo.
+
+1255
+01:25:15,740 --> 01:25:18,950
+Que belo poder é!
+
+1256
+01:25:19,778 --> 01:25:22,720
+Olha como ele se enrola
+em volta do meu dedo.
+
+1257
+01:25:23,115 --> 01:25:25,530
+Negro como a asa dum corvo,
+
+1258
+01:25:26,060 --> 01:25:29,530
+e selvagem como uma tempestade.
+
+1259
+01:25:30,055 --> 01:25:33,790
+Posso arrancá-lo e roubar o teu poder?
+
+1260
+01:25:35,260 --> 01:25:37,037
+Não podes roubar...
+
+1261
+01:25:37,062 --> 01:25:39,590
+o que já é teu.
+
+1262
+01:25:43,535 --> 01:25:45,710
+Vem comigo para o Egipto.
+
+1263
+01:25:45,937 --> 01:25:48,783
+Lá, não seremos Danita e Filisteia.
+
+1264
+01:25:48,800 --> 01:25:52,040
+Somente Sansão e Dalila.
+
+1265
+01:25:52,444 --> 01:25:53,788
+No Vale do Nilo,
+
+1266
+01:25:53,845 --> 01:25:56,020
+o ar é doce, com a mirra,
+
+1267
+01:25:56,581 --> 01:26:00,300
+e apenas o voo dos íbis
+escurecerá o céu.
+
+1268
+01:26:01,953 --> 01:26:03,935
+Queres vir comigo?
+
+1269
+01:26:05,060 --> 01:26:09,320
+Os meus olhos...
+nunca poderão encontrar mais beleza,
+
+1270
+01:26:09,321 --> 01:26:11,270
+do que aquela que vêem em ti.
+
+1271
+01:26:13,165 --> 01:26:17,500
+Por toda a eternidade, nunca nada
+poderá tirar-te dos meus braços.
+
+1272
+01:26:26,310 --> 01:26:27,646
+Sansão.
+
+1273
+01:26:30,148 --> 01:26:31,567
+Miriam!
+
+1274
+01:26:34,299 --> 01:26:35,766
+Saul!
+
+1275
+01:26:35,767 --> 01:26:37,450
+Miriam, trazes más notícias?
+
+1276
+01:26:38,000 --> 01:26:39,800
+Deixa-me falar contigo a sós.
+
+1277
+01:26:40,146 --> 01:26:41,884
+Saul, enche os odres.
+
+1278
+01:26:41,885 --> 01:26:43,500
+Para a tenda.
+
+1279
+01:26:59,353 --> 01:27:01,198
+Como ficou a minha mãe?
+
+1280
+01:27:01,254 --> 01:27:03,620
+Acorrentada a um poste e chicoteada.
+
+1281
+01:27:04,491 --> 01:27:06,585
+Porcos filisteus.
+
+1282
+01:27:09,129 --> 01:27:10,520
+Toma.
+
+1283
+01:27:11,300 --> 01:27:12,839
+E o meu pai?
+
+1284
+01:27:12,840 --> 01:27:14,285
+Apedrejado.
+
+1285
+01:27:18,271 --> 01:27:21,160
+Estão a matar, e a incendiar,
+em todas as aldeias.
+
+1286
+01:27:21,390 --> 01:27:24,438
+Os primogénitos, em todas as casas,
+são passados a fio de espada.
+
+1287
+01:27:24,460 --> 01:27:27,446
+Enquanto esta mulher de Sorek,
+te embriaga com os seus beijos,
+
+1288
+01:27:27,547 --> 01:27:29,420
+os filisteus assassinam o teu povo.
+
+1289
+01:27:31,455 --> 01:27:34,440
+Estás a cair na rede de Ahtur, Sansão.
+
+1290
+01:27:34,758 --> 01:27:37,393
+Os filisteus atacam o teu povo,
+para te apanharem a ti.
+
+1291
+01:27:37,394 --> 01:27:39,240
+A tua mãe chama por ti, Sansão.
+
+1292
+01:27:41,498 --> 01:27:44,482
+Nós iremos.
+Vou selar um animal para tu montares.
+
+1293
+01:27:44,543 --> 01:27:45,940
+Não vás, Sansão.
+
+1294
+01:27:46,579 --> 01:27:49,322
+Esta rapariga de cara leitosa,
+com os seus grandes olhos,
+
+1295
+01:27:49,381 --> 01:27:51,470
+conduzir-te-á à tua morte.
+
+1296
+01:27:56,100 --> 01:27:57,700
+Tu ama-lo.
+
+1297
+01:27:58,057 --> 01:28:00,569
+As mulheres não se conseguem
+enganar, umas ás outras.
+
+1298
+01:28:00,670 --> 01:28:02,766
+Isso está na tua cara, quando
+olhas para ele.
+
+1299
+01:28:02,950 --> 01:28:04,840
+Tu quere-lo para ti própria.
+
+1300
+01:28:08,418 --> 01:28:09,830
+Sim, eu amo-o.
+
+1301
+01:28:11,309 --> 01:28:14,190
+Na sua face, vejo tudo o que
+é forte e bom.
+
+1302
+01:28:15,246 --> 01:28:17,650
+O seu nome, é como um grito
+de esperança para nós.
+
+1303
+01:28:20,340 --> 01:28:23,950
+Sonhei que um dia, Sansão me
+tomaria para sua esposa.
+
+1304
+01:28:25,122 --> 01:28:27,324
+Mas ele nunca me olhou como
+uma mulher.
+
+1305
+01:28:27,670 --> 01:28:30,420
+A sua face... o seu nome...
+
+1306
+01:28:30,421 --> 01:28:32,070
+são sombras na parede.
+
+1307
+01:28:32,071 --> 01:28:34,203
+Pensas que isso é amor?
+
+1308
+01:28:34,398 --> 01:28:37,610
+Tu adora-lo com orações
+e olhares tristes.
+
+1309
+01:28:37,611 --> 01:28:40,218
+Eu amo-o como um homem de carne e osso.
+
+1310
+01:28:42,074 --> 01:28:44,161
+Ele não te deixará por minha causa.
+
+1311
+01:28:46,712 --> 01:28:48,746
+Há uma voz mais alta que fala
+através dele,
+
+1312
+01:28:48,747 --> 01:28:50,950
+e ele responderá sempre à Sua chamada.
+
+1313
+01:28:51,583 --> 01:28:55,055
+Mesmo a tua beleza traiçoeira
+não o pode afastar Dele.
+
+1314
+01:28:55,888 --> 01:28:58,610
+Não posso lutar contra o seu Deus...
+
+1315
+01:28:58,824 --> 01:29:01,430
+mas nenhuma mulher o tirará de mim.
+
+1316
+01:29:03,829 --> 01:29:05,348
+Miriam.
+
+1317
+01:29:14,873 --> 01:29:16,300
+Hisham!
+
+1318
+01:29:18,877 --> 01:29:20,230
+Hisham.
+
+1319
+01:30:01,787 --> 01:30:06,550
+Hisham.
+Toca alguma música.
+
+1320
+01:30:07,827 --> 01:30:09,290
+Os odres estão cheios?
+
+1321
+01:30:09,291 --> 01:30:10,628
+- Sim, Sansão.
+- Vamos.
+
+1322
+01:30:10,629 --> 01:30:11,946
+Sansão.
+
+1323
+01:30:13,699 --> 01:30:15,440
+Sansão, não voltes atrás.
+
+1324
+01:30:16,435 --> 01:30:18,109
+Sansão.
+
+1325
+01:30:18,170 --> 01:30:20,640
+Vai com Saul.
+Eu alcançar-vos-ei.
+
+1326
+01:30:20,810 --> 01:30:22,240
+Oh, Sansão.
+
+1327
+01:30:31,049 --> 01:30:32,350
+Não te preocupes, Miriam.
+
+1328
+01:30:32,351 --> 01:30:34,237
+Ele manterá a sua palavra.
+
+1329
+01:30:39,625 --> 01:30:41,160
+Chamaste?
+
+1330
+01:30:41,460 --> 01:30:44,050
+O vinho da despedida é amargo, Sansão.
+
+1331
+01:30:44,563 --> 01:30:46,170
+Não tão amargo como sangue.
+
+1332
+01:30:46,450 --> 01:30:49,100
+Não podes desprezar um amor
+como o que eu te tenho dado,
+
+1333
+01:30:49,111 --> 01:30:51,550
+sem sequer um adeus.
+
+1334
+01:30:51,630 --> 01:30:54,440
+Tenho novas contas a ajustar
+com os filisteus.
+
+1335
+01:30:55,207 --> 01:31:00,254
+- Depois irei ter contigo ao Egipto.
+- Não, Sansão. Eu perdi-te.
+
+1336
+01:31:01,010 --> 01:31:02,765
+Esvazia esta taça...
+
+1337
+01:31:07,753 --> 01:31:10,700
+tal como esvaziaste o meu coração.
+
+1338
+01:31:36,348 --> 01:31:39,365
+Dúvidas sempre de mim, não é?
+
+1339
+01:31:39,380 --> 01:31:41,070
+E amo-te sempre.
+
+1340
+01:31:49,661 --> 01:31:53,120
+Encontrar-te-ei Dalila,
+para onde quer que vás.
+
+1341
+01:31:53,265 --> 01:31:54,780
+Não, Sansão.
+
+1342
+01:31:54,833 --> 01:31:56,541
+Pertences a Miriam.
+
+1343
+01:31:56,601 --> 01:31:58,765
+Ela será um bem, para ti.
+
+1344
+01:31:58,766 --> 01:32:00,635
+Eu sou o ponto fraco...
+
+1345
+01:32:00,636 --> 01:32:03,120
+O amor que te escraviza.
+
+1346
+01:32:06,611 --> 01:32:09,220
+Nunca me libertarei de ti, Dalila.
+
+1347
+01:32:19,524 --> 01:32:23,460
+Deixa-me sentir a força dos
+teus braços a envolverem-me.
+
+1348
+01:32:23,862 --> 01:32:27,290
+Quando partires, os
+meus braços ficarão vazios.
+
+1349
+01:32:27,799 --> 01:32:30,850
+O meu mundo vai ficar vazio.
+
+1350
+01:32:49,588 --> 01:32:52,174
+Diz ao mensageiro de Lorde Ahtur...
+
+1351
+01:32:53,225 --> 01:32:55,511
+que tenho o segredo.
+
+1352
+01:33:55,120 --> 01:33:56,532
+Sansão.
+
+1353
+01:33:56,621 --> 01:33:59,467
+Sansão, os filisteus estão atrás de ti.
+
+1354
+01:33:59,500 --> 01:34:02,100
+Sairei contra eles.
+Eu...
+
+1355
+01:34:03,341 --> 01:34:04,961
+Olhai para o cabelo dele, capitão!
+
+1356
+01:34:04,994 --> 01:34:07,300
+O leão de Dan está tosquiado
+como um carneiro!
+
+1357
+01:34:07,301 --> 01:34:09,430
+O leão?
+Sem uma juba?
+
+1358
+01:34:09,600 --> 01:34:12,940
+- Limpo como um campo ceifado.
+- Ela deve ter usado uma foice.
+
+1359
+01:34:14,880 --> 01:34:16,757
+Dalila depenou-o como um frango.
+
+1360
+01:34:17,042 --> 01:34:20,080
+Tirei-te a tua força, Sansão.
+
+1361
+01:34:20,812 --> 01:34:24,550
+A tua pardalinha Danita
+fará o ninho sozinha.
+
+1362
+01:34:25,684 --> 01:34:28,000
+Sua ratazana filisteia das sarjetas.
+
+1363
+01:34:29,735 --> 01:34:31,400
+Atirem as vossas lanças.
+
+1364
+01:34:31,837 --> 01:34:34,920
+O escudo do meu Deus, abandonou-me.
+
+1365
+01:34:35,874 --> 01:34:38,080
+Que é que receais?
+
+1366
+01:34:38,377 --> 01:34:41,570
+O meu sangue correrá tão
+vermelho como o vosso.
+
+1367
+01:34:42,013 --> 01:34:43,581
+Toda Gaza honrará o homem,
+
+1368
+01:34:43,582 --> 01:34:45,222
+que leve de volta, a minha cabeça.
+
+1369
+01:34:45,317 --> 01:34:47,620
+Não vamos matar-te, Sansão.
+
+1370
+01:34:47,786 --> 01:34:51,420
+Vós, Danitas, precisais duma
+recordação viva do preço da revolta.
+
+1371
+01:34:51,523 --> 01:34:53,100
+Acorrentem-no.
+
+1372
+01:34:55,160 --> 01:34:57,860
+Chama pelo teu Deus, Sansão.
+
+1373
+01:34:58,730 --> 01:35:00,260
+Eu traí-O.
+
+1374
+01:35:01,032 --> 01:35:03,090
+Ele não me escutaria.
+
+1375
+01:35:03,401 --> 01:35:06,350
+Não és mais forte que cem homens?
+
+1376
+01:35:06,538 --> 01:35:09,589
+Não consegues levar de novo,
+as portas de Gaza.
+
+1377
+01:35:09,641 --> 01:35:11,418
+Agora, não consegues matar um leão.
+
+1378
+01:35:11,476 --> 01:35:14,117
+És vulnerável,
+como qualquer outro homem.
+
+1379
+01:35:14,212 --> 01:35:16,300
+Prendam-no contra aquele poste.
+
+1380
+01:35:22,020 --> 01:35:25,298
+Hisham, vamos partir para Gaza.
+
+1381
+01:35:25,357 --> 01:35:27,430
+Trabalhastes bem, Dalila.
+
+1382
+01:35:27,750 --> 01:35:29,827
+Nenhuma lâmina pode tocar a sua pele.
+
+1383
+01:35:29,828 --> 01:35:31,969
+Nenhuma gota do seu sangue
+será derramada.
+
+1384
+01:35:32,030 --> 01:35:34,778
+Mensageiro.
+Comunica ao senhor das cinco cidades,
+
+1385
+01:35:34,833 --> 01:35:36,673
+que Dalila cumpriu com
+a sua obrigação.
+
+1386
+01:35:36,768 --> 01:35:38,385
+Sim, meu Lorde.
+
+1387
+01:35:38,470 --> 01:35:42,056
+Os príncipes de Gaza
+cumprirão com a deles.
+
+1388
+01:35:42,107 --> 01:35:44,088
+Tereis a vossa recompensa.
+
+1389
+01:35:44,142 --> 01:35:45,700
+Recompensa!
+
+1390
+01:35:46,311 --> 01:35:48,740
+Os teus braços foram areias movediças.
+
+1391
+01:35:49,047 --> 01:35:50,865
+Os teus beijos foram a morte.
+
+1392
+01:35:51,716 --> 01:35:54,218
+O nome de Dalila será uma
+eterna maldição,
+
+1393
+01:35:54,219 --> 01:35:55,700
+nos lábios dos homens.
+
+1394
+01:35:55,754 --> 01:35:57,273
+Bah.
+
+1395
+01:36:03,161 --> 01:36:05,329
+Eu podia ter-te amado com um fogo,
+
+1396
+01:36:05,330 --> 01:36:08,332
+que faria todos os outros amores
+parecerem gelo.
+
+1397
+01:36:08,333 --> 01:36:10,246
+Teria ido contigo para o Egipto,
+
+1398
+01:36:10,301 --> 01:36:11,748
+deixado tudo para trás,
+
+1399
+01:36:11,803 --> 01:36:13,680
+vivido só para ti.
+
+1400
+01:36:14,406 --> 01:36:18,720
+Mas um chamamento da flor
+face-de-leite Danita,
+
+1401
+01:36:18,777 --> 01:36:21,765
+e tu corres a choramingar
+atrás dos seus calcanhares.
+
+1402
+01:36:24,600 --> 01:36:28,340
+Nenhum homem abandona Dalila.
+
+1403
+01:36:31,923 --> 01:36:33,404
+Olha para ela, Sansão.
+
+1404
+01:36:33,458 --> 01:36:37,510
+Olha bem. Lembra-te do
+perfume do seu cabelo,
+
+1405
+01:36:37,620 --> 01:36:39,577
+a suavidade dos seus lábios,
+
+1406
+01:36:39,631 --> 01:36:41,950
+o fogo do seu abraço.
+
+1407
+01:36:42,480 --> 01:36:45,808
+O próprio Satanás ensinou-lhe todas
+as artes de enganar.
+
+1408
+01:36:46,705 --> 01:36:48,255
+É mais fácil agarrar o luar,
+
+1409
+01:36:48,256 --> 01:36:50,240
+do que possuir uma tal mulher.
+
+1410
+01:36:54,813 --> 01:36:58,020
+Com toda a tua força, tu és
+um idiota, Sansão.
+
+1411
+01:36:58,230 --> 01:37:00,240
+Confiaste em Dalila.
+
+1412
+01:37:00,418 --> 01:37:02,160
+Lembra-te da sua beleza,
+
+1413
+01:37:02,220 --> 01:37:04,950
+e nunca esqueças a sua traição.
+
+1414
+01:37:05,123 --> 01:37:07,442
+Retém a sua imagem na tua
+memória, Sansão.
+
+1415
+01:37:08,326 --> 01:37:11,878
+Ela é a última coisa que
+alguma vez verás.
+
+1416
+01:37:14,399 --> 01:37:16,756
+Prendam-lhe a cabeça ao poste.
+
+1417
+01:37:25,009 --> 01:37:26,420
+Coloquem-no aqui.
+
+1418
+01:37:27,211 --> 01:37:29,640
+Se não conseguires ver-nos,
+não consegues ferir-nos.
+
+1419
+01:37:30,481 --> 01:37:32,291
+Se não tenho força para vos defrontar,
+
+1420
+01:37:33,200 --> 01:37:35,380
+não precisarei de olhos
+para vos encontrar.
+
+1421
+01:37:53,605 --> 01:37:54,955
+Óh Senhor...
+
+1422
+01:37:55,206 --> 01:37:57,824
+Os meus olhos afastaram-se de Vós...
+
+1423
+01:37:57,876 --> 01:38:01,359
+para olhar para a prosperidade
+dos meus inimigos.
+
+1424
+01:38:01,412 --> 01:38:03,962
+Agora tirais-me a minha visão...
+
+1425
+01:38:04,015 --> 01:38:07,999
+Que eu possa voltar a ver,
+com mais clareza.
+
+1426
+01:38:08,052 --> 01:38:11,407
+Bendito seja o nome do Senhor.
+
+1427
+01:38:15,026 --> 01:38:18,370
+Não deixem que a lâmina toque
+na sua pele.
+
+1428
+01:38:41,519 --> 01:38:42,820
+Mil e cem.
+
+1429
+01:38:42,821 --> 01:38:45,838
+Mil e cem peças de prata e
+a minha gratidão.
+
+1430
+01:38:45,900 --> 01:38:48,474
+A vossa gratidão iguala a vossa
+generosidade.
+
+1431
+01:38:48,526 --> 01:38:50,268
+Obrigado.
+As bênçãos de Dagon.
+
+1432
+01:38:50,328 --> 01:38:54,270
+- Espero que a quantia esteja correcta.
+- Está, está!
+
+1433
+01:38:55,166 --> 01:38:57,034
+Se ainda tem a mesma tesoura, Dalila,
+
+1434
+01:38:57,035 --> 01:38:58,945
+o meu cabelo está bastante comprido.
+
+1435
+01:38:59,771 --> 01:39:02,984
+Noutra altura podereis montar
+uma armadilha para mim, Dalila.
+
+1436
+01:39:08,947 --> 01:39:11,990
+Acreditais que a força de
+Sansão estava no seu cabelo?
+
+1437
+01:39:12,250 --> 01:39:14,860
+Onde quer que estivesse,
+ele agora já não a tem.
+
+1438
+01:39:17,155 --> 01:39:19,723
+O mérito não é habitualmente
+tão bem recompensado.
+
+1439
+01:39:19,724 --> 01:39:23,950
+A minha maior recompensa foi
+a de servir o meu rei.
+
+1440
+01:39:24,696 --> 01:39:27,815
+Enquanto estavas a descobrir o
+segredo da força de Sansão...
+
+1441
+01:39:27,899 --> 01:39:30,609
+terá ele descoberto talvez, o
+segredo do teu amor?
+
+1442
+01:39:30,668 --> 01:39:33,560
+Tê-lo-ia eu traído, então?
+
+1443
+01:39:34,806 --> 01:39:37,330
+Os homens têm sido traídos pelo amor.
+
+1444
+01:39:38,409 --> 01:39:42,380
+Amor e ódio não são mais que
+duas faces da mesma moeda.
+
+1445
+01:39:42,814 --> 01:39:45,240
+Os meus pensamentos
+estavam unicamente convosco.
+
+1446
+01:39:45,717 --> 01:39:48,600
+Nenhum homem com olhos,
+te pode resistir, Dalila,
+
+1447
+01:39:50,655 --> 01:39:53,395
+mas só um idiota confiaria em ti.
+
+1448
+01:39:53,558 --> 01:39:55,266
+Porque duvidaríeis de mim?
+
+1449
+01:39:55,326 --> 01:39:58,741
+Ainda não viste Sansão a moer
+os cereais no moinho?
+
+1450
+01:39:58,796 --> 01:40:00,370
+Não.
+
+1451
+01:40:01,366 --> 01:40:03,350
+Então vem à prisão.
+
+1452
+01:40:04,802 --> 01:40:06,321
+Não.
+
+1453
+01:40:08,806 --> 01:40:10,914
+Supõe que vamos juntos...
+
+1454
+01:40:12,510 --> 01:40:15,399
+Garmiskar guardará a tua fortuna.
+
+1455
+01:40:33,831 --> 01:40:35,217
+Vamos, vamos!
+
+1456
+01:41:18,364 --> 01:41:21,324
+<i>Duro de roer, está fraco como uma flor.</i>
+
+1457
+01:41:21,409 --> 01:41:22,993
+<i>Sansão, o matador de leões!</i>
+
+1458
+01:41:23,077 --> 01:41:25,328
+<i>A Dalila pões-lhe uma
+mó à volta do pescoço.</i>
+
+1459
+01:41:25,413 --> 01:41:27,330
+<i>Moem o seu corpo com o grão!</i>
+
+1460
+01:41:27,415 --> 01:41:29,227
+<i>Batam-lhe com uma queixada de burro!</i>
+
+1461
+01:41:29,328 --> 01:41:32,233
+<i>Ele queimou as nossas sementeiras.
+Enforquem-no! Enforquem-no!</i>
+
+1462
+01:41:32,900 --> 01:41:35,501
+<i>Observem o leão de Dan!</i>
+
+1463
+01:41:38,920 --> 01:41:42,104
+É magnifico, mesmo acorrentado!
+
+1464
+01:41:42,257 --> 01:41:44,450
+<i>Dobra as costas, mula de duas patas!</i>
+
+1465
+01:41:44,451 --> 01:41:47,450
+<i>- Fá-lo suar!
+- Parte essas correntes, Danita!</i>
+
+1466
+01:41:48,550 --> 01:41:50,950
+Sansão foi domado por uma mulher.
+
+1467
+01:41:50,951 --> 01:41:53,200
+E provavelmente mereceu-o.
+
+1468
+01:41:53,950 --> 01:41:55,815
+Ele ainda parece forte como um boi.
+
+1469
+01:41:55,816 --> 01:41:57,333
+<i>Pareceria mais forte...</i>
+
+1470
+01:41:57,334 --> 01:41:59,555
+<i>se não tivesse conhecido Dalila.</i>
+
+1471
+01:42:00,800 --> 01:42:04,465
+Pelos seus gritos, pensar-se-ia
+que abateram eles próprios o leão...
+
+1472
+01:42:06,625 --> 01:42:09,560
+Ele não ousou olhar para mim.
+
+1473
+01:42:10,128 --> 01:42:11,811
+Não te pode ver!
+
+1474
+01:42:13,665 --> 01:42:16,051
+Eu vou fazer com que me veja.
+
+1475
+01:42:54,506 --> 01:42:56,325
+Ele está cego!
+
+1476
+01:42:59,911 --> 01:43:02,387
+Nunca mais pode voltar a ver-me.
+
+1477
+01:43:03,148 --> 01:43:04,925
+Isso incomoda-te?
+
+1478
+01:43:04,983 --> 01:43:07,515
+Eu tinha a vossa promessa
+
+1479
+01:43:07,550 --> 01:43:09,437
+Nenhuma lâmina tocou a sua pele.
+
+1480
+01:43:09,554 --> 01:43:11,522
+Nenhuma gota do seu sangue
+foi derramada.
+
+1481
+01:43:11,623 --> 01:43:15,830
+Vós... Vós jogastes com as palavras
+para o privar dos seus olhos.
+
+1482
+01:43:16,031 --> 01:43:18,800
+Foste tu quem o traiu, não eu.
+
+1483
+01:43:20,565 --> 01:43:22,877
+Ele estava preso, acorrentado,
+e ainda assim,
+
+1484
+01:43:22,903 --> 01:43:25,282
+o Senhor das Cinco Cidades
+
+1485
+01:43:25,583 --> 01:43:28,190
+não pude mostrar-lhe clemência?
+
+1486
+01:43:28,197 --> 01:43:30,560
+Tu mostraste-lhe clemência, Dalila?
+
+1487
+01:43:32,390 --> 01:43:33,956
+Querias vingança.
+
+1488
+01:43:36,115 --> 01:43:37,770
+Aí a tens.
+
+1489
+01:43:39,851 --> 01:43:41,490
+Majestade.
+
+1490
+01:43:49,327 --> 01:43:52,000
+Os vossos inimigos caem aos vossos pés.
+
+1491
+01:43:52,597 --> 01:43:53,950
+Levanta-te!
+
+1492
+01:43:58,630 --> 01:44:00,575
+Deixai-me ir embora!
+
+1493
+01:44:05,870 --> 01:44:07,470
+Água.
+
+1494
+01:44:08,806 --> 01:44:10,280
+Água.
+
+1495
+01:44:11,008 --> 01:44:13,170
+Aqui está a tua água.
+
+1496
+01:44:13,678 --> 01:44:16,056
+- Implora por ela.
+- Tens sede, Sansão?
+
+1497
+01:44:16,114 --> 01:44:18,915
+Deixa-o beber duma sarjeta!
+
+1498
+01:44:20,051 --> 01:44:21,385
+Água.
+
+1499
+01:44:21,386 --> 01:44:24,140
+Aqui está uma bebida, para um asno.
+
+1500
+01:44:27,590 --> 01:44:30,365
+Como é que perdeste o teu cabelo,
+Sansão?
+
+1501
+01:44:30,828 --> 01:44:32,180
+Água.
+
+1502
+01:44:32,563 --> 01:44:33,880
+Lambe isso tudo.
+
+1503
+01:44:35,166 --> 01:44:37,052
+Agora, move essa mó.
+
+1504
+01:44:39,610 --> 01:44:41,960
+Não posso vê-lo com sede.
+
+1505
+01:44:43,007 --> 01:44:44,393
+Dêem-lhe água.
+
+1506
+01:44:47,879 --> 01:44:49,279
+Só pode haver um senhor
+
+1507
+01:44:49,280 --> 01:44:51,430
+num reino, ou no coração duma mulher.
+
+1508
+01:44:51,883 --> 01:44:53,875
+Até o veres assim,
+
+1509
+01:44:54,085 --> 01:44:56,135
+não conseguias esquecê-lo.
+
+1510
+01:44:56,187 --> 01:44:57,894
+Esquecê-lo?
+
+1511
+01:44:59,724 --> 01:45:01,091
+Aqui está a tua água.
+
+1512
+01:45:01,092 --> 01:45:02,766
+Cada taça de água,
+
+1513
+01:45:02,860 --> 01:45:04,307
+Cada bocado de comida,
+
+1514
+01:45:04,362 --> 01:45:06,750
+tem de ser dirigida para as suas mãos.
+
+1515
+01:45:07,231 --> 01:45:09,666
+O poderoso Sansão,
+traído por uma mulher.
+
+1516
+01:45:09,667 --> 01:45:13,117
+- Não.
+- Cego, ridicularizado, lastimado.
+
+1517
+01:45:13,171 --> 01:45:15,920
+Não, eu não o ceguei!
+
+1518
+01:45:16,507 --> 01:45:17,954
+Vais ser tão idiota,
+
+1519
+01:45:18,009 --> 01:45:19,735
+como o fizeste a ele?
+
+1520
+01:45:19,811 --> 01:45:21,380
+Ele mata-te.
+
+1521
+01:45:31,355 --> 01:45:34,350
+Não podes desfazer o que está feito.
+
+1522
+01:46:17,635 --> 01:46:20,124
+<i>Não podes desfazer o que está feito. </i>
+
+1523
+01:46:31,816 --> 01:46:34,434
+<i>Os meus olhos nunca poderão
+encontrar maior beleza... </i>
+
+1524
+01:46:34,519 --> 01:46:37,763
+<i>do que aquela que viram em ti. </i>
+
+1525
+01:46:37,822 --> 01:46:40,702
+<i>Não podes desfazer o que está feito. </i>
+
+1526
+01:46:40,900 --> 01:46:43,877
+Eu posso! Eu posso!
+
+1527
+01:46:49,700 --> 01:46:51,818
+Volta a volta,
+
+1528
+01:46:51,903 --> 01:46:54,521
+dia após dia,
+
+1529
+01:46:54,572 --> 01:46:56,349
+mês após mês.
+
+1530
+01:46:56,407 --> 01:46:59,000
+ele nunca pára!
+
+1531
+01:47:00,311 --> 01:47:04,490
+Estou a ser esmagada,
+tal como o grão debaixo da pedra.
+
+1532
+01:47:10,354 --> 01:47:14,230
+Este pesadelo tem de findar algum dia.
+
+1533
+01:47:15,026 --> 01:47:18,490
+Ó Deus de Sansão, ajuda-me.
+
+1534
+01:47:30,675 --> 01:47:33,240
+Ele disse-me que estás em toda a parte.
+
+1535
+01:47:33,377 --> 01:47:35,791
+Que és Todo-Poderoso.
+
+1536
+01:47:35,846 --> 01:47:37,480
+Ouve-me.
+
+1537
+01:47:38,082 --> 01:47:41,224
+Devolve-lhe a luz aos seus olhos.
+
+1538
+01:47:41,319 --> 01:47:44,040
+Toma a minha vista pela sua.
+
+1539
+01:47:44,121 --> 01:47:46,420
+Ó Deus de Sansão...
+
+1540
+01:47:47,792 --> 01:47:49,350
+Ajuda-me.
+
+1541
+01:47:55,040 --> 01:47:56,730
+<i>Última ronda da noite. </i>
+
+1542
+01:47:56,731 --> 01:47:59,900
+<i>Tudo está calmo dentro dos
+portões da cidade. </i>
+
+1543
+01:47:59,901 --> 01:48:04,820
+<i>Sansão permanece
+acorrentado na prisão. </i>
+
+1544
+01:48:05,430 --> 01:48:09,200
+<i>Tudo está calmo. </i>
+
+1545
+01:48:20,668 --> 01:48:23,265
+Por quanto tempo me esquecerás,
+Senhor?
+
+1546
+01:48:24,739 --> 01:48:27,330
+Por quanto tempo a vossa mão estará
+contra mim?
+
+1547
+01:48:29,410 --> 01:48:31,561
+Eu chamo-Vos durante as longas noites,
+
+1548
+01:48:32,040 --> 01:48:33,985
+Mas vós não me escutais.
+
+1549
+01:48:36,484 --> 01:48:39,350
+Ó Senhor, Deus dos meus pais,
+
+1550
+01:48:39,740 --> 01:48:42,050
+eles chamavam por Vós,
+e eram libertos.
+
+1551
+01:48:42,430 --> 01:48:44,580
+Não me abandoneis, ó Senhor.
+
+1552
+01:48:45,300 --> 01:48:48,780
+Hisham, espera lá fora com o guarda.
+
+1553
+01:48:48,781 --> 01:48:50,228
+Não deixes ninguém entrar.
+
+1554
+01:48:50,229 --> 01:48:52,122
+Não vos aproximeis dele, senhora.
+
+1555
+01:48:52,479 --> 01:48:53,850
+Ele far-vos-á em bocados.
+
+1556
+01:48:53,871 --> 01:48:57,240
+Senhor, Deus dos meus pais...
+
+1557
+01:49:03,550 --> 01:49:06,070
+sou desprezado por todos os homens.
+
+1558
+01:49:06,590 --> 01:49:08,228
+Eles escarnecem de mim,
+
+1559
+01:49:09,150 --> 01:49:11,797
+dizendo "ele confia no seu Deus
+para o libertar".
+
+1560
+01:49:13,310 --> 01:49:14,957
+Vós sois o meu Deus.
+
+1561
+01:49:16,480 --> 01:49:18,606
+Não vos afasteis de mim,
+
+1562
+01:49:19,210 --> 01:49:21,130
+pois não tenho outra ajuda.
+
+1563
+01:49:23,480 --> 01:49:26,897
+A minha força dissolveu-se como cera.
+
+1564
+01:49:27,121 --> 01:49:29,302
+No meu coração não há esperança.
+
+1565
+01:49:30,161 --> 01:49:32,130
+Estou cego e entre inimigos.
+
+1566
+01:49:32,610 --> 01:49:36,111
+Ó Senhor, ó minha força,
+
+1567
+01:49:37,100 --> 01:49:38,834
+Mandai-me o vosso sinal.
+
+1568
+01:49:46,790 --> 01:49:49,690
+És de carne e osso,
+ou és um anjo do Senhor?
+
+1569
+01:49:50,590 --> 01:49:52,099
+Quem és tu?
+
+1570
+01:49:52,100 --> 01:49:53,720
+Escutei a tua oração.
+
+1571
+01:49:56,620 --> 01:49:59,704
+Orei por um anjo do Senhor,
+e o demónio enviou-me tu!
+
+1572
+01:49:59,705 --> 01:50:02,323
+Tudo o que desejo é confortar-te.
+
+1573
+01:50:02,374 --> 01:50:03,991
+Deixa-me aproximar-me de ti.
+
+1574
+01:50:04,042 --> 01:50:06,592
+Tu estavas perto de mim,
+no Vale de Sorek,
+
+1575
+01:50:06,645 --> 01:50:09,060
+a negociar o meu amor, pela
+prata filisteia.
+
+1576
+01:50:09,061 --> 01:50:12,290
+Não acreditas que daria a minha vida,
+para desfazer o que fiz?
+
+1577
+01:50:12,291 --> 01:50:15,910
+Acreditei em ti uma vez.
+Tu vendeste a minha visão.
+
+1578
+01:50:15,911 --> 01:50:18,750
+Eu suportaria o teu ódio, Sansão,
+
+1579
+01:50:18,751 --> 01:50:21,800
+se isso te devolvesse a visão.
+
+1580
+01:50:21,801 --> 01:50:23,840
+Deixa-me ser os teus olhos.
+
+1581
+01:50:23,841 --> 01:50:27,070
+Através dos meus olhos, tu
+verás de novo.
+
+1582
+01:50:27,490 --> 01:50:29,110
+Através de todas as longas trevas,
+
+1583
+01:50:29,400 --> 01:50:32,030
+rezei para que fosses entregue
+nas minhas mãos.
+
+1584
+01:50:32,698 --> 01:50:34,149
+Estou aqui.
+
+1585
+01:50:34,750 --> 01:50:36,514
+Não gritarei.
+
+1586
+01:50:37,990 --> 01:50:39,835
+Deus não me abandonou.
+
+1587
+01:50:41,230 --> 01:50:42,951
+Será feita a Sua vontade.
+
+1588
+01:50:44,700 --> 01:50:46,618
+Sansão! Sansão!
+
+1589
+01:50:46,619 --> 01:50:48,010
+As tuas correntes...
+
+1590
+01:50:48,200 --> 01:50:49,800
+estão partidas.
+
+1591
+01:51:02,950 --> 01:51:04,782
+Deus misericordioso.
+
+1592
+01:51:06,571 --> 01:51:08,522
+A tua força voltou.
+
+1593
+01:51:08,523 --> 01:51:11,150
+O teu Deus respondeu-te.
+
+1594
+01:51:12,150 --> 01:51:14,200
+Ouviu a minha voz nas trevas.
+
+1595
+01:51:15,113 --> 01:51:16,980
+Ele libertou-te.
+
+1596
+01:51:17,249 --> 01:51:20,061
+Nenhumas correntes te podem
+voltar a prender.
+
+1597
+01:51:20,118 --> 01:51:23,499
+Hisham vai encontrar os mais
+velozes camelos em Gaza.
+
+1598
+01:51:23,555 --> 01:51:26,606
+A minha prata abrirá os portões
+que barram o teu caminho.
+
+1599
+01:51:26,658 --> 01:51:29,140
+Ao cair da noite, estaremos na
+terra dos faraós.
+
+1600
+01:51:29,194 --> 01:51:32,006
+O Todo Poderoso não me
+devolveu a minha força,
+
+1601
+01:51:32,064 --> 01:51:33,660
+para fugir dos meus inimigos.
+
+1602
+01:51:33,661 --> 01:51:36,350
+Não podes lutar contra o
+que não podes ver.
+
+1603
+01:51:36,902 --> 01:51:38,804
+Sairei contra eles, como já fiz antes.
+
+1604
+01:51:39,471 --> 01:51:41,384
+Cem lanças derrubar-te-ão,
+
+1605
+01:51:41,385 --> 01:51:43,129
+antes que alcances os portões.
+
+1606
+01:51:51,883 --> 01:51:54,126
+Como perseguirei o rei deles,
+
+1607
+01:51:54,186 --> 01:51:56,130
+se não consigo sequer encontrar
+a porta!
+
+1608
+01:51:56,131 --> 01:52:00,290
+Deixa-me ser a candeia que te
+iluminará o caminho.
+
+1609
+01:52:00,300 --> 01:52:02,734
+Ó Senhor, meu Deus,
+
+1610
+01:52:02,794 --> 01:52:05,100
+Mostrai-me o caminho por onde
+devo seguir.
+
+1611
+01:52:05,363 --> 01:52:07,667
+Mostrai-me aquilo que tenho de fazer.
+
+1612
+01:52:07,693 --> 01:52:09,995
+No Vale do Nilo, estaremos a salvo.
+
+1613
+01:52:11,002 --> 01:52:12,779
+Estaremos juntos.
+
+1614
+01:52:12,781 --> 01:52:14,220
+Ó Juiz da Terra,
+
+1615
+01:52:15,040 --> 01:52:17,181
+Não me deixeis perdoá-la.
+
+1616
+01:52:17,275 --> 01:52:19,577
+Os meus braços abraçar-te-ão de novo.
+
+1617
+01:52:19,578 --> 01:52:22,550
+E porão a comida na minha boca,
+a taça nos meu lábios?
+
+1618
+01:52:22,551 --> 01:52:25,599
+Quando o teu coração estiver feliz,
+partilharei a tua felicidade.
+
+1619
+01:52:26,184 --> 01:52:29,655
+Quando te sentires desesperado, os
+meus olhos verterão as tuas lágrimas.
+
+1620
+01:52:29,756 --> 01:52:31,999
+E quando eu te amaldiçoar pela
+minha cegueira?
+
+1621
+01:52:32,190 --> 01:52:35,340
+Ajoelhar-me-ei, e peço o teu perdão.
+
+1622
+01:52:35,794 --> 01:52:37,460
+A vingança é tua, ó Senhor.
+
+1623
+01:52:37,929 --> 01:52:39,450
+Fulmina-a,
+
+1624
+01:52:39,564 --> 01:52:40,920
+destrói-a,
+
+1625
+01:52:42,033 --> 01:52:43,741
+pois eu não consigo.
+
+1626
+01:52:43,835 --> 01:52:45,885
+Meu amor, meu amor.
+
+1627
+01:52:46,571 --> 01:52:47,901
+Dalila.
+
+1628
+01:52:49,341 --> 01:52:50,860
+Dalila.
+
+1629
+01:52:51,610 --> 01:52:54,070
+Quando os meus olhos podiam
+ver, eu estava cego.
+
+1630
+01:52:54,412 --> 01:52:56,720
+Oh, Sansão.
+
+1631
+01:52:58,617 --> 01:53:00,166
+Temos de nos apressar.
+
+1632
+01:53:00,218 --> 01:53:02,836
+Eles estão a chegar para te levar
+para o templo.
+
+1633
+01:53:02,850 --> 01:53:04,528
+O templo?
+É hoje?
+
+1634
+01:53:04,623 --> 01:53:06,020
+Sim.
+
+1635
+01:53:06,046 --> 01:53:07,931
+Dentro de poucas horas,
+virão buscar-te.
+
+1636
+01:53:07,959 --> 01:53:09,274
+Toda a Gaza estará lá.
+
+1637
+01:53:09,327 --> 01:53:10,744
+Milhares de pessoas.
+
+1638
+01:53:10,929 --> 01:53:12,603
+Cuidado com os degraus.
+
+1639
+01:53:12,697 --> 01:53:16,010
+O grande ídolo Dagon será
+uma fornalha ardente.
+
+1640
+01:53:16,067 --> 01:53:18,082
+Vão humilhar-te diante dele.
+
+1641
+01:53:18,103 --> 01:53:20,600
+Amarrar-te-ão entre as duas
+colunas sagradas,
+
+1642
+01:53:20,601 --> 01:53:22,140
+e flagelar-te-ão.
+
+1643
+01:53:22,774 --> 01:53:24,495
+Duas colunas?
+
+1644
+01:53:26,211 --> 01:53:28,875
+A casa do templo está assente
+em duas colunas?
+
+1645
+01:53:28,876 --> 01:53:30,481
+Depressa, Sansão.
+
+1646
+01:53:30,482 --> 01:53:33,400
+O Egipto tem milhares de templos,
+qual deles o mais belo...
+
+1647
+01:53:33,401 --> 01:53:37,880
+Duas colunas tão próximas,
+que eu talvez seja amarrado entre elas?
+
+1648
+01:53:37,881 --> 01:53:39,834
+Sim, e açoitado.
+
+1649
+01:53:39,835 --> 01:53:42,575
+Vem. Pelo meio dia, estaremos nas
+nascentes de Yumis,
+
+1650
+01:53:42,627 --> 01:53:45,060
+com o Egipto quase à vista.
+
+1651
+01:53:45,061 --> 01:53:46,966
+Ficarei aqui, Dalila.
+
+1652
+01:53:50,135 --> 01:53:53,200
+Irão arrastar-te,
+far-te-ão ajoelhar diante do seu ídolo.
+
+1653
+01:53:53,700 --> 01:53:55,840
+Sansão, porquê?
+
+1654
+01:53:59,411 --> 01:54:01,833
+O poder do Senhor está na
+minha força, Dalila.
+
+1655
+01:54:02,314 --> 01:54:04,730
+Não entres no templo deles, hoje.
+
+1656
+01:55:31,423 --> 01:55:34,560
+Miriam, olha.
+É o deus deles, Dagon.
+
+1657
+01:55:35,030 --> 01:55:36,440
+Não devíamos olhar para ele.
+
+1658
+01:55:36,728 --> 01:55:40,280
+Viemos ver o rei deles,
+não o seu ídolo.
+
+1659
+01:55:45,703 --> 01:55:53,963
+Dalila! Dalila!
+
+1660
+01:56:02,287 --> 01:56:05,467
+Com uma rainha como vós em Akron,
+eu conseguia dominar a Terra.
+
+1661
+01:56:05,468 --> 01:56:07,231
+Se conseguísseis dominar Dalila!
+
+1662
+01:56:09,194 --> 01:56:12,025
+Senhor de Gaza.
+Temos bailarinas em Ashkelon.
+
+1663
+01:56:12,030 --> 01:56:13,349
+Eu vim ver Sansão.
+
+1664
+01:56:13,350 --> 01:56:16,279
+Sim. Deixem o palhaço Danita
+divertir-nos.
+
+1665
+01:56:16,334 --> 01:56:19,920
+Que diversão podeis encontrar
+no tropeçar dum homem cego?
+
+1666
+01:56:20,004 --> 01:56:22,247
+Este é o teu dia de triunfo, Dalila.
+
+1667
+01:56:22,307 --> 01:56:23,764
+Toda Gaza veio ver
+
+1668
+01:56:23,765 --> 01:56:26,113
+Sansão humilhado a teus pés.
+
+1669
+01:56:26,661 --> 01:56:28,050
+Tragam-no.
+
+1670
+01:56:44,580 --> 01:56:46,400
+Eles parecem Danitas.
+
+1671
+01:56:47,883 --> 01:56:49,590
+São Danitas.
+
+1672
+01:56:49,951 --> 01:56:52,467
+Danitas!
+Vêm adorar Dagon?
+
+1673
+01:56:52,521 --> 01:56:54,583
+Não.
+Viemos para falar com o vosso rei.
+
+1674
+01:56:55,223 --> 01:56:57,798
+Deixem-nos ir!
+Deixem-nos!
+
+1675
+01:57:04,199 --> 01:57:06,840
+Dagon entregou-nos Sansão,
+nosso inimigo,
+
+1676
+01:57:06,935 --> 01:57:08,436
+nas nossas mãos.
+
+1677
+01:57:08,437 --> 01:57:11,752
+Chamem-no para a frente,
+para que possa sentir o poder de Dagon.
+
+1678
+01:57:13,909 --> 01:57:16,584
+Deixem-nos vê-lo.
+Onde está ele?
+
+1679
+01:57:16,678 --> 01:57:20,465
+Onde está ele?
+Olhem, ali está ele!
+
+1680
+01:57:21,200 --> 01:57:22,800
+Sansão!
+
+1681
+01:57:28,050 --> 01:57:31,138
+Onde está agora o teu Deus, Sansão?
+
+1682
+01:57:31,193 --> 01:57:34,100
+Ele deixou o seu Deus por uma pavoa.
+
+1683
+01:57:34,696 --> 01:57:36,276
+Humilhem-no!
+
+1684
+01:57:38,800 --> 01:57:40,890
+Façam o touro cego dançar!
+
+1685
+01:57:44,010 --> 01:57:46,902
+Pelos chifres de Nannar,
+ele é um homem de ferro.
+
+1686
+01:57:46,937 --> 01:57:49,794
+Ainda parece bastante forte
+para matar um leão.
+
+1687
+01:57:49,795 --> 01:57:51,880
+Quem me dera capturá-lo.
+
+1688
+01:57:55,884 --> 01:57:57,501
+Sansão.
+
+1689
+01:57:57,586 --> 01:57:59,402
+Sansão!
+
+1690
+01:58:00,755 --> 01:58:02,918
+- Atrás dele!
+- Fica aqui!
+
+1691
+01:58:05,850 --> 01:58:07,950
+Corre rapaz, corre!
+
+1692
+01:58:18,273 --> 01:58:19,607
+Sansão!
+
+1693
+01:58:19,608 --> 01:58:22,450
+Deixem o sapo saltitante
+conduzir o urso cego.
+
+1694
+01:58:22,624 --> 01:58:25,880
+Pequeno pastor, ainda a
+seguir o seu carneiro perdido.
+
+1695
+01:58:26,250 --> 01:58:27,597
+Guia-o, rapaz.
+
+1696
+01:58:27,668 --> 01:58:30,787
+Sim.
+Deixa-me sentir os pilares,
+
+1697
+01:58:30,871 --> 01:58:32,420
+onde o templo assenta.
+
+1698
+01:58:32,440 --> 01:58:34,250
+Não.
+Vai, para onde eles te possam ver.
+
+1699
+01:58:35,576 --> 01:58:37,490
+Viemos para te levar para casa.
+
+1700
+01:58:37,511 --> 01:58:39,785
+- Miriam está...
+- Não, Saul.
+
+1701
+01:58:39,880 --> 01:58:41,400
+Não há lar para um líder,
+
+1702
+01:58:41,720 --> 01:58:43,250
+que faltou ao seu povo.
+
+1703
+01:58:43,251 --> 01:58:45,454
+Eles seguir-te-ão sempre, Sansão.
+
+1704
+01:58:45,455 --> 01:58:47,704
+Eu conduzi-os por um caminho tortuoso.
+
+1705
+01:58:47,788 --> 01:58:50,985
+Um homem cego não pode
+guiar-se pelas estrelas.
+
+1706
+01:58:53,194 --> 01:58:56,745
+Talvez um dia tu os guies, Saul.
+
+1707
+01:58:56,797 --> 01:59:00,100
+Une-os e sê o seu primeiro rei.
+
+1708
+01:59:00,368 --> 01:59:01,800
+Eu?
+
+1709
+01:59:02,080 --> 01:59:03,400
+Rei?
+
+1710
+01:59:03,401 --> 01:59:05,613
+<i>Continuem com a diversão!</i>
+
+1711
+01:59:06,007 --> 01:59:07,700
+Ouço muitas vozes.
+
+1712
+01:59:08,609 --> 01:59:10,150
+O templo está cheio?
+
+1713
+01:59:10,544 --> 01:59:12,700
+Apinhado como trigo numa meda.
+
+1714
+01:59:13,447 --> 01:59:15,000
+Então vão-se embora.
+
+1715
+01:59:15,116 --> 01:59:16,893
+Tenho a minha funda na cabeça.
+
+1716
+01:59:16,951 --> 01:59:18,638
+Podíamos lutar para fugir.
+
+1717
+01:59:19,520 --> 01:59:21,050
+Não, Saul.
+
+1718
+01:59:21,055 --> 01:59:24,175
+- Leva a Miriam, e deixem o templo.
+- Mas, Sansão...
+
+1719
+01:59:24,470 --> 01:59:25,800
+Comecem a diversão de novo.
+
+1720
+01:59:25,865 --> 01:59:27,199
+Lorde Saran!
+
+1721
+01:59:27,200 --> 01:59:28,540
+Majestade, ouvi-me!
+
+1722
+01:59:29,633 --> 01:59:31,253
+Libertem a rapariga.
+Deixem-na vir.
+
+1723
+01:59:32,403 --> 01:59:34,021
+Majestade...
+
+1724
+01:59:35,306 --> 01:59:37,390
+Sois um rei, um conquistador.
+
+1725
+01:59:37,441 --> 01:59:38,819
+Peço-vos misericórdia.
+
+1726
+01:59:38,876 --> 01:59:40,891
+Misericórdia?
+Que fizeste?
+
+1727
+01:59:40,944 --> 01:59:43,890
+Peço misericórdia para um homem
+cego e indefeso.
+
+1728
+01:59:44,982 --> 01:59:46,500
+Olhai para ele.
+
+1729
+01:59:46,984 --> 01:59:48,999
+Agora, já não vos pode fazer mal.
+
+1730
+01:59:49,053 --> 01:59:52,100
+Ele perdeu tudo,
+excepto o amor do seu povo.
+
+1731
+01:59:52,823 --> 01:59:55,035
+Deixai que o leve de volta para eles.
+
+1732
+01:59:55,959 --> 01:59:57,820
+Tende misericórdia, grande rei.
+
+1733
+01:59:59,963 --> 02:00:02,600
+Pela sua força, admiro Sansão.
+
+1734
+02:00:03,167 --> 02:00:05,226
+Pela sua revolta, eu puno-o.
+
+1735
+02:00:06,503 --> 02:00:09,301
+Pelo amor do seu povo, invejo-o.
+
+1736
+02:00:10,674 --> 02:00:13,385
+Mas, infelizmente, ele não é
+meu prisioneiro.
+
+1737
+02:00:14,111 --> 02:00:18,130
+Ele não foi capturado pela força
+das armas, mas pela sua fraqueza.
+
+1738
+02:00:18,682 --> 02:00:20,450
+A sua conquistadora está aqui.
+
+1739
+02:00:20,984 --> 02:00:23,364
+Se ela quiser dar-to,
+
+1740
+02:00:23,380 --> 02:00:24,806
+tem a minha permissão.
+
+1741
+02:00:28,292 --> 02:00:29,932
+Um dia, no Vale de Sorek,
+
+1742
+02:00:30,027 --> 02:00:31,550
+dissestes amá-lo.
+
+1743
+02:00:32,100 --> 02:00:34,000
+Então, libertai-o.
+
+1744
+02:00:35,265 --> 02:00:37,350
+Se há amor em vós.
+
+1745
+02:00:37,835 --> 02:00:40,356
+Deixai que eu o leve de volta
+para o seu povo.
+
+1746
+02:00:41,939 --> 02:00:45,120
+Que choradeira mentirosa
+estás a dizer ao nosso rei?
+
+1747
+02:00:45,943 --> 02:00:48,080
+Tu quere-lo para ti.
+
+1748
+02:00:48,190 --> 02:00:51,290
+Queres sentir os seus fortes braços
+a abraçarem-te.
+
+1749
+02:00:51,382 --> 02:00:53,900
+Estreitá-lo a ti, e confortá-lo.
+
+1750
+02:00:54,451 --> 02:00:56,414
+Queres gerar os seus filhos.
+
+1751
+02:00:57,087 --> 02:01:00,200
+Preferia vê-lo morto a vê-lo
+nos teus braços.
+
+1752
+02:01:01,492 --> 02:01:02,909
+Levem-na.
+
+1753
+02:01:03,095 --> 02:01:04,680
+Guarda.
+
+1754
+02:01:04,797 --> 02:01:06,938
+Tende piedade, grande rei.
+
+1755
+02:01:07,033 --> 02:01:09,320
+Misericórdia para Sansão!
+
+1756
+02:01:11,237 --> 02:01:13,720
+A tua misericórdia é como o
+teu amor, Dalila.
+
+1757
+02:01:14,200 --> 02:01:15,625
+Implacável.
+
+1758
+02:01:43,129 --> 02:01:46,129
+<i>Onde está a tua queixada, Sansão?</i>
+
+1759
+02:01:53,636 --> 02:01:55,670
+Ele não vai conseguir mel
+daquelas abelhas.
+
+1760
+02:01:55,671 --> 02:01:57,600
+O homem macaco vai abatê-lo.
+
+1761
+02:01:58,150 --> 02:01:59,499
+Eles são demónios!
+
+1762
+02:01:59,860 --> 02:02:01,705
+Não, são muito humanos.
+
+1763
+02:02:01,762 --> 02:02:03,539
+Os fracos unem-se sempre,
+
+1764
+02:02:03,630 --> 02:02:05,270
+para derrotar os fortes.
+
+1765
+02:02:05,271 --> 02:02:07,400
+O vosso leão tornou-se um rato.
+
+1766
+02:02:07,701 --> 02:02:10,300
+Transformado pela magia do amor.
+
+1767
+02:02:27,120 --> 02:02:29,139
+Garmiskar!
+
+1768
+02:02:32,493 --> 02:02:34,167
+Garmiskar!
+
+1769
+02:02:34,261 --> 02:02:36,929
+Garmiskar! Garmiskar!
+
+1770
+02:02:36,930 --> 02:02:38,945
+<i>Fá-lo suplicar por clemência!</i>
+
+1771
+02:02:38,999 --> 02:02:41,344
+<i>Chicoteia-o aos pés do deus.</i>
+
+1772
+02:02:41,401 --> 02:02:43,435
+Ele nunca se ajoelhará diante Dagon.
+
+1773
+02:02:44,438 --> 02:02:47,380
+Há uma grande persuasão na
+ponta de um chicote.
+
+1774
+02:02:47,541 --> 02:02:49,800
+Nenhum chicote quebrará
+o seu espírito.
+
+1775
+02:02:49,801 --> 02:02:52,600
+Ou se ajoelha a Dagon ou
+morre diante ele.
+
+1776
+02:02:52,601 --> 02:02:55,826
+- Sim.
+- Será devoção religiosa, Ahtur?
+
+1777
+02:02:55,883 --> 02:02:57,500
+Não, Alta Majestade.
+
+1778
+02:02:58,118 --> 02:02:59,600
+É satisfação.
+
+1779
+02:03:04,324 --> 02:03:08,147
+- Que estão eles a fazer agora?
+- As pequenas aranhas tecem a sua teia.
+
+1780
+02:03:37,724 --> 02:03:40,113
+Os pequenos peixes pescaram
+uma baleia.
+
+1781
+02:03:47,700 --> 02:03:49,211
+Olhem para a Dalila.
+
+1782
+02:03:49,269 --> 02:03:50,786
+Vou até junto dele.
+
+1783
+02:03:52,839 --> 02:03:55,219
+Se vais até ele,
+
+1784
+02:03:55,275 --> 02:03:56,964
+já não podes voltar para mim.
+
+1785
+02:04:08,088 --> 02:04:16,000
+Dalila! Dalila!
+
+1786
+02:04:21,268 --> 02:04:24,649
+Eu é que o castigo.
+Vai.
+
+1787
+02:04:24,650 --> 02:04:26,050
+Dalila.
+
+1788
+02:04:26,700 --> 02:04:28,207
+Tenho que te magoar, meu amor,
+
+1789
+02:04:28,208 --> 02:04:30,070
+para que eles possam ver.
+Perdoa-me.
+
+1790
+02:04:30,071 --> 02:04:32,070
+Eu avisei-te para ficares
+longe do templo.
+
+1791
+02:04:32,137 --> 02:04:34,721
+Quando eu te atingir, agarra
+e segura o chicote.
+
+1792
+02:04:34,772 --> 02:04:36,480
+Conduz-me à casa do templo.
+
+1793
+02:04:37,030 --> 02:04:38,350
+Fá-lo-ei.
+
+1794
+02:04:40,178 --> 02:04:42,985
+Dalila! Dalila!
+
+1795
+02:04:43,081 --> 02:04:44,848
+Ele roubou-me o meu manto, Dalila.
+
+1796
+02:04:44,849 --> 02:04:47,138
+Deixa-lhe a marca do teu chicote.
+
+1797
+02:05:00,140 --> 02:05:01,832
+Está a ser guiado como um bode.
+
+1798
+02:05:01,833 --> 02:05:03,951
+Porque é que eu não consigo,
+guiar-te assim?
+
+1799
+02:05:04,002 --> 02:05:06,088
+Tu não és a Dalila.
+
+1800
+02:05:10,341 --> 02:05:12,254
+Fá-lo rastejar Dalila.
+
+1801
+02:05:12,310 --> 02:05:15,020
+Põe-lhe uma argola no nariz!
+
+1802
+02:05:15,670 --> 02:05:18,391
+O vossa pavoa está a divertir-se
+com um touro.
+
+1803
+02:05:18,920 --> 02:05:21,350
+Ela está a troçar de nós,
+não de Sansão.
+
+1804
+02:05:22,760 --> 02:05:25,631
+Senhor das colheitas, conquistador
+da morte.
+
+1805
+02:05:26,190 --> 02:05:29,173
+Agora, Sansão será humilhado
+a teus pés.
+
+1806
+02:05:29,530 --> 02:05:30,844
+Fá-lo curvar-se!
+
+1807
+02:05:30,895 --> 02:05:32,610
+Dobra-lhe o pescoço diante de Dagon!
+
+1808
+02:05:32,630 --> 02:05:35,119
+Olhem, Dalila fê-lo vergar-se!
+
+1809
+02:05:41,197 --> 02:05:42,870
+Estou cansado, Dalila.
+
+1810
+02:05:42,966 --> 02:05:45,460
+Deixa-me sentir os pilares,
+para eu me apoiar neles.
+
+1811
+02:05:45,561 --> 02:05:47,280
+Só mais um pouco, meu amor.
+
+1812
+02:05:55,978 --> 02:05:58,714
+Humilha-te diante do seu deus Sansão,
+
+1813
+02:05:58,715 --> 02:06:00,180
+Ajoelha-te.
+
+1814
+02:06:01,050 --> 02:06:03,464
+A casa deste templo assenta
+nestas colunas?
+
+1815
+02:06:03,519 --> 02:06:05,200
+Sim, ajoelha-te.
+
+1816
+02:06:08,458 --> 02:06:10,050
+A pedra está fria.
+
+1817
+02:06:10,193 --> 02:06:11,599
+Descansarei aqui.
+
+1818
+02:06:11,600 --> 02:06:14,210
+Que seja chicoteado,
+
+1819
+02:06:14,263 --> 02:06:16,600
+até que abandone o seu Deus.
+
+1820
+02:06:19,635 --> 02:06:21,103
+Vai, Dalila.
+
+1821
+02:06:21,104 --> 02:06:23,347
+Foge.
+Para a saída.
+
+1822
+02:06:23,406 --> 02:06:24,740
+Não.
+
+1823
+02:06:25,441 --> 02:06:27,750
+A morte virá a este templo.
+
+1824
+02:06:28,578 --> 02:06:30,750
+A mão do Senhor irá cair sobre ele.
+
+1825
+02:06:31,400 --> 02:06:33,550
+Não terei medo.
+
+1826
+02:06:34,183 --> 02:06:35,646
+Agora, deves ir-te embora.
+
+1827
+02:06:38,454 --> 02:06:41,602
+Onde quer que estejas, o meu
+amor está contigo.
+
+1828
+02:06:42,859 --> 02:06:44,300
+Vai.
+
+1829
+02:06:45,595 --> 02:06:47,662
+Façam-no ajoelhar diante de Dagon!
+
+1830
+02:06:47,697 --> 02:06:50,150
+Sim!
+Façam-no ajoelhar!
+
+1831
+02:06:50,433 --> 02:06:55,100
+Ele não se ajoelhará diante de
+nenhum Deus senão o seu.
+
+1832
+02:06:55,101 --> 02:06:57,600
+A lâmina duma espada dobrará
+os seus joelhos.
+
+1833
+02:07:02,211 --> 02:07:03,650
+Dalila.
+
+1834
+02:07:06,149 --> 02:07:07,520
+Já te foste embora?
+
+1835
+02:07:09,952 --> 02:07:11,371
+Dalila!
+
+1836
+02:07:16,726 --> 02:07:18,343
+Rezo a Vós,
+
+1837
+02:07:18,394 --> 02:07:20,450
+dai-me forças, Senhor.
+
+1838
+02:07:21,030 --> 02:07:23,719
+Fortalecei-me, só mais esta vez.
+
+1839
+02:07:30,970 --> 02:07:33,880
+Ele acha que estão muito perto!
+
+1840
+02:07:35,011 --> 02:07:38,101
+- Que está ele a fazer?
+- Está a segurar o templo.
+
+1841
+02:07:46,090 --> 02:07:48,090
+Açoitem Sansão, ajoelhado
+
+1842
+02:07:48,091 --> 02:07:50,080
+sob os pés de Dagon.
+
+1843
+02:07:59,569 --> 02:08:02,856
+- Isto é melhor do que eu esperava.
+- O homem ficou louco.
+
+1844
+02:08:02,857 --> 02:08:05,712
+É o palhaço mais engraçado
+que eu já vi.
+
+1845
+02:08:28,997 --> 02:08:30,337
+Olhem!
+
+1846
+02:08:30,732 --> 02:08:32,051
+Moveu-se.
+
+1847
+02:08:38,073 --> 02:08:40,756
+- As colunas moveram-se.
+- Ele partiu a pedra.
+
+1848
+02:08:40,809 --> 02:08:42,494
+O homem tem a força do demónio.
+
+1849
+02:08:43,700 --> 02:08:46,667
+Não, a força de um Deus.
+
+1850
+02:08:51,670 --> 02:08:54,055
+Dagon, sê mais poderoso que Sansão.
+
+1851
+02:08:54,056 --> 02:08:55,643
+Avancem!
+Detenham-no!
+
+1852
+02:09:10,706 --> 02:09:13,050
+Os meus olhos viram a
+Vossa Glória, ó Deus.
+
+1853
+02:09:13,508 --> 02:09:15,689
+Agora, deixai-me morrer com
+os meus inimigos.
+
+1854
+02:09:19,290 --> 02:09:21,500
+- Matem-no!
+- Derrubem-no!
+
+1855
+02:09:39,600 --> 02:09:41,300
+Fugi, Lorde Saran!
+Salvai-vos!
+
+1856
+02:09:41,570 --> 02:09:42,989
+Salvai-vos!
+
+1857
+02:09:46,408 --> 02:09:48,927
+Não!
+
+1858
+02:09:58,653 --> 02:10:00,235
+Dalila.
+
+1859
+02:10:30,100 --> 02:10:31,771
+Misericórdia!
+
+1860
+02:10:38,920 --> 02:10:41,881
+Levantem isto!
+Ajudem-me!
+
+1861
+02:10:56,311 --> 02:10:58,050
+Ele era tão forte.
+
+1862
+02:10:59,081 --> 02:11:00,771
+Porque teve que morrer?
+
+1863
+02:11:01,850 --> 02:11:03,920
+A sua força nunca morrerá, Saul.
+
+1864
+02:11:08,890 --> 02:11:11,769
+Os homens contarão a sua
+história por mil anos.
+
+1865
+02:11:19,513 --> 02:11:23,882
+<b>FIM
+SANSÃO E DALILA</b>
+
+1866
+02:11:24,383 --> 02:11:26,883
+<b>Correcção e Sincronização
+mx101</b>
+
+1867
+02:11:27,305 --> 02:11:33,869
+Por favor, avalie esta legenda em www.osdb.link/4vu83
+Ajude outros usuários a escolher as melhores legendas.

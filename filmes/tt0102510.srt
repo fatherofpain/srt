@@ -1,0 +1,3820 @@
+1
+00:00:06,000 --> 00:00:12,074
+-==[ www.OpenSubtitles.org ]==-
+
+2
+00:01:02,880 --> 00:01:05,282
+A CASA BRANCA
+
+3
+00:01:05,481 --> 00:01:07,802
+WASHINGTON, D.C.
+
+4
+00:01:08,003 --> 00:01:11,804
+O Exmo Sr. Alan Dee
+e a ex-senhora Easton.
+
+5
+00:01:12,284 --> 00:01:15,846
+O Exmo Sr. William Breslow e esposa.
+
+6
+00:01:16,126 --> 00:01:20,247
+O Exmo Sr. Nelson Mandela
+e a Exma Sra. Winnie Mandela.
+
+7
+00:01:20,447 --> 00:01:25,049
+Senhoras e senhores,
+o Presidente dos EUA,
+
+8
+00:01:25,449 --> 00:01:27,650
+e a Senhora Bush.
+
+9
+00:01:30,250 --> 00:01:33,692
+Como estão todos?
+Estão todos aqui! Vê só!
+
+10
+00:01:33,893 --> 00:01:35,533
+Olá, Peter.
+
+11
+00:01:37,534 --> 00:01:41,175
+Jack, que bom que pode vir.
+Bill, Olá.
+
+12
+00:01:41,375 --> 00:01:45,217
+Rapa essa barba. É liberal demais.
+Olá, Frank. Trudy.
+
+13
+00:01:47,897 --> 00:01:51,259
+Olá, Peter.
+Ainda bem que veio.
+
+14
+00:01:51,539 --> 00:01:53,940
+Estão todos aqui hoje.
+
+15
+00:01:54,140 --> 00:01:58,461
+Muito obrigado.
+Dr. Meinheimer, ainda bem que veio.
+
+16
+00:02:07,265 --> 00:02:08,986
+Aqui está ela.
+
+17
+00:02:15,909 --> 00:02:17,269
+Obrigado.
+
+18
+00:02:23,191 --> 00:02:25,032
+Cuidado com a cabeça dela!
+
+19
+00:02:27,513 --> 00:02:30,794
+- Estás bem, querida?
+- Estou.
+
+20
+00:02:32,715 --> 00:02:35,236
+Ótimo. Queiram sentar-se, por favor.
+
+21
+00:02:35,276 --> 00:02:37,957
+Sejam bem-vindos.
+Que bom terem vindo.
+
+22
+00:02:38,277 --> 00:02:40,478
+É com o maior prazer que constato
+
+23
+00:02:40,678 --> 00:02:44,400
+a presença de tantos
+e tão distintos convidados.
+
+24
+00:02:44,600 --> 00:02:49,402
+Esta semana celebra-se por todo o
+país a Semana do Cumprimento da Lei.
+
+25
+00:02:49,682 --> 00:02:54,363
+Gostaria de dar a palavra
+à nossa comissária de Polícia local,
+
+26
+00:02:54,763 --> 00:02:57,444
+capitão Annabel Brumford.
+
+27
+00:02:59,966 --> 00:03:04,848
+Quero lhes apresentar um distinto
+cidadão, condecorado esta semana
+
+28
+00:03:05,128 --> 00:03:07,729
+por ter abatido
+o seu milésimo traficante de drogas!
+
+29
+00:03:07,929 --> 00:03:10,770
+Senhoras e senhores, aplausos
+
+30
+00:03:10,970 --> 00:03:13,050
+para o tenente Frank Drebin
+do Esquadrão de Polícia.
+
+31
+00:03:13,091 --> 00:03:17,692
+Na verdade, os dois últimos
+passei por cima com o carro.
+
+32
+00:03:17,973 --> 00:03:21,734
+Por sorte, eram mesmo traficantes.
+
+33
+00:03:25,576 --> 00:03:28,457
+Pois...
+Obrigado, comissária Brumford.
+
+34
+00:03:28,617 --> 00:03:34,579
+O meu Chefe de Pessoal, John Sununu,
+apresentará uns convidados especiais.
+
+35
+00:03:34,980 --> 00:03:36,180
+Obrigado.
+
+36
+00:03:36,219 --> 00:03:41,982
+Orgulho-me de dar as boas-vindas
+aos nossos fornecedores de energia.
+
+37
+00:03:42,342 --> 00:03:46,943
+Primeiro, o chefe do Departamento
+das Refinarias Mútuas Reunidas,
+
+38
+00:03:47,144 --> 00:03:48,945
+mais conhecido por DERRAME,
+
+39
+00:03:48,984 --> 00:03:50,706
+o Sr. Terence Baggett.
+
+40
+00:03:51,866 --> 00:03:56,548
+O director do Fundo de Fomento
+da Aplicação do Carvão, FUMAR,
+
+41
+00:03:56,828 --> 00:04:00,189
+- o Sr. Donald Fenswick.
+- Muito obrigado.
+
+42
+00:04:01,550 --> 00:04:06,511
+E o chefe do Projeto Unificado para
+Maiores Benefícios Atómicos, PUMBA,
+
+43
+00:04:06,712 --> 00:04:09,112
+o Sr. Arthur Dunwell.
+
+44
+00:04:09,312 --> 00:04:11,714
+Nos 3 últimos anos,
+
+45
+00:04:11,913 --> 00:04:15,635
+temos tentado estabelecer
+um plano de energia a nível nacional,
+
+46
+00:04:15,915 --> 00:04:21,117
+que tenha um impacto duradouro
+nesta década, e nas futuras.
+
+47
+00:04:21,397 --> 00:04:24,518
+Para assegurar
+a escolha do rumo certo,
+
+48
+00:04:24,558 --> 00:04:29,120
+o Presidente nomeou para o cargo
+de conselheiro-mor nestes assuntos...
+
+49
+00:04:29,160 --> 00:04:31,561
+o Dr. Albert S. Meinheimer.
+
+50
+00:04:36,363 --> 00:04:39,724
+Como decerto estão cientes,
+a sua competência não tem rival,
+
+51
+00:04:39,925 --> 00:04:42,685
+e o Dr. Meinheimer
+irá apresentar o seu parecer
+
+52
+00:04:43,006 --> 00:04:45,487
+durante o jantar anual
+no clube da imprensa nacional...
+
+53
+00:04:51,129 --> 00:04:52,569
+Sr. Presidente...
+
+54
+00:04:55,090 --> 00:04:58,331
+Quero que todos saibam
+em primeira instância,
+
+55
+00:04:58,531 --> 00:05:04,654
+que irei basear a administração
+de todo o plano de energia
+
+56
+00:05:05,054 --> 00:05:07,535
+inteiramente no parecer
+do Dr. Meinheimer.
+
+57
+00:05:09,456 --> 00:05:12,937
+Este assunto é demasiado importante
+para ser tratado por políticos.
+
+58
+00:05:13,097 --> 00:05:17,619
+Precisamos duma opinião de fora
+para basear as futuras acções,
+
+59
+00:05:17,899 --> 00:05:21,740
+e o Dr. Meinheimer é, sem dúvida,
+o maior perito nesta matéria.
+
+60
+00:05:22,020 --> 00:05:22,901
+Sr. Presidente...
+
+61
+00:05:24,822 --> 00:05:26,423
+Se me permite,
+
+62
+00:05:26,462 --> 00:05:29,343
+eu só espero que o Dr. Meinheimer
+
+63
+00:05:29,503 --> 00:05:35,266
+não se deixe influenciar pelos
+chamados defensores do ambiente.
+
+64
+00:05:35,666 --> 00:05:38,507
+Todos estamos a par da sua reputação.
+
+65
+00:05:38,547 --> 00:05:42,068
+Compete-lhe a ele explicar-nos
+os seus métodos de pesquisa.
+
+66
+00:05:44,189 --> 00:05:45,150
+Doutor?
+
+67
+00:05:53,993 --> 00:05:55,913
+O ODOR DO MEDO
+
+68
+00:07:29,350 --> 00:07:31,831
+lsto acontece
+sempre que vou às compras!
+
+69
+00:07:36,152 --> 00:07:38,073
+INSTITUTO MEINHEIMER
+
+70
+00:08:16,168 --> 00:08:19,529
+- Jane?
+- Dr. Meinheimer!
+
+71
+00:08:19,809 --> 00:08:23,651
+- Voltou cedo.
+- E você ficou até tarde.
+
+72
+00:08:24,131 --> 00:08:29,013
+Com certeza uma bela jovem como
+você tem mais que fazer ao sábado?
+
+73
+00:08:30,174 --> 00:08:34,735
+Peço perdão, minha querida.
+Não queria ser tão brusco.
+
+74
+00:08:34,775 --> 00:08:37,256
+Não faz mal, doutor.
+Não tem importância.
+
+75
+00:08:37,936 --> 00:08:43,419
+Está pensando nele outra vez?
+Como é que ele se chama? Frank?
+
+76
+00:08:43,819 --> 00:08:45,579
+Sim.
+
+77
+00:08:45,620 --> 00:08:48,020
+Não consegue esquecê-lo, não é?
+
+78
+00:08:48,221 --> 00:08:50,501
+- Quem?
+- O Frank.
+
+79
+00:08:50,701 --> 00:08:52,022
+Consigo!
+
+80
+00:08:52,062 --> 00:08:54,102
+Não, não consigo.
+
+81
+00:08:54,143 --> 00:08:57,424
+Eu tento. Mas, sabe...
+
+82
+00:08:57,824 --> 00:09:00,785
+quando se teve um homem tão homem...
+
+83
+00:09:02,426 --> 00:09:04,347
+Mas o senhor não entenderia.
+
+84
+00:09:07,308 --> 00:09:10,870
+Olhe, Jane, não se recrimine tanto.
+
+85
+00:09:11,029 --> 00:09:14,511
+Tem feito um excelente trabalho
+aqui no instituto.
+
+86
+00:09:14,791 --> 00:09:17,912
+É a melhor chefe de relações
+públicas que já passou por aqui.
+
+87
+00:09:17,952 --> 00:09:20,993
+Obrigado, doutor.
+Faço o melhor que posso.
+
+88
+00:09:21,033 --> 00:09:24,874
+Mas já reparei que fica aqui
+todas as noites até depois das dez.
+
+89
+00:09:25,154 --> 00:09:30,237
+Tem de esquecer o passado,
+conhecer pessoas novas! Divertir-se!
+
+90
+00:09:30,637 --> 00:09:35,599
+Ando com uma pessoa, e comentamos
+o seu discurso...
+
+91
+00:09:35,879 --> 00:09:38,120
+Boa noite, menina Spencer...
+Dr. Meinheimer.
+
+92
+00:09:38,279 --> 00:09:40,281
+Olá, Norm.
+
+93
+00:09:40,320 --> 00:09:43,002
+Como foi o jantar na Casa Branca?
+
+94
+00:09:43,202 --> 00:09:44,402
+Fabuloso!
+
+95
+00:09:44,442 --> 00:09:47,604
+O Presidente prometeu tornar oficiais
+todas as minhas sugestões.
+
+96
+00:09:47,803 --> 00:09:49,204
+lsso é ótimo!
+
+97
+00:09:49,244 --> 00:09:53,085
+- Vai fazer o tal discurso?
+- Vou.
+
+98
+00:09:53,166 --> 00:09:57,967
+Ia fazer hoje, mas um convidado
+criou tanta confusão lá que não pude.
+
+99
+00:09:58,328 --> 00:10:01,809
+Al, Kent: vejam isto!
+
+100
+00:10:02,009 --> 00:10:04,290
+Encontrei no cesto dos papéis.
+
+101
+00:10:08,811 --> 00:10:13,614
+Belo relógio!
+Porque é que o jogaram fora?
+
+102
+00:10:13,894 --> 00:10:18,015
+Porque está atrasado quatro minutos!
+Deixe acertá-lo.
+
+103
+00:10:18,575 --> 00:10:19,736
+Pronto!
+
+104
+00:10:24,818 --> 00:10:29,419
+Sou o sargento Frank Drebin,
+detetive, Esquadrão de Polícia.
+
+105
+00:10:29,699 --> 00:10:34,341
+Estava lavando o carro
+quando recebi a chamada.
+
+106
+00:10:34,622 --> 00:10:38,062
+Uma bomba tinha explodido no centro da cidade.
+Eu ia a caminho de uma palestra,
+
+107
+00:10:38,343 --> 00:10:41,904
+por ordem de um ofício do Presidente:
+A Operação Recolha da Escumalha.
+
+108
+00:10:44,865 --> 00:10:50,908
+Há sempre uma ocasião em que algo
+acontece e nos apanha desprevenidos.
+
+109
+00:10:51,308 --> 00:10:53,589
+Um louco furioso qualquer,
+
+110
+00:10:53,789 --> 00:10:58,711
+cheio de ódio, e provavelmente
+com o aluguel em atraso,
+
+111
+00:10:58,991 --> 00:11:01,472
+passou-se dos carretos.
+
+112
+00:11:01,752 --> 00:11:05,994
+- Ainda bem que veio.
+- Vim o mais depressa que pude.
+
+113
+00:11:06,194 --> 00:11:08,434
+Parabéns pela gravidez da tua mulher!
+
+114
+00:11:08,474 --> 00:11:10,675
+Pois, se apanho o cara que...!
+
+115
+00:11:10,875 --> 00:11:16,638
+Capitão, não há indícios de
+arrombamento. Caramba, que explosão!
+
+116
+00:11:16,998 --> 00:11:19,759
+Ainda não sabemos
+que material usaram.
+
+117
+00:11:19,799 --> 00:11:23,640
+- Há mais vítimas?
+- Estás em cima de uma.
+
+118
+00:11:23,920 --> 00:11:26,201
+Levem-no daqui.
+
+119
+00:11:26,241 --> 00:11:28,603
+Este está mesmo mal!
+
+120
+00:11:28,642 --> 00:11:32,084
+Eh, pessoal!
+O Frank achou mais um!
+
+121
+00:11:32,364 --> 00:11:35,165
+- Algumas testemunhas?
+- Uma mulher.
+
+122
+00:11:35,325 --> 00:11:37,846
+Diz que viu um homem sair,
+pouco antes da explosão.
+
+123
+00:11:38,046 --> 00:11:40,087
+Acha que devo entregar
+o caso ao Nordberg?
+
+124
+00:11:40,127 --> 00:11:42,328
+Não.
+Eu trato dele enquanto está fresco.
+
+125
+00:11:42,528 --> 00:11:47,730
+Agora não! Levou uma grande pancada
+na cabeça. Parece estar mal!
+
+126
+00:11:48,010 --> 00:11:50,691
+Eu trato disto. Com licença, menina.
+
+127
+00:11:50,891 --> 00:11:54,052
+- Quero-lhe fazer umas perguntas.
+- Não está assim tão mal!
+
+128
+00:11:54,332 --> 00:11:57,293
+Está a ser interrogada
+pelo nosso desenhador.
+
+129
+00:12:00,575 --> 00:12:03,376
+Nem queria acreditar que fosse ela.
+
+130
+00:12:03,536 --> 00:12:08,618
+Parecia um sonho. Mas
+lá estava ela, tal como a recordava.
+
+131
+00:12:08,938 --> 00:12:11,619
+Aquela face de uma beleza delicada,
+
+132
+00:12:11,819 --> 00:12:15,621
+um corpo que derreteria queijo
+do outro lado da sala.
+
+133
+00:12:17,381 --> 00:12:20,062
+E uns seios
+que pareciam querer dizer...
+
+134
+00:12:20,263 --> 00:12:22,343
+"Eh! Olha-me estes!"
+
+135
+00:12:24,384 --> 00:12:27,905
+Ela dava vontade
+de cairmos de joelhos
+
+136
+00:12:28,105 --> 00:12:31,667
+e dar graças a Deus
+por termos nascido homens!
+
+137
+00:12:31,947 --> 00:12:36,549
+Ela fazia lembrar a minha mãe,
+lá isso fazia. Sem dúvida.
+
+138
+00:12:37,509 --> 00:12:41,350
+Por amor de Deus, pára de olhá-la
+como se fosse a tua mãe!
+
+139
+00:12:49,593 --> 00:12:50,994
+Frank!
+
+140
+00:12:51,034 --> 00:12:56,516
+- Jane, não sabia que morava aqui.
+- Mudei para cá há dois anos.
+
+141
+00:12:58,918 --> 00:13:02,399
+- Como é que estão as crianças?
+- Nunca as tivemos.
+
+142
+00:13:02,439 --> 00:13:04,320
+Ah, pois foi!
+
+143
+00:13:04,360 --> 00:13:10,042
+- A operação de próstata correu bem?
+- Lindamente. Estou melhor que novo!
+
+144
+00:13:10,322 --> 00:13:16,084
+Sei que custa falar disto, mas ainda
+estás obcecado com a nossa relação?
+
+145
+00:13:16,484 --> 00:13:21,366
+Obcecado?! Só por você ter fugido
+do nosso casamento há dois anos?!
+
+146
+00:13:21,646 --> 00:13:24,047
+lsso virou passado,
+tal como os democratas.
+
+147
+00:13:24,247 --> 00:13:27,769
+- Frank?
+- Ele na igreja estava em prantos.
+
+148
+00:13:28,089 --> 00:13:29,169
+Controla-te!
+
+149
+00:13:29,209 --> 00:13:31,530
+Tive de devolver
+13 enciclopédias de culinária!
+
+150
+00:13:31,730 --> 00:13:34,611
+- Mas a saladeira, guardei.
+- Jane!
+
+151
+00:13:34,891 --> 00:13:36,572
+Olá, Jane.
+
+152
+00:13:36,612 --> 00:13:40,453
+- Este é o Dr. Albert Meinheimer.
+- Deixe-se estar.
+
+153
+00:13:40,934 --> 00:13:43,615
+- Muito prazer.
+- O prazer é todo meu.
+
+154
+00:13:43,815 --> 00:13:46,415
+Não nos conhecemos já, no...
+jantar da Casa Branca?
+
+155
+00:13:46,695 --> 00:13:49,937
+Nunca esquece um rosto.
+Tem uma memória fotográfica.
+
+156
+00:13:50,137 --> 00:13:53,979
+lsto foi terrível.
+Espero que descubra os culpados.
+
+157
+00:13:54,459 --> 00:13:58,020
+Vai-me desculpar,
+mas ainda temos muito que fazer.
+
+158
+00:13:58,301 --> 00:14:02,982
+Tal como o sexo, é uma árdua tarefa
+que nunca acaba mais,
+
+159
+00:14:03,302 --> 00:14:06,263
+e quando já estamos quase lá,
+nada acontece!
+
+160
+00:14:06,464 --> 00:14:10,865
+Acerca do homem que viste ontem,
+tudo o que lembrar pode ajudar.
+
+161
+00:14:11,145 --> 00:14:12,786
+Já dei uma descrição.
+
+162
+00:14:16,827 --> 00:14:18,228
+Ed!
+
+163
+00:14:18,268 --> 00:14:20,549
+É tudo, McTigue.
+
+164
+00:14:22,470 --> 00:14:26,231
+Vamos buscar aquele outro artista.
+Aquele que não sai com mulhres.
+
+165
+00:14:26,511 --> 00:14:28,792
+- E vive com dois outros caras.
+- Está bem.
+
+166
+00:14:28,992 --> 00:14:32,433
+Agora gostaria de conhecer
+o resto do instituto.
+
+167
+00:14:33,114 --> 00:14:37,236
+- Comecemos pela área de pesquisa.
+- Boa ideia. É por aqui.
+
+168
+00:14:40,116 --> 00:14:44,358
+- E o homem que viu ontem?
+- É caucasiano.
+
+169
+00:14:44,638 --> 00:14:46,919
+- Caucasiano?
+- Sim. É branco.
+
+170
+00:14:47,119 --> 00:14:50,761
+- Bigode, um metro e oitenta.
+- Que grande bigode!
+
+171
+00:14:51,081 --> 00:14:54,602
+- Que é isto aqui?
+- É o nosso laboratório de pesquisas.
+
+172
+00:14:54,883 --> 00:14:59,524
+Todas as experiências são
+controladas por estas máquinas.
+
+173
+00:14:59,804 --> 00:15:02,045
+Os nossos cientistas passaram anos
+em experiências,
+
+174
+00:15:02,085 --> 00:15:04,406
+e só agora começam a obter
+alguns resultados.
+
+175
+00:15:06,887 --> 00:15:07,967
+TEMPERATURA
+PERlGO
+
+176
+00:15:10,329 --> 00:15:12,609
+Meu Deus!
+
+177
+00:15:12,649 --> 00:15:16,490
+Graças a Deus, a bomba
+não atingiu a área de pesquisas.
+
+178
+00:15:16,691 --> 00:15:19,851
+- Quem faria tal coisa?
+- Ó Jane.
+
+179
+00:15:20,052 --> 00:15:23,453
+- Preciso contar de saber uma coisa.
+- Jane, querida!
+
+180
+00:15:23,494 --> 00:15:24,613
+Quentin!
+
+181
+00:15:24,654 --> 00:15:28,295
+Jane, você está bem?
+Estava preocupado contigo.
+
+182
+00:15:28,575 --> 00:15:31,056
+Eu estou bem,
+mas ainda bem que veio.
+
+183
+00:15:33,377 --> 00:15:37,218
+Oh, desculpa! Este é o Quentin
+Hapsburg dos Combustíveis Hexagon.
+
+184
+00:15:37,579 --> 00:15:38,899
+Muito prazer, senhor...?
+
+185
+00:15:38,940 --> 00:15:43,261
+Drebin. Frank Drebin. Já me servi
+de muitos dos seus urinóis.
+
+186
+00:15:44,222 --> 00:15:46,902
+Com certeza que sim.
+
+187
+00:15:47,102 --> 00:15:49,063
+Está ligado ao instituto?
+
+188
+00:15:49,104 --> 00:15:54,386
+Oficialmente não, mas a Jane e eu
+temo-nos visto muito ultimamente.
+
+189
+00:15:54,666 --> 00:15:56,586
+Minha malandrinhca!
+
+190
+00:15:58,587 --> 00:16:02,348
+Ainda bem. Eu também tenho saído com alguém,
+Uma linda mulher. É escritora.
+
+191
+00:16:02,548 --> 00:16:05,870
+Escreveu sobre problemas sexuais
+masculinos. Já deve ter lido o livro.
+
+192
+00:16:05,910 --> 00:16:08,150
+- O quê?!
+- Frank!
+
+193
+00:16:08,191 --> 00:16:13,873
+Vamos lidar com isto calmamente,
+como adultos responsáveis que somos.
+
+194
+00:16:14,153 --> 00:16:16,113
+Não é verdade, ó Borra-Botas?!
+
+195
+00:16:16,153 --> 00:16:18,154
+- lsto é a última gota!
+- Frank!
+
+196
+00:16:18,194 --> 00:16:20,436
+Quentin, nos dá um minuto a sós?
+
+197
+00:16:20,475 --> 00:16:22,956
+Como quiser, meu amor.
+
+198
+00:16:24,597 --> 00:16:26,638
+Então até logo.
+
+199
+00:16:45,405 --> 00:16:51,848
+Estou para aqui
+
+200
+00:16:53,088 --> 00:16:58,370
+A pensar em ti
+
+201
+00:16:58,650 --> 00:17:02,771
+De manhã, ao levantar
+
+202
+00:17:03,092 --> 00:17:06,733
+Só quero morrer
+
+203
+00:17:09,294 --> 00:17:14,296
+Só espero que você esteja sofrendo
+
+204
+00:17:15,457 --> 00:17:17,938
+Vendi as minhas quotas
+
+205
+00:17:18,217 --> 00:17:22,459
+E pendurei as botas
+
+206
+00:17:23,499 --> 00:17:26,061
+Todas as pastilhas tomei
+
+207
+00:17:26,100 --> 00:17:30,702
+Permitidas por lei
+
+208
+00:17:31,663 --> 00:17:34,223
+Estou só para aqui...
+
+209
+00:17:34,264 --> 00:17:35,224
+Diga.
+
+210
+00:17:36,664 --> 00:17:39,346
+Me vê o que tiver de mais forte.
+
+211
+00:17:43,388 --> 00:17:45,948
+Pensando bem, que tal um Russo Negro?
+
+212
+00:17:46,148 --> 00:17:47,749
+Com certeza.
+
+213
+00:17:47,789 --> 00:17:51,631
+Acho que estou mesmo...
+
+214
+00:17:52,110 --> 00:17:57,272
+Ferrada...
+
+215
+00:17:57,553 --> 00:17:58,793
+Frank.
+
+216
+00:17:58,833 --> 00:18:02,275
+- Sabia que te encontraria aqui.
+- Ed. Senta aí.
+
+217
+00:18:02,475 --> 00:18:04,436
+Puxa aí de uma lembrança.
+
+218
+00:18:04,475 --> 00:18:07,076
+Saiu antes de poder falar contigo.
+
+219
+00:18:07,277 --> 00:18:12,238
+Será minha imaginação,
+ou o mundo está todo doido?
+
+220
+00:18:12,639 --> 00:18:15,800
+Não, apenas uma percentagem
+mínima da população.
+
+221
+00:18:16,000 --> 00:18:22,122
+Espero que tenha razão,
+mas será que eu ainda me encaixo aqui?
+
+222
+00:18:22,522 --> 00:18:25,883
+Ainda pensa na Jane,
+não pensa?
+
+223
+00:18:26,084 --> 00:18:30,286
+Ela faz parte da minha vida,
+sempre fará. Não consigo esquecê-la.
+
+224
+00:18:30,566 --> 00:18:36,248
+Nada posso fazer. Assim que ela disse
+"Sai da minha vida", percebi tudo.
+
+225
+00:18:37,848 --> 00:18:41,410
+Sabe, as vezes
+tenho inveja de ti e da Edna.
+
+226
+00:18:41,690 --> 00:18:45,932
+Vocês estão com a mesma pessoa todos
+os dias, por mais de 30 anos...
+
+227
+00:18:46,211 --> 00:18:49,493
+Acordam com ela, comem com ela,
+dormem com ela...
+
+228
+00:18:49,653 --> 00:18:51,894
+Fazem amor com a mesma mulher.
+
+229
+00:18:52,054 --> 00:18:57,136
+Passam todos os momentos que têm
+na companhia um do outro,
+
+230
+00:18:57,536 --> 00:19:02,338
+e eu ando por aí às voltas com garotas
+de 20 anos que só querem sexo, sexo, sexo.
+
+231
+00:19:02,618 --> 00:19:07,500
+Garotas que não sabem dizer não.
+Garotas que não sabem dizer chega.
+
+232
+00:19:07,700 --> 00:19:10,181
+"Agora é a tua vez de usar as algemas..."
+
+233
+00:19:14,223 --> 00:19:19,785
+- Eu... Eu só quero amar, Ed.
+- Estou certo que encontrará o amor.
+
+234
+00:19:20,065 --> 00:19:23,426
+- Já tenho uma.
+- Foi aquela senhora.
+
+235
+00:19:27,668 --> 00:19:29,309
+Vá falar com ela.
+
+236
+00:19:30,828 --> 00:19:33,990
+Vai lá. Nos vemos amanhã.
+
+237
+00:19:38,112 --> 00:19:39,512
+Com licença.
+
+238
+00:19:39,552 --> 00:19:40,713
+Perdão.
+
+239
+00:19:41,873 --> 00:19:43,114
+Desculpe.
+
+240
+00:19:45,715 --> 00:19:50,597
+lsto não é fácil. Sinto-me só
+e abandonado. Preciso de um abraço.
+
+241
+00:19:50,877 --> 00:19:51,757
+Frank.
+
+242
+00:19:53,278 --> 00:19:54,638
+Estou aqui.
+
+243
+00:19:55,678 --> 00:19:57,879
+Bem...
+
+244
+00:20:01,641 --> 00:20:03,801
+O que você faz aqui?
+
+245
+00:20:03,842 --> 00:20:06,403
+Telefonei para o hotel
+e ninguém me atendeu.
+
+246
+00:20:06,603 --> 00:20:12,285
+- Pensei que estaria aqui.
+- Boa noite, Sam.
+
+247
+00:20:12,565 --> 00:20:17,727
+Sr. Drebin! Jane!
+É sempre bom ver gente boa.
+
+248
+00:20:18,528 --> 00:20:22,649
+Sam, toca a nossa canção.
+Só mais uma vez.
+
+249
+00:20:22,929 --> 00:20:24,370
+Com certeza.
+
+250
+00:20:32,813 --> 00:20:36,654
+Sam! Já chega! Toca a outra.
+
+251
+00:20:36,935 --> 00:20:42,217
+Não dá descanso aos fantasmas, não? 
+Você se foi sem nenhuma explicação.
+
+252
+00:20:42,497 --> 00:20:45,378
+- Não recebeu as minhas cartas?
+- Todas elas.
+
+253
+00:20:45,658 --> 00:20:48,258
+Eu as rasguei e queimei.
+
+254
+00:20:48,459 --> 00:20:53,061
+Então não recebeu os 75.000 dólares
+que o teu tio te deixou?
+
+255
+00:20:53,341 --> 00:20:54,742
+Por que está aqui?
+
+256
+00:20:54,781 --> 00:21:00,623
+Lembrei-me de ter visto uma van
+vermelha, do lado de lá da rua.
+
+257
+00:21:00,904 --> 00:21:06,106
+Van vermelha? lsso é uma ajuda.
+Boa! E agora, vai embora?
+
+258
+00:21:06,306 --> 00:21:09,347
+Também estou aqui por outras razões.
+
+259
+00:21:09,627 --> 00:21:12,708
+- Quero que continuemos amigos.
+- Amigos.
+
+260
+00:21:12,909 --> 00:21:16,349
+Se te empoeirasse, aposto que estaria
+coberta de impressões do Hapsburg.
+
+261
+00:21:16,630 --> 00:21:18,150
+Seu...!
+
+262
+00:21:18,191 --> 00:21:21,272
+Então a gatinha ainda sabe arranhar!
+
+263
+00:21:28,915 --> 00:21:31,795
+Desculpa. Não devia ter feito isso.
+
+264
+00:21:33,917 --> 00:21:36,277
+Frank,
+não servimos um para o outro.
+
+265
+00:21:36,317 --> 00:21:40,840
+- Você vivia para o trabalho na Polícia.
+- E você para a Camada de Outono!
+
+266
+00:21:41,120 --> 00:21:44,481
+Camada de OZÔNIO!
+Você nunca se importou.
+
+267
+00:21:44,761 --> 00:21:47,042
+Não sei como pode dizer isso!
+
+268
+00:21:47,082 --> 00:21:50,603
+Eu até comprei
+1.000 ares de floresta brasileira,
+
+269
+00:21:50,803 --> 00:21:54,645
+que depois mandei queimar, para lá
+construirmos a nossa casa dos sonhos?
+
+270
+00:21:54,724 --> 00:21:56,605
+Você é tão insensível!
+
+271
+00:21:56,645 --> 00:22:02,128
+lnsensível?! Acha que é fácil expulsar
+uma tribo inteira? Experimenta!
+
+272
+00:22:02,327 --> 00:22:05,369
+Vou andando! lsto foi má ideia.
+
+273
+00:22:05,688 --> 00:22:09,530
+Tinha esperança que estivesse bem,
+que tivesse alguém!
+
+274
+00:22:09,690 --> 00:22:11,691
+Eu sou solteiro.
+
+275
+00:22:11,731 --> 00:22:13,892
+Adoro ser solteiro!
+
+276
+00:22:13,932 --> 00:22:18,053
+Já não tinha sexo deste
+desde que fui Chefe dos Escuteiros.
+
+277
+00:22:22,175 --> 00:22:25,536
+Na altura, saía com imensas mulheres.
+
+278
+00:22:36,181 --> 00:22:38,781
+Eu disse que a bomba 
+não iria dar certo!
+
+279
+00:22:38,982 --> 00:22:41,743
+Não tivemos escolha. Olha o jornal!
+
+280
+00:22:41,943 --> 00:22:46,065
+"O Presidente entregará ao
+Dr. Meinheimer um cheque em branco."
+
+281
+00:22:46,345 --> 00:22:48,506
+Esse discurso é daqui a dois dias!
+
+282
+00:22:48,545 --> 00:22:50,466
+- Eu sei!
+- Todos sabemos.
+
+283
+00:22:51,907 --> 00:22:54,227
+Meus senhores!
+
+284
+00:22:54,428 --> 00:22:58,150
+Estamos todos preocupados.
+Eu concordo
+
+285
+00:22:58,429 --> 00:23:01,030
+que há boas razões
+para estarmos preocupados.
+
+286
+00:23:01,231 --> 00:23:03,832
+Esta central nuclear, por exemplo.
+
+287
+00:23:04,112 --> 00:23:06,872
+Pronta a funcionar
+nos arredores de Los Angeles.
+
+288
+00:23:07,073 --> 00:23:09,553
+Células foto-voltaicas.
+
+289
+00:23:09,754 --> 00:23:14,155
+Transformam a luz do Sol
+em energia eléctrica, fluorescente.
+
+290
+00:23:14,195 --> 00:23:19,158
+Duram dez vezes mais que as lâmpadas
+comuns, gastando 1/4 da energia.
+
+291
+00:23:19,357 --> 00:23:23,879
+Super-janelas,
+isolam tanto como 10 chapas de vidro.
+
+292
+00:23:24,159 --> 00:23:28,681
+Um carro eléctrico,
+alimentado por painéis solares.
+
+293
+00:23:28,961 --> 00:23:31,722
+Honestamente, meus senhores,
+
+294
+00:23:31,922 --> 00:23:35,203
+nada destas coisas me preocupa,
+
+295
+00:23:35,483 --> 00:23:39,766
+pois ninguém nunca saberá delas.
+
+296
+00:23:39,805 --> 00:23:42,006
+E o Meinheimer
+e o seu relatório?
+
+297
+00:23:42,207 --> 00:23:44,367
+Ele vai contar ao Presidente.
+
+298
+00:23:44,407 --> 00:23:47,648
+Boa pergunta.
+Porque é que não lhe perguntamos?
+
+299
+00:23:49,289 --> 00:23:50,890
+lsto é sequestro!
+
+300
+00:23:50,929 --> 00:23:54,011
+- Credo!
+- E o discurso?
+
+301
+00:23:54,290 --> 00:23:57,452
+O Dr. Meinheimer
+fará o seu discurso.
+
+302
+00:23:57,652 --> 00:23:59,693
+A meu ver,
+
+303
+00:23:59,733 --> 00:24:03,895
+devemos depender do carvão,
+do petróleo e da energia nuclear.
+
+304
+00:24:04,175 --> 00:24:07,216
+- O nosso Dr. Meinheimer.
+- Caramba!
+
+305
+00:24:08,176 --> 00:24:09,777
+Meus senhores,
+
+306
+00:24:09,817 --> 00:24:11,898
+lhes apresento Earl Hacker,
+
+307
+00:24:11,937 --> 00:24:15,779
+antigo consultor artístico
+de Jesse Helms.
+
+308
+00:24:16,139 --> 00:24:20,581
+Como disse ao Sr. Hapsburg,
+a minha tarifa é de um milhão.
+
+309
+00:24:20,862 --> 00:24:24,702
+E dou-me ao luxo de afirmar
+que valho cada tostão.
+
+310
+00:24:24,983 --> 00:24:28,344
+De qualquer modo, os senhores
+não têm outra escolha...
+
+311
+00:24:31,306 --> 00:24:33,706
+ou têm?!
+
+312
+00:24:40,229 --> 00:24:45,511
+Depois de uma noite bem dormida,
+decidi voltar ao esquadrão.
+
+313
+00:24:45,791 --> 00:24:48,392
+Pensei que,
+se me afundasse em trabalho,
+
+314
+00:24:48,592 --> 00:24:53,874
+podia esquecer a Jane e apanhar o
+assassino, antes dele atacar de novo.
+
+315
+00:24:54,154 --> 00:24:59,716
+Havia poucas pistas. Esperava que
+o laboratório tivesse achado algumas.
+
+316
+00:25:00,116 --> 00:25:02,317
+Eh, desliga isso!
+
+317
+00:25:02,478 --> 00:25:06,038
+Seus biltres, encomendem-se a Deus!
+
+318
+00:25:07,199 --> 00:25:09,159
+- Bom trabalho, Frank.
+- Quê?
+
+319
+00:25:09,200 --> 00:25:12,281
+Ted, mostre-nos os resultados
+do laboratório do instituto.
+
+320
+00:25:12,481 --> 00:25:18,043
+Não temos impressões digitais claras,
+mas obtivemos umas pegadas lá fora.
+
+321
+00:25:18,403 --> 00:25:20,804
+Tiramos moldes de gesso.
+
+322
+00:25:21,004 --> 00:25:24,166
+Tamanho 42. Estamos comparando dados.
+
+323
+00:25:24,365 --> 00:25:25,966
+Cada vez mais interessante.
+
+324
+00:25:26,006 --> 00:25:31,008
+Encontramos esta pegada
+de dinossauro da era Paleolítica.
+
+325
+00:25:31,288 --> 00:25:32,769
+É tudo?
+
+326
+00:25:32,809 --> 00:25:37,890
+Também achamos estas madeiras
+que parecem pertencer à Arca de Noé.
+
+327
+00:25:38,171 --> 00:25:39,972
+Mas e o caso?
+
+328
+00:25:40,012 --> 00:25:44,533
+Parto amanhã para Boston, para falar
+com a Fundação Arqueológica.
+
+329
+00:25:44,813 --> 00:25:47,294
+E vou ao "Geraldo" para a semana.
+
+330
+00:25:47,495 --> 00:25:49,975
+Vais ao "Garaldo"
+por causa disto?
+
+331
+00:25:50,176 --> 00:25:53,337
+Não. A minha mulher
+é transexual e venera Satanás.
+
+332
+00:25:53,617 --> 00:25:58,619
+Faremos análises das impressões
+digitais, das fibras, do DNA...
+
+333
+00:25:58,900 --> 00:26:01,741
+e utilizaremos as partículas
+de terra desta pegada...
+
+334
+00:26:01,780 --> 00:26:05,902
+Temos de obter um mapa
+da composição geológica da cidade.
+
+335
+00:26:06,182 --> 00:26:08,703
+Talvez não tenhamos tanto tempo.
+
+336
+00:26:08,903 --> 00:26:10,463
+Então talvez isto ajude.
+
+337
+00:26:10,504 --> 00:26:14,945
+Achamos esta carteira
+na porta do instituto.
+
+338
+00:26:15,225 --> 00:26:20,107
+Não pudemos examiná-la antes.
+Só agora voltou do laboratório.
+
+339
+00:26:20,387 --> 00:26:25,669
+Hector Savage, de Detroit.
+Lembro-me deste rapaz. Ex-pugilista.
+
+340
+00:26:25,949 --> 00:26:31,912
+- O nome verdadeiro era Joey Chicago.
+- No ringue era Kid Minneapolis.
+
+341
+00:26:32,192 --> 00:26:35,193
+Vi ele lutar uma vez em Cincinnati.
+
+342
+00:26:35,353 --> 00:26:37,674
+Ele foi o Kid New York,
+na Filadélfia.
+
+343
+00:26:37,874 --> 00:26:42,356
+Foi morto em Houston, por Tex Colorado,
+o Assassino do Arizona.
+
+344
+00:26:42,676 --> 00:26:45,357
+Foi mesmo!
+Natural do Dakota. Norte ou Sul?
+
+345
+00:26:45,637 --> 00:26:49,078
+Do Sul era o irmão,
+que vinha da Virgínia Oeste.
+
+346
+00:26:49,279 --> 00:26:50,599
+Entende de boxe!
+
+347
+00:26:50,639 --> 00:26:54,441
+O que eu sei é que nunca se deve apostar,
+no cara branco.
+
+348
+00:26:54,640 --> 00:26:56,522
+Aí tem algum endereço?
+
+349
+00:26:56,561 --> 00:27:01,283
+Só tem um cartão que diz
+"Monique DiCarlo, Rua Bleckman, 210."
+
+350
+00:27:01,563 --> 00:27:05,925
+A zona da luz vermelha.
+O que será que atrai Savage até lá?
+
+351
+00:27:05,965 --> 00:27:08,046
+- Sexo, Frank?
+- Hã...
+
+352
+00:27:08,086 --> 00:27:11,647
+Não, agora não, Ed.
+Temos muito o que fazer.
+
+353
+00:27:15,008 --> 00:27:19,770
+A casa que tínhamos da Monique
+DiCarlo ficava em Little ltaly.
+
+354
+00:27:19,971 --> 00:27:24,692
+Seguimos para lá, esperando
+descobrir o rastro de Hector Savage
+
+355
+00:27:24,973 --> 00:27:28,214
+e uma pista
+que resolvesse todo aquele caso.
+
+356
+00:27:30,815 --> 00:27:34,176
+São os tiras!
+Temos de nos livrar deles!
+
+357
+00:27:34,376 --> 00:27:38,698
+Eu trato disso. Depressa!
+Esconda-se no porão.
+
+358
+00:27:42,059 --> 00:27:44,019
+- Ed.
+- Frank?
+
+359
+00:27:44,060 --> 00:27:45,741
+- Van vermelha.
+- Eu sei.
+
+360
+00:27:45,780 --> 00:27:49,622
+A Jane disse ter visto uma assim
+naquela noite, na porta do instituto.
+
+361
+00:27:50,102 --> 00:27:52,943
+- Vamos pegá-lo!
+- Não. Ele não está sozinho.
+
+362
+00:27:52,983 --> 00:27:56,025
+Colocamos um rastreador nele
+e o seguimos.
+
+363
+00:27:56,064 --> 00:27:59,426
+- Boa ideia, Frank. Nordberg!
+- É para já!
+
+364
+00:28:02,306 --> 00:28:05,748
+Tenente Frank Drebin,
+este é o meu capitão.
+
+365
+00:28:06,028 --> 00:28:09,590
+- O que é isso? Uma emboscada??
+- Realmente, não me importo...
+
+366
+00:28:09,789 --> 00:28:12,631
+mas temos umas perguntas a fazer.
+
+367
+00:28:19,073 --> 00:28:23,795
+Ouça. Procuramos
+um tal Hector Savage. Onde está ele?
+
+368
+00:28:24,155 --> 00:28:26,476
+Porque deveria te dizer, tira?
+
+369
+00:28:26,676 --> 00:28:31,438
+Sou a última barreira entre estes
+canalhas e as pessoas decentes.
+
+370
+00:28:31,638 --> 00:28:32,879
+Olá, Frank.
+
+371
+00:28:34,439 --> 00:28:38,281
+Já temos aquela bomba de sucção
+que encomendou da Suécia.
+
+372
+00:28:39,881 --> 00:28:40,841
+É para presente.
+
+373
+00:28:57,648 --> 00:28:59,969
+Frank! Chega aqui depressa!
+
+374
+00:29:00,889 --> 00:29:02,650
+É o Savage! Vai fugir.
+
+375
+00:29:08,973 --> 00:29:12,334
+Eh! Alto!
+Sou agente da Polícia!
+
+376
+00:29:13,494 --> 00:29:17,736
+Vamos embora, Ed. Lembre-se,
+não deixe que ele nos veja.
+
+377
+00:29:17,776 --> 00:29:19,537
+Encoste já!
+
+378
+00:29:21,458 --> 00:29:24,299
+O sinalizador está funcionando bem!
+
+379
+00:29:31,021 --> 00:29:34,102
+Ele está mudando de rumo.
+Pare o carro.
+
+380
+00:29:37,184 --> 00:29:39,664
+- Está se aproximando.
+- A qualquer minuto.
+
+381
+00:29:39,865 --> 00:29:41,185
+Olho vivo!
+
+382
+00:29:43,906 --> 00:29:45,827
+Estamos quase em cima dele!
+
+383
+00:29:47,908 --> 00:29:50,069
+Pisa fundo!
+
+384
+00:29:50,108 --> 00:29:52,910
+Socorro! Pára! Pára!
+
+385
+00:30:09,236 --> 00:30:11,116
+Pára, Frank!
+
+386
+00:30:11,156 --> 00:30:13,157
+Pare imediatamente!
+
+387
+00:30:14,318 --> 00:30:15,758
+Pare, já disse!
+
+388
+00:30:25,802 --> 00:30:27,643
+Socorro! Socorro!
+
+389
+00:30:29,443 --> 00:30:32,765
+- Frank Drebin. Que temos aqui?
+- Uma situação delicada.
+
+390
+00:30:32,805 --> 00:30:36,286
+O Savage está ali dentro.
+Afirma que tem reféns.
+
+391
+00:30:36,567 --> 00:30:37,767
+Pode ser mentira.
+
+392
+00:30:37,807 --> 00:30:40,208
+- Não há mais nada?
+- Há. Aquela Van.
+
+393
+00:30:40,408 --> 00:30:43,770
+Está registrada em nome
+de um tal Quentin Hapsburg.
+
+394
+00:30:45,850 --> 00:30:47,171
+Não me diga.
+
+395
+00:30:47,210 --> 00:30:52,092
+Agora é que o bicho vai pegar.
+Como vai indo, campeão?
+
+396
+00:30:57,094 --> 00:31:00,215
+Eh! Cessar fogo!
+
+397
+00:31:00,256 --> 00:31:01,896
+Alto! Não disparem!
+
+398
+00:31:04,778 --> 00:31:06,498
+Não disparem!
+
+399
+00:31:07,658 --> 00:31:09,619
+Não disparem!
+
+400
+00:31:09,660 --> 00:31:12,540
+Pronto. Passe-me o megafone.
+
+401
+00:31:12,740 --> 00:31:15,821
+Aqui é o Frank Drebin,
+Esquadrão de Polícia.
+
+402
+00:31:16,102 --> 00:31:19,943
+Larguem as suas armas
+e saiam com as mãos para cima.
+
+403
+00:31:20,224 --> 00:31:25,025
+Ou saiam primeiro
+e larguem as armas depois, tanto faz.
+
+404
+00:31:25,386 --> 00:31:27,906
+Há apenas dois pontos-chave
+a cumprir:
+
+405
+00:31:28,066 --> 00:31:30,948
+Ponto 1 : largar armas. Ponto 2: sair.
+
+406
+00:31:31,147 --> 00:31:33,348
+Venha me pegar!
+
+407
+00:31:34,508 --> 00:31:36,390
+Tenho muitas destas!
+
+408
+00:31:36,429 --> 00:31:38,630
+Parece que ele é quem está no comando.
+
+409
+00:31:38,831 --> 00:31:40,911
+Hoje não, Ed.
+
+410
+00:31:40,951 --> 00:31:43,833
+Frank!! Você não tem carteira de
+motorista de tanques!
+
+411
+00:31:44,113 --> 00:31:46,993
+Deixa pra lá, Ed. Mantenha ele ocupado.
+
+412
+00:31:47,194 --> 00:31:50,035
+Muito bem, Savage. O que quer?
+
+413
+00:31:50,235 --> 00:31:53,877
+Quero um carro.
+Bem esportivo. Um Porsche.
+
+414
+00:31:54,196 --> 00:31:57,798
+Um bilhete de avião para a Jamaica,
+com estadia num bom hotel.
+
+415
+00:31:57,837 --> 00:32:02,440
+Turístico, não. Assim um sítio
+que represente bem a cultura local.
+
+416
+00:32:02,640 --> 00:32:04,880
+Não vai dar, Savage.
+
+417
+00:32:04,920 --> 00:32:10,483
+Nós é que mandamos aqui. Saia já
+para fora com as mãos na cabeça.
+
+418
+00:32:14,404 --> 00:32:18,566
+Frank, o que vai fazer?
+Onde vai? Frank!
+
+419
+00:32:35,613 --> 00:32:37,053
+JARDlM ZOOLÓGlCO
+
+420
+00:32:56,140 --> 00:32:58,542
+Frank! Socorro!
+
+421
+00:33:17,549 --> 00:33:19,869
+- O seu casaco, senhor?
+- Pois, pois é.
+
+422
+00:33:20,029 --> 00:33:23,031
+Eu tenho a nota provando que é meu.
+
+423
+00:33:23,391 --> 00:33:25,272
+Comissária, o telefone.
+
+424
+00:33:25,311 --> 00:33:27,833
+- Obrigado.
+- Com licença.
+
+425
+00:33:29,553 --> 00:33:30,874
+Sim?
+
+426
+00:33:32,035 --> 00:33:33,755
+Ele fez o quê?
+
+427
+00:33:34,916 --> 00:33:37,396
+Quantos animais escaparam?
+
+428
+00:33:37,597 --> 00:33:38,716
+Ó meu Deus!
+
+429
+00:33:38,757 --> 00:33:41,718
+Boa noite, comissária.
+Está muito elegante hoje.
+
+430
+00:33:43,279 --> 00:33:47,881
+Sabia que, por sua causa,
+a cidade foi invadida por babuínos?
+
+431
+00:33:48,041 --> 00:33:51,601
+lsso não será por culpa
+dos eleitores? Com licença.
+
+432
+00:33:57,364 --> 00:34:01,486
+Quero agradecer a todos por
+comparecerem nesta homenagem
+
+433
+00:34:01,765 --> 00:34:06,688
+ao Dr. Meinheimer, que amanhã
+fará o seu discurso histórico.
+
+434
+00:34:10,409 --> 00:34:12,610
+E em apoio ao Presidente,
+
+435
+00:34:12,810 --> 00:34:16,092
+eu juro apoiar todas
+as recomendações do Dr. Meinheimer,
+
+436
+00:34:16,252 --> 00:34:18,293
+sejam elas quais forem.
+
+437
+00:34:24,895 --> 00:34:29,296
+- E agora, desfrutem da noite.
+- Ali está um conhecido meu.
+
+438
+00:34:43,702 --> 00:34:45,022
+Me permite?
+
+439
+00:34:45,062 --> 00:34:48,304
+- Frank! O que está fazendo aqui?
+- Não perco uma boa festa.
+
+440
+00:34:48,584 --> 00:34:52,306
+- Não, me diga a verdade.
+- Posso resumi-lo em 3 palavras.
+
+441
+00:34:52,345 --> 00:34:54,546
+Quentin Hapsburg.
+
+442
+00:34:54,747 --> 00:34:59,628
+Nunca gostei dele. Ele é tão sujo quanto
+as cuecas de um mineiro no lnverno.
+
+443
+00:34:59,909 --> 00:35:01,428
+O que há com você?
+
+444
+00:35:01,469 --> 00:35:06,351
+Ele é gentil, atencioso
+e nada desconfiado, como alguns!
+
+445
+00:35:06,751 --> 00:35:07,831
+Sim, sim...
+
+446
+00:35:07,871 --> 00:35:12,473
+Pergunte a ele qual sua ligação
+com a van vermelha que você viu?
+
+447
+00:35:12,794 --> 00:35:16,435
+Não sei do que você está falando.
+
+448
+00:35:16,715 --> 00:35:19,476
+Pergunte a ele se conhece
+um pilantra chamado Hector Savage.
+
+449
+00:35:19,676 --> 00:35:20,797
+Pare!
+
+450
+00:35:20,836 --> 00:35:25,158
+Você está com ciúmes, por ele
+me entender como você nunca soube.
+
+451
+00:35:25,438 --> 00:35:29,080
+Ele é que vai ficar com ciúmes
+se estiver nos espiando agora.
+
+452
+00:35:30,160 --> 00:35:34,842
+E um homem ciumento comete erros.
+Conto com isso.
+
+453
+00:36:11,576 --> 00:36:15,897
+Sr. Drebin, o Sr. Hapsburg
+convida-o a fazer-lhe companhia.
+
+454
+00:36:24,261 --> 00:36:26,542
+Paciência é um jogo solitário,
+Hapsburg.
+
+455
+00:36:26,742 --> 00:36:28,262
+Tenente.
+
+456
+00:36:30,183 --> 00:36:33,465
+Não me lembro de ver o seu nome
+na lista dos convidados.
+
+457
+00:36:33,745 --> 00:36:37,025
+Não faz mal. Eu às vezes
+uso o meu nome de solteiro.
+
+458
+00:36:38,946 --> 00:36:43,348
+Bela festa. Encontrei várias
+cirurgias plásticas que conheço.
+
+459
+00:36:45,830 --> 00:36:48,110
+Costuma apostar?
+
+460
+00:36:48,150 --> 00:36:50,151
+Cada vez que encomendo uma pizza.
+
+461
+00:36:54,392 --> 00:36:56,073
+É bom nas línguas?
+
+462
+00:36:56,114 --> 00:36:59,834
+Eu não, mas os meus beijos sim.
+
+463
+00:37:02,236 --> 00:37:04,836
+- Esse lugar é meu!
+- Doutor!
+
+464
+00:37:05,037 --> 00:37:08,479
+- Lembra-se do Frank?
+- Senhor...hã...?
+
+465
+00:37:08,758 --> 00:37:13,080
+Drebin, do Esquadrão de Polícia.
+Conheceram-se no instituto.
+
+466
+00:37:13,280 --> 00:37:15,961
+Ah, sim. Queira sentar-se.
+
+467
+00:37:16,241 --> 00:37:20,083
+Não, obrigado, não vou demorar.
+Vamos jogar outro jogo.
+
+468
+00:37:20,282 --> 00:37:21,803
+Quem é este?
+
+469
+00:37:24,684 --> 00:37:26,285
+Não sei.
+
+470
+00:37:26,325 --> 00:37:31,207
+É um garoto malvado. Explodiu um prédio e
+dirige uma van vermelha registrada no seu nome.
+
+471
+00:37:31,527 --> 00:37:36,209
+Tenho muitas vans. Uma delas
+foi roubada, há 3 dias.
+
+472
+00:37:36,489 --> 00:37:39,890
+- Não tenho nada a esconder.
+- Pode ser,
+
+473
+00:37:39,931 --> 00:37:44,372
+mas aviso-o: basta que dê um espirro
+e eu lá estarei para limpar-lhe o nariz.
+
+474
+00:37:50,694 --> 00:37:55,296
+Minhas senhoras e meus senhores,
+a primeira atração da noite:
+
+475
+00:37:55,576 --> 00:37:59,418
+uma viagem com tudo pago
+às llhas dos Gilligans.
+
+476
+00:38:02,699 --> 00:38:07,181
+E para isso, vamos chamar
+o nosso convidado de honra,
+
+477
+00:38:07,581 --> 00:38:09,702
+o Dr. Albert S. Meinheimer.
+
+478
+00:38:12,943 --> 00:38:15,624
+- Deixe-me ajudá-lo.
+- Não é necessário.
+
+479
+00:38:15,824 --> 00:38:18,425
+Não sei que bicho mordeu o Frank.
+
+480
+00:38:18,625 --> 00:38:21,586
+É apenas um ataque
+de ciúmes, minha cara.
+
+481
+00:39:03,723 --> 00:39:06,483
+Ele parece mexer-se
+com muita desenvoltura.
+
+482
+00:40:18,912 --> 00:40:23,513
+Jane, só te quero dizer
+que sinto muito pelo que aconteceu.
+
+483
+00:40:23,714 --> 00:40:27,475
+- Oh, Frank...
+- Precisamos conversar. Posso entrar?
+
+484
+00:40:27,755 --> 00:40:33,878
+Bem, está tudo um bocado desarrumado
+e estava indo fazer uma vitamina.
+
+485
+00:40:34,278 --> 00:40:36,518
+- Quer em pouco?
+- Não, obrigado.
+
+486
+00:40:36,559 --> 00:40:40,040
+Tem certeza? Estou experimentando
+uma receita nova hoje.
+
+487
+00:40:40,800 --> 00:40:45,002
+O que o Dr. Meinheimer vai dizer
+no discurso do jantar amanhã?
+
+488
+00:40:45,322 --> 00:40:49,724
+Vai apoiar a energia mais eficiente
+e renovável, como a energia solar.
+
+489
+00:40:50,004 --> 00:40:53,725
+- Quem mais sabia disso?
+- Apenas eu...e o Quentin.
+
+490
+00:40:53,765 --> 00:40:59,607
+E se o Presidente apoiar
+as energias renováveis, quem perde?
+
+491
+00:40:59,967 --> 00:41:02,568
+Bem, o carvão,
+o petróleo e a energia nuclear.
+
+492
+00:41:05,249 --> 00:41:07,771
+Jane, só mais uma coisa.
+
+493
+00:41:07,931 --> 00:41:11,733
+Disse que o Dr. Meinheimer
+tinha uma memória fotográfica,
+
+494
+00:41:11,772 --> 00:41:15,534
+mas hoje ele não se lembrava de mim.
+
+495
+00:41:15,813 --> 00:41:18,975
+lsso é estranho,
+embora ele ande sob muita pressão.
+
+496
+00:41:19,175 --> 00:41:21,136
+Sabes se tem sinais particulares?
+
+497
+00:41:21,176 --> 00:41:26,578
+Cicatrizes, verrugas, pés-de-pato,
+uma terceira narina?
+
+498
+00:41:26,858 --> 00:41:30,499
+Tem uma mancha na nádega direita
+que parece a Mona Lisa.
+
+499
+00:41:30,779 --> 00:41:32,940
+Sei...
+
+500
+00:41:32,980 --> 00:41:35,381
+Você notou alguma coisa estranha nele?
+
+501
+00:41:35,582 --> 00:41:38,342
+Não.. Mas ele parece
+ter crescido um palmo.
+
+502
+00:41:38,382 --> 00:41:40,744
+E passou a ser canhoto agora.
+
+503
+00:41:40,943 --> 00:41:43,344
+Oque voCê está querendo insinuar?
+
+504
+00:41:43,544 --> 00:41:46,505
+Que o Quentin
+arranjou um sósia do Meinheimer,
+
+505
+00:41:46,826 --> 00:41:49,667
+e que este irá amanhã
+fazer um relatório fraudulento?
+
+506
+00:41:49,867 --> 00:41:51,548
+Mas isso é brilhante!
+
+507
+00:41:51,588 --> 00:41:53,909
+É muito melhor que a minha ideia.
+
+508
+00:41:54,108 --> 00:41:57,910
+Para com isso! Você está louco!
+Será que esse teu ciúme não acaba?
+
+509
+00:41:57,950 --> 00:41:59,510
+Ei! Você está me machucando!
+
+510
+00:41:59,551 --> 00:42:02,912
+- O que mais você quer de mim?
+- Posso usar seu telefone?
+
+511
+00:42:03,232 --> 00:42:04,792
+- Chamada local?
+- Sim.
+
+512
+00:42:04,833 --> 00:42:08,114
+Então pode. Me desculpe,
+mas vou tomar uma ducha.
+
+513
+00:42:08,394 --> 00:42:12,596
+O telefone está na outra sala.
+Você sabe o caminho. Adeus.
+
+514
+00:42:29,402 --> 00:42:32,083
+Ligue-me ao capitão Ed Hocken.
+
+515
+00:42:40,527 --> 00:42:44,848
+Ed, tenho uma pista importante.
+Preciso de você e do Nordberg.
+
+516
+00:42:45,048 --> 00:42:47,610
+Que faz ele em Detroit?
+
+517
+00:42:47,649 --> 00:42:50,330
+Mande-lhe uma passagem
+de avião e calças novas.
+
+518
+00:45:19,588 --> 00:45:21,709
+Bem como eu suspeitava.
+
+519
+00:45:23,429 --> 00:45:25,630
+Vamos, de pé!
+
+520
+00:45:58,283 --> 00:46:00,204
+Ei!! O que houve com a água?
+
+521
+00:46:07,567 --> 00:46:09,127
+Ai, tive tanto medo!
+
+522
+00:46:10,648 --> 00:46:12,729
+O que houve lá fora?
+
+523
+00:46:12,769 --> 00:46:18,331
+Não é nada. Mas acho melhor ficarmos
+aqui até lavarem o carpete.
+
+524
+00:46:18,610 --> 00:46:20,371
+Quem iria querer te matar?
+
+525
+00:46:20,411 --> 00:46:22,933
+Até agora, só a TV Cabo.
+
+526
+00:46:23,133 --> 00:46:27,454
+Parece ser um dos lacaios
+do Hapsburg. Trazia isto.
+
+527
+00:46:28,975 --> 00:46:30,616
+Hapsburg Valdez?!
+
+528
+00:46:32,896 --> 00:46:37,979
+Sinto-me tão estúpida,
+nunca deveria ter duvidado de você.
+
+529
+00:46:38,259 --> 00:46:40,459
+Pronto, pronto.
+
+530
+00:46:40,499 --> 00:46:46,062
+Você não podia adivinhar que andava
+com um sociopata assassino.
+
+531
+00:46:46,342 --> 00:46:48,543
+Temos de salvar o Dr. Meinheimer.
+
+532
+00:46:48,742 --> 00:46:51,703
+Sim. Vão torturá-lo e matá-lo.
+
+533
+00:46:51,904 --> 00:46:54,665
+A culpa é toda minha.
+
+534
+00:46:54,985 --> 00:46:59,107
+Vão arrancar-lhe as unhas dos pés
+primeiro e depois os pêlos do nariz.
+
+535
+00:46:59,387 --> 00:47:01,148
+O que vamos fazer?
+
+536
+00:47:01,187 --> 00:47:04,749
+Se o meu palpite estiver certo,
+eles o mantém como refém aqui.
+
+537
+00:47:05,029 --> 00:47:07,029
+Aqui no Clube?
+
+538
+00:47:07,070 --> 00:47:08,550
+Não.
+
+539
+00:47:08,590 --> 00:47:12,191
+Neste armazém.
+Vou andando para salvá-lo.
+
+540
+00:47:12,232 --> 00:47:13,832
+Toma cuidado!
+
+541
+00:47:13,872 --> 00:47:15,993
+Claro, eu...
+
+542
+00:47:17,993 --> 00:47:20,155
+Eu...
+
+543
+00:47:20,194 --> 00:47:22,716
+Acho melhor eu ir andando.
+
+544
+00:47:23,957 --> 00:47:28,158
+Prometi ao Nordberg,
+um bolo-de-passas para a sobremesa.
+
+545
+00:47:32,399 --> 00:47:35,080
+Não, eu não aguento mais!
+
+546
+00:47:35,281 --> 00:47:40,522
+Já fugi de você uma vez, não vou
+fugir outra. Fica comigo. Fica?
+
+547
+00:50:37,831 --> 00:50:39,832
+ARMAZÉM 39
+
+548
+00:50:39,872 --> 00:50:43,033
+Frank, estou te dizendo
+que não devemos fazer isto.
+
+549
+00:50:43,313 --> 00:50:45,514
+Tudo o que temos é um palpite.
+
+550
+00:50:45,715 --> 00:50:50,596
+O Hapsburg está enfiado
+nisso até o pescoço.
+
+551
+00:50:54,437 --> 00:50:56,758
+Não podíamos
+ter escolhido melhor dia.
+
+552
+00:50:57,039 --> 00:50:59,999
+Este nevoeiro vai nos ocultar até
+chegarmos ao armazém de Hapsburg.
+
+553
+00:51:00,200 --> 00:51:02,960
+Não é nevoeiro, o motor pegou fogo.
+
+554
+00:51:03,161 --> 00:51:06,682
+Está bem, vamos repassar tudo
+mais uma vez.
+
+555
+00:51:06,723 --> 00:51:10,563
+Ás 3:15, o Nordberg corta a corrente
+e desativa os alarmes.
+
+556
+00:51:10,924 --> 00:51:12,245
+Certo.
+
+557
+00:51:12,285 --> 00:51:14,365
+- Nordberg!
+- Sim, ouvi.
+
+558
+00:51:14,405 --> 00:51:17,366
+Espero pelo sinal. Está ligado?
+
+559
+00:51:17,567 --> 00:51:19,247
+Sim, estou.
+
+560
+00:51:19,287 --> 00:51:24,370
+Quando ouvir eu dizer,
+"Isso é bom demais", vocês atacam.
+
+561
+00:51:24,649 --> 00:51:26,090
+- Confere.
+- Pronto, Frank?
+
+562
+00:51:34,934 --> 00:51:37,414
+A água é daquele lado, Frank.
+
+563
+00:51:42,137 --> 00:51:44,897
+Anúncio de Combustíveis Hexagon,
+primeiro "take".
+
+564
+00:51:45,297 --> 00:51:49,139
+Pilotar os petroleiros modernos é uma
+tarefa de grande responsabilidade.
+
+565
+00:51:49,619 --> 00:51:53,940
+É por essa razão que aqui, na Escola
+Práctica de Capitães da Hexagon,
+
+566
+00:51:54,220 --> 00:51:57,582
+os futuros capitães são submetidos
+a rigorosos programas de instrução.
+
+567
+00:51:57,742 --> 00:52:01,984
+Através de eliminatórias,
+vamos excluindo os menos aptos
+
+568
+00:52:02,264 --> 00:52:07,266
+para comandarem a deslocação diária
+dum petroleiro de 500.000 toneladas.
+
+569
+00:52:07,546 --> 00:52:12,628
+Só os melhores terão o comando
+duma ameaça ecológica flutuante.
+
+570
+00:52:19,430 --> 00:52:22,232
+ATENÇÃO! ESGOTO NÃO TRATADO
+NÃO NADE AQUI PELO AMOR DE DEUS!
+
+571
+00:52:24,153 --> 00:52:25,473
+Anúncio dois.
+
+572
+00:52:27,033 --> 00:52:29,315
+Tal como eu gosto.
+
+573
+00:52:30,475 --> 00:52:36,037
+Um dia no futuro, o Sol fornecerá
+toda a energia que necessitamos.
+
+574
+00:52:36,317 --> 00:52:40,159
+Entretanto, podemos ficar tranquilos
+
+575
+00:52:40,639 --> 00:52:44,480
+sabendo que as nossas casas
+são alimentadas pela energia nuclear.
+
+576
+00:52:44,761 --> 00:52:49,482
+Sei o que estão pensando, mas sabemos
+que a energia nuclear é segura.
+
+577
+00:52:49,762 --> 00:52:53,603
+Gostamos de imaginá-la
+como a nossa vizinha amiga.
+
+578
+00:52:53,883 --> 00:52:57,526
+Esta nossa amiga só pode subsistir
+com a ajuda de grandes subsídios.
+
+579
+00:52:57,805 --> 00:53:02,047
+Escrevam ao seu Congressista, para que
+eles continuem a injetar dólares na...
+
+580
+00:53:02,327 --> 00:53:03,568
+energia nuclear.
+
+581
+00:53:08,449 --> 00:53:11,130
+Tenho de arranjar outro acesso, Ed.
+
+582
+00:53:11,171 --> 00:53:14,211
+Aqui há cães de guarda assassinos,
+ouviu?
+
+583
+00:53:14,412 --> 00:53:15,732
+Afirmativo.
+
+584
+00:53:15,772 --> 00:53:20,654
+- Nordberg? Como estamos?
+- Chegamos ao destino.
+
+585
+00:53:23,735 --> 00:53:25,816
+Vou tentar o telhado.
+
+586
+00:53:31,098 --> 00:53:33,139
+Vou tentar outra vez.
+
+587
+00:54:13,715 --> 00:54:15,835
+- Corta a energia.
+- Certo.
+
+588
+00:54:19,277 --> 00:54:20,878
+Socorro!
+
+589
+00:54:20,918 --> 00:54:22,478
+Responda, Nordberg.
+
+590
+00:54:22,518 --> 00:54:24,759
+Frank, espera. Temos um problema.
+
+591
+00:54:35,283 --> 00:54:36,683
+Olha...
+
+592
+00:54:36,724 --> 00:54:38,884
+é o tenente Drebin.
+
+593
+00:54:38,925 --> 00:54:42,606
+Era para você ter sido morto ontem.
+
+594
+00:54:44,487 --> 00:54:47,968
+Agora, acho que vai ser divertido
+eu mesmo matá-lo.
+
+595
+00:54:48,248 --> 00:54:51,209
+Será lento e doloroso.
+
+596
+00:54:55,651 --> 00:54:57,332
+Que cheiro é este?
+
+597
+00:54:57,372 --> 00:55:01,213
+Deva ser eu.
+Estive nadando no esgoto.
+
+598
+00:55:01,693 --> 00:55:03,294
+Isso é bom demais.
+
+599
+00:55:04,575 --> 00:55:05,975
+Isso é bom demais!
+
+600
+00:55:06,015 --> 00:55:08,776
+É o sinal. Vamos!
+
+601
+00:55:11,177 --> 00:55:13,378
+Está presa. Me ajuda aqui.
+
+602
+00:55:13,578 --> 00:55:16,139
+Ed, me ajuda!
+
+603
+00:55:16,179 --> 00:55:17,300
+Reviste-o.
+
+604
+00:55:22,701 --> 00:55:24,142
+Isso é bom demais.
+
+605
+00:55:28,544 --> 00:55:29,984
+Ele tem num microfone.
+
+606
+00:55:32,585 --> 00:55:33,866
+Amarrem-no.
+
+607
+00:55:33,905 --> 00:55:37,668
+Nunca vai se safar dessa,
+Hapsburg.
+
+608
+00:55:37,947 --> 00:55:39,908
+Seja lá o que for.
+
+609
+00:55:39,948 --> 00:55:43,789
+Está bem, já vai ver.
+Deixe-me apresentar-lhe umas pessoas.
+
+610
+00:55:45,510 --> 00:55:47,911
+O Dr. Meinheimer já conhece, claro.
+
+611
+00:55:49,952 --> 00:55:51,713
+E o Earl Hacker.
+
+612
+00:55:51,753 --> 00:55:54,714
+Seu filho de uma...
+
+613
+00:55:54,754 --> 00:55:57,595
+E queria que conhecesse os Redmonds.
+
+614
+00:55:57,795 --> 00:56:01,156
+Vieram de fora para o fim-de-semana.
+
+615
+00:56:01,436 --> 00:56:06,519
+Vamos para o jantar. Que nada
+aconteça ao Drebin até eu voltar.
+
+616
+00:56:07,799 --> 00:56:12,680
+Quero ter o prazer
+de eu mesmo matá-lo.
+
+617
+00:56:12,961 --> 00:56:15,162
+O prazer é todo meu.
+
+618
+00:56:19,123 --> 00:56:22,164
+Até depois do discurso, tenente.
+
+619
+00:56:47,615 --> 00:56:49,415
+CHARUTO EXPLOSlVO
+REBENTA UMA CABEÇA
+
+620
+00:57:45,436 --> 00:57:47,357
+ESPlRRAR AUMENTA OS SElOS
+
+621
+00:57:50,038 --> 00:57:51,159
+Polícia!
+
+622
+00:57:51,199 --> 00:57:52,720
+Quietos!
+
+623
+00:57:52,759 --> 00:57:54,280
+Aqui!
+
+624
+00:57:55,801 --> 00:57:57,201
+Meu Deus!
+
+625
+00:57:57,241 --> 00:58:00,602
+Olha o que fizeram
+ao Dr. Meinheimer.
+
+626
+00:58:00,882 --> 00:58:02,923
+Está bem, Dr. Meinheimer?
+
+627
+00:58:05,484 --> 00:58:08,005
+Tudo bem. Não tente falar.
+
+628
+00:58:10,607 --> 00:58:14,248
+Não aguento mais.
+
+629
+00:58:14,408 --> 00:58:17,289
+Lixo como você me dá ânsia!
+
+630
+00:58:17,609 --> 00:58:19,810
+Ed?
+
+631
+00:58:19,970 --> 00:58:24,412
+Agora sou só o Zé Povinho.
+Somos só nós dois.
+
+632
+00:58:25,572 --> 00:58:29,694
+Cara a cara. Eu já te ensino
+a não se meter com um inválido.
+
+633
+00:58:36,976 --> 00:58:39,137
+Chega! Ele já teve o bastante.
+
+634
+00:58:39,177 --> 00:58:42,339
+Ajudem o capitão.
+Vamos para o jantar.
+
+635
+00:58:50,302 --> 00:58:52,463
+Sr. Sununu?
+
+636
+00:58:52,503 --> 00:58:55,984
+Não teremos surpresas
+com o discurso.
+
+637
+00:58:56,144 --> 00:58:58,945
+Com certeza ele recomendará ao Presidente
+que siga com a dependência habitual
+
+638
+00:58:59,145 --> 00:59:03,627
+do petróleo e que traga mais dólares
+para alimentar a energia nuclear.
+
+639
+00:59:04,027 --> 00:59:09,189
+Logo teremos mais. Também, tudo sobre
+os animais à solta pela cidade...
+
+640
+00:59:09,389 --> 00:59:14,111
+Esta é a noite mais importante
+da minha carreira. Não quero erros!
+
+641
+00:59:14,391 --> 00:59:18,592
+E se virem o Drebin ou os outros
+do esquadrão, prendam-nos logo!
+
+642
+00:59:20,233 --> 00:59:23,874
+Disse à Jane para
+nos encontrar nos fundos do hotel.
+
+643
+00:59:24,155 --> 00:59:25,196
+Onde é?
+
+644
+00:59:25,235 --> 00:59:28,797
+É nos fundos. Ela vai
+abrir a porta às 7:30 em ponto.
+
+645
+00:59:28,957 --> 00:59:30,357
+E o Hapsburg?
+
+646
+00:59:30,397 --> 00:59:34,239
+Só espero que ela não esbarre
+com ele. Vamos embora.
+
+647
+00:59:34,719 --> 00:59:36,079
+SALÃO PRESIDENClAL
+
+648
+00:59:49,405 --> 00:59:51,486
+Jane!
+
+649
+00:59:51,525 --> 00:59:54,887
+O que faz aqui fora?
+A festa é lá dentro.
+
+650
+00:59:55,087 --> 00:59:56,928
+Quentin.
+
+651
+00:59:56,967 --> 01:00:01,289
+Vim só tomar ar fresco.
+
+652
+01:00:04,090 --> 01:00:07,452
+Fui criada no lago Erie.
+Não há nada igual.
+
+653
+01:00:07,732 --> 01:00:09,612
+Não duvido.
+
+654
+01:00:09,653 --> 01:00:13,974
+Foi uma sorte encontrá-la.
+Sente-se na minha mesa.
+
+655
+01:00:27,379 --> 01:00:30,100
+- Deve ter acontecido alguma coisa.
+- Bernardo, tem a chave?
+
+656
+01:00:33,141 --> 01:00:35,663
+Tive uma ideia melhor. Vem comigo.
+
+657
+01:00:36,703 --> 01:00:40,544
+A vossa atenção, por favor.
+Senhoras e senhores...
+
+658
+01:00:41,024 --> 01:00:43,706
+Mil pontos de...luz! Luz.
+
+659
+01:00:43,906 --> 01:00:48,507
+Recessão - má. Recuperação - boa.
+Acho que já decorei.
+
+660
+01:00:48,787 --> 01:00:54,069
+Senhoras e senhores,
+o Presidente dos Estados Unidos.
+
+661
+01:01:53,172 --> 01:01:55,653
+Acho que é melhor
+entrarmos em ação.
+
+662
+01:01:55,934 --> 01:02:00,175
+Tens razão. Uma coisa mais animada
+com ritmo, tipo "Guantanamera".
+
+663
+01:02:00,456 --> 01:02:01,856
+Não!
+
+664
+01:02:01,896 --> 01:02:04,097
+O Hacker com o discurso!
+
+665
+01:02:04,297 --> 01:02:09,379
+Certo! Vou interceptar o Hacker.
+Prepare o doutor para o discurso.
+
+666
+01:02:26,385 --> 01:02:27,585
+Bravo!
+
+667
+01:02:27,626 --> 01:02:29,906
+Bis! Bis!
+
+668
+01:02:38,350 --> 01:02:40,511
+- Dr. Meinheimer!
+- Sim?
+
+669
+01:02:40,551 --> 01:02:41,952
+Ou antes...
+
+670
+01:02:41,991 --> 01:02:43,392
+Hacker?
+
+671
+01:02:43,432 --> 01:02:45,073
+Drebin!
+
+672
+01:02:47,874 --> 01:02:51,675
+Olha só o que ele está fazendo
+com aquele inválido! Ninguém ajuda?
+
+673
+01:02:52,075 --> 01:02:53,396
+Sim!
+
+674
+01:02:53,436 --> 01:02:55,156
+Vamos!
+
+675
+01:02:58,598 --> 01:03:00,999
+É melhor ajudarmos a este homem.
+
+676
+01:03:02,519 --> 01:03:08,082
+Obrigado. É para mim
+uma grande honra estar aqui.
+
+677
+01:03:08,401 --> 01:03:13,764
+Esta noite, o Dr. Albert Meinheimer,
+ao olhar para o futuro, concluiu
+
+678
+01:03:14,044 --> 01:03:20,206
+que a nossa dependência do petróleo
+importado irá sufocar o orçamento.
+
+679
+01:03:20,566 --> 01:03:25,928
+Terão de ser feitos cortes
+e alguns levarão um rude golpe.
+
+680
+01:03:26,249 --> 01:03:29,770
+Mas nós cortaremos
+até atingir o alvo.
+
+681
+01:03:30,090 --> 01:03:33,612
+É a única maneira de avançarmos.
+
+682
+01:03:33,811 --> 01:03:37,653
+Apresento-vos
+o Dr. Albert S. Meinheimer.
+
+683
+01:03:50,418 --> 01:03:52,098
+Meu Deus!
+
+684
+01:03:52,139 --> 01:03:54,059
+Ele pode andar!
+
+685
+01:03:55,580 --> 01:03:56,540
+É um milagre!
+
+686
+01:03:58,581 --> 01:04:01,622
+Eu posso andar!
+
+687
+01:04:02,903 --> 01:04:04,423
+Sai de cima de mim!
+
+688
+01:04:07,664 --> 01:04:09,905
+Eh! Volte aqui!
+
+689
+01:04:10,946 --> 01:04:14,307
+Eu... sim, parece estar tudo bem.
+
+690
+01:04:14,587 --> 01:04:18,148
+Sem mais delongas,
+apresento-vos de novo
+
+691
+01:04:18,349 --> 01:04:23,790
+o muito estimado
+Dr. Albert S. Meinheimer.
+
+692
+01:04:36,555 --> 01:04:38,756
+Alto e pare o baile!
+
+693
+01:04:38,957 --> 01:04:43,159
+Não dêem ouvidos a este homem.
+É um impostor. Eu tenho provas.
+
+694
+01:04:43,478 --> 01:04:48,640
+O verdadeiro doutor
+tem uma mancha aqui!
+
+695
+01:04:52,202 --> 01:04:53,242
+Credo!
+
+696
+01:04:57,004 --> 01:04:59,244
+É falsa, com certeza!
+
+697
+01:04:59,285 --> 01:05:00,845
+Veremos!
+
+698
+01:05:03,246 --> 01:05:04,687
+Drebin!
+
+699
+01:05:21,173 --> 01:05:23,414
+Alto! O Frank tem razão!
+
+700
+01:05:23,453 --> 01:05:26,655
+Há aqui um impostor, sim,
+mas é este homem.
+
+701
+01:05:28,736 --> 01:05:32,977
+Acaba de nos entregar uma confissão
+assinada que revela o envolvimento
+
+702
+01:05:33,257 --> 01:05:35,178
+daquele homem!
+
+703
+01:05:38,259 --> 01:05:39,660
+Não. Não.
+
+704
+01:05:39,700 --> 01:05:42,661
+Daquele homem. O Quentin Hapsburg.
+
+705
+01:05:45,823 --> 01:05:47,943
+- Desapareceram.
+- Vamos!
+
+706
+01:05:55,906 --> 01:05:57,307
+Me solta!
+
+707
+01:05:57,347 --> 01:05:58,587
+O telhado.
+
+708
+01:05:59,628 --> 01:06:02,910
+Anda, Frank. Anda!
+
+709
+01:06:03,189 --> 01:06:04,829
+Me solta!
+
+710
+01:06:10,672 --> 01:06:15,554
+Vou ler o meu relatório sobre
+a necessidade duma política nacional
+
+711
+01:06:15,874 --> 01:06:19,515
+baseado na eficiência da energia
+e nas fontes de energia renovável.
+
+712
+01:06:26,598 --> 01:06:28,239
+Lá!
+
+713
+01:06:32,355 --> 01:06:33,315
+Protejam-se!
+
+714
+01:07:16,697 --> 01:07:19,459
+Me dê cobertura. Vou entrar.
+
+715
+01:07:46,029 --> 01:07:47,550
+Pronto!
+
+716
+01:07:47,590 --> 01:07:49,790
+Onde está o Hapsburg?
+
+717
+01:07:51,031 --> 01:07:55,232
+- Foi atingido?
+- Não. Está pisando no meu saco.
+
+718
+01:07:55,433 --> 01:07:56,753
+Desculpe.
+
+719
+01:07:56,793 --> 01:07:59,394
+- Onde está ele?
+- Tarde demais.
+
+720
+01:07:59,554 --> 01:08:02,756
+O Hapsburg tem o plano B no...
+
+721
+01:08:03,036 --> 01:08:05,317
+no...
+
+722
+01:08:06,277 --> 01:08:07,197
+Onde?
+
+723
+01:08:07,237 --> 01:08:11,078
+Onde?
+Bem, quem mais está morrendo?
+
+724
+01:08:13,960 --> 01:08:15,200
+Vamos lá.
+
+725
+01:08:17,041 --> 01:08:19,682
+- Fala.
+- Tarde demais.
+
+726
+01:08:19,722 --> 01:08:23,283
+- lsso já foi dito.
+- Onde é que estávamos?
+
+727
+01:08:23,443 --> 01:08:26,804
+- "O Hapsburg tem o Plano B no..."
+- Ah, sim.
+
+728
+01:08:27,085 --> 01:08:29,686
+O Hapsburg tem o Plano B no...
+
+729
+01:08:29,886 --> 01:08:32,247
+- no...
+- Onde?
+
+730
+01:08:32,287 --> 01:08:35,168
+Onde? Fale, verme desprezível.
+
+731
+01:08:35,368 --> 01:08:39,009
+Olhe, se é para me xingar,
+nem pensar.
+
+732
+01:08:43,011 --> 01:08:45,332
+Estou aqui mesmo, Drebin.
+
+733
+01:08:47,812 --> 01:08:49,654
+Largue a arma.
+
+734
+01:08:54,656 --> 01:08:58,497
+Estava perguntando sobre o Plano B.
+
+735
+01:08:58,657 --> 01:09:01,458
+Trata-se da detonação de
+uma modesta bomba nuclear.
+
+736
+01:09:01,739 --> 01:09:07,780
+O Dr. Meinheimer pode falar o quanto quiser,
+que ninguém com vida o escutará.
+
+737
+01:09:08,061 --> 01:09:10,382
+Sequência de detonação ativada.
+
+738
+01:09:10,581 --> 01:09:13,943
+Só eu sei o código
+que interrompe a sequência.
+
+739
+01:09:14,223 --> 01:09:17,184
+Dentro de 10 minutos,
+este edifício e toda mundo nele
+
+740
+01:09:17,384 --> 01:09:19,465
+ficarão reduzidos a pó.
+
+741
+01:09:19,505 --> 01:09:23,226
+Eu estarei em segurança,
+no meu helicóptero.
+
+742
+01:09:23,506 --> 01:09:27,909
+Amanhã, estarei no Botswana caçando
+rinocerontes. Que acha disso?
+
+743
+01:09:27,948 --> 01:09:31,189
+Parece que sabe dar vazão à sua ira.
+
+744
+01:09:32,350 --> 01:09:35,591
+Não vai se safar desta
+com este discurso barato.
+
+745
+01:09:35,792 --> 01:09:40,313
+Força. Pode me ameaçar.
+como sempre fez com o povo americano.
+
+746
+01:09:40,593 --> 01:09:44,995
+Faz parte duma espécie quase extinta!
+Que sabe nomear todos os 50 estados.
+
+747
+01:09:45,315 --> 01:09:50,477
+A verdade dói. Talvez não tanto como
+saltar para uma bicicleta sem banco,
+
+748
+01:09:50,757 --> 01:09:51,998
+mas dói.
+
+749
+01:09:52,318 --> 01:09:57,680
+Já chega de conversa.
+Algum último desejo, tenente?
+
+750
+01:09:58,040 --> 01:09:59,881
+Me dê a arma.
+
+751
+01:10:01,121 --> 01:10:04,282
+lsso não. Não vou cair nessa.
+
+752
+01:10:04,483 --> 01:10:05,443
+Mais devagar!
+
+753
+01:10:21,289 --> 01:10:23,930
+Explosão em 6 minutos.
+
+754
+01:10:23,970 --> 01:10:26,451
+Agora fale. Me dê o código!
+
+755
+01:10:26,651 --> 01:10:29,412
+Está bem, vou falar.
+São seis números.
+
+756
+01:10:29,613 --> 01:10:31,173
+Dois-um-sete...
+
+757
+01:10:34,895 --> 01:10:36,615
+Valeu!
+
+758
+01:10:51,500 --> 01:10:53,902
+- Tem certeza que está bem?
+- Estou ótima.
+
+759
+01:10:54,102 --> 01:10:56,063
+- E você?
+- Estou ótimo.
+
+760
+01:10:56,102 --> 01:10:59,343
+Mas se não desarmarmos isto
+dentro de 5 minutos, adeus.
+
+761
+01:10:59,664 --> 01:11:03,506
+- Meu Deus! Temos de avisá-los!
+- Sim, certo.
+
+762
+01:11:03,985 --> 01:11:07,787
+- É melhor você ir.
+- Não, vou ficar aqui contigo.
+
+763
+01:11:07,987 --> 01:11:09,107
+Mas, Jane...
+
+764
+01:11:09,147 --> 01:11:13,389
+Frank, se você ficar em pedaços,
+quero estar com você.
+
+765
+01:11:15,870 --> 01:11:18,271
+Jane, eu te prometo,
+
+766
+01:11:18,471 --> 01:11:24,114
+se nos safarmos, nunca mais deixo
+o meu trabalho interferir entre nós.
+
+767
+01:11:28,235 --> 01:11:30,916
+A bomba! Nordberg, vamos embora!
+
+768
+01:11:31,116 --> 01:11:33,477
+Explosão em 4 minutos.
+
+769
+01:11:33,517 --> 01:11:35,318
+Que é que fazemos?
+
+770
+01:11:35,358 --> 01:11:37,438
+O manual do usuário.
+Vê se acha alguma coisa.
+
+771
+01:11:38,599 --> 01:11:42,360
+Olha! Para anular código,
+aperte asterisco.
+
+772
+01:11:44,641 --> 01:11:48,483
+A velocidade
+da sequência foi duplicada.
+
+773
+01:11:48,962 --> 01:11:51,244
+Explosão em 2 minutos.
+
+774
+01:11:51,283 --> 01:11:56,246
+Assim, em vez de dispender
+2.500 milhões de dólares
+
+775
+01:11:56,526 --> 01:11:59,607
+em pesquisas na remoção
+do lixo nuclear,
+
+776
+01:12:00,968 --> 01:12:07,690
+o governo, por apenas 500 milhões,
+o preço dum avião nuclear,
+
+777
+01:12:07,970 --> 01:12:12,932
+poderia reduzir
+o preço dos painéis solares em 90%.
+
+778
+01:12:13,252 --> 01:12:17,654
+Já dizia o Einstein...
+
+779
+01:12:17,934 --> 01:12:20,255
+Eh, acordem!
+
+780
+01:12:20,415 --> 01:12:24,256
+Depressa, pelo amor de Deus!
+lsto vai explodir!
+
+781
+01:12:26,017 --> 01:12:27,498
+Eu apago as luzes.
+
+782
+01:12:27,538 --> 01:12:29,939
+..um plano de energia
+a nível nacional.
+
+783
+01:12:30,139 --> 01:12:32,099
+Agora, para melhor ilustrar...
+
+784
+01:12:32,140 --> 01:12:35,981
+Toma, leia isto. É uma emergência!
+
+785
+01:12:36,341 --> 01:12:38,102
+OS BOLINHOS DO AMOR
+
+786
+01:12:39,223 --> 01:12:46,145
+"As suas mãos robustas e másculas
+exploravam todas as reentrâncias
+
+787
+01:12:46,545 --> 01:12:49,427
+"da sua femininidade acetinada,
+
+788
+01:12:49,586 --> 01:12:52,347
+"os seus corpos
+ondulantes retorcendo,
+
+789
+01:12:52,388 --> 01:12:56,709
+"em sensual uníssono, a cada estocada
+do guerreiro de cabeça púrpura,
+
+790
+01:12:56,989 --> 01:13:00,111
+"no buraco fremente
+do seu pudim do amor..."
+
+791
+01:13:00,150 --> 01:13:04,672
+Atenção! Formem uma fila e
+dirijam-se calmamemte para as saídas.
+
+792
+01:13:04,952 --> 01:13:09,834
+lsso, isso. Assim mesmo.
+Não corram, andem só em fila indiana.
+
+793
+01:13:10,114 --> 01:13:12,996
+Se tivermos calma, ninguém vai se machucar
+
+794
+01:13:13,195 --> 01:13:16,757
+com a grande bomba
+que está prestes a explodir.
+
+795
+01:13:24,320 --> 01:13:27,201
+É um livro de culinária! Culinária!
+
+796
+01:13:28,561 --> 01:13:30,643
+Explosão: vinte segundos.
+
+797
+01:13:32,203 --> 01:13:33,923
+O que vamos fazer?
+
+798
+01:13:36,325 --> 01:13:38,285
+- Prendeu minha manga!
+- Não!
+
+799
+01:13:38,325 --> 01:13:40,486
+10... 9...
+
+800
+01:13:40,526 --> 01:13:42,046
+8... 7...
+
+801
+01:13:42,086 --> 01:13:43,047
+6...
+
+802
+01:13:43,727 --> 01:13:46,008
+5... 4...
+
+803
+01:13:46,968 --> 01:13:48,289
+3... 2...
+
+804
+01:13:48,329 --> 01:13:49,649
+- Vamos!
+- 1 ...
+
+805
+01:13:53,611 --> 01:13:54,931
+Frank! Olha!
+
+806
+01:13:56,772 --> 01:13:58,493
+Você conseguiu!
+
+807
+01:14:07,976 --> 01:14:11,338
+Obrigado, Sr. Presidente,
+pelas suas simpáticas palavras.
+
+808
+01:14:11,538 --> 01:14:14,019
+Não faço mais que a minha obrigação.
+
+809
+01:14:14,219 --> 01:14:18,061
+Frank, por favor pense se não quer ocupar
+aquele posto que vou a criar.
+
+810
+01:14:18,341 --> 01:14:21,942
+São talvez longas horas de trabalho
+e noitadas cheias de perigo,
+
+811
+01:14:21,982 --> 01:14:25,503
+rodeado da pior gentalha
+que a sociedade tem para oferecer.
+
+812
+01:14:25,544 --> 01:14:28,984
+Você me quer no seu gabinete?
+
+813
+01:14:29,265 --> 01:14:30,785
+Não.
+
+814
+01:14:30,826 --> 01:14:36,108
+Quero que comande um novo 
+Esquadrão Federal de Polícia.
+
+815
+01:14:39,629 --> 01:14:41,430
+Que grande honra!
+
+816
+01:14:41,469 --> 01:14:44,351
+É aquilo que você sempre quis
+Parabéns.
+
+817
+01:14:44,551 --> 01:14:46,471
+Bom trabalho, Frank!
+
+818
+01:14:49,513 --> 01:14:51,233
+Obrigado, Sr. Presidente.
+
+819
+01:14:53,554 --> 01:14:55,515
+Sinto-me muito lisonjeado.
+
+820
+01:14:55,555 --> 01:14:57,636
+Sempre sonhei com este dia,
+
+821
+01:14:57,676 --> 01:15:03,158
+mas receio não poder aceitar
+a sua oferta, Sr. Presidente.
+
+822
+01:15:03,438 --> 01:15:06,959
+Sabe, esta semana aprendi uma lição.
+
+823
+01:15:07,000 --> 01:15:10,521
+Sobre a Terra. Sobre o amor.
+
+824
+01:15:10,721 --> 01:15:16,083
+O amor é como a camada de ozônio.
+Só se sente a sua falta quando não se tem mais.
+
+825
+01:15:16,483 --> 01:15:22,165
+Arrebentar com um suspeito em fuga com
+a minha Magnum 44 era tudo para mim.
+
+826
+01:15:22,325 --> 01:15:24,927
+Eu adorava aquilo.
+E quem não adoraria?
+
+827
+01:15:27,128 --> 01:15:31,649
+Mas agora quero ser
+um Tenente de Polícia Ambiental.
+
+828
+01:15:36,171 --> 01:15:40,292
+Quero um mundo que permita ao Frank
+Júnior, e a todos os Frank Júniores,
+
+829
+01:15:40,572 --> 01:15:42,653
+poderem sentar-se
+à sombra de uma árvore frondosa,
+
+830
+01:15:42,694 --> 01:15:45,655
+respirarem o ar, nadarem no mar,
+
+831
+01:15:45,854 --> 01:15:49,696
+e irem ao supermercado
+sem precisar de intérprete.
+
+832
+01:15:54,178 --> 01:15:58,499
+Quero um mundo em que possa comer
+uma lontra marinha sem ficar doente.
+
+833
+01:16:01,301 --> 01:16:05,503
+Um mundo no qual os Democratas
+nomeiem um candidato digno do voto.
+
+834
+01:16:09,144 --> 01:16:12,505
+Pode já não ser para mim,
+mas acima de tudo
+
+835
+01:16:12,785 --> 01:16:18,267
+quero um mundo no qual possa acordar
+junto desta mulher, que eu amo.
+
+836
+01:16:23,349 --> 01:16:25,510
+- Frank!
+- Jane?
+
+837
+01:16:25,550 --> 01:16:29,111
+- Frank! Frank!
+- Jane, quer casar comigo?
+
+838
+01:16:29,391 --> 01:16:31,512
+Sim, claro que quero casar com você!
+
+839
+01:16:38,435 --> 01:16:40,395
+Queremos o Frank!
+
+840
+01:16:40,436 --> 01:16:42,357
+Frank, aqui atrás!
+
+841
+01:16:50,520 --> 01:16:53,481
+George! Socorro!
+
+842
+01:16:54,305 --> 01:17:00,377
+-==[ www.OpenSubtitles.org ]==-

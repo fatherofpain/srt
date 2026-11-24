@@ -1,0 +1,5595 @@
+1
+00:00:01,250 --> 00:00:02,905
+<i>Captei-o de novo.</i>
+
+2
+00:00:02,906 --> 00:00:04,788
+<i>Aqui é o 17-7.</i>
+
+3
+00:00:04,789 --> 00:00:06,921
+<i>Confirmo, o objeto aparenta
+estar parado.</i>
+
+4
+00:00:08,188 --> 00:00:11,030
+<i>Está a quatro km
+no meu radar agora.</i>
+
+5
+00:00:11,695 --> 00:00:13,385
+<i>Altitude de 17 mil pés.</i>
+
+6
+00:00:13,813 --> 00:00:16,561
+<i>Entendido, Tom. Não consegui
+distinguir o que era.</i>
+
+7
+00:00:16,562 --> 00:00:18,200
+<i>- Você não o viu?
+- Confirmo.</i>
+
+8
+00:00:18,201 --> 00:00:20,124
+<i>Certo, vou voltar.</i>
+
+9
+00:00:22,000 --> 00:00:28,074
+-== [ www.OpenSubtitles.org ] ==-
+
+10
+00:00:36,508 --> 00:00:39,710
+WRANGELL, ALASCA
+
+11
+00:00:59,476 --> 00:01:00,889
+Vou seguir vocês, pessoal.
+
+12
+00:01:00,890 --> 00:01:03,265
+- Vejo você na cidade.
+- Você vai pagar.
+
+13
+00:01:19,601 --> 00:01:21,347
+Atividade na orla exterior.
+
+14
+00:01:21,348 --> 00:01:23,710
+<i>- Área limpa.</i>
+- Mude de canal.
+
+15
+00:01:31,910 --> 00:01:34,690
+- Captamos três, senhor.
+<i>- Todos os veículos, respondam?</i>
+
+16
+00:01:34,691 --> 00:01:36,512
+Permissão para enviar
+reforço.
+
+17
+00:01:37,012 --> 00:01:38,706
+<i>- Autorizado.</i>
+- Enviando reforço
+
+18
+00:01:38,707 --> 00:01:41,394
+para o setor três, unidades
+aproximando rapidamente.
+
+19
+00:02:05,004 --> 00:02:06,668
+Meu Deus,
+vocês estão bem?
+
+20
+00:02:07,691 --> 00:02:09,043
+Estão bem?
+
+21
+00:02:10,191 --> 00:02:13,236
+Confirmando, atividade severa
+está em alcance.
+
+22
+00:02:13,237 --> 00:02:15,201
+Aguardem os sistemas
+abaixo da linha,
+
+23
+00:02:15,202 --> 00:02:16,602
+continuar em todo o resto.
+
+24
+00:02:18,805 --> 00:02:20,207
+Tudo bem?
+
+25
+00:02:34,319 --> 00:02:36,121
+Rápido!
+Repito,
+
+26
+00:02:36,122 --> 00:02:38,801
+<i>sistemas abaixo da linha,
+para o setor três!</i>
+
+27
+00:03:47,400 --> 00:03:51,401
+Equipe inSanos
+apresenta
+
+28
+00:03:51,402 --> 00:03:55,402
+Legenda
+Artaquilus
+
+29
+00:03:55,403 --> 00:03:59,403
+Revisão
+repta
+
+30
+00:04:07,674 --> 00:04:11,245
+DIAS ATUAIS
+
+31
+00:04:39,452 --> 00:04:43,276
+NASA JPL,
+PASADENA, CALIFÓRNIA
+
+32
+00:04:53,673 --> 00:04:56,967
+LABORATÓRIO DE PROPULSÃO A JATO
+EDIFÍCIO DE TECNOLOGIA
+
+33
+00:05:22,115 --> 00:05:23,495
+Oi, é o seu turno.
+
+34
+00:05:39,206 --> 00:05:41,997
+Pode ou não
+estar criptografado.
+
+35
+00:05:42,481 --> 00:05:44,434
+Isso nunca
+me impediu antes.
+
+36
+00:05:46,278 --> 00:05:50,396
+8, 36, 14,5...
+
+37
+00:05:50,397 --> 00:05:51,950
+Não, este é o Júpiter.
+
+38
+00:05:53,060 --> 00:05:54,543
+Não está em Leão.
+
+39
+00:06:02,096 --> 00:06:03,434
+Encontrei.
+
+40
+00:06:04,270 --> 00:06:07,403
+Isso foi muito rápido.
+
+41
+00:06:08,559 --> 00:06:13,292
+185442.8 de -21,2 e 20,2.
+
+42
+00:06:13,293 --> 00:06:14,786
+Foi bem em frente
+ao Plutão.
+
+43
+00:06:15,293 --> 00:06:16,825
+Isto é incrível.
+
+44
+00:06:17,244 --> 00:06:18,816
+Com exceção
+que não foi eu.
+
+45
+00:06:18,817 --> 00:06:21,129
+- O quê?
+- Espere.
+
+46
+00:06:24,403 --> 00:06:27,645
+- O que vocês estão fazendo?
+- É aquele sinal do Canadá.
+
+47
+00:06:28,481 --> 00:06:29,809
+Sério?
+
+48
+00:06:32,323 --> 00:06:34,214
+Não foi você?
+Não, é aquele sinal,
+
+49
+00:06:34,215 --> 00:06:35,886
+que já falei a vocês,
+do Canadá.
+
+50
+00:06:35,887 --> 00:06:39,239
+Estamos recebendo, mas não há
+estações de satélite lá.
+
+51
+00:06:40,614 --> 00:06:42,082
+Isso é um jogo nosso,
+
+52
+00:06:42,083 --> 00:06:44,902
+eu gravei um áudio,
+enviei e ele precisa encontrar.
+
+53
+00:06:44,903 --> 00:06:47,112
+Ele gravou um e vice-versa.
+
+54
+00:06:47,113 --> 00:06:49,395
+- Estamos empatados.
+- Estou ganhando por um.
+
+55
+00:06:50,106 --> 00:06:51,927
+Usando nossos satélites?
+
+56
+00:06:51,928 --> 00:06:53,247
+Sim.
+
+57
+00:06:53,248 --> 00:06:55,315
+É, eu também não estou vendo
+nada lá.
+
+58
+00:06:56,574 --> 00:06:58,386
+Deveríamos enviar isso
+de Cassini?
+
+59
+00:06:58,387 --> 00:06:59,692
+Claro.
+
+60
+00:07:02,582 --> 00:07:05,126
+Chamando o ET,
+por favor telefone minha casa.
+
+61
+00:07:05,127 --> 00:07:07,177
+ET, telefone minha casa?
+
+62
+00:07:07,178 --> 00:07:08,599
+Chamando Beck e Isaac.
+
+63
+00:07:08,600 --> 00:07:09,918
+O quê?
+
+64
+00:07:12,394 --> 00:07:13,707
+Acabou.
+
+65
+00:07:39,189 --> 00:07:40,788
+RECEBENDO DADOS
+
+66
+00:07:47,137 --> 00:07:48,537
+DADOS RECEBIDOS
+
+67
+00:08:07,784 --> 00:08:09,184
+LOCALIZAR
+
+68
+00:08:11,883 --> 00:08:13,598
+ORIGEM DESCONHECIDA
+
+69
+00:08:24,489 --> 00:08:26,004
+<i>Lembro da aula de ciências,</i>
+
+70
+00:08:26,005 --> 00:08:28,058
+<i>são necessários dez músculos
+para sorrir,</i>
+
+71
+00:08:29,009 --> 00:08:30,609
+<i>mas só seis
+para franzir a testa.</i>
+
+72
+00:08:31,796 --> 00:08:33,598
+<i>Porque não volta atrás?</i>
+
+73
+00:08:34,508 --> 00:08:36,131
+Não posso voltar atrás.
+
+74
+00:08:36,132 --> 00:08:37,638
+Nunca é tarde demais.
+
+75
+00:08:39,720 --> 00:08:41,554
+É muito cedo, talvez.
+
+76
+00:08:41,555 --> 00:08:42,934
+O que quer dizer com isso?
+
+77
+00:08:43,278 --> 00:08:46,223
+Que talvez só precise
+de algum tempo.
+
+78
+00:08:46,224 --> 00:08:48,793
+Eventualmente o farei,
+mas agora tenho outras coisas
+
+79
+00:08:48,794 --> 00:08:51,380
+- em mente.
+- Como o quê?
+
+80
+00:08:55,278 --> 00:08:56,606
+Olha.
+
+81
+00:08:56,977 --> 00:08:59,356
+Você parece estar
+se curando fisicamente.
+
+82
+00:08:59,998 --> 00:09:01,308
+Quero que tente algo.
+
+83
+00:09:01,309 --> 00:09:03,872
+Já que gosta de usar
+sua câmera,
+
+84
+00:09:04,341 --> 00:09:06,269
+acho que será
+saudável para você,
+
+85
+00:09:06,270 --> 00:09:08,200
+tentar fazer um vídeo diário.
+
+86
+00:09:08,882 --> 00:09:11,316
+Talvez,
+só cinco minutos por dia,
+
+87
+00:09:11,317 --> 00:09:13,721
+quando estiver sozinho
+com sua câmera.
+
+88
+00:09:13,722 --> 00:09:16,293
+Pode dizer o que quiser,
+qualquer sentimento seu.
+
+89
+00:09:16,294 --> 00:09:17,926
+Um diário?
+
+90
+00:09:17,927 --> 00:09:19,707
+Sei que pode ser uma bobagem.
+
+91
+00:09:19,708 --> 00:09:21,608
+Mas estudos têm mostrado
+que isso traz
+
+92
+00:09:21,609 --> 00:09:24,317
+benefícios concretos para
+a auto-cura.
+
+93
+00:09:24,798 --> 00:09:28,419
+É só outra forma de expressar
+seus sentimentos, sabe,
+
+94
+00:09:28,878 --> 00:09:30,724
+de clarear sua mente.
+
+95
+00:09:36,184 --> 00:09:37,801
+Olá pessoal,
+sou o Isaac Cypress,
+
+96
+00:09:37,802 --> 00:09:39,285
+vlog número 46.
+
+97
+00:09:39,286 --> 00:09:41,389
+Faltam 30 anos luz a mais.
+
+98
+00:09:41,390 --> 00:09:42,848
+Não sei se
+encontraremos algo,
+
+99
+00:09:42,849 --> 00:09:44,884
+mas tenho orgulho
+de representar a Terra,
+
+100
+00:09:44,885 --> 00:09:46,707
+e da humanidade daqui.
+
+101
+00:09:46,708 --> 00:09:48,825
+E nunca sei o que falar
+nessas coisas.
+
+102
+00:09:50,177 --> 00:09:51,699
+Não sei com quem
+estou falando.
+
+103
+00:09:51,700 --> 00:09:53,349
+Se alguém vai assistir
+a isso.
+
+104
+00:09:54,294 --> 00:09:55,677
+O que há lá fora por aí.
+
+105
+00:09:56,809 --> 00:09:58,230
+Mãe, amo você.
+
+106
+00:09:59,403 --> 00:10:01,020
+Darryl, me desculpe.
+
+107
+00:10:01,332 --> 00:10:04,927
+Seis bilhões de anos-luz mudam
+muito suas perspectivas.
+
+108
+00:10:06,197 --> 00:10:09,669
+Pai, estava me perguntando
+se entrariamos outra dimensão.
+
+109
+00:10:09,998 --> 00:10:11,648
+Uma onde você ainda
+estaria vivo.
+
+110
+00:10:14,817 --> 00:10:18,427
+Pensei sobre o que eu diria
+se o visse novamente.
+
+111
+00:10:19,177 --> 00:10:20,879
+Se sequer saberia
+quem eu sou,
+
+112
+00:10:20,880 --> 00:10:23,239
+se aquela versão de você
+saberia quem eu era.
+
+113
+00:10:27,279 --> 00:10:29,099
+E...
+
+114
+00:10:31,856 --> 00:10:34,091
+É estranho não ter
+você por perto.
+
+115
+00:10:39,325 --> 00:10:41,341
+Então veja só,
+consegui chegar ao topo.
+
+116
+00:10:42,805 --> 00:10:46,013
+Demorei algumas horas, provável
+que eu pegue carona para descer.
+
+117
+00:10:46,813 --> 00:10:49,606
+Espero que tenha gatinhas
+descendo e não gente estranha.
+
+118
+00:10:50,474 --> 00:10:53,325
+Vou fazer sinal
+caso passe alguma caminhonete.
+
+119
+00:11:20,747 --> 00:11:22,409
+<i>A apresentação será feita por...</i>
+
+120
+00:11:22,410 --> 00:11:25,615
+<i>Temos feito muito progresso
+no nosso projeto, Millennium II.</i>
+
+121
+00:11:25,616 --> 00:11:28,264
+Não quero me gabar,
+mas é o maior feito
+
+122
+00:11:28,265 --> 00:11:29,991
+desde pão fatiado,
+
+123
+00:11:29,992 --> 00:11:32,899
+se pão fatiado pudesse mesmo,
+levar humanos a Marte,
+
+124
+00:11:32,900 --> 00:11:34,490
+então estou...
+
+125
+00:11:34,491 --> 00:11:38,601
+Eu muito animado com isso.
+
+126
+00:16:31,399 --> 00:16:33,656
+<i>Um meteorito com longo
+rastro de fumaça atrás,</i>
+
+127
+00:16:33,657 --> 00:16:36,229
+<i>apareceu ontem sobre os céus
+de Los Angeles,</i>
+
+128
+00:16:36,230 --> 00:16:38,297
+<i>O professor Gary Ballmer,
+da Califórnia,</i>
+
+129
+00:16:38,298 --> 00:16:40,178
+<i>acredita
+que a rocha espacial</i>
+
+130
+00:16:40,179 --> 00:16:43,494
+<i>veio do cinturão de asteróides
+entre Marte e Júpiter.</i>
+
+131
+00:16:43,495 --> 00:16:45,789
+<i>Sem informação no local
+exato do impacto,</i>
+
+132
+00:16:45,790 --> 00:16:47,390
+<i>os cientistas estão...</i>
+
+133
+00:16:47,391 --> 00:16:48,709
+Precisamos de todos.
+
+134
+00:16:48,710 --> 00:16:51,681
+Temos dois dias para coletar
+tantas amostras quantas...
+
+135
+00:16:51,682 --> 00:16:53,009
+onde está o Isaac?
+
+136
+00:16:54,112 --> 00:16:56,220
+Não sei,
+não o vimos o dia todo.
+
+137
+00:17:08,116 --> 00:17:10,725
+TRÊS DIAS DEPOIS
+
+138
+00:21:52,806 --> 00:21:55,317
+<i>Você apresenta sintomas
+de desidratação,</i>
+
+139
+00:21:55,318 --> 00:21:57,985
+<i>recomendo descansar</i>
+por alguns dias,
+
+140
+00:21:57,986 --> 00:21:59,799
+e beber muita água.
+
+141
+00:21:59,800 --> 00:22:02,931
+Porém,
+o raio-x de seus braços,
+
+142
+00:22:03,324 --> 00:22:05,892
+revelaram algo
+muito estranho.
+
+143
+00:22:06,994 --> 00:22:09,563
+Seu braço aparenta ter
+uma fratura.
+
+144
+00:22:09,564 --> 00:22:12,806
+Perfeitamente reta,
+fina como um fio de cabelo.
+
+145
+00:22:13,384 --> 00:22:17,869
+E em um ângulo reto quase
+perfeito por todo sua extensão.
+
+146
+00:22:20,267 --> 00:22:23,705
+Esta é uma fratura normal.
+
+147
+00:22:24,111 --> 00:22:26,393
+Você vê, é imperfeita.
+
+148
+00:22:26,394 --> 00:22:28,174
+Bem diferente da sua.
+
+149
+00:22:28,175 --> 00:22:30,955
+Você disse que nunca quebrou
+seu braço antes?
+
+150
+00:22:31,298 --> 00:22:32,626
+Não.
+
+151
+00:22:34,621 --> 00:22:36,611
+Parece que o seu braço foi
+
+152
+00:22:37,033 --> 00:22:39,462
+perfeitamente cortado
+por um todo.
+
+153
+00:22:39,787 --> 00:22:41,187
+Deixe-me ver.
+
+154
+00:22:47,087 --> 00:22:50,913
+Incrível. Nenhum sinal
+de tecido cicatrizado.
+
+155
+00:22:50,914 --> 00:22:52,525
+Está perfeitamente normal.
+
+156
+00:22:53,277 --> 00:22:54,619
+Faremos o seguinte.
+
+157
+00:22:55,189 --> 00:22:57,931
+Vamos revisar o raio-x
+um pouco mais,
+
+158
+00:22:57,932 --> 00:23:00,142
+e o ligaremos
+na próxima semana.
+
+159
+00:23:17,011 --> 00:23:18,411
+Ei Beck, está ocupado?
+
+160
+00:23:21,189 --> 00:23:22,525
+Beck?
+
+161
+00:23:27,684 --> 00:23:29,142
+Isaac, o que houve,
+cara?
+
+162
+00:23:29,143 --> 00:23:30,651
+Onde esteve?
+
+163
+00:23:30,652 --> 00:23:32,704
+Mark ficou o tempo todo
+procurando você.
+
+164
+00:23:32,705 --> 00:23:34,198
+Você tem um minuto?
+
+165
+00:23:34,199 --> 00:23:35,691
+Quero te mostrar algo.
+
+166
+00:23:37,285 --> 00:23:38,611
+Claro.
+
+167
+00:24:21,685 --> 00:24:22,986
+O quê?
+
+168
+00:24:26,421 --> 00:24:28,275
+Olha, sumiu.
+
+169
+00:24:29,419 --> 00:24:30,736
+O que, o copo?
+
+170
+00:24:32,797 --> 00:24:34,197
+É, o copo.
+
+171
+00:24:38,397 --> 00:24:39,736
+Este copo?
+
+172
+00:24:41,787 --> 00:24:43,486
+Você está bem?
+
+173
+00:24:44,493 --> 00:24:45,923
+Você não viu aquilo?
+
+174
+00:24:46,283 --> 00:24:48,757
+Vi o quê? Você olhou
+para ele por cinco minutos
+
+175
+00:24:48,758 --> 00:24:50,580
+e então...
+Não sei o que foi isso.
+
+176
+00:24:50,581 --> 00:24:52,516
+Não, ele desapareceu.
+
+177
+00:24:52,517 --> 00:24:53,947
+Você não viu?
+
+178
+00:24:55,295 --> 00:24:56,595
+Está falando sério?
+
+179
+00:25:03,292 --> 00:25:04,666
+Certo.
+
+180
+00:25:05,473 --> 00:25:07,273
+Quero te mostrar
+outra coisa.
+
+181
+00:25:21,375 --> 00:25:22,737
+O que foi aquilo?
+
+182
+00:25:22,738 --> 00:25:24,473
+Isto foi no sábado.
+
+183
+00:25:24,474 --> 00:25:25,901
+Fui fazer uma trilha.
+
+184
+00:25:25,902 --> 00:25:27,533
+Está dizendo
+que isto é real?
+
+185
+00:25:29,204 --> 00:25:30,800
+Acredita em mim, certo?
+
+186
+00:25:30,801 --> 00:25:33,611
+Isso é muito louco.
+
+187
+00:25:34,303 --> 00:25:37,033
+Com tudo que está acontecendo
+agora, com o meteorito.
+
+188
+00:25:37,384 --> 00:25:40,314
+Onde esteve
+pelos últimos dias?
+
+189
+00:25:40,720 --> 00:25:43,579
+- Ontem?
+- É, ontem, antes de ontem.
+
+190
+00:25:43,580 --> 00:25:45,002
+Fui dar uma caminhada.
+
+191
+00:25:45,003 --> 00:25:47,796
+Não.
+Foi no Sábado.
+
+192
+00:25:47,797 --> 00:25:49,434
+Cara, hoje é Quarta.
+
+193
+00:25:49,435 --> 00:25:51,564
+Você ficou fora do trabalho
+a semana toda.
+
+194
+00:25:52,080 --> 00:25:54,720
+Consegui mais informações
+das amostras ontem à noite.
+
+195
+00:25:56,208 --> 00:25:57,595
+Oi, Isaac.
+
+196
+00:26:00,478 --> 00:26:01,862
+Aqui.
+
+197
+00:26:01,863 --> 00:26:03,173
+Certo.
+
+198
+00:26:03,689 --> 00:26:06,111
+O nível de pH do solo está
+em um sete neutro.
+
+199
+00:26:06,416 --> 00:26:07,993
+Então, nenhum sinal ainda?
+
+200
+00:26:07,994 --> 00:26:09,297
+Não, ainda não.
+
+201
+00:26:09,298 --> 00:26:12,406
+Tem que ter pedaços dele
+em algum lugar na cratera.
+
+202
+00:26:12,407 --> 00:26:14,588
+Não faz nenhum sentido.
+
+203
+00:26:14,589 --> 00:26:16,846
+Não há liga de ferro e níquel
+no solo, também.
+
+204
+00:26:16,847 --> 00:26:19,948
+Se não houver elemento nativos,
+com complexidade química maior,
+
+205
+00:26:19,949 --> 00:26:21,893
+não há evidências
+de um meteorito.
+
+206
+00:26:21,894 --> 00:26:23,987
+Deveria ter tido fragmentos
+ou algo mais.
+
+207
+00:26:23,988 --> 00:26:27,112
+As filmagens de segurança
+que temos não são boas.
+
+208
+00:26:27,113 --> 00:26:29,223
+Fragmentos teriam entrado
+em combustão.
+
+209
+00:26:29,224 --> 00:26:32,088
+O melhor vídeo que tem é
+do celular de alguém.
+
+210
+00:26:32,089 --> 00:26:33,698
+- Filmagens do Barelli?
+- Não.
+
+211
+00:26:33,699 --> 00:26:35,497
+Alguém postou
+na Science Magazine.
+
+212
+00:26:35,498 --> 00:26:38,106
+- Verdade?
+- Sim, deixe-me pesquisar.
+
+213
+00:26:38,107 --> 00:26:40,713
+- Devíamos mostrar...
+- Tentei convencê-los a postar
+
+214
+00:26:40,714 --> 00:26:44,385
+nossas fotos. O site deles tem
+milhões de visualizações.
+
+215
+00:26:44,386 --> 00:26:46,707
+Só foi um dia e eles já têm
+um milhão nesse.
+
+216
+00:26:46,708 --> 00:26:48,019
+Eu sei.
+
+217
+00:26:53,792 --> 00:26:56,300
+- Onde ele está indo?
+- Não sei.
+
+218
+00:27:19,713 --> 00:27:21,233
+ENVIAR
+
+219
+00:27:24,779 --> 00:27:26,140
+NOTÍCIAS
+
+220
+00:27:26,141 --> 00:27:28,141
+GRAVAÇÃO
+DE ABDUÇÃO ALIENÍGENA
+
+221
+00:27:30,930 --> 00:27:32,507
+ENVIAR
+
+222
+00:27:39,249 --> 00:27:41,249
+ENVIO CONCLUÍDO
+
+223
+00:27:43,030 --> 00:27:44,342
+0 VISUALIZAÇÕES
+
+224
+00:27:54,257 --> 00:27:56,396
+- Recebeu o link que te enviei?
+- Não.
+
+225
+00:27:56,397 --> 00:27:57,795
+Deveria assistir ao vídeo.
+
+226
+00:27:57,796 --> 00:28:00,727
+O cara disse que foi abduzido
+por <i>aliens</i>, tem filmagem.
+
+227
+00:28:00,728 --> 00:28:02,816
+Engraçado,
+mas parece legítimo.
+
+228
+00:28:14,406 --> 00:28:17,500
+- Alô?
+<i>- Oi, é o Isaac Cypress?</i>
+
+229
+00:28:17,501 --> 00:28:20,334
+- Sim, sou eu.
+- Eu sou Christine Schafer,
+
+230
+00:28:20,335 --> 00:28:22,030
+do KFLA.
+
+231
+00:28:25,400 --> 00:28:27,506
+- Oi, Christine.
+- Assisti o vídeo
+
+232
+00:28:27,507 --> 00:28:31,013
+que você postou online, <i>e
+fiquei muito intrigada com ele.</i>
+
+233
+00:28:31,014 --> 00:28:33,498
+<i>Estava me perguntando
+se estaria disposto</i>
+
+234
+00:28:33,499 --> 00:28:35,201
+a vir na emissora
+pessoalmente,
+
+235
+00:28:35,202 --> 00:28:37,358
+para fazermos uma
+história sobre o assunto.
+
+236
+00:29:02,034 --> 00:29:03,520
+QUE DIABOS?!
+
+237
+00:29:03,521 --> 00:29:05,223
+A GRAVAÇÃO MAIS LEGÍTIMA
+QUE JÁ VI
+
+238
+00:29:05,224 --> 00:29:06,964
+ALIENS SÃO REAIS
+
+239
+00:29:09,996 --> 00:29:12,170
+A COISA MAIS FALSA
+QUE JÁ VI
+
+240
+00:29:12,171 --> 00:29:13,870
+PATÉTICO
+
+241
+00:29:16,487 --> 00:29:18,168
+BOA TENTATIVA
+
+242
+00:29:18,477 --> 00:29:19,877
+POR FAVOR,
+PULE DE UMA PONTE
+
+243
+00:29:25,104 --> 00:29:26,980
+- Alô?
+<i>- Alô, é o Isaac?</i>
+
+244
+00:29:26,981 --> 00:29:29,314
+- Sim.
+<i>- Isaac, sou Darren Meyers</i>
+
+245
+00:29:29,315 --> 00:29:32,939
+<i>de um blog. Gostaríamos de fazer
+uma entrevista se puder.</i>
+
+246
+00:29:32,940 --> 00:29:34,785
+Claro. Tenho que ir,
+estou atrasado.
+
+247
+00:29:34,786 --> 00:29:38,292
+- Posso te ligar mais tarde?
+<i>- Claro, vou passar meu número.</i>
+
+248
+00:29:50,758 --> 00:29:53,492
+<i>Oi, Isaac. Aqui é o
+Vince Price da Daily Band.</i>
+
+249
+00:29:53,493 --> 00:29:54,937
+<i>Vi seu vídeo. Queria saber,</i>
+
+250
+00:29:54,938 --> 00:29:57,790
+<i>se estaria interessado em
+fazer uma história, deixe-me...</i>
+
+251
+00:30:21,399 --> 00:30:24,093
+Certo, iremos entrar no ar,
+apresentarei você,
+
+252
+00:30:24,094 --> 00:30:25,601
+e depois será
+como conversamos.
+
+253
+00:30:25,602 --> 00:30:28,938
+<i>Cinco, cinco, quatro,
+três, dois,</i>
+
+254
+00:30:31,188 --> 00:30:34,455
+Boa tarde. Estou aqui com
+um residente, Isaac Cypress,
+
+255
+00:30:34,456 --> 00:30:36,234
+ficamos sabendo
+da história ontem,
+
+256
+00:30:36,235 --> 00:30:39,490
+por um vídeo que viralizou
+de uma abdução alienígena.
+
+257
+00:30:39,491 --> 00:30:41,841
+E o Isaac afirma
+ter sido abduzido,
+
+258
+00:30:41,842 --> 00:30:44,287
+e aqui está o vídeo o qual
+diz ser a prova,
+
+259
+00:30:44,288 --> 00:30:45,811
+desse incidente.
+
+260
+00:30:57,202 --> 00:31:01,077
+Então Isaac, pode nos dizer
+o que aconteceu naquela tarde?
+
+261
+00:31:02,827 --> 00:31:05,998
+Então, tinha acabado de
+terminar uma trilha e...
+
+262
+00:31:06,311 --> 00:31:10,085
+Eu estava fora da estrada,
+ouvi um barulho à minha direita,
+
+263
+00:31:10,086 --> 00:31:13,545
+Eu olhei e vi algo
+saindo dos arbustos.
+
+264
+00:31:14,303 --> 00:31:18,372
+E aquilo foi quando ficou
+me encarando.
+
+265
+00:31:18,373 --> 00:31:20,435
+Fiquei parado ali,
+não sabia o que fazer.
+
+266
+00:31:20,436 --> 00:31:21,804
+Não consegui mexer.
+
+267
+00:31:21,805 --> 00:31:24,794
+Quando ele foi embora,
+senti que poderia me mover.
+
+268
+00:31:24,795 --> 00:31:26,952
+A primeira coisa que me ocorreu
+foi correr.
+
+269
+00:31:27,405 --> 00:31:31,396
+Então, eu corri o mais rápido
+que podia, na direção contrária.
+
+270
+00:31:31,397 --> 00:31:34,585
+E enquanto corria,
+ouvi um barulho,
+
+271
+00:31:34,586 --> 00:31:36,311
+era como uma máquina.
+
+272
+00:31:36,685 --> 00:31:39,444
+Mas não tinha nada lá, e...
+
+273
+00:31:41,819 --> 00:31:44,044
+De repente,
+todo o meu corpo sacudiu.
+
+274
+00:31:44,045 --> 00:31:45,618
+Como se tivesse
+sido atropelado.
+
+275
+00:31:45,619 --> 00:31:48,787
+<i>E eu percebi que algo
+estava errado,</i>
+
+276
+00:31:48,788 --> 00:31:52,241
+mas não conseguia me mexer
+e eu comecei a desmaiar.
+
+277
+00:31:53,206 --> 00:31:56,858
+A próxima coisa que me lembro
+é acordar em um lugar diferente.
+
+278
+00:31:59,100 --> 00:32:02,311
+E você não acha
+que é um tanto...
+
+279
+00:32:02,983 --> 00:32:06,107
+Conveniente que você tinha
+uma câmera junto?
+
+280
+00:32:06,108 --> 00:32:08,709
+Sabe? Que conseguiu
+capturar isso em câmera?
+
+281
+00:32:10,467 --> 00:32:13,591
+Bem, não. Eu documentava
+a mim mesmo, antes.
+
+282
+00:32:13,592 --> 00:32:16,053
+Isto é realmente algo
+que as pessoas fazem?
+
+283
+00:32:16,897 --> 00:32:20,004
+Por que você estava
+se gravando?
+
+284
+00:32:23,392 --> 00:32:25,373
+Eu estava...
+Eu...
+
+285
+00:32:26,225 --> 00:32:28,904
+Estava começando
+a fazer isso.
+
+286
+00:32:28,905 --> 00:32:32,810
+Foi terapêutico e foi como,
+uma experiência para mim.
+
+287
+00:32:32,811 --> 00:32:35,530
+Não é algo anormal,
+quis fazer isso.
+
+288
+00:32:35,834 --> 00:32:37,396
+É interessante.
+
+289
+00:32:37,397 --> 00:32:41,532
+Então, você tem
+bacharelado em matemática.
+
+290
+00:32:41,533 --> 00:32:44,193
+Atualmente trabalha como
+engenheiro em computação,
+
+291
+00:32:44,194 --> 00:32:46,412
+para a JPL, certo?
+
+292
+00:32:46,413 --> 00:32:49,091
+Será que teria alguma
+possibilidade
+
+293
+00:32:49,092 --> 00:32:53,131
+de você ter criado
+esse vídeo no seu computador?
+
+294
+00:32:56,392 --> 00:32:58,990
+Não estou inventando.
+Isso aconteceu mesmo comigo.
+
+295
+00:32:58,991 --> 00:33:02,317
+- Não é mentira, é verdade.
+- Certo.
+
+296
+00:33:02,318 --> 00:33:04,872
+Definitivamente é
+uma história interessante.
+
+297
+00:33:04,873 --> 00:33:07,038
+Obrigado Isaac,
+pelo seu tempo.
+
+298
+00:33:07,350 --> 00:33:10,622
+Poderia isso ser uma história
+legítima de abdução,
+
+299
+00:33:10,623 --> 00:33:13,299
+ou apenas outra invenção?
+Deixaremos vocês decidirem.
+
+300
+00:33:13,300 --> 00:33:16,814
+Acesse nosso site em
+KFLA.com/historias,
+
+301
+00:33:16,815 --> 00:33:18,565
+e conte-nos o que você pensa.
+
+302
+00:33:19,616 --> 00:33:22,936
+Pronto? Perfeito.
+Ótimo, muito obrigado.
+
+303
+00:33:24,577 --> 00:33:27,172
+O que faremos a seguir?
+Você tem minhas anotações?
+
+304
+00:33:29,772 --> 00:33:31,872
+<i>Isso explodiu
+de um dia para o outro.</i>
+
+305
+00:33:31,873 --> 00:33:34,068
+<i>Alguém postou
+um vídeo alegando</i>
+
+306
+00:33:34,069 --> 00:33:36,817
+<i>que ele foi abduzido
+por aliens.</i>
+
+307
+00:33:36,818 --> 00:33:39,295
+<i>Eu pessoalmente não vejo
+nenhuma prova conclusiva,</i>
+
+308
+00:33:39,296 --> 00:33:42,617
+<i>- que essa coisa é verdadeira.
+- É bem provável que seja falso.</i>
+
+309
+00:33:42,618 --> 00:33:44,990
+<i>Mas isto está provocando
+alvoroço por uma razão.</i>
+
+310
+00:33:44,991 --> 00:33:46,388
+<i>É realmente bem feito.</i>
+
+311
+00:33:46,389 --> 00:33:48,599
+<i>Tem detalhes que
+precisamos procurar.</i>
+
+312
+00:33:48,600 --> 00:33:52,000
+<i>E o maior deles é que
+isto coincide,</i>
+
+313
+00:33:52,001 --> 00:33:54,357
+<i>como  meteorito que caiu
+no mesmo dia.</i>
+
+314
+00:33:54,358 --> 00:33:57,567
+<i>Simplesmente não tem como
+uma pessoa normal que possa</i>
+
+315
+00:33:57,568 --> 00:33:59,202
+<i>imitar esse padrão
+de movimento.</i>
+
+316
+00:33:59,203 --> 00:34:02,356
+<i>De fato, fizemos várias
+passagens analíticas dele.</i>
+
+317
+00:34:02,357 --> 00:34:05,084
+<i>Pare com isso. Nesse caso,
+não tem como saber,</i>
+
+318
+00:34:05,085 --> 00:34:06,929
+<i>e então,
+não é evidência viável.</i>
+
+319
+00:34:06,930 --> 00:34:10,185
+<i>Isto é só um garoto
+procurando por atenção, só isso.</i>
+
+320
+00:34:10,186 --> 00:34:12,316
+Isaac, o que está
+acontecendo?
+
+321
+00:34:12,317 --> 00:34:13,971
+O que viu
+na espaçonave?
+
+322
+00:34:13,972 --> 00:34:16,502
+- Porque você estava filmando?
+- Como se sente,
+
+323
+00:34:16,503 --> 00:34:19,097
+com as pessoas
+dizendo que está mentindo?
+
+324
+00:34:20,690 --> 00:34:23,182
+<i>Conheça o homem que diz
+ter ajudado Isaac Cypress,</i>
+
+325
+00:34:23,183 --> 00:34:25,988
+<i>a criar o
+infame vídeo de abdução.</i>
+
+326
+00:34:25,989 --> 00:34:28,528
+<i>É, nós nos conhecemos
+na faculdade,</i>
+
+327
+00:34:28,529 --> 00:34:31,002
+<i>e usamos vários programas
+de edição 3D</i>
+
+328
+00:34:31,003 --> 00:34:32,430
+<i>para deixar ele realista.</i>
+
+329
+00:34:32,431 --> 00:34:36,214
+<i>Pessoas procuraram especialistas
+em efeitos especiais,</i>
+
+330
+00:34:36,215 --> 00:34:38,152
+<i>pela opinião deles
+sobre o vídeo.</i>
+
+331
+00:34:38,153 --> 00:34:39,533
+<i>Bem, parece bem real.</i>
+
+332
+00:34:39,534 --> 00:34:44,285
+<i>Digo, se for falso, é bem
+sofistificado e muito bem feito.</i>
+
+333
+00:34:44,286 --> 00:34:46,910
+<i>É um CGI caseiro
+de má qualidade, desculpem.</i>
+
+334
+00:34:46,911 --> 00:34:49,088
+<i>Podia ter sido feito
+em um notebook barato.</i>
+
+335
+00:34:49,089 --> 00:34:52,386
+Parece uma animação infantil
+para mim, parece falso.
+
+336
+00:34:56,253 --> 00:34:59,334
+PESSOAS QUE FORAM
+ABDUZIDAS
+
+337
+00:35:03,216 --> 00:35:05,216
+SINAIS QUE VOCÊ TENHA SIDO
+ABDUZIDO
+
+338
+00:35:05,935 --> 00:35:07,819
+SINAIS COMUNS
+INSÔNIA CRÔNICA
+
+339
+00:35:07,820 --> 00:35:11,483
+SANGRAMENTO NO NARIZ
+DOR NO BRAÇO SEM MOTIVO
+
+340
+00:35:12,677 --> 00:35:15,327
+DOR NO BRAÇO
+DE ABDUÇÃO ALIENÍGENA
+
+341
+00:35:18,686 --> 00:35:20,194
+COMO SABER SE VOCÊ FOI
+ABDUZIDO
+
+342
+00:35:20,195 --> 00:35:22,764
+FUI AO MÉDICO
+RAIOS-X MOSTRARAM ALGO ESTRANHO
+
+343
+00:35:27,552 --> 00:35:29,600
+BUSCADORDAVERDADE
+NÃO ESTAMOS SOZINHOS
+
+344
+00:35:36,693 --> 00:35:38,334
+OI, EU LI SUA PUBLICAÇÃO
+NO FÓRUM
+
+345
+00:35:40,217 --> 00:35:42,217
+QUER ME ENCONTRAR?
+
+346
+00:35:51,785 --> 00:35:53,785
+ONDE ELES ESTÃO?
+
+347
+00:36:39,887 --> 00:36:41,287
+Você quer algo?
+
+348
+00:36:41,803 --> 00:36:44,210
+Sim, café.
+Preto, por favor.
+
+349
+00:36:55,912 --> 00:36:57,295
+Sara?
+
+350
+00:36:59,690 --> 00:37:01,459
+- Oi.
+- Oi.
+
+351
+00:37:05,811 --> 00:37:07,211
+Você quer algo?
+
+352
+00:37:08,295 --> 00:37:09,803
+Por enquanto nada.
+
+353
+00:37:11,392 --> 00:37:13,998
+Certo. Avisem-me caso precisem
+de algo mais.
+
+354
+00:37:17,787 --> 00:37:19,217
+Obrigado por ter vindo.
+
+355
+00:37:20,074 --> 00:37:22,326
+Sei que é estranho
+vir encontrar um estranho.
+
+356
+00:37:25,029 --> 00:37:28,155
+Então, você disse que teve
+um encontro, certo?
+
+357
+00:37:29,186 --> 00:37:30,693
+O que?
+
+358
+00:37:30,694 --> 00:37:32,765
+É o que acha que houve
+com seu braço.
+
+359
+00:37:32,766 --> 00:37:35,196
+Não disse que nada disso
+aconteceu.
+
+360
+00:37:35,197 --> 00:37:38,424
+Não aconteceu nada estranho
+antes de perceber isso?
+
+361
+00:37:39,526 --> 00:37:42,264
+- Não sei do que está falando.
+- A coisa com seu braço.
+
+362
+00:37:42,908 --> 00:37:44,514
+Tenho a mesma coisa.
+
+363
+00:37:44,999 --> 00:37:46,951
+Eu só percebi isso
+depois do...
+
+364
+00:37:52,808 --> 00:37:54,208
+Aqui.
+
+365
+00:38:07,906 --> 00:38:09,306
+Eu vi isso.
+
+366
+00:38:09,988 --> 00:38:11,388
+Mas aquilo é real?
+
+367
+00:38:12,800 --> 00:38:14,558
+- Você realmente...
+- É verdadeiro.
+
+368
+00:38:15,182 --> 00:38:18,042
+Sei que é difícil para as
+pessoas acreditarem, eu entendo.
+
+369
+00:38:19,071 --> 00:38:20,902
+Por isso entrei
+em contato com você.
+
+370
+00:38:25,802 --> 00:38:27,637
+Essas coisas realmente
+acontecem?
+
+371
+00:38:31,740 --> 00:38:33,480
+Já tinha visto essas pinturas?
+
+372
+00:38:35,711 --> 00:38:37,707
+Foram pintadas no século 15.
+
+373
+00:38:38,918 --> 00:38:42,542
+Nessas pinturas estão
+os primeiros avistamentos.
+
+374
+00:38:42,988 --> 00:38:47,299
+Essa foi pintada em 1710,
+por Eric de Gelder. Olhe!
+
+375
+00:38:47,300 --> 00:38:49,581
+Eles estiveram
+por aqui desde sempre.
+
+376
+00:38:49,582 --> 00:38:54,104
+Em 1899, Nikolas Tesla construiu
+uma torre de rádio em sua casa
+
+377
+00:38:54,105 --> 00:38:57,080
+e ele obteve esses sinais,
+uma sequência de números.
+
+378
+00:38:57,081 --> 00:38:59,605
+Tinha certeza que era
+uma comunicação alienígena,
+
+379
+00:38:59,606 --> 00:39:03,675
+pensando que números fossem a
+forma de comunicação universal.
+
+380
+00:39:04,285 --> 00:39:07,323
+Em 1927, o engenheiro norueguês
+Jurgen Hawes
+
+381
+00:39:07,324 --> 00:39:10,362
+experimentava com sinais
+de rádio e alguns experimentos,
+
+382
+00:39:10,363 --> 00:39:12,424
+os sinais eram mandados de
+volta para ele,
+
+383
+00:39:12,425 --> 00:39:14,613
+segundos depois do final
+da transmissão.
+
+384
+00:39:14,988 --> 00:39:17,020
+Ele nunca pôde explicar
+o motivo.
+
+385
+00:39:17,021 --> 00:39:19,010
+Com o Apolo 11, em 1969,
+
+386
+00:39:19,011 --> 00:39:22,245
+Buzz Aldrin alegou em segredo,
+que viram um objeto pela janela,
+
+387
+00:39:22,246 --> 00:39:24,497
+pairando bem ao lado deles.
+
+388
+00:39:24,498 --> 00:39:26,596
+Nunca foram identificados.
+
+389
+00:39:26,597 --> 00:39:29,789
+Em 1977, o telescópio da cidade
+captou este sinal incomum.
+
+390
+00:39:29,790 --> 00:39:32,638
+Tinha uma assinatura de uma
+transmissão interestelar.
+
+391
+00:39:32,639 --> 00:39:35,590
+Não conseguiram descobrir
+de onde vinha, ou quem enviou.
+
+392
+00:39:35,591 --> 00:39:38,982
+Em 1998, a espaçonave da NASA,
+Endeavor,
+
+393
+00:39:38,983 --> 00:39:41,810
+os astronautas fotografaram
+este objeto preto,
+
+394
+00:39:41,811 --> 00:39:43,297
+orbitando a Terra.
+
+395
+00:39:43,298 --> 00:39:45,843
+Quero dizer, está tudo aí.
+
+396
+00:39:50,882 --> 00:39:53,771
+Você já ouviu sobre aquela
+abdução em 1979?
+
+397
+00:39:53,772 --> 00:39:55,104
+Não, o que houve?
+
+398
+00:39:55,874 --> 00:39:57,224
+Não sei os detalhes,
+
+399
+00:39:57,225 --> 00:39:59,193
+mas um cara foi abduzido
+na floresta,
+
+400
+00:39:59,194 --> 00:40:01,671
+Acho que foi no Alasca.
+
+401
+00:40:02,102 --> 00:40:05,249
+Havia três testemunhas, todos
+passaram pelo polígrafo.
+
+402
+00:40:07,175 --> 00:40:09,904
+Acho que o nome dele é
+Carl ou Clark.
+
+403
+00:40:09,905 --> 00:40:12,100
+Não me lembro, terei que
+pesquisar, mas...
+
+404
+00:40:12,491 --> 00:40:14,280
+depois ele voltou
+com uma história,
+
+405
+00:40:15,788 --> 00:40:17,100
+ele desapareceu.
+
+406
+00:40:19,698 --> 00:40:22,366
+Sei que salvei isso em meu
+computador, em algum lugar.
+
+407
+00:40:25,788 --> 00:40:27,287
+Este é o meu número.
+
+408
+00:40:27,916 --> 00:40:29,519
+Se você quiser, sei lá,
+
+409
+00:40:29,520 --> 00:40:32,334
+conversar ou algo assim,
+você sabe.
+
+410
+00:40:32,956 --> 00:40:34,319
+Está bem.
+
+411
+00:40:34,919 --> 00:40:36,256
+Legal.
+
+412
+00:40:38,611 --> 00:40:40,011
+Melhor eu ir.
+
+413
+00:40:44,591 --> 00:40:46,358
+- Tchau.
+- Tchau.
+
+414
+00:42:12,733 --> 00:42:15,475
+- Alô? Oi, sim.
+- <i>Alô, é o Isaac?</i>
+
+415
+00:42:16,491 --> 00:42:17,870
+Oi, é a Sara.
+
+416
+00:42:17,871 --> 00:42:20,497
+Oi, como vai?
+
+417
+00:42:20,498 --> 00:42:22,083
+<i>Vou bem.</i>
+
+418
+00:42:22,084 --> 00:42:24,888
+Encontrei aquela história
+que contei para você.
+
+419
+00:42:24,889 --> 00:42:26,991
+<i>O nome do sujeito é
+Carl Miessner.</i>
+
+420
+00:42:27,311 --> 00:42:31,411
+<i>Diz que foi abduzido em 1979,
+em Wrangell, Alasca.</i>
+
+421
+00:42:31,412 --> 00:42:34,630
+Ele e três colegas estava
+cortando madeira na floresta,
+
+422
+00:42:34,631 --> 00:42:37,723
+<i>- a 30 minutos da cidade.</i>
+- Qual é o nome mesmo?
+
+423
+00:42:37,724 --> 00:42:39,124
+Carl Miessner.
+
+424
+00:42:40,928 --> 00:42:45,045
+Na volta do trabalho, viram
+um disco pairando sobre eles.
+
+425
+00:42:45,552 --> 00:42:47,621
+Eles viram uma luz
+azulada atingindo Carl,
+
+426
+00:42:47,622 --> 00:42:49,459
+e puxá-lo para dentro
+da nave.
+
+427
+00:42:50,108 --> 00:42:52,365
+Não vejo nada sobre ele.
+
+428
+00:42:52,366 --> 00:42:55,570
+Achei um artigo na biblioteca.
+Também não achei nada online.
+
+429
+00:42:55,571 --> 00:42:57,890
+- <i>Mas escaneei as páginas.</i>
+- Pode me enviá-las?
+
+430
+00:42:57,891 --> 00:42:59,804
+- Certo.
+<i>- Isaac Cypress,</i>
+
+431
+00:42:59,805 --> 00:43:02,596
+<i>o homem cuja história de abdução
+se espalhou pelo mundo,</i>
+
+432
+00:43:02,597 --> 00:43:04,593
+<i>está sendo desmascarado.</i>
+
+433
+00:43:04,594 --> 00:43:06,298
+Envie a história,
+darei uma olhada.
+
+434
+00:43:06,299 --> 00:43:07,780
+- Está bem.
+- Tchau.
+
+435
+00:43:07,781 --> 00:43:10,825
+<i>Não sei como alguém
+levaria isso a sério.</i>
+
+436
+00:43:10,826 --> 00:43:14,734
+<i>Honestamente não sei
+como esse vídeo foi tão longe.</i>
+
+437
+00:43:15,172 --> 00:43:18,594
+<i>Cada vez mais, estamos vendo
+a normalização da...</i>
+
+438
+00:43:36,156 --> 00:43:38,156
+IMAGENS DA ABDUÇÃO
+DE ISAAC CYPRUS
+
+439
+00:43:52,788 --> 00:43:55,058
+INFORME UM OVNI
+CONTATAR
+
+440
+00:43:59,034 --> 00:44:01,590
+ABDUÇÃO ALIENÍGENA
+INFORME UMA ABDUÇÃO ALIENÍGENA
+
+441
+00:44:41,798 --> 00:44:43,314
+Deixe-me ajudá-lo.
+
+442
+00:44:51,415 --> 00:44:53,689
+- Valeu, cara.
+- Não foi nada.
+
+443
+00:44:54,173 --> 00:44:56,699
+Parece que se dedicou muito
+com esses envelopes.
+
+444
+00:44:56,700 --> 00:44:58,181
+Tem um monte deles.
+
+445
+00:45:00,373 --> 00:45:01,673
+Eu não...
+
+446
+00:45:02,700 --> 00:45:04,720
+Não te conheço
+de algum lugar?
+
+447
+00:45:06,571 --> 00:45:08,984
+Sim!
+Você é o cara das notícias,
+
+448
+00:45:08,985 --> 00:45:10,884
+o da história de abdução.
+
+449
+00:45:11,899 --> 00:45:13,680
+Bem que achei que te reconheci.
+
+450
+00:45:13,681 --> 00:45:15,000
+É, sou eu.
+
+451
+00:45:15,001 --> 00:45:16,314
+É.
+
+452
+00:45:16,983 --> 00:45:20,001
+- Obrigado.
+- Espere um segundo.
+
+453
+00:45:20,595 --> 00:45:23,291
+Sei que você recebendo
+muita atenção com sua história,
+
+454
+00:45:23,292 --> 00:45:26,125
+Não quero te atrapalhar, eu...
+Sou um escritor.
+
+455
+00:45:27,571 --> 00:45:29,000
+E tenho meu próprio blog.
+
+456
+00:45:29,001 --> 00:45:33,479
+Adoraria ajudá-lo a divulgar
+sua história, sabe?
+
+457
+00:45:33,480 --> 00:45:36,345
+Vi como a imprensa a distorceu.
+Não é nem um pouco justo.
+
+458
+00:45:37,190 --> 00:45:39,493
+Digo, adoraria ajudar,
+divulgar o seu lado.
+
+459
+00:45:41,012 --> 00:45:44,103
+É isso, é, pensa nisso,
+sem nenhuma pressão.
+
+460
+00:45:44,806 --> 00:45:46,975
+Quer saber?
+Fique com meu cartão.
+
+461
+00:45:50,495 --> 00:45:52,821
+Aqui está.
+É, pensa sobre isso.
+
+462
+00:45:54,387 --> 00:45:58,406
+Adoraria te ajudar.
+É isso, tenha um ótimo dia.
+
+463
+00:45:58,407 --> 00:45:59,767
+Obrigado.
+
+464
+00:46:06,524 --> 00:46:08,701
+<i>Não vejo qualquer razão
+para pensar nisso</i>
+
+465
+00:46:08,702 --> 00:46:10,103
+<i>como um caso legítimo.</i>
+
+466
+00:46:10,493 --> 00:46:12,704
+<i>Nem sei porque
+isso ainda está em pauta.</i>
+
+467
+00:46:15,602 --> 00:46:18,516
+<i>É muita coincidência e ele
+nem relatou isso para ninguém,</i>
+
+468
+00:46:18,517 --> 00:46:20,414
+<i>ele só postou o vídeo
+na internet?</i>
+
+469
+00:46:20,415 --> 00:46:22,172
+<i>Não há registros do
+desaparecimento,</i>
+
+470
+00:46:22,173 --> 00:46:25,915
+por isso não vejo motivo para
+levar isso com um caso verídico.
+
+471
+00:47:15,273 --> 00:47:17,643
+Tudo bem, tchau.
+
+472
+00:47:18,674 --> 00:47:20,017
+- Oi.
+- Oi.
+
+473
+00:47:20,018 --> 00:47:22,752
+- Procuro pelo Keith Oberman?
+- Oberman.
+
+474
+00:47:23,110 --> 00:47:26,330
+- Qual o seu nome?
+- Isaac Cypress.
+
+475
+00:47:32,786 --> 00:47:34,205
+Oi Keith.
+
+476
+00:47:34,788 --> 00:47:38,198
+Está aqui o Isaac Cypress
+para te ver.
+
+477
+00:47:39,190 --> 00:47:41,705
+Sim.
+Com certeza.
+
+478
+00:47:41,706 --> 00:47:43,106
+Vou acompanhá-lo agora.
+
+479
+00:47:44,500 --> 00:47:45,900
+Certo.
+
+480
+00:47:46,614 --> 00:47:49,612
+Sr. Cypress, por aqui.
+
+481
+00:48:00,706 --> 00:48:03,314
+- Aqui está.
+- Obrigado.
+
+482
+00:48:03,315 --> 00:48:05,597
+Isaac, que bom vê-lo.
+
+483
+00:48:05,598 --> 00:48:06,971
+entre.
+
+484
+00:48:08,122 --> 00:48:10,095
+Estou muito feliz que
+decidiu vir.
+
+485
+00:48:10,096 --> 00:48:11,857
+Por favor, sente-se.
+
+486
+00:48:16,197 --> 00:48:18,466
+Então, cara.
+
+487
+00:48:18,467 --> 00:48:21,885
+A mídia anda maluca
+com isso, não?
+
+488
+00:48:22,862 --> 00:48:25,923
+Achei que depois que vissem
+a fita, iam se acalmar um pouco.
+
+489
+00:48:25,924 --> 00:48:28,815
+- É, parece que não.
+- O que mais querem de prova?
+
+490
+00:48:29,682 --> 00:48:31,907
+Fiquei pensando como divulgar
+sua história,
+
+491
+00:48:31,908 --> 00:48:35,782
+e teria que ser sólida
+e inquestionável,
+
+492
+00:48:35,783 --> 00:48:38,635
+certo? Isso pode
+parecer um pouco maluco,
+
+493
+00:48:38,636 --> 00:48:40,134
+mas pensei,
+
+494
+00:48:42,103 --> 00:48:44,262
+você já passou
+por um detector de mentiras?
+
+495
+00:48:44,263 --> 00:48:46,861
+- Detector de mentiras?
+- Sim, detector de mentiras.
+
+496
+00:48:46,862 --> 00:48:48,163
+Um teste de polígrafo.
+
+497
+00:48:48,164 --> 00:48:51,405
+Veja, se passar por um
+teste de detector de mentiras,
+
+498
+00:48:51,406 --> 00:48:53,312
+e publicarmos esse artigo,
+
+499
+00:48:54,205 --> 00:48:56,355
+cara, você ganharia
+mais credibilidade.
+
+500
+00:48:58,383 --> 00:49:01,340
+- Certo, sim.
+- É? Quer fazer um teste?
+
+501
+00:49:02,072 --> 00:49:03,993
+- Aqui?
+- Sim.
+
+502
+00:49:03,994 --> 00:49:06,355
+- Pode fazer isso?
+- Perfeitamente.
+
+503
+00:49:06,356 --> 00:49:07,821
+É bem fácil, na verdade.
+
+504
+00:49:07,822 --> 00:49:09,798
+É pequeno, conecta direto
+ao computador.
+
+505
+00:49:12,981 --> 00:49:14,299
+Então, o que acha?
+
+506
+00:49:15,942 --> 00:49:18,892
+- Claro.
+- Ótimo, ótimo.
+
+507
+00:49:18,893 --> 00:49:21,300
+Certo, voltarei logo,
+espere aqui.
+
+508
+00:49:33,940 --> 00:49:35,340
+Certo.
+
+509
+00:49:36,977 --> 00:49:38,377
+Vamos lá.
+
+510
+00:49:40,500 --> 00:49:43,971
+Então, o que vamos fazer,
+
+511
+00:49:45,286 --> 00:49:47,524
+é fazer o teste
+do detector de mentiras,
+
+512
+00:49:47,525 --> 00:49:50,705
+e basear nossa história
+em torno disso,
+
+513
+00:49:51,192 --> 00:49:53,291
+dando provas ao artigo.
+
+514
+00:49:53,986 --> 00:49:56,704
+E depois de concluído,
+será inquestionável.
+
+515
+00:49:56,705 --> 00:49:59,023
+Gostaria de ver a mídia
+contestar isso.
+
+516
+00:49:59,687 --> 00:50:02,335
+Certo, vai colocar estes aqui
+em seus dedos.
+
+517
+00:50:02,336 --> 00:50:04,180
+Um no dedo indicador.
+
+518
+00:50:05,977 --> 00:50:09,086
+Isso, e o outro conectado no
+seu dedo anelar.
+
+519
+00:50:10,219 --> 00:50:12,452
+Agora, só vou fazer uma
+série de perguntas,
+
+520
+00:50:12,453 --> 00:50:14,719
+e me responde
+com sim ou não.
+
+521
+00:50:15,031 --> 00:50:17,783
+- Certo.
+- As primeiras serão bem fáceis.
+
+522
+00:50:17,784 --> 00:50:20,699
+- Só preciso calibrar o teste.
+- Certo.
+
+523
+00:50:20,700 --> 00:50:22,023
+Certo.
+
+524
+00:50:22,514 --> 00:50:23,914
+Bem, começando...
+
+525
+00:50:24,406 --> 00:50:27,061
+seu nome é Isaac Cypress?
+
+526
+00:50:27,062 --> 00:50:28,375
+Sim.
+
+527
+00:50:29,422 --> 00:50:31,945
+- Hoje é sexta-feira?
+- Sim.
+
+528
+00:50:34,211 --> 00:50:36,922
+- Estamos em Los Angeles?
+- Sim.
+
+529
+00:50:39,373 --> 00:50:42,680
+Pretende responder
+às perguntas com a verdade?
+
+530
+00:50:43,182 --> 00:50:44,531
+Sim.
+
+531
+00:50:45,578 --> 00:50:47,880
+Apareceu nos noticiários
+recentemente?
+
+532
+00:50:47,881 --> 00:50:49,281
+Sim.
+
+533
+00:50:50,506 --> 00:50:52,125
+Você é humano?
+
+534
+00:50:55,110 --> 00:50:56,430
+Sim.
+
+535
+00:50:59,008 --> 00:51:00,408
+Ótimo.
+
+536
+00:51:01,296 --> 00:51:03,320
+Já fugiu de casa?
+
+537
+00:51:07,672 --> 00:51:09,085
+Sim, quando era pequeno.
+
+538
+00:51:09,086 --> 00:51:11,304
+É só respostas em sim e não,
+Isaac.
+
+539
+00:51:11,305 --> 00:51:12,705
+Sim.
+
+540
+00:51:14,789 --> 00:51:17,449
+Recentemente postou um
+vídeo na internet?
+
+541
+00:51:17,450 --> 00:51:18,844
+Sim.
+
+542
+00:51:20,883 --> 00:51:22,655
+Este vídeo faz
+falsas afirmações
+
+543
+00:51:22,656 --> 00:51:24,828
+sobre o seu desaparecimento?
+
+544
+00:51:26,086 --> 00:51:27,414
+Não.
+
+545
+00:51:28,836 --> 00:51:30,210
+Ótimo.
+
+546
+00:51:30,211 --> 00:51:32,126
+Você se lembra onde esteve,
+
+547
+00:51:32,127 --> 00:51:33,454
+na quarta, dia 6,
+
+548
+00:51:33,455 --> 00:51:35,781
+e na quinta, dia 7,
+da semana passada?
+
+549
+00:51:39,588 --> 00:51:40,992
+Não.
+
+550
+00:51:43,633 --> 00:51:47,555
+Você teve um encontro
+com um ser extraterrestre?
+
+551
+00:51:52,699 --> 00:51:54,000
+Sim.
+
+552
+00:51:59,396 --> 00:52:00,796
+Dê-me um segundo.
+
+553
+00:52:12,484 --> 00:52:14,800
+- Senhor.
+- Venha conosco.
+
+554
+00:52:14,801 --> 00:52:16,969
+- Senhor!
+- Soltem-me!
+
+555
+00:52:16,970 --> 00:52:19,241
+Soltem-me.
+Saiam de cima de mim!
+
+556
+00:52:19,759 --> 00:52:21,437
+Afastem-se de mim!
+
+557
+00:52:37,961 --> 00:52:41,101
+<i>Paciente IO174R
+em custódia, Bloco C.</i>
+
+558
+00:52:41,102 --> 00:52:43,785
+<i>Sala número 284 preparada.</i>
+
+559
+00:52:43,786 --> 00:52:45,501
+<i>Aprovada admissão.</i>
+
+560
+00:52:45,502 --> 00:52:46,811
+<i>Recuperando a consciência.</i>
+
+561
+00:52:46,812 --> 00:52:49,511
+Detectando paciente humanóide,
+para alienígena
+
+562
+00:52:49,512 --> 00:52:52,261
+estrangeiro IO174
+
+563
+00:52:54,011 --> 00:52:57,481
+<i>Entrada principal aprovada para
+acesso da unidade de controle.</i>
+
+564
+00:52:57,482 --> 00:53:01,190
+<i>Paciente T0175
+em custódia no Bloco C.</i>
+
+565
+00:53:01,191 --> 00:53:04,084
+<i>Sala número 285 preparada.</i>
+
+566
+00:53:04,085 --> 00:53:05,419
+<i>Aprovada admissão.</i>
+
+567
+00:53:05,420 --> 00:53:07,823
+<i>Chegada do paciente
+confirmada.</i>
+
+568
+00:53:24,601 --> 00:53:26,229
+<i>Paciente contido.</i>
+
+569
+00:53:54,401 --> 00:53:55,712
+<i>Oi, Isaac.</i>
+
+570
+00:53:56,816 --> 00:53:59,150
+Sou o agente Graves.
+
+571
+00:54:00,507 --> 00:54:03,742
+Nós o detemos você contra
+sua vontade pois acreditamos
+
+572
+00:54:03,743 --> 00:54:07,743
+que tenha informações valiosas
+para o futuro da sociedade.
+
+573
+00:54:08,517 --> 00:54:10,967
+<i>Você não é o único que está
+nestas circunstâncias.</i>
+
+574
+00:54:11,368 --> 00:54:13,399
+<i>Houveram muitos outros
+na mesma situação,</i>
+
+575
+00:54:13,400 --> 00:54:15,391
+<i>que tivemos de avaliar.</i>
+
+576
+00:54:15,392 --> 00:54:17,486
+<i>Você não tem nada a temer.</i>
+
+577
+00:54:18,900 --> 00:54:21,593
+Precisaremos executar
+alguns testes,
+
+578
+00:54:21,594 --> 00:54:24,711
+para determinar o quanto
+você foi exposto.
+
+579
+00:54:25,407 --> 00:54:28,407
+Apenas pedimos para que você
+colabore,
+
+580
+00:54:28,408 --> 00:54:30,797
+<i>e dará tudo certo
+para todo mundo.</i>
+
+581
+00:54:33,407 --> 00:54:36,243
+<i>- Procurem por rastreadores.</i>
+- Entendido.
+
+582
+00:54:41,639 --> 00:54:44,288
+<i>Afirmativo,
+detecção interna.</i>
+
+583
+00:54:44,289 --> 00:54:45,819
+<i>Recebido.</i>
+
+584
+00:54:45,820 --> 00:54:48,422
+<i>- Agora, T1.</i>
+- Entendido.
+
+585
+00:55:05,137 --> 00:55:07,293
+<i>Isaac, preciso
+que se concentre na balança</i>
+
+586
+00:55:07,294 --> 00:55:08,741
+<i>na outra sala.</i>
+
+587
+00:55:20,583 --> 00:55:23,145
+- Algo?
+- Ainda não.
+
+588
+00:55:30,501 --> 00:55:32,528
+Feito, vá T2.
+
+589
+00:55:39,687 --> 00:55:42,255
+<i>Isaac, preciso que se
+concentre na água.</i>
+
+590
+00:55:42,778 --> 00:55:44,300
+Onde está a Sara?
+
+591
+00:55:44,301 --> 00:55:46,895
+<i>Preciso que se
+concentre na água, agora.</i>
+
+592
+00:55:49,190 --> 00:55:50,590
+Onde nós estamos?
+
+593
+00:55:51,285 --> 00:55:53,653
+<i>Discutiremos isso quando
+terminarmos.</i>
+
+594
+00:55:57,805 --> 00:55:59,205
+<i>Muito bem.</i>
+
+595
+00:56:18,853 --> 00:56:20,512
+Droga.
+
+596
+00:56:20,513 --> 00:56:22,817
+Tudo certo, T3.
+
+597
+00:56:44,512 --> 00:56:46,121
+O que é isto?
+
+598
+00:56:46,122 --> 00:56:49,645
+A agulha irá para um se detectar
+uma corrente elétrica externa.
+
+599
+00:56:50,117 --> 00:56:51,517
+Nada.
+
+600
+00:56:54,770 --> 00:56:56,170
+Esvaziem a sala.
+
+601
+00:57:00,074 --> 00:57:02,098
+<i>O que você sabe sobre
+Carl Miessner?</i>
+
+602
+00:57:03,212 --> 00:57:04,950
+Não faço a menor ideia
+quem seja.
+
+603
+00:57:05,778 --> 00:57:09,559
+Sabemos que o conhece. Preciso
+que me diga o que sabe dele.
+
+604
+00:57:10,497 --> 00:57:11,883
+Onde está a Sara?
+
+605
+00:57:11,884 --> 00:57:14,067
+<i>Isaac, estou perguntando
+com educação.</i>
+
+606
+00:57:14,068 --> 00:57:17,410
+<i>Você precisa cooperar, ou isso
+pode acabar muito, muito mal.</i>
+
+607
+00:57:17,411 --> 00:57:18,890
+Onde nós estamos?
+
+608
+00:57:20,107 --> 00:57:21,585
+O que estão sugerindo?
+
+609
+00:57:22,000 --> 00:57:25,139
+Perambularmos pela
+Columbia Britânica sem rumo,
+
+610
+00:57:25,140 --> 00:57:27,078
+<i>até o encontrarmos
+acidentalmente?</i>
+
+611
+00:57:33,111 --> 00:57:34,437
+<i>Canadá.</i>
+
+612
+00:57:40,187 --> 00:57:42,859
+Isaac,
+<i>não vou te perguntar de novo.</i>
+
+613
+00:57:43,492 --> 00:57:45,734
+<i>Você entrou em contacto
+com o Carl?</i>
+
+614
+00:57:47,195 --> 00:57:48,701
+Diga-me onde estou.
+
+615
+00:57:50,410 --> 00:57:51,921
+Vigie-o.
+
+616
+00:57:59,589 --> 00:58:02,625
+IO174, assistência!
+
+617
+00:58:06,382 --> 00:58:09,390
+<i>Violação!
+Sala 284 Bloco C!</i>
+
+618
+00:58:17,242 --> 00:58:21,256
+<i>Violação de segurança,
+Bloco C Sala 284!</i>
+
+619
+00:58:21,257 --> 00:58:26,202
+<i>Repito! Falha de segurança,
+Bloco C Sala 284!</i>
+
+620
+00:58:26,203 --> 00:58:29,176
+<i>Acionar o bloqueio de
+segurança total!</i>
+
+621
+00:58:30,585 --> 00:58:32,209
+- O que está fazendo?
+- Não sei.
+
+622
+00:58:32,210 --> 00:58:34,664
+- Vamos ser apanhados!
+- Vamos.
+
+623
+00:58:35,585 --> 00:58:37,819
+<i>- Toda segurança ao Bloco C!</i>
+- Por aqui.
+
+624
+00:58:37,820 --> 00:58:41,156
+<i>Violação nas
+Salas 184 e 185.</i>
+
+625
+00:58:43,280 --> 00:58:46,859
+IO174, desista!
+
+626
+00:58:46,860 --> 00:58:49,097
+<i>Segurança! Violação
+no Bloco C!</i>
+
+627
+00:58:49,098 --> 00:58:52,164
+<i>Bloqueio total de
+segurança da instalação!</i>
+
+628
+00:58:55,765 --> 00:58:58,538
+<i>Falha de segurança
+no Bloco C!</i>
+
+629
+00:58:58,539 --> 00:59:00,811
+<i>Bloqueio total de
+segurança da instalação!</i>
+
+630
+00:59:00,812 --> 00:59:02,554
+Vai, vai, vai, vai!
+
+631
+00:59:06,382 --> 00:59:09,217
+<i>Bloqueio total de
+segurança na instalação!</i>
+
+632
+00:59:09,218 --> 00:59:10,780
+- O que está fazendo?
+- Não sei!
+
+633
+00:59:10,781 --> 00:59:12,414
+Tentando abrir essa porta.
+
+634
+00:59:14,976 --> 00:59:17,300
+<i>Falha de segurança
+no Bloco C!</i>
+
+635
+00:59:17,301 --> 00:59:19,280
+<i>Bloqueio total de segurança.</i>
+
+636
+00:59:19,281 --> 00:59:20,945
+Depressa!
+
+637
+00:59:42,340 --> 00:59:44,324
+<i>Emergência!
+Requisição de acesso!</i>
+
+638
+00:59:44,325 --> 00:59:46,144
+<i>Acesso autorizado!</i>
+
+639
+00:59:46,145 --> 00:59:48,097
+<i>Acesso não está autorizado.</i>
+
+640
+00:59:48,098 --> 00:59:50,792
+<i>- Emergência! Requeiro acesso!</i>
+- O que aconteceu?
+
+641
+00:59:50,793 --> 00:59:54,316
+- Senhor, fala de segurança.
+- Por que ainda está de pé aí?
+
+642
+01:00:25,025 --> 01:00:27,961
+Quero veículos por ar e terra
+patrulhando a área.
+
+643
+01:00:27,962 --> 01:00:29,795
+Ambos têm
+dispositivos de TA.
+
+644
+01:00:29,796 --> 01:00:32,641
+Eu suspeito que eles estão
+indo para Colúmbia Britânica.
+
+645
+01:00:32,642 --> 01:00:34,985
+É essencial que os rastreamos.
+
+646
+01:00:34,986 --> 01:00:37,759
+Mas, mais importante,
+precisamos segui-los.
+
+647
+01:00:38,209 --> 01:00:41,337
+Encontrando eles,
+encontraremos Carl.
+
+648
+01:00:41,735 --> 01:00:44,720
+<i>Todo o pessoal,
+apresentem-se para despacho.</i>
+
+649
+01:01:12,343 --> 01:01:13,906
+Venha, vamos tentar aqui.
+
+650
+01:01:14,941 --> 01:01:17,209
+- Vou ver se tem alguém aqui.
+- Certo.
+
+651
+01:01:19,376 --> 01:01:20,679
+Olá!
+
+652
+01:01:22,908 --> 01:01:25,773
+Olá?
+Tem alguém aí?
+
+653
+01:01:30,976 --> 01:01:34,014
+- Não tem ninguém.
+- Onde estamos?
+
+654
+01:01:34,015 --> 01:01:36,728
+- Acho que em Costa Rica.
+- Costa Rica?
+
+655
+01:01:37,788 --> 01:01:39,586
+Quantos dias estamos aqui?
+
+656
+01:01:39,587 --> 01:01:41,469
+Nem sei que dia é hoje.
+
+657
+01:01:42,111 --> 01:01:44,361
+Quem é o agente Graves?
+Quem é aquele sujeito?
+
+658
+01:01:44,984 --> 01:01:47,321
+- Temos que falar com o Carl.
+- Como?
+
+659
+01:01:47,322 --> 01:01:49,511
+Nem sei.
+Se ao menos tivesse internet,
+
+660
+01:01:49,512 --> 01:01:51,648
+talvez encontre um jeito.
+
+661
+01:01:55,508 --> 01:01:58,314
+- Oi? Olá.
+- Olá.
+
+662
+01:01:58,315 --> 01:02:01,787
+Sabe se tem internet em
+algum lugar por aqui?
+
+663
+01:02:01,788 --> 01:02:04,280
+Internet, computador?
+
+664
+01:02:14,577 --> 01:02:17,116
+- Por ali?
+- Sim, por ali.
+
+665
+01:02:24,991 --> 01:02:26,609
+Um homem chamado Zed?
+
+666
+01:02:29,054 --> 01:02:31,515
+- Por ali?
+- Sim, por ali.
+
+667
+01:02:49,460 --> 01:02:51,030
+PROCURADOS
+
+668
+01:03:22,492 --> 01:03:24,866
+- Olá. Estamos procurando o Zed.
+- Olá.
+
+669
+01:03:24,867 --> 01:03:27,031
+Zed está logo ali na mesa.
+
+670
+01:03:28,805 --> 01:03:30,641
+<i>- Gracias.</i>
+- Obrigada.
+
+671
+01:03:37,981 --> 01:03:39,289
+Zed, certo?
+
+672
+01:03:41,022 --> 01:03:42,336
+Você é o Zed?
+
+673
+01:03:42,883 --> 01:03:44,609
+Procuramos informações
+sobre alguém
+
+674
+01:03:44,610 --> 01:03:46,820
+e a mulher da última cidade
+nos deu seu nome.
+
+675
+01:03:46,821 --> 01:03:48,547
+Ela disse que você
+poderia ajudar.
+
+676
+01:03:49,163 --> 01:03:50,539
+Qual o seu nome?
+
+677
+01:03:50,893 --> 01:03:52,906
+Meu nome é Isaac,
+ela é a Sara.
+
+678
+01:03:53,706 --> 01:03:55,305
+Seu nome completo.
+
+679
+01:03:56,137 --> 01:03:57,438
+Isaac Cypress.
+
+680
+01:03:59,524 --> 01:04:01,023
+Olha, vou dizer de cara,
+
+681
+01:04:01,024 --> 01:04:03,601
+você precisa ser
+100% honesto comigo.
+
+682
+01:04:03,602 --> 01:04:06,514
+Se me disser algo errado,
+não poderei ajudá-lo.
+
+683
+01:04:06,515 --> 01:04:08,078
+Então, tem uma segunda chance.
+
+684
+01:04:08,399 --> 01:04:10,133
+Qual o seu nome verdadeiro?
+
+685
+01:04:11,703 --> 01:04:14,313
+Estou sendo honesto.
+Meu nome é Isaac Cypress.
+
+686
+01:04:22,492 --> 01:04:24,891
+Certo.
+Sentem-se.
+
+687
+01:04:28,004 --> 01:04:30,227
+Então, procuramos por um cara
+chamado Carl.
+
+688
+01:04:32,797 --> 01:04:34,420
+- Temos que ir.
+- O quê?
+
+689
+01:04:34,421 --> 01:04:35,836
+Eles estão lá fora.
+
+690
+01:04:46,266 --> 01:04:48,892
+Sendo procurados pelos
+policiais PIPE, é?
+
+691
+01:04:48,893 --> 01:04:50,304
+Espera, você conhece eles?
+
+692
+01:04:50,305 --> 01:04:53,421
+Sim, o Programa Internacional
+de Pesquisa Espacial.
+
+693
+01:04:53,422 --> 01:04:55,491
+Eles uma agência que
+trabalha para a ONU.
+
+694
+01:04:55,492 --> 01:04:57,895
+Coisas ultra-secretas.
+Eles se instalaram
+
+695
+01:04:57,896 --> 01:04:59,990
+em instalações
+no subsolo por aí.
+
+696
+01:04:59,991 --> 01:05:01,422
+Ninguém sabe sobre eles.
+
+697
+01:05:01,423 --> 01:05:03,390
+Pelo menos
+não os civis normais.
+
+698
+01:05:04,205 --> 01:05:07,172
+Pode-se dizer que tenho acesso
+privilegiado à rede deles.
+
+699
+01:05:09,243 --> 01:05:11,062
+O que fez para
+entrar no radar deles?
+
+700
+01:05:11,484 --> 01:05:13,121
+Ainda tentando descobrir isso.
+
+701
+01:05:13,122 --> 01:05:14,648
+Eles nos sequestraram.
+
+702
+01:05:15,372 --> 01:05:17,937
+É por isso que tenho
+uma conexão anti-rastreamento.
+
+703
+01:05:27,194 --> 01:05:30,195
+- Você mora por aqui?
+- Eu me mudo muito.
+
+704
+01:05:30,585 --> 01:05:33,226
+Mas fiquei aqui nos últimos
+seis meses mais ou menos.
+
+705
+01:05:33,578 --> 01:05:36,617
+Não tem outro lugar
+como Costa Rica.
+
+706
+01:06:03,957 --> 01:06:05,531
+Muito bem.
+
+707
+01:06:06,033 --> 01:06:07,433
+É aqui.
+
+708
+01:06:08,968 --> 01:06:10,368
+Lá em cima?
+
+709
+01:06:13,453 --> 01:06:14,853
+Cuidado onde pisa.
+
+710
+01:06:33,846 --> 01:06:36,678
+Certo, o nome dele é Carl.
+Qual é o sobrenome dele?
+
+711
+01:06:36,679 --> 01:06:38,632
+- Meissner.
+- Meissner, Carl Meissner.
+
+712
+01:06:38,633 --> 01:06:40,502
+Cérebro, relaxe.
+
+713
+01:06:40,972 --> 01:06:42,607
+Certo, tudo bem.
+
+714
+01:06:42,608 --> 01:06:45,105
+Ninguém pode nos rastrear aqui,
+relaxe um pouco,
+
+715
+01:06:45,106 --> 01:06:46,760
+enquanto eu arrumo isso.
+
+716
+01:06:58,033 --> 01:07:01,236
+Se não fossemos procurados, aqui
+seria uma bom lugar para viver.
+
+717
+01:07:03,599 --> 01:07:04,999
+É incrível.
+
+718
+01:07:05,803 --> 01:07:08,658
+Sabia quem você era antes de
+te conhecer na lanchonete.
+
+719
+01:07:10,701 --> 01:07:12,681
+Vi sua história nos noticiários.
+
+720
+01:07:15,617 --> 01:07:17,017
+Foi meio revigorante.
+
+721
+01:07:20,286 --> 01:07:22,017
+Nunca me contou
+a sua história.
+
+722
+01:07:25,292 --> 01:07:27,752
+Não falo mais com ninguém
+sobre aquilo.
+
+723
+01:07:31,500 --> 01:07:34,791
+Tem a ver a cabana dos meus tios
+nas montanhas.
+
+724
+01:07:35,900 --> 01:07:39,549
+Eles saíram com amigos à noite,
+fiquei na cabana sozinha.
+
+725
+01:07:41,916 --> 01:07:43,429
+Estava cansada,
+
+726
+01:07:44,298 --> 01:07:49,057
+me deitei para tirar uma soneca,
+quando ouvi um barulho lá fora.
+
+727
+01:07:50,404 --> 01:07:54,064
+Achei que fosse um caminhão
+chegando, fui dar uma olhada,
+
+728
+01:07:55,297 --> 01:07:57,103
+mas o som parou
+
+729
+01:07:59,196 --> 01:08:01,822
+e vi algo no céu
+através da janela.
+
+730
+01:08:03,494 --> 01:08:05,783
+Parecia um avião
+que não se movia.
+
+731
+01:08:06,988 --> 01:08:09,039
+Não sabia o que era
+
+732
+01:08:09,580 --> 01:08:13,525
+e não pensei muito sobre,
+então voltei e fui dormir.
+
+733
+01:08:15,603 --> 01:08:17,759
+Quando acordei eram duas
+da manhã,
+
+734
+01:08:17,760 --> 01:08:19,797
+e pensei, que tinha
+apenas dormido tarde,
+
+735
+01:08:19,798 --> 01:08:22,517
+mas me senti tão esquisita.
+
+736
+01:08:23,236 --> 01:08:24,777
+Me senti estranha.
+
+737
+01:08:25,670 --> 01:08:27,455
+Não me sentia a mesma.
+
+738
+01:08:32,517 --> 01:08:35,728
+E quando eu vi minha tia e tio
+na outra manhã,
+
+739
+01:08:36,205 --> 01:08:37,687
+estavam em pânico.
+
+740
+01:08:39,919 --> 01:08:42,096
+Disseram que tinha
+sumido por dois dias...
+
+741
+01:08:42,589 --> 01:08:45,635
+e que haviam grupos de resgate
+lá fora, procurando por mim.
+
+742
+01:08:50,150 --> 01:08:52,338
+Não me lembro de nada,
+
+743
+01:08:53,088 --> 01:08:56,103
+mas me lembro de ter visto
+aquele objeto estranho no céu.
+
+744
+01:08:58,339 --> 01:08:59,806
+E quando eu pesquisei,
+
+745
+01:08:59,807 --> 01:09:02,775
+acabei descobrindo pessoas
+com experiências parecidas.
+
+746
+01:09:04,369 --> 01:09:07,580
+Quando contei para as pessoas,
+acharam que eu era louca.
+
+747
+01:09:08,666 --> 01:09:10,148
+Conheço esse sentimento.
+
+748
+01:09:11,124 --> 01:09:13,057
+O que fez você postar seu vídeo?
+
+749
+01:09:13,838 --> 01:09:17,666
+Pensei que se postasse, alguém
+iria ver e acreditar em mim.
+
+750
+01:09:18,666 --> 01:09:20,860
+Mas acho que esse tiro
+saiu pela culatra.
+
+751
+01:09:20,861 --> 01:09:22,196
+É.
+
+752
+01:09:22,197 --> 01:09:24,353
+As pessoas disseram a mesma
+coisa sobre mim.
+
+753
+01:09:24,807 --> 01:09:27,484
+Elas dizem que só fugi,
+que queria atenção.
+
+754
+01:09:27,485 --> 01:09:31,315
+É. Inventamos histórias malucas
+sobre alienígenas por atenção.
+
+755
+01:09:31,316 --> 01:09:34,353
+É. Porque é o tipo de
+atenção que procuramos.
+
+756
+01:09:41,971 --> 01:09:43,282
+Como estamos?
+
+757
+01:09:43,283 --> 01:09:45,610
+Sem relatos sobre o cara
+nos últimos 30 anos.
+
+758
+01:09:45,611 --> 01:09:47,155
+Ele sabe
+como ficar anônimo.
+
+759
+01:09:47,156 --> 01:09:49,204
+- É esse cara mesmo?
+- É, acho que sim.
+
+760
+01:09:49,205 --> 01:09:50,593
+Digitou certo o nome dele?
+
+761
+01:09:50,594 --> 01:09:53,033
+- Diz ter sido levado num OVNI?
+- É ele.
+
+762
+01:09:53,034 --> 01:09:54,995
+- O que mais?
+- Você trabalha para NASA,
+
+763
+01:09:54,996 --> 01:09:58,977
+que mora na Via Bettinger, 3413,
+bateu um Volvo 97,
+
+764
+01:09:58,978 --> 01:10:01,931
+- e que coleciona brinquedos.
+- O quê? Não!
+
+765
+01:10:01,932 --> 01:10:04,790
+Não, não faço isso.
+Quando me questionaram,
+
+766
+01:10:04,791 --> 01:10:06,509
+falaram sobre
+a Colúmbia Britânica,
+
+767
+01:10:06,510 --> 01:10:08,213
+quando falavam sobre o Carl.
+
+768
+01:10:10,544 --> 01:10:13,072
+Aquele artigo mencionava algo
+sobre o Canadá?
+
+769
+01:10:13,885 --> 01:10:17,322
+Não, acho que não. Só dizia
+que foi abduzido no Alasca.
+
+770
+01:10:17,985 --> 01:10:20,602
+E você checou tudo,
+telefones, postagem, registros?
+
+771
+01:10:20,603 --> 01:10:21,932
+Tudo.
+
+772
+01:10:27,871 --> 01:10:29,198
+Espere.
+
+773
+01:10:31,035 --> 01:10:33,968
+- Abra o satélite JPL Xavier.
+- Porque?
+
+774
+01:10:33,969 --> 01:10:35,291
+Só abra.
+
+775
+01:10:42,343 --> 01:10:44,744
+- O que isso significa?
+- Um momento.
+
+776
+01:10:46,484 --> 01:10:47,815
+Aí, pare.
+
+777
+01:11:00,201 --> 01:11:01,533
+Lá.
+
+778
+01:11:01,911 --> 01:11:03,237
+É isso.
+
+779
+01:11:03,921 --> 01:11:05,690
+Use essas coordenadas
+de GPS.
+
+780
+01:11:20,276 --> 01:11:21,676
+É isso?
+
+781
+01:11:23,997 --> 01:11:25,575
+<i>Columbia Britânica, Canadá.</i>
+
+782
+01:11:26,051 --> 01:11:29,630
+<i>No meio do nada, uns 100 km
+da cidade mais próxima.</i>
+
+783
+01:11:30,232 --> 01:11:32,098
+<i>É onde as coordenadas
+estão apontando.</i>
+
+784
+01:11:32,099 --> 01:11:34,044
+<i>O sinal do wi-fi
+está bem forte.</i>
+
+785
+01:11:36,849 --> 01:11:38,198
+Posso falar com ele?
+
+786
+01:11:38,199 --> 01:11:40,958
+Sim, posso tentar uma conversa
+em vídeo. Só um instante.
+
+787
+01:11:46,788 --> 01:11:48,544
+ZED ESTÁ CHAMANDO...
+
+788
+01:11:51,306 --> 01:11:53,277
+Muito bem, acho que
+está dando certo.
+
+789
+01:12:01,546 --> 01:12:03,516
+ZED ESTÁ CHAMANDO...
+
+790
+01:12:13,310 --> 01:12:15,735
+Carl?
+Carl Meissner?
+
+791
+01:12:16,601 --> 01:12:18,809
+- O que aconteceu?
+- Ele desligou.
+
+792
+01:12:18,810 --> 01:12:21,285
+- Era ele.
+- Pode reconectar?
+
+793
+01:12:21,286 --> 01:12:23,910
+Se o computador estiver ligado,
+posso tentar a força,
+
+794
+01:12:23,911 --> 01:12:25,770
+mas só teremos uma chance.
+
+795
+01:12:25,771 --> 01:12:28,512
+- Se ele desligar, já era.
+- Certo.
+
+796
+01:12:28,513 --> 01:12:29,904
+Tenta.
+
+797
+01:12:36,222 --> 01:12:38,904
+ZED ESTÁ CHAMANDO...
+IGNORANDO...
+
+798
+01:12:39,708 --> 01:12:43,817
+<i>Carl, sou Isaac. Estou ligando
+porque fui abduzido há 7 dias.</i>
+
+799
+01:12:43,818 --> 01:12:45,981
+Quando contei a história,
+ninguém acreditou.
+
+800
+01:12:45,982 --> 01:12:48,326
+Fui levado raptado
+por um pessoal sigiloso,
+
+801
+01:12:48,327 --> 01:12:50,285
+que trabalham
+em uma agência secreta.
+
+802
+01:12:50,286 --> 01:12:52,829
+- Disseram que o conheciam.
+- Não sei o que querem,
+
+803
+01:12:52,830 --> 01:12:55,723
+mas ainda devem estar atrás
+de mim. Você é minha esperança
+
+804
+01:12:55,724 --> 01:12:57,613
+de esclarecer o que está
+acontecendo.
+
+805
+01:12:57,614 --> 01:13:00,332
+Sou do Laboratório de Propulsão
+a Jato, em Pasadena.
+
+806
+01:13:00,333 --> 01:13:03,348
+Há alguns meses, captamos sinais
+de áudio em nossos satélites
+
+807
+01:13:03,349 --> 01:13:05,051
+deste remoto localização
+no Canadá.
+
+808
+01:13:05,052 --> 01:13:07,801
+Foi assim que o encontrei.
+Interceptei sua frequência,
+
+809
+01:13:07,802 --> 01:13:10,616
+e enviei de um de nossos
+satélites, sem saber o que era.
+
+810
+01:13:10,617 --> 01:13:12,607
+Na mesma noite recebi de
+volta o sinal.
+
+811
+01:13:12,608 --> 01:13:15,113
+- Por isso fui abduzido...
+- Pare.
+
+812
+01:13:15,114 --> 01:13:16,473
+O que você está dizendo?
+
+813
+01:13:16,881 --> 01:13:18,929
+Você recebeu
+um sinal de volta?
+
+814
+01:13:18,930 --> 01:13:20,256
+<i>Sim.</i>
+
+815
+01:13:21,168 --> 01:13:23,319
+Precisa me enviar esses
+dados agora mesmo.
+
+816
+01:13:23,701 --> 01:13:26,885
+Certo. Podemos tentar
+baixar e enviá-lo para você.
+
+817
+01:13:26,886 --> 01:13:28,482
+Voltaremos online em breve.
+
+818
+01:13:28,483 --> 01:13:30,733
+Pode voltar ao servidor
+da NASA?
+
+819
+01:13:34,303 --> 01:13:35,607
+- Aquele?
+- Sim.
+
+820
+01:13:35,608 --> 01:13:37,814
+Porque ele quer
+aqueles dados?
+
+821
+01:13:37,815 --> 01:13:40,802
+Primeiro achei que fosse um erro
+ou um defeito do satélite,
+
+822
+01:13:40,803 --> 01:13:42,700
+como um erro
+de falha de leitura.
+
+823
+01:13:42,701 --> 01:13:44,936
+Mas algo me diz
+que pode ser mais que isso.
+
+824
+01:13:45,811 --> 01:13:47,147
+Como o quê?
+
+825
+01:13:47,631 --> 01:13:50,139
+Como...
+Eles.
+
+826
+01:13:54,498 --> 01:13:57,225
+- Parece que acabou de baixar.
+- Muito bem.
+
+827
+01:13:57,729 --> 01:13:59,397
+Pronto para voltar?
+
+828
+01:14:04,508 --> 01:14:06,311
+<i>Oi Carl, baixamos o sinal.</i>
+
+829
+01:14:07,066 --> 01:14:08,428
+Pode enviá-lo?
+
+830
+01:14:12,091 --> 01:14:13,412
+Certo, acabamos de enviar.
+
+831
+01:14:43,054 --> 01:14:44,651
+O que ele está fazendo?
+
+832
+01:14:59,976 --> 01:15:04,097
+<i>Estamos chegando, Quinta-feira,
+21 de outubro, 4 da manhã,</i>
+
+833
+01:15:04,098 --> 01:15:08,873
+<i>48.454709 graus de longitude.</i>
+
+834
+01:15:08,874 --> 01:15:13,553
+<i>Menos 123.780212 graus</i>
+
+835
+01:15:13,554 --> 01:15:15,155
+<i>de longitude.</i>
+
+836
+01:15:19,202 --> 01:15:20,602
+Funcionou.
+
+837
+01:15:21,405 --> 01:15:23,007
+Eles estão vindo aqui.
+
+838
+01:15:23,399 --> 01:15:25,030
+Em 5 dias.
+
+839
+01:15:27,679 --> 01:15:31,022
+Sugiro esconderem-se. A agência
+não vai parar até os achar.
+
+840
+01:15:31,023 --> 01:15:32,834
+<i>Livrem-se de celulares,
+eletrônicos,</i>
+
+841
+01:15:32,835 --> 01:15:34,717
+fiquem fora dos radares.
+
+842
+01:15:34,718 --> 01:15:36,742
+<i>Tenho que ir agora,
+boa sorte.</i>
+
+843
+01:15:36,743 --> 01:15:38,047
+Espere, Carl.
+
+844
+01:15:38,048 --> 01:15:41,069
+- Desligou de novo.
+- Temos que voltar. É possível?
+
+845
+01:15:44,811 --> 01:15:47,405
+Não, desligou tudo, acabou.
+
+846
+01:15:47,710 --> 01:15:49,109
+Que estranho, e agora?
+
+847
+01:15:49,110 --> 01:15:51,584
+Precisamos ir para o Canadá,
+encontrar o Carl.
+
+848
+01:15:51,585 --> 01:15:53,319
+Temos de estar lá
+quando vierem.
+
+849
+01:15:53,796 --> 01:15:55,225
+O quê?
+
+850
+01:15:55,226 --> 01:15:57,914
+Sabemos onde ele está e virão
+em 5 dias. Temos que ir.
+
+851
+01:15:57,915 --> 01:15:59,404
+Não.
+
+852
+01:15:59,405 --> 01:16:01,873
+É uma má ideia,
+é muito perigoso.
+
+853
+01:16:01,874 --> 01:16:03,881
+Ele é o único
+que pode nos ajudar.
+
+854
+01:16:03,882 --> 01:16:06,835
+Se o que ouvimos for real,
+realmente temos outra escolha?
+
+855
+01:16:07,210 --> 01:16:09,748
+Lembro como foi, não vou
+passar por aquilo de novo.
+
+856
+01:16:09,749 --> 01:16:11,115
+Por favor, Sara.
+
+857
+01:16:11,116 --> 01:16:12,701
+Isso me consome
+noite e dia.
+
+858
+01:16:12,702 --> 01:16:16,077
+Não como, não durmo,
+não consigo pensar em mais nada.
+
+859
+01:16:16,078 --> 01:16:18,404
+Só posso imaginar o que
+você teve que passar.
+
+860
+01:16:18,405 --> 01:16:19,725
+Não posso parar.
+
+861
+01:16:19,726 --> 01:16:21,576
+Eu tenho perguntas demais.
+
+862
+01:16:21,577 --> 01:16:24,664
+E o que mais me amedronta,
+o que não paro de pensar sobre,
+
+863
+01:16:24,665 --> 01:16:27,320
+é que talvez nunca serei capaz
+de deixar isso de lado.
+
+864
+01:16:27,321 --> 01:16:28,854
+Então eu tenho que ir.
+
+865
+01:16:29,780 --> 01:16:31,180
+Mas preciso de sua ajuda.
+
+866
+01:16:32,173 --> 01:16:33,484
+Por favor, vamos.
+
+867
+01:16:37,006 --> 01:16:38,319
+Certo.
+
+868
+01:16:39,776 --> 01:16:41,176
+Posso ir?
+
+869
+01:17:27,648 --> 01:17:29,905
+Quando chegarmos lá,
+deixem que eu falo.
+
+870
+01:17:29,906 --> 01:17:32,264
+Ele será de boa com vocês,
+ele está me devendo.
+
+871
+01:17:32,265 --> 01:17:34,828
+E acreditem, quanto menos
+souberem dele, melhor.
+
+872
+01:17:42,828 --> 01:17:45,859
+Ele está nos encarando,
+disfarcemos.
+
+873
+01:17:48,459 --> 01:17:50,038
+Certo, podemos ir.
+
+874
+01:17:54,585 --> 01:17:56,280
+Apertem seus cintos.
+
+875
+01:17:56,281 --> 01:17:58,148
+Esses aviões são
+meio bruscos.
+
+876
+01:17:58,765 --> 01:18:02,093
+O José aqui é um estudante.
+Piloto em treinamento.
+
+877
+01:18:05,691 --> 01:18:07,499
+Próxima parada, CB!
+
+878
+01:18:42,168 --> 01:18:44,199
+Estão sobre o Pacífico,
+eles escaparam.
+
+879
+01:18:45,097 --> 01:18:46,663
+Estão indo para o Canadá.
+
+880
+01:18:50,707 --> 01:18:52,457
+Todas as unidades do Norte,
+busquem
+
+881
+01:18:52,458 --> 01:18:55,706
+os indivíduos IO174 e EO175.
+
+882
+01:18:55,707 --> 01:18:59,573
+Estão em Território Distrital,
+todos agentes e andróides.
+
+883
+01:18:59,574 --> 01:19:03,011
+Temos também uma trilha
+sobre o indivíduo primário IO35.
+
+884
+01:19:03,012 --> 01:19:04,957
+Por favor, aguardem, câmbio.
+
+885
+01:19:07,932 --> 01:19:11,004
+COLÚMBIA BRIT NICA,
+CANADÁ
+
+886
+01:19:32,639 --> 01:19:33,948
+Encontrou algo?
+
+887
+01:19:33,949 --> 01:19:36,976
+Sim, parece que tem um trem
+para a cidade mais próxima.
+
+888
+01:19:36,977 --> 01:19:39,785
+Fica a 50km da cabana dele,
+mas é o mais perto de lá.
+
+889
+01:19:40,908 --> 01:19:42,246
+Vamos nessa.
+
+890
+01:19:47,363 --> 01:19:49,542
+Sim, parece que está bem.
+
+891
+01:19:49,543 --> 01:19:51,028
+Cerrar o punho é de boa.
+
+892
+01:19:51,029 --> 01:19:53,635
+- Só quando eu o torço... Sim.
+- Torce o pulso?
+
+893
+01:20:02,578 --> 01:20:04,215
+Onde conseguiu esse anel?
+
+894
+01:20:06,508 --> 01:20:08,152
+Meu tio me deu.
+
+895
+01:20:08,893 --> 01:20:10,441
+Isso representa o amor.
+
+896
+01:20:11,099 --> 01:20:12,899
+Ele queria que eu
+me lembrasse disso,
+
+897
+01:20:13,387 --> 01:20:14,995
+em qualquer circunstância,
+
+898
+01:20:14,996 --> 01:20:17,387
+eu sempre fui amada.
+
+899
+01:20:19,004 --> 01:20:20,471
+É uma boa lembrança.
+
+900
+01:20:20,472 --> 01:20:22,020
+Algumas vezes eu esqueço.
+
+901
+01:20:35,285 --> 01:20:37,905
+Não se pode lançar
+um foguete lá de fora.
+
+902
+01:20:37,906 --> 01:20:39,245
+Isso leva anos.
+
+903
+01:20:39,246 --> 01:20:40,925
+Você é
+um cientista de foguete.
+
+904
+01:20:40,926 --> 01:20:43,698
+Na verdade, os satélites,
+são mais complicados de fazer.
+
+905
+01:20:43,699 --> 01:20:45,244
+Você é tão idiota.
+
+906
+01:20:45,902 --> 01:20:47,706
+Tanto faz, cara,
+eu não sou.
+
+907
+01:20:47,707 --> 01:20:49,948
+Engenharia de computação,
+exige concentração,
+
+908
+01:20:49,949 --> 01:20:53,066
+com cálculos precisos, precisa
+ser muito bom em matemática...
+
+909
+01:20:54,808 --> 01:20:56,378
+Sim,
+talvez isso seja meio bobo.
+
+910
+01:20:56,379 --> 01:20:58,441
+- É.
+- Mas por pouco.
+
+911
+01:21:00,793 --> 01:21:02,730
+- Merda!
+- O quê?
+
+912
+01:21:02,731 --> 01:21:05,059
+- Estão nos seguindo.
+- O quê?
+
+913
+01:21:05,060 --> 01:21:07,840
+Policiais da PEPI,
+nos rastrearam.
+
+914
+01:21:24,396 --> 01:21:26,332
+Rastreadores localizados.
+
+915
+01:21:29,097 --> 01:21:30,628
+- Aqui, coloquem isso!
+- O quê?
+
+916
+01:21:30,629 --> 01:21:33,880
+Os andróides são programados
+para reconhecimento facial
+
+917
+01:21:33,881 --> 01:21:36,082
+As máscaras confundirão
+as câmeras deles.
+
+918
+01:22:31,182 --> 01:22:32,910
+Acho que isso não está
+funcionando!
+
+919
+01:22:32,911 --> 01:22:34,821
+Não se mexa.
+
+920
+01:22:46,196 --> 01:22:47,743
+Vai, vai, vai, vai!
+
+921
+01:22:50,118 --> 01:22:52,064
+Vamos, temos que subir!
+
+922
+01:22:53,368 --> 01:22:55,589
+Identificação dos sujeitos
+não encontrada.
+
+923
+01:22:55,590 --> 01:22:58,071
+<i>Perseguir todos os dispositivos
+de rastreamento.</i>
+
+924
+01:23:02,988 --> 01:23:04,706
+Rastreadores localizados.
+
+925
+01:23:04,707 --> 01:23:06,636
+Indivíduos no teto.
+
+926
+01:23:06,637 --> 01:23:07,995
+Vamos, continuem correndo!
+
+927
+01:23:07,996 --> 01:23:11,859
+- Não parem!
+- I4 perseguindo objetivos.
+
+928
+01:23:12,957 --> 01:23:15,432
+Vamos,
+temos que pular um vagão.
+
+929
+01:23:15,433 --> 01:23:16,746
+Ali!
+
+930
+01:23:17,566 --> 01:23:19,572
+Unidade I4 ao chão.
+
+931
+01:23:19,573 --> 01:23:21,878
+<i>Continue perseguindo
+os dispositivos.</i>
+
+932
+01:23:21,879 --> 01:23:23,838
+- Vamos!
+- Muito bem, vamos lá!
+
+933
+01:23:23,839 --> 01:23:25,746
+<i>Rastreadores localizados.</i>
+
+934
+01:23:36,387 --> 01:23:38,012
+Não esperava por isso.
+
+935
+01:25:14,384 --> 01:25:15,689
+Obrigado.
+
+936
+01:25:36,594 --> 01:25:37,994
+Aí está.
+
+937
+01:26:15,176 --> 01:26:18,290
+- Quem são vocês?
+- Carl, Carl, é o Isaac!
+
+938
+01:26:18,611 --> 01:26:21,704
+Da conversa de vídeo.
+Fui quem mandou o sinal.
+
+939
+01:26:22,433 --> 01:26:23,743
+Quem são os outros?
+
+940
+01:26:24,173 --> 01:26:26,488
+Ela é a Sara.
+Ela também foi abduzida.
+
+941
+01:26:26,489 --> 01:26:28,770
+E ele é o Zed, que ajudou-nos
+a contatar você.
+
+942
+01:26:29,490 --> 01:26:32,502
+- Vocês foram desativados?
+- O que quer dizer com isso?
+
+943
+01:26:32,503 --> 01:26:35,220
+- Foram seguidos?
+- Não, somos só nós.
+
+944
+01:26:44,095 --> 01:26:45,495
+O que é isso?
+
+945
+01:26:46,181 --> 01:26:48,807
+Espere, o que está fazendo?
+O que é isso?
+
+946
+01:26:48,808 --> 01:26:50,918
+- Quem mais? Anda
+-O que é isso?
+
+947
+01:26:50,919 --> 01:26:52,219
+Você?
+
+948
+01:26:55,966 --> 01:26:57,366
+SINAL PERDIDO
+
+949
+01:26:59,253 --> 01:27:00,683
+Perdemos o sinal.
+
+950
+01:27:00,684 --> 01:27:02,699
+Alguém desativou-os.
+
+951
+01:27:03,066 --> 01:27:04,621
+Dispositivos de rastreio.
+
+952
+01:27:04,925 --> 01:27:06,526
+Que estão em seus braços.
+
+953
+01:27:06,527 --> 01:27:08,106
+Isso não são dos agentes.
+
+954
+01:27:08,507 --> 01:27:09,816
+Deles.
+
+955
+01:27:17,291 --> 01:27:18,792
+Vocês estão adiantados.
+
+956
+01:27:18,793 --> 01:27:20,699
+Eles chegarão em dois dias.
+
+957
+01:27:30,137 --> 01:27:33,421
+Depois de eu ter escapado
+das mãos do PEPI,
+
+958
+01:27:33,422 --> 01:27:35,823
+tive que encontrar um modo
+de fazer contacto.
+
+959
+01:27:36,895 --> 01:27:39,175
+Sabia que existiam instalações
+de pesquisas,
+
+960
+01:27:39,176 --> 01:27:41,206
+tentando fazer
+o que eu queria fazer,
+
+961
+01:27:41,207 --> 01:27:43,417
+então eu comprei alguns
+desses equipamentos.
+
+962
+01:27:43,418 --> 01:27:47,191
+Venho acumulando essas coisas
+durante 20 anos.
+
+963
+01:27:48,199 --> 01:27:50,582
+Alguns dos meus testes
+recentes,
+
+964
+01:27:51,496 --> 01:27:54,957
+conseguiram pegar uns sinais,
+sons estranhos.
+
+965
+01:27:56,081 --> 01:27:57,482
+Coisas que não se ouvem.
+
+966
+01:27:59,011 --> 01:28:00,879
+O que eu recebi
+de volta foi raro.
+
+967
+01:28:01,941 --> 01:28:03,910
+Durante muitos anos
+eu fui capaz,
+
+968
+01:28:04,910 --> 01:28:06,607
+de descobrir
+uma forma de decifrar
+
+969
+01:28:06,608 --> 01:28:10,105
+os sinais para áudio.
+
+970
+01:28:10,106 --> 01:28:13,356
+E de áudio
+para a linguagem.
+
+971
+01:28:18,504 --> 01:28:20,449
+Aqui tem um pouco
+do que eu recebi.
+
+972
+01:28:40,869 --> 01:28:43,237
+E esta é a tradução.
+
+973
+01:28:46,019 --> 01:28:48,559
+<i>Aproximando do sistema solar.</i>
+
+974
+01:28:50,892 --> 01:28:52,816
+<i>Orbitando a Terra.</i>
+
+975
+01:28:56,384 --> 01:28:59,309
+<i>Origem humana confirmada.</i>
+
+976
+01:29:00,308 --> 01:29:01,910
+<i>Retornando.</i>
+
+977
+01:29:03,215 --> 01:29:05,190
+Isto é só alguns que eu tenho.
+
+978
+01:29:05,191 --> 01:29:07,137
+Estou trabalhando em outros.
+
+979
+01:29:08,198 --> 01:29:10,270
+Mas o sinal
+que você me enviou,
+
+980
+01:29:12,207 --> 01:29:14,401
+é o mais descritivo que tenho.
+
+981
+01:29:14,402 --> 01:29:16,762
+É a única resposta
+que já recebi.
+
+982
+01:29:17,691 --> 01:29:20,041
+Fiquei tentando contatá-los
+durante muitos anos.
+
+983
+01:29:21,981 --> 01:29:23,901
+Então, se foi capaz de obter
+
+984
+01:29:23,902 --> 01:29:26,291
+um sinal de áudio
+direto deles,
+
+985
+01:29:26,292 --> 01:29:27,987
+se fizesse contacto,
+novamente,
+
+986
+01:29:27,988 --> 01:29:29,612
+- talvez poderia...
+- Sim.
+
+987
+01:29:29,613 --> 01:29:31,558
+Poderia conversar
+com aliens, cara!
+
+988
+01:29:32,105 --> 01:29:34,245
+- Sim.
+- Então...
+
+989
+01:29:34,784 --> 01:29:36,581
+Se não se importa
+que eu pergunte...
+
+990
+01:29:37,027 --> 01:29:38,682
+como fez isso acontecer?
+
+991
+01:29:38,683 --> 01:29:41,308
+- Quero dizer, como...
+- Como eu fui abduzido?
+
+992
+01:29:45,048 --> 01:29:47,300
+Garoto,
+já faz bom tempo.
+
+993
+01:29:50,304 --> 01:29:51,816
+Foi numa Quinta-feira...
+
+994
+01:29:52,905 --> 01:29:56,495
+em 7 de Novembro de 1979.
+
+995
+01:29:58,100 --> 01:29:59,605
+O Sol estava se pondo.
+
+996
+01:30:00,554 --> 01:30:04,491
+Nas florestas do Alasca,
+é  onde trabalhávamos.
+
+997
+01:30:05,011 --> 01:30:08,238
+O dia terminou, arrumamos
+a madeira na caminhonete
+
+998
+01:30:09,101 --> 01:30:10,886
+para voltar à cidade.
+
+999
+01:30:13,359 --> 01:30:15,481
+Três dos meus colegas,
+os irmãos Haskell,
+
+1000
+01:30:15,482 --> 01:30:18,231
+foram à minha frente,
+na camionete deles.
+
+1001
+01:30:18,232 --> 01:30:21,044
+E fui na minha, seguindo-os.
+
+1002
+01:30:21,622 --> 01:30:26,019
+Uma luz azul brilhante desceu
+e atingiu o veículo deles,
+
+1003
+01:30:26,020 --> 01:30:28,513
+bem na minha frente
+e pisei fundo no freio.
+
+1004
+01:30:28,896 --> 01:30:30,699
+Tentei ligar o veículo,
+mas não dava.
+
+1005
+01:30:30,700 --> 01:30:33,701
+Corri para dentro da floresta.
+Não fui rápido o bastante,
+
+1006
+01:30:33,702 --> 01:30:35,028
+me atingiram.
+
+1007
+01:30:35,705 --> 01:30:37,599
+Como se fosse
+um trem de carga.
+
+1008
+01:30:38,615 --> 01:30:40,716
+Meu corpo inteiro
+ficou rígido.
+
+1009
+01:30:42,620 --> 01:30:44,200
+Fiquei paralisado.
+
+1010
+01:30:44,989 --> 01:30:48,130
+Tentei espernear,
+tentei resistir.
+
+1011
+01:30:48,895 --> 01:30:50,295
+Mas não conseguia me mover.
+
+1012
+01:30:52,395 --> 01:30:54,372
+Meu corpo ficou dormente,
+
+1013
+01:30:55,707 --> 01:30:57,122
+sem peso.
+
+1014
+01:30:58,179 --> 01:31:00,864
+Como se estivesse
+conectado ao ar.
+
+1015
+01:31:06,687 --> 01:31:08,614
+Isto é a última coisa
+que me lembro.
+
+1016
+01:31:27,500 --> 01:31:28,901
+O que foi aquele barulho?
+
+1017
+01:31:29,699 --> 01:31:31,216
+Parecia um trovão.
+
+1018
+01:31:38,692 --> 01:31:41,419
+- Aquilo funciona?
+- Funciona.
+
+1019
+01:31:41,822 --> 01:31:44,942
+Era o toca-discos
+do Franklin Roosevelt.
+
+1020
+01:32:02,087 --> 01:32:04,427
+- Posso?
+- É claro.
+
+1021
+01:33:32,575 --> 01:33:35,325
+Carregue as coordenadas para
+o controle das instalações.
+
+1022
+01:33:39,181 --> 01:33:41,889
+Aqui é o Agente Graves,
+com ordens expressas.
+
+1023
+01:33:41,890 --> 01:33:44,496
+Preciso que despachem
+todas as unidades de caça.
+
+1024
+01:33:44,497 --> 01:33:47,228
+<i>Mandato sobre
+o indivíduo I035 reativado.</i>
+
+1025
+01:33:47,669 --> 01:33:50,707
+Coordenadas estão sendo mandadas
+ao controle da instalação.
+
+1026
+01:33:50,708 --> 01:33:54,950
+Encontramo-nos no local
+às 16:00 horas de quinta-feira.
+
+1027
+01:33:55,310 --> 01:33:57,450
+Todas as forças necessárias.
+
+1028
+01:34:12,326 --> 01:34:14,021
+Interessado em alguma coisa?
+
+1029
+01:34:14,511 --> 01:34:18,067
+Você tem um Avalon VT737SP.
+
+1030
+01:34:18,788 --> 01:34:20,857
+David Bowie usava um desses.
+
+1031
+01:34:23,797 --> 01:34:26,363
+Como você conseguiu
+decodificar sinais de rádio?
+
+1032
+01:34:26,364 --> 01:34:28,395
+Escaneando ondas curtas
+de rádio?
+
+1033
+01:34:28,396 --> 01:34:31,793
+Um dispositivo RDS,
+decodifica a linguagem.
+
+1034
+01:34:31,794 --> 01:34:35,419
+Mas é um código aberto,
+as possibilidades são infinitas.
+
+1035
+01:34:36,106 --> 01:34:39,419
+Utiliza receptores,
+transmissores.
+
+1036
+01:34:39,997 --> 01:34:43,793
+Está tudo ligado a ele, a única
+forma de captar de tão longe.
+
+1037
+01:34:43,794 --> 01:34:47,513
+Taxa baixa,
+sinais de banda base complexos.
+
+1038
+01:34:49,099 --> 01:34:51,778
+- Descobriu tudo isso sozinho?
+- Praticamente.
+
+1039
+01:34:53,475 --> 01:34:55,369
+Você não era um lenhador?
+
+1040
+01:34:55,370 --> 01:34:56,700
+Isso mesmo.
+
+1041
+01:34:57,523 --> 01:34:59,810
+Como o Paul Bunyan?
+
+1042
+01:35:00,393 --> 01:35:01,700
+Isso.
+
+1043
+01:35:04,793 --> 01:35:06,317
+Sabe o que eles dizem?
+
+1044
+01:35:07,008 --> 01:35:10,044
+A necessidade
+é a mãe da invenção.
+
+1045
+01:35:11,685 --> 01:35:13,414
+- Posso puxar a alavanca?
+- Não.
+
+1046
+01:35:13,415 --> 01:35:14,810
+Certo.
+
+1047
+01:35:28,799 --> 01:35:30,364
+Está nervoso?
+
+1048
+01:35:32,811 --> 01:35:35,013
+Não, na verdade não.
+
+1049
+01:35:35,514 --> 01:35:37,160
+Fiquei nervoso.
+
+1050
+01:35:37,161 --> 01:35:40,322
+Sempre fica pior quando a coisa
+causando nervosismo se aproxima,
+
+1051
+01:35:40,323 --> 01:35:43,224
+mas eu não sinto isso
+por alguma razão.
+
+1052
+01:35:45,895 --> 01:35:47,513
+Digo, nós escapamos, certo?
+
+1053
+01:35:52,906 --> 01:35:55,325
+Você se lembra o que aconteceu
+lá na instalação?
+
+1054
+01:35:57,609 --> 01:35:59,759
+Como você me libertou
+da minha sala?
+
+1055
+01:36:01,304 --> 01:36:03,771
+Ou como você abriu aquela
+porta pela qual fugimos?
+
+1056
+01:36:07,387 --> 01:36:10,271
+É como
+se algo tenha nos mudado.
+
+1057
+01:36:12,212 --> 01:36:14,208
+Eu me sinto diferente
+desde então.
+
+1058
+01:36:18,380 --> 01:36:20,030
+Você acha
+que eles estavam certo?
+
+1059
+01:36:21,906 --> 01:36:23,247
+Os agentes?
+
+1060
+01:36:25,497 --> 01:36:28,982
+Acha que fomos expostos
+a algo que pode ter nos mudado?
+
+1061
+01:36:29,500 --> 01:36:30,872
+Eu não sei.
+
+1062
+01:36:32,912 --> 01:36:34,312
+Talvez.
+
+1063
+01:36:36,336 --> 01:36:37,849
+Eu também senti.
+
+1064
+01:36:39,589 --> 01:36:41,372
+Sei que algo está diferente.
+
+1065
+01:36:43,703 --> 01:36:45,724
+Algo com certeza mudou.
+
+1066
+01:36:48,377 --> 01:36:51,971
+E quando o Carl descreveu,
+
+1067
+01:36:51,972 --> 01:36:53,727
+sabe, o tempo desacelerando,
+
+1068
+01:36:54,883 --> 01:36:57,602
+ou o sentimento
+de estarmos todos conectados,
+
+1069
+01:36:59,824 --> 01:37:01,585
+eu realmente senti isso,
+
+1070
+01:37:01,586 --> 01:37:03,406
+havia algo de errado comigo.
+
+1071
+01:37:05,792 --> 01:37:07,192
+Para quem eu poderia contar?
+
+1072
+01:37:08,875 --> 01:37:10,211
+Eu sei.
+
+1073
+01:37:12,897 --> 01:37:14,992
+Talvez eles terão respostas.
+
+1074
+01:37:28,815 --> 01:37:30,352
+Dê-me isso!
+
+1075
+01:37:32,769 --> 01:37:34,266
+Não tinha nada!
+
+1076
+01:37:36,567 --> 01:37:38,219
+Eu entendo.
+
+1077
+01:38:26,995 --> 01:38:29,804
+Quero que você esteja pronto
+para o que aconteça amanhã.
+
+1078
+01:38:29,805 --> 01:38:33,600
+Pode acontecer de tudo.
+Ninguém está seguro.
+
+1079
+01:38:33,601 --> 01:38:35,250
+Eu sei
+
+1080
+01:38:37,617 --> 01:38:39,983
+Por isso preciso
+que estejamos em sintonia.
+
+1081
+01:38:39,984 --> 01:38:42,500
+Quando eles vierem,
+só teremos uma chance.
+
+1082
+01:38:43,085 --> 01:38:45,289
+Por isso preciso lhe contar
+sobre um plano.
+
+1083
+01:39:01,900 --> 01:39:03,300
+Isaac?
+
+1084
+01:39:07,781 --> 01:39:09,328
+Você deveria estar dormindo.
+
+1085
+01:39:10,572 --> 01:39:12,266
+Não consigo.
+
+1086
+01:39:13,502 --> 01:39:15,133
+Minha mente está a mil.
+
+1087
+01:39:17,935 --> 01:39:20,813
+Não tive tempo para pensar
+sobre as coisas até agora.
+
+1088
+01:39:26,039 --> 01:39:27,891
+It's a lot
+to think about.
+
+1089
+01:39:29,903 --> 01:39:32,504
+É muito estranho que isso tenha
+acontecido conosco.
+
+1090
+01:39:35,615 --> 01:39:37,414
+Parece um sonho.
+
+1091
+01:39:38,276 --> 01:39:39,676
+Eu sei.
+
+1092
+01:39:50,170 --> 01:39:52,734
+Você acha que tudo acontece
+por algum motivo?
+
+1093
+01:39:56,378 --> 01:39:58,715
+Ou que tudo é
+totalmente aleatório,
+
+1094
+01:39:59,365 --> 01:40:01,633
+que nada tenha significado
+ou propósito?
+
+1095
+01:40:03,497 --> 01:40:06,079
+É muito estranho como a vida
+junta as pessoas.
+
+1096
+01:40:06,080 --> 01:40:08,469
+Digo, nós nunca havíamos
+nos conhecido.
+
+1097
+01:40:10,311 --> 01:40:13,263
+Se não fosse por isso, nunca
+saberíamos que o outro existia.
+
+1098
+01:40:16,113 --> 01:40:19,297
+Sei que parece loucura,
+mas pense nisso, às vezes.
+
+1099
+01:40:26,365 --> 01:40:28,403
+Só estou feliz que eu tenha
+achado alguém
+
+1100
+01:40:28,404 --> 01:40:30,320
+como você, que entenda.
+
+1101
+01:40:43,853 --> 01:40:45,253
+Eu também.
+
+1102
+01:40:46,412 --> 01:40:49,294
+- Boa noite.
+- Boa noite.
+
+1103
+01:40:51,417 --> 01:40:54,718
+QUINTA-FEIRA 15H55
+
+1104
+01:40:54,719 --> 01:40:58,466
+DIA DA CHEGADA
+
+1105
+01:41:31,614 --> 01:41:32,927
+O quê?
+
+1106
+01:41:34,385 --> 01:41:35,785
+Você sentiu isso?
+
+1107
+01:41:47,201 --> 01:41:48,601
+Você sentiu aquilo?
+
+1108
+01:41:50,505 --> 01:41:51,905
+Eles estão próximos.
+
+1109
+01:42:09,884 --> 01:42:11,208
+Isaac!
+
+1110
+01:42:11,602 --> 01:42:13,002
+Isaac, pare!
+
+1111
+01:42:15,283 --> 01:42:17,772
+- Aonde ele está indo?
+- Que droga, Isaac.
+
+1112
+01:42:17,773 --> 01:42:19,287
+Deixe-o ir.
+
+1113
+01:43:02,495 --> 01:43:04,341
+O que vocês querem?
+
+1114
+01:43:21,173 --> 01:43:22,742
+Porque vocês nos levaram?
+
+1115
+01:43:26,888 --> 01:43:29,387
+<i>Nós conquistamos a ciência,
+a medicina,</i>
+
+1116
+01:43:29,388 --> 01:43:32,732
+<i>a tecnologia
+e o mundo físico.</i>
+
+1117
+01:43:36,318 --> 01:43:40,396
+<i>Procuramos por algo maior,
+além de nosso entendimento.</i>
+
+1118
+01:43:44,302 --> 01:43:47,232
+<i>Estamos pesquisando
+sobre a origem do universo,</i>
+
+1119
+01:43:47,786 --> 01:43:50,521
+<i>A maior existência
+imaginável.</i>
+
+1120
+01:43:53,813 --> 01:43:55,771
+Por que nós?
+
+1121
+01:43:57,707 --> 01:44:01,427
+Digo, por que nós?
+
+1122
+01:44:05,990 --> 01:44:08,319
+<i>Estudamos humanos porque
+eles têm</i>
+
+1123
+01:44:08,320 --> 01:44:12,107
+<i>bastante dessa aura
+dentro deles.</i>
+
+1124
+01:44:16,060 --> 01:44:19,123
+<i>Gostaríamos de fazer
+uma pergunta a vocês.</i>
+
+1125
+01:44:26,802 --> 01:44:28,912
+<i>Quem é esse?</i>
+
+1126
+01:44:53,989 --> 01:44:55,662
+Por que estão
+procurando ele?
+
+1127
+01:44:58,302 --> 01:45:01,544
+<i>Ele está ligado
+à origem de tudo.</i>
+
+1128
+01:45:04,724 --> 01:45:07,707
+<i>Em nossas observações,
+ele é o maior</i>
+
+1129
+01:45:07,708 --> 01:45:12,193
+<i>fator comum em humanos
+que possuem muita dessa aura.</i>
+
+1130
+01:45:12,615 --> 01:45:13,935
+Quem é?
+
+1131
+01:45:15,482 --> 01:45:16,802
+Jesus.
+
+1132
+01:45:24,012 --> 01:45:26,787
+<i>Isso responde
+nossa pergunta.</i>
+
+1133
+01:45:30,898 --> 01:45:33,615
+<i>Nós respondemos
+suas perguntas?</i>
+
+1134
+01:45:35,005 --> 01:45:36,974
+Por que nossos braços doem?
+
+1135
+01:45:38,415 --> 01:45:40,224
+Desde quando fomos levados,
+
+1136
+01:45:41,311 --> 01:45:43,208
+nossos braços estão
+estranhos.
+
+1137
+01:46:04,688 --> 01:46:06,088
+<i>Relaxe.</i>
+
+1138
+01:46:32,060 --> 01:46:34,592
+<i>Foram implantados dispositivos
+de rastreamento</i>
+
+1139
+01:46:34,593 --> 01:46:36,583
+<i>para os nossos registros.</i>
+
+1140
+01:47:05,786 --> 01:47:09,619
+<i>Isaac, sua busca por provas
+é impossível nesse mundo,</i>
+
+1141
+01:47:09,620 --> 01:47:12,075
+<i>onde ver é crer.</i>
+
+1142
+01:47:15,210 --> 01:47:19,521
+Ao longo do tempo, entendemos
+que acreditar é ver.
+
+1143
+01:47:23,592 --> 01:47:26,161
+<i>Alarme,
+detector de movimento.</i>
+
+1144
+01:47:47,122 --> 01:47:49,902
+Eles nos rastrearam,
+estamos cercados.
+
+1145
+01:47:56,396 --> 01:47:59,942
+Carl, preciso que saia
+aqui, por favor.
+
+1146
+01:48:10,314 --> 01:48:13,614
+A cabana está cercada,
+saia agora.
+
+1147
+01:48:19,484 --> 01:48:20,884
+Carl.
+
+1148
+01:48:22,179 --> 01:48:23,579
+Carl!
+
+1149
+01:48:26,616 --> 01:48:28,560
+Podemos facilitar
+muito isso.
+
+1150
+01:48:29,810 --> 01:48:31,256
+Só preciso que me conte
+
+1151
+01:48:31,257 --> 01:48:33,442
+o que houve
+com Ronald Graves.
+
+1152
+01:48:35,810 --> 01:48:38,074
+Estou lhe dando uma chance
+
+1153
+01:48:38,075 --> 01:48:40,216
+para sair aqui
+e conversar sobre isso.
+
+1154
+01:48:44,891 --> 01:48:46,291
+Tudo bem!
+
+1155
+01:48:47,099 --> 01:48:50,271
+Que seja como quiser.
+Você tem um minuto pra sair.
+
+1156
+01:48:59,903 --> 01:49:03,450
+William!
+Pegue seu pessoal e vá embora.
+
+1157
+01:49:04,083 --> 01:49:06,733
+Já disse que não sei
+o que houve com seu pai.
+
+1158
+01:49:06,734 --> 01:49:09,724
+- Não tenho nada a dizer.
+- Vai continuar com isso?
+
+1159
+01:49:10,317 --> 01:49:11,989
+Eu já ouvi isso antes.
+
+1160
+01:49:12,307 --> 01:49:14,489
+Você que respostas
+que ninguém tem.
+
+1161
+01:49:14,903 --> 01:49:18,013
+Ninguém viu o que aconteceu.
+Eu disse a verdade!
+
+1162
+01:49:18,396 --> 01:49:20,872
+Não, você sabe
+o que aconteceu com ele.
+
+1163
+01:49:21,597 --> 01:49:24,146
+Você foi o único
+que falhou no teste.
+
+1164
+01:49:24,903 --> 01:49:28,815
+- Por que ele não voltou.
+- Não havia como saber!
+
+1165
+01:49:28,816 --> 01:49:31,450
+Estavam todos na caminhonete
+quando eu fui lá ver.
+
+1166
+01:49:32,968 --> 01:49:35,918
+- Carl!
+- Foi a última vez que o vi.
+
+1167
+01:49:35,919 --> 01:49:37,241
+- Carl, volte.
+- Entre.
+
+1168
+01:49:37,242 --> 01:49:41,488
+E se não conseguem aceitar isso,
+não tenho mais nada a dizer.
+
+1169
+01:49:41,489 --> 01:49:42,927
+Está mentindo.
+
+1170
+01:49:49,314 --> 01:49:50,638
+Atirem.
+
+1171
+01:49:52,685 --> 01:49:54,315
+Carl!
+Carl!
+
+1172
+01:49:54,316 --> 01:49:57,062
+- Não, Sara!
+- Droga.
+
+1173
+01:49:57,374 --> 01:49:59,311
+Lá estão os outros
+
+1174
+01:49:59,312 --> 01:50:00,630
+Carl.
+
+1175
+01:50:02,247 --> 01:50:04,699
+Sara, o que está fazendo?
+Volte aqui dentro.
+
+1176
+01:50:04,700 --> 01:50:07,426
+- Carl.
+- Sara, volte aqui!
+
+1177
+01:50:07,427 --> 01:50:09,512
+Viu o que acontece
+quando não coopera?
+
+1178
+01:50:09,513 --> 01:50:11,138
+É bem fácil para nós.
+
+1179
+01:50:13,684 --> 01:50:15,286
+Qual o seu problema?
+
+1180
+01:50:16,082 --> 01:50:17,482
+Sara!
+
+1181
+01:50:22,889 --> 01:50:24,278
+Beleza, podem atirar.
+
+1182
+01:50:25,212 --> 01:50:26,771
+Sara!
+
+1183
+01:50:29,095 --> 01:50:30,739
+Pare, anda logo!
+
+1184
+01:50:36,349 --> 01:50:39,528
+Isaac, você precisa sair,
+as coisas estão feias para você.
+
+1185
+01:50:40,299 --> 01:50:42,560
+Seu plano está falhando.
+
+1186
+01:50:46,098 --> 01:50:47,411
+Isaac.
+
+1187
+01:50:48,192 --> 01:50:50,195
+Use seus sentidos.
+
+1188
+01:50:51,199 --> 01:50:52,747
+Foco.
+
+1189
+01:51:11,086 --> 01:51:12,442
+Fogo!
+
+1190
+01:52:48,885 --> 01:52:50,257
+Para onde eles foram?
+
+1191
+01:52:57,275 --> 01:52:58,675
+Onde...
+
+1192
+01:52:59,700 --> 01:53:01,100
+O que aconteceu?
+
+1193
+01:53:22,885 --> 01:53:24,352
+O que houve?
+
+1194
+01:54:56,203 --> 01:55:00,199
+SEIS MESES DEPOIS
+
+1195
+01:55:00,200 --> 01:55:02,219
+<i>A forma como escapamos
+da cabana,</i>
+
+1196
+01:55:02,220 --> 01:55:05,605
+<i>não tem como explicar para
+alguém normal.</i>
+
+1197
+01:55:06,402 --> 01:55:08,242
+<i>Ainda estou me descobrindo.</i>
+
+1198
+01:55:09,304 --> 01:55:12,210
+<i>Mas a Sara estava certa.
+Algo nos mudou.</i>
+
+1199
+01:55:13,781 --> 01:55:16,100
+<i>Mas o que eu posso dizer
+é no final de tudo</i>
+
+1200
+01:55:16,101 --> 01:55:18,336
+<i>eu conheci a garota
+por quem me apaixonei.</i>
+
+1201
+01:55:22,398 --> 01:55:24,218
+Você já quebrou um osso?
+
+1202
+01:55:25,393 --> 01:55:28,789
+- Já, sim.
+- É, qual?
+
+1203
+01:55:29,469 --> 01:55:31,023
+<i>Mudamo-nos para bem longe.</i>
+
+1204
+01:55:31,791 --> 01:55:33,500
+<i>Com vidas normais.</i>
+
+1205
+01:55:40,281 --> 01:55:42,593
+<i>O mais normal possível.</i>
+
+1206
+01:55:43,500 --> 01:55:45,080
+<i>O Zed se juntou ao Carl</i>
+
+1207
+01:55:45,081 --> 01:55:46,805
+<i>e eles trabalham para
+a ZUMA agora,</i>
+
+1208
+01:55:46,806 --> 01:55:49,437
+<i>um novo Serviço
+de Inteligência.</i>
+
+1209
+01:55:49,789 --> 01:55:51,303
+<i>Estão trabalhando
+remotamente.</i>
+
+1210
+01:55:51,304 --> 01:55:54,593
+<i>Basicamente criando um
+escritório e se divertindo.</i>
+
+1211
+01:55:56,265 --> 01:55:59,624
+<i>Descobrimos que o Graves acabou
+sendo demitido.</i>
+
+1212
+01:55:59,625 --> 01:56:02,812
+<i>Aparentemente há uma linha
+na área dele, e ele a cruzou.</i>
+
+1213
+01:56:08,679 --> 01:56:10,718
+Dúvido que alguém verá isso,
+
+1214
+01:56:11,179 --> 01:56:12,929
+mas essa é minha história.
+
+1215
+01:56:13,289 --> 01:56:14,710
+Até aqui, por enquanto.
+
+1216
+01:56:14,711 --> 01:56:16,070
+Até mais.
+
+1217
+01:56:17,531 --> 01:56:22,078
+<b>Entregue-se à sua inSanidade.
+Junte-se a nós.</b>
+
+1218
+01:56:22,079 --> 01:56:26,023
+<b>@inSanos</b>
+
+1219
+01:56:27,305 --> 01:57:27,499
+Contribua tornando-se um usuário VIP 
+e remova todos os anúncios do www.OpenSubtitles.org

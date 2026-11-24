@@ -1,0 +1,4 @@
+1
+00:00:01,302 --> 00:00:10,702
+Esse filme não tem diálogos.
+Por isso não precisa de legenda.

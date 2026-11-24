@@ -1,0 +1,6789 @@
+1
+00:00:06,000 --> 00:00:12,074
+Do you want subtitles for any video?
+-=[ ai.OpenSubtitles.com ]=-
+
+2
+00:00:17,226 --> 00:00:21,831
+<i>Esse filme é uma adaptação
+de uma obra polêmica de Diderot.</i>
+
+3
+00:00:22,012 --> 00:00:25,455
+<i>Ele não pretende retratar
+fielmente as instituições religiosas...</i>
+
+4
+00:00:25,595 --> 00:00:28,014
+<i>nem mesmo aquelas do século XVIII.
+Os espectadores a verão sob uma...</i>
+
+5
+00:00:28,254 --> 00:00:30,696
+<i>dupla perspectiva, histórica e
+romanesca...</i>
+
+6
+00:00:30,997 --> 00:00:35,902
+<i>sem fazer generalizações, de forma
+precipitada, injusta ou indefensável.</i>
+
+7
+00:00:40,478 --> 00:00:45,149
+<i>1760.
+Denis Diderot tem 47 anos.</i>
+
+8
+00:00:45,275 --> 00:00:47,923
+<i>Em algumas semanas,
+o Enciclopedista...</i>
+
+9
+00:00:48,027 --> 00:00:50,050
+<i>escreveu "A Religiosa".</i>
+
+10
+00:00:51,781 --> 00:00:55,764
+<i>No século XVIII,
+a vida no convento era...</i>
+
+11
+00:00:55,869 --> 00:00:59,539
+<i>apenas aparentemente
+uma vida religiosa.</i>
+
+12
+00:00:59,935 --> 00:01:04,648
+<i>Por um certo valor,
+algumas famílias aristocratas...</i>
+
+13
+00:01:04,752 --> 00:01:06,942
+<i>confinavam as filhas até o casamento.</i>
+
+14
+00:01:07,046 --> 00:01:11,466
+<i>As viúvas e as solteiras
+recolhiam-se para os conventos.</i>
+
+15
+00:01:11,572 --> 00:01:15,763
+<i>Conventos eram comprados
+como se fossem gado ou ações.</i>
+
+16
+00:01:15,951 --> 00:01:18,057
+<i>Eram chamados de "benefícios".</i>
+
+17
+00:01:18,537 --> 00:01:23,396
+<i>Madres Superioras eram indicadas
+devido ao título de nobreza.</i>
+
+18
+00:01:24,105 --> 00:01:28,380
+<i>Moças de 20 anos ou menos...</i>
+
+19
+00:01:28,776 --> 00:01:31,091
+<i>algumas vezes, administravam
+grandes conventos.</i>
+
+20
+00:01:31,279 --> 00:01:35,575
+<i>Em muitos deles, uma vida
+de luxúria era a regra.</i>
+
+21
+00:01:35,721 --> 00:01:38,630
+<i>A vida religiosa perdera
+todo sentido...</i>
+
+22
+00:01:38,807 --> 00:01:41,205
+<i>nessas circunstâncias.</i>
+
+23
+00:01:42,352 --> 00:01:46,628
+<i>Diderot baseou seu romance
+em pessoas reais...</i>
+
+24
+00:01:46,815 --> 00:01:50,173
+<i>Louise Adelaïde d'Orléans,
+filha do Regente Philippe,</i>
+
+25
+00:01:50,444 --> 00:01:55,073
+<i>tornou-se Abadessa de Chelles.
+em 1719...</i>
+
+26
+00:01:55,178 --> 00:01:57,597
+<i>é uma das Madres Superioras originais.</i>
+
+27
+00:01:58,264 --> 00:02:03,353
+<i>Suzanne, a freira, o papel principal,
+é baseado em Marguerite Delamarre...</i>
+
+28
+00:02:03,457 --> 00:02:05,605
+<i>cujo pai a confinara...</i>
+
+29
+00:02:05,709 --> 00:02:09,254
+<i>em um convento quando
+tinha três anos...</i>
+
+30
+00:02:09,463 --> 00:02:13,321
+<i>Mesmo tendo apelado
+contra seus votos forçados em 1752...</i>
+
+31
+00:02:13,488 --> 00:02:17,012
+<i>ela perdeu e permaneceu
+enclausurada até sua morte...</i>
+
+32
+00:02:17,054 --> 00:02:20,745
+<i>em Longchamp, que é retratado
+no romance de Diderot.</i>
+
+33
+00:02:21,704 --> 00:02:24,895
+<i>Mas a história toda
+é um comentário...</i>
+
+34
+00:02:25,132 --> 00:02:26,948
+<i>às palavras de Bossuet:</i>
+
+35
+00:02:27,001 --> 00:02:30,672
+<i>"Não siga uma vocação tão difícil...</i>
+
+36
+00:02:30,673 --> 00:02:33,353
+<i>a menos que esteja
+decepcionada com o mundo.</i>
+
+37
+00:02:33,466 --> 00:02:36,490
+<i>Irmã, saia do claustro".</i>
+
+38
+00:02:38,221 --> 00:02:41,578
+<i>Manter a filha poderia sair caro:</i>
+
+39
+00:02:41,849 --> 00:02:45,009
+<i>ela é, portanto, dedicada à religião.</i>
+
+40
+00:02:45,061 --> 00:02:47,376
+<i>Ela não tem vocação:</i>
+
+41
+00:02:47,377 --> 00:02:51,689
+<i>não tem importância diante
+dos negócios e da necessidade.</i>
+
+42
+00:02:51,713 --> 00:02:54,861
+<i>Então, a vítima é conduzida ao templo
+e oferecida em sacrifício...</i>
+
+43
+00:02:55,008 --> 00:02:58,157
+<i>que ao invés de glorificar a Deus...</i>
+
+44
+00:02:58,262 --> 00:03:01,390
+<i>torna-se execrável aos olhos dele
+e provoca sua vingança.</i>
+
+45
+00:03:01,495 --> 00:03:04,672
+<i>Louis Bourdaloue.</i>
+
+46
+00:05:00,863 --> 00:05:04,951
+Marie-Suzanne Simonin,
+promete falar a verdade?
+
+47
+00:05:05,636 --> 00:05:06,765
+Prometo.
+
+48
+00:05:07,829 --> 00:05:11,124
+Está aqui de livre
+e espontânea vontade?
+
+49
+00:05:12,375 --> 00:05:13,623
+Estou.
+
+50
+00:05:15,294 --> 00:05:17,338
+Marie-Suzanne Simonin,
+
+51
+00:05:17,526 --> 00:05:20,904
+promete viver sob votos de castidade,
+pobreza e obediência?
+
+52
+00:05:21,458 --> 00:05:23,425
+Não prometo.
+
+53
+00:05:24,866 --> 00:05:26,952
+Marie-Suzanne Simonin...
+
+54
+00:05:27,306 --> 00:05:30,288
+promete viver sob votos de castidade,
+pobreza e obediência?
+
+55
+00:05:30,394 --> 00:05:31,749
+Não, Monsenhor.
+
+56
+00:05:31,999 --> 00:05:34,459
+Fique calma e ouça.
+
+57
+00:05:35,648 --> 00:05:39,610
+Me perguntou se prometia viver sob os
+votos de castidade, pobreza e obediência.
+
+58
+00:05:40,002 --> 00:05:43,973
+Eu o ouvi
+e minha resposta é não.
+
+59
+00:05:44,297 --> 00:05:48,387
+Cavalheiros,
+sobretudo meus pais...
+
+60
+00:05:48,528 --> 00:05:52,811
+Tomo vocês como testemunhas:
+estou aqui contra minha vontade.
+
+61
+00:05:53,437 --> 00:05:56,878
+Até agora, tenho fingido cumprir
+a vontade de meus pais...
+
+62
+00:05:57,087 --> 00:06:00,226
+para poder protestar em público
+contra essa coação.
+
+63
+00:06:00,485 --> 00:06:04,698
+Não tenho vocação.
+Não posso obedecer a meus pais...
+
+64
+00:06:05,052 --> 00:06:08,452
+Caros pais,
+façam o que quiserem de mim...
+
+65
+00:06:08,556 --> 00:06:11,684
+menos ser uma freira.
+
+66
+00:06:11,789 --> 00:06:13,353
+Não serei freira.
+
+67
+00:06:33,852 --> 00:06:36,083
+Ainda sou sua filha.
+
+68
+00:06:36,229 --> 00:06:38,423
+Levante-se, Suzanne.
+
+69
+00:06:38,633 --> 00:06:40,301
+Levante-se.
+
+70
+00:06:47,407 --> 00:06:49,201
+Você chora...
+
+71
+00:06:49,515 --> 00:06:51,287
+mas é mal-agradecida.
+
+72
+00:06:52,329 --> 00:06:54,644
+Sabe quanto dinheiro perdemos.
+
+73
+00:06:55,207 --> 00:06:59,440
+Casando suas irmãs,
+ficamos arruinados.
+
+74
+00:07:00,587 --> 00:07:03,298
+Seu pai é um bom advogado,
+não um banqueiro.
+
+75
+00:07:03,882 --> 00:07:06,739
+Não temos como bancar
+seu casamento.
+
+76
+00:07:10,555 --> 00:07:15,289
+Quando entrou no convento,
+tivemos mais despesas.
+
+77
+00:07:16,415 --> 00:07:19,356
+Todos souberam que você
+se tornaria freira.
+
+78
+00:07:19,856 --> 00:07:22,338
+Sua recusa é um escândalo.
+
+79
+00:07:22,775 --> 00:07:24,555
+E então?
+
+80
+00:07:25,019 --> 00:07:27,204
+Não tem nada a dizer?
+
+81
+00:07:27,447 --> 00:07:29,470
+O que decidiu?
+
+82
+00:07:32,306 --> 00:07:33,849
+Siga-me.
+
+83
+00:08:05,339 --> 00:08:09,302
+Padre, o senhor tem sido
+nosso confessor há 20 anos.
+
+84
+00:08:09,573 --> 00:08:11,595
+Precisa falar com ela.
+
+85
+00:08:11,908 --> 00:08:14,202
+Nunca tentei
+converter alguém.
+
+86
+00:08:14,828 --> 00:08:16,621
+Só o senhor pode conseguir.
+
+87
+00:08:17,414 --> 00:08:21,397
+Só Deus pode.
+Não devo interferir.
+
+88
+00:08:23,295 --> 00:08:25,151
+Encontrou?
+
+89
+00:08:25,735 --> 00:08:26,777
+Estou procurando.
+
+90
+00:08:27,174 --> 00:08:30,156
+Suzanne ficou enclausurada
+por três meses.
+
+91
+00:08:31,094 --> 00:08:33,388
+Ela sabia que não
+deveria esperar nada.
+
+92
+00:08:34,432 --> 00:08:36,390
+Preciso acabar com isso.
+
+93
+00:08:44,713 --> 00:08:47,325
+Posso ver minha mãe hoje?
+
+94
+00:08:48,507 --> 00:08:50,801
+Posso pedir a meu pai
+para falar com ela?
+
+95
+00:08:52,616 --> 00:08:54,430
+Posso escrever para eles?
+
+96
+00:08:57,528 --> 00:08:59,110
+Sabe que não pode.
+
+97
+00:09:00,494 --> 00:09:02,382
+Que dia é hoje?
+
+98
+00:09:05,462 --> 00:09:07,380
+Dois de maio.
+
+99
+00:09:11,963 --> 00:09:13,623
+Vamos ser honestos.
+
+100
+00:09:14,116 --> 00:09:16,243
+Gastei tudo com ela.
+
+101
+00:09:17,098 --> 00:09:19,893
+Não posso fazer nada pela outra.
+
+102
+00:09:21,478 --> 00:09:23,355
+Ela precisa levar
+isso em conta.
+
+103
+00:09:26,578 --> 00:09:28,663
+O que farei com ela?
+
+104
+00:09:29,524 --> 00:09:31,923
+Ela não pode trabalhar.
+
+105
+00:09:32,614 --> 00:09:36,993
+Que liberdade ela pode conseguir?
+Menos liberdade que uma freira.
+
+106
+00:09:37,807 --> 00:09:41,410
+Sabe o que acontece
+com moças sem dinheiro.
+
+107
+00:09:42,186 --> 00:09:44,985
+- Reformatório...
+- Sim, ou mesmo a prisão.
+
+108
+00:09:46,186 --> 00:09:48,793
+Só quero vê-la.
+
+109
+00:09:51,953 --> 00:09:54,038
+Está bem, vou falar com ela.
+
+110
+00:09:57,950 --> 00:09:59,827
+Aproxime-se, minha filha.
+
+111
+00:10:11,683 --> 00:10:13,977
+Não tenha medo de abrir
+seu coração comigo.
+
+112
+00:10:14,957 --> 00:10:16,375
+Venha.
+
+113
+00:10:23,682 --> 00:10:26,001
+Não tenho nada a dizer.
+
+114
+00:10:26,439 --> 00:10:29,567
+Ingressei tarde na vida sacerdotal.
+
+115
+00:10:30,106 --> 00:10:31,944
+Eu a entendo.
+
+116
+00:10:32,048 --> 00:10:33,717
+Mamãe me odeia.
+
+117
+00:10:33,904 --> 00:10:38,722
+Deveria se compadecer dela,
+não culpá-la, é uma boa cristã...
+
+118
+00:10:39,168 --> 00:10:42,400
+- porém, impotente...
+- Quem a obriga?
+
+119
+00:10:42,726 --> 00:10:44,540
+Ela não deu a luz a mim?
+
+120
+00:10:44,662 --> 00:10:47,725
+- Sou diferente de minhas irmãs?
+- Muito diferente.
+
+121
+00:10:47,830 --> 00:10:49,289
+Como assim?
+
+122
+00:10:50,796 --> 00:10:56,531
+Procure entender tudo isso
+com paciência. Sente-se...
+
+123
+00:10:58,742 --> 00:11:00,514
+e acalme-se por um instante.
+
+124
+00:11:00,622 --> 00:11:02,186
+Oremos.
+
+125
+00:11:06,879 --> 00:11:07,917
+Não.
+
+126
+00:11:08,126 --> 00:11:09,835
+Não, Padre.
+
+127
+00:11:10,045 --> 00:11:12,363
+Não posso mais rezar.
+
+128
+00:11:12,468 --> 00:11:15,446
+- Eu tentei...
+- Minha filha...
+
+129
+00:11:15,550 --> 00:11:17,344
+Eu era mais bonita
+do que minhas irmãs...
+
+130
+00:11:19,054 --> 00:11:21,181
+para a tristeza dos meus pais.
+
+131
+00:11:22,140 --> 00:11:23,662
+Quando tinha 15 anos...
+
+132
+00:11:24,684 --> 00:11:26,811
+percebi que um rapaz que
+cortejava minha irmã...
+
+133
+00:11:27,500 --> 00:11:31,024
+gostava mais de mim.
+Contei para minha mãe.
+
+134
+00:11:31,900 --> 00:11:34,465
+Quatro dias depois,
+fui mandada para um convento.
+
+135
+00:11:35,070 --> 00:11:38,406
+Fiquei lá durante dois anos,
+até meus votos.
+
+136
+00:11:39,074 --> 00:11:42,452
+Dizem que meus pais são
+pessoas honradas.
+
+137
+00:11:42,830 --> 00:11:45,542
+São queridos e respeitados.
+
+138
+00:11:46,474 --> 00:11:48,038
+Então, por que fazem
+isso comigo?
+
+139
+00:11:51,336 --> 00:11:55,006
+Minha filha, creio que tenho
+que lhe revelar um segredo.
+
+140
+00:11:57,634 --> 00:12:02,594
+Tentei convencer
+sua mãe a lhe contar.
+
+141
+00:12:03,286 --> 00:12:05,267
+Mas você sabe como ela é.
+
+142
+00:12:05,725 --> 00:12:09,124
+Ela esperava convencê-la
+de outra maneira.
+
+143
+00:12:09,542 --> 00:12:14,401
+A verdade é que você não é
+filha do Sr. Simonin.
+
+144
+00:12:14,588 --> 00:12:16,111
+Eu já desconfiava.
+
+145
+00:12:16,653 --> 00:12:22,826
+Então já sabe por que ela não pode
+lhe dar o mesmo tratamento.
+
+146
+00:12:23,534 --> 00:12:27,704
+- Se ela contasse para seu pai...
+- Quem é meu pai?
+
+147
+00:12:28,081 --> 00:12:30,083
+Nunca me disseram.
+
+148
+00:12:35,943 --> 00:12:38,842
+Suas irmãs tiveram tudo...
+
+149
+00:12:40,438 --> 00:12:44,422
+mas você não herdará nada.
+
+150
+00:12:44,597 --> 00:12:48,143
+Se perder seus pais,
+não terá nada.
+
+151
+00:12:49,493 --> 00:12:54,691
+Se recusar o convento,
+poderá arrepender-se.
+
+152
+00:12:54,900 --> 00:12:56,777
+Eu não pedi nada.
+
+153
+00:12:58,299 --> 00:13:01,051
+Falei para você
+o que deveria falar.
+
+154
+00:13:02,344 --> 00:13:06,176
+Agora você deve refletir
+e tomar uma decisão.
+
+155
+00:13:06,787 --> 00:13:08,143
+Padre...
+
+156
+00:13:09,435 --> 00:13:10,957
+Apenas uma pergunta...
+
+157
+00:13:12,522 --> 00:13:15,650
+- minhas irmãs sabem?
+- Não.
+
+158
+00:13:16,546 --> 00:13:20,404
+E deixarão sua irmã sem nada...
+
+159
+00:13:20,718 --> 00:13:23,136
+já que acreditam que assim sou?
+
+160
+00:13:23,345 --> 00:13:26,474
+Tenho que aconselhá-la
+a não contar com elas...
+
+161
+00:13:27,348 --> 00:13:32,854
+Elas têm filhos, uma boa desculpa
+para deixá-la na miséria.
+
+162
+00:13:33,585 --> 00:13:36,538
+E a caridade é um conforto frio.
+
+163
+00:13:38,109 --> 00:13:42,343
+Confie em mim. Reconcilie-se
+com seus pais.
+
+164
+00:13:43,908 --> 00:13:48,600
+Faça o que sua mãe deseja
+e torne-se uma freira.
+
+165
+00:13:49,746 --> 00:13:52,144
+Você terá uma pequena renda.
+
+166
+00:13:52,895 --> 00:13:56,815
+Seus dias não serão felizes, mas
+pelo menos serão agradáveis...
+
+167
+00:13:58,087 --> 00:14:01,737
+Minha filha, você é sábia
+e tem um bom coração.
+
+168
+00:14:03,405 --> 00:14:05,346
+Pense nisso tudo.
+
+169
+00:14:20,360 --> 00:14:22,904
+Sua mãe virá vê-la agora.
+
+170
+00:14:41,256 --> 00:14:42,298
+Sente-se.
+
+171
+00:14:44,154 --> 00:14:46,972
+Seu pai está longe.
+Fale-me...
+
+172
+00:14:50,452 --> 00:14:52,538
+O Padre contou para você.
+
+173
+00:14:53,831 --> 00:14:58,064
+Sabe quem é
+e o que deve esperar...
+
+174
+00:14:59,983 --> 00:15:03,674
+Bom, Suzanne,
+o que você decidiu?
+
+175
+00:15:04,612 --> 00:15:07,845
+Mamãe, sei que não tenho nada...
+
+176
+00:15:08,429 --> 00:15:11,807
+e não posso pedir nada.
+Eu entendo...
+
+177
+00:15:12,349 --> 00:15:15,874
+mas a senhora é minha mãe,
+e imploro que não esqueça.
+
+178
+00:15:18,021 --> 00:15:19,878
+Eu gostaria de esquecer.
+
+179
+00:15:28,344 --> 00:15:30,723
+Não continue envenenando
+minha vida.
+
+180
+00:15:32,307 --> 00:15:34,747
+Minha paixão morreu...
+
+181
+00:15:35,456 --> 00:15:37,562
+e a consciência dita as regras.
+
+182
+00:15:38,918 --> 00:15:40,900
+Mas meu pai verdadeiro...
+
+183
+00:15:43,176 --> 00:15:44,740
+Ele morreu...
+
+184
+00:15:45,695 --> 00:15:47,780
+sem saber de você.
+
+185
+00:15:53,015 --> 00:15:56,977
+O problema que ele nos causou
+poderia ter nos matado.
+
+186
+00:15:57,708 --> 00:15:59,186
+Deus não permitiria.
+
+187
+00:16:01,878 --> 00:16:04,552
+Você não tem nada,
+nem nunca terá.
+
+188
+00:16:04,839 --> 00:16:07,175
+O pouco que eu tinha,
+mantenho em segredo.
+
+189
+00:16:07,529 --> 00:16:10,720
+Vendi minhas joias,
+parei de jogar...
+
+190
+00:16:11,012 --> 00:16:14,891
+não vou mais ao teatro.
+Desisti de todo luxo.
+
+191
+00:16:15,829 --> 00:16:19,166
+Se tornar-se uma freira,
+como eu gostaria...
+
+192
+00:16:19,687 --> 00:16:22,183
+seu dote
+será minha salvação.
+
+193
+00:16:22,440 --> 00:16:26,361
+Mas algumas pessoas
+ainda nos visitam.
+
+194
+00:16:26,965 --> 00:16:30,114
+Talvez algum deles
+queira casar-se comigo.
+
+195
+00:16:31,240 --> 00:16:33,972
+Não depois do escândalo!
+
+196
+00:16:34,202 --> 00:16:38,247
+Se eu não encontro um marido,
+devo tornar-me freira?
+
+197
+00:16:38,790 --> 00:16:41,334
+Quer prolongar minha agonia?
+
+198
+00:16:42,913 --> 00:16:44,921
+Ouça, minha filha...
+
+199
+00:16:45,421 --> 00:16:49,613
+suas irmãs estarão em meu leito
+de morte, você estará lá também?
+
+200
+00:16:49,988 --> 00:16:52,856
+Como posso confessar
+diante de Deus...
+
+201
+00:16:52,970 --> 00:16:55,379
+que expiei meus pecados...
+
+202
+00:16:55,588 --> 00:16:59,581
+com você criando encrencas
+e alegando o que não...
+
+203
+00:17:00,105 --> 00:17:02,705
+Que sentimentos deve ter ao morrer?
+
+204
+00:17:02,811 --> 00:17:05,626
+Eu deveria ter contado a seu pai...
+
+205
+00:17:06,723 --> 00:17:08,837
+que você não era filha dele.
+
+206
+00:17:09,445 --> 00:17:11,489
+Se tudo que preciso fazer
+é implorar...
+
+207
+00:17:13,950 --> 00:17:15,785
+mas você não tem compaixão.
+
+208
+00:17:16,265 --> 00:17:18,913
+É tão teimosa quanto seu pai.
+
+209
+00:17:21,521 --> 00:17:23,085
+Saia.
+
+210
+00:17:25,899 --> 00:17:27,985
+Não a queremos aqui.
+
+211
+00:17:50,176 --> 00:17:51,427
+Meu Deus!
+
+212
+00:17:52,381 --> 00:17:54,009
+Dê-me compreensão.
+
+213
+00:17:55,052 --> 00:17:57,138
+Dê-me força.
+
+214
+00:17:59,841 --> 00:18:02,707
+Sua mãe prometeu ao Sr. Simonin
+não vê-la mais.
+
+215
+00:18:02,811 --> 00:18:04,977
+Mas pode escrever para ela.
+
+216
+00:18:09,297 --> 00:18:10,840
+Mamãe...
+
+217
+00:18:11,028 --> 00:18:12,842
+"Quero lhe pedir perdão.
+
+218
+00:18:13,634 --> 00:18:18,717
+Farei o que quiser.
+Se quer que eu me torne freira...
+
+219
+00:18:19,056 --> 00:18:21,997
+espero que também seja
+a vontade de Deus."
+
+220
+00:18:45,237 --> 00:18:48,678
+Suzanne, reconhece isso?
+
+221
+00:18:49,086 --> 00:18:52,131
+- Sim, senhor.
+- De livre e espontânea vontade?
+
+222
+00:18:52,341 --> 00:18:53,696
+Sim, senhor.
+
+223
+00:18:53,841 --> 00:18:56,198
+Está pronta para isso?
+
+224
+00:18:56,720 --> 00:18:58,160
+Sim, senhor, estou.
+
+225
+00:18:58,930 --> 00:19:01,724
+Prefere alguma ordem?
+
+226
+00:19:03,602 --> 00:19:04,853
+Não.
+
+227
+00:19:05,248 --> 00:19:07,042
+Para mim são todas iguais.
+
+228
+00:19:08,086 --> 00:19:09,650
+Já basta.
+
+229
+00:19:23,517 --> 00:19:28,000
+Tenho dúvidas quanto a receber
+uma jovem com tão pouca vocação.
+
+230
+00:19:28,334 --> 00:19:31,233
+Acho que não sou
+a primeira a falar.
+
+231
+00:19:31,442 --> 00:19:33,006
+É verdade, Madre...
+
+232
+00:19:33,297 --> 00:19:38,271
+mas aquele foi um desabafo
+do qual Suzanne se arrepende.
+
+233
+00:19:39,262 --> 00:19:41,243
+O que acha Madre das Noviças?
+
+234
+00:19:42,285 --> 00:19:44,267
+Um escândalo é um escândalo.
+
+235
+00:19:45,351 --> 00:19:47,603
+Não podemos aceitar
+um escândalo aqui.
+
+236
+00:19:48,625 --> 00:19:50,731
+Não acontecerá novamente...
+
+237
+00:19:51,107 --> 00:19:54,068
+Além disso, o talento de Suzanne
+neste convento...
+
+238
+00:19:54,318 --> 00:19:57,363
+desculpará muita coisa.
+
+239
+00:19:57,572 --> 00:20:00,502
+Ela é musicista
+e tem uma voz linda,
+
+240
+00:20:00,833 --> 00:20:03,631
+e o dote que será
+dado à sua ordem...
+
+241
+00:20:03,828 --> 00:20:06,476
+Deixo essas questões
+com as Irmãs...
+
+242
+00:20:06,581 --> 00:20:10,126
+- 1.000 coroas...
+- que deram sua sugestão.
+
+243
+00:20:11,252 --> 00:20:13,984
+Irmã Sainte-Christine...
+
+244
+00:20:14,130 --> 00:20:15,944
+não tenho medo de escândalo.
+
+245
+00:20:16,424 --> 00:20:20,032
+É parte do seu trabalho
+aceitar rebeldes...
+
+246
+00:20:20,177 --> 00:20:23,368
+e ensiná-las a aceitar
+a lei divina.
+
+247
+00:20:24,056 --> 00:20:26,496
+Ela é uma jovem difícil...
+
+248
+00:20:26,976 --> 00:20:30,104
+e, como tal,
+devemos cuidar dela.
+
+249
+00:20:31,793 --> 00:20:34,108
+- Aceito sua filha.
+- Madre.
+
+250
+00:20:34,317 --> 00:20:36,402
+Nem mais uma palavra, senhora.
+
+251
+00:20:43,492 --> 00:20:47,038
+Diga para sua filha escrever
+para a Madre Superiora...
+
+252
+00:20:48,247 --> 00:20:51,313
+e agradecê-la por
+tê-la aceitado.
+
+253
+00:20:59,550 --> 00:21:01,427
+Aqui está sua filha.
+
+254
+00:21:07,934 --> 00:21:12,063
+Você já foi uma noviça.
+Conhece as regras.
+
+255
+00:21:12,334 --> 00:21:15,504
+São as mesmas regras,
+apenas mais rígidas.
+
+256
+00:21:15,900 --> 00:21:19,362
+Você logo vai saber
+e não vai esquecer.
+
+257
+00:21:21,822 --> 00:21:25,750
+Sua mãe disse que é musicista
+e sabe cantar.
+
+258
+00:21:26,222 --> 00:21:27,703
+Temos uma espineta.
+
+259
+00:21:28,162 --> 00:21:30,414
+Vamos para o salão.
+
+260
+00:21:57,420 --> 00:21:59,610
+Então, senhorita?
+
+261
+00:22:00,173 --> 00:22:01,591
+O que devo cantar?
+
+262
+00:22:01,904 --> 00:22:03,913
+O que achar que deve.
+
+263
+00:22:04,749 --> 00:22:06,521
+Então aqui está.
+
+264
+00:22:22,299 --> 00:22:25,261
+<i>Oh, triste litoral</i>
+
+265
+00:22:25,907 --> 00:22:28,806
+<i>Uma onda fantasmagórica</i>
+
+266
+00:22:29,807 --> 00:22:34,332
+<i>O dia mais abominável
+do que a noite</i>
+
+267
+00:22:35,438 --> 00:22:40,627
+<i>A horrível estrela da tumba</i>
+
+268
+00:22:41,732 --> 00:22:46,541
+<i>A horrível estrela da tumba</i>
+
+269
+00:22:46,970 --> 00:22:52,163
+<i>Não verei outra luz
+além da sua</i>
+
+270
+00:22:54,562 --> 00:22:57,899
+<i>Não...
+Não...</i>
+
+271
+00:22:58,421 --> 00:23:00,506
+É perfeito.
+
+272
+00:23:01,088 --> 00:23:03,215
+Suzanne, você canta
+muito bem.
+
+273
+00:23:03,945 --> 00:23:06,031
+Meus parabéns, senhora.
+
+274
+00:23:17,417 --> 00:23:21,046
+Adeus, minha filha.
+Não me faça sofrer.
+
+275
+00:24:04,965 --> 00:24:08,906
+- Como você está, minha filha?
+- Estou conformada, Madre.
+
+276
+00:24:09,949 --> 00:24:13,598
+- Não sente mais nada?
+- Sinceramente não, Madre.
+
+277
+00:24:20,397 --> 00:24:23,504
+Conheço toda sua história.
+Sinto muito.
+
+278
+00:24:24,421 --> 00:24:26,528
+Entendo suas dificuldades.
+
+279
+00:24:27,007 --> 00:24:29,583
+Compartilho suas dúvidas...
+
+280
+00:24:30,219 --> 00:24:32,680
+provavelmente, sofro
+mais do que você.
+
+281
+00:24:34,390 --> 00:24:36,851
+Deixe-me tentar
+dar forças a você.
+
+282
+00:24:37,477 --> 00:24:39,041
+Você ama a Deus?
+
+283
+00:24:39,311 --> 00:24:42,022
+- Com todo meu coração.
+- O resto virá...
+
+284
+00:24:42,545 --> 00:24:44,735
+sem você perceber.
+
+285
+00:24:46,508 --> 00:24:48,698
+Nosso Deus é um Deus oculto.
+
+286
+00:24:48,925 --> 00:24:51,344
+Ele chega como um ladrão...
+
+287
+00:24:52,449 --> 00:24:56,558
+sem anunciar
+sua presença.
+
+288
+00:25:03,236 --> 00:25:06,364
+Mas e se não for meu destino?
+
+289
+00:25:06,505 --> 00:25:08,653
+Sempre haverá espinhos no caminho.
+
+290
+00:25:08,757 --> 00:25:12,198
+Nós os sentimos.
+Deixe a graça tomar seu caminho.
+
+291
+00:25:15,347 --> 00:25:16,974
+Renuncie a seus pensamentos...
+
+292
+00:25:17,391 --> 00:25:19,664
+mesmo os mais simples.
+
+293
+00:25:20,123 --> 00:25:23,251
+Feche os olhos. Negue
+voluntariamente seus sentidos.
+
+294
+00:25:23,606 --> 00:25:25,754
+Deixe a natureza morrer em você.
+
+295
+00:25:26,817 --> 00:25:29,716
+Aceite ver Deus
+quando Ele quiser.
+
+296
+00:25:33,199 --> 00:25:34,512
+Venha, minha filha...
+
+297
+00:25:36,076 --> 00:25:37,995
+Vamos nos ajoelhar
+e rezar.
+
+298
+00:25:40,108 --> 00:25:42,923
+Pai nosso,
+que estais no céu...
+
+299
+00:25:43,250 --> 00:25:45,211
+santificado seja
+o Vosso nome...
+
+300
+00:25:45,836 --> 00:25:47,755
+venha a nós o Vosso reino...
+
+301
+00:25:48,651 --> 00:25:51,821
+seja feita a Vossa vontade
+assim na Terra como no céu...
+
+302
+00:25:53,093 --> 00:25:56,409
+o pão nosso de cada dia
+nos dai hoje...
+
+303
+00:25:56,910 --> 00:25:59,642
+perdoai as nossas ofensas...
+
+304
+00:25:59,850 --> 00:26:02,978
+assim como nós perdoamos a
+quem nos têm ofendido...
+
+305
+00:26:03,958 --> 00:26:06,732
+mas não nos deixei
+cair em tentação...
+
+306
+00:26:08,067 --> 00:26:10,170
+livrai-nos de todo mal.
+
+307
+00:26:11,356 --> 00:26:13,442
+Amém.
+
+308
+00:26:18,946 --> 00:26:20,573
+Livrai-nos de todo mal.
+
+309
+00:26:20,704 --> 00:26:22,592
+Amém.
+
+310
+00:26:23,645 --> 00:26:26,231
+Renova tua confiança.
+Minha alma...
+
+311
+00:26:26,913 --> 00:26:30,490
+na presença
+de Deus e Cristo, teu amor...
+
+312
+00:26:31,013 --> 00:26:32,055
+Jesus...
+
+313
+00:26:32,946 --> 00:26:35,667
+que tornou-se homem
+por amor a ti...
+
+314
+00:26:36,303 --> 00:26:39,265
+que morreu na cruz
+para te salvar...
+
+315
+00:26:40,516 --> 00:26:42,810
+e agora vive para
+escutar...
+
+316
+00:26:47,816 --> 00:26:49,380
+fale com ela...
+
+317
+00:26:50,277 --> 00:26:51,736
+e fale para ela que...
+
+318
+00:26:52,989 --> 00:26:54,344
+fale para ela que...
+
+319
+00:27:00,811 --> 00:27:02,479
+Não sei o que está
+acontecendo comigo.
+
+320
+00:27:05,423 --> 00:27:07,439
+Parece que quando você chegou...
+
+321
+00:27:08,585 --> 00:27:10,296
+Deus se foi...
+
+322
+00:27:11,130 --> 00:27:12,548
+e Seu espírito calou-se.
+
+323
+00:27:15,301 --> 00:27:18,366
+Considero-me uma mulher fraca...
+
+324
+00:27:19,576 --> 00:27:24,310
+- com medo de falar.
+- Talvez seja um sinal, Madre.
+
+325
+00:27:24,789 --> 00:27:27,496
+Talvez Deus tenha calado
+a senhora...
+
+326
+00:27:58,781 --> 00:28:01,013
+Toda a comunidade aceita
+os votos...
+
+327
+00:28:01,180 --> 00:28:04,454
+de nossa futura Irmã, Suzanne.
+
+328
+00:28:05,872 --> 00:28:07,999
+"O Senhor é meu pastor...
+
+329
+00:28:08,354 --> 00:28:10,189
+nada me faltará.
+
+330
+00:28:19,656 --> 00:28:22,659
+Em verdes prados
+Ele me faz repousar.
+
+331
+00:28:23,160 --> 00:28:25,746
+Conduz-me junto
+às águas refrescantes."
+
+332
+00:28:57,131 --> 00:28:58,779
+O que é isso, Suzanne?
+
+333
+00:28:59,008 --> 00:29:00,656
+Viu a Madre?
+
+334
+00:29:00,864 --> 00:29:03,367
+Acho que ela está
+descansando no jardim.
+
+335
+00:29:08,997 --> 00:29:10,249
+Madre...
+
+336
+00:29:11,083 --> 00:29:14,211
+- O que foi?
+- Ajude-me, Madre.
+
+337
+00:29:15,483 --> 00:29:17,339
+Também quero ser ajudada.
+
+338
+00:29:18,361 --> 00:29:21,927
+- É amanhã, não é?
+- Sabe que sim.
+
+339
+00:29:22,323 --> 00:29:25,889
+E está com dúvidas.
+Mais preocupada do que nunca?
+
+340
+00:29:26,098 --> 00:29:29,330
+Não sei se terei forças.
+
+341
+00:29:29,748 --> 00:29:31,208
+Você terá.
+
+342
+00:29:36,066 --> 00:29:38,819
+Não quero contar tudo...
+
+343
+00:29:38,986 --> 00:29:41,155
+sobre os perigos do mundo.
+
+344
+00:29:41,405 --> 00:29:43,198
+Sabe que a amo
+encarecidamente.
+
+345
+00:29:43,428 --> 00:29:45,909
+Dizem que é minha favorita.
+
+346
+00:29:46,848 --> 00:29:50,080
+Sempre cumpriu seus deveres.
+
+347
+00:29:50,351 --> 00:29:53,208
+- Por que temer o futuro?
+- Não com a senhora, Madre.
+
+348
+00:29:53,500 --> 00:29:55,335
+Não quero perdê-la.
+
+349
+00:29:56,483 --> 00:29:57,943
+Minha filha...
+
+350
+00:29:58,740 --> 00:30:03,275
+Seu trabalho, suas aflições,
+sua tristeza pertencem a Deus.
+
+351
+00:30:03,799 --> 00:30:07,657
+Só Ele existe
+e nos ama.
+
+352
+00:30:08,494 --> 00:30:10,309
+Ele nos guia
+e estamos em Suas mãos.
+
+353
+00:30:11,706 --> 00:30:14,143
+Suzanne, a mão de Deus está
+em você.
+
+354
+00:30:14,561 --> 00:30:16,021
+Ele lhe protege...
+
+355
+00:30:16,773 --> 00:30:20,110
+e conduz, apesar de você mesma...
+
+356
+00:30:20,798 --> 00:30:23,134
+para a paz que sobrepõe-se
+
+357
+00:30:26,727 --> 00:30:28,374
+a todo entendimento.
+
+358
+00:30:32,539 --> 00:30:34,812
+Minha filha, o que é isso?
+
+359
+00:30:38,378 --> 00:30:41,903
+Deixemos Deus falar por Ele mesmo,
+já que sou muda.
+
+360
+00:30:50,879 --> 00:30:53,278
+A verdade é que estou cansada.
+
+361
+00:30:54,903 --> 00:30:57,701
+Pedi a Deus para que esse dia
+não chegasse...
+
+362
+00:30:57,939 --> 00:31:00,032
+mas não foi a vontade dele.
+
+363
+00:31:01,985 --> 00:31:04,530
+Pela segunda vez,
+será perguntada quanto
+
+364
+00:31:04,863 --> 00:31:07,866
+aos votos de castidade,
+pobreza e obediência.
+
+365
+00:31:08,784 --> 00:31:12,767
+Passarei a noite rezando.
+
+366
+00:31:13,914 --> 00:31:16,104
+Também rezarei.
+
+367
+00:31:23,689 --> 00:31:25,698
+Permita-me que reze
+com a senhora?
+
+368
+00:31:26,843 --> 00:31:29,351
+Permito. Das 21 até as 23.
+Nada além disso.
+
+369
+00:31:31,452 --> 00:31:35,102
+Então, deixe-me orar sozinha.
+Vá descansar.
+
+370
+00:31:35,727 --> 00:31:38,188
+Vá e durma, Suzanne.
+
+371
+00:31:38,788 --> 00:31:40,352
+É só o que peço.
+
+372
+00:31:52,864 --> 00:31:55,367
+<i>- Ave Maria.
+- Deo Gratias.</i>
+
+373
+00:31:58,724 --> 00:32:01,331
+<i>- Ave Maria.
+- Deo Gratias.</i>
+
+374
+00:32:03,458 --> 00:32:04,814
+Ave Maria.
+
+375
+00:32:05,007 --> 00:32:07,874
+"Deus, tenha piedade de mim,
+
+376
+00:32:08,030 --> 00:32:10,324
+Meu coração confia no Senhor.
+
+377
+00:32:10,575 --> 00:32:13,140
+Esses são meus lamentos
+
+378
+00:32:13,432 --> 00:32:15,747
+a Deus, cuja generosidade
+é grande.
+
+379
+00:32:15,976 --> 00:32:18,979
+Ele manda Sua misericórdia
+infinita do céu.
+
+380
+00:32:19,312 --> 00:32:21,273
+Ele me salvou dos leões...
+
+381
+00:32:21,523 --> 00:32:24,140
+e me deu paz."
+
+382
+00:32:33,243 --> 00:32:37,956
+Deus, se me deixou
+para me punir, que assim seja.
+
+383
+00:32:39,333 --> 00:32:42,127
+Não pedirei que devolva
+meu dom,
+
+384
+00:32:42,544 --> 00:32:45,359
+mas ajude essa jovem.
+
+385
+00:32:45,568 --> 00:32:49,009
+Fale com dela.
+Fale com os pais dela.
+
+386
+00:32:49,760 --> 00:32:51,428
+E perdoe-me.
+
+387
+00:33:04,650 --> 00:33:06,631
+Foi cedo para a cama?
+
+388
+00:33:06,736 --> 00:33:09,864
+Vim quando mandou.
+
+389
+00:33:10,489 --> 00:33:13,492
+- Você dormiu?
+- Profundamente.
+
+390
+00:33:13,704 --> 00:33:15,376
+Esperava por isso.
+
+391
+00:33:16,036 --> 00:33:17,996
+Como se sente?
+
+392
+00:33:20,185 --> 00:33:21,595
+Bom...
+
+393
+00:33:22,136 --> 00:33:23,596
+E a senhora, querida Madre?
+
+394
+00:33:24,711 --> 00:33:27,746
+Sempre fico ansiosa
+com novas freiras...
+
+395
+00:33:28,818 --> 00:33:31,675
+mas nunca tão ansiosa
+quanto com você.
+
+396
+00:33:32,302 --> 00:33:34,471
+Gostaria que fosse feliz.
+
+397
+00:33:34,971 --> 00:33:37,808
+Enquanto for minha amiga,
+serei feliz.
+
+398
+00:33:39,142 --> 00:33:40,936
+Se fosse apenas isso...
+
+399
+00:33:43,021 --> 00:33:45,211
+Pensou na cama?
+
+400
+00:33:45,316 --> 00:33:48,652
+- Não.
+- Não sonhou?
+
+401
+00:33:48,966 --> 00:33:50,299
+Não sonhei.
+
+402
+00:33:50,862 --> 00:33:53,240
+O que está acontecendo
+com você?
+
+403
+00:33:53,967 --> 00:33:55,460
+Nada.
+
+404
+00:33:57,828 --> 00:33:59,913
+Estou deixando
+a mim mesma...
+
+405
+00:34:00,560 --> 00:34:02,406
+por conta do destino.
+
+406
+00:34:03,166 --> 00:34:05,648
+Não tenho mais forças
+para chorar.
+
+407
+00:34:06,742 --> 00:34:10,014
+"Tem que ser feito",
+é só o que penso.
+
+408
+00:34:12,884 --> 00:34:14,824
+Mas a senhora não disse nada.
+
+409
+00:34:16,012 --> 00:34:18,890
+Não vim para conversar
+mas para ver você.
+
+410
+00:34:20,142 --> 00:34:22,748
+Devo permanecer em silêncio.
+
+411
+00:34:25,042 --> 00:34:27,858
+Descanse mais um pouco,
+então a verei.
+
+412
+00:34:28,767 --> 00:34:31,477
+Então, sairei.
+Deus fará o resto.
+
+413
+00:34:42,905 --> 00:34:44,990
+Que horas são?
+
+414
+00:34:45,479 --> 00:34:47,501
+Seis horas.
+
+415
+00:34:49,025 --> 00:34:52,904
+Virão vesti-la.
+Tenho que ir...
+
+416
+00:34:53,217 --> 00:34:55,720
+Tenho que pensar a sós.
+
+417
+00:35:22,387 --> 00:35:23,752
+Erga o braço.
+
+418
+00:35:24,066 --> 00:35:25,421
+Erga o braço.
+
+419
+00:35:29,470 --> 00:35:30,524
+Vire a cabeça.
+
+420
+00:35:31,047 --> 00:35:32,194
+Vire a cabeça.
+
+421
+00:35:38,824 --> 00:35:40,530
+Irmã Jeanne.
+
+422
+00:36:23,782 --> 00:36:26,701
+<i>- Ave Maria.
+- Deo gratias.</i>
+
+423
+00:36:27,561 --> 00:36:30,063
+Está no coro, Suzanne?
+
+424
+00:36:30,230 --> 00:36:33,087
+- Estou.
+- No coro da missa de hoje.
+
+425
+00:36:33,358 --> 00:36:35,694
+- O coro.
+- Tem que ficar pronta.
+
+426
+00:36:36,835 --> 00:36:38,607
+Irmã Sainte-Agnes...
+
+427
+00:36:39,906 --> 00:36:43,410
+- Fiz mesmo meus votos?
+- Sim, você é nossa irmã.
+
+428
+00:36:53,712 --> 00:36:55,192
+Madre...
+
+429
+00:36:55,370 --> 00:36:57,045
+Então é verdade?
+
+430
+00:36:58,366 --> 00:36:59,722
+O que quer dizer?
+
+431
+00:37:00,906 --> 00:37:03,648
+Acreditará em mim, Madre,
+se eu disser...
+
+432
+00:37:03,799 --> 00:37:04,796
+Sim?
+
+433
+00:37:05,432 --> 00:37:08,122
+Não tenho lembranças de ontem.
+
+434
+00:37:08,858 --> 00:37:11,722
+Não lembro de nada
+do que fiz ou disse.
+
+435
+00:37:12,072 --> 00:37:14,900
+- Você fez o que precisava.
+- Acredita em mim?
+
+436
+00:37:15,030 --> 00:37:17,036
+Essa não é a questão.
+
+437
+00:37:17,527 --> 00:37:20,739
+Você é a Irmã Suzanne,
+e isso é tudo.
+
+438
+00:37:37,568 --> 00:37:39,090
+Como ela morreu?
+
+439
+00:37:39,633 --> 00:37:42,427
+Ela estava
+com a irmã mais velha.
+
+440
+00:37:42,677 --> 00:37:44,930
+Sua saúde estava fraca.
+
+441
+00:37:46,532 --> 00:37:47,679
+E ela estava preocupada.
+
+442
+00:37:49,267 --> 00:37:54,418
+- Ela não lhe disse mais nada?
+- Disse-me para entregar-lhe isto.
+
+443
+00:37:59,611 --> 00:38:02,238
+- Sabe o nome do meu pai?
+- Não.
+
+444
+00:38:08,988 --> 00:38:10,899
+Gosta de sua vida atual?
+
+445
+00:38:12,082 --> 00:38:14,001
+O tempo passa...
+
+446
+00:38:15,502 --> 00:38:17,566
+Já é outono.
+
+447
+00:38:29,032 --> 00:38:32,746
+"Minha filha, não é muito...
+
+448
+00:38:33,165 --> 00:38:35,501
+o resto de minhas economias.
+
+449
+00:38:36,505 --> 00:38:38,069
+Ore por mim.
+
+450
+00:38:38,274 --> 00:38:41,184
+Seu nascimento foi
+meu único pecado.
+
+451
+00:38:41,695 --> 00:38:43,634
+Ajude-me a expiá-lo.
+
+452
+00:38:44,364 --> 00:38:49,682
+O destino da sua mãe no outro mundo
+depende da sua conduta nesta vida.
+
+453
+00:38:53,164 --> 00:38:56,042
+Adeus, Suzanne.
+Não peça nada às suas irmãs.
+
+454
+00:38:56,355 --> 00:38:59,275
+Seu pai já morreu.
+
+455
+00:38:59,692 --> 00:39:01,256
+Adeus novamente.
+
+456
+00:39:01,532 --> 00:39:03,967
+Queime esta carta.
+Continue sendo freira.
+
+457
+00:39:04,123 --> 00:39:07,043
+A ideia de que ficará
+sozinha no mundo...
+
+458
+00:39:07,220 --> 00:39:09,702
+torturará meus últimos momentos".
+
+459
+00:39:28,286 --> 00:39:30,372
+Filha, por que está chorando?
+
+460
+00:39:33,392 --> 00:39:36,082
+Venha aqui e deixe-me
+lhe dar um beijo.
+
+461
+00:39:43,278 --> 00:39:44,634
+Venha.
+
+462
+00:39:49,428 --> 00:39:51,305
+Jesus.
+
+463
+00:40:20,877 --> 00:40:23,630
+Inspecione
+estes quatro dormitórios.
+
+464
+00:40:23,776 --> 00:40:26,237
+Algumas destruíram
+os cilícios.
+
+465
+00:40:26,424 --> 00:40:29,052
+Algumas estão escondendo bíblias...
+
+466
+00:40:29,198 --> 00:40:31,007
+confisque-as.
+
+467
+00:40:45,401 --> 00:40:48,238
+- O que quer?
+- Inspeção de dormitórios.
+
+468
+00:40:48,550 --> 00:40:51,574
+- Com que autoridade?
+- Ordens da Madre Superiora.
+
+469
+00:40:59,812 --> 00:41:02,314
+- Sua camisa de cilício?
+- Eu queimei.
+
+470
+00:41:02,524 --> 00:41:03,722
+Sua disciplina?
+
+471
+00:41:03,878 --> 00:41:06,902
+Joguei fora e disse às minhas irmãs
+para fazerem o mesmo.
+
+472
+00:41:08,046 --> 00:41:09,506
+Com que autoridade?
+
+473
+00:41:09,634 --> 00:41:12,011
+A Srta. de Moni disse
+que a penitência...
+
+474
+00:41:12,178 --> 00:41:15,807
+corrige sem pecado
+e é uma fonte de orgulho.
+
+475
+00:41:16,015 --> 00:41:17,851
+A Srta. de Moni está morta.
+
+476
+00:41:18,017 --> 00:41:20,770
+Pelo menos, posso lamentar
+e tentar obedecê-la.
+
+477
+00:41:21,271 --> 00:41:24,107
+Será que isso a impedirá
+de cantar amanhã?
+
+478
+00:41:24,331 --> 00:41:27,985
+Não estou no coro
+da missa de amanhã.
+
+479
+00:41:28,194 --> 00:41:31,406
+De agora em diante,
+seguirei as regras estritamente.
+
+480
+00:41:31,636 --> 00:41:33,305
+Você as conhece?
+
+481
+00:41:34,218 --> 00:41:35,678
+Olhe para isso.
+
+482
+00:41:36,536 --> 00:41:41,103
+Nosso livro de regras.
+Eu sei de cor.
+
+483
+00:41:41,374 --> 00:41:45,170
+São os votos que fiz.
+Nada mais.
+
+484
+00:41:52,990 --> 00:41:56,139
+Irmãs, uma de vocês
+pecou seriamente...
+
+485
+00:41:57,056 --> 00:41:59,705
+e devo castigá-la severamente.
+
+486
+00:42:01,373 --> 00:42:03,000
+Irmã Sainte-Suzanne...
+
+487
+00:42:03,688 --> 00:42:07,066
+ficará ajoelhada na missa,
+por uma semana...
+
+488
+00:42:08,026 --> 00:42:10,674
+viverá a pão e água...
+
+489
+00:42:11,029 --> 00:42:13,490
+permanecerá em silêncio
+em seu quarto...
+
+490
+00:42:13,761 --> 00:42:17,494
+e ajudará as irmãs
+com as tarefas domésticas.
+
+491
+00:42:18,536 --> 00:42:22,394
+Está proibida de aproximar-se
+de suas irmãs...
+
+492
+00:42:23,030 --> 00:42:24,594
+ou de falar com elas.
+
+493
+00:43:05,416 --> 00:43:08,169
+Irmã Suzanne,
+o que acha do Jansenismo?
+
+494
+00:43:08,647 --> 00:43:11,566
+Nada.
+Não sei de nada.
+
+495
+00:43:12,152 --> 00:43:13,800
+E do Molinismo?
+
+496
+00:43:14,218 --> 00:43:15,886
+Não sei nada sobre isso...
+
+497
+00:43:16,261 --> 00:43:19,118
+e não quero ouvir nada.
+
+498
+00:43:19,305 --> 00:43:22,141
+- Obedece à Constituição?
+- Obedeço à Igreja.
+
+499
+00:43:22,308 --> 00:43:25,270
+- Aceita a Bula Papal?
+- Aceito o Evangelho.
+
+500
+00:43:25,645 --> 00:43:30,066
+Mas precisa ter uma opinião.
+Responda honestamente, sem medo.
+
+501
+00:43:30,400 --> 00:43:34,758
+Me nego a tomar partido.
+Me conformo em ser cristã.
+
+502
+00:43:38,290 --> 00:43:39,846
+Você pode ir.
+
+503
+00:44:00,555 --> 00:44:04,058
+- O que aconteceu, irmã?
+- A missa começou mais cedo.
+
+504
+00:44:04,163 --> 00:44:06,352
+Como eu poderia saber
+em meu quarto?
+
+505
+00:44:06,519 --> 00:44:09,063
+Você deveria saber,
+será castigada.
+
+506
+00:44:18,239 --> 00:44:23,557
+"E seu corpo era
+coberto com pérolas...
+
+507
+00:44:23,995 --> 00:44:29,292
+e pedras preciosas
+que enfeitavam até os sapatos."
+
+508
+00:45:16,978 --> 00:45:18,751
+Aproxime-se,
+
+509
+00:45:19,175 --> 00:45:23,096
+tente me deter
+e você vai se atrasar.
+
+510
+00:45:42,698 --> 00:45:44,263
+Madre...
+
+511
+00:45:44,429 --> 00:45:47,495
+Preciso de papel e tinta
+para escrever minha confissão.
+
+512
+00:45:54,273 --> 00:45:58,026
+Preciso de mais.
+Tenho muito a escrever.
+
+513
+00:45:59,114 --> 00:46:00,991
+A senhora sabe, Madre.
+
+514
+00:46:05,179 --> 00:46:07,098
+Obrigada, Madre.
+
+515
+00:47:05,490 --> 00:47:07,262
+Irmã Suzanne, siga-me.
+
+516
+00:47:14,665 --> 00:47:18,211
+Aqui está seu quarto,
+o outro está ocupado.
+
+517
+00:47:32,746 --> 00:47:35,520
+Tire as roupas e vista isso.
+
+518
+00:48:20,502 --> 00:48:22,431
+Irmã Suzanne.
+
+519
+00:48:23,568 --> 00:48:26,612
+Mentir não é um de seus defeitos.
+
+520
+00:48:27,542 --> 00:48:29,419
+Diga-me a verdade.
+
+521
+00:48:30,283 --> 00:48:32,869
+O que fez com o papel?
+
+522
+00:48:33,082 --> 00:48:35,078
+Eu lhe disse, senhora.
+
+523
+00:48:35,508 --> 00:48:37,280
+Não é possível.
+
+524
+00:48:37,477 --> 00:48:40,585
+Me pediu muito papel
+e sua confissão me pareceu curta.
+
+525
+00:48:41,232 --> 00:48:42,692
+É verdade.
+
+526
+00:48:43,891 --> 00:48:47,749
+- O que fez com o papel?
+- O que eu lhe disse.
+
+527
+00:48:53,417 --> 00:48:57,588
+Jure pelos seus votos
+a Deus que é verdade,
+
+528
+00:48:57,946 --> 00:48:59,845
+e eu acreditarei em você.
+
+529
+00:49:00,062 --> 00:49:05,192
+Senhora, não pode exigir que
+eu jure por algo tão trivial.
+
+530
+00:49:06,152 --> 00:49:08,321
+Não tenho permissão.
+
+531
+00:49:08,529 --> 00:49:10,302
+Você está me enganando.
+
+532
+00:49:10,907 --> 00:49:13,117
+Você está
+se arriscando demais.
+
+533
+00:49:15,411 --> 00:49:17,971
+O que fez com o papel?
+
+534
+00:49:18,226 --> 00:49:19,709
+Senhora, eu já lhe disse.
+
+535
+00:49:20,264 --> 00:49:22,953
+- Onde está?
+- Eu não sei.
+
+536
+00:49:23,315 --> 00:49:25,108
+O que fez com o papel?
+
+537
+00:49:27,131 --> 00:49:30,322
+Jure que só o usou
+para sua confissão.
+
+538
+00:49:30,635 --> 00:49:33,450
+Senhora, tratando-se de
+tamanha futilidade,
+
+539
+00:49:34,583 --> 00:49:36,669
+não posso jurar.
+
+540
+00:49:42,613 --> 00:49:44,128
+Jure...
+
+541
+00:49:44,242 --> 00:49:46,623
+Não devo jurar.
+
+542
+00:49:47,176 --> 00:49:49,234
+- Não vai jurar?
+- Não, senhora.
+
+543
+00:49:49,618 --> 00:49:51,182
+Então você é culpada?
+
+544
+00:49:51,304 --> 00:49:53,077
+- De quê?
+- De tudo.
+
+545
+00:49:53,261 --> 00:49:55,242
+Você é capaz de
+qualquer coisa...
+
+546
+00:49:56,389 --> 00:49:59,830
+elogiou a Sra. de Moni
+para rebaixar-me.
+
+547
+00:50:01,207 --> 00:50:03,897
+Desobedeceu as regras
+que estabeleci.
+
+548
+00:50:04,043 --> 00:50:07,755
+Dividiu a comunidade e
+falhou com seus deveres.
+
+549
+00:50:08,422 --> 00:50:11,300
+Você me obriga
+a castigá-la...
+
+550
+00:50:11,550 --> 00:50:14,866
+e também castigar aqueles
+que seduziu com o que fez.
+
+551
+00:50:15,638 --> 00:50:20,059
+Tratei-a com consideração.
+Acreditei que admitiria seus erros...
+
+552
+00:50:20,747 --> 00:50:22,666
+e voltaria à congregação.
+
+553
+00:50:23,130 --> 00:50:25,007
+Você não o fez.
+
+554
+00:50:28,943 --> 00:50:31,946
+Tem algo passando
+pela sua cabeça.
+
+555
+00:50:33,494 --> 00:50:35,163
+Você tem planos.
+
+556
+00:50:36,200 --> 00:50:39,036
+E preciso saber,
+pelo bem do convento.
+
+557
+00:50:39,286 --> 00:50:41,163
+Eu quero saber.
+
+558
+00:50:49,130 --> 00:50:51,027
+Irmã Suzanne...
+
+559
+00:50:53,582 --> 00:50:56,794
+- diga-me a verdade.
+- Senhora, eu já lhe disse.
+
+560
+00:51:08,982 --> 00:51:12,158
+Eu lhe dou cinco segundos
+para decidir.
+
+561
+00:51:13,070 --> 00:51:16,468
+- Quero esse papel.
+- Eu não o tenho.
+
+562
+00:51:16,892 --> 00:51:19,811
+Jure que só o usou
+para sua confissão.
+
+563
+00:51:20,035 --> 00:51:21,996
+Não posso jurar.
+
+564
+00:51:25,134 --> 00:51:26,901
+Muito bem.
+
+565
+00:51:47,062 --> 00:51:48,793
+Diga o que escreveu.
+
+566
+00:51:48,939 --> 00:51:51,713
+- Você é gentil demais...
+- Você não a conhece.
+
+567
+00:51:51,765 --> 00:51:53,016
+Madre...
+
+568
+00:51:53,131 --> 00:51:56,509
+Eu não fiz nada que ofenderia
+a Deus ou aos homens...
+
+569
+00:51:56,989 --> 00:52:00,263
+- Eu juro.
+- Não é isso o que quero.
+
+570
+00:52:00,388 --> 00:52:03,496
+Ela escreveu ao Arcebispo
+para denunciá-la.
+
+571
+00:52:04,893 --> 00:52:08,375
+- Agora, Irmã Suzanne.
+- Senhora, já viram tudo.
+
+572
+00:52:08,542 --> 00:52:10,273
+Estou me perdendo,
+
+573
+00:52:10,389 --> 00:52:12,787
+mais cedo ou mais tarde...
+
+574
+00:52:13,255 --> 00:52:15,695
+faça o que quiser comigo.
+
+575
+00:52:22,473 --> 00:52:24,767
+Deixe-me beijá-lo
+mais uma vez...
+
+576
+00:52:32,316 --> 00:52:33,943
+Toque o sino.
+
+577
+00:52:34,652 --> 00:52:36,132
+Não deixe ninguém ver.
+
+578
+00:52:50,522 --> 00:52:52,920
+Obedeça sua Superiora
+e sairá.
+
+579
+00:52:53,045 --> 00:52:55,318
+Não fiz nada!
+Não sei o que querem de mim!
+
+580
+00:52:55,576 --> 00:52:57,557
+Irmã, existe um Deus.
+
+581
+00:53:09,895 --> 00:53:11,741
+Nossa Madre é muito boa.
+
+582
+00:53:11,856 --> 00:53:14,037
+Passaram-se três dias
+e ela já a perdoou.
+
+583
+00:53:14,191 --> 00:53:16,589
+É tarde demais.
+Me deixe em paz.
+
+584
+00:53:16,735 --> 00:53:18,258
+Me deixe em paz!
+
+585
+00:53:26,245 --> 00:53:28,784
+Conversei com Deus
+sobre seu caso.
+
+586
+00:53:29,019 --> 00:53:31,396
+Ele tocou meu coração
+e eu o obedeço.
+
+587
+00:53:32,293 --> 00:53:34,733
+Ajoelhe-se e peça perdão.
+
+588
+00:53:38,132 --> 00:53:42,136
+Deus, peço perdão pelos
+meus pecados...
+
+589
+00:53:43,157 --> 00:53:45,726
+assim como fez
+por mim na cruz.
+
+590
+00:53:45,910 --> 00:53:48,079
+Que orgulhosa.
+Comparando-se a Jesus!
+
+591
+00:53:48,288 --> 00:53:49,692
+Isso não é tudo,
+
+592
+00:53:50,290 --> 00:53:52,980
+prometa que nunca vai falar
+sobre o que aconteceu.
+
+593
+00:53:55,545 --> 00:53:57,776
+Ninguém jamais saberá.
+
+594
+00:54:02,524 --> 00:54:03,984
+Eu juro.
+
+595
+00:54:37,087 --> 00:54:41,612
+Pode ser que não voltemos a
+conversar. Deus nos perdoará.
+
+596
+00:54:42,300 --> 00:54:45,637
+Não li seu relatório,
+mas imagino o que esteja escrito.
+
+597
+00:54:45,804 --> 00:54:49,182
+Você conhece muita gente.
+Eu não conheço ninguém.
+
+598
+00:54:50,079 --> 00:54:51,997
+Eu não quero lhe comprometer.
+
+599
+00:54:52,519 --> 00:54:55,334
+Seria sua perdição.
+
+600
+00:54:55,583 --> 00:54:57,419
+O que posso fazer?
+
+601
+00:54:57,732 --> 00:55:02,320
+Entregue esse relatório a um
+advogado e consiga uma resposta.
+
+602
+00:55:02,831 --> 00:55:04,395
+Gostaria de sair?
+
+603
+00:55:06,574 --> 00:55:09,932
+Se ele responder, você precisará
+lidar com gente advogados.
+
+604
+00:55:10,036 --> 00:55:11,020
+Eu sei.
+
+605
+00:55:11,183 --> 00:55:13,790
+- Precisaria de liberdade.
+- É verdade.
+
+606
+00:55:13,998 --> 00:55:18,565
+- Tornariam sua vida impossível.
+- As leis me protegerão.
+
+607
+00:55:19,191 --> 00:55:20,985
+Eu devo aparecer.
+
+608
+00:55:21,297 --> 00:55:25,155
+Terei a chance de falar
+e reclamar.
+
+609
+00:55:26,302 --> 00:55:27,971
+E se falhar?
+
+610
+00:55:28,513 --> 00:55:30,786
+Pedirei para ser transferida
+de convento...
+
+611
+00:55:31,223 --> 00:55:33,413
+ou morrerei aqui.
+
+612
+00:55:33,831 --> 00:55:36,104
+Sofrerá muito antes de morrer.
+
+613
+00:55:36,260 --> 00:55:38,189
+Aconteça o que acontecer,
+
+614
+00:55:38,398 --> 00:55:41,422
+não podem dizer
+que tive uma paixão culpada.
+
+615
+00:55:41,754 --> 00:55:45,821
+Não vejo ninguém.
+Peço para ser livre...
+
+616
+00:55:46,051 --> 00:55:49,659
+porque o sacrifício da minha
+liberdade não foi voluntário.
+
+617
+00:55:51,012 --> 00:55:54,141
+Não se preocupe,
+não me esquecerei.
+
+618
+00:55:55,436 --> 00:55:57,375
+Sei que é minha amiga.
+
+619
+00:55:57,500 --> 00:56:01,233
+Peça orientação a Deus.
+Rezarei com você.
+
+620
+00:56:09,450 --> 00:56:12,807
+Chegou a Semana Santa.
+Muita gente veio ao convento.
+
+621
+00:56:12,911 --> 00:56:15,727
+Cantei tão bem que recebi
+muitos aplausos...
+
+622
+00:56:15,831 --> 00:56:18,438
+fui tão aplaudida quanto
+
+623
+00:56:18,542 --> 00:56:19,918
+atrizes em um teatro.
+
+624
+00:56:29,616 --> 00:56:31,075
+Minha filha,
+
+625
+00:56:34,766 --> 00:56:36,642
+Querida Suzanne...
+
+626
+00:56:39,563 --> 00:56:40,960
+Permita-me, Irmã...
+
+627
+00:56:57,456 --> 00:57:00,876
+Madre, teria a bondade
+de me devolver...
+
+628
+00:57:01,032 --> 00:57:02,783
+Sua medalha?
+
+629
+00:57:03,189 --> 00:57:04,649
+Sim, concordo.
+
+630
+00:57:15,263 --> 00:57:18,600
+Irmã Suzanne, um tal de Sr. Manouri
+está procurando você.
+
+631
+00:57:18,750 --> 00:57:20,418
+É seu advogado?
+
+632
+00:57:24,483 --> 00:57:26,839
+Conseguimos permissão
+de Roma.
+
+633
+00:57:31,990 --> 00:57:35,390
+Em breve, sua Superiora receberá
+uma notificação...
+
+634
+00:57:35,556 --> 00:57:40,290
+em nome de Suzanne Simonin,
+com a petição de deixar o hábito...
+
+635
+00:57:40,499 --> 00:57:44,565
+e de sair do claustro
+para ser livre novamente.
+
+636
+00:57:47,339 --> 00:57:52,810
+Mas para conduzir seu caso,
+terei que vê-la.
+
+637
+00:57:53,303 --> 00:57:56,974
+- Temos que nos escrever.
+- Estarei suspensa.
+
+638
+00:57:57,078 --> 00:57:58,607
+Outra coisa:
+
+639
+00:57:58,851 --> 00:58:02,813
+Assim que o processo legal iniciar,
+ficará aqui,
+
+640
+00:58:04,377 --> 00:58:07,088
+sofrendo as crueldades
+de suas companheiras.
+
+641
+00:58:07,333 --> 00:58:08,897
+Já pensei nisso.
+
+642
+00:58:09,236 --> 00:58:12,126
+Não será pior
+do que já estou acostumada.
+
+643
+00:58:12,698 --> 00:58:16,681
+Você terá encontrar
+vários obstáculos:
+
+644
+00:58:17,147 --> 00:58:18,815
+A lei...
+
+645
+00:58:18,996 --> 00:58:21,894
+o convento de Longchamps,
+suas irmãs...
+
+646
+00:58:22,228 --> 00:58:25,023
+que receberam todo o
+patrimônio familiar.
+
+647
+00:58:25,127 --> 00:58:28,672
+Uma vez livre, você terá
+o direito de reivindicar sua parte.
+
+648
+00:58:28,776 --> 00:58:34,470
+- Direi que renuncio a esse direito.
+- Mas uma renúncia feita enquanto freira,
+
+649
+00:58:34,741 --> 00:58:37,118
+não terá validade quando
+você deixar de sê-la.
+
+650
+00:58:37,452 --> 00:58:41,080
+Além disso, elas aceitariam
+essa renúncia?
+
+651
+00:58:42,040 --> 00:58:45,460
+Deixar uma irmã sem abrigo,
+sem piedade.
+
+652
+00:58:46,085 --> 00:58:47,858
+O que as pessoas diriam?
+
+653
+00:58:48,316 --> 00:58:52,972
+E se lhe ocorre casar
+e ter filhos?
+
+654
+00:58:54,156 --> 00:58:57,347
+Elas procurarão fazer com
+que nada disso aconteça.
+
+655
+00:59:00,737 --> 00:59:02,301
+Não desanime.
+
+656
+00:59:05,834 --> 00:59:09,546
+Vou lhe ajudar
+em tudo que puder.
+
+657
+00:59:21,099 --> 00:59:24,248
+- Então quer nos deixar?
+- Sim, Madre.
+
+658
+00:59:24,405 --> 00:59:26,959
+- Você retira seus votos?
+- Sim, Madre.
+
+659
+00:59:27,397 --> 00:59:30,192
+- Não os fez de livre vontade?
+- Não, Madre.
+
+660
+00:59:30,359 --> 00:59:32,329
+- Quem forçou?
+- Todos.
+
+661
+00:59:32,746 --> 00:59:34,857
+- Seu pai?
+- Meu pai.
+
+662
+00:59:35,134 --> 00:59:37,472
+- Sua mãe?
+- Também.
+
+663
+00:59:37,970 --> 00:59:40,515
+- Por que você não protestou?
+
+664
+00:59:40,827 --> 00:59:44,977
+Eu não sabia o que estava fazendo.
+Nem sequer lembro da cerimônia.
+
+665
+00:59:46,833 --> 00:59:50,212
+- Como pode dizer isso?
+- É a verdade.
+
+666
+00:59:50,316 --> 00:59:52,402
+E você acha que as
+pessoas vão acreditar nisso?
+
+667
+00:59:52,506 --> 00:59:56,087
+Acreditem ou não,
+é a verdade.
+
+668
+00:59:58,512 --> 01:00:02,516
+- Venha, Suzanne, vamos conversar.
+- Como quiser, Madre.
+
+669
+01:00:06,311 --> 01:00:10,440
+Se déssemos atenção a tais argumentos
+haveria muitos abusos.
+
+670
+01:00:11,066 --> 01:00:14,403
+Eu fui obrigada a castigá-la...
+
+671
+01:00:15,675 --> 01:00:18,120
+o pior crime
+é o falso testemunho.
+
+672
+01:00:18,261 --> 01:00:22,014
+Eu não estou mentindo.
+Não jurei nada.
+
+673
+01:00:24,225 --> 01:00:28,479
+- Não reparamos o dano?
+- Não foi esse o motivo de minha decisão.
+
+674
+01:00:28,615 --> 01:00:31,378
+- Qual foi?
+- A falta de vocação.
+
+675
+01:00:31,732 --> 01:00:34,110
+Ter feito meus votos
+forçada.
+
+676
+01:00:34,298 --> 01:00:36,404
+Por que não disse, então?
+
+677
+01:00:36,988 --> 01:00:39,219
+Na primeira vez, eu o fiz.
+
+678
+01:00:39,678 --> 01:00:42,764
+Na segunda,
+eu estava inconsciente...
+
+679
+01:00:43,506 --> 01:00:46,341
+É verdade,
+você sabe, Madre.
+
+680
+01:00:47,947 --> 01:00:50,241
+Como testemunha...
+
+681
+01:00:50,626 --> 01:00:54,755
+- juraria que eu estava em sã consciência?
+- Juraria.
+
+682
+01:00:55,184 --> 01:00:59,876
+Então, senhora, cometeria
+perjúrio, não eu.
+
+683
+01:01:06,621 --> 01:01:08,936
+Vai provocar um
+escândalo inútil.
+
+684
+01:01:09,499 --> 01:01:11,856
+Esse tipo de assunto
+provoca isso.
+
+685
+01:01:12,002 --> 01:01:14,463
+- Não será minha culpa.
+- As pessoas são más.
+
+686
+01:01:14,963 --> 01:01:18,216
+Pensarão o pior de você,
+de suas ideias, sua conduta.
+
+687
+01:01:18,342 --> 01:01:21,657
+Pensem o que quiserem!
+Meu coração é puro.
+
+688
+01:01:21,762 --> 01:01:23,951
+- Inacreditável.
+- Por que, senhora?
+
+689
+01:01:24,348 --> 01:01:27,184
+Cada um tem seu caráter.
+Eu tenho o meu.
+
+690
+01:01:27,351 --> 01:01:29,790
+Você gosta da vida no convento.
+Eu detesto.
+
+691
+01:01:30,333 --> 01:01:32,611
+Você recebeu o dom de Deus.
+
+692
+01:01:32,752 --> 01:01:34,274
+Eu não.
+
+693
+01:01:34,399 --> 01:01:38,653
+Estaria perdida no mundo.
+Aqui, tem sua salvação.
+
+694
+01:01:38,758 --> 01:01:42,824
+Estou condenada aqui.
+Espero me redimir no mundo.
+
+695
+01:01:43,241 --> 01:01:48,296
+Meu amor pela Sra. de Moni me cegou.
+Estou farta de ser hipócrita.
+
+696
+01:01:48,403 --> 01:01:51,166
+Meu corpo está aqui,
+mas minha alma, não.
+
+697
+01:01:51,333 --> 01:01:54,169
+Eu sou e sempre serei
+uma freira ruim.
+
+698
+01:02:01,197 --> 01:02:04,200
+Não me diga que deixará
+sem arrependimento...
+
+699
+01:02:04,367 --> 01:02:09,726
+- o hábito que a une a Jesus.
+- Sim, Madre, porque os uso obrigada.
+
+700
+01:02:10,185 --> 01:02:13,550
+Eu gostaria de rasgá-los
+e tirá-los.
+
+701
+01:02:14,731 --> 01:02:16,504
+Santo Deus!
+O que nossas irmãs irão dizer?
+
+702
+01:02:17,359 --> 01:02:20,320
+- Está disposta a condenar-se?
+- Eu quero sair daqui!
+
+703
+01:02:20,424 --> 01:02:24,845
+- Se não gosta do convento...
+- Nem do convento nem de ser freira!
+
+704
+01:02:25,033 --> 01:02:28,182
+Não quero ficar presa
+em lugar nenhum.
+
+705
+01:02:49,057 --> 01:02:51,289
+Você está possuída, minha filha.
+
+706
+01:02:52,290 --> 01:02:54,615
+Ele está falando por você.
+
+707
+01:02:54,719 --> 01:02:58,911
+Não! Odeio essas roupas!
+Não quero vesti-las nunca mais.
+
+708
+01:03:03,798 --> 01:03:05,779
+Jesus...
+
+709
+01:03:17,252 --> 01:03:18,983
+Madre...
+
+710
+01:03:21,423 --> 01:03:23,550
+Não estou louca nem possuída.
+
+711
+01:03:25,135 --> 01:03:27,512
+Me desculpe por ser violenta...
+
+712
+01:03:29,222 --> 01:03:31,162
+Peço seu perdão.
+
+713
+01:03:33,632 --> 01:03:35,509
+Mas julgando por isso,
+
+714
+01:03:35,770 --> 01:03:38,137
+não quero mais mentir.
+
+715
+01:03:39,232 --> 01:03:43,466
+Fazendo o que salva outras pessoas,
+me odeio e me condeno.
+
+716
+01:03:47,324 --> 01:03:49,472
+Você quer evitar escândalo?
+
+717
+01:03:54,164 --> 01:03:55,874
+Existe uma maneira:
+
+718
+01:03:58,502 --> 01:04:01,296
+Não peço que abra as portas,
+
+719
+01:04:04,027 --> 01:04:07,657
+- mas para que não sejam vigiadas.
+- Você está louca!
+
+720
+01:04:07,761 --> 01:04:09,087
+Escute!
+
+721
+01:04:09,804 --> 01:04:12,474
+Se não conseguir recuperar a
+minha liberdade,
+
+722
+01:04:12,933 --> 01:04:15,060
+ficarei tão desesperada...
+
+723
+01:04:15,393 --> 01:04:17,086
+que poderei me matar.
+
+724
+01:04:17,559 --> 01:04:21,109
+Poderei me matar!
+
+725
+01:04:30,244 --> 01:04:32,433
+Irmã, vá para a igreja.
+
+726
+01:04:33,036 --> 01:04:36,852
+Peça a Deus que purifique seu espírito.
+
+727
+01:04:38,583 --> 01:04:41,041
+Examine sua consciência.
+
+728
+01:04:42,712 --> 01:04:44,568
+Eu lhe dispenso do coro.
+
+729
+01:05:00,564 --> 01:05:05,110
+Irmãs, imploremos a misericórdia de Deus,
+por uma freira que ele abandonou...
+
+730
+01:05:05,777 --> 01:05:08,968
+e que está prestes a cometer um sacrilégio,
+
+731
+01:05:09,072 --> 01:05:11,157
+um ato vergonhoso.
+
+732
+01:05:13,059 --> 01:05:14,936
+Irmã Suzanne,
+
+733
+01:05:15,307 --> 01:05:18,331
+até segunda ordem, você estará
+dispensada de suas tarefas.
+
+734
+01:05:19,145 --> 01:05:20,917
+Não será servida.
+
+735
+01:05:21,334 --> 01:05:23,461
+Assistirá à missa de joelhos.
+
+736
+01:05:24,233 --> 01:05:27,424
+Ninguém poderá falar ou lhe
+ajudar e nem
+
+737
+01:05:27,632 --> 01:05:31,699
+aproximar-se de você.
+O que você tocar não será usado.
+
+738
+01:05:33,284 --> 01:05:35,557
+Fique no meio do coro.
+
+739
+01:05:43,690 --> 01:05:47,235
+Para sua salvação
+vamos recitar as Litanias e, depois,
+
+740
+01:05:47,485 --> 01:05:50,676
+orações para aqueles
+que estão à morte.
+
+741
+01:06:31,001 --> 01:06:32,773
+Irmã Saint-Joseph.
+
+742
+01:06:34,497 --> 01:06:36,582
+Saia daqui.
+Saia!
+
+743
+01:06:37,014 --> 01:06:39,755
+- O que você quer?
+- Estou com fome.
+
+744
+01:06:40,538 --> 01:06:42,728
+Você não merece viver.
+
+745
+01:07:43,998 --> 01:07:46,417
+Passe por ela,
+não passa de um cadáver.
+
+746
+01:08:17,635 --> 01:08:18,949
+Vá embora.
+
+747
+01:08:21,149 --> 01:08:22,401
+Mais longe.
+
+748
+01:08:25,998 --> 01:08:27,082
+O que você quer?
+
+749
+01:08:27,187 --> 01:08:30,628
+Senhora, nem Deus nem o homem
+me condenaram a morrer.
+
+750
+01:08:31,900 --> 01:08:34,069
+Dê ordens para que
+me deixem viver.
+
+751
+01:08:35,471 --> 01:08:36,826
+Você merece?
+
+752
+01:08:37,687 --> 01:08:39,355
+Só Deus sabe isso.
+
+753
+01:08:40,429 --> 01:08:43,557
+Só estou esperando aqui.
+Até que meu destino seja decidido.
+
+754
+01:08:44,183 --> 01:08:45,300
+Muito bem.
+
+755
+01:08:46,331 --> 01:08:47,832
+Farei o necessário.
+
+756
+01:09:05,517 --> 01:09:08,248
+Sua Superiora não queria
+que eu a visse.
+
+757
+01:09:08,290 --> 01:09:10,980
+Não se sabe nada de você.
+Não assistiu a missa.
+
+758
+01:09:11,311 --> 01:09:12,354
+Me aprisionaram.
+
+759
+01:09:13,492 --> 01:09:14,848
+Não posso sair.
+
+760
+01:09:16,277 --> 01:09:18,175
+Não tenho nada para comer.
+
+761
+01:09:19,072 --> 01:09:21,303
+As irmãs me mandam restos.
+
+762
+01:09:22,596 --> 01:09:24,953
+Espalham vidro quebrado pelo chão.
+
+763
+01:09:26,308 --> 01:09:28,185
+Elas pegaram meu rosário.
+
+764
+01:09:29,249 --> 01:09:32,147
+Dizem que estou possuída.
+
+765
+01:09:34,337 --> 01:09:35,797
+Querem me exorcizar.
+
+766
+01:09:36,026 --> 01:09:38,171
+Fale mais alto.
+Não consigo ouvir.
+
+767
+01:09:38,779 --> 01:09:43,513
+Senhor, não preste atenção.
+Não passam de mentiras!
+
+768
+01:09:44,180 --> 01:09:48,101
+Eles não podem me impedir de vê-la.
+Farei com que respeitem a lei.
+
+769
+01:09:48,664 --> 01:09:50,103
+Ao menos eu espero.
+
+770
+01:09:51,208 --> 01:09:55,556
+Não posso evitar esses sofrimentos.
+Você deve ser paciente.
+
+771
+01:09:55,733 --> 01:09:58,632
+Seu tempo acabou.
+Desculpe.
+
+772
+01:10:03,324 --> 01:10:05,281
+- Ela disse o quê?
+- Ela está possuída.
+
+773
+01:10:37,442 --> 01:10:39,131
+Irmã, não me machuque.
+
+774
+01:10:47,911 --> 01:10:49,412
+O que você fez?
+
+775
+01:10:50,039 --> 01:10:51,499
+- Diabo!
+- Satã!
+
+776
+01:10:52,542 --> 01:10:53,794
+Satã!
+
+777
+01:10:53,896 --> 01:10:55,501
+- Impura!
+- Satã!
+
+778
+01:11:08,181 --> 01:11:11,226
+Meu Deus!
+Ouça-me!
+
+779
+01:11:12,226 --> 01:11:13,665
+Ajude-me.
+
+780
+01:11:13,875 --> 01:11:15,439
+Já não há Deus para você.
+
+781
+01:11:15,813 --> 01:11:17,002
+Morra, condenada.
+
+782
+01:11:18,150 --> 01:11:19,714
+Amém a isso.
+
+783
+01:11:20,341 --> 01:11:21,905
+- Amém a ela.
+- Amém.
+
+784
+01:11:25,034 --> 01:11:26,598
+Senhores, sejamos breves.
+
+785
+01:11:28,159 --> 01:11:31,371
+Um recurso foi lançado
+em nome de Suzanne Simonin
+
+786
+01:11:31,788 --> 01:11:33,018
+que reclama contra
+a validade de seus votos.
+
+787
+01:11:33,498 --> 01:11:37,856
+Nós discutimos este caso
+e convocamos a esta audiência
+
+788
+01:11:38,044 --> 01:11:41,965
+os familiares de Suzanne e o convento -
+o outro lado.
+
+789
+01:11:42,319 --> 01:11:44,550
+Eu peço aos dois lados para
+que sejam breves.
+
+790
+01:11:45,718 --> 01:11:48,784
+Aqui temos duas cartas,
+escritas por Suzanne.
+
+791
+01:11:49,055 --> 01:11:52,162
+Em uma delas, ela diz a sua mãe,
+que gostaria de ser freira.
+
+792
+01:11:52,350 --> 01:11:55,478
+E na outra, agradece à
+Sra. de Moni por acolhê-la.
+
+793
+01:11:55,603 --> 01:11:58,314
+Eu apresento um memorando
+de exorcismo.
+
+794
+01:11:58,982 --> 01:12:02,631
+Nós discutimos o assunto e tomamos
+a decisão unanimemente.
+
+795
+01:12:03,631 --> 01:12:05,508
+Suzanne renunciou ao
+seu batismo.
+
+796
+01:12:05,613 --> 01:12:08,449
+Está possuída pelo demônio.
+
+797
+01:12:08,825 --> 01:12:10,952
+As acusações detalhadas estão aqui.
+
+798
+01:12:11,160 --> 01:12:14,852
+Ela não usa mais seu rosário,
+blasfema contra Cristo.
+
+799
+01:12:14,957 --> 01:12:17,876
+Agrediu uma das noviças
+mais jovens.
+
+800
+01:12:18,584 --> 01:12:21,963
+Vocês julgarão.
+Eu me curvo ao juízo do tribunal.
+
+801
+01:12:22,213 --> 01:12:25,779
+Estou farto dos intermináveis
+problemas dos conventos.
+
+802
+01:12:26,050 --> 01:12:29,012
+Nós sabemos por experiência
+que nossa autoridade é desprezada.
+
+803
+01:12:29,804 --> 01:12:31,305
+Mas isto é grave.
+
+804
+01:12:31,472 --> 01:12:34,726
+Além do mais, temos a
+denúncia apresentada pelo Sr. Manouri
+
+805
+01:12:35,101 --> 01:12:36,290
+que os oficiais vão
+nos mostrar.
+
+806
+01:12:36,477 --> 01:12:39,063
+Pode ser que não seja importante,
+mas é melhor preparar-se.
+
+807
+01:12:40,815 --> 01:12:43,714
+Iremos a Longchamp,
+veremos a irmã Simonin
+
+808
+01:12:44,569 --> 01:12:46,446
+e decidiremos sobre o exorcismo.
+
+809
+01:13:07,258 --> 01:13:08,197
+Levante-se.
+
+810
+01:13:09,969 --> 01:13:12,326
+Ajoelhe-se e condene sua
+alma a Deus.
+
+811
+01:13:13,765 --> 01:13:14,912
+Madre,
+
+812
+01:13:15,996 --> 01:13:16,976
+antes de obedecê-la...
+
+813
+01:13:17,643 --> 01:13:19,145
+o que farão comigo?
+
+814
+01:13:20,814 --> 01:13:22,900
+O que devo pedir a Deus?
+
+815
+01:13:28,174 --> 01:13:30,468
+Por qual graça devo pedir?
+
+816
+01:13:31,407 --> 01:13:33,534
+Peça perdão por todos os
+seus pecados.
+
+817
+01:13:33,744 --> 01:13:36,246
+Como se estivesse
+perante a Ele no Juízo Final.
+
+818
+01:13:56,265 --> 01:13:57,246
+Levante-a.
+
+819
+01:14:05,649 --> 01:14:07,734
+Como não quer se entregar
+a Deus,
+
+820
+01:14:07,944 --> 01:14:11,927
+- você sabe o que fazer.
+- Deixe-me beijar a cruz.
+
+821
+01:15:37,407 --> 01:15:38,554
+Continue.
+
+822
+01:15:41,787 --> 01:15:44,061
+Deus, tenha piedade de mim.
+
+823
+01:15:44,665 --> 01:15:48,169
+Perdoe-me se eu o ofendi.
+
+824
+01:15:50,087 --> 01:15:51,443
+Deus, tenha piedade de mim!
+
+825
+01:16:40,805 --> 01:16:44,016
+Irmã Suzanne, levante-se.
+
+826
+01:16:46,833 --> 01:16:48,605
+- Desamarre-a.
+- Ela é perigosa.
+
+827
+01:16:48,711 --> 01:16:50,275
+Desamarre-a.
+
+828
+01:16:58,990 --> 01:17:00,074
+Remova esse véu.
+
+829
+01:17:13,400 --> 01:17:16,778
+Crê em Deus Pai, Filho
+e Espírito Santo?
+
+830
+01:17:16,884 --> 01:17:17,926
+Creio.
+
+831
+01:17:18,032 --> 01:17:19,700
+Crê na Igreja Sagrada?
+
+832
+01:17:20,011 --> 01:17:22,722
+- Creio.
+- Você renuncia a Satã e...
+
+833
+01:17:29,937 --> 01:17:32,982
+- O que é isso?
+- Me machucaram enquanto...
+
+834
+01:17:33,274 --> 01:17:34,463
+Silêncio!
+
+835
+01:17:47,309 --> 01:17:49,749
+- Você renuncia a Satã e suas obras?
+- Sim, eu renuncio.
+
+836
+01:17:51,167 --> 01:17:52,043
+Renuncio.
+
+837
+01:18:04,180 --> 01:18:06,870
+Peço para que você
+reze em voz alta.
+
+838
+01:18:13,021 --> 01:18:14,064
+Meu Deus,
+
+839
+01:18:15,524 --> 01:18:16,421
+Meu Salvador,
+
+840
+01:18:18,194 --> 01:18:20,529
+que morreu na cruz por mim,
+
+841
+01:18:21,508 --> 01:18:22,551
+eu lhe venero.
+
+842
+01:18:24,263 --> 01:18:26,766
+Deixe sobre mim
+uma gota de sangue
+
+843
+01:18:27,849 --> 01:18:29,288
+para que eu seja purificada.
+
+844
+01:18:30,873 --> 01:18:35,815
+Perdoe-me Deus,
+como eu perdoo meus inimigos.
+
+845
+01:18:58,775 --> 01:18:59,818
+Madre!
+
+846
+01:19:00,861 --> 01:19:01,904
+Fique aí.
+
+847
+01:19:10,246 --> 01:19:11,685
+Levante, Irmã Suzanne.
+
+848
+01:19:20,192 --> 01:19:23,112
+Aqui estão as acusações.
+Responda-as sem medo.
+
+849
+01:19:27,596 --> 01:19:29,953
+- Por que não se confessa?
+- Não tenho permissão.
+
+850
+01:19:30,141 --> 01:19:32,059
+Por que não se aproxima
+dos sacramentos?
+
+851
+01:19:32,122 --> 01:19:34,499
+- Não posso.
+- Por que não vai à missa?
+
+852
+01:19:34,500 --> 01:19:35,856
+- Eles me impedem.
+- Você sabe...
+
+853
+01:19:35,857 --> 01:19:36,899
+Silêncio, senhora.
+
+854
+01:19:37,526 --> 01:19:39,090
+Por que você deixou seu quarto
+à noite?
+
+855
+01:19:39,775 --> 01:19:42,841
+- Deixaram-me sem água e sem o que comer.
+- Por que você está confinada?
+
+856
+01:19:43,259 --> 01:19:45,553
+- Não sei.
+- Por que seu quarto não é fechado?
+
+857
+01:19:45,762 --> 01:19:47,848
+- Eu rompi a fechadura.
+- Por quê?
+
+858
+01:19:47,992 --> 01:19:50,223
+Para poder ir à missa.
+
+859
+01:19:52,727 --> 01:19:54,916
+- Então você foi à Igreja?
+- Sim, senhor.
+
+860
+01:19:54,999 --> 01:19:56,813
+Não é certo.
+Toda as irmãs...
+
+861
+01:19:57,127 --> 01:19:59,734
+juram que a porta estava fechada,
+
+862
+01:20:00,087 --> 01:20:04,008
+que me encontraram lá e você
+as ordenou para que pisassem em mim.
+
+863
+01:20:04,175 --> 01:20:07,553
+- Não é verdade.
+- Senhora, falará mais tarde.
+
+864
+01:20:07,824 --> 01:20:09,346
+Por que não tem o rosário
+em seu crucifixo?
+
+865
+01:20:09,616 --> 01:20:10,763
+- Foi tomado de mim.
+- Livro de orações?
+
+866
+01:20:11,599 --> 01:20:12,683
+- Foi tomado de mim.
+- Como você reza?
+
+867
+01:20:12,850 --> 01:20:16,020
+Com o coração e com a alma,
+apesar de ser proibida de rezar.
+
+868
+01:20:16,228 --> 01:20:17,688
+Quem lhe proibiu?
+
+869
+01:20:18,501 --> 01:20:19,586
+A Madre.
+
+870
+01:20:24,111 --> 01:20:25,196
+Madre...
+
+871
+01:20:26,030 --> 01:20:28,720
+Você a proibiu de rezar, sim ou não?
+
+872
+01:20:29,242 --> 01:20:30,077
+Eu tenho motivos
+para pensar...
+
+873
+01:20:31,035 --> 01:20:33,579
+Uma resposta, sim ou não?
+
+874
+01:20:36,624 --> 01:20:38,334
+Eu a proibi, mas...
+
+875
+01:20:42,129 --> 01:20:44,569
+Irmã Suzanne, por que
+você está descalça?
+
+876
+01:20:45,758 --> 01:20:49,199
+- Não me dão meias nem sapatos.
+- Por que suas roupas estão sujas?
+
+877
+01:20:49,408 --> 01:20:51,911
+- Durmo com elas há três meses.
+- Por quê?
+
+878
+01:20:53,580 --> 01:20:56,083
+- Não tenho roupa de noite.
+- Por que não?
+
+879
+01:20:56,268 --> 01:20:58,187
+- Foram tomadas de mim.
+- Você recebe comida?
+
+880
+01:20:58,396 --> 01:21:00,169
+Eu imploro por isso.
+
+881
+01:21:01,630 --> 01:21:02,673
+Então você não é alimentada.
+
+882
+01:21:08,864 --> 01:21:11,784
+Para justificar tanta punição,
+qual foi seu crime?
+
+883
+01:21:12,117 --> 01:21:15,913
+Eu não tenho vocação
+e neguei meus votos.
+
+884
+01:21:16,121 --> 01:21:18,832
+Isso é assunto para a
+lei decidir.
+
+885
+01:21:20,084 --> 01:21:23,045
+Enquanto isso você deve
+cumprir com seus deveres.
+
+886
+01:21:24,402 --> 01:21:25,653
+Você tem alguma reclamação
+de alguém?
+
+887
+01:21:26,592 --> 01:21:28,991
+Não, senhor.
+
+888
+01:21:30,261 --> 01:21:33,055
+Estou aqui para me defender,
+não para acusar.
+
+889
+01:21:34,932 --> 01:21:36,121
+- Você pode ir.
+- Para onde devo ir?
+
+890
+01:21:36,852 --> 01:21:37,999
+De volta ao seu quarto.
+
+891
+01:21:49,157 --> 01:21:50,929
+Continuemos.
+
+892
+01:21:51,907 --> 01:21:53,972
+Eu devo agora interrogá-la,
+Madre Superiora.
+
+893
+01:21:54,598 --> 01:21:56,997
+Não me vou sem que
+a ordem esteja restaurada.
+
+894
+01:22:29,069 --> 01:22:33,428
+Que lista de crueldades.
+Inacreditável.
+
+895
+01:22:33,699 --> 01:22:35,618
+Concordo Monsenhor,
+mas é verdade.
+
+896
+01:22:36,201 --> 01:22:39,246
+Cristãs!
+Essa mulher é indigna de seu cargo.
+
+897
+01:22:39,247 --> 01:22:42,271
+Ela merece ser demitida, Monsenhor...
+
+898
+01:22:42,750 --> 01:22:46,128
+- Mas não será.
+- Quem vai lhe impedir?
+
+899
+01:22:46,378 --> 01:22:47,400
+Ninguém.
+
+900
+01:22:48,005 --> 01:22:51,321
+A madre certamente pensou
+que cumpria seu dever.
+
+901
+01:22:52,469 --> 01:22:54,971
+Eu conheci o pai dela.
+
+902
+01:22:55,387 --> 01:22:59,704
+Uma família pobre, de linhagem
+militar, mas honrada.
+
+903
+01:23:00,309 --> 01:23:02,686
+Seus três irmãos são
+excelentes oficiais.
+
+904
+01:23:02,936 --> 01:23:05,272
+O mais novo morreu valentemente
+no ano passado.
+
+905
+01:23:07,191 --> 01:23:09,672
+Mas vejo que Suzanne
+a afetou de alguma forma.
+
+906
+01:23:10,819 --> 01:23:13,072
+Não proteste.
+Não é crime.
+
+907
+01:23:16,909 --> 01:23:18,911
+E a petição dela?
+
+908
+01:23:19,662 --> 01:23:22,936
+Acho que a jurisdição eclesiástica
+irá rejeitá-la.
+
+909
+01:23:23,123 --> 01:23:25,605
+- Sem inquérito?
+- Não há outra solução.
+
+910
+01:23:26,043 --> 01:23:29,692
+Os amigos da Sra. Simonin já
+causaram muitos problemas.
+
+911
+01:23:30,172 --> 01:23:33,092
+O que as pessoas pensariam
+se fossemos indulgentes?
+
+912
+01:23:33,342 --> 01:23:38,263
+Verdade.
+Nossos filósofos já diziam:
+
+913
+01:23:40,432 --> 01:23:43,812
+"Se os portões da prisão fossem
+abertos para uma infeliz...
+
+914
+01:23:44,520 --> 01:23:47,815
+as pessoas avançariam
+para tentar forçá-las."
+
+915
+01:23:48,023 --> 01:23:52,131
+Teríamos que dar-lhes razão.
+Não se preocupe com Suzanne.
+
+916
+01:23:52,319 --> 01:23:56,052
+O advogado vai apelar
+e a corte irá decidir.
+
+917
+01:23:56,657 --> 01:23:58,701
+Os oficiais sabem
+o que têm que fazer.
+
+918
+01:23:58,909 --> 01:24:02,955
+- Aceitará sua decisão?
+- Deus queira que seja justa.
+
+919
+01:24:03,956 --> 01:24:07,126
+Estamos estudando
+também o caso Simonin.
+
+920
+01:24:43,245 --> 01:24:45,414
+Você tem visita.
+
+921
+01:25:11,940 --> 01:25:13,901
+Seu advogado me mandou.
+
+922
+01:25:14,319 --> 01:25:16,717
+- Eu perdi o processo.
+- Não sei de nada.
+
+923
+01:25:16,927 --> 01:25:19,012
+Ele me deu esta carta.
+
+924
+01:25:21,933 --> 01:25:25,374
+- Não vai contestar?
+- Não. Você pode ir.
+
+925
+01:25:32,882 --> 01:25:33,821
+Suzanne...
+
+926
+01:26:18,048 --> 01:26:19,383
+Você a leu?
+
+927
+01:26:20,133 --> 01:26:22,469
+Eu a recebi
+mas não a li.
+
+928
+01:26:23,513 --> 01:26:25,390
+- Então...
+- Não, senhor.
+
+929
+01:26:26,329 --> 01:26:27,789
+Eu sei o que está escrito.
+
+930
+01:26:29,771 --> 01:26:31,440
+Se eu puder ajudar...
+
+931
+01:26:32,729 --> 01:26:36,587
+Falarei com os dignitários da igreja.
+
+932
+01:26:37,631 --> 01:26:38,674
+Não crie problemas.
+
+933
+01:26:39,778 --> 01:26:41,071
+Está tudo acabado agora.
+
+934
+01:26:41,280 --> 01:26:44,825
+Não. Você pode ao menos
+mudar de convento.
+
+935
+01:26:46,911 --> 01:26:49,622
+Muitas pessoas honradas estão
+interessadas em seu caso.
+
+936
+01:26:50,247 --> 01:26:53,563
+Algumas têm dinheiro e poderiam
+providenciá-lo a você.
+
+937
+01:26:54,793 --> 01:26:56,920
+Não vão lhe segurar aqui
+se você deixar.
+
+938
+01:26:58,255 --> 01:27:01,884
+Essas pessoas honradas
+já se esqueceram de mim.
+
+939
+01:27:02,093 --> 01:27:05,117
+- Você deve sair daqui.
+- Não peço nada.
+
+940
+01:27:05,848 --> 01:27:08,872
+Não espero por nada
+e não resisto a nada.
+
+941
+01:27:10,642 --> 01:27:14,855
+Se Deus pudesse me mudar...
+mas é impossível.
+
+942
+01:27:16,420 --> 01:27:20,069
+Este hábito agora é
+parte de meu corpo.
+
+943
+01:27:20,800 --> 01:27:22,469
+Eu odeio essa vida.
+
+944
+01:27:23,408 --> 01:27:25,494
+Eu me sinto
+odiando essa vida.
+
+945
+01:27:25,908 --> 01:27:27,597
+Você deve se transferir.
+
+946
+01:27:29,682 --> 01:27:31,288
+Vou visitá-la de novo.
+
+947
+01:27:32,123 --> 01:27:33,687
+Você deve sair daqui.
+
+948
+01:28:03,823 --> 01:28:05,908
+Como eles estão lhe tratando?
+
+949
+01:28:05,909 --> 01:28:07,994
+- Friamente.
+- Melhor assim.
+
+950
+01:28:08,784 --> 01:28:12,975
+Por favor, chame a Superiora
+para que possa nos ouvir.
+
+951
+01:28:13,330 --> 01:28:15,457
+- Continue falando.
+- O senhor vai me arruinar.
+
+952
+01:28:15,562 --> 01:28:19,316
+Não se preocupe.
+Não está mais sob a autoridade dela.
+
+953
+01:28:20,504 --> 01:28:23,757
+Lhe transferiremos esta semana
+a San Eutropio, próximo de Arpajon.
+
+954
+01:28:24,852 --> 01:28:26,478
+Você tem um bom amigo.
+
+955
+01:28:27,105 --> 01:28:28,252
+Seu advogado.
+
+956
+01:28:28,731 --> 01:28:30,274
+- O Sr. Manouri?
+- Ele mesmo.
+
+957
+01:28:31,483 --> 01:28:34,862
+Ele falou com o Arcebispo
+e outras pessoas.
+
+958
+01:28:35,071 --> 01:28:38,721
+Entregou um dote
+ao convento para sua admissão.
+
+959
+01:28:40,117 --> 01:28:44,121
+Se houver algo errado,
+eu ordeno que você me diga.
+
+960
+01:28:45,269 --> 01:28:46,416
+Não sei de nada.
+
+961
+01:28:46,749 --> 01:28:49,522
+Eu lhe ordeno,
+pelos seus votos sagrados...
+
+962
+01:28:52,756 --> 01:28:53,590
+Muito bem.
+
+963
+01:28:57,801 --> 01:29:00,971
+Eu peço
+que guarde segredo.
+
+964
+01:29:14,903 --> 01:29:18,240
+- Como conhece Manouri?
+- Através do meu caso.
+
+965
+01:29:18,802 --> 01:29:22,451
+- Vê ele frequentemente?
+- Não, quase nunca.
+
+966
+01:29:22,556 --> 01:29:25,163
+E desde que perdeu
+o caso?
+
+967
+01:29:25,373 --> 01:29:27,979
+- Só uma vez.
+- Ele escreveu?
+
+968
+01:29:28,189 --> 01:29:29,753
+- Não, senhor.
+- Escreveu pra ele?
+
+969
+01:29:29,963 --> 01:29:31,005
+Não, senhor.
+
+970
+01:29:31,215 --> 01:29:33,405
+Ele vai querer lhe contar tudo
+o que fizeram por você.
+
+971
+01:29:34,463 --> 01:29:36,590
+Eu a proíbo de vê-lo.
+
+972
+01:29:36,882 --> 01:29:40,219
+Se ele escrever, mande-me
+a carta sem abri-la.
+
+973
+01:29:41,950 --> 01:29:42,721
+Entendeu?
+
+974
+01:29:43,389 --> 01:29:45,474
+Sem abrir.
+
+975
+01:29:45,954 --> 01:29:48,811
+Sim, senhor.
+Vou lhe obedecer.
+
+976
+01:30:02,576 --> 01:30:03,931
+Que linda!
+
+977
+01:30:37,755 --> 01:30:39,153
+Sente-se, por favor.
+
+978
+01:30:41,656 --> 01:30:43,533
+- Perdoe-me, senhor.
+- Não é nada.
+
+979
+01:30:45,993 --> 01:30:48,245
+Soube das desgraças sofridas
+por essa pobre garota?
+
+980
+01:30:48,455 --> 01:30:51,479
+Eles estavam errados, tenho certeza.
+Ela é um doce.
+
+981
+01:30:52,418 --> 01:30:54,608
+- A igreja que vê...
+- Perdão, senhor.
+
+982
+01:30:55,836 --> 01:30:59,944
+graças aos seus muitos
+conventos, permite a seus membros...
+
+983
+01:31:00,132 --> 01:31:03,719
+- Você é adorável.
+- que realizem suas vocações.
+
+984
+01:31:03,969 --> 01:31:07,556
+Há lugares para todos neste grande
+corpo e cada um deve procurar...
+
+985
+01:31:07,848 --> 01:31:12,728
+Quando esses pedantes se forem,
+chamarei as irmãs e você cantará.
+
+986
+01:31:12,978 --> 01:31:18,338
+Cada um deve encontrar o lugar
+que lhe foi destinado...
+
+987
+01:31:18,547 --> 01:31:21,154
+pelo Criador de todas as coisas.
+
+988
+01:31:23,032 --> 01:31:24,387
+Venham sentar-se.
+
+989
+01:31:26,575 --> 01:31:27,743
+Deixem-me falar.
+
+990
+01:31:37,628 --> 01:31:39,963
+Na mudança de convento,
+seria conveniente
+
+991
+01:31:40,422 --> 01:31:43,238
+- que você renovasse seus votos.
+- Isso será feito, Monsenhor.
+
+992
+01:31:45,199 --> 01:31:46,971
+Não esqueça que seu dote
+vem de caridade.
+
+993
+01:31:47,221 --> 01:31:50,307
+- Um pouco mais de chocolate?
+- Sentimos muito pelo passado.
+
+994
+01:31:50,432 --> 01:31:53,081
+- Uma torrada com geleia?
+- Por favor, sente-se.
+
+995
+01:31:53,268 --> 01:31:56,960
+- Nunca agradecerá o bastante.
+- Pobre criança. Está tudo acabado...
+
+996
+01:31:57,065 --> 01:31:59,359
+Iremos consolar ela.
+Fará o que quiser.
+
+997
+01:31:59,464 --> 01:32:01,054
+- Um pouco de licor, uma fruta?
+- Não, obrigado.
+
+998
+01:32:01,106 --> 01:32:02,697
+- Licor? Uma fruta?
+- Não, obrigado.
+
+999
+01:32:04,887 --> 01:32:06,347
+Já é tarde.
+
+1000
+01:32:11,703 --> 01:32:13,872
+Pobrezinha, tem sofrido muito.
+
+1001
+01:32:14,415 --> 01:32:17,042
+Conheço a sua Superiora.
+Estivemos internas...
+
+1002
+01:32:21,463 --> 01:32:24,487
+na Abadia de Port-Royal.
+Nós a odiávamos!
+
+1003
+01:32:24,842 --> 01:32:26,343
+Conversaremos sobre isso mais tarde.
+
+1004
+01:32:43,152 --> 01:32:46,613
+Só queria ver se
+você está bem instalada.
+
+1005
+01:32:48,323 --> 01:32:50,492
+Aqui rezará, minha querida.
+
+1006
+01:32:51,869 --> 01:32:53,787
+Quero que coloquem
+uma almofada para você.
+
+1007
+01:33:00,398 --> 01:33:01,733
+Esta poltrona é do seu gosto?
+
+1008
+01:33:08,969 --> 01:33:11,492
+Os lençóis não são muito finos.
+Não temos outros.
+
+1009
+01:33:12,055 --> 01:33:13,286
+Os colchões são muito bons.
+
+1010
+01:33:35,787 --> 01:33:37,623
+Deve estar cansada.
+
+1011
+01:33:41,273 --> 01:33:43,671
+Fique na cama o tempo que quiser.
+
+1012
+01:34:07,986 --> 01:34:11,594
+É tarde, Suzanne.
+Nossa Madre está lhe esperando...
+
+1013
+01:34:22,125 --> 01:34:25,003
+Bom dia, Suzanne.
+Dormiu bem?
+
+1014
+01:34:27,776 --> 01:34:30,070
+O café foi feito há uma hora.
+
+1015
+01:34:30,279 --> 01:34:31,843
+Espero que esteja bom.
+
+1016
+01:34:33,513 --> 01:34:34,556
+Que pena, está frio.
+
+1017
+01:34:39,980 --> 01:34:41,022
+Apresse-se...
+
+1018
+01:34:42,729 --> 01:34:43,605
+e logo conversaremos.
+
+1019
+01:34:44,481 --> 01:34:47,025
+- Faz muito tempo que sua mãe morreu?
+- Quase um ano.
+
+1020
+01:34:47,235 --> 01:34:49,633
+- E seu pai?
+- Um pouco antes.
+
+1021
+01:34:49,903 --> 01:34:51,905
+Tenho duas irmãs, se é que
+posso chamá-las assim...
+
+1022
+01:34:52,114 --> 01:34:56,285
+Dizem que tem muito talento
+e, melhor ainda, inteligência.
+
+1023
+01:34:59,037 --> 01:35:02,145
+Escutou Irmã Úrsula
+cantando o Glória?
+
+1024
+01:35:02,332 --> 01:35:05,398
+- Não escutei.
+- Ela tem ciúmes da Dorotéa.
+
+1025
+01:35:05,731 --> 01:35:08,797
+E a Irmã Clemente, durante o
+Evangelho, fazia assim...
+
+1026
+01:35:18,015 --> 01:35:21,893
+Vamos, Suzanne.
+Toque algo para nós e depois cante.
+
+1027
+01:35:50,172 --> 01:35:53,592
+Está muito bom para a igreja,
+mas aqui...
+
+1028
+01:35:54,509 --> 01:35:58,847
+estamos entre amigas
+Cante algo alegre.
+
+1029
+01:35:59,057 --> 01:36:01,246
+- Ela não sabe...
+- Está cansada...
+
+1030
+01:36:01,558 --> 01:36:05,249
+Quero que cante algo para nós.
+Tem a voz mais linda do mundo.
+
+1031
+01:36:05,500 --> 01:36:07,522
+Não conheço canções.
+
+1032
+01:36:07,689 --> 01:36:09,816
+Não se lembra do que se cantava
+no mundo?
+
+1033
+01:36:10,192 --> 01:36:11,735
+Não faz tanto tempo assim.
+
+1034
+01:36:11,860 --> 01:36:15,197
+Parece que foi há muito tempo.
+Além disso, nunca vi o mundo.
+
+1035
+01:36:15,405 --> 01:36:18,742
+- Você sabe "Plaisir d'Amour"?
+- Às vezes, minhas irmãs cantavam.
+
+1036
+01:37:33,463 --> 01:37:36,279
+- Me parece que a Irmã Úrsula...
+- É de origem nobre...
+
+1037
+01:37:36,695 --> 01:37:39,635
+Bobagem.
+Ela toca e canta como um anjo.
+
+1038
+01:37:39,844 --> 01:37:42,075
+Ela virá para me dar aulas.
+
+1039
+01:37:42,680 --> 01:37:44,953
+Eu tocava cravo.
+Preciso praticar.
+
+1040
+01:37:45,203 --> 01:37:48,415
+É algo que não se esquece.
+
+1041
+01:38:23,492 --> 01:38:25,494
+Bem, o que me diz de sua aluna?
+
+1042
+01:38:25,744 --> 01:38:28,059
+Tem as mãos mais ligeiras
+do que as minhas.
+
+1043
+01:38:28,997 --> 01:38:31,020
+Pois eu admiro as suas.
+
+1044
+01:38:31,437 --> 01:38:34,857
+Thérèse, olhe que dedos lindos
+ela tem...
+
+1045
+01:38:36,005 --> 01:38:37,465
+Não abaixe os olhos.
+
+1046
+01:38:37,777 --> 01:38:39,049
+Olhe para mim.
+
+1047
+01:38:39,467 --> 01:38:40,614
+Olhe para mim.
+
+1048
+01:38:42,636 --> 01:38:45,305
+Sua Superiora tem que saber
+todos os seus pensamentos.
+
+1049
+01:38:45,764 --> 01:38:49,664
+Não pode ocultar-me coisas.
+Vai me contar tudo?
+
+1050
+01:38:49,810 --> 01:38:53,605
+Se esconde algo de mim, a disciplina
+lhe será aplicada na minha presença.
+
+1051
+01:38:54,544 --> 01:38:56,838
+Irmã Thérèse, pode ir,
+se está aborrecida.
+
+1052
+01:38:56,944 --> 01:38:57,882
+Não estou aborrecida.
+
+1053
+01:38:58,318 --> 01:39:00,987
+- Tenho muitas coisas a lhe perguntar.
+- Sim.
+
+1054
+01:39:01,196 --> 01:39:06,201
+Quero conhecer toda sua história,
+tudo que lhe causa sofrimento.
+
+1055
+01:39:09,663 --> 01:39:12,499
+Vou chorar, mas não tem problema.
+
+1056
+01:39:14,292 --> 01:39:17,879
+- Suzanne, quando saberei de tudo?
+- Quando a senhora mandar.
+
+1057
+01:39:18,089 --> 01:39:19,966
+Agora mesmo, se tivermos tempo.
+Que horas são?
+
+1058
+01:39:20,175 --> 01:39:22,365
+São 10 horas.
+Vai começar a missa.
+
+1059
+01:39:22,470 --> 01:39:24,243
+- Continue, então.
+- Madre...
+
+1060
+01:39:25,095 --> 01:39:27,389
+A senhora prometeu
+me escutar.
+
+1061
+01:39:28,014 --> 01:39:29,829
+Tenho maus pensamentos que me
+preocupam.
+
+1062
+01:39:30,141 --> 01:39:34,041
+Se vou para a Igreja sem lhe contar,
+não poderei rezar.
+
+1063
+01:39:34,437 --> 01:39:37,732
+Bobagem.
+Conversaremos sobre isso amanhã.
+
+1064
+01:39:38,191 --> 01:39:42,529
+- Querida Madre!
+- Madre, conceda-lhe o que ela pede.
+
+1065
+01:39:42,800 --> 01:39:44,865
+Minha história pode esperar.
+
+1066
+01:39:45,178 --> 01:39:47,264
+Escute-a e ela deixará de sofrer.
+
+1067
+01:39:47,578 --> 01:39:49,663
+- Você me irrita, Thérèse...
+- Eu sei...
+
+1068
+01:39:49,873 --> 01:39:53,105
+Você me incomoda e
+não gosto disso...
+
+1069
+01:39:53,419 --> 01:39:54,357
+Eu sei...
+
+1070
+01:39:57,252 --> 01:39:59,546
+mas não sou dona de meus
+sentimentos.
+
+1071
+01:40:00,505 --> 01:40:03,466
+Por mais que queira, não
+poderia ser.
+
+1072
+01:41:00,231 --> 01:41:02,400
+Querida Irmã...
+o que está acontecendo?
+
+1073
+01:41:06,676 --> 01:41:08,241
+Por que me evita?
+
+1074
+01:41:08,450 --> 01:41:10,744
+Nossa Madre não pode gostar de
+nós duas?
+
+1075
+01:41:10,971 --> 01:41:14,037
+Não. É impossível.
+
+1076
+01:41:15,956 --> 01:41:17,520
+Por que veio para cá?
+
+1077
+01:41:18,124 --> 01:41:20,272
+Será feliz por pouco tempo,
+eu lhe garanto.
+
+1078
+01:41:20,586 --> 01:41:23,819
+- E eu sofrerei para sempre.
+- O que teme?
+
+1079
+01:41:24,506 --> 01:41:28,197
+Que abuse de sua amizade?
+Que a coloque contra você?
+
+1080
+01:41:28,511 --> 01:41:29,866
+Não me conhece.
+
+1081
+01:41:30,076 --> 01:41:32,266
+Sei que não tem culpa.
+
+1082
+01:41:33,974 --> 01:41:35,788
+- Mas prometa-me...
+- O quê?
+
+1083
+01:41:37,874 --> 01:41:39,334
+Prometa-me...
+
+1084
+01:41:45,276 --> 01:41:48,863
+- que a verá o menos possível.
+- Mas, por que? Eu lhe asseguro que...
+
+1085
+01:41:49,177 --> 01:41:50,533
+estou perdida.
+
+1086
+01:41:52,117 --> 01:41:54,557
+O que as meninas estão conspirando?
+
+1087
+01:41:54,870 --> 01:41:58,728
+Madre, peço perdão por estar aqui
+sem a sua permissão.
+
+1088
+01:41:58,832 --> 01:42:01,459
+Sim, deveria ter solicitado.
+
+1089
+01:42:01,710 --> 01:42:04,775
+Eu queria consolar a irmã.
+
+1090
+01:42:04,880 --> 01:42:06,340
+Mas por quê?
+
+1091
+01:42:07,905 --> 01:42:10,408
+Ela estava preocupada
+com sua bondade em relação a mim.
+
+1092
+01:42:11,177 --> 01:42:14,014
+Teme que a senhora me queira mais.
+
+1093
+01:42:15,056 --> 01:42:19,728
+O ciúme, tão natural...
+
+1094
+01:42:20,854 --> 01:42:25,108
+pelos seus elogios a mim, fizeram
+com que ela sofresse. Eu a tranquilizei.
+
+1095
+01:42:26,401 --> 01:42:31,031
+Irmã Thérèse,
+eu sempre a amei e a amo muito...
+
+1096
+01:42:31,677 --> 01:42:34,722
+mas não suporto esta pretensão de
+exclusividade.
+
+1097
+01:42:35,201 --> 01:42:39,831
+Livre-se disso, se não quer que deixe
+de amar você.
+
+1098
+01:42:40,458 --> 01:42:43,064
+Lembre-se da sorte de Ágata...
+
+1099
+01:42:44,525 --> 01:42:47,445
+a morena que se senta em frente
+a mim no coral.
+
+1100
+01:42:48,071 --> 01:42:50,574
+Você me conhece
+e sabe que sou boa.
+
+1101
+01:42:51,384 --> 01:42:54,304
+Não me faça puni-la.
+Isso me faria sofrer...
+
+1102
+01:42:55,221 --> 01:42:57,682
+Irmã Suzanne, acompanhe-me.
+
+1103
+01:43:05,523 --> 01:43:09,006
+Você, vá para o seu quarto e
+não saia de lá sem minha permissão.
+
+1104
+01:43:12,072 --> 01:43:13,364
+Querida Madre...
+
+1105
+01:43:14,365 --> 01:43:19,391
+perdoe a minha irmã Thérèse.
+Ela está transtornada.
+
+1106
+01:43:19,601 --> 01:43:21,686
+Perdoá-la?
+Está bem.
+
+1107
+01:43:22,332 --> 01:43:25,814
+- O que me dá em troca?
+- Não tenho nada.
+
+1108
+01:43:26,337 --> 01:43:27,797
+Deixe-me beijá-la.
+
+1109
+01:43:38,120 --> 01:43:41,144
+Já é tarde para contar-me sua história,
+mas venha.
+
+1110
+01:43:41,518 --> 01:43:43,645
+Pode dar-me uma aula.
+
+1111
+01:43:50,006 --> 01:43:51,570
+Volte.
+
+1112
+01:43:52,007 --> 01:43:55,782
+Volte já para o seu quarto.
+É o melhor que você faz.
+
+1113
+01:44:41,953 --> 01:44:42,725
+Madre...
+
+1114
+01:44:43,038 --> 01:44:45,020
+- eu lhe agradeço.
+- Por que?
+
+1115
+01:44:45,229 --> 01:44:46,341
+Pelo espelho.
+
+1116
+01:44:46,377 --> 01:44:48,984
+Não comente nada.
+É contra as normas...
+
+1117
+01:44:49,715 --> 01:44:50,653
+mas...
+
+1118
+01:44:57,613 --> 01:44:58,448
+Suzanne...
+
+1119
+01:44:58,970 --> 01:45:01,410
+estive pensando no caso de
+Longchamp.
+
+1120
+01:45:02,119 --> 01:45:03,996
+Tenho uma proposta a lhe fazer.
+
+1121
+01:45:04,831 --> 01:45:07,855
+- Você doou o seu dote para a caridade?
+- Sim, Madre.
+
+1122
+01:45:08,064 --> 01:45:10,254
+As irmãs de Longchamp
+ficaram com a outra parte?
+
+1123
+01:45:10,398 --> 01:45:12,734
+- Sim.
+- Não lhe devolveram nada?
+
+1124
+01:45:12,839 --> 01:45:15,133
+- Não, Madre.
+- Não é justo.
+
+1125
+01:45:15,215 --> 01:45:17,342
+Você tem o direito de reclamar.
+
+1126
+01:45:18,491 --> 01:45:19,950
+O que acha?
+
+1127
+01:45:21,367 --> 01:45:22,806
+O que eu teria que fazer?
+
+1128
+01:45:23,453 --> 01:45:26,560
+Denunciar, em seu nome,
+o convento de Longchamp.
+
+1129
+01:45:26,789 --> 01:45:30,585
+Pagaremos os gastos e, se ganhar,
+nos dará a metade. O que acha?
+
+1130
+01:45:31,315 --> 01:45:32,545
+Vamos, meninas!
+
+1131
+01:45:34,110 --> 01:45:35,674
+Não diz nada?
+
+1132
+01:45:36,927 --> 01:45:37,969
+Está pensativa.
+
+1133
+01:45:38,301 --> 01:45:42,993
+Sim, penso que meu nome
+voltará a aparecer nos jornais...
+
+1134
+01:45:43,535 --> 01:45:47,435
+e nas salas de audiências
+com detalhes, maldades,...
+
+1135
+01:45:47,644 --> 01:45:50,417
+calúnias para que me odeiem.
+
+1136
+01:45:50,897 --> 01:45:55,839
+Penso na amargura e me envergonharei
+de minha inocência.
+
+1137
+01:45:56,674 --> 01:45:58,239
+E irei chorar.
+
+1138
+01:46:00,221 --> 01:46:01,785
+Não quero isso.
+
+1139
+01:46:02,221 --> 01:46:05,245
+Não falaremos mais sobre isso.
+Vamos esquecer.
+
+1140
+01:46:09,521 --> 01:46:10,772
+Deixe-a!
+
+1141
+01:46:11,190 --> 01:46:12,546
+Deixe-a em paz!
+
+1142
+01:46:32,167 --> 01:46:35,024
+- Me ama?
+- Sim, é tão boa para mim.
+
+1143
+01:46:35,234 --> 01:46:37,319
+- Não me ama.
+- Não?
+
+1144
+01:46:37,529 --> 01:46:39,614
+- Não.
+- O que devo fazer?
+
+1145
+01:46:39,696 --> 01:46:43,595
+- Adivinhe!
+- Não posso imaginar.
+
+1146
+01:46:50,270 --> 01:46:51,938
+Esta lã está suja.
+
+1147
+01:46:54,064 --> 01:46:55,440
+Este véu está apertado.
+
+1148
+01:46:56,400 --> 01:46:57,797
+Está muito devagar.
+
+1149
+01:47:02,885 --> 01:47:05,284
+- Quantos anos tem?
+- Quase 20.
+
+1150
+01:47:05,285 --> 01:47:07,370
+Conte-me tudo sobre você.
+
+1151
+01:47:09,100 --> 01:47:11,331
+Sim, mas será longo e triste.
+
+1152
+01:47:11,519 --> 01:47:15,440
+Não se preocupe, eu gosto de chorar.
+Você gosta também.
+
+1153
+01:47:15,441 --> 01:47:17,839
+Secará as minhas lágrimas e
+eu as suas.
+
+1154
+01:47:18,048 --> 01:47:21,177
+Quem sabe? Pode ser que
+este triste relato nos faça felizes.
+
+1155
+01:47:21,699 --> 01:47:24,410
+E você sabe onde nos levará
+a ternura?
+
+1156
+01:47:25,141 --> 01:47:26,184
+Conte-me...
+
+1157
+01:47:54,248 --> 01:47:55,395
+Suzanne...
+
+1158
+01:47:56,856 --> 01:47:59,359
+realmente amava a sua primeira
+Superiora?
+
+1159
+01:47:59,588 --> 01:48:00,568
+Sim, muito.
+
+1160
+01:48:00,881 --> 01:48:04,906
+Ela não amava você mais do que eu
+mas, você a amava mais do que a mim.
+
+1161
+01:48:06,054 --> 01:48:07,514
+Não vai dizer nada?
+
+1162
+01:48:07,909 --> 01:48:11,079
+Eu estava infeliz.
+Ela me confortava...
+
+1163
+01:48:11,704 --> 01:48:15,500
+Quem fez você odiar a vida no convento?
+Está me ocultando algo...
+
+1164
+01:48:15,666 --> 01:48:19,483
+Alguém já deve ter lhe dito, algum
+dia, o quanto você é bonita.
+
+1165
+01:48:19,670 --> 01:48:22,778
+- Sim, alguém já me disse.
+- Alguém que não lhe desagradava?
+
+1166
+01:48:23,007 --> 01:48:25,113
+- Não.
+- Foi apaixonada por ele?
+
+1167
+01:48:25,822 --> 01:48:28,992
+- Não.
+- O quê? Não foi uma paixão secreta?
+
+1168
+01:48:29,889 --> 01:48:32,683
+Pode confiar em mim.
+Sou compreensiva.
+
+1169
+01:48:32,934 --> 01:48:37,459
+- Não tenho nada para dizer-lhe.
+- Então, por que detesta a nossa vida?
+
+1170
+01:48:37,730 --> 01:48:42,047
+São as condições dessa vida.
+A falta de liberdade.
+
+1171
+01:48:42,778 --> 01:48:46,010
+Sinto que minha vocação
+é para outras coisas.
+
+1172
+01:48:46,385 --> 01:48:49,596
+- O que a fez pensar assim?
+- Esse aborrecimento que me agonia.
+
+1173
+01:48:49,867 --> 01:48:52,328
+- Estou muito aborrecida.
+- Aqui também?
+
+1174
+01:48:52,537 --> 01:48:57,604
+Sim, querida Madre, aqui também,
+apesar de toda sua bondade comigo.
+
+1175
+01:48:58,648 --> 01:48:59,378
+Mas...
+
+1176
+01:49:01,045 --> 01:49:04,152
+sente em você algum estímulo...
+
+1177
+01:49:05,300 --> 01:49:06,552
+desejos?
+
+1178
+01:49:06,866 --> 01:49:08,742
+- Não.
+- Acredito em você.
+
+1179
+01:49:09,866 --> 01:49:13,349
+- Parece ser uma pessoa tranquila...
+- Muito.
+
+1180
+01:49:13,350 --> 01:49:15,644
+- Eu diria, fria.
+- Não sei.
+
+1181
+01:49:17,207 --> 01:49:20,481
+- Não conhece o mundo?
+- Muito pouco...
+
+1182
+01:49:20,919 --> 01:49:22,525
+Em que o mundo lhe atrai?
+
+1183
+01:49:23,256 --> 01:49:25,341
+Não sei mas posso sentir.
+
+1184
+01:49:26,571 --> 01:49:31,096
+- Então, sente falta da liberdade?
+- Sim, além de outras coisas.
+
+1185
+01:49:31,306 --> 01:49:32,765
+Que coisas?
+
+1186
+01:49:33,705 --> 01:49:36,103
+Fale sem rodeios.
+
+1187
+01:49:37,290 --> 01:49:42,378
+- Gostaria de se casar?
+- Seria melhor do que estar aqui.
+
+1188
+01:49:42,692 --> 01:49:44,569
+- Por quê?
+- Não sei.
+
+1189
+01:49:44,964 --> 01:49:46,257
+Conte para mim...
+
+1190
+01:49:50,428 --> 01:49:54,474
+O que você sente na
+presença de um homem?
+
+1191
+01:49:54,745 --> 01:49:58,123
+Se ele é inteligente,
+eu o escuto com prazer.
+
+1192
+01:49:58,811 --> 01:50:01,043
+Se é bonito, eu o admiro.
+
+1193
+01:50:01,626 --> 01:50:05,109
+- E seu coração?
+- Não... até agora.
+
+1194
+01:50:05,860 --> 01:50:09,343
+E quando seu olhar se cruzava com
+o de um homem?
+
+1195
+01:50:10,073 --> 01:50:12,472
+- não sentia...
+- constrangida, às vezes.
+
+1196
+01:50:12,577 --> 01:50:14,767
+Eu abaixava os olhos.
+
+1197
+01:50:15,286 --> 01:50:16,829
+Nenhuma paixão?
+
+1198
+01:50:17,039 --> 01:50:17,873
+Não.
+
+1199
+01:50:18,873 --> 01:50:21,229
+Os seus sentidos não lhe diziam nada?
+
+1200
+01:50:22,001 --> 01:50:24,587
+Os sentidos possuem uma linguagem?
+
+1201
+01:50:25,296 --> 01:50:28,966
+- Você não conhece?
+- Não, Madre. Para que me serviria?
+
+1202
+01:50:29,467 --> 01:50:32,929
+- Diminuiria seu aborrecimento.
+- Ou talvez, o aumentaria.
+
+1203
+01:50:33,638 --> 01:50:35,869
+Madre, não a entendo...
+
+1204
+01:50:36,140 --> 01:50:39,477
+- Então, serei mais clara...
+- Não, prefiro não saber nada.
+
+1205
+01:50:39,895 --> 01:50:41,355
+Por que tem medo?
+
+1206
+01:50:43,752 --> 01:50:44,941
+Como você é inocente!
+
+1207
+01:50:45,046 --> 01:50:48,800
+É verdade. Eu preferiria
+morrer se fosse o contrário.
+
+1208
+01:50:54,534 --> 01:50:56,953
+Madre, o que foi?
+
+1209
+01:50:57,579 --> 01:50:59,873
+Disse algo que a tenha ofendido?
+
+1210
+01:51:00,206 --> 01:51:01,541
+Perdoe-me.
+
+1211
+01:51:02,020 --> 01:51:05,086
+Falo sem pensar.
+Perdoe-me.
+
+1212
+01:51:09,528 --> 01:51:13,323
+- Suzanne, você dorme bem?
+- Sim.
+
+1213
+01:51:14,263 --> 01:51:16,869
+- Dorme rapidamente?
+- Quase sempre.
+
+1214
+01:51:17,682 --> 01:51:20,580
+E se não dorme,
+em que pensa?
+
+1215
+01:51:20,997 --> 01:51:23,020
+No meu passado e...
+
+1216
+01:51:23,688 --> 01:51:25,919
+na tristeza do meu futuro.
+
+1217
+01:51:27,067 --> 01:51:29,987
+Ou eu rezo a Deus,
+ou eu choro.
+
+1218
+01:51:30,611 --> 01:51:33,051
+O que faz quando acorda muito cedo?
+
+1219
+01:51:33,760 --> 01:51:35,053
+Eu me levanto.
+
+1220
+01:51:35,366 --> 01:51:37,660
+- Logo em seguida?
+- Logo em seguida.
+
+1221
+01:51:39,579 --> 01:51:41,601
+Não gosta de sonhar...
+
+1222
+01:51:44,187 --> 01:51:46,544
+e deitar sobre seu travesseiro?
+
+1223
+01:51:49,191 --> 01:51:49,921
+Não.
+
+1224
+01:51:50,339 --> 01:51:53,426
+Nem sentir o suave calor de sua cama?
+
+1225
+01:51:53,740 --> 01:51:54,574
+Não.
+
+1226
+01:51:55,532 --> 01:51:56,512
+Nunca?
+
+1227
+01:51:57,430 --> 01:52:02,497
+Nunca teve a tentação de olhar
+para si mesma com prazer...
+
+1228
+01:52:04,479 --> 01:52:07,190
+- e ver o quanto é bonita?
+- Não...
+
+1229
+01:52:07,732 --> 01:52:10,547
+Não sei se sou tão bonita
+como diz.
+
+1230
+01:52:10,714 --> 01:52:15,239
+E não se é bonita para si mesma,
+e sim para os outros.
+
+1231
+01:52:15,698 --> 01:52:16,782
+Nunca...?
+
+1232
+01:52:18,305 --> 01:52:20,828
+O Padre Lemoine quer vê-la.
+
+1233
+01:52:25,875 --> 01:52:28,044
+Eu disse para você não sair
+do seu quarto.
+
+1234
+01:52:31,339 --> 01:52:33,674
+- O quê faz aqui?
+- Obedeço as ordens da Nossa Madre.
+
+1235
+01:52:34,342 --> 01:52:37,136
+- Passou muito tempo com ela?
+- O tanto que ela quis.
+
+1236
+01:52:37,720 --> 01:52:40,431
+- Você prometeu.
+- Não lhe prometi nada.
+
+1237
+01:52:41,536 --> 01:52:43,663
+Conte-me o que fizeram.
+
+1238
+01:52:50,691 --> 01:52:51,984
+Tenha pena de mim.
+
+1239
+01:54:15,807 --> 01:54:17,183
+Não se preocupe, Suzanne.
+
+1240
+01:54:18,644 --> 01:54:19,583
+Sou eu.
+
+1241
+01:54:23,711 --> 01:54:25,317
+O que está acontecendo, Madre?
+
+1242
+01:54:26,422 --> 01:54:28,132
+Por que não está dormindo?
+
+1243
+01:54:28,611 --> 01:54:31,635
+Não consigo dormir.
+Os sonhos me atormentam.
+
+1244
+01:54:32,262 --> 01:54:33,826
+Eu a vi assediada...
+
+1245
+01:54:34,680 --> 01:54:37,662
+cabelos soltos e despenteados,
+pés descalços.
+
+1246
+01:54:38,705 --> 01:54:40,206
+Tive tremores e despertei.
+
+1247
+01:54:42,563 --> 01:54:46,150
+Temia que o céu me anunciasse
+alguma desgraça.
+
+1248
+01:54:48,131 --> 01:54:51,118
+- Quis vê-la.
+- Querida Madre.
+
+1249
+01:54:51,155 --> 01:54:53,908
+Sinto frio mas já estou
+mais tranquila.
+
+1250
+01:54:55,138 --> 01:54:57,015
+Acho que vou dormir.
+
+1251
+01:54:59,205 --> 01:55:00,497
+Dê-me sua mão.
+
+1252
+01:55:05,504 --> 01:55:07,172
+Como o seu pulso está lento.
+
+1253
+01:55:08,424 --> 01:55:10,092
+Nada o altera.
+
+1254
+01:55:10,570 --> 01:55:13,698
+Querida Madre, vai acabar se resfriando.
+
+1255
+01:55:14,533 --> 01:55:15,785
+Tem razão.
+
+1256
+01:55:17,037 --> 01:55:18,497
+Estou indo, minha querida.
+
+1257
+01:55:21,831 --> 01:55:25,085
+Madre, o que há?
+Por que está chorando?
+
+1258
+01:55:39,243 --> 01:55:40,286
+É Thérèse.
+
+1259
+01:55:41,434 --> 01:55:43,874
+- Sim, é ela.
+- Não lhe faça nenhum mal.
+
+1260
+01:55:46,169 --> 01:55:47,629
+Boa noite, Suzanne.
+
+1261
+01:56:01,475 --> 01:56:03,289
+Volte para a cama e durma.
+
+1262
+01:56:26,020 --> 01:56:29,962
+Suzanne, volte para seu quarto.
+Não quero que se confesse hoje.
+
+1263
+01:56:30,276 --> 01:56:31,840
+- Por quê?
+- Não quero.
+
+1264
+01:56:32,423 --> 01:56:34,758
+- O que as pessoas irão dizer?
+- O que quiserem, mas você não irá.
+
+1265
+01:56:34,904 --> 01:56:37,761
+Venha até aqui.
+Eu posso lhe absolver.
+
+1266
+01:56:40,743 --> 01:56:43,079
+Venha.
+Eu a escutarei agora.
+
+1267
+01:56:45,290 --> 01:56:47,938
+Então vá, mas prometa-me...
+
+1268
+01:56:48,878 --> 01:56:51,901
+Diga o que quiser.
+Deus julgará...
+
+1269
+01:56:56,134 --> 01:56:59,721
+Mas, Padre...
+é minha Superiora.
+
+1270
+01:57:00,930 --> 01:57:04,371
+Pode entrar no meu quarto
+e fazer com que eu vá ao dela.
+
+1271
+01:57:04,372 --> 01:57:05,624
+Eu sei.
+
+1272
+01:57:07,520 --> 01:57:09,918
+Louvado seja Deus
+que está lhe protegendo.
+
+1273
+01:57:15,195 --> 01:57:17,197
+Não quero ser mais explícito...
+
+1274
+01:57:18,406 --> 01:57:20,283
+pois, acabaria sendo cúmplice...
+
+1275
+01:57:22,035 --> 01:57:24,496
+mas tem que se afastar dela.
+
+1276
+01:57:25,497 --> 01:57:27,728
+Nunca entre sozinha no quarto dela...
+
+1277
+01:57:28,583 --> 01:57:31,648
+Feche a sua porta, principalmente
+à noite.
+
+1278
+01:57:32,462 --> 01:57:36,362
+Se ela, ainda assim, conseguir entrar,
+saia para o corredor e...
+
+1279
+01:57:36,799 --> 01:57:41,554
+peça ajuda, grite se for necessário,
+e acorde todo a casa.
+
+1280
+01:57:42,931 --> 01:57:48,248
+Aja como se fosse Satã que estivesse
+lhe perseguindo...
+
+1281
+01:57:50,231 --> 01:57:53,359
+Sim, minha criança, eu disse Satã...
+
+1282
+01:57:54,817 --> 01:57:58,279
+que tomou a forma e o aspecto de
+sua Superiora.
+
+1283
+01:57:59,781 --> 01:58:00,657
+Diga comigo...
+
+1284
+01:58:02,496 --> 01:58:07,256
+<i>Satana, vade retro.
+Vá embora Satanás!</i>
+
+1285
+01:58:16,171 --> 01:58:18,465
+- Goza de boa saúde?
+- Sim, Padre.
+
+1286
+01:58:19,300 --> 01:58:21,636
+- Pode passar uma noite sem dormir?
+- Posso.
+
+1287
+01:58:23,221 --> 01:58:25,244
+Não vá para o quarto esta noite.
+
+1288
+01:58:25,557 --> 01:58:29,394
+Depois da ceia,
+vá para o altar e passe a noite rezando.
+
+1289
+01:58:29,748 --> 01:58:32,709
+Não sabe o perigo que está correndo.
+
+1290
+01:58:33,106 --> 01:58:36,359
+Agradeça a Deus pela proteção
+que lhe tem dado.
+
+1291
+01:58:37,068 --> 01:58:41,385
+Sua penitência será evitar
+a sua Superiora.
+
+1292
+01:58:50,999 --> 01:58:54,419
+Posso prever as consequências
+deste meu conselho...
+
+1293
+01:58:54,524 --> 01:58:55,880
+mas é meu dever avisá-la.
+
+1294
+01:58:57,589 --> 01:59:01,905
+Deus é o nosso Senhor.
+Nós temos uma única lei.
+
+1295
+01:59:20,028 --> 01:59:22,196
+Suzanne, o que faz aqui?
+
+1296
+01:59:22,927 --> 01:59:24,074
+A senhora pode ver.
+
+1297
+01:59:24,597 --> 01:59:26,682
+- Sabe quantas horas são?
+- Sim, senhora.
+
+1298
+01:59:27,160 --> 01:59:30,997
+- Por que não está na cama?
+- Eu me preparo para a Comunhão.
+
+1299
+01:59:31,707 --> 01:59:34,667
+- Quer passar a noite aqui?
+- Sim, senhora.
+
+1300
+01:59:35,918 --> 01:59:39,172
+- Com a permissão de quem?
+- O Diretor me autorizou.
+
+1301
+01:59:39,590 --> 01:59:41,884
+O Diretor não pode quebrar as regras...
+
+1302
+01:59:42,508 --> 01:59:46,220
+- Eu determino que você vá dormir.
+- Foi uma imposição como penitência.
+
+1303
+01:59:46,471 --> 01:59:48,306
+Ele substituirá
+por qualquer outra coisa.
+
+1304
+01:59:48,848 --> 01:59:53,540
+- Não posso escolher.
+- Venha, minha filha, o frio lhe fará mal.
+
+1305
+01:59:54,167 --> 01:59:55,835
+Reze em seu quarto.
+
+1306
+01:59:57,088 --> 02:00:00,737
+- Está fugindo de mim?
+- Sim, Madre, estou.
+
+1307
+02:00:01,259 --> 02:00:04,805
+- Para longe de mim, Satanás!
+- O que é isso? Pare.
+
+1308
+02:00:05,740 --> 02:00:09,806
+Não sou Satanás.
+Sou sua Superiora e sua amiga.
+
+1309
+02:00:34,727 --> 02:00:38,981
+Perdoe-me, querida Madre.
+Não fui eu. Foi o Padre Lemoine.
+
+1310
+02:00:39,295 --> 02:00:41,172
+O que ele lhe disse?
+
+1311
+02:00:41,359 --> 02:00:44,216
+Ele me fez perguntas
+e tive que respondê-las.
+
+1312
+02:00:45,446 --> 02:00:47,532
+Sou assim tão horrível para você?
+
+1313
+02:00:49,200 --> 02:00:50,827
+Não havia nada que responder.
+
+1314
+02:00:51,202 --> 02:00:54,038
+Minha amizade por você é normal.
+
+1315
+02:00:54,248 --> 02:00:57,376
+- O Padre Lemoine vê de outra forma.
+- Como?
+
+1316
+02:00:57,667 --> 02:01:00,169
+Ele vê o pior dos pecados...
+
+1317
+02:01:00,586 --> 02:01:03,798
+sua desonra já é consumada e
+agora quer me arruinar.
+
+1318
+02:01:05,988 --> 02:01:09,658
+Ele é um visionário.
+Este não é seu primeiro ataque.
+
+1319
+02:01:10,096 --> 02:01:13,474
+Basta eu sentir carinho por alguém,
+ele começa.
+
+1320
+02:01:14,016 --> 02:01:16,978
+Ele quase levou
+a pobre Thérèse à loucura.
+
+1321
+02:01:17,687 --> 02:01:20,544
+Para mim já chega.
+Preciso ficar livre dele.
+
+1322
+02:01:20,773 --> 02:01:24,861
+Além de tudo, mora longe.
+Nunca está aqui quando precisamos dele.
+
+1323
+02:01:25,695 --> 02:01:28,260
+Vamos subir para conversarmos
+com mais conforto?
+
+1324
+02:01:28,365 --> 02:01:29,825
+Não querida Madre, não...
+
+1325
+02:01:30,241 --> 02:01:33,348
+permita-me passar a noite aqui...
+
+1326
+02:01:34,078 --> 02:01:35,475
+ou amanhã não poderei...
+
+1327
+02:01:36,539 --> 02:01:39,375
+Mas, Madre, a senhora comungou?
+
+1328
+02:01:40,210 --> 02:01:41,462
+Claro.
+
+1329
+02:01:42,088 --> 02:01:45,008
+- E o Padre Lemoine não disse nada?
+- Não.
+
+1330
+02:01:46,364 --> 02:01:48,137
+Então, por quê?
+
+1331
+02:01:50,641 --> 02:01:53,247
+Só se confessa um pecado.
+
+1332
+02:01:53,952 --> 02:01:56,184
+Minha amizade por você não o é.
+
+1333
+02:01:58,166 --> 02:02:00,773
+- Venha, vamos ao meu quarto.
+- Não, Madre...
+
+1334
+02:02:02,231 --> 02:02:06,048
+Eu jurei diante de Deus
+que não voltaria a vê-la nunca mais.
+
+1335
+02:02:07,695 --> 02:02:11,282
+- Rezemos antes e, depois, venha...
+- Não, Madre.
+
+1336
+02:02:11,845 --> 02:02:14,577
+Permita-me passar a noite aqui?
+
+1337
+02:02:17,163 --> 02:02:21,709
+Bem, eu lhe permito mas,
+que seja esta a última vez.
+
+1338
+02:02:49,237 --> 02:02:51,051
+Queria ver o Padre Lemoine?
+
+1339
+02:02:51,531 --> 02:02:52,824
+Não voltará a vê-lo.
+
+1340
+02:02:53,866 --> 02:02:55,430
+Sou o novo Diretor.
+
+1341
+02:02:56,265 --> 02:02:57,621
+O que aconteceu?
+
+1342
+02:02:58,579 --> 02:03:02,124
+- Posso contar com sua discrição?
+- Certamente.
+
+1343
+02:03:03,313 --> 02:03:06,066
+Alguém escreveu ao Arcebispo contra ele.
+
+1344
+02:03:06,171 --> 02:03:07,735
+O que disseram?
+
+1345
+02:03:07,839 --> 02:03:11,905
+Que ele era muito austero
+e que morava muito longe.
+
+1346
+02:03:12,197 --> 02:03:16,264
+Era suspeito de Jansenismo.
+Semeava a discórdia...
+
+1347
+02:03:16,556 --> 02:03:19,204
+indispondo as freiras e sua Superiora.
+
+1348
+02:03:19,287 --> 02:03:20,518
+Quem lhe contou?
+
+1349
+02:03:21,145 --> 02:03:23,751
+Ele mesmo.
+Eu o vejo ocasionalmente...
+
+1350
+02:03:24,981 --> 02:03:26,503
+Falou sobre você.
+
+1351
+02:03:26,713 --> 02:03:28,068
+O que ele disse?
+
+1352
+02:03:29,819 --> 02:03:31,654
+Que tinha compaixão por você...
+
+1353
+02:03:31,864 --> 02:03:34,366
+que somente a viu
+uma ou duas vezes...
+
+1354
+02:03:34,657 --> 02:03:38,452
+mas que tinha medo por você...
+
+1355
+02:03:39,079 --> 02:03:40,122
+Medo do quê?
+
+1356
+02:03:41,581 --> 02:03:42,915
+Não importa...
+
+1357
+02:03:43,125 --> 02:03:45,106
+Sou seu confessor.
+
+1358
+02:03:45,733 --> 02:03:47,922
+Eu também posso lhe confessar.
+
+1359
+02:03:49,130 --> 02:03:53,009
+Talvez meu exemplo lhe dê coragem.
+
+1360
+02:03:56,304 --> 02:04:00,287
+Irmã Suzanne, eu também
+não tinha vocação.
+
+1361
+02:04:00,496 --> 02:04:01,748
+Nunca tive.
+
+1362
+02:04:02,476 --> 02:04:05,938
+Também entrei para a religião
+contra os meus desejos.
+
+1363
+02:04:06,710 --> 02:04:12,486
+A perseguição pela qual passou
+eu também passei.
+
+1364
+02:04:13,237 --> 02:04:16,720
+- Por que me diz tudo isso?
+- Para ajudá-la a suportar o seu fado.
+
+1365
+02:04:17,700 --> 02:04:23,101
+É nosso único recurso.
+Terá que resignar-se.
+
+1366
+02:04:23,539 --> 02:04:28,398
+Bons religiosos buscam
+com alegria as mortificações.
+
+1367
+02:04:29,211 --> 02:04:33,424
+Trocam o seu momento presente
+por uma alegria futura...
+
+1368
+02:04:36,345 --> 02:04:37,387
+e nós...
+
+1369
+02:04:39,161 --> 02:04:40,308
+Irmã Suzanne...
+
+1370
+02:04:41,766 --> 02:04:44,080
+conhecemos todas as penalidades...
+
+1371
+02:04:44,644 --> 02:04:47,000
+e qual é a nossa recompensa?
+
+1372
+02:04:47,688 --> 02:04:51,859
+Nos penitenciamos assim como os
+mortais se entregam aos prazeres.
+
+1373
+02:04:52,276 --> 02:04:55,446
+Nos privamos de tudo.
+Eles gozam...
+
+1374
+02:04:55,988 --> 02:04:59,095
+e no final,
+o mesmo inferno nos espera.
+
+1375
+02:05:00,159 --> 02:05:03,809
+Fomos atados em correntes que não
+se modificam, são indissolúveis.
+
+1376
+02:05:05,623 --> 02:05:08,584
+Vamos tentar carregá-las, Irmã.
+
+1377
+02:05:13,486 --> 02:05:15,780
+Voltarei a vê-la.
+
+1378
+02:05:52,566 --> 02:05:55,423
+Não, Madre.
+Prometi que não.
+
+1379
+02:05:56,549 --> 02:05:58,050
+É melhor para ambas...
+
+1380
+02:05:58,968 --> 02:06:03,014
+Estou muito presente em sua alma.
+Deixe um espaço para Deus.
+
+1381
+02:06:03,431 --> 02:06:05,120
+Me desaprova?
+
+1382
+02:06:06,100 --> 02:06:09,291
+- Não quer entrar?
+- Não, Madre, não.
+
+1383
+02:06:09,500 --> 02:06:11,169
+Não quer, Suzanne?
+
+1384
+02:06:11,585 --> 02:06:13,545
+Não sabe o que pode acontecer.
+
+1385
+02:06:13,754 --> 02:06:15,110
+Não, você não sabe.
+
+1386
+02:06:16,402 --> 02:06:18,195
+Pode me levar à morte.
+
+1387
+02:06:31,960 --> 02:06:33,003
+Suzanne...
+
+1388
+02:06:35,298 --> 02:06:36,653
+Suzanne...
+
+1389
+02:07:19,736 --> 02:07:22,280
+Irmã Clement, reze por mim.
+
+1390
+02:07:29,163 --> 02:07:31,666
+Irmã Thérèse, reze por mim.
+
+1391
+02:07:36,919 --> 02:07:37,961
+É preciso.
+
+1392
+02:07:38,380 --> 02:07:40,757
+Mas... Padre Lemoine...
+
+1393
+02:07:41,279 --> 02:07:43,573
+- Ele fez bem.
+- Por quê?
+
+1394
+02:07:44,949 --> 02:07:47,847
+Minha Irmã,
+siga os nossos conselhos....
+
+1395
+02:07:48,369 --> 02:07:52,686
+e os de Padre Lemoine.
+E trate de ignorar a razão dos mesmos.
+
+1396
+02:07:53,415 --> 02:07:57,107
+Se ao menos eu soubesse qual
+é o perigo, poderia evitá-lo.
+
+1397
+02:07:57,545 --> 02:07:59,609
+Poderia também acontecer o contrário.
+
+1398
+02:07:59,964 --> 02:08:01,820
+Pensa tão mal assim a meu respeito?
+
+1399
+02:08:03,759 --> 02:08:07,033
+O saber, às vezes, prejudica.
+Se fosse mais instruída...
+
+1400
+02:08:07,263 --> 02:08:10,641
+sua Superiora teria sido
+mais audaciosa.
+
+1401
+02:08:10,704 --> 02:08:12,205
+Não entendo.
+
+1402
+02:08:12,789 --> 02:08:14,082
+Melhor assim.
+
+1403
+02:08:14,708 --> 02:08:17,523
+A ternura é perigosa?
+
+1404
+02:08:18,691 --> 02:08:21,006
+Amar causa tanto mal?
+
+1405
+02:08:21,632 --> 02:08:24,448
+- É algo tão doce.
+- Verdade...
+
+1406
+02:08:25,510 --> 02:08:27,429
+Será que é comum?
+
+1407
+02:08:28,722 --> 02:08:32,246
+- Pobre Superiora...
+- Não nasceu para ficar nesse estado.
+
+1408
+02:08:32,663 --> 02:08:35,186
+Quando se tenta opor à natureza...
+
+1409
+02:08:36,022 --> 02:08:37,794
+cai na loucura.
+
+1410
+02:08:38,108 --> 02:08:40,611
+- Ela está louca?
+- Sim, está...
+
+1411
+02:08:42,071 --> 02:08:44,157
+e, a cada dia ficará pior.
+
+1412
+02:08:47,407 --> 02:08:53,246
+Este é o destino que espera
+a todos aqueles que não têm vocação?
+
+1413
+02:08:53,247 --> 02:08:55,020
+A todos não.
+
+1414
+02:08:56,270 --> 02:08:58,105
+Alguns morrem antes...
+
+1415
+02:08:58,272 --> 02:08:59,878
+outros acabam se adaptando...
+
+1416
+02:09:00,566 --> 02:09:03,882
+ou se agarram à alguma esperança.
+- Que esperança?
+
+1417
+02:09:05,404 --> 02:09:07,135
+A de anular os votos.
+
+1418
+02:09:07,553 --> 02:09:08,804
+E depois?
+
+1419
+02:09:13,412 --> 02:09:15,873
+Encontrar um portão aberto,
+
+1420
+02:09:16,811 --> 02:09:18,667
+ou que haja
+um incêndio no convento...
+
+1421
+02:09:19,627 --> 02:09:22,046
+ou que caiam todos os muros.
+
+1422
+02:09:22,047 --> 02:09:23,715
+É a verdade...
+
+1423
+02:09:25,132 --> 02:09:26,946
+Já tive esperanças assim...
+
+1424
+02:09:28,677 --> 02:09:31,951
+- Ainda tenho...
+- Quando você as perde...
+
+1425
+02:09:32,161 --> 02:09:34,038
+passa a se odiar...
+
+1426
+02:09:34,642 --> 02:09:37,519
+e a odiar os outros.
+Umas imploram aos Céus...
+
+1427
+02:09:37,937 --> 02:09:40,168
+Outras buscam uma janela alta.
+
+1428
+02:09:40,482 --> 02:09:41,733
+um poço...
+
+1429
+02:09:42,360 --> 02:09:43,611
+uma corda.
+
+1430
+02:09:43,943 --> 02:09:45,486
+Às vezes encontram.
+
+1431
+02:09:47,154 --> 02:09:49,010
+Há quem encontre a loucura...
+
+1432
+02:09:50,199 --> 02:09:55,871
+Aquelas que mantêm a esperança
+até a morte são as mais felizes...
+
+1433
+02:09:55,975 --> 02:09:59,979
+e, sem dúvida,
+as mais desafortunadas.
+
+1434
+02:10:05,589 --> 02:10:08,175
+Padre, quanto lamento ter lhe escutado.
+
+1435
+02:10:10,679 --> 02:10:11,826
+Por quê?
+
+1436
+02:10:12,346 --> 02:10:13,743
+Antes, não me conhecia.
+
+1437
+02:10:15,537 --> 02:10:17,351
+Agora, me conheço.
+
+1438
+02:11:03,146 --> 02:11:04,293
+Padre...
+
+1439
+02:11:05,024 --> 02:11:06,838
+estou condenada...
+
+1440
+02:11:37,722 --> 02:11:38,973
+Irmã Thérèse...
+
+1441
+02:11:39,808 --> 02:11:41,518
+como está a Nossa Madre?
+
+1442
+02:11:41,894 --> 02:11:44,438
+- Ela morrerá.
+- O quê devo fazer?
+
+1443
+02:11:45,522 --> 02:11:47,232
+Poderia ter feito muito.
+
+1444
+02:11:47,378 --> 02:11:49,756
+Irmã...
+não entendo.
+
+1445
+02:11:55,492 --> 02:11:56,534
+Você?
+
+1446
+02:11:56,825 --> 02:11:59,995
+Não posso esperar.
+Tenho que falar com você.
+
+1447
+02:12:00,996 --> 02:12:05,146
+Padre, não quero vê-lo mais
+fora do confessionário.
+
+1448
+02:12:05,647 --> 02:12:07,044
+Escute, Suzanne...
+
+1449
+02:12:07,628 --> 02:12:09,859
+Hoje, eu me confessarei a você.
+
+1450
+02:12:11,111 --> 02:12:12,363
+O que há?
+
+1451
+02:12:13,217 --> 02:12:14,343
+Deixe-me sozinha.
+
+1452
+02:12:16,428 --> 02:12:19,390
+Por sua culpa, eu perdi
+a pouca coragem que ainda tinha.
+
+1453
+02:12:22,538 --> 02:12:23,539
+Vá embora.
+
+1454
+02:12:23,790 --> 02:12:28,002
+Como poderia ter lhe dado coragem
+se nunca consegui tê-la?
+
+1455
+02:12:29,212 --> 02:12:30,630
+Ouça.
+
+1456
+02:12:31,235 --> 02:12:33,925
+Nunca dois seres humanos
+se parecerão tanto como nós dois.
+
+1457
+02:12:34,447 --> 02:12:38,097
+A história de sua alma
+é a história da minha.
+
+1458
+02:12:38,411 --> 02:12:39,975
+Por que me diz isso?
+
+1459
+02:12:40,932 --> 02:12:41,933
+Vá embora.
+
+1460
+02:12:45,311 --> 02:12:46,317
+Vá embora.
+
+1461
+02:12:46,354 --> 02:12:48,168
+Seremos condenados juntos.
+
+1462
+02:12:49,482 --> 02:12:52,965
+Suzanne, você também
+está condenada.
+
+1463
+02:12:53,279 --> 02:12:54,321
+Cale-se.
+
+1464
+02:12:54,445 --> 02:12:58,491
+Suzanne, temos que fugir.
+Está tudo pronto.
+
+1465
+02:12:58,574 --> 02:13:00,076
+Uma carruagem irá nos esperar.
+
+1466
+02:13:00,181 --> 02:13:02,892
+Você estará salva.
+
+1467
+02:13:03,496 --> 02:13:05,352
+Esquecerá seus sofrimentos...
+
+1468
+02:13:05,394 --> 02:13:08,001
+e descobrirá esse mundo
+que quiseram lhe ocultar.
+
+1469
+02:13:08,732 --> 02:13:09,878
+Não acredito em você.
+
+1470
+02:13:11,296 --> 02:13:14,361
+- Não posso acreditar em você.
+- Não quer ser livre?
+
+1471
+02:13:17,386 --> 02:13:20,827
+Quero, mais do que nunca,
+mas não assim.
+
+1472
+02:13:21,702 --> 02:13:23,120
+É a única forma.
+
+1473
+02:13:24,476 --> 02:13:26,040
+Dê-me dois dias.
+
+1474
+02:13:26,457 --> 02:13:32,317
+Amanhã, perto do poço do jardim
+à meia-noite.
+
+1475
+02:15:45,867 --> 02:15:47,785
+- Suzanne.
+- Sim, Irmã.
+
+1476
+02:15:48,140 --> 02:15:50,705
+<i>Diga o seu Deo Gratias no
+estábulo.</i>
+
+1477
+02:16:24,051 --> 02:16:27,012
+Olhe para ela,
+fingindo ser uma freira...
+
+1478
+02:16:28,013 --> 02:16:32,747
+- Pegaram aquela freira?
+- Não, mas pegaram o padre.
+
+1479
+02:16:32,976 --> 02:16:35,771
+- O que fizeram?
+- Levaram-no para seus superiores.
+
+1480
+02:16:35,791 --> 02:16:40,296
+Passará toda sua vida em uma prisão.
+E a moça também, caso a encontrem.
+
+1481
+02:16:40,755 --> 02:16:43,341
+Trata-se bem para depois fugir.
+
+1482
+02:16:44,280 --> 02:16:47,408
+- O que há, Marie?
+- Nada, senhora.
+
+1483
+02:16:48,262 --> 02:16:51,536
+É tão tola a ponto de sentir
+compaixão por ela?
+
+1484
+02:16:51,746 --> 02:16:56,125
+Tudo que fazia era comer, beber,
+rezar e dormir. Estaria bem lá.
+
+1485
+02:16:56,752 --> 02:16:59,463
+Se tivesse que ter ido
+ao rio com esse tempo...
+
+1486
+02:16:59,878 --> 02:17:02,527
+Cada um de nós sabe de seus
+sofrimentos.
+
+1487
+02:17:02,736 --> 02:17:05,134
+É uma depravada
+e Deus a castigará.
+
+1488
+02:17:24,882 --> 02:17:28,156
+Você não pode ficar aqui.
+Venha comigo.
+
+1489
+02:17:28,469 --> 02:17:29,866
+Siga-me.
+
+1490
+02:17:38,291 --> 02:17:40,127
+Levou o meu recado?
+
+1491
+02:17:40,252 --> 02:17:42,379
+O Sr. Manouri está morto.
+
+1492
+02:17:43,651 --> 02:17:45,882
+Há outros.
+
+1493
+02:17:46,550 --> 02:17:49,803
+- Mais bonitos e mais gentis.
+- Não somos ciumentas.
+
+1494
+02:19:05,879 --> 02:19:07,464
+Deus, perdoe-me.
+
+1495
+02:20:04,397 --> 02:20:07,518
+"A loucura de um homem que...
+
+1496
+02:20:07,619 --> 02:20:11,280
+se lança ao mar sem um leme
+e sem saber navegar...
+
+1497
+02:20:11,385 --> 02:20:15,034
+é a mesma loucura daquele...
+
+1498
+02:20:15,140 --> 02:20:18,789
+que abraça a vida religiosa sem ter
+a vontade de Deus como guia".
+
+1499
+02:20:18,322 --> 02:20:20,094
+JACQUES-BENIGNE BOSSUET
+
+1500
+02:20:21,305 --> 02:21:21,150
+Por favor, avalie esta legenda em www.osdb.link/6usta
+Ajude outros usuários a escolher as melhores legendas.

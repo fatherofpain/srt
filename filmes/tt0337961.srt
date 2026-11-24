@@ -1,0 +1,3071 @@
+1
+00:00:06,000 --> 00:00:12,074
+api.OpenSubtitles.org is deprecated, please
+implement REST API from OpenSubtitles.com
+
+2
+00:00:34,834 --> 00:00:38,964
+Em Minha Pele
+
+3
+00:01:16,076 --> 00:01:19,443
+Ao ritmo de três palavras por hora
+você nunca vai terminar, Esther!
+
+4
+00:01:21,281 --> 00:01:25,775
+-Você vai sair?
+-Sim. Vou para casa trabalhar.
+
+5
+00:01:25,885 --> 00:01:29,321
+Estou cansada disso.
+Nós deveriamos alugar um lugar juntos.
+
+6
+00:01:29,489 --> 00:01:32,458
+Com apenas um salário?
+Eu quero viver no luxo!
+
+7
+00:01:32,625 --> 00:01:35,355
+Antes você tinha um salário fixo.
+
+8
+00:01:35,528 --> 00:01:36,722
+É.
+
+9
+00:03:00,780 --> 00:03:03,510
+Veja a casa?
+Vai estar legal quando terminada.
+
+10
+00:03:03,683 --> 00:03:08,120
+Ele é um mulherengo. Vai nessa!
+Ele é amigo com o chefe.
+
+11
+00:03:08,288 --> 00:03:11,382
+-Poxa, obrigado!
+-Estou brincando.
+
+12
+00:03:11,558 --> 00:03:12,991
+Boa noite.
+
+13
+00:03:14,494 --> 00:03:18,521
+Existe algum jeito que 
+eu possa apressar as coisas na agência.
+
+14
+00:03:18,698 --> 00:03:20,893
+Outro além desse,
+para ver quais são as minhas chances?
+
+15
+00:03:21,034 --> 00:03:24,595
+Não agora, por favor!
+Eu vou desejar nunca ter te envolvido.
+
+16
+00:03:24,771 --> 00:03:27,604
+-Ora vamos, lá estão eles.
+-Vou me juntar a vocês.
+
+17
+00:04:38,811 --> 00:04:40,403
+Merda!
+
+18
+00:05:11,978 --> 00:05:12,876
+Obrigado.
+
+19
+00:05:13,012 --> 00:05:16,709
+Eu cai e rasguei minhas calças.
+Minha jaqueta está imunda, maldição!
+
+20
+00:05:16,849 --> 00:05:18,840
+Eu estava lá fora no quintal. Lugar grande!
+
+21
+00:05:18,985 --> 00:05:21,818
+-Ele engoliu a história por nada, aparentemente.
+-Sério?
+
+22
+00:05:21,954 --> 00:05:23,581
+Você é ridículo.
+
+23
+00:05:25,124 --> 00:05:27,922
+Não, este é meu! Arranje o seu.
+
+24
+00:05:28,361 --> 00:05:29,623
+Não seja mesquinha!
+
+25
+00:05:57,690 --> 00:05:59,590
+Posso pegar emprestada?
+
+26
+00:06:12,138 --> 00:06:13,264
+Tenho que ir.
+
+27
+00:06:13,439 --> 00:06:14,838
+-Você está brincando!
+-Sinto muito.
+
+28
+00:06:14,974 --> 00:06:18,910
+Eu prometi a meus amigos.
+Te ligo para almoçarmos juntos. 
+
+29
+00:06:19,045 --> 00:06:21,445
+Devo te pedir um conselho
+a respeito do meu trabalho.
+
+30
+00:06:21,581 --> 00:06:24,550
+Eu não marco encontros para almoçar.
+Marco para jantar.
+
+31
+00:06:24,984 --> 00:06:26,451
+Como quiser.
+
+32
+00:06:26,586 --> 00:06:28,247
+Obrigada. Tchau.
+
+33
+00:08:31,711 --> 00:08:32,678
+Esther?
+
+34
+00:08:41,020 --> 00:08:42,783
+Esther!
+
+35
+00:08:46,692 --> 00:08:48,592
+Onde você esteve?
+
+36
+00:08:48,728 --> 00:08:52,289
+-Desculpe-me, eu te explico. Vamos.
+-Só um minuto.
+
+37
+00:08:52,398 --> 00:08:55,595
+Henri e eu procuramos você por toda parte.
+Que estranho !
+
+38
+00:08:55,735 --> 00:08:59,136
+Tinha sangue no chão do banheiro
+mas ninguém lá.
+
+39
+00:08:59,272 --> 00:09:01,206
+Ficamos com medo de encontrar um cadáver!
+
+40
+00:09:01,340 --> 00:09:02,568
+Encontrou?
+
+41
+00:09:04,544 --> 00:09:06,307
+Olhei por toda parte.
+
+42
+00:09:19,792 --> 00:09:22,784
+Esqueça isso.
+Estou fora de casa. (I'm off home.)
+
+43
+00:09:22,929 --> 00:09:26,695
+Henri ligou para polícia.
+Ninguém relatou nenhum acidente.
+
+44
+00:09:26,899 --> 00:09:30,300
+-Então, Onde diabos você estava? 
+-Passeando no quintal.
+
+45
+00:09:30,436 --> 00:09:32,961
+Não estou cansada.
+Que tal um último drink?
+
+46
+00:09:33,139 --> 00:09:34,629
+-Ok.
+-Um rápido então.
+
+47
+00:09:52,792 --> 00:09:54,123
+Bem, bem.
+
+48
+00:09:55,394 --> 00:09:58,625
+As juntas é os ligamentos escaparam
+por pouco.
+
+49
+00:10:02,835 --> 00:10:04,700
+Tomou injeção contra tétano?
+
+50
+00:10:04,937 --> 00:10:08,600
+-Acho que sim.
+-Vamos te dar uma injeção de imunização.
+
+51
+00:10:09,008 --> 00:10:10,669
+Como você fez isso?
+
+52
+00:10:10,876 --> 00:10:15,370
+Eu cai sobre um ferro em um canteiro de obra.
+Uma ferramenta, eu acho.
+
+53
+00:10:15,615 --> 00:10:18,140
+Você e canteiros de obra não combinam.
+
+54
+00:10:18,250 --> 00:10:22,846
+Isso aconteceu há algumas horas atrás.
+Por que você não veio mais cedo?
+
+55
+00:10:24,657 --> 00:10:27,717
+Eu não sabia que estava machucada.
+
+56
+00:10:27,860 --> 00:10:29,760
+Eu só percebi mais tarde.
+
+57
+00:10:29,895 --> 00:10:31,226
+Então fui a um bar.
+
+58
+00:10:31,364 --> 00:10:33,389
+Eu não acho que isso era...
+
+59
+00:10:33,532 --> 00:10:35,591
+Não percebeu? Não doeu?
+
+60
+00:10:36,636 --> 00:10:37,625
+Não.
+
+61
+00:10:37,803 --> 00:10:40,328
+Dói agora, e quando eu estava no bar,
+mas depois não.
+
+62
+00:10:40,506 --> 00:10:41,996
+E estava muito escuro para enxergar. 
+
+63
+00:10:42,174 --> 00:10:43,266
+Isso não é normal .
+
+64
+00:10:43,442 --> 00:10:46,673
+O choque tem efeitos estranhos, apenas paraliza.
+
+65
+00:10:46,812 --> 00:10:48,279
+Você devia ter sentido isso.
+
+66
+00:10:49,281 --> 00:10:53,115
+Sinto minha perna normalmente agora.
+Acho que eu não estava pensando.
+
+67
+00:10:53,219 --> 00:10:54,208
+Cabeça de vento!
+
+68
+00:10:54,520 --> 00:10:56,511
+Tem certeza que é sua perna?
+
+69
+00:10:57,323 --> 00:11:00,724
+Brincadeira. Estou cansado.
+Você sente minha mão?
+
+70
+00:11:01,260 --> 00:11:02,158
+Sim.
+
+71
+00:11:02,628 --> 00:11:03,720
+Vou fazer um teste.
+
+72
+00:11:03,863 --> 00:11:06,195
+Redondo ou pontiagudo? Não olhe.
+
+73
+00:11:06,298 --> 00:11:07,663
+Não olhe.
+
+74
+00:11:13,873 --> 00:11:15,431
+Redondo. 
+
+75
+00:11:19,078 --> 00:11:20,978
+Pontiagudo.
+
+76
+00:11:23,482 --> 00:11:24,915
+Pontiagudo. 
+
+77
+00:11:30,790 --> 00:11:31,654
+Eu não toquei em você.
+
+78
+00:11:32,124 --> 00:11:32,988
+Bom.
+
+79
+00:11:33,125 --> 00:11:37,027
+Vou anestesia-la.
+Você vai sentir uma picadinha e depois mais nada. 
+
+80
+00:11:41,834 --> 00:11:45,395
+Talvez você precise fazer uma cirurgia
+para recolocar o tecido.
+
+81
+00:11:45,538 --> 00:11:48,405
+Isso não vai ficar totalmente igual era antes.
+-O que você quer dizer?
+
+82
+00:11:49,075 --> 00:11:53,478
+Sua pele vai cicatrizar de forma desigual.
+Assim.
+
+83
+00:11:54,513 --> 00:11:58,108
+Um enxerto vai resolver isso.
+Alguns dias no hospital.
+
+84
+00:11:58,350 --> 00:11:59,146
+Vou considerar isso.
+
+85
+00:11:59,351 --> 00:12:02,843
+Do ponto de vista médico, não é necessário
+mas isso não vai ficar bonito.
+
+86
+00:12:02,955 --> 00:12:06,015
+Se não tem necessidade, eu prefiro que não.
+
+87
+00:12:06,158 --> 00:12:07,147
+Pense a respeito.
+
+88
+00:12:07,259 --> 00:12:11,457
+Vai precisar mudar a maneira de vestir.
+Discutiremos isso depois.
+
+89
+00:12:11,630 --> 00:12:12,756
+É isso aí.
+
+90
+00:14:55,394 --> 00:14:56,190
+Olá.
+
+91
+00:15:06,839 --> 00:15:09,933
+Por que você não foi
+direto para o hospital?
+
+92
+00:15:14,780 --> 00:15:17,180
+Você teve um corte profundo
+
+93
+00:15:17,316 --> 00:15:19,443
+e saiu calmamente para tomar uma 
+coca-cola?
+
+94
+00:15:20,419 --> 00:15:22,478
+Acho que eu estava em estado 
+de choque. 
+
+95
+00:15:23,255 --> 00:15:27,555
+Quero sair. Eu tive uma dura noite 
+de trabalho. Vamos sair para comer.
+
+96
+00:15:27,693 --> 00:15:29,627
+Não imagino isso.
+
+97
+00:15:30,529 --> 00:15:31,928
+Tudo bem.
+
+98
+00:15:32,097 --> 00:15:34,759
+É estranho que você não tenha
+sentido nada.
+
+99
+00:15:36,235 --> 00:15:39,568
+O doutor disse que está tudo normal.
+
+100
+00:15:39,738 --> 00:15:41,899
+Que tal uma corrida de barco pelo canal?
+
+101
+00:15:42,074 --> 00:15:46,170
+Também não imagina?
+Você sugere alguma coisa?
+
+102
+00:15:54,720 --> 00:15:57,621
+O que foi aquilo?
+Nada.
+
+103
+00:15:58,457 --> 00:16:01,858
+Quando você corta sua perna,
+você não sente.
+
+104
+00:16:01,994 --> 00:16:05,259
+Quando toco em você,
+você dá um salto e arrepia.
+
+105
+00:16:07,032 --> 00:16:09,057
+Admita que isso é estranho.
+
+106
+00:16:14,106 --> 00:16:15,767
+Diga alguma coisa.
+
+107
+00:16:18,377 --> 00:16:20,106
+Não vai responder?
+
+108
+00:16:22,314 --> 00:16:25,715
+Se você não quer sair, é só dizer.
+
+109
+00:16:25,851 --> 00:16:27,751
+Não mude de assunto!
+
+110
+00:16:27,886 --> 00:16:29,649
+Eu disse que não queria.
+
+111
+00:16:29,788 --> 00:16:32,313
+E eu não quero discutir
+sobre o acidente!
+
+112
+00:16:34,026 --> 00:16:35,516
+Esther.
+
+113
+00:16:46,438 --> 00:16:49,703
+Não vá mais a nenhuma festa sem mim.
+
+114
+00:16:55,714 --> 00:16:58,148
+Você fez isso. Admita.
+
+115
+00:16:58,917 --> 00:17:00,612
+Você tem certeza?
+
+116
+00:17:01,820 --> 00:17:06,484
+Caminhar em terrenos escuros totalmente
+sozinha me soa estranho.
+
+117
+00:17:16,068 --> 00:17:18,832
+Eu também recebi uma proposta.
+
+118
+00:17:19,004 --> 00:17:21,097
+De uma mulher?
+
+119
+00:17:21,707 --> 00:17:23,368
+Uma oferta de trabalho.
+
+120
+00:17:23,509 --> 00:17:24,999
+Qual trabalho?
+
+121
+00:17:25,511 --> 00:17:27,274
+Em um banco. 
+
+122
+00:17:28,247 --> 00:17:31,944
+Eles me contactaram por um headhunter.
+Eles querem uma nova imagem.
+
+123
+00:17:34,453 --> 00:17:37,513
+Eles precisam de um jornalista de negócios.
+
+124
+00:17:37,656 --> 00:17:41,717
+Eu poderia ajudar a projetar a nova
+estratégia de relações públicas deles. 
+
+125
+00:17:43,695 --> 00:17:46,892
+-Excelente!
+-Eu não tenho tanta certeza.
+
+126
+00:17:47,032 --> 00:17:49,796
+Empolgante, sim
+um bom dinheiro, novo emprego.
+
+127
+00:17:49,935 --> 00:17:55,134
+Mas isso parece traição. 
+Vou te mostrar o dossiê.
+
+128
+00:17:55,841 --> 00:17:57,968
+Você vai usar um terno!
+
+129
+00:18:06,351 --> 00:18:09,149
+Quando faço assim você sente?
+
+130
+00:18:12,091 --> 00:18:13,183
+Não.
+
+131
+00:18:14,293 --> 00:18:15,590
+Não?
+
+132
+00:18:57,970 --> 00:18:58,459
+É isso aí.
+
+133
+00:18:58,637 --> 00:18:59,535
+Aqui, eu li isso.
+
+134
+00:18:59,738 --> 00:19:03,196
+Adicionei algumas observações
+para clarear as coisas para o cliente.
+
+135
+00:19:03,342 --> 00:19:05,310
+-Ótimo.
+-Para quarta, ok?
+
+136
+00:19:05,477 --> 00:19:08,935
+É pequeno mas eu prometi.
+Quarta de manhã se você puder.
+
+137
+00:19:09,114 --> 00:19:10,274
+Claro.
+
+138
+00:19:10,415 --> 00:19:11,382
+O resto está bom.
+
+139
+00:19:11,750 --> 00:19:12,978
+É uma boa análise.
+
+140
+00:19:13,318 --> 00:19:14,080
+Obrigada.
+
+141
+00:23:37,215 --> 00:23:39,274
+Meu trabalho é uma merda.
+
+142
+00:23:39,384 --> 00:23:43,411
+Nada mais do que merda burocrática.
+
+143
+00:23:43,522 --> 00:23:44,648
+Me dá dor de cabeça.
+
+144
+00:23:45,323 --> 00:23:48,486
+Meu trabalho não é ruim
+mas os prazos de entrega são fatigantes.
+
+145
+00:23:50,128 --> 00:23:52,528
+Pierre, você pode vir aqui?
+
+146
+00:23:52,631 --> 00:23:53,563
+Maldição!
+
+147
+00:23:55,033 --> 00:23:56,728
+Tomamos esse café depois.
+
+148
+00:24:29,768 --> 00:24:31,292
+Toma um café?
+
+149
+00:24:31,403 --> 00:24:32,392
+Não agora.
+
+150
+00:24:32,537 --> 00:24:34,630
+Estou ocupada até o pescoço.
+Se eu parar, estou arruinada.
+
+151
+00:24:36,308 --> 00:24:38,037
+Então não pare.
+
+152
+00:24:41,847 --> 00:24:44,680
+Nunca vou terminar
+com você em cima de mim.
+
+153
+00:24:45,817 --> 00:24:47,478
+Vai com calma.
+
+154
+00:24:47,586 --> 00:24:51,716
+Não vou te fazer perder tempo. Eu só quero
+um pouco de café e ar fresco.
+
+155
+00:24:52,991 --> 00:24:56,222
+Ora! Vou terminar seu trabalho.
+Não deve ser difícil.
+
+156
+00:25:00,065 --> 00:25:01,760
+Brincadeira!
+
+157
+00:25:05,103 --> 00:25:08,766
+Estive ocupada o dia todo.
+Não tive nem mesmo hora de almoço.
+
+158
+00:25:08,907 --> 00:25:10,534
+No meu escritório.
+
+159
+00:25:11,343 --> 00:25:15,279
+Depois eu me cortei no depósito.
+
+160
+00:25:16,214 --> 00:25:18,444
+O depósito, meu escritório.
+
+161
+00:25:18,550 --> 00:25:22,816
+Ar condicionado, nenhuma janela 
+aberta, não posso respirar... 
+
+162
+00:25:27,893 --> 00:25:29,224
+Vou ficar bem.
+
+163
+00:25:29,327 --> 00:25:33,423
+Se você está machucada, a caixa de
+primeiros socorros está perto do xerox.
+
+164
+00:25:37,569 --> 00:25:39,127
+É? Vou pegar.
+
+165
+00:25:39,271 --> 00:25:41,466
+Espere. Como você se cortou?
+
+166
+00:25:41,806 --> 00:25:44,104
+Em uma coisa de metal.
+
+167
+00:25:44,209 --> 00:25:47,178
+Pensei nisso.
+O que você estava fazendo com isso?
+
+168
+00:25:47,312 --> 00:25:49,439
+Me cortando.
+
+169
+00:25:55,020 --> 00:25:59,286
+Ferimento superficial. Nada sério.
+eu já estava machucada, mas...
+
+170
+00:26:01,259 --> 00:26:04,626
+Esqueça isso. Outra hora.
+
+171
+00:26:04,796 --> 00:26:06,593
+Por que você fez isso? 
+
+172
+00:26:07,699 --> 00:26:09,394
+Não sei.
+
+173
+00:26:13,171 --> 00:26:18,268
+Acho que me expressei mal, 
+
+174
+00:26:18,476 --> 00:26:22,674
+na primeira parte 
+do meu relato essa manhã.
+
+175
+00:26:22,781 --> 00:26:25,079
+Com o que você está trabalhando?
+
+176
+00:26:25,183 --> 00:26:29,051
+Uma apresentação para o Ministério.
+
+177
+00:26:29,154 --> 00:26:33,921
+Perfeito! Use um tipo especial de escrita.
+
+178
+00:26:34,526 --> 00:26:36,687
+Daniel me devolveu meu relatório.
+
+179
+00:26:37,562 --> 00:26:41,362
+Vou ter que reescreve uma parte
+mas não tudo
+
+180
+00:26:41,466 --> 00:26:44,264
+No geral, estava bom.
+
+181
+00:26:45,303 --> 00:26:46,531
+Eu vou deixar você continuar.
+
+182
+00:26:46,705 --> 00:26:48,798
+Não, vamos tomar um café, isso pode esperar.
+
+183
+00:26:50,208 --> 00:26:52,176
+Não, eu tenho que ...
+
+184
+00:26:53,878 --> 00:26:57,609
+Eu tenho que verificar esse engano,
+ou isso vai me pertubar. 
+
+185
+00:26:58,450 --> 00:27:00,577
+-Não se preocupe com isso.
+-Espere!
+
+186
+00:27:00,685 --> 00:27:03,245
+Vincent está em casa hoje à noite?
+
+187
+00:27:04,956 --> 00:27:07,720
+Não, ele teve que trabalhar.
+
+188
+00:27:07,826 --> 00:27:09,817
+-Fique no meu apartamento.
+-De verdade?
+
+189
+00:27:10,328 --> 00:27:13,855
+Thomas está vindo
+mas você pode dormir no sofá.
+
+190
+00:27:43,094 --> 00:27:44,493
+Esther!
+
+191
+00:27:45,730 --> 00:27:47,288
+Estou indo!
+
+192
+00:27:48,266 --> 00:27:51,531
+Esther, responda!
+Por que a porta está trancada? Abra!
+
+193
+00:27:51,670 --> 00:27:52,864
+Abra!
+
+194
+00:27:55,840 --> 00:27:58,468
+Desculpa. Eu tranquei sem pensar.
+
+195
+00:27:58,943 --> 00:28:00,376
+Mas eu te respondi.
+
+196
+00:28:00,512 --> 00:28:02,639
+-Aqui.
+-Obrigada.
+
+197
+00:28:13,024 --> 00:28:14,992
+Meu Deus! Você não faz isso? 
+
+198
+00:28:15,260 --> 00:28:16,249
+Não.
+
+199
+00:28:17,462 --> 00:28:20,295
+A maior parte é do acidente na festa.
+
+200
+00:28:20,465 --> 00:28:23,798
+Não olhe. Vou desinfetar isso. 
+
+201
+00:28:34,512 --> 00:28:36,639
+Pare de me encarar.
+
+202
+00:28:40,185 --> 00:28:42,676
+Pode me deixar sozinha por
+um minuto? 
+
+203
+00:28:49,661 --> 00:28:52,391
+Eu espero que você não tenha 
+mexido nas minhas frigideiras!
+
+204
+00:28:52,997 --> 00:28:54,760
+Essa noite, eu sou o chef.
+
+205
+00:28:55,300 --> 00:28:58,792
+Eu decidi apresenta-la às minhas habilidade na culinária.
+
+206
+00:28:58,937 --> 00:29:01,405
+Não que elas sejam boas, mas mesmo assim. 
+
+207
+00:29:01,539 --> 00:29:02,699
+O cheiro é bom.
+
+208
+00:29:03,641 --> 00:29:04,232
+Aqui está.
+
+209
+00:29:05,243 --> 00:29:07,507
+Pedi para mandarem um pacote com 12.
+
+210
+00:29:07,612 --> 00:29:11,742
+O andar de baixo da mercearia atende 
+pedidos por telefone. É cômodo.
+
+211
+00:29:12,450 --> 00:29:16,250
+Tenho que trabalhar hoje à noite
+para atender o prazo final de quarta-feira.
+
+212
+00:29:16,354 --> 00:29:18,015
+Ok.
+
+213
+00:29:19,891 --> 00:29:22,621
+Não sei o que dizer sobre o
+seu ferimento.
+
+214
+00:29:23,762 --> 00:29:25,229
+Não diga nada.
+
+215
+00:29:25,363 --> 00:29:27,593
+Mas estou preocupada.
+
+216
+00:29:27,832 --> 00:29:30,392
+Você não vai fazer isso de novo, vai? 
+
+217
+00:29:30,535 --> 00:29:32,799
+Não, eu fiz sem pensar.
+
+218
+00:29:32,937 --> 00:29:36,464
+Você poderia ir ao médico.
+Tomar algum remédio.
+
+219
+00:29:36,608 --> 00:29:39,577
+Eu tomo se estou deprimida ou anciosa. 
+
+220
+00:29:39,711 --> 00:29:42,077
+Você poderia ir ao meu médico.
+
+221
+00:29:44,315 --> 00:29:47,182
+Mas provavelmente ele vai precisar de sua autorização!
+
+222
+00:29:49,220 --> 00:29:53,486
+Eu te conheço, mas para os outros que
+estão de fora isso parece doentio.
+
+223
+00:29:56,494 --> 00:29:58,462
+De qualquer forma, não tem necessidade.
+
+224
+00:29:58,563 --> 00:29:59,996
+-Thomas não está vindo?
+-Não.
+
+225
+00:30:00,532 --> 00:30:02,090
+Ele desmarcou.
+
+226
+00:30:02,367 --> 00:30:05,768
+Não que eu ligue,
+contanto que eu tenha companhia.
+
+227
+00:30:06,771 --> 00:30:09,740
+Como vai indo a sua apresentação?
+
+228
+00:30:10,642 --> 00:30:12,109
+Mais ou menos.
+
+229
+00:30:12,443 --> 00:30:14,411
+Estou tão de saco cheio.
+
+230
+00:30:14,546 --> 00:30:18,004
+Eu mereço um emprego de mais responsabilidade.
+
+231
+00:30:18,116 --> 00:30:21,643
+Com a minha experiência e clientes,
+eu deveria ser diretora de projeto.
+
+232
+00:30:21,753 --> 00:30:25,086
+Eu iria gostar disso. Especialmente do dinheiro!
+
+233
+00:30:25,857 --> 00:30:30,726
+Em breve você será uma analista de pesquisa. 
+Me sinto uma palhaça.
+
+234
+00:30:30,829 --> 00:30:33,957
+Não tenho tanta certeza se vou mesmo.
+Amanhã, na festa do escritório,
+
+235
+00:30:34,065 --> 00:30:37,262
+vou perguntar ao Modier
+se vou pegar o trabalho e quando será.
+
+236
+00:30:38,703 --> 00:30:41,433
+Eu não perguntaria.
+Você acabar com as suas chances.
+
+237
+00:31:22,747 --> 00:31:25,511
+-E então?
+-Eu consegui o trabalho!
+
+238
+00:31:25,750 --> 00:31:29,049
+Começo em dez dias
+com aquela empresa de jóias.
+
+239
+00:31:29,487 --> 00:31:31,284
+Parabéns.
+
+240
+00:31:32,290 --> 00:31:33,985
+Quem é o responsável?
+
+241
+00:31:34,259 --> 00:31:35,157
+Eu.
+
+242
+00:31:35,460 --> 00:31:38,156
+Vou ser diretora de projeto,
+não apenas uma analista.
+
+243
+00:31:38,263 --> 00:31:40,788
+Diretora júnior, é isso.
+
+244
+00:31:41,165 --> 00:31:44,032
+Meu conhecimento sobre o 
+Oriente Médio que me ajudou a conseguir.
+
+245
+00:31:45,370 --> 00:31:47,270
+Que bom!
+
+246
+00:31:47,972 --> 00:31:49,667
+Fantástico.
+
+247
+00:31:50,808 --> 00:31:53,641
+Você não é muito experiente, mas...
+
+248
+00:31:53,745 --> 00:31:56,646
+Diretora júnior!
+
+249
+00:31:56,748 --> 00:31:59,239
+Quem ótimo...
+
+250
+00:31:59,884 --> 00:32:01,749
+Você se importa?
+
+251
+00:32:01,853 --> 00:32:05,186
+Não. Eu que te coloquei aqui. 
+
+252
+00:32:05,623 --> 00:32:09,286
+Isso parece um pouco estranho.
+Eu estou aqui há cinco anos, 
+
+253
+00:32:09,394 --> 00:32:12,989
+mas estou feliz por você, 
+se você acha que está preparada o suficiente.
+
+254
+00:32:13,097 --> 00:32:14,029
+Sim.
+
+255
+00:32:14,198 --> 00:32:17,463
+Vai ser trabalho duro no início 
+mas vou superar.
+
+256
+00:32:17,568 --> 00:32:20,059
+Tenho certeza que vai.
+
+257
+00:32:22,173 --> 00:32:24,232
+Então talvez eu vá trabalhar para você?
+
+258
+00:32:24,642 --> 00:32:26,439
+Talvez.
+
+259
+00:32:32,784 --> 00:32:35,048
+Sandrine, por favor, não pense que eu...
+
+260
+00:32:39,724 --> 00:32:42,215
+Para a água!
+Igual a qualquer um!
+
+261
+00:32:44,629 --> 00:32:47,894
+-Eu não tenho roupa de banho!
+-Quem se importa?
+
+262
+00:32:47,999 --> 00:32:49,864
+Vai com suas roupas de baixo!
+
+263
+00:32:49,968 --> 00:32:51,936
+Sandrine!
+Sandrine!
+
+264
+00:32:52,270 --> 00:32:53,066
+Tire as calças dela!
+
+265
+00:32:53,204 --> 00:32:54,068
+Sandrine!
+
+266
+00:32:59,510 --> 00:33:01,910
+Chega. Deixe ela ir.
+
+267
+00:33:02,046 --> 00:33:04,742
+Você está perdendo, garota.
+A água está ótima!
+
+268
+00:33:05,583 --> 00:33:08,711
+Me desculpe. Isso foi estúpido.
+
+269
+00:33:09,220 --> 00:33:10,949
+Não tem problema.
+
+270
+00:33:15,626 --> 00:33:16,752
+Desculpe.
+
+271
+00:33:16,995 --> 00:33:19,293
+Entrei em pânico e gelei. 
+
+272
+00:34:51,089 --> 00:34:52,556
+Ela é desconfiada.
+
+273
+00:34:52,657 --> 00:34:55,592
+Igual era na faculdade, só que pior.
+
+274
+00:34:55,693 --> 00:34:57,854
+As falhas dela não são culpa minha.
+
+275
+00:34:58,229 --> 00:35:00,254
+Eu não quero vê-la de novo.
+
+276
+00:35:00,765 --> 00:35:02,960
+Eu estava pensando esta tarde.
+
+277
+00:35:03,067 --> 00:35:05,592
+Com meu novo salário,
+e o seu no banco, 
+
+278
+00:35:05,736 --> 00:35:07,795
+por que não compramos, ao invés de alugar?
+
+279
+00:35:07,972 --> 00:35:10,998
+Nós pegamos um empréstimo e
+e reformamos um lugar legal.
+
+280
+00:35:11,142 --> 00:35:13,303
+Como eu sei que isso
+não vai acontecer de novo?
+
+281
+00:35:13,411 --> 00:35:15,743
+Você não consegue explicar!
+
+282
+00:35:16,080 --> 00:35:17,741
+Foi só uma vez.
+Eu não tenho a intenção de...
+
+283
+00:35:17,882 --> 00:35:20,544
+Foda-se as suas intenções!
+Você esperava isso?
+
+284
+00:35:20,651 --> 00:35:22,380
+Olhe pra você! Me mostre de novo.
+
+285
+00:35:23,154 --> 00:35:26,453
+Eu não esperava isso
+mas não vai acontecer de novo.
+
+286
+00:35:26,557 --> 00:35:29,720
+O que mais eu posso dizer?
+Você ignora meu novo trabalho...
+
+287
+00:35:30,027 --> 00:35:31,927
+Eu não ignorei!
+
+288
+00:35:32,029 --> 00:35:34,361
+Estou feliz por isso,
+Vou pesquisar os empréstimos.
+
+289
+00:35:34,465 --> 00:35:37,229
+Que isso! Eu não posso lidar com isso.
+
+290
+00:35:37,869 --> 00:35:40,463
+Converse sobre isso! Por que você não pode?
+
+291
+00:35:40,605 --> 00:35:43,005
+Eu te disse. Eu tive um acesso de
+
+292
+00:35:43,107 --> 00:35:45,769
+insesatez.
+Eu não vou fazer isso de novo.
+
+293
+00:35:45,910 --> 00:35:47,741
+O que te deu a idéia?
+
+294
+00:35:48,713 --> 00:35:50,510
+O que você queria? Isso?
+
+295
+00:35:50,615 --> 00:35:52,242
+Você gosta disso?
+
+296
+00:35:52,817 --> 00:35:54,375
+Você gosta?
+
+297
+00:35:54,485 --> 00:35:57,648
+-Pare, você está me assustando!
+-Você que me assusta!
+
+298
+00:36:06,664 --> 00:36:08,495
+Isso é culpa minha?
+
+299
+00:36:08,633 --> 00:36:09,224
+Não.
+
+300
+00:36:11,169 --> 00:36:12,830
+Você não gosta do seu corpo?
+
+301
+00:36:13,437 --> 00:36:16,406
+Sim, eu gosto. Mas...
+
+302
+00:36:17,141 --> 00:36:22,340
+Tudo isso começou com seu acidente
+aquele outro dia, certo?
+
+303
+00:36:23,214 --> 00:36:27,344
+Talvez. Eu não sei.
+Pare de me interrogar.
+
+304
+00:36:29,787 --> 00:36:31,482
+Ok, eu vou parar.
+
+305
+00:36:31,589 --> 00:36:37,152
+Eu conheço você. Vou acreditar na sua 
+palavra de que isso não vai acontecer de novo.
+
+306
+00:36:38,262 --> 00:36:41,197
+Me desculpe, eu me descontrolei.
+
+307
+00:36:42,800 --> 00:36:46,327
+Vamos nos vestir bem e comemorar
+seu novo emprego. 
+
+308
+00:36:46,737 --> 00:36:51,197
+Vou me mudar com você essa noite,
+já que agora eu não trabalho em casa. 
+00:36:51,342 --> 00:36:55,244
+Vou achar mais fácil desse jeito.
+Ok?
+
+309
+00:37:54,238 --> 00:37:56,365
+Olá.
+
+310
+00:37:56,641 --> 00:37:56,707
+Nós precisamos de detalhes precisos
+da imagem da marca de Ivar no exterior. 
+
+311
+00:37:56,707 --> 00:38:00,302
+Nos precisamos de detalhes precisos
+da imagem da marca de Ivar no exterior,
+
+312
+00:38:00,411 --> 00:38:02,572
+nos mercados em que luxo 
+tem outro referencial.
+
+313
+00:38:03,047 --> 00:38:06,574
+Nosso principal objetivo
+é enviar nossos agentes locais.
+
+314
+00:38:06,751 --> 00:38:10,778
+Informação na qual aplicar as 
+estratégias independetes deles.
+
+315
+00:38:10,888 --> 00:38:14,346
+Precisamos de informação sobre o mercado
+de luxo especialmente joalheria,
+
+316
+00:38:14,458 --> 00:38:16,619
+as marcas líderes, suas imagens,
+
+317
+00:38:16,727 --> 00:38:18,422
+e, naturalmente, a imagem do próprio Ivar.
+
+318
+00:38:19,697 --> 00:38:21,597
+Vamos querer acessar pesquisas
+
+319
+00:38:21,732 --> 00:38:24,963
+da América do Norte, Brasil, 
+Ásia e Oriente Médio.
+
+320
+00:38:25,069 --> 00:38:26,900
+Estamos preparados para gastar.
+
+321
+00:38:27,038 --> 00:38:29,165
+Os riscos são altos
+
+322
+00:38:29,307 --> 00:38:31,207
+mas não podemos estudar todos os países.
+
+323
+00:38:31,309 --> 00:38:35,245
+Dois países devem dar uma
+imagem precisa
+
+324
+00:38:35,346 --> 00:38:38,679
+desde que a zona cultural seja
+compatível com seus objetivos de mercado.
+
+325
+00:38:38,783 --> 00:38:41,343
+Daniel disse que você é um especialista
+em Oriente Médio.
+
+326
+00:38:41,452 --> 00:38:42,077
+É.
+
+327
+00:38:42,186 --> 00:38:46,179
+Não sou um especialista mas estudei 
+a região e sua economia
+
+328
+00:38:46,290 --> 00:38:47,757
+e passei um tempo lá.
+
+329
+00:38:48,059 --> 00:38:50,391
+-Você poderia nos orientar.
+-Espero que sim.
+
+330
+00:38:50,561 --> 00:38:54,964
+Nós vamos escrever uma proposta.
+Esther vai tratar disso. 
+
+331
+00:38:55,132 --> 00:38:57,965
+Um projeto internacional. 
+Exatamente o que você queria! 
+
+332
+00:38:58,069 --> 00:39:01,232
+Você tem sorte.
+Melhor do que sua função anterior.
+
+333
+00:39:01,372 --> 00:39:02,270
+Claro, pode ter certeza!
+
+334
+00:39:02,406 --> 00:39:06,672
+Vou deixar você planejar isso.
+Programar as várias etapas.
+
+335
+00:39:06,777 --> 00:39:09,245
+Eles parecem ter dinheiro.
+Dá um jeito nisso aí.
+
+336
+00:39:09,380 --> 00:39:10,472
+Ok.
+
+337
+00:39:11,082 --> 00:39:12,947
+Isso será esclarecido.
+Sente-se, ok?
+
+338
+00:39:13,084 --> 00:39:14,745
+Obrigada. Está tudo bem.
+
+339
+00:39:26,464 --> 00:39:27,488
+Como vai indo?
+
+340
+00:39:27,865 --> 00:39:29,230
+Bem.
+
+341
+00:39:30,801 --> 00:39:33,269
+Ainda tem minha calça bege?
+
+342
+00:39:33,437 --> 00:39:35,905
+A lavanderia não conseguiu
+remover a mancha. 
+
+343
+00:39:36,040 --> 00:39:38,508
+Vou te dar um cheque para compensá-la.
+
+344
+00:39:38,943 --> 00:39:39,910
+Não...
+
+345
+00:39:40,678 --> 00:39:45,081
+Pensando bem, sim.
+Ela me custou 900 euros.
+
+346
+00:39:45,950 --> 00:39:47,042
+Estou brincando.
+
+347
+00:39:47,451 --> 00:39:48,975
+90.
+
+348
+00:39:50,688 --> 00:39:54,647
+Estou ocupada agora.
+Vou deixar com a recepcionista.
+
+349
+00:40:02,533 --> 00:40:03,090
+Sim.
+
+350
+00:40:07,171 --> 00:40:07,796
+Sim...
+
+351
+00:40:09,774 --> 00:40:11,765
+No quarto ou na varanda?
+
+352
+00:40:12,943 --> 00:40:14,877
+O que ele disse?
+
+353
+00:40:15,880 --> 00:40:18,405
+Quantos metros quadrados?
+
+354
+00:40:19,717 --> 00:40:21,344
+Tenho que ir. Meu jantar é agora.
+
+355
+00:40:21,452 --> 00:40:24,944
+O dia inteiro! Tchau.
+
+356
+00:40:25,790 --> 00:40:28,725
+-Obrigado.
+-Não! Deixe isso comigo.
+
+357
+00:40:30,628 --> 00:40:32,391
+Deixe me sentir o cheiro disso.
+
+358
+00:40:35,199 --> 00:40:37,030
+Deixe comigo, já disse!
+
+359
+00:40:41,906 --> 00:40:45,501
+Você deveria destampar isso o mais
+rápido para deixa-lo secar. 
+
+360
+00:40:45,643 --> 00:40:48,111
+Vou pensar. 
+
+361
+00:40:50,214 --> 00:40:53,775
+Que amor! Sua carinha linda 
+em um cartão magnético!
+
+362
+00:40:53,884 --> 00:40:55,010
+Está vendo?
+
+363
+00:40:56,153 --> 00:40:58,451
+Olhe na minha bolsa.
+
+364
+00:40:58,556 --> 00:41:01,753
+Marquei de ir ver três apartamentos. 
+
+365
+00:41:01,859 --> 00:41:03,087
+As descrições estão na minha bolsa.
+
+366
+00:41:03,194 --> 00:41:05,059
+-Onde?
+-Você vai ver.
+
+367
+00:41:05,162 --> 00:41:06,720
+Numa pasta azul.
+
+368
+00:41:07,998 --> 00:41:12,162
+Devo jantar com uns 
+clientes amanhã.
+
+369
+00:41:14,538 --> 00:41:16,062
+O que é isso na sua mão?
+
+370
+00:41:16,340 --> 00:41:17,705
+Deixe me ver.
+
+371
+00:41:19,910 --> 00:41:21,172
+Anda Rápido!
+
+372
+00:41:27,518 --> 00:41:29,076
+Desculpe me.
+
+373
+00:41:30,688 --> 00:41:32,815
+Eu sinto muito, eu pensei que... 
+
+374
+00:41:45,903 --> 00:41:47,894
+Acho que você também vai achar 
+que está delicioso. 
+
+375
+00:41:48,839 --> 00:41:50,932
+-É de excelente qualidade.
+-Não, obrigada.
+
+376
+00:41:51,075 --> 00:41:54,203
+-Não gosta de vinho? 
+-Nada de álcool. Só água.
+
+377
+00:41:54,778 --> 00:41:58,544
+Não é álcool, é um vinho de ótima
+qualidade. Que pena!
+
+378
+00:41:58,916 --> 00:42:00,144
+Não é um vinho que se bebe todos os dias.
+
+379
+00:42:02,019 --> 00:42:03,509
+Fiquei curiosa. Vou experimentar.
+
+380
+00:42:03,621 --> 00:42:05,816
+Você vai ver.
+
+381
+00:42:11,762 --> 00:42:13,787
+Excelente. Realmente excelente.
+
+382
+00:42:16,000 --> 00:42:17,490
+Então?
+
+383
+00:42:18,135 --> 00:42:21,127
+Delicioso, eu admito.
+Vou me virar sem água.
+
+384
+00:42:21,305 --> 00:42:22,329
+Viu só?
+
+385
+00:42:22,473 --> 00:42:25,772
+Voltando aos negócios,
+aquele era um grupo interessante.
+
+386
+00:42:25,976 --> 00:42:29,139
+Com exceção das generalidades 
+usuais sobre luxo,
+
+387
+00:42:29,280 --> 00:42:32,943
+nossa imagem se revelou claramente.
+Uma reunião difícil levar.
+
+388
+00:42:33,083 --> 00:42:34,277
+Você enfrentou bem a situação.
+
+389
+00:42:34,385 --> 00:42:37,445
+Aquela mulher a sua esquerda 
+continua contradizendo os outros!
+
+390
+00:42:37,555 --> 00:42:38,351
+Obrigada.
+
+391
+00:42:51,101 --> 00:42:52,363
+Por favor.
+
+392
+00:42:52,703 --> 00:42:55,069
+Há alguns anos atrás, nós publicamos
+um pacote de divulgação mundial
+
+393
+00:42:55,205 --> 00:43:00,438
+Tivemos que recolher do Japão 
+porque um detalhe os preocupava. 
+
+394
+00:43:01,078 --> 00:43:02,306
+O que era?
+
+395
+00:43:02,513 --> 00:43:04,913
+A postura das pessoas no anúncio.
+
+396
+00:43:05,015 --> 00:43:11,443
+Tinha um gesto de mão, o qual 
+para nós era muito elegante. 
+
+397
+00:43:11,555 --> 00:43:13,546
+Isso chocou muito os japoneses.
+
+398
+00:43:13,691 --> 00:43:16,455
+Era como um gesto de desdém.
+
+399
+00:43:16,594 --> 00:43:19,062
+Para o leitor, isso significava recusa.
+
+400
+00:43:19,930 --> 00:43:21,830
+Me conte os detalhes!
+
+401
+00:43:23,734 --> 00:43:24,666
+Detalhes importantes!
+
+402
+00:43:24,768 --> 00:43:27,828
+Muitas vezes, a coisa toda 
+depende desse tipo de sutileza 
+
+403
+00:43:27,972 --> 00:43:30,497
+da cultura local.
+Temos que ser cuidadosos
+
+404
+00:43:30,641 --> 00:43:33,235
+para não passar sinais negativos.
+
+405
+00:43:33,377 --> 00:43:36,312
+Dizem que um erro de tradução 
+trouxe o Japão para a segunda guerra!
+
+406
+00:43:39,550 --> 00:43:42,485
+A comunicação é diferente no Japão. 
+
+407
+00:43:42,586 --> 00:43:45,783
+Nós temos uma estratégia global,
+mas o Japão é uma exceção.
+
+408
+00:43:46,190 --> 00:43:47,487
+Nós temos uma equipe de marketing lá.
+
+409
+00:43:47,591 --> 00:43:49,957
+É muito diferente da Europa 
+e dos Estados Unidos.
+
+410
+00:43:56,667 --> 00:43:59,966
+Eu não sabia que o Japão era 
+tão diferente assim. 
+
+411
+00:44:00,037 --> 00:44:02,972
+Há alguns anos atrás,nós 
+circulamos nossos anúncios mundiais lá.
+
+412
+00:44:03,073 --> 00:44:04,836
+Os testes foram catastróficos.
+
+413
+00:44:04,942 --> 00:44:07,843
+Duas culturas diferentes.
+Isso fez da nossa imagem mais
+danificada do que boa.
+
+414
+00:44:07,945 --> 00:44:11,904
+Símbolos de prestígio, principalemente,
+são percebido de maneira diferente.
+
+415
+00:44:12,016 --> 00:44:15,383
+O departamento de marketing japonês 
+ignora a linha que é seguida na França. 
+
+416
+00:44:15,486 --> 00:44:18,580
+Ela é quase completamente inútil!
+
+417
+00:44:18,689 --> 00:44:20,418
+Em vez disso, desenvolvemos estratégias locais.
+
+418
+00:44:23,093 --> 00:44:24,720
+Você trabalhou no Japão?
+
+419
+00:44:24,862 --> 00:44:26,124
+Durante dez anos.
+
+420
+00:44:26,230 --> 00:44:28,596
+Treinei lá e acabei ficando,
+
+421
+00:44:28,699 --> 00:44:32,191
+mas morar tão longe era difícil.
+Eu sentia falta da França.
+
+422
+00:44:32,302 --> 00:44:34,702
+Trabalhei na Alemanha,
+depois voltei à Paris.
+
+423
+00:44:35,072 --> 00:44:36,334
+O que te atraiu para o Japão?
+
+424
+00:44:36,540 --> 00:44:39,941
+Eu estudei história japonesa,
+depois fiz um MBA.
+
+425
+00:44:40,911 --> 00:44:42,242
+Eu sabia a língua e
+
+426
+00:44:42,346 --> 00:44:44,109
+o país me fascinou,
+
+427
+00:44:44,248 --> 00:44:46,682
+menos pelo presente do que pelo passado.
+
+428
+00:44:48,085 --> 00:44:49,916
+Era como um sonho.
+
+429
+00:44:50,421 --> 00:44:53,447
+Ver de verdade o que estudei,
+
+430
+00:44:53,590 --> 00:44:55,057
+ou o que restou do que estudei.
+
+431
+00:44:55,192 --> 00:44:57,786
+Se você estuda uma língua,
+você quer usa-la.
+
+432
+00:44:57,895 --> 00:45:00,295
+Esse era um outro motivo.
+
+433
+00:45:00,397 --> 00:45:02,388
+Tenho certeza que sim.
+
+434
+00:45:02,966 --> 00:45:05,434
+Eu também gostaria de viajar,
+daqui uns anos.
+
+435
+00:45:05,536 --> 00:45:07,527
+Nós somos parte de um grupo europeu.
+
+436
+00:45:07,705 --> 00:45:08,694
+Podemos andar por aí.
+
+437
+00:45:08,839 --> 00:45:10,739
+- Onde você gostaria de ir?
+- Lisboa.
+
+438
+00:45:10,841 --> 00:45:12,399
+Oh? Por que?
+
+439
+00:45:12,576 --> 00:45:14,441
+Eu vou para lá nas férias.
+Eu gosto da sensação,
+
+440
+00:45:14,545 --> 00:45:16,706
+da qualidade de vida superior,
+
+441
+00:45:16,814 --> 00:45:19,715
+das pessoas, da mentalidade.
+
+442
+00:45:19,817 --> 00:45:21,148
+São apenas três horas de vôo daqui.
+
+443
+00:45:21,251 --> 00:45:23,344
+-É bem rápido.
+-É um bom meio-termo
+
+444
+00:45:23,454 --> 00:45:26,048
+Estrangeiro, mais ainda europeu.
+
+445
+00:45:26,156 --> 00:45:29,455
+Tenho dúvidas se eu consiguiria viver
+em uma cultura completamente estrangeira.
+
+446
+00:45:29,560 --> 00:45:31,187
+Mas eu gosto de Lisboa.
+
+447
+00:45:31,295 --> 00:45:32,057
+Com licença. 
+
+448
+00:45:36,567 --> 00:45:39,365
+-Desculpe me. Vá em frente.
+-Sem pressa, Madame.
+
+449
+00:45:42,306 --> 00:45:46,970
+Eu não gosto de como Lisboa mudou desde da Expo.
+
+450
+00:45:47,077 --> 00:45:52,208
+Eu gostava da imortalidade e da autenticidade da cidade. 
+
+451
+00:45:52,316 --> 00:45:55,683
+A Expo mudou tanto.
+A ponte Vasco da Gama,
+
+452
+00:45:55,786 --> 00:45:59,085
+o Barrio Alto...
+Eu notei que perdeu o charme que tinha.
+
+453
+00:45:59,189 --> 00:46:03,250
+Não de todo. As inovações foram 
+ótimas para a cidade. 
+
+454
+00:46:03,360 --> 00:46:04,327
+Tornaram a vida mais fácil.
+
+455
+00:46:04,428 --> 00:46:06,020
+Surgiu criatividade.
+
+456
+00:46:06,797 --> 00:46:07,786
+Você percebe criatividade?
+
+457
+00:46:11,068 --> 00:46:11,966
+Certamente. Todos aqueles lugares, como ...
+
+458
+00:46:12,069 --> 00:46:14,867
+Há uma divisão interessante
+entre a vida cotidiana,
+
+459
+00:46:15,205 --> 00:46:17,673
+que é mais provinciana que a da metrópole,
+
+460
+00:46:17,808 --> 00:46:21,437
+e o estilo e o ambiente de jantar em Alcantara 
+
+461
+00:46:21,545 --> 00:46:23,240
+ou um lugar como o Lux, 
+
+462
+00:46:23,347 --> 00:46:25,315
+Ou o Kremlin. Fantástico!
+
+463
+00:46:25,415 --> 00:46:27,940
+Muito mais original que a maioria
+dos lugares em Paris. 
+
+464
+00:46:28,051 --> 00:46:31,111
+Eu não conheço Lisboa.
+Você me aconselharia a ir?
+
+465
+00:46:31,421 --> 00:46:33,446
+Eu acho que é um lugar maravilhoso.
+
+466
+00:46:33,857 --> 00:46:35,984
+A vida lá não tem stress
+e é agradável,
+
+467
+00:46:36,093 --> 00:46:39,221
+mas o entretenimento
+é de primeira classe.
+
+468
+00:46:39,363 --> 00:46:40,796
+Talvez como Roma, não?
+
+469
+00:46:42,099 --> 00:46:44,090
+Roma é exatemente o oposto.
+
+470
+00:46:44,201 --> 00:46:46,066
+Roma tem um pobreza cultural 
+de cidade provinciana,
+
+471
+00:46:46,170 --> 00:46:51,107
+e todos os aborrecimentos de uma cidade grande.
+
+472
+00:46:51,208 --> 00:46:53,972
+-Você está exagerando.
+-Você não gosta de Roma?
+
+473
+00:46:54,077 --> 00:46:55,339
+Não, não muito.
+
+474
+00:46:55,445 --> 00:46:57,913
+-Por que não?
+-Não sei.
+
+475
+00:46:58,649 --> 00:47:00,617
+Meu comentário foi sem pensar, não foi sério.
+
+476
+00:47:00,717 --> 00:47:03,185
+Mas o tempo todo que estive lá,
+me senti desconfortável.
+
+477
+00:47:03,353 --> 00:47:06,083
+-Talvez tenha sido você.
+-Não, não mesmo.
+
+478
+00:47:06,190 --> 00:47:07,817
+É como eu disse.
+
+479
+00:47:08,158 --> 00:47:10,058
+Eu achei muito aborrecedor.
+
+480
+00:47:10,160 --> 00:47:14,119
+Carros, buzinas, motos,
+congestionamento...
+
+481
+00:47:14,231 --> 00:47:18,224
+A menor praticidade se torna
+exaustiva.
+
+482
+00:47:18,335 --> 00:47:21,031
+-E aquele vento...
+-O siroco.
+
+483
+00:47:21,171 --> 00:47:22,331
+É irritante!
+
+484
+00:47:22,472 --> 00:47:24,804
+Ainda não falei das pessoas.
+
+485
+00:47:24,908 --> 00:47:28,105
+Eles são menos amigáveis que em qualquer outro lugar da Itália. 
+
+486
+00:47:28,212 --> 00:47:31,648
+As mulheres nos arredores da cidade são tão vulgares. 
+O modo como elas andam!
+
+487
+00:47:31,815 --> 00:47:33,373
+Até seus modos são depravados.
+
+488
+00:47:33,483 --> 00:47:35,280
+A cidade em si é maravilhosa.
+
+489
+00:47:35,385 --> 00:47:38,752
+Seus monumentos, sim. Os museus parecem estar sempre fechados. 
+
+490
+00:47:39,389 --> 00:47:42,722
+Para se divertir e sair a 
+noite, a cidade é lamentável.
+
+491
+00:47:42,893 --> 00:47:45,384
+Alguns poucos cinemas. Apenas um cinema de filmes de arte.
+
+492
+00:47:45,495 --> 00:47:48,555
+Não muitos bares e boates.
+Não que esses sejam meus lugares de preferência pessoal, 
+
+493
+00:47:48,665 --> 00:47:51,862
+mas meus agimos lá ficavam entediados e cortaram relações.
+
+494
+00:47:52,569 --> 00:47:55,697
+Na verdade, Paris tem mais entretenimento 
+mas isso está melhorando.
+
+495
+00:47:55,839 --> 00:47:58,307
+Estão abrindo mais cinemas multiplex.
+
+496
+00:47:58,408 --> 00:48:02,401
+E é tão linda.
+Fico feliz só de caminhar.
+
+497
+00:48:14,925 --> 00:48:18,019
+Um de nossos supervisores de projeto
+está trabalhando em Roma agora.
+
+498
+00:48:18,128 --> 00:48:21,757
+-Para sua agência?
+-Não, como eles dizem, ele "redireciona"
+
+499
+00:48:21,932 --> 00:48:23,900
+Além do mais, nossa agência é em Milão.
+
+500
+00:48:24,768 --> 00:48:27,293
+Ele passou alguns anos em Milão,
+
+501
+00:48:27,838 --> 00:48:30,568
+mas agora ele tem um outro trabalho em Roma.
+
+502
+00:48:30,707 --> 00:48:33,676
+Ele aluga um lugar lá e mantem um outro em Milão. 
+
+503
+00:48:34,711 --> 00:48:36,679
+Não importa o que ele pensa sobre Roma,
+
+504
+00:48:36,780 --> 00:48:38,145
+ele prefere Itália a França.
+
+505
+00:48:38,248 --> 00:48:40,148
+Acho que ele não planeja voltar.
+
+506
+00:48:40,250 --> 00:48:43,048
+Você gostaria de se mudar para
+o Oriente Médio?
+
+507
+00:48:47,758 --> 00:48:51,922
+Então, em poucas palavras, Roma é 
+horrível, Lisboa é um lixo.
+
+508
+00:48:52,329 --> 00:48:55,093
+-Qual cidade você gosta?
+-Paris, é claro.
+
+509
+00:48:55,465 --> 00:49:00,425
+A cidade mais bonita do mundo.
+Arquitetura harmoniosa,
+
+510
+00:49:00,570 --> 00:49:03,937
+conservada, excelente vizinhaça,
+estilo de vida agradável.
+
+511
+00:49:05,142 --> 00:49:07,610
+Aquelas suas boates da moda,
+
+512
+00:49:07,744 --> 00:49:12,477
+não são meu critério.
+Eu não tenho nada contra, 
+
+513
+00:49:12,582 --> 00:49:16,484
+mas para mim, esse tipo de lugar
+nunca substituirá
+
+514
+00:49:16,586 --> 00:49:19,282
+os prazeres diários de nossos 
+bares e bistrôs locais.
+
+515
+00:49:19,389 --> 00:49:20,981
+Os quais sempre nos recebe tão calorosamente!
+
+516
+00:49:22,459 --> 00:49:24,859
+Nem sempre, mas não vamos generalizar. 
+
+517
+00:49:24,962 --> 00:49:27,988
+Você deve ter sentido falta de 
+tudo isso em Tokyo.
+
+518
+00:49:28,098 --> 00:49:29,497
+Certamente!
+
+519
+00:49:30,000 --> 00:49:32,798
+Voltando ao que estavamos falando,
+
+520
+00:49:32,936 --> 00:49:37,873
+O que você acha de trabalhar com uma 
+agência de pesquisa de mercado no Japão?
+
+521
+00:49:38,008 --> 00:49:41,444
+Os métodos deles devem ser diferentes.
+Não deve ser fácil.
+
+522
+00:49:46,183 --> 00:49:47,707
+O ar condicionado está forte. 
+
+523
+00:49:52,089 --> 00:49:52,987
+Com licença.
+
+524
+00:50:27,190 --> 00:50:29,920
+Já vou! Estou pegando vinho.
+
+525
+00:51:13,937 --> 00:51:18,340
+Nós pesquisamos totalmente o conceito de luxo,
+
+526
+00:51:18,442 --> 00:51:22,776
+o que as pessoas acham sobre artigos de luxo,
+sejam perfumes ou jóias. 
+
+527
+00:51:22,879 --> 00:51:26,007
+Coisas insignificantes, digamos,
+mas muito caras.
+
+528
+00:51:26,116 --> 00:51:29,483
+Tentamos avaliar o comportamento do público.
+
+529
+00:51:37,227 --> 00:51:40,663
+-Você vai querer sobremesa?
+-Não obrigado.
+
+530
+00:51:40,764 --> 00:51:42,732
+-Café?
+-Pra mim não.
+
+531
+00:51:42,833 --> 00:51:44,300
+Podemos pedir a conta.
+
+532
+00:51:44,401 --> 00:51:47,165
+Garçon! A conta.
+
+533
+00:51:48,538 --> 00:51:49,562
+A pesquisa
+
+534
+00:51:50,273 --> 00:51:55,210
+<i>foi originalmente planejada para confirmar...</i>
+
+535
+00:59:32,035 --> 00:59:33,696
+Está lá embaixo.
+
+536
+00:59:35,104 --> 00:59:38,631
+Sua amiga está lá, na ambulância.
+
+537
+00:59:49,519 --> 00:59:52,420
+Eu fiquei tão assustado.
+Você quebrou alguma coisa?
+
+538
+00:59:52,522 --> 00:59:54,353
+Não, isso é tudo.
+
+539
+00:59:54,457 --> 00:59:57,051
+-Você tomou um belo tombo.
+-Sim.
+
+540
+01:00:13,176 --> 01:00:17,272
+Levei um cliente em casa no 
+subúrbio por volta das 23 horas
+
+541
+01:00:17,380 --> 01:00:22,374
+Fiquei completamente perdida
+com aquelas coisas do tráfego,
+
+542
+01:00:22,485 --> 01:00:25,113
+indicando você para ir par lá e para cá
+
+543
+01:00:25,221 --> 01:00:27,121
+não dá pra entender nada... 
+
+544
+01:00:27,223 --> 01:00:32,160
+E então me perdi, depois eu 
+vi essa coisa na rua, 
+
+545
+01:00:32,261 --> 01:00:34,695
+um tipo de sinal.
+
+546
+01:00:34,797 --> 01:00:38,324
+Me perdi completamente...
+
+547
+01:00:38,434 --> 01:00:42,598
+Perdi o controle e cai.
+
+548
+01:00:42,739 --> 01:00:44,832
+Viu? Rasguei minha calça.
+
+549
+01:00:45,008 --> 01:00:47,408
+Como está sua cabeça? 
+Vão tirar um raio X?
+
+550
+01:00:47,510 --> 01:00:50,707
+Não, eu disse a eles que estou bem.
+
+551
+01:00:51,914 --> 01:00:56,647
+O jantar ontem foi péssimo. 
+Quero ir trabalhar na hora.
+
+552
+01:00:56,753 --> 01:00:59,415
+Eu vou ao hospital se sentir alguma coisa.
+
+553
+01:01:06,729 --> 01:01:08,162
+Você parece cansado.
+
+554
+01:01:08,264 --> 01:01:10,698
+É quase no mesmo lugar.
+
+555
+01:01:11,634 --> 01:01:14,899
+Naturalmente, o seu joelho segurou o peso... 
+
+556
+01:01:15,471 --> 01:01:17,871
+mas este é alto.
+
+557
+01:01:21,110 --> 01:01:24,204
+Você deve ter ficado deitada por um longo tempo no chão
+
+558
+01:01:24,313 --> 01:01:27,476
+para conseguir essas marcas.
+
+559
+01:01:35,725 --> 01:01:37,249
+Não sei.
+
+560
+01:01:37,527 --> 01:01:38,892
+Eu acho que é isso.
+
+561
+01:02:00,083 --> 01:02:01,277
+Alguma coisa errada?
+
+562
+01:02:01,451 --> 01:02:03,783
+Eu não consegui dormir.
+
+563
+01:02:10,693 --> 01:02:14,959
+Tava na hora de levantar também.
+
+564
+01:02:18,668 --> 01:02:22,661
+Má sorte, mas isso vai cicatrizar.
+Não pense nisso.
+
+565
+01:02:23,172 --> 01:02:26,403
+Não foi apenas má sorte.
+Eu não deveria ter bebido.
+
+566
+01:02:26,509 --> 01:02:28,340
+Não tinha como você saber.
+
+567
+01:02:28,444 --> 01:02:32,938
+Elimine a bebida, elimine o problema.
+Faz sentido? 
+
+568
+01:02:33,049 --> 01:02:34,038
+Sim.
+
+569
+01:02:39,322 --> 01:02:44,624
+Você ainda está chocada e cansada.
+Não se preocupe com isso.
+
+570
+01:02:44,727 --> 01:02:47,423
+Você aprendeu a lição.
+Isso não vai acontecer de novo.
+
+571
+01:02:47,530 --> 01:02:51,830
+Pense em outra coisa.
+Em mim, no seu trabalho, 
+
+572
+01:02:51,934 --> 01:02:54,198
+em mim de novo...
+
+573
+01:02:55,872 --> 01:02:59,672
+Nós vamos ver aquele lugar de 
+novo às 5, está lembrado? 
+
+574
+01:02:59,776 --> 01:03:01,801
+Podemos nos mudar no Sábado.
+
+575
+01:03:01,978 --> 01:03:03,536
+Não vou esquecer.
+
+576
+01:03:03,679 --> 01:03:06,944
+Seu problema do jantar vai passar.
+
+577
+01:03:07,583 --> 01:03:08,880
+Sim.
+
+578
+01:03:10,486 --> 01:03:12,977
+Eu vou te buscar a noite.
+
+579
+01:03:13,222 --> 01:03:16,316
+O apartamento,
+depois a agência de viagem.
+
+580
+01:03:16,592 --> 01:03:21,052
+Eric e Justine preferem a ItáIia.
+Eu também. Está bem?
+
+581
+01:03:21,164 --> 01:03:22,825
+Sim, eu também.
+
+582
+01:03:27,904 --> 01:03:30,930
+Eu queria que eles tivessem tirado um raio X.
+Eu espero que você esteja bem.
+
+583
+01:03:31,073 --> 01:03:33,371
+Não se preocupe.
+
+584
+01:03:33,943 --> 01:03:35,843
+Vou tomar um banho.
+
+585
+01:03:39,916 --> 01:03:44,353
+Devemos levar uma fita métrica.
+O projeto deles pode estar errado.
+
+586
+01:03:44,453 --> 01:03:46,011
+Certo!
+
+587
+01:03:46,722 --> 01:03:48,087
+Entre.
+
+588
+01:03:50,526 --> 01:03:51,185
+Bom dia.
+
+589
+01:03:51,694 --> 01:03:53,389
+Desculpe me por te incomodar. 
+
+590
+01:03:53,796 --> 01:03:57,562
+-Desculpe me eu não fui agradável no jantar. 
+-Não, você não foi. 
+
+591
+01:03:57,667 --> 01:04:02,798
+Esse tipo de jantar não é para se divertir, 
+ou para fazer uma boa refeição. É trabalho.
+
+592
+01:04:02,972 --> 01:04:07,568
+Seu comportamento profissional
+foi muito deficiente!
+
+593
+01:04:09,412 --> 01:04:11,209
+Eu te conheço há dois anos.
+
+594
+01:04:11,414 --> 01:04:13,939
+Não vou te julgar por um deslize.
+
+595
+01:04:14,050 --> 01:04:17,417
+Eu fiquei muito envergonhado,
+tanto por eles  
+
+596
+01:04:18,020 --> 01:04:22,081
+quanto por notar que você é 
+mais imaturo que eu pensava.
+
+597
+01:04:22,658 --> 01:04:23,955
+Não faz mal.
+
+598
+01:04:24,060 --> 01:04:25,527
+Não tenho nada a acrescentar.
+
+599
+01:04:26,195 --> 01:04:30,154
+Sua pesquisa foi bem feita,
+de modo que você tem crédito sobretudo. 
+
+600
+01:04:30,266 --> 01:04:33,497
+Um segundo deslize colocaria 
+em risco seu emprego aqui,
+
+601
+01:04:33,603 --> 01:04:36,163
+pelo menos o seu nível de
+responsabilidade.
+
+602
+01:04:36,305 --> 01:04:39,433
+Entendido. Isso não vai acontecer de novo.
+
+603
+01:04:40,209 --> 01:04:41,437
+Obrigado.
+
+604
+01:05:00,897 --> 01:05:04,264
+Nós temos até sexta-feira.
+O fornecedor está nos dando prioridade.
+
+605
+01:05:04,367 --> 01:05:05,026
+Oh, legal.
+
+606
+01:05:05,201 --> 01:05:07,499
+-Vamos começar na hora.
+-Sim.
+
+607
+01:05:07,637 --> 01:05:09,434
+O que você queria discutir 
+com o construtor?
+
+608
+01:05:09,572 --> 01:05:13,064
+A soldagem na cozinha
+e as janelas do quarto.
+
+609
+01:05:13,209 --> 01:05:16,110
+Igual a você. E aquela parede de sustentação.
+
+610
+01:05:16,212 --> 01:05:19,238
+Sim. Espere um pouco, preciso de algum dinheiro.
+
+611
+01:06:14,704 --> 01:06:17,229
+Se aquela parede tem que ficar, não tem acordo. 
+
+612
+01:06:17,373 --> 01:06:20,103
+Tenha piedade porque eu realmente gostei do lugar.
+
+613
+01:06:20,643 --> 01:06:25,205
+É todo perfeito, a não ser por 
+aquele problema potencial. 
+
+614
+01:06:26,248 --> 01:06:30,241
+Mesmo se estiver sustentando um peso,
+deve haver solução.
+
+615
+01:06:31,654 --> 01:06:33,519
+Você está escutando? O que que houve?
+
+616
+01:06:33,889 --> 01:06:35,220
+Nada. Só um minuto.
+
+617
+01:06:35,324 --> 01:06:39,920
+Não deve ser a parede inteira que 
+sustenta o peso. Poderiamos corta-la ao meio 
+
+618
+01:06:40,029 --> 01:06:44,932
+para nos sentirmos menos encaixotados.
+Não podemos derrubá-la inteira. 
+
+619
+01:06:45,668 --> 01:06:47,101
+Em que você está pensando?
+
+620
+01:06:48,037 --> 01:06:49,231
+O que há de errado?
+
+621
+01:06:49,605 --> 01:06:52,005
+Eu esqueci a droga do meu número 
+de identificação pessoal!
+
+622
+01:06:52,108 --> 01:06:55,202
+Eu sei.
+Não há nada com que se preocupar.
+
+623
+01:06:56,612 --> 01:06:58,546
+Quanto? 200?
+
+624
+01:07:16,699 --> 01:07:18,963
+Devemos dar a resposta por volta de sexta-feira.
+
+625
+01:07:19,068 --> 01:07:21,434
+Ainda é quarta-feira.
+
+626
+01:07:22,538 --> 01:07:25,268
+Estive pensando sobre o seu trabalho.
+
+627
+01:07:25,408 --> 01:07:27,569
+Se eles estão treinando uma equipe interna 
+
+628
+01:07:27,710 --> 01:07:30,372
+ao invés de contratar pessoas de fora da empresa, 
+
+629
+01:07:30,479 --> 01:07:33,243
+talvez eles pretendam criar 
+empregos fixos. 
+
+630
+01:07:37,353 --> 01:07:39,617
+Talvez estejam planejando expandir.
+
+631
+01:07:39,722 --> 01:07:44,591
+Isso é estranho, uma vez que eles já têm 
+relações públicas e departamento pessoal.
+
+632
+01:07:44,693 --> 01:07:48,652
+Mas deve existir uma razão para isso.
+
+633
+01:07:49,432 --> 01:07:51,525
+Isso parece estúpido?
+
+634
+01:07:51,634 --> 01:07:54,398
+Não sei. Tive um dia cansativo.
+
+635
+01:08:03,145 --> 01:08:04,635
+Qual é o problema?
+
+636
+01:08:04,947 --> 01:08:06,710
+Nada.
+
+637
+01:08:07,216 --> 01:08:08,308
+Alguma coisa está errada.
+
+638
+01:08:08,451 --> 01:08:09,645
+Não comigo.
+
+639
+01:08:09,752 --> 01:08:12,721
+Eu não fico chorando na rua. 
+Sou um cara normal.
+
+640
+01:08:16,258 --> 01:08:21,218
+Você deve estar muito feliz comigo, se chora 
+por um número de identificação pessoal! 
+
+641
+01:08:22,064 --> 01:08:26,433
+Estou pensando, o que posso fazer?
+Provavelmente nada.
+
+642
+01:08:26,569 --> 01:08:29,129
+Eu não sou um obstáculo ou uma dor, sou?
+
+643
+01:08:30,940 --> 01:08:33,238
+Se eu não sou o problema,
+
+644
+01:08:33,342 --> 01:08:36,937
+é alguma coisa que eu não conheço,
+e portanto não te conheço. 
+
+645
+01:08:38,214 --> 01:08:41,843
+Você me conhece sim. Conhece sim.
+
+646
+01:08:44,153 --> 01:08:46,587
+Você está sempre procurando por sentidos, explicações. 
+
+647
+01:08:48,824 --> 01:08:52,453
+Não sei, talvez eu esteja.
+As pessoas ficam tensas...
+
+648
+01:08:52,561 --> 01:08:54,529
+E o acidente de carro...
+Eu não sei.
+
+649
+01:08:57,533 --> 01:09:01,936
+Estou indo me deitar. Você também deveria ir.
+Vamos nos sentir melhor amanhã.
+
+650
+01:09:03,439 --> 01:09:05,031
+Já estou indo.
+
+651
+01:18:40,348 --> 01:18:41,713
+Bom dia.
+
+652
+01:18:41,850 --> 01:18:43,408
+Eu preciso de um pouco de formol.
+
+653
+01:18:44,019 --> 01:18:46,453
+Eu não vendo isso. É ilegal.
+
+654
+01:18:47,389 --> 01:18:50,222
+Tente pedir em um laboratório,
+mas eles não vão te dar nada.
+
+655
+01:18:50,325 --> 01:18:53,123
+Um hospital talvez.
+Para quê isso? 
+
+656
+01:18:53,361 --> 01:18:59,163
+Eu retirei um pedaço de pele doente.
+Eu quero conserva-lo. 
+
+657
+01:19:00,035 --> 01:19:01,730
+Você é sentimental!
+
+658
+01:19:04,005 --> 01:19:06,473
+Eu nunca vi isso antes.
+
+659
+01:19:08,009 --> 01:19:11,001
+O que é isso aí dentro, água?
+É assim que eles guardam isso?
+
+660
+01:19:11,346 --> 01:19:13,780
+Eu quebrei o outro frasco.
+Isso é água.
+
+661
+01:19:13,882 --> 01:19:15,247
+Eles não se esforçam!
+
+662
+01:19:15,350 --> 01:19:21,846
+Mas as coisas se deterioram,
+até mesmo em formol com o passar dos anos.
+
+663
+01:19:21,957 --> 01:19:24,619
+Não sei, o que poderia...
+
+664
+01:19:24,726 --> 01:19:30,096
+Couro normalmente é curtido.
+Pele humana nem sempre, ainda bem. 
+
+665
+01:19:30,198 --> 01:19:32,928
+Mas é o mesmo.
+O que eles sugeriram?
+
+666
+01:19:33,034 --> 01:19:36,128
+Eu esqueci de perguntar.
+Como faço para transforma-la em couro?
+
+667
+01:19:36,271 --> 01:19:38,501
+Vai ficar liso e frágil? 
+
+668
+01:19:38,673 --> 01:19:41,039
+Sim, como tudo que de couro. 
+
+669
+01:19:41,309 --> 01:19:44,767
+Carteiras, roupas... são curtidos. 
+Curtido e tratado.
+
+670
+01:19:44,913 --> 01:19:50,749
+É toda uma técnica.
+Para fazer isso você mesma, tente 
+usar sulfato de alumínio e potássio. 
+
+671
+01:19:50,852 --> 01:19:54,288
+Dilua em água e espalhe em cima. 
+
+672
+01:19:54,389 --> 01:19:57,552
+estenda sobre uma superfície lisa. 
+Isso vai transforma-la em couro.
+
+673
+01:19:57,659 --> 01:20:01,095
+Não vai ficar tratado e tingido, mas curtido. 
+Isso não vai se mover.
+
+674
+01:20:01,196 --> 01:20:04,063
+Aperte com força.
+
+675
+01:20:04,166 --> 01:20:06,225
+Não deveria ser tão fino.
+
+676
+01:20:08,170 --> 01:20:09,398
+Posso?
+
+677
+01:20:24,786 --> 01:20:26,413
+Sem problema.
+
+678
+01:20:28,190 --> 01:20:30,249
+O que há de errado com isso?
+Parece estar tudo certo.
+
+679
+01:20:30,692 --> 01:20:34,560
+Não estava. 
+Isso é tudo o que devo fazer para transforma-la em couro?
+
+680
+01:20:34,663 --> 01:20:35,960
+Sim, é tudo.
+
+681
+01:20:36,464 --> 01:20:37,761
+Mais alguma coisa?
+
+682
+01:20:37,866 --> 01:20:42,360
+Sim. Base de maquiagem e 
+aspirina ou paracetamol. 
+
+683
+01:20:58,153 --> 01:21:00,747
+Sim, sou eu.
+
+684
+01:21:02,724 --> 01:21:04,885
+Você pode me ligar de volta?
+
+685
+01:21:04,993 --> 01:21:07,723
+Estou falando do celular.
+
+686
+01:21:07,829 --> 01:21:10,889
+Estou com medo, não vou estar em casa a noite,
+
+687
+01:21:10,999 --> 01:21:13,297
+mas por favor me ligue.
+
+688
+01:21:15,670 --> 01:21:19,868
+Se cuide. Até logo.
+
+689
+01:21:31,219 --> 01:21:33,847
+Esther venha aqui.
+
+690
+01:21:35,357 --> 01:21:40,090
+Me desculpe. Um monte de coisas 
+me atrapalhou a ir trabalhar. 
+
+691
+01:21:40,262 --> 01:21:45,723
+Você pode pedir desculpas ao Daniel,
+diga que amanhã chegarei as nove em ponto?
+
+692
+01:21:46,034 --> 01:21:48,298
+Não precisa. 
+
+693
+01:21:51,473 --> 01:21:54,442
+Não, era um amigo.
+Ele não sabia.
+
+694
+01:21:54,542 --> 01:21:56,635
+Pode passar pra Elodie?
+
+695
+01:22:58,740 --> 01:23:03,905
+Alô. Este é o seu chamado para acordar.
+
+696
+01:27:28,740 --> 01:28:03,905
+Legendas 23:58
+cinesub@gmail.com
+
+697
+01:28:04,305 --> 01:29:04,358
+Do you want subtitles for any video?
+-=[ ai.OpenSubtitles.com ]=-

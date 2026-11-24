@@ -1,0 +1,6245 @@
+1
+00:00:05,335 --> 00:00:07,235
+<b><i>Aves:
+GoDo | panda² | Hall</i></b>
+
+2
+00:00:07,236 --> 00:00:09,136
+<b><i>Aves:
+Lu Colorada | IsaacA² | chere</i></b>
+
+3
+00:00:09,137 --> 00:00:11,037
+<b><i>Aves:
+MatheusB | AnchorBoy² | Gybiru</i></b>
+
+4
+00:00:11,038 --> 00:00:12,938
+<b><i>Aves:
+nattyck | Thomas | White Wolf</i></b>
+
+5
+00:00:12,939 --> 00:00:14,839
+<b><i>Aves:
+Lisia | Sk@llTow | MadGrl</i></b>
+
+6
+00:00:14,840 --> 00:00:16,740
+<b><i>Aves:
+©yßë® V¡¢¡öµ§ | @helder1965</i></b>
+
+7
+00:00:16,741 --> 00:00:18,641
+<b><i>Aves:
+dreeh | Monk | JKretli | Whuzz</i></b>
+
+8
+00:00:18,642 --> 00:00:20,542
+<b><i>Aves:
+Dres | @Julhynha | Julie | Josa</i></b>
+
+9
+00:00:20,543 --> 00:00:22,443
+<b><i>Aves:
+GabCav | Rainbow | DjalmaVM</i></b>
+
+10
+00:00:22,444 --> 00:00:24,344
+<b><i>Aves:
+soma | Abiimo | DeVil</i></b>
+
+11
+00:00:24,345 --> 00:00:26,245
+<b><i>Aves:
+VonNobrega | LikaPoetisa</i></b>
+
+12
+00:00:26,246 --> 00:00:28,146
+<b><i>Arlequim:
+Hall</i></b>
+
+13
+00:00:31,463 --> 00:00:34,482
+<i>Dizem que se quiser contar
+uma história direito,</i>
+
+14
+00:00:34,483 --> 00:00:36,501
+<i>precisa começar do início.</i>
+
+15
+00:00:39,799 --> 00:00:42,013
+<i>Início demais? Beleza.</i>
+
+16
+00:00:42,444 --> 00:00:45,465
+<i>Essa sou eu,
+Harleen Quinzel.</i>
+
+17
+00:00:45,466 --> 00:00:48,761
+<i>Quando era uma criança,
+meu pai me trocou por Corote.</i>
+
+18
+00:00:48,762 --> 00:00:51,555
+<i>Mas toda vez que ele tentava
+me largar,</i>
+
+19
+00:00:51,556 --> 00:00:53,198
+<i>eu continuava voltando.</i>
+
+20
+00:00:53,199 --> 00:00:55,695
+<i>Eventualmente,
+ele me achou uma casa.</i>
+
+21
+00:00:55,696 --> 00:00:58,911
+<i>As boas irmãs da St. Bernadette
+me ensinaram muito.</i>
+
+22
+00:01:00,606 --> 00:01:03,589
+<i>Mas eu não era uma garota
+meio certinha.</i>
+
+23
+00:01:04,196 --> 00:01:07,751
+<i>Considerando tudo,
+fui até para faculdade.</i>
+
+24
+00:01:07,752 --> 00:01:09,425
+<i>Fiz doutorado.</i>
+
+25
+00:01:09,426 --> 00:01:11,684
+<i>Tive o coração partido
+algumas vezes.</i>
+
+26
+00:01:11,685 --> 00:01:13,815
+<i>Achar o amor não é fácil.</i>
+
+27
+00:01:13,816 --> 00:01:17,655
+<i>Então me joguei no trabalho,
+virei psiquiatra.</i>
+
+28
+00:01:17,656 --> 00:01:19,789
+<i>Foi lá que o conheci.</i>
+
+29
+00:01:19,790 --> 00:01:22,480
+<i>Sr. C. Meu Coringa.</i>
+
+30
+00:01:22,481 --> 00:01:24,086
+<i>Me apaixonei muito.</i>
+
+31
+00:01:24,087 --> 00:01:26,615
+<i>Ao ponto de começar
+a ouvir modão.</i>
+
+32
+00:01:26,616 --> 00:01:29,053
+<i>daqueles de meter o chifre
+no chão e sair arando.</i>
+
+33
+00:01:29,054 --> 00:01:32,060
+<i>Perdi totalmente a noção
+de quem era.</i>
+
+34
+00:01:32,061 --> 00:01:34,344
+<i>Só tinha olhos
+para o Pudinzinho.</i>
+
+35
+00:01:34,345 --> 00:01:36,019
+<i>Mas todos conhecemos
+o ditado:</i>
+
+36
+00:01:36,020 --> 00:01:37,761
+<i>"Por trás de todo homem
+de sucesso,</i>
+
+37
+00:01:37,762 --> 00:01:39,347
+<i>tem uma mulher fodona".</i>
+
+38
+00:01:39,548 --> 00:01:42,564
+<i>Essa era eu.
+Eu era o cérebro por trás</i>
+
+39
+00:01:42,565 --> 00:01:44,755
+<i>das grandes conquistas
+do sr. C.</i>
+
+40
+00:01:44,756 --> 00:01:47,326
+<i>Mas ele não contava pra ninguém.
+Pudinzinho?</i>
+
+41
+00:01:47,327 --> 00:01:50,127
+<i>Acho que todas as coisas boas
+precisam terminar.</i>
+
+42
+00:01:51,812 --> 00:01:53,212
+<i>Então...</i>
+
+43
+00:01:55,472 --> 00:01:56,872
+<i>Nós terminamos.</i>
+
+44
+00:01:59,527 --> 00:02:01,562
+<i>Eu aceitei com maturidade.</i>
+
+45
+00:02:01,563 --> 00:02:04,500
+<i>Mas o sr. C ficou bem mal.</i>
+
+46
+00:02:07,835 --> 00:02:10,369
+<i>Arrumei um lugar novo
+incrível</i>
+
+47
+00:02:10,370 --> 00:02:12,394
+<i>só para mim.</i>
+
+48
+00:02:15,174 --> 00:02:17,761
+<i>Me deu espaço
+para realmente refletir</i>
+
+49
+00:02:17,762 --> 00:02:20,099
+<i>nos erros do meu passado.</i>
+
+50
+00:02:20,396 --> 00:02:21,800
+PUDIM DE LEITE
+
+51
+00:02:23,628 --> 00:02:26,518
+<i>Tive que arrumar
+uma nova identidade.</i>
+
+52
+00:02:27,598 --> 00:02:29,300
+<i>Uma nova eu.</i>
+
+53
+00:02:32,736 --> 00:02:34,301
+<i>Não foi fácil.</i>
+
+54
+00:02:34,302 --> 00:02:36,821
+<i>Mas depois de um tempo,
+até me abri</i>
+
+55
+00:02:36,822 --> 00:02:39,750
+<i>para a possibilidade
+de um novo amor.</i>
+
+56
+00:02:42,458 --> 00:02:46,696
+Oi, olá.
+Bebê bonitinho.
+
+57
+00:02:49,902 --> 00:02:51,692
+<i>O problema
+com o novo amor…</i>
+
+58
+00:02:51,693 --> 00:02:53,506
+Aceito pagamento
+com favores.
+
+59
+00:02:54,446 --> 00:02:56,012
+<i>É que você tem
+que alimentá-lo.</i>
+
+60
+00:03:07,720 --> 00:03:09,947
+<i>Logo, estarei de pé.</i>
+
+61
+00:03:09,948 --> 00:03:12,830
+<i>Pronta para seguir em frente,
+fazer novos amigos.</i>
+
+62
+00:03:13,980 --> 00:03:16,539
+<i>Ela tá mandando ver!</i>
+
+63
+00:03:16,949 --> 00:03:18,489
+<i>- Lá vai ela!</i>
+- Me joga!
+
+64
+00:03:18,490 --> 00:03:20,279
+<i>O pivô a impulsionou
+para a lateral!</i>
+
+65
+00:03:31,022 --> 00:03:33,241
+Isso! Vamos!
+
+66
+00:03:33,242 --> 00:03:37,229
+<i>Era hora de Gotham conhecer,
+a nova Arlequina,</i>
+
+67
+00:03:37,230 --> 00:03:39,478
+<i>e eu fiz de tudo
+para mostrar isso.</i>
+
+68
+00:03:40,105 --> 00:03:42,453
+<i>Monta nesse mastro
+como monta no seu homem!</i>
+
+69
+00:03:48,374 --> 00:03:51,083
+Caramba. Sente-se, porra.
+
+70
+00:03:51,084 --> 00:03:52,690
+- Quê?
+- Eu disse...
+
+71
+00:03:52,691 --> 00:03:56,142
+Sente sua bunda magra,
+sua cadela burra.
+
+72
+00:03:56,503 --> 00:03:57,903
+Tudo bem.
+
+73
+00:04:01,185 --> 00:04:03,698
+Você quebrou a porra
+das minhas pernas!
+
+74
+00:04:03,699 --> 00:04:05,359
+Coitadinho.
+
+75
+00:04:09,284 --> 00:04:10,684
+O que foi?
+
+76
+00:04:11,021 --> 00:04:14,224
+Não é festa se não tiver
+um pouco de drama, certo?
+
+77
+00:04:14,225 --> 00:04:18,378
+Vamos! Aumente o som!
+Drinques por conta da casa.
+
+78
+00:04:19,084 --> 00:04:22,659
+Me chamando de burra.
+Tenho doutorado, filho da puta.
+
+79
+00:04:23,196 --> 00:04:25,145
+- Senhorita Arlequina.
+- Rommy.
+
+80
+00:04:25,414 --> 00:04:27,999
+- Esse era meu motorista.
+- Opa.
+
+81
+00:04:28,200 --> 00:04:30,355
+Bom, a culpa foi dele.
+Considere-o demitido.
+
+82
+00:04:30,356 --> 00:04:33,626
+Considere-me grata, porque sei
+que não gosta de mim.
+
+83
+00:04:33,827 --> 00:04:36,653
+Perturbo o delicado senso
+de equilíbrio mental dele.
+
+84
+00:04:36,654 --> 00:04:38,654
+E a necessidade
+obsessiva-compulsiva dele
+
+85
+00:04:38,655 --> 00:04:40,205
+de ser o centro
+das atenções.
+
+86
+00:04:40,206 --> 00:04:42,581
+O seu amante vai juntar-se
+a nós esta noite?
+
+87
+00:04:42,582 --> 00:04:45,915
+Não essa noite, Rommy.
+Não essa noite.
+
+88
+00:04:46,617 --> 00:04:49,987
+Divirta-se, senhorita Arlequina.
+E cumprimente o Coringa por mim.
+
+89
+00:04:50,188 --> 00:04:53,460
+<i>Tudo bem, eu não contei
+às pessoas sobre a separação.</i>
+
+90
+00:04:53,461 --> 00:04:56,265
+- <i>Mas você não entende.</i>
+- Arranje-me um novo motorista.
+
+91
+00:04:56,266 --> 00:04:59,609
+<i>Ser a garota do Coringa
+deu-me imunidade.</i>
+
+92
+00:04:59,610 --> 00:05:03,779
+<i>Eu podia fazer o que quisesse,
+com quem quisesse,</i>
+
+93
+00:05:03,780 --> 00:05:06,075
+<i>e ninguém ousaria
+contestar-me.</i>
+
+94
+00:05:20,342 --> 00:05:23,783
+Não deixe que te tratem mal.
+Você precisa se defender!
+
+95
+00:05:43,744 --> 00:05:46,753
+<i>Fala sério. Dou uns dias
+para eles voltarem.</i>
+
+96
+00:05:46,754 --> 00:05:49,460
+<i>Mesmo quando eu contava,
+as pessoas não acreditavam.</i>
+
+97
+00:05:49,461 --> 00:05:51,559
+Ela me disse que agora
+terminaram de vez.
+
+98
+00:05:52,282 --> 00:05:54,615
+Claro, Shell.
+<i>Mas ela ainda usa</i>
+
+99
+00:05:54,616 --> 00:05:56,491
+<i>aquele colar brega
+com a inicial dele.</i>
+
+100
+00:05:57,827 --> 00:06:01,826
+É só ele estalar os dedos
+que ela volta para ele.
+
+101
+00:06:01,827 --> 00:06:05,002
+<i>Se não ele, o primeiro
+macho alfa que aparecer.</i>
+
+102
+00:06:05,003 --> 00:06:08,212
+<i>Tem gente que não nasceu
+para ficar sozinha.</i>
+
+103
+00:06:08,213 --> 00:06:09,910
+<i>- Vamos beber, miga.
+- Beleza.</i>
+
+104
+00:06:09,911 --> 00:06:12,667
+<i>Eu precisava achar uma forma
+de mostrar ao mundo</i>
+
+105
+00:06:12,668 --> 00:06:15,646
+<i>que eu tinha terminado mesmo
+com o sr. C.</i>
+
+106
+00:06:16,195 --> 00:06:17,611
+Arlequina!
+
+107
+00:06:19,306 --> 00:06:21,409
+<i>Algumas pessoas
+tem a Torre Eiffel,</i>
+
+108
+00:06:21,410 --> 00:06:22,810
+<i>ou o Olive Garden.</i>
+
+109
+00:06:22,811 --> 00:06:25,001
+<i>O Coringa e eu?
+Nosso amor nasceu</i>
+
+110
+00:06:25,002 --> 00:06:28,328
+<i>numa usina de processamento
+de materiais tóxicos.</i>
+
+111
+00:06:34,286 --> 00:06:36,416
+<i>E, para minha sorte,</i>
+
+112
+00:06:36,417 --> 00:06:38,717
+<i>minhas melhores ideias
+são quando estou bêbada.</i>
+
+113
+00:06:38,718 --> 00:06:41,237
+Tive uma ideia
+boa pra caramba!
+
+114
+00:06:50,180 --> 00:06:52,854
+Merda!
+Ei, volta aqui!
+
+115
+00:07:03,416 --> 00:07:05,636
+Foi aqui que tudo começou,
+Pudinzinho.
+
+116
+00:07:07,178 --> 00:07:08,829
+Seu filho da mãe!
+
+117
+00:07:35,941 --> 00:07:38,850
+<i>Foi o encerramento
+que eu precisava.</i>
+
+118
+00:07:38,851 --> 00:07:42,135
+<i>Um novo começo.
+A chance de ser independente.</i>
+
+119
+00:07:47,900 --> 00:07:51,200
+<b><i>GeekS
+emancipadamente apresenta…</i></b>
+
+120
+00:07:54,962 --> 00:07:58,409
+<i>Mas eu não era a única mulher
+em Gotham querendo se emancipar.</i>
+
+121
+00:08:00,200 --> 00:08:02,625
+<i>Essa é a nossa história.</i>
+
+122
+00:08:02,926 --> 00:08:04,535
+<b><i>Arlequina em Aves de Rapina</i></b>
+
+123
+00:08:04,736 --> 00:08:07,520
+<i>E, como estou contando,
+vou começar onde eu quiser.</i>
+
+124
+00:08:07,721 --> 00:08:09,909
+4 MINUTOS ANTES
+
+125
+00:08:09,910 --> 00:08:12,909
+<i>- Conheça a polícia.</i>
+- Isso foi guerra de gangues.
+
+126
+00:08:12,910 --> 00:08:15,867
+<i>- Ele não.</i>
+- Como sempre, está errado.
+
+127
+00:08:15,868 --> 00:08:18,142
+<i>Ela. Renee Montoya.</i>
+
+128
+00:08:18,143 --> 00:08:19,898
+<i>Via as séries policiais
+dos anos 80,</i>
+
+129
+00:08:19,899 --> 00:08:21,763
+<i>e fala coisas cafonas como…</i>
+
+130
+00:08:21,764 --> 00:08:24,772
+Foi só um atirador.
+E ele estava aqui dentro.
+
+131
+00:08:25,968 --> 00:08:28,662
+Ele atirou na janela.
+Serrano!
+
+132
+00:08:28,989 --> 00:08:30,555
+Ei, você aí.
+
+133
+00:08:31,816 --> 00:08:34,476
+Peça que a Balística procure
+balas nos carros lá fora.
+
+134
+00:08:34,477 --> 00:08:37,496
+<i>10 anos atrás, ela resolveu
+o caso da carreira dela.</i>
+
+135
+00:08:37,497 --> 00:08:39,345
+- Não ouviu?
+- Vai lá.
+
+136
+00:08:39,346 --> 00:08:41,601
+<i>Mas o parceiro dela
+roubou todo o crédito.</i>
+
+137
+00:08:41,852 --> 00:08:43,255
+<i>Enquanto ele virou Capitão,</i>
+
+138
+00:08:43,256 --> 00:08:46,069
+<i>ela ficou presa como detetive
+com este idiota.</i>
+
+139
+00:08:46,070 --> 00:08:48,747
+- Acha que um cara matou todos?
+- Espere, espere.
+
+140
+00:08:48,748 --> 00:08:51,019
+Só estou dizendo,
+temos 4 corpos aqui, sabe.
+
+141
+00:08:51,020 --> 00:08:53,441
+- Um cara, 4 tiros.
+- Estou tentando trabalhar.
+
+142
+00:08:53,442 --> 00:08:56,337
+Desculpe. Vá em frente
+e trabalhe. Continue.
+
+143
+00:09:00,647 --> 00:09:03,997
+O atirador chegou perto
+antes de sacar. Seis tiros.
+
+144
+00:09:03,998 --> 00:09:07,116
+<i>- Dois para cada um desses três.</i>
+- Cuide da sua dívida.
+
+145
+00:09:07,117 --> 00:09:09,401
+Estou dizendo.
+Aquela Angelina é uma princesa.
+
+146
+00:09:09,402 --> 00:09:12,716
+- Vejam só. É Dia das Bruxas?
+- Como vai?
+
+147
+00:09:24,109 --> 00:09:25,909
+E não era sobre eles.
+
+148
+00:09:26,511 --> 00:09:29,905
+Era tudo sobre este cara,
+bem aqui.
+
+149
+00:09:33,865 --> 00:09:35,595
+Sabe quem eu sou?
+
+150
+00:09:36,977 --> 00:09:39,110
+Sua maldita vadia.
+
+151
+00:09:48,171 --> 00:09:50,576
+E esta flecha
+na garganta dele...
+
+152
+00:09:52,583 --> 00:09:55,231
+Ela queria que ele
+morresse devagar.
+
+153
+00:09:55,232 --> 00:09:57,175
+- Ela?
+- Temos um cabelo.
+
+154
+00:09:58,106 --> 00:10:01,290
+- E ele tem um novo assassino.
+- Quem tem?
+
+155
+00:10:02,104 --> 00:10:05,443
+Roman Beauvais Sionis.
+
+156
+00:10:05,444 --> 00:10:07,885
+Jesus Cristo.
+
+157
+00:10:07,886 --> 00:10:10,289
+Aqui é a Montoya.
+Que diabos foi isso?
+
+158
+00:10:12,603 --> 00:10:14,004
+Merda.
+
+159
+00:10:16,681 --> 00:10:19,485
+Detetive.
+Encontrei este colar.
+
+160
+00:10:21,919 --> 00:10:23,438
+Puta merda.
+
+161
+00:10:24,469 --> 00:10:26,155
+Bom trabalho, policial.
+
+162
+00:10:27,171 --> 00:10:28,571
+O que é isso?
+
+163
+00:10:30,261 --> 00:10:32,335
+Arlequina e o Coringa
+terminaram.
+
+164
+00:10:32,336 --> 00:10:35,113
+- O quê?
+- Aqui era o lugar deles.
+
+165
+00:10:35,114 --> 00:10:38,201
+Ela atualizou publicamente
+o status do relacionamento dela.
+
+166
+00:10:38,402 --> 00:10:42,692
+Arlequina colocou um alvo
+nas costas dela.
+
+167
+00:10:42,693 --> 00:10:44,876
+Ela não pensou
+nisso direito.
+
+168
+00:10:44,877 --> 00:10:47,167
+<i>É, não brinca
+que não pensei direito.</i>
+
+169
+00:10:47,168 --> 00:10:48,569
+<i>Estou prestes a descobrir</i>
+
+170
+00:10:48,570 --> 00:10:51,155
+<i>que muitos na cidade
+me querem morta.</i>
+
+171
+00:10:51,156 --> 00:10:54,889
+<i>E no topo da lista,
+está este cara.</i>
+
+172
+00:10:55,725 --> 00:10:58,941
+Sr. Keo e suas adoráveis
+esposa e filha.
+
+173
+00:10:59,672 --> 00:11:02,062
+Você meio
+que me forçou a isso.
+
+174
+00:11:02,063 --> 00:11:04,545
+Devo dizer,
+estou um pouco desapontado.
+
+175
+00:11:07,547 --> 00:11:11,668
+Eu te dei uma grande ideia.
+Não dei?
+
+176
+00:11:13,930 --> 00:11:15,766
+E eu pensei...
+Silêncio!
+
+177
+00:11:16,415 --> 00:11:19,680
+Achei que poderíamos
+construir algo lindo juntos.
+
+178
+00:11:19,681 --> 00:11:21,900
+Achei que poderíamos
+ser uma família.
+
+179
+00:11:35,797 --> 00:11:37,611
+Eu vou te libertar.
+
+180
+00:11:41,490 --> 00:11:45,705
+E quanto a ela?
+
+181
+00:11:50,425 --> 00:11:51,876
+Acho que podemos soltá-la.
+
+182
+00:11:51,877 --> 00:11:54,879
+Quer dizer, essa mensagem
+que passamos foi muito boa.
+
+183
+00:12:00,444 --> 00:12:01,844
+Querida.
+
+184
+00:12:03,099 --> 00:12:04,499
+Não chore.
+
+185
+00:12:06,052 --> 00:12:09,554
+Obrigada. Obrigada.
+
+186
+00:12:09,555 --> 00:12:10,955
+Por nada.
+
+187
+00:12:12,662 --> 00:12:14,496
+Isso é catarro?
+
+188
+00:12:14,906 --> 00:12:17,136
+- Que nojo.
+- O quê?
+
+189
+00:12:17,137 --> 00:12:19,540
+Mudei de ideia.
+Pode esfolar ela.
+
+190
+00:12:19,917 --> 00:12:21,708
+Não. Não!
+
+191
+00:12:23,357 --> 00:12:26,125
+<i>O trabalho maluco
+com propensão a esfolar rostos</i>
+
+192
+00:12:26,126 --> 00:12:28,262
+<i>é de Roman Sionis,</i>
+
+193
+00:12:28,263 --> 00:12:30,841
+<i>também conhecido
+como Máscara Negra.</i>
+
+194
+00:12:33,479 --> 00:12:37,331
+<i>O fato de ele me querer morta
+ainda não atingiu meu radar.</i>
+
+195
+00:12:37,332 --> 00:12:40,260
+<i>Veja, eu estava quase chegando
+na cidade,</i>
+
+196
+00:12:40,261 --> 00:12:44,317
+<i>de ressaca,
+pensando no café da manhã.</i>
+
+197
+00:12:46,212 --> 00:12:50,725
+<i>Ovos, bacon,
+queijo americano.</i>
+
+198
+00:12:51,541 --> 00:12:55,983
+<i>Macios,
+com pão e manteiga.</i>
+
+199
+00:12:55,984 --> 00:12:58,231
+<i>Apenas uma pitada
+de molho picante.</i>
+
+200
+00:12:58,232 --> 00:13:02,458
+Não coloque muito, Sal.
+Quero sentir o gosto do queijo
+
+201
+00:13:02,459 --> 00:13:05,290
+<i>Ótimo jeito
+de começar minha vida nova.</i>
+
+202
+00:13:06,411 --> 00:13:10,623
+<i>Com o sanduíche perfeito
+de ovos.</i>
+
+203
+00:13:13,810 --> 00:13:15,902
+Você é um salva-vidas, Sal.
+
+204
+00:13:17,817 --> 00:13:21,584
+Ficarei te devendo 75 centavos,
+certo? Prometo que pago.
+
+205
+00:13:21,585 --> 00:13:26,435
+É todo o dinheiro que eu tenho,
+e vai valer a pena.
+
+206
+00:13:29,444 --> 00:13:32,584
+<i>Não sei se é o cabelo
+de braço armênio perdido,</i>
+
+207
+00:13:32,585 --> 00:13:36,162
+<i>ou o fato do queijo
+estar vencido a 6 meses,</i>
+
+208
+00:13:36,163 --> 00:13:40,043
+<i>mas ninguém faz um sanduíche
+de ovo como o Sal.</i>
+
+209
+00:13:40,044 --> 00:13:42,552
+É sério, Sal. Ninguém.
+
+210
+00:13:57,799 --> 00:13:59,733
+Parada! Polícia de Gotham.
+
+211
+00:13:59,734 --> 00:14:02,091
+<i>Eu acho que não.</i>
+
+212
+00:14:02,823 --> 00:14:04,763
+Está me zoando, porra?
+
+213
+00:14:10,249 --> 00:14:14,724
+<i>Só fazia 6 horas desde
+o meu incidente na Ace Chemicals</i>
+
+214
+00:14:14,725 --> 00:14:18,524
+<i>onde anunciei ao mundo
+que o sr. C e eu terminamos.</i>
+
+215
+00:14:18,525 --> 00:14:22,949
+<i>A imunidade que tinha desfrutado
+por tanto tempo, se foi.</i>
+
+216
+00:14:23,449 --> 00:14:26,449
+<i>Policiais que não ousariam
+vir atrás de mim antes,</i>
+
+217
+00:14:26,450 --> 00:14:28,199
+<i>estavam fazendo isso agora.</i>
+
+218
+00:14:35,749 --> 00:14:37,149
+Parada!
+
+219
+00:14:37,150 --> 00:14:40,049
+<i>E sabe o pior?
+Cada pessoa que eu sacaneei,</i>
+
+220
+00:14:40,050 --> 00:14:43,099
+<i>agora se sentia livre
+para vir e tirar satisfação.</i>
+
+221
+00:14:47,449 --> 00:14:49,424
+NOME:
+PATINADORA BURRA
+
+222
+00:14:49,425 --> 00:14:51,449
+QUEIXA:
+NARIZ QUEBRADO
+
+223
+00:14:59,499 --> 00:15:02,574
+<i>Acontece que eu sacaneei
+muitas pessoas.</i>
+
+224
+00:15:02,575 --> 00:15:04,749
+NOME:
+RALPH MURRAY
+
+225
+00:15:04,750 --> 00:15:06,549
+Venha, garotão. Pegue ele!
+
+226
+00:15:06,550 --> 00:15:08,200
+QUEIXA:
+A HIENA COMEU O IRMÃO DELE
+
+227
+00:15:24,599 --> 00:15:26,099
+Finalmente.
+
+228
+00:15:29,699 --> 00:15:31,499
+NOME:
+MOTORISTA DO SENHOR SIONIS
+
+229
+00:15:32,849 --> 00:15:35,374
+QUEIXA:
+FERIMENTOS LEVES NAS PERNAS
+
+230
+00:15:35,375 --> 00:15:37,799
+<i>- E depois...</i>
+- Vai ficar tudo bem, certo?
+
+231
+00:15:37,800 --> 00:15:39,549
+<i>Aconteceu uma tragédia.</i>
+
+232
+00:15:50,049 --> 00:15:53,974
+<i>Foi preciso perder algo
+que eu realmente amava,</i>
+
+233
+00:15:53,975 --> 00:15:56,999
+<i>para perceber
+que o alvo nas minhas costas</i>
+
+234
+00:15:57,000 --> 00:15:59,049
+<i>era bem maior
+do que eu pensava.</i>
+
+235
+00:15:59,949 --> 00:16:01,349
+Parada!
+
+236
+00:16:01,649 --> 00:16:04,074
+<i>Com o cerco se fechando
+à minha volta,</i>
+
+237
+00:16:04,075 --> 00:16:08,149
+<i>fiz uma jogada calculadíssima
+e altamente estratégica.</i>
+
+238
+00:16:16,549 --> 00:16:20,024
+<i>Está bem. Foi pura sorte.
+Mas ainda sim...</i>
+
+239
+00:16:20,025 --> 00:16:21,599
+Eu mandei bem demais.
+
+240
+00:16:24,599 --> 00:16:28,199
+Desculpe por invadir sua casa,
+mas obrigada pelo atalho.
+
+241
+00:16:28,200 --> 00:16:31,449
+- Tchauzinho.
+- Aí está você.
+
+242
+00:16:31,899 --> 00:16:34,599
+- Arlequina.
+- Sim?
+
+243
+00:16:35,349 --> 00:16:38,749
+- Esperei muito por isso.
+- Esperou?
+
+244
+00:16:40,849 --> 00:16:43,049
+Ainda não tomei
+meu café da manhã.
+
+245
+00:16:43,749 --> 00:16:45,549
+O que eu fiz com você?
+
+246
+00:16:45,550 --> 00:16:47,299
+É sério?
+
+247
+00:16:48,349 --> 00:16:50,349
+Olhe para a minha cara.
+
+248
+00:16:50,749 --> 00:16:53,524
+Olhe para a minha cara!
+
+249
+00:16:53,525 --> 00:16:55,174
+NOME:
+"FELIZ"
+
+250
+00:16:55,175 --> 00:16:58,249
+QUEIXA:
+VANDALISMO ESTÉTICO
+
+251
+00:17:01,899 --> 00:17:05,049
+- Não fui eu.
+- Mas desafiou ele a fazer.
+
+252
+00:17:05,050 --> 00:17:07,674
+Mas desafio muitas pessoas
+a fazerem muitas coisas.
+
+253
+00:17:07,675 --> 00:17:10,199
+- Nem estou mais com ele.
+- Eu sei.
+
+254
+00:17:10,499 --> 00:17:14,949
+Isso significa
+que ninguém vai me impedir.
+
+255
+00:17:16,449 --> 00:17:18,249
+- Entendi.
+- Vai morrer, Arlequina.
+
+256
+00:17:18,250 --> 00:17:19,650
+Olha, uma moeda.
+
+257
+00:17:24,934 --> 00:17:27,131
+Estão atirando
+flechas agora?
+
+258
+00:17:28,658 --> 00:17:31,278
+NOME: ???
+QUEIXA: ???
+
+259
+00:17:37,564 --> 00:17:40,048
+Merda. Ele também?
+
+260
+00:17:50,291 --> 00:17:51,691
+Eu me rendo!
+
+261
+00:17:54,741 --> 00:17:58,205
+Caramba, Montoya,
+está fedendo como um rato.
+
+262
+00:17:58,206 --> 00:18:00,914
+- Hoje não, Simpson.
+- É Detetive Montoya.
+
+263
+00:18:00,915 --> 00:18:03,500
+Respeite os mais velhos.
+Quer dizer, os superiores.
+
+264
+00:18:04,028 --> 00:18:05,586
+Sou só um pouco mais velha
+
+265
+00:18:05,587 --> 00:18:08,139
+e você ainda está nesse cargo.
+Quer falar disso?
+
+266
+00:18:08,140 --> 00:18:09,907
+Vamos, esvazie os bolsos.
+Tire tudo.
+
+267
+00:18:09,908 --> 00:18:12,729
+Cassandra Cain, já voltou?
+
+268
+00:18:12,730 --> 00:18:15,536
+A esse ponto,
+pensei que não seria mais pega.
+
+269
+00:18:17,324 --> 00:18:18,724
+O quê? Não vai retrucar?
+
+270
+00:18:22,043 --> 00:18:23,443
+Você está bem?
+
+271
+00:18:24,559 --> 00:18:26,506
+Você está cheirando a merda.
+
+272
+00:18:28,927 --> 00:18:30,404
+Ei, Simpson.
+
+273
+00:18:31,309 --> 00:18:33,922
+Tem roupas limpas
+nos Achados e Perdidos?
+
+274
+00:18:35,937 --> 00:18:39,809
+São acusações bem sérias,
+srta. Montoya.
+
+275
+00:18:39,810 --> 00:18:43,297
+A família Sioni está em metade
+de museus e escolas de Gotham.
+
+276
+00:18:43,298 --> 00:18:45,876
+E isso faz ele imune à lei,
+capitão?
+
+277
+00:18:45,877 --> 00:18:49,444
+<i>O dia de Montoya
+está tão ruim quanto o meu.</i>
+
+278
+00:18:49,445 --> 00:18:51,995
+<i>Lembra do cara que roubou
+a promoção dela?</i>
+
+279
+00:18:51,996 --> 00:18:54,922
+<i>- Esse é o cara.</i>
+- Ele mandou matar 4 pessoas.
+
+280
+00:18:54,923 --> 00:18:57,264
+Se Sionis é tão esperto,
+
+281
+00:18:57,265 --> 00:18:59,071
+como foi demitido
+da própria empresa?
+
+282
+00:18:59,072 --> 00:19:02,144
+A Corporação Janus é a empresa
+do pai dele, obrigada.
+
+283
+00:19:02,145 --> 00:19:04,582
+Aliás, cortaram ele.
+
+284
+00:19:04,583 --> 00:19:06,966
+Qual a opinião da promotoria
+sobre isso?
+
+285
+00:19:06,967 --> 00:19:10,636
+<i>Para piorar as coisas:
+a promotora é ex-namorada dela.</i>
+
+286
+00:19:10,637 --> 00:19:13,218
+As evidências que Sioni
+está envolvido nas mortes...
+
+287
+00:19:13,219 --> 00:19:14,847
+Há uma remessa chegando.
+
+288
+00:19:15,257 --> 00:19:17,141
+- Drogas? Um diamante?
+- Um diamante.
+
+289
+00:19:17,142 --> 00:19:19,590
+Caramba, Montoya.
+Vamos chamar o FBI para ajudar?
+
+290
+00:19:19,591 --> 00:19:22,689
+Tenho um informante na boate.
+O motorista dele.
+
+291
+00:19:22,690 --> 00:19:25,017
+Disse que Roman não parava
+de falar sobre isso.
+
+292
+00:19:25,018 --> 00:19:27,434
+E disse que ouviu algo
+sobre codificação a laser.
+
+293
+00:19:27,435 --> 00:19:28,936
+Eu fiz algumas pesquisas.
+
+294
+00:19:28,937 --> 00:19:31,886
+Acho que é o diamante
+de Bertinelli.
+
+295
+00:19:31,887 --> 00:19:34,436
+Lembra-se do massacre
+dos Bertinelli, certo?
+
+296
+00:19:34,437 --> 00:19:38,118
+<i>Lição de história rápida.
+Há quinze anos, uma das famílias</i>
+
+297
+00:19:38,119 --> 00:19:40,561
+<i>mais ricas da máfia de Gotham
+foi morta a tiros.</i>
+
+298
+00:19:40,562 --> 00:19:43,394
+<i>Foi uma guerra de poder,
+mas o verdadeiro alvo</i>
+
+299
+00:19:43,395 --> 00:19:47,505
+<i>eram as contas bancárias
+super secretas dos Bertinellis,</i>
+
+300
+00:19:47,506 --> 00:19:50,793
+<i>cujos detalhes foram codificados
+na estrutura atômica</i>
+
+301
+00:19:50,794 --> 00:19:54,930
+<i>de um diamante de 30 quilates.
+A pedra estava perdida.</i>
+
+302
+00:19:54,931 --> 00:19:58,183
+<i>E com ela, a única chave
+para a fortuna dos Bertinelli.</i>
+
+303
+00:19:58,184 --> 00:20:03,079
+Por isso que Roman Sionis
+quer colocar as mãos nele.
+
+304
+00:20:03,080 --> 00:20:06,514
+Isso que o torna tão perigoso.
+Está construindo um exército.
+
+305
+00:20:06,515 --> 00:20:09,514
+Se conseguir o diamante,
+ele terá dinheiro e contatos
+
+306
+00:20:09,515 --> 00:20:13,508
+para subornar as autoridades
+e obter monopólio da cidade.
+
+307
+00:20:13,509 --> 00:20:17,567
+- Disse que tinha um infiltrado?
+- Sim. Ele é...
+
+308
+00:20:17,568 --> 00:20:19,411
+NÚMERO DESCONHECIDO
+
+309
+00:20:19,412 --> 00:20:22,649
+- Ele não está mais lá, mas...
+- Então, você não tem nada.
+
+310
+00:20:23,097 --> 00:20:25,776
+Quer perseguir
+uma das famílias mais briguentas
+
+311
+00:20:25,777 --> 00:20:28,012
+e mais ricas de Gotham,
+
+312
+00:20:28,013 --> 00:20:30,662
+e tudo o que tem
+são rumores e palpites?
+
+313
+00:20:31,089 --> 00:20:34,304
+O escritório do promotor
+está investigando também.
+
+314
+00:20:34,305 --> 00:20:37,206
+- Certo, srta. Yee?
+- Se o promotor estiver disposto
+
+315
+00:20:37,207 --> 00:20:41,338
+- a tomar frente, tudo bem.
+- Capitão, não.
+
+316
+00:20:41,339 --> 00:20:46,025
+Munroe, encontre uma ligação
+com Sionis, certo?
+
+317
+00:20:46,026 --> 00:20:47,986
+- Sim, senhor.
+- Espere. Capitão.
+
+318
+00:20:47,987 --> 00:20:50,939
+Este é o meu caso, entendido?
+Trabalho nisso há seis meses.
+
+319
+00:20:50,940 --> 00:20:55,296
+Precisamos de algo
+que possamos usar, detetive.
+
+320
+00:20:55,778 --> 00:20:57,749
+Montoya, temos um código
+de vestimenta.
+
+321
+00:20:57,750 --> 00:20:59,608
+DEPILEI MINHAS BOLAS
+PARA ISSO?
+
+322
+00:21:02,244 --> 00:21:03,917
+Sinto muito por isso.
+
+323
+00:21:03,918 --> 00:21:07,087
+Está destruindo meu trabalho.
+O que há com você, Renée?
+
+324
+00:21:07,088 --> 00:21:09,849
+- Comigo? Ele tirou meu caso.
+- Pobre Renée.
+
+325
+00:21:09,850 --> 00:21:12,073
+Por que não enche a cara?
+É quase meio-dia.
+
+326
+00:21:12,074 --> 00:21:13,474
+Nossa!
+
+327
+00:21:15,949 --> 00:21:18,925
+Quem diabos está ligando?
+O que foi?
+
+328
+00:21:18,926 --> 00:21:22,029
+<i>Por que não atende o celular?
+Temos um problema.</i>
+
+329
+00:21:22,030 --> 00:21:24,768
+- Que problema?
+<i>- Você não ouviu de mim,</i>
+
+330
+00:21:24,769 --> 00:21:27,188
+mas precisa encontrá-la
+antes que alguém o faça.
+
+331
+00:21:27,189 --> 00:21:29,477
+Ela está com o diamante
+<i>e Roman a matará.</i>
+
+332
+00:21:29,478 --> 00:21:32,618
+- Meu diamante? Está com quem?
+- <i>Uma garota.</i>
+
+333
+00:21:32,619 --> 00:21:35,469
+Ela é batedora de carteiras.
+O nome dela é Cassandra Cain.
+
+334
+00:21:35,470 --> 00:21:37,349
+Puta merda.
+
+335
+00:21:48,424 --> 00:21:50,900
+- Posso ajudar?
+- Sim, Sim. Você pode.
+
+336
+00:21:50,901 --> 00:21:53,736
+Estou aqui para denunciar
+um crime terrível.
+
+337
+00:21:54,760 --> 00:21:56,885
+E que crime terrível é esse?
+
+338
+00:21:59,195 --> 00:22:00,595
+Este.
+
+339
+00:22:18,142 --> 00:22:19,600
+Olá, meninos.
+
+340
+00:22:24,422 --> 00:22:25,990
+A reunião acabou.
+
+341
+00:23:24,113 --> 00:23:26,459
+Corra, polícia, corra.
+
+342
+00:23:34,469 --> 00:23:36,482
+Onde posso encontrar
+Cassandra Cain?
+
+343
+00:23:38,141 --> 00:23:42,244
+<i>Espere, espere.
+Contei errado. Vamos voltar.</i>
+
+344
+00:23:42,245 --> 00:23:45,646
+<i>Para entender porque eu, a tira
+e a moça no banheiro...</i>
+
+345
+00:23:45,647 --> 00:23:47,047
+Ela se chama Cassandra Cain.
+
+346
+00:23:47,048 --> 00:23:49,930
+<i>Estamos procurando
+essa personagem Cain.</i>
+
+347
+00:23:49,931 --> 00:23:51,990
+<i>Preciso te levar de volta
+alguns dias.</i>
+
+348
+00:23:52,457 --> 00:23:56,106
+<i>Na noite que enchi a cara
+no Clube do Máscara Negra.</i>
+
+349
+00:23:56,107 --> 00:23:58,448
+UMA SEMANA ATRÁS
+
+350
+00:23:58,449 --> 00:24:02,636
+<i>Este é um mundo dos homens</i>
+
+351
+00:24:06,071 --> 00:24:11,071
+<i>Este é um mundo dos homens</i>
+
+352
+00:24:11,491 --> 00:24:15,420
+<i>- Essa é Dinah Lance.
+- Mas não seria nada</i>
+
+353
+00:24:15,421 --> 00:24:20,421
+<i>- Mas ela prefere Canário Negro.
+- Nada</i>
+
+354
+00:24:20,422 --> 00:24:24,619
+<i>- Ela tem uma voz de matar.
+- Sem uma mulher ou uma menina</i>
+
+355
+00:24:24,620 --> 00:24:27,495
+<i>Mas havia outra coisa
+acontecendo naquela noite.</i>
+
+356
+00:24:28,595 --> 00:24:31,148
+Não estou falando
+de parcerias superficiais.
+
+357
+00:24:31,149 --> 00:24:35,338
+Estou falando de você e eu
+cuidando um do outro.
+
+358
+00:24:35,339 --> 00:24:39,180
+Os Leões Dourados não podem
+entrar no Banco de Gotham.
+
+359
+00:24:39,181 --> 00:24:43,708
+Eu posso. Empréstimos, liquidez,
+lavagem de dinheiro.
+
+360
+00:24:43,709 --> 00:24:46,815
+Se você trouxer seus homens
+para me apoiar,
+
+361
+00:24:46,816 --> 00:24:50,053
+não há limites
+para o que alcançaríamos juntos.
+
+362
+00:24:50,054 --> 00:24:52,827
+Estou construindo
+algo especial.
+
+363
+00:24:52,828 --> 00:24:55,579
+Agradeço sua oferta,
+sr. Sionis.
+
+364
+00:24:55,580 --> 00:24:59,163
+Mas com todo o respeito,
+
+365
+00:24:59,164 --> 00:25:01,630
+os Leões Dourados
+são uma empresa familiar.
+
+366
+00:25:01,631 --> 00:25:04,775
+Foda-se a família.
+Respeito, mas foda-se.
+
+367
+00:25:04,776 --> 00:25:07,565
+Família é uma puta ilusão.
+Sabe o que ganhei da minha?
+
+368
+00:25:07,566 --> 00:25:12,169
+Nada. Sei o que todo mundo diz.
+"Olha lá o Roman Sionis".
+
+369
+00:25:12,170 --> 00:25:14,300
+"Ele é mimado.
+Nasceu em berço de ouro".
+
+370
+00:25:14,301 --> 00:25:16,663
+"Criado no leite com pera.
+Tem tudo o que quer".
+
+371
+00:25:16,664 --> 00:25:19,599
+Blá, blá, blá.
+Foda-se, porra.
+
+372
+00:25:20,659 --> 00:25:23,526
+Mas olhe para mim agora.
+
+373
+00:25:23,527 --> 00:25:28,117
+Localizei o diamante Bertinelli.
+Estou prestes a ter esta cidade.
+
+374
+00:25:28,118 --> 00:25:32,086
+Não apenas da Zona Leste.
+Estou pensando grande, querido.
+
+375
+00:25:32,087 --> 00:25:33,968
+E eu quero você lá comigo.
+
+376
+00:25:34,823 --> 00:25:36,807
+Poderíamos formar
+nossa própria família.
+
+377
+00:25:36,808 --> 00:25:39,521
+Sr. Sionis,
+os Leões Dourados operam
+
+378
+00:25:39,522 --> 00:25:41,922
+em Gotham há quase 100 anos.
+
+379
+00:25:42,848 --> 00:25:45,448
+Não precisamos
+da sua proteção.
+
+380
+00:25:45,449 --> 00:25:47,429
+<i>Ele vai se arrepender disso.</i>
+
+381
+00:25:56,569 --> 00:25:59,174
+Pode pensar no assunto?
+Faz isso por mim?
+
+382
+00:25:59,175 --> 00:26:01,116
+Converse
+com sua linda esposa,
+
+383
+00:26:01,117 --> 00:26:04,227
+e te vejo nas docas,
+depois de amanhã. Certo?
+
+384
+00:26:11,275 --> 00:26:15,879
+<i>Este é um mundo dos homens</i>
+
+385
+00:26:16,619 --> 00:26:18,694
+<i>Não seria nada</i>
+
+386
+00:26:18,982 --> 00:26:21,513
+<i>Sem uma mulher ou uma menina</i>
+
+387
+00:26:21,514 --> 00:26:24,620
+Quem está se divertindo?
+Você.
+
+388
+00:26:24,621 --> 00:26:27,944
+<i>- Perdido no deserto...</i>
+- A comida está boa?
+
+389
+00:26:27,945 --> 00:26:31,127
+- Precisam de mais coquetéis?
+<i>- Perdido na amargura...</i>
+
+390
+00:26:31,128 --> 00:26:36,128
+- Saúde.
+<i>- Ele está perdido na solidão</i>
+
+391
+00:26:36,136 --> 00:26:39,054
+<i>Ele está perdido</i>
+
+392
+00:26:39,055 --> 00:26:42,702
+<i>Este é um mundo dos homens</i>
+
+393
+00:26:42,703 --> 00:26:46,000
+<i>Não seria nada</i>
+
+394
+00:26:54,619 --> 00:26:59,109
+<i>Sem uma mulher ou uma menina</i>
+
+395
+00:27:01,402 --> 00:27:04,116
+<i>Canário canta no clube
+de Roman há anos.</i>
+
+396
+00:27:04,117 --> 00:27:07,330
+- Vamos!
+<i>- Ele a chama de passarinho,</i>
+
+397
+00:27:07,331 --> 00:27:10,867
+<i>e a mantém bem na palma
+da mão dele.</i>
+
+398
+00:27:10,868 --> 00:27:12,389
+ARLEQUINA/MATADORA
+PSIQUIATRA
+
+399
+00:27:12,390 --> 00:27:14,675
+CAÇA-RECOMPENSAS
+PASSEADORA DE CÃES/MERSENÁRIA
+
+400
+00:27:15,915 --> 00:27:18,680
+- Aqui está, Canário.
+- Valeu.
+
+401
+00:27:19,570 --> 00:27:22,415
+Como se escreve
+"mercenário"?
+
+402
+00:27:22,989 --> 00:27:24,564
+"Mercenáriu"...
+
+403
+00:27:26,217 --> 00:27:27,806
+"Mersenário"?
+
+404
+00:27:33,852 --> 00:27:36,033
+Senhora Cantora!
+
+405
+00:27:36,333 --> 00:27:39,174
+Você é muito, muito boa.
+
+406
+00:27:39,175 --> 00:27:40,575
+É.
+
+407
+00:27:46,347 --> 00:27:47,931
+Você sabe
+o que é um arlequim?
+
+408
+00:27:50,798 --> 00:27:53,419
+Um palhaço patético
+com uma maquiagem derrubada?
+
+409
+00:27:55,379 --> 00:27:56,842
+Doeu.
+
+410
+00:28:00,379 --> 00:28:02,400
+O trabalho de um arlequim...
+
+411
+00:28:04,295 --> 00:28:05,983
+É servir.
+
+412
+00:28:06,781 --> 00:28:08,282
+Um público.
+
+413
+00:28:08,933 --> 00:28:10,392
+Um mestre.
+
+414
+00:28:13,420 --> 00:28:16,389
+Sabe, um arlequim não é nada
+sem um mestre.
+
+415
+00:28:18,954 --> 00:28:23,520
+E ninguém liga
+para quem somos além disso.
+
+416
+00:28:32,400 --> 00:28:35,280
+Não sei quem você acha que sou,
+mas não sou ela.
+
+417
+00:28:38,116 --> 00:28:39,737
+O Pudinzinho e eu
+terminamos.
+
+418
+00:28:47,189 --> 00:28:49,183
+Eu não contei isso
+a ninguém.
+
+419
+00:28:51,337 --> 00:28:52,936
+Pois é.
+
+420
+00:28:53,368 --> 00:28:54,818
+Para sempre, desta vez.
+
+421
+00:28:57,264 --> 00:29:00,789
+E pela primeira vez,
+em um longo tempo,
+
+422
+00:29:02,222 --> 00:29:03,814
+estou totalmente solitária.
+
+423
+00:29:08,581 --> 00:29:10,062
+É ótimo.
+
+424
+00:29:13,420 --> 00:29:15,136
+Bem-vinda ao clube.
+
+425
+00:29:16,410 --> 00:29:18,367
+Obrigada.
+
+426
+00:29:18,368 --> 00:29:22,071
+Não fique solitária.
+Que tal outro drinque?
+
+427
+00:29:22,379 --> 00:29:24,336
+- Sim!
+- Mesmo?
+
+428
+00:29:24,337 --> 00:29:26,221
+- Sim.
+- Eu pago.
+
+429
+00:29:26,222 --> 00:29:28,685
+- Claro. Bebidas!
+- Duas doses.
+
+430
+00:29:42,347 --> 00:29:43,814
+Estamos de boa aqui.
+
+431
+00:29:58,181 --> 00:30:00,346
+- Não quero ir para casa.
+- Não? Não.
+
+432
+00:30:00,347 --> 00:30:01,763
+Não.
+
+433
+00:30:03,712 --> 00:30:05,857
+<i>Me avisa se for vomitar.</i>
+
+434
+00:30:06,546 --> 00:30:08,957
+Sua carruagem chegou.
+Boa.
+
+435
+00:30:08,958 --> 00:30:12,294
+<i>- Vamos tomar café da manhã?
+- Amigo, vou precisar de ajuda.</i>
+
+436
+00:30:12,295 --> 00:30:14,651
+<i>Esse é meu amigo.
+O que eu te falei...</i>
+
+437
+00:30:14,652 --> 00:30:17,911
+<i>- Abre a porta, cara. Boa.
+- Espera.</i>
+
+438
+00:30:18,937 --> 00:30:21,588
+- Não é a namorada do Coringa?
+- Não é mais.
+
+439
+00:30:21,589 --> 00:30:23,313
+Tem espaço para mais uma?
+
+440
+00:30:29,047 --> 00:30:32,138
+Não preciso de sua ajuda.
+Pode deixar comigo.
+
+441
+00:30:32,825 --> 00:30:35,485
+Você cuida disso?
+Tem certeza?
+
+442
+00:30:35,912 --> 00:30:38,012
+Por isso
+que todos te odeiam.
+
+443
+00:30:52,854 --> 00:30:54,254
+Você consegue!
+
+444
+00:30:55,391 --> 00:30:57,954
+Seu filho da puta!
+
+445
+00:31:05,333 --> 00:31:07,779
+Ora, ora, ora.
+
+446
+00:31:08,116 --> 00:31:10,678
+Aquela é nossa pequena
+srta. Lance?
+
+447
+00:31:11,279 --> 00:31:14,029
+E eu sempre achei que ela
+só fosse um rosto bonito
+
+448
+00:31:14,030 --> 00:31:15,493
+e um bom conjunto
+de pulmões.
+
+449
+00:31:18,995 --> 00:31:23,358
+Sr. Zsasz,
+tive uma ideia maravilhosa.
+
+450
+00:31:31,168 --> 00:31:33,116
+Aquele é meu passarinho.
+
+451
+00:31:36,116 --> 00:31:39,589
+Não toque
+no que não pode pagar, senhor.
+
+452
+00:31:40,133 --> 00:31:41,533
+Cale a boca.
+
+453
+00:31:42,922 --> 00:31:45,427
+Passarinho.
+
+454
+00:31:46,095 --> 00:31:48,364
+Você dirige tão bem
+quanto luta?
+
+455
+00:31:50,902 --> 00:31:53,563
+- Quem quer saber?
+- O chefe.
+
+456
+00:31:53,964 --> 00:31:55,564
+Você está sendo promovida.
+
+457
+00:31:58,420 --> 00:32:01,084
+- Você é a nova motorista dele.
+- Valeu,
+
+458
+00:32:01,085 --> 00:32:04,094
+mas estou de boa
+com o trampo de cantora.
+
+459
+00:32:04,095 --> 00:32:06,269
+Vai ficar de boa
+com o trampo de motorista.
+
+460
+00:32:07,227 --> 00:32:11,409
+Esteja aqui amanhã.
+Às 9h. Em ponto.
+
+461
+00:32:11,710 --> 00:32:14,305
+<i>Então, foi assim que o Canário
+arrumou um emprego,</i>
+
+462
+00:32:14,306 --> 00:32:16,789
+<i>dirigindo para o mais novo
+chefão de Gotham.</i>
+
+463
+00:32:17,558 --> 00:32:20,788
+<i>Um cargo, devo acrescentar,
+que não estaria vago</i>
+
+464
+00:32:20,789 --> 00:32:23,375
+<i>sem a ajuda
+dessa que vos fala.</i>
+
+465
+00:32:30,379 --> 00:32:31,779
+Bom dia.
+
+466
+00:32:42,646 --> 00:32:46,395
+<i>- Foi você que quis a garota!
+- Eu nunca a quis!</i>
+
+467
+00:32:48,500 --> 00:32:50,295
+Deixe-me adivinhar.
+Seus pais?
+
+468
+00:32:50,864 --> 00:32:53,235
+- Pais adotivos.
+- Certo.
+
+469
+00:32:54,236 --> 00:32:55,766
+Sinto muito, garota.
+
+470
+00:32:56,367 --> 00:32:58,298
+Sinto muito pela sua cara.
+
+471
+00:32:59,105 --> 00:33:02,010
+Merda, você está mesmo
+com a cara zoada.
+
+472
+00:33:02,711 --> 00:33:04,573
+Deveria ter visto
+o outro cara.
+
+473
+00:33:09,557 --> 00:33:11,910
+<i>Quero aquela menina
+fora da porra da minha casa!</i>
+
+474
+00:33:11,911 --> 00:33:14,147
+Sabe garota, nem todos os dias
+serão assim.
+
+475
+00:33:15,031 --> 00:33:16,664
+Você só tem aguentar firme.
+
+476
+00:33:23,596 --> 00:33:25,056
+Compre algo para comer.
+
+477
+00:33:26,846 --> 00:33:29,934
+Fique fora disso.
+Não vale a pena.
+
+478
+00:33:42,617 --> 00:33:44,470
+<i>Canário passou
+a semana seguinte</i>
+
+479
+00:33:44,471 --> 00:33:48,007
+<i>se adaptando no novo trabalho
+como motorista pessoal de Roman.</i>
+
+480
+00:33:58,054 --> 00:33:59,875
+- Está bem.
+<i>- O que ela não sabia</i>
+
+481
+00:33:59,876 --> 00:34:04,076
+<i>é que o sr. Esfola-caras
+iria colocá-la bem na mira</i>
+
+482
+00:34:04,077 --> 00:34:06,658
+<i>da minha policial favorita.</i>
+
+483
+00:34:07,258 --> 00:34:09,946
+- Dinah Lance?
+- Quem é você?
+
+484
+00:34:09,947 --> 00:34:13,923
+Sou a detetive Renee Montoya,
+da Polícia de Gotham.
+
+485
+00:34:15,870 --> 00:34:19,896
+Seu antecessor e eu
+tínhamos um acordo.
+
+486
+00:34:19,897 --> 00:34:21,385
+Jura?
+
+487
+00:34:21,586 --> 00:34:24,187
+Ele me disse que tinha
+uma encomenda chegando.
+
+488
+00:34:24,188 --> 00:34:25,742
+Um diamante.
+
+489
+00:34:25,743 --> 00:34:28,430
+Um diamante muito especial.
+
+490
+00:34:29,258 --> 00:34:32,945
+Não estou interessada.
+Valeu pelo café.
+
+491
+00:34:34,109 --> 00:34:36,174
+Você sabe para quem
+está trabalhando?
+
+492
+00:34:36,659 --> 00:34:39,033
+Sei, ele é o cara
+que me deu um trabalho
+
+493
+00:34:39,034 --> 00:34:40,487
+e me tirou das ruas.
+
+494
+00:34:40,488 --> 00:34:43,371
+Ele é um cara
+muito perigoso.
+
+495
+00:34:43,372 --> 00:34:45,807
+Um criminoso. Um assassino.
+
+496
+00:34:45,808 --> 00:34:48,938
+O que sua mãe pensaria de você
+trabalhando para um cara assim?
+
+497
+00:34:49,534 --> 00:34:51,814
+Você tem o mesmo poder
+que ela tinha.
+
+498
+00:34:51,815 --> 00:34:53,658
+Ela não ia querer
+que você o usasse?
+
+499
+00:34:53,659 --> 00:34:55,637
+O que você sabe
+sobre minha mãe?
+
+500
+00:34:55,638 --> 00:34:58,461
+Antigamente,
+ela costumava ajudar a polícia.
+
+501
+00:34:58,669 --> 00:35:01,048
+- Ela era uma boa mulher.
+- Sim.
+
+502
+00:35:01,565 --> 00:35:03,647
+Ela era uma mulher
+muito boa.
+
+503
+00:35:03,648 --> 00:35:07,445
+O tipo que coloca a vida
+dos outros à frente da dela.
+
+504
+00:35:07,446 --> 00:35:10,616
+Quando ela foi encontrada
+morta na rua,
+
+505
+00:35:10,617 --> 00:35:13,588
+onde você e seus amigos
+de azul estavam?
+
+506
+00:35:14,659 --> 00:35:18,403
+Agora você vem na minha porta
+e pede para mim te ajudar
+
+507
+00:35:18,648 --> 00:35:21,194
+e cometer o mesmo erro dela?
+
+508
+00:35:23,815 --> 00:35:25,513
+Boa sorte com isso.
+
+509
+00:35:26,656 --> 00:35:30,504
+É justo.
+Sinto muito pela sua perda.
+
+510
+00:35:31,855 --> 00:35:33,255
+Mas quero que saiba,
+
+511
+00:35:34,407 --> 00:35:38,377
+que isso nunca aconteceria
+comigo no comando.
+
+512
+00:35:40,297 --> 00:35:43,362
+Os Soldados da Sprang Bridge
+fizeram a "capituação".
+
+513
+00:35:43,363 --> 00:35:46,119
+É capitulação.
+É claro que fizeram.
+
+514
+00:35:46,120 --> 00:35:48,851
+Eu te falei que a gangue do Keo
+mandaria uma mensagem.
+
+515
+00:35:49,555 --> 00:35:53,176
+Mandaram mesmo, chefe.
+Mandaram para caralho.
+
+516
+00:35:54,085 --> 00:35:55,997
+A Assassina da Besta…
+
+517
+00:35:56,467 --> 00:36:00,637
+Atacou novamente ontem à noite.
+Rossi e quatro capangas dele.
+
+518
+00:36:00,638 --> 00:36:03,752
+Ninguém mata homens meus
+sem a minha permissão.
+
+519
+00:36:03,753 --> 00:36:05,960
+Por que essa moça da besta
+não sabe disso?
+
+520
+00:36:05,961 --> 00:36:07,644
+- Você sabe disso.
+- Sim, eu sei.
+
+521
+00:36:07,645 --> 00:36:10,575
+Por que ela não sabe?
+Por que ela não é minha?
+
+522
+00:36:10,576 --> 00:36:12,999
+- Você devia ser dono dela.
+- Eu gosto de bestas.
+
+523
+00:36:13,422 --> 00:36:15,312
+- Bom dia.
+- Bom dia.
+
+524
+00:36:15,313 --> 00:36:16,796
+- Bom dia.
+- Entre,
+
+525
+00:36:16,797 --> 00:36:20,152
+só estamos terminando
+alguns assuntos, olhe ao redor.
+
+526
+00:36:20,153 --> 00:36:21,783
+- Está atrasada.
+- Está tudo bem.
+
+527
+00:36:21,784 --> 00:36:24,273
+Ela deveria voltar outra hora,
+pois está atrasada?
+
+528
+00:36:24,274 --> 00:36:26,982
+Não.
+Não é maravilhosa?
+
+529
+00:36:27,780 --> 00:36:31,385
+Essa é uma máscara Chokwé.
+
+530
+00:36:31,386 --> 00:36:34,204
+A adquiri quando estive
+na tribo Mbangani,
+
+531
+00:36:34,205 --> 00:36:36,596
+na República Democrática
+do Congo. Já esteve lá?
+
+532
+00:36:36,597 --> 00:36:39,079
+Nunca fui lá.
+Ouvi falar que é lindo.
+
+533
+00:36:39,080 --> 00:36:41,467
+É sujo. Venha, olhe isso.
+
+534
+00:36:41,468 --> 00:36:44,637
+Uma cabeça tsantsa
+ou shrunken genuína.
+
+535
+00:36:44,638 --> 00:36:47,049
+Dos Shuar do Equador.
+São ótimas pessoas,
+
+536
+00:36:47,050 --> 00:36:48,450
+surpreendentemente gentis.
+
+537
+00:36:48,451 --> 00:36:50,471
+- Acho que pode gostar deles.
+- Sério?
+
+538
+00:36:50,472 --> 00:36:53,762
+Fervem as cabeças dos inimigos
+e fazem essas miniaturas.
+
+539
+00:36:53,763 --> 00:36:56,281
+Lindas, não são?
+Olhe.
+
+540
+00:36:56,282 --> 00:36:59,554
+Olhe essas orelhinhas.
+E esse corte de cabelo.
+
+541
+00:36:59,555 --> 00:37:01,043
+Isso tem 1000 anos.
+
+542
+00:37:01,044 --> 00:37:03,491
+E agora é só um ornamento
+na minha sala de estar.
+
+543
+00:37:03,913 --> 00:37:05,343
+- Adorei.
+- É mesmo?
+
+544
+00:37:05,344 --> 00:37:07,491
+São modelos antigos
+de acupuntura.
+
+545
+00:37:07,492 --> 00:37:10,144
+Como pode ver, eles têm
+todos os pontos de acupuntura.
+
+546
+00:37:10,145 --> 00:37:12,910
+E os achamos enterrados
+nas montanhas.
+
+547
+00:37:12,911 --> 00:37:16,281
+Explodiram a Ace Chemicals
+ontem à noite.
+
+548
+00:37:16,282 --> 00:37:17,773
+Tudo bem, vamos encontrar
+
+549
+00:37:17,774 --> 00:37:19,422
+a Assassina da Besta.
+Já entendi.
+
+550
+00:37:20,115 --> 00:37:23,585
+- É um modelo de acupuntura?
+- Não é não.
+
+551
+00:37:23,586 --> 00:37:24,986
+É uma estátua minha.
+
+552
+00:37:24,987 --> 00:37:26,483
+Foi feita por uma artista
+
+553
+00:37:26,484 --> 00:37:28,534
+- de Gotham, muito fam…
+- Foi a Arlequina.
+
+554
+00:37:29,486 --> 00:37:31,760
+Uma espécie de "vai se foder"
+para o Coringa.
+
+555
+00:37:32,565 --> 00:37:33,968
+Eles terminaram.
+
+556
+00:37:34,669 --> 00:37:36,697
+Qual o seu problema, Victor?
+
+557
+00:37:37,255 --> 00:37:40,096
+Por que não foi direto
+ao ponto?
+
+558
+00:37:40,597 --> 00:37:43,069
+São notícias espetaculares!
+
+559
+00:37:43,607 --> 00:37:46,049
+Ela não pertence a ele,
+pertence a mim.
+
+560
+00:37:46,050 --> 00:37:48,100
+Mande os rapazes
+a encontrarem. Peguem-na.
+
+561
+00:37:48,101 --> 00:37:49,575
+Tragam-na aqui. Eu a quero.
+
+562
+00:37:49,576 --> 00:37:51,776
+Você, tem algo que quero
+que busque para mim.
+
+563
+00:37:51,777 --> 00:37:54,072
+Algo super-hiper-importante.
+
+564
+00:37:54,073 --> 00:37:56,389
+- Irei com você.
+- Isso, vá com Victor.
+
+565
+00:37:56,390 --> 00:37:58,648
+- É só buscar.
+- Não, ele é inofensivo.
+
+566
+00:37:58,649 --> 00:38:00,997
+Façam o que mandei. Vão.
+
+567
+00:38:15,513 --> 00:38:17,152
+Muito bem. Podemos ir.
+
+568
+00:38:17,153 --> 00:38:19,587
+- Eu fico com isso.
+- O sr. S disse
+
+569
+00:38:19,588 --> 00:38:21,593
+- para ficar comigo.
+- Vá buscar o carro.
+
+570
+00:38:24,182 --> 00:38:25,781
+<i>Essa pedra.</i>
+
+571
+00:38:25,782 --> 00:38:29,157
+<i>Essa pedra decidirá
+se viverei ou não</i>
+
+572
+00:38:29,158 --> 00:38:32,213
+<i>para aproveitar minha
+recente independência.</i>
+
+573
+00:38:35,297 --> 00:38:38,468
+- Me solta.
+- O que está fazendo aqui?
+
+574
+00:38:38,671 --> 00:38:41,647
+Não é a única ganhando dinheiro
+com brancos burros e ricos.
+
+575
+00:38:42,189 --> 00:38:45,943
+Quer saber? Um dia vai bater
+a carteira errada.
+
+576
+00:38:45,944 --> 00:38:47,960
+Está bem, que seja.
+
+577
+00:38:50,785 --> 00:38:52,185
+Criança idiota.
+
+578
+00:38:54,764 --> 00:38:56,364
+Com licença. Desculpe.
+
+579
+00:39:06,723 --> 00:39:08,482
+Gostei muito
+dos seus brincos.
+
+580
+00:39:08,739 --> 00:39:10,185
+Obrigada.
+
+581
+00:39:11,733 --> 00:39:13,333
+Lá está a ladra.
+
+582
+00:39:16,256 --> 00:39:17,657
+Me larguem!
+
+583
+00:39:17,658 --> 00:39:19,816
+Essa garotinha
+pegou meu relógio.
+
+584
+00:39:19,817 --> 00:39:21,853
+Eu não fiz nada.
+
+585
+00:39:24,181 --> 00:39:26,204
+Cadê a porra do diamante?
+
+586
+00:39:26,205 --> 00:39:27,743
+Eu estava com ele.
+
+587
+00:39:27,744 --> 00:39:29,244
+Cass!
+
+588
+00:39:32,681 --> 00:39:34,181
+Espere!
+
+589
+00:39:34,879 --> 00:39:36,279
+Pare!
+
+590
+00:39:36,543 --> 00:39:37,943
+Porra!
+
+591
+00:39:57,906 --> 00:40:02,882
+<i>Nessa coisa de contar histórias,
+essa boneca engolir o diamante</i>
+
+592
+00:40:02,883 --> 00:40:05,372
+<i>é chamado de complicação.</i>
+
+593
+00:40:06,774 --> 00:40:10,250
+<i>Uma complicação que eu
+não precisava exatamente agora.</i>
+
+594
+00:40:13,329 --> 00:40:14,729
+Eu me rendo!
+
+595
+00:40:17,713 --> 00:40:20,815
+- Nós perdemos o diamante.
+- O quê?
+
+596
+00:40:20,816 --> 00:40:22,869
+Sentimos muito, sr. S.
+Essa garota...
+
+597
+00:40:22,870 --> 00:40:24,896
+Nós nunca colocamos
+nossas mãos nele.
+
+598
+00:40:29,245 --> 00:40:31,298
+- Socorro!
+- Saiam todos!
+
+599
+00:40:31,299 --> 00:40:33,660
+Saiam todos daqui!
+Você, também! Caia fora!
+
+600
+00:40:33,661 --> 00:40:37,229
+Com sua maldita sálvia fedorenta
+da minha frente. Vá se foder!
+
+601
+00:40:37,230 --> 00:40:39,887
+- Aqui está ela.
+- Ela é uma criança!
+
+602
+00:40:39,888 --> 00:40:42,236
+- Ela é só uma criança.
+- Ela é... O quê?
+
+603
+00:40:42,237 --> 00:40:44,736
+A Arlequina lá embaixo,
+conforme pediu.
+
+604
+00:40:44,737 --> 00:40:47,859
+Foda-se.
+Saia daqui. Caralho!
+
+605
+00:40:47,860 --> 00:40:51,266
+Porra! Essas são minha coisas.
+Este diamante é meu.
+
+606
+00:40:51,267 --> 00:40:54,829
+Minhas coisas! Caralho!
+Não preciso repetir, preciso?
+
+607
+00:40:54,830 --> 00:40:56,479
+- Não.
+- Por que acontece comigo?
+
+608
+00:40:56,480 --> 00:40:57,880
+Por quê?
+
+609
+00:40:59,168 --> 00:41:03,613
+Vou pegar seu diamante de volta.
+Eu prometo.
+
+610
+00:41:03,614 --> 00:41:05,614
+Por que não descemos
+lá embaixo...
+
+611
+00:41:06,653 --> 00:41:08,668
+E matamos
+aquela puta da Arlequina?
+
+612
+00:41:09,923 --> 00:41:11,836
+Descarregar
+um pouco de energia.
+
+613
+00:41:12,430 --> 00:41:15,121
+Sim, eu queria fazer isso
+há algum tempo.
+
+614
+00:41:16,907 --> 00:41:20,095
+Certo, eu vou me trocar.
+
+615
+00:41:35,174 --> 00:41:36,841
+Merda, Cass.
+
+616
+00:41:42,174 --> 00:41:45,322
+<i>Não ligo para o que é preciso,
+quero meu diamante de volta.</i>
+
+617
+00:41:45,323 --> 00:41:46,848
+<i>Estamos trabalhando nisso.</i>
+
+618
+00:41:47,862 --> 00:41:50,221
+<i>Agora, vamos lá
+pois temos uma pequena diversão.</i>
+
+619
+00:41:55,244 --> 00:41:59,875
+Harleen Quinzel.
+
+620
+00:42:02,785 --> 00:42:04,185
+E aí, Romy.
+
+621
+00:42:05,347 --> 00:42:07,041
+Sabe porque está aqui?
+
+622
+00:42:08,048 --> 00:42:09,899
+<i>Quando se trata
+de mim e Roman Sionis,</i>
+
+623
+00:42:09,900 --> 00:42:12,617
+<i>existem muitas respostas
+possíveis para essa pergunta.</i>
+
+624
+00:42:12,618 --> 00:42:15,750
+<i>Quebrar as pernas do motorista.
+Pronunciar errado "expresso".</i>
+
+625
+00:42:15,751 --> 00:42:18,695
+<i>Ter uma vagina em primeiro lugar
+irrita esse cara.</i>
+
+626
+00:42:22,318 --> 00:42:25,264
+<i>Interrompendo-o constantemente,
+como estou fazendo agora.</i>
+
+627
+00:42:25,265 --> 00:42:27,615
+- Você está aqui porque...
+- Deus, pare.
+
+628
+00:42:27,616 --> 00:42:29,426
+Você fará aquilo
+em que abrirá
+
+629
+00:42:29,427 --> 00:42:31,327
+uma mala
+de dispositivos de tortura
+
+630
+00:42:31,328 --> 00:42:33,092
+enquanto detalha
+inexplicavelmente
+
+631
+00:42:33,093 --> 00:42:35,296
+seu plano mestre
+e como não me encaixo nele.
+
+632
+00:42:35,297 --> 00:42:36,697
+Estou construindo um…
+
+633
+00:42:36,698 --> 00:42:38,466
+Sério, não precisa.
+De verdade!
+
+634
+00:42:38,467 --> 00:42:41,563
+Isso é só porque seu papai
+te chutou da empresa dele.
+
+635
+00:42:41,564 --> 00:42:45,264
+Acha que é um "foda-se",
+mas não está dando certo.
+
+636
+00:42:45,265 --> 00:42:48,692
+Entendi. Não é tão complicado
+quanto pensa.
+
+637
+00:42:48,693 --> 00:42:50,243
+E não é tão esperta
+quanto acha,
+
+638
+00:42:50,244 --> 00:42:53,212
+- pois vou cortar o seu...
+- Jesus Natal.
+
+639
+00:42:53,213 --> 00:42:56,358
+Agora vai dizer que me matará
+para servir de exemplo.
+
+640
+00:42:56,359 --> 00:42:58,963
+- Cristo, você é chato.
+- Eu quero te matar...
+
+641
+00:42:59,329 --> 00:43:02,051
+- Merda.
+- Pois sem o Coringa por perto,
+
+642
+00:43:03,940 --> 00:43:05,340
+eu posso.
+
+643
+00:43:08,286 --> 00:43:10,535
+Apesar de todo
+o barulho e bagunça,
+
+644
+00:43:10,536 --> 00:43:12,871
+você é apenas
+uma garotinha boba
+
+645
+00:43:12,872 --> 00:43:15,017
+sem ninguém por perto
+para protegê-la.
+
+646
+00:43:19,716 --> 00:43:21,503
+- Espere.
+- O quê?
+
+647
+00:43:21,504 --> 00:43:22,933
+- Não me mate.
+- Certo.
+
+648
+00:43:22,934 --> 00:43:24,747
+Não, não, não.
+Sério. Romy.
+
+649
+00:43:25,132 --> 00:43:27,704
+Qual é! Tem que haver algo,
+que possamos fazer.
+
+650
+00:43:29,245 --> 00:43:31,227
+Espera, espera!
+Você perdeu algo, certo?
+
+651
+00:43:31,228 --> 00:43:32,839
+Perdeu algo.
+Eu ouvi você dizer.
+
+652
+00:43:32,840 --> 00:43:34,240
+Um diamante.
+
+653
+00:43:39,499 --> 00:43:41,244
+É.
+
+654
+00:43:41,945 --> 00:43:45,307
+Posso ajudá-lo a encontrar.
+Sério.
+
+655
+00:43:45,519 --> 00:43:47,048
+Olhe no meu bolso.
+
+656
+00:43:50,799 --> 00:43:52,199
+No outro bolso.
+
+657
+00:44:01,234 --> 00:44:03,233
+Estou iniciando
+meu próprio negócio.
+
+658
+00:44:03,234 --> 00:44:04,880
+Viu o que diz?
+O segundo item.
+
+659
+00:44:04,881 --> 00:44:06,281
+CAÇA-RECOMPENSAS
+
+660
+00:44:08,993 --> 00:44:11,454
+Conheço a Zona Leste
+melhor do que ninguém.
+
+661
+00:44:12,024 --> 00:44:14,970
+Quer esse diamante de volta?
+Eu sou sua garota.
+
+662
+00:44:15,182 --> 00:44:17,320
+O sr. C uma vez
+perdeu uma fotografia rara
+
+663
+00:44:17,321 --> 00:44:19,308
+de Eleanor Roosevelt nua,
+e eu a achei
+
+664
+00:44:19,309 --> 00:44:21,223
+num ninho de pássaros
+em Robinson Park.
+
+665
+00:44:21,224 --> 00:44:22,828
+Se me deixar ir,
+
+666
+00:44:23,286 --> 00:44:26,752
+só por enquanto,
+eu recupero seu diamante.
+
+667
+00:44:27,286 --> 00:44:29,707
+O que tem a perder?
+Se o seu pessoal achar antes,
+
+668
+00:44:29,708 --> 00:44:31,739
+juro por Deus,
+você pode me matar depois.
+
+669
+00:44:31,740 --> 00:44:34,223
+Juro de dedinho.
+É de coração, sem enrolação.
+
+670
+00:44:34,224 --> 00:44:35,624
+Você me deixa cansado!
+
+671
+00:44:37,213 --> 00:44:38,713
+Se quiser
+minha misericórdia,
+
+672
+00:44:38,714 --> 00:44:42,285
+feche esse buraco
+no meio da sua cara e ouça.
+
+673
+00:44:42,286 --> 00:44:45,572
+Você vai me trazer
+o meu diamante.
+
+674
+00:44:51,193 --> 00:44:56,171
+<i>Um beijo na mão
+Pode ser bastante elegante</i>
+
+675
+00:44:56,172 --> 00:44:59,728
+<i>Mas diamantes são
+Os melhores amigos de uma garota</i>
+
+676
+00:45:01,120 --> 00:45:03,327
+<i>Um beijo pode ser esplêndido</i>
+
+677
+00:45:03,328 --> 00:45:07,707
+<i>Mas não pagará o aluguel
+No seu humilde apartamento</i>
+
+678
+00:45:08,099 --> 00:45:10,718
+<i>Ou ajudar-lhe nas compras</i>
+
+679
+00:45:13,182 --> 00:45:15,181
+<i>Diamantes</i>
+
+680
+00:45:15,182 --> 00:45:17,233
+<i>- Diamantes
+- Estarei esperando</i>
+
+681
+00:45:17,234 --> 00:45:19,992
+<i>- Diamantes
+- O diamante</i>
+
+682
+00:45:19,993 --> 00:45:21,393
+<i>Diamantes</i>
+
+683
+00:45:21,394 --> 00:45:23,337
+<i>Romy, Roman</i>
+
+684
+00:45:23,338 --> 00:45:25,582
+<i>Estarei esperando</i>
+
+685
+00:45:26,951 --> 00:45:28,351
+<i>Mas diamantes</i>
+
+686
+00:45:28,352 --> 00:45:31,572
+<i>Diamantes são os melhores amigos
+De uma garota</i>
+
+687
+00:45:35,193 --> 00:45:37,593
+Vou te dar até a meia-noite.
+
+688
+00:45:38,255 --> 00:45:41,306
+E então esfolarei
+esse rostinho bonito,
+
+689
+00:45:41,307 --> 00:45:43,434
+e farei conserva dele.
+
+690
+00:45:44,161 --> 00:45:45,561
+Certo?
+
+691
+00:45:48,245 --> 00:45:51,327
+<i>Pode me chamar de antiquada,
+mas sempre achei que o cara</i>
+
+692
+00:45:51,328 --> 00:45:53,645
+<i>é que devia dar um diamante
+para a garota.</i>
+
+693
+00:45:58,628 --> 00:46:01,606
+Não vou decepcioná-lo, Romy.
+<i>Prometo.</i>
+
+694
+00:46:01,607 --> 00:46:03,627
+Vamos colocar meio milhão.
+
+695
+00:46:03,628 --> 00:46:06,339
+Será mais divertido
+se ela tiver concorrência.
+
+696
+00:46:06,340 --> 00:46:09,038
+Envie isso para todos
+os mercenários em Gotham.
+
+697
+00:46:09,513 --> 00:46:11,554
+Você é aquela cantora
+que ninguém escuta.
+
+698
+00:46:11,555 --> 00:46:14,107
+E você é a babaca
+que ninguém gosta.
+
+699
+00:46:27,366 --> 00:46:30,034
+US$ 500 MIL DE RECOMPENSA
+VIVA, MORTA NÃO VALE NADA!
+
+700
+00:46:30,035 --> 00:46:31,544
+DEPILEI MINHAS BOLAS
+PARA ISSO?
+
+701
+00:46:31,545 --> 00:46:34,412
+Jesus, quem é esse caralho?
+O que foi?
+
+702
+00:46:34,413 --> 00:46:37,371
+<i>Temos um problema.
+A garota que pegou o diamante,</i>
+
+703
+00:46:37,372 --> 00:46:39,026
+o nome dela
+é Cassandra Cain.
+
+704
+00:46:39,027 --> 00:46:40,805
+Puta merda.
+
+705
+00:46:43,930 --> 00:46:45,798
+Onde encontro
+a Cassandra Cain?
+
+706
+00:46:45,799 --> 00:46:47,599
+<i>Certo.
+Agora estamos bem.</i>
+
+707
+00:46:51,234 --> 00:46:52,694
+Cela sete.
+
+708
+00:46:57,597 --> 00:46:59,738
+Valeu, querido.
+Você é um anjo.
+
+709
+00:47:02,255 --> 00:47:03,755
+Eu conheço esse cara.
+
+710
+00:47:22,717 --> 00:47:27,653
+<i>Acesso negado.</i>
+
+711
+00:47:30,002 --> 00:47:32,305
+<i>Negado.</i>
+
+712
+00:47:36,612 --> 00:47:38,068
+Perfeito.
+
+713
+00:47:38,688 --> 00:47:41,296
+FALHA NOS SPRINKLERS
+
+714
+00:47:53,764 --> 00:47:57,107
+- Espere. Lembra de mim?
+<i>- Ela roubou meu carro!</i>
+
+715
+00:47:57,108 --> 00:47:59,393
+Arlequina. Solte-nos,
+veja o que acontece.
+
+716
+00:47:59,394 --> 00:48:00,957
+Não se importem comigo,
+pessoal.
+
+717
+00:48:00,958 --> 00:48:02,358
+Você matou minha chinchila!
+
+718
+00:48:02,359 --> 00:48:04,678
+E aí, garota?
+Você é a razão de eu estar aqui!
+
+719
+00:48:04,679 --> 00:48:06,864
+- Desculpe por isso.
+<i>- Você está morta!</i>
+
+720
+00:48:06,865 --> 00:48:09,377
+<i>- Vou te matar, Arlequina!</i>
+- Garota.
+
+721
+00:48:10,412 --> 00:48:13,041
+Você é aquela psicopata
+da patinação?
+
+722
+00:48:13,042 --> 00:48:15,797
+- Você é Cassandra Cain?
+- Sim.
+
+723
+00:48:15,798 --> 00:48:18,015
+FALHA NA TRAVA DAS PORTAS
+
+724
+00:48:27,009 --> 00:48:28,409
+Preciso saber onde...
+
+725
+00:48:39,935 --> 00:48:41,950
+- Espere, por favor.
+- Arlequina...
+
+726
+00:50:08,424 --> 00:50:10,073
+Peguei você, sua merdinha.
+
+727
+00:50:11,464 --> 00:50:12,909
+Quem são vocês?
+
+728
+00:50:14,081 --> 00:50:15,481
+Vá, vá, vá.
+
+729
+00:50:18,364 --> 00:50:19,790
+Deixe a garota viva.
+
+730
+00:52:21,833 --> 00:52:23,239
+Uma ajudinha.
+
+731
+00:52:41,402 --> 00:52:43,550
+Ela precisa
+continuar fugindo?
+
+732
+00:53:12,129 --> 00:53:15,237
+Roman, seu pedaço de merda.
+
+733
+00:53:17,360 --> 00:53:19,700
+- Você!
+- Você!
+
+734
+00:53:19,701 --> 00:53:21,124
+Fique longe da garota.
+
+735
+00:53:22,202 --> 00:53:23,620
+Solte.
+
+736
+00:53:24,455 --> 00:53:25,871
+O celular?
+
+737
+00:53:26,298 --> 00:53:27,752
+Claro.
+
+738
+00:54:04,377 --> 00:54:05,800
+Que bom.
+Você está acordada.
+
+739
+00:54:05,801 --> 00:54:07,487
+Jogue isso para mim,
+pode ser?
+
+740
+00:54:10,403 --> 00:54:11,805
+NOME: UMA FRIDA KAHLO MALUCA
+
+741
+00:54:11,806 --> 00:54:13,206
+QUEIXA: ELA ME ODEIA
+
+742
+00:54:21,260 --> 00:54:23,853
+Que porra é essa?
+
+743
+00:54:23,854 --> 00:54:25,533
+Quem eu acabei de explodir?
+
+744
+00:54:25,534 --> 00:54:27,580
+Ou alguém
+que me quer morta,
+
+745
+00:54:27,581 --> 00:54:30,064
+ou alguém querendo
+a recompensa de US$500 mil
+
+746
+00:54:30,065 --> 00:54:33,938
+- por sua cabeça. Sim.
+- US$500 mil?
+
+747
+00:54:34,365 --> 00:54:37,322
+Pareço valer
+meio milhão de dólares?
+
+748
+00:54:37,323 --> 00:54:39,743
+- Na verdade, não.
+- Você pegou a garota errada.
+
+749
+00:54:39,744 --> 00:54:42,947
+- Agora, me solte.
+- Certo.
+
+750
+00:54:42,948 --> 00:54:44,839
+Assim
+que você me der o diamante.
+
+751
+00:54:44,840 --> 00:54:46,276
+Que diamante?
+
+752
+00:54:52,405 --> 00:54:53,825
+<i>Vá se foder!</i>
+
+753
+00:54:55,647 --> 00:54:57,047
+Olhe para mim.
+
+754
+00:54:59,910 --> 00:55:01,310
+O quê?
+
+755
+00:55:01,311 --> 00:55:03,600
+Eu não sei nada
+sobre nenhum diamante.
+
+756
+00:55:03,601 --> 00:55:06,013
+A inflexão em sua voz,
+como desvia o olhar,
+
+757
+00:55:06,014 --> 00:55:07,810
+e o fato de você
+ser uma ladrazinha,
+
+758
+00:55:07,811 --> 00:55:09,272
+tudo sugere que você sabe.
+
+759
+00:55:09,273 --> 00:55:11,795
+Agora, você pode me dar,
+ou eu posso te entregar
+
+760
+00:55:11,796 --> 00:55:13,314
+para o dono do diamante.
+
+761
+00:55:13,315 --> 00:55:14,765
+Mas confie em mim
+quando digo:
+
+762
+00:55:14,766 --> 00:55:16,719
+não vai gostar
+do que ele fará com você.
+
+763
+00:55:17,369 --> 00:55:19,623
+Agora, entregue.
+
+764
+00:55:20,571 --> 00:55:22,905
+É, não vai dar.
+
+765
+00:55:24,524 --> 00:55:27,187
+- Repete?
+- Eu disse que não posso.
+
+766
+00:55:27,188 --> 00:55:29,797
+- Mais uma vez.
+- Eu não posso dar a você.
+
+767
+00:55:29,798 --> 00:55:32,186
+- Por que não?
+- Porque eu o comi, está bem?
+
+768
+00:55:38,436 --> 00:55:40,325
+LAXANTE
+
+769
+00:55:41,660 --> 00:55:43,444
+O que estamos fazendo aqui?
+
+770
+00:55:43,839 --> 00:55:46,842
+Existem duas maneiras
+para o diamante sair de você.
+
+771
+00:55:47,574 --> 00:55:48,975
+Com isso,
+
+772
+00:55:49,871 --> 00:55:51,287
+ou isso.
+
+773
+00:55:53,967 --> 00:55:55,467
+Foi o que eu pensei.
+
+774
+00:55:55,468 --> 00:55:57,983
+Além disso,
+estou sem mantimentos.
+
+775
+00:56:00,576 --> 00:56:03,194
+Então, há quanto tempo
+você é mercenária?
+
+776
+00:56:04,159 --> 00:56:05,764
+Onde você conseguiu...
+
+777
+00:56:06,159 --> 00:56:08,510
+Você está tão ocupada
+olhando minha mão direita,
+
+778
+00:56:08,511 --> 00:56:10,461
+que você nem pensou
+na minha esquerda...
+
+779
+00:56:10,462 --> 00:56:12,396
+Sua mão esquerda
+está algemada à minha.
+
+780
+00:56:16,858 --> 00:56:18,437
+Vou ter que aprender isso.
+
+781
+00:56:20,021 --> 00:56:21,646
+Podemos levar isso?
+
+782
+00:56:21,647 --> 00:56:24,028
+Não vai tentar fugir, vai?
+
+783
+00:56:24,029 --> 00:56:26,451
+Veja, se tivesse meio milhão
+pela minha cabeça,
+
+784
+00:56:26,452 --> 00:56:29,789
+acho que eu estaria melhor
+com quem não quer me cortar.
+
+785
+00:56:29,790 --> 00:56:33,078
+Está bem. Mas se tentar fugir,
+vou te matar.
+
+786
+00:56:33,079 --> 00:56:35,045
+Não ligo se você é criança.
+
+787
+00:56:37,662 --> 00:56:39,177
+Eu vi isso.
+
+788
+00:56:39,967 --> 00:56:43,031
+Mas sério,
+como você chegou aqui?
+
+789
+00:56:43,032 --> 00:56:46,373
+Comprando em lojas caras,
+
+790
+00:56:46,374 --> 00:56:49,420
+ganhando dinheiro,
+tem o seu próprio negócio.
+
+791
+00:56:50,209 --> 00:56:52,802
+Como fez isso? Me conte.
+
+792
+00:56:52,803 --> 00:56:54,459
+De mulher para mulher.
+
+793
+00:56:54,460 --> 00:56:56,912
+Ser batedora de carteiras
+é legal e tudo mais,
+
+794
+00:56:56,913 --> 00:56:58,428
+mas eu tenho potencial.
+
+795
+00:56:58,429 --> 00:57:00,327
+Como posso ser como você?
+
+796
+00:57:00,636 --> 00:57:03,295
+Digo,
+exceto a parte da loucura.
+
+797
+00:57:03,296 --> 00:57:04,919
+Mas todo o resto.
+
+798
+00:57:04,920 --> 00:57:08,083
+Primeiro, ninguém é como eu.
+
+799
+00:57:08,084 --> 00:57:11,255
+Se quiser chegar perto disso,
+precisa fazer medicina.
+
+800
+00:57:11,256 --> 00:57:12,788
+Virar psiquiatra,
+
+801
+00:57:12,789 --> 00:57:16,030
+trabalhar num asilo.
+Se apaixonar pelo seu paciente,
+
+802
+00:57:16,031 --> 00:57:18,955
+libertar o paciente do asilo.
+Começar uma vida de crime.
+
+803
+00:57:18,956 --> 00:57:21,264
+Pular num tanque químico
+e provar que é louca.
+
+804
+00:57:21,265 --> 00:57:22,665
+Ser presa pelo Batman.
+
+805
+00:57:22,666 --> 00:57:24,816
+Ir para cadeia e sair
+com uma bomba na nuca.
+
+806
+00:57:24,817 --> 00:57:26,467
+Salvar o mundo,
+ser presa de novo,
+
+807
+00:57:26,468 --> 00:57:28,425
+e fugir antes de terminar
+com o maluco…
+
+808
+00:57:28,834 --> 00:57:30,548
+E ficar por conta própria.
+
+809
+00:57:33,502 --> 00:57:34,902
+Segundo...
+
+810
+00:57:35,726 --> 00:57:39,531
+US$ 6 por uma água
+da torneira com um pepino?
+
+811
+00:57:39,532 --> 00:57:40,932
+Isso é loucura.
+
+812
+00:57:41,915 --> 00:57:44,406
+Não estou comprando
+neste mercado.
+
+813
+00:57:45,874 --> 00:57:47,851
+Estou roubando
+este mercado.
+
+814
+00:57:47,852 --> 00:57:50,168
+Considere essa
+sua primeira lição.
+
+815
+00:57:50,468 --> 00:57:52,898
+Pagar é para idiotas.
+
+816
+00:58:00,963 --> 00:58:02,363
+Sai da frente!
+
+817
+00:58:11,185 --> 00:58:14,140
+Esta é a loja do Doc.
+E esse é o Doc.
+
+818
+00:58:14,141 --> 00:58:16,842
+NOME: DOC
+QUEIXA: NENHUMA
+
+819
+00:58:16,843 --> 00:58:18,779
+Flor de Lótus!
+
+820
+00:58:18,780 --> 00:58:21,227
+- Oi, Doc. Como está?
+- Bem.
+
+821
+00:58:21,228 --> 00:58:23,372
+Ele é o vovô tailandês
+que nunca tive.
+
+822
+00:58:23,373 --> 00:58:26,682
+Ele sabe de tudo.
+Não acontece nada aqui,
+
+823
+00:58:26,683 --> 00:58:31,519
+sabe, sem que o Doc saiba.
+Ele é a única pessoa...
+
+824
+00:58:31,520 --> 00:58:33,359
+Que realmente
+se importa comigo.
+
+825
+00:58:33,360 --> 00:58:35,293
+- Me importo?
+- Sim, se importa.
+
+826
+00:58:35,294 --> 00:58:39,178
+Ela fez o pedido 32
+com molho extra por anos.
+
+827
+00:58:39,179 --> 00:58:42,345
+Lição 2,<i> sempre peça
+molho extra no número 32.</i>
+
+828
+00:58:42,346 --> 00:58:44,243
+Para não ter que sentir
+o sabor.
+
+829
+00:58:44,244 --> 00:58:47,253
+Flor de lótus, precisa subir
+antes que alguém te veja.
+
+830
+00:58:47,254 --> 00:58:51,299
+- Estão todos procurando vocês.
+- Nós sabemos.
+
+831
+00:58:52,197 --> 00:58:55,186
+Já disse, se quiser
+respeito dos garotos,
+
+832
+00:58:55,187 --> 00:58:57,659
+precisa demonstrar
+que é séria.
+
+833
+00:58:57,660 --> 00:59:00,701
+Exploda alguma coisa.
+Atire em alguém.
+
+834
+00:59:01,218 --> 00:59:03,795
+Nada atrai a atenção
+dos caras como violência.
+
+835
+00:59:03,796 --> 00:59:06,238
+Feche aquela porta.
+Tranque.
+
+836
+00:59:06,239 --> 00:59:08,691
+Mantenha essas patas
+pegajosas para você.
+
+837
+00:59:19,126 --> 00:59:21,664
+- Esse lugar...
+- Não é muita coisa,
+
+838
+00:59:21,665 --> 00:59:25,311
+- mas é melhor que a prisão.
+- É muito da hora.
+
+839
+00:59:26,483 --> 00:59:29,694
+Porra.
+É uma hiena na banheira?
+
+840
+00:59:29,695 --> 00:59:33,053
+Chamo ele de Bruce
+por causa do gostoso do Wayne.
+
+841
+00:59:33,054 --> 00:59:35,673
+Ele é meu docinho,
+não é?
+
+842
+00:59:35,674 --> 00:59:40,116
+Não é, meu bebezinho?
+Você não é o Brucezinho?
+
+843
+00:59:40,117 --> 00:59:41,757
+Eu te amo.
+
+844
+00:59:43,632 --> 00:59:46,996
+Nunca disse isso.
+Amo vocês igualmente.
+
+845
+00:59:46,997 --> 00:59:50,567
+Quem, aquela?
+É a Cass.
+
+846
+00:59:53,684 --> 00:59:55,684
+Você é tão lindo.
+
+847
+00:59:56,770 --> 00:59:58,386
+Quem é esse?
+
+848
+00:59:59,243 --> 01:00:00,819
+É um castor.
+
+849
+01:00:04,830 --> 01:00:09,087
+Brucezinho quer um mimo?
+
+850
+01:00:10,986 --> 01:00:12,986
+O que é isso?
+
+851
+01:00:16,252 --> 01:00:18,759
+É arte. Não toque.
+
+852
+01:00:21,284 --> 01:00:23,311
+Ele é seu ex,
+ou algo assim?
+
+853
+01:00:23,312 --> 01:00:25,603
+Você não sabe quem ele é?
+
+854
+01:00:26,695 --> 01:00:28,317
+O Coringa.
+
+855
+01:00:28,849 --> 01:00:32,823
+O Palhaço Príncipe do Crime?
+Meu antigo parceiro de loucura?
+
+856
+01:00:32,824 --> 01:00:35,538
+O Arlequim do Ódio?
+O Bobo do Genocídio?
+
+857
+01:00:35,770 --> 01:00:39,224
+- Nunca ouviu falar dele?
+- Bem, parece ser um idiota.
+
+858
+01:00:53,879 --> 01:00:55,279
+Leite.
+
+859
+01:01:05,580 --> 01:01:08,710
+<i>Não estou amolecendo,
+mas tenho de admitir,</i>
+
+860
+01:01:08,990 --> 01:01:11,060
+<i>foi legal ter uma garota
+por perto.</i>
+
+861
+01:01:22,547 --> 01:01:24,966
+Me dê um número 32, picante.
+
+862
+01:01:25,727 --> 01:01:27,127
+Sim, claro.
+
+863
+01:01:30,846 --> 01:01:35,846
+<i>Me disseram que conhece
+toda a escória desta cidade.</i>
+
+864
+01:01:36,237 --> 01:01:39,550
+<i>Preciso que me ajude
+a encontrar alguém.</i>
+
+865
+01:01:43,495 --> 01:01:46,708
+<i>Eu conheço todo mundo,
+exceto você.</i>
+
+866
+01:01:48,600 --> 01:01:51,147
+- Quem é você?
+- Eles me chamam de...
+
+867
+01:01:54,600 --> 01:01:56,609
+<i>Foi mal.
+Eu deveria tê-la apresentado.</i>
+
+868
+01:01:56,610 --> 01:01:58,010
+<i>Vou fazer isso rápido.</i>
+
+869
+01:02:02,364 --> 01:02:07,115
+<i>Conheça a filha do mais rico
+e poderoso mafioso de Gotham.</i>
+
+870
+01:02:07,970 --> 01:02:09,728
+<i>Helena Bertinelli.</i>
+
+871
+01:02:10,389 --> 01:02:12,990
+<i>Sim, aqueles Bertinellis.</i>
+
+872
+01:02:14,470 --> 01:02:18,125
+<i>Um dia, ela chega em casa
+e encontra a família na sala.</i>
+
+873
+01:02:18,517 --> 01:02:19,917
+Mamãe.
+
+874
+01:02:21,600 --> 01:02:25,239
+<i>Todos com sangue Bertinelli
+estavam lá.</i>
+
+875
+01:02:27,631 --> 01:02:30,693
+<i>E este?
+Este é Stefano Galante.</i>
+
+876
+01:02:30,910 --> 01:02:34,404
+<i>O cara que queria a fortuna
+dos Bertinelli.</i>
+
+877
+01:02:58,519 --> 01:03:00,834
+<i>Quando um dos capangas
+encontra a criança viva,</i>
+
+878
+01:03:01,645 --> 01:03:06,547
+<i>o grandalhão tira-a de lá
+e a esconde na Sicília.</i>
+
+879
+01:03:06,548 --> 01:03:09,786
+<i>Onde foi criada
+pelo pai e irmão dele.</i>
+
+880
+01:03:10,333 --> 01:03:11,733
+<i>Ambos assassinos.</i>
+
+881
+01:03:19,294 --> 01:03:23,457
+<i>Ela passa os próximos 15 anos
+pensando apenas em vingança...</i>
+
+882
+01:03:24,454 --> 01:03:26,176
+<i>Então, ela começa a treinar.</i>
+
+883
+01:03:28,112 --> 01:03:30,169
+<i>Quando estava pronta,
+e por "pronta", digo</i>
+
+884
+01:03:30,170 --> 01:03:32,135
+<i>uma máquina de matar fodona,</i>
+
+885
+01:03:36,420 --> 01:03:37,854
+<i>ela volta para Gotham.</i>
+
+886
+01:03:37,855 --> 01:03:39,929
+<i>Começa a trabalhar
+na lista de assassinos.</i>
+
+887
+01:03:48,006 --> 01:03:50,333
+<i>Ela tem o material assassino,
+mas o resto?</i>
+
+888
+01:03:50,334 --> 01:03:53,714
+Você sabe quem eu sou?
+Sabe quem eu sou?
+
+889
+01:03:54,011 --> 01:03:55,579
+<i>Ainda um trabalho
+em andamento.</i>
+
+890
+01:03:57,940 --> 01:04:00,965
+- Você sabe quem sou?
+- A Assassina da Besta.
+
+891
+01:04:01,243 --> 01:04:04,202
+- Eles me chamam...
+- A Assassina da Besta.
+
+892
+01:04:04,423 --> 01:04:08,703
+- Eles me chamam...
+- A Assassina da Besta?
+
+893
+01:04:09,211 --> 01:04:10,611
+Eles me chamam...
+
+894
+01:04:13,569 --> 01:04:17,537
+<i>- Caçadora.
+- Ela se chama de Caçadora.</i>
+
+895
+01:04:17,538 --> 01:04:20,021
+<i>Fabuloso para caralho,
+se quiser saber.</i>
+
+896
+01:04:20,527 --> 01:04:23,031
+E quem está procurando?
+
+897
+01:04:29,496 --> 01:04:32,505
+- Belo clube.
+- Arlequina pegou a garota.
+
+898
+01:04:32,506 --> 01:04:35,979
+- E?
+- E elas desapareceram.
+
+899
+01:04:37,579 --> 01:04:39,938
+Merda!
+
+900
+01:04:40,663 --> 01:04:42,663
+Merda!
+
+901
+01:04:49,013 --> 01:04:51,277
+Do que ela está rindo?
+
+902
+01:04:52,877 --> 01:04:55,074
+- Ela está rindo de mim?
+- Está sim.
+
+903
+01:04:55,075 --> 01:04:57,447
+Não, ela não está, ela...
+
+904
+01:04:57,448 --> 01:04:59,252
+Do que está rindo, Erika?
+
+905
+01:04:59,698 --> 01:05:04,053
+- Tem que ouvir, é hilário.
+- Suba na mesa.
+
+906
+01:05:05,898 --> 01:05:08,256
+Está sendo muito louco.
+
+907
+01:05:08,992 --> 01:05:11,267
+Suba na merda da mesa!
+
+908
+01:05:12,908 --> 01:05:15,485
+Esse clube é meu.
+Suba agora.
+
+909
+01:05:16,044 --> 01:05:18,267
+- Certo.
+- Agora.
+
+910
+01:05:23,960 --> 01:05:25,960
+Agora, dance.
+
+911
+01:05:31,033 --> 01:05:33,465
+Dance.
+Dance, Erika!
+
+912
+01:05:33,856 --> 01:05:35,856
+Tudo bem.
+
+913
+01:05:42,877 --> 01:05:45,371
+Esse vestido é horroroso.
+
+914
+01:05:46,929 --> 01:05:48,929
+Tire ele.
+
+915
+01:05:49,940 --> 01:05:51,940
+Tire o seu vestido.
+
+916
+01:05:53,887 --> 01:05:56,277
+Suba lá
+e corte o vestido fora.
+
+917
+01:05:56,919 --> 01:05:58,991
+Faça agora!
+
+918
+01:05:58,992 --> 01:06:03,053
+Tire o vestido dela.
+Arranque dela, rápido!
+
+919
+01:06:03,054 --> 01:06:04,682
+Rápido!
+
+920
+01:06:06,530 --> 01:06:08,095
+Sinto muito, sinto muito.
+
+921
+01:06:08,096 --> 01:06:09,949
+Faça.
+
+922
+01:06:12,887 --> 01:06:15,485
+Sim, lindo.
+
+923
+01:06:30,981 --> 01:06:33,475
+Você não me trairia, não é?
+
+924
+01:06:35,950 --> 01:06:38,001
+Eu só ia procurar a garota.
+
+925
+01:06:38,002 --> 01:06:40,617
+Não, não, eu quero
+que fique aqui comigo.
+
+926
+01:06:40,618 --> 01:06:43,267
+Eu quero que fique
+bem perto de mim.
+
+927
+01:06:43,877 --> 01:06:46,360
+Você me acalma, passarinho.
+
+928
+01:07:00,691 --> 01:07:03,145
+Bom. Você pegou.
+Rastreou as mensagens?
+
+929
+01:07:03,543 --> 01:07:05,764
+Roubou evidência
+da cena de um crime
+
+930
+01:07:05,765 --> 01:07:07,485
+e enviou
+para o meu escritório.
+
+931
+01:07:08,589 --> 01:07:10,218
+Renee,
+o que estava pensando?
+
+932
+01:07:10,219 --> 01:07:12,673
+Roman colocou
+uma recompensa pela criança.
+
+933
+01:07:12,925 --> 01:07:14,457
+Certo? Eu precisava.
+
+934
+01:07:14,947 --> 01:07:16,587
+- Não vou discutir.
+- Renee...
+
+935
+01:07:17,210 --> 01:07:19,281
+- Precisa de ajuda.
+- Do que está falando?
+
+936
+01:07:20,211 --> 01:07:21,624
+Ela está certa.
+
+937
+01:07:22,759 --> 01:07:25,961
+Você é uma boa policial,
+Montoya, mas se perdeu.
+
+938
+01:07:26,835 --> 01:07:28,235
+O quê?
+
+939
+01:07:28,817 --> 01:07:32,159
+Desculpe-me, tudo bem?
+Você não me deu escolha.
+
+940
+01:07:32,160 --> 01:07:34,146
+- Você me entregou?
+- Sinto muito.
+
+941
+01:07:34,778 --> 01:07:36,178
+Está suspensa.
+
+942
+01:07:37,502 --> 01:07:39,113
+Seu distintivo e arma,
+agora.
+
+943
+01:07:43,782 --> 01:07:46,983
+<i>Se alguma vez já assistiu
+um filme policial,</i>
+
+944
+01:07:47,242 --> 01:07:49,864
+<i>sabe que é o momento
+em que a porra fica séria.</i>
+
+945
+01:07:49,865 --> 01:07:51,565
+Para que ter
+um distintivo...
+
+946
+01:07:53,372 --> 01:07:55,106
+Se não significa nada?
+
+947
+01:07:57,581 --> 01:07:58,981
+Certo, Capitão?
+
+948
+01:07:59,463 --> 01:08:03,530
+<i>Um policial nunca faz
+nada útil até ser suspenso.</i>
+
+949
+01:08:05,929 --> 01:08:07,504
+<i>Eu ficaria preocupada,</i>
+
+950
+01:08:07,879 --> 01:08:10,132
+<i>se não tivesse
+maiores problemas.</i>
+
+951
+01:08:10,688 --> 01:08:14,151
+E é por isso que você nunca
+deve sonegar impostos federais.
+
+952
+01:08:14,976 --> 01:08:16,469
+Ei!
+Vai arruinar suas unhas.
+
+953
+01:08:19,731 --> 01:08:21,131
+Obrigada.
+
+954
+01:08:21,132 --> 01:08:23,360
+Que seja, lição 37.
+
+955
+01:08:23,361 --> 01:08:24,761
+Por que...
+
+956
+01:08:26,148 --> 01:08:27,745
+Disse que não
+nos encontrariam.
+
+957
+01:08:27,746 --> 01:08:30,752
+Relaxa,
+ninguém sabe que estamos aqui.
+
+958
+01:08:30,753 --> 01:08:33,598
+<i>Harleen Quinzel,
+é a Polícia de Gotham.</i>
+
+959
+01:08:33,599 --> 01:08:35,274
+Certo. Eles sabem.
+
+960
+01:08:35,675 --> 01:08:37,075
+Vamos vazar.
+
+961
+01:08:39,398 --> 01:08:41,511
+<i>- Abra a porta!</i>
+- Vamos pelos fundos.
+
+962
+01:08:41,512 --> 01:08:44,187
+Isso já saiu do controle.
+Bruce, venha aqui.
+
+963
+01:08:44,188 --> 01:08:46,031
+<i>Posso te ouvir.
+Abra a porta!</i>
+
+964
+01:08:46,891 --> 01:08:48,291
+O que é aquilo?
+
+965
+01:08:49,062 --> 01:08:51,246
+Te vejo no inferno,
+Arlequina!
+
+966
+01:08:54,563 --> 01:08:55,963
+Para debaixo da mesa!
+
+967
+01:08:58,168 --> 01:08:59,718
+Bruce? Bruce!
+
+968
+01:08:59,719 --> 01:09:01,123
+Venha aqui! Não!
+
+969
+01:09:11,611 --> 01:09:13,011
+Bruce?
+
+970
+01:09:15,071 --> 01:09:17,833
+Venha aqui, garoto.
+Bruce?
+
+971
+01:09:20,160 --> 01:09:21,560
+Bruce?
+
+972
+01:09:22,848 --> 01:09:24,248
+Bruce?
+
+973
+01:09:25,872 --> 01:09:27,479
+Isso não faz sentido.
+
+974
+01:09:28,034 --> 01:09:30,594
+Não faz sentido algum.
+Eu não estou entendendo.
+
+975
+01:09:31,224 --> 01:09:34,300
+Ninguém sabia que estaríamos
+aqui. Ninguém, exceto...
+
+976
+01:09:35,272 --> 01:09:37,677
+Doc? Meu Deus! Doc?
+
+977
+01:09:37,678 --> 01:09:39,480
+ABERTO 7 DIAS POR SEMANA
+
+978
+01:09:39,481 --> 01:09:41,707
+Doc? Cadê ele?
+
+979
+01:09:42,849 --> 01:09:46,053
+Doc?
+Não consigo achar o Bruce.
+
+980
+01:09:46,054 --> 01:09:48,663
+Não consigo encontrá-lo.
+Eu...
+
+981
+01:09:54,668 --> 01:09:56,068
+Não.
+
+982
+01:09:56,498 --> 01:09:58,530
+Sinto muito, Flor de Lótus.
+
+983
+01:09:58,531 --> 01:10:00,445
+Você me entregou?
+
+984
+01:10:00,446 --> 01:10:04,432
+Muita gente me oferecendo
+muito dinheiro.
+
+985
+01:10:05,021 --> 01:10:08,123
+Agora já posso abrir
+meu novo restaurante.
+
+986
+01:10:08,438 --> 01:10:11,644
+- Um bem legal.
+- Mas Doc,
+
+987
+01:10:11,645 --> 01:10:13,543
+sou eu...
+
+988
+01:10:13,886 --> 01:10:15,833
+São apenas negócios.
+
+989
+01:10:42,778 --> 01:10:46,262
+<i>A próxima parte
+não será nada agradável.</i>
+
+990
+01:10:46,952 --> 01:10:49,178
+- Você está certo.
+- Arlequina?
+
+991
+01:10:49,179 --> 01:10:50,933
+Ele está certo.
+
+992
+01:10:53,104 --> 01:10:55,174
+Negócios são negócios.
+
+993
+01:10:55,695 --> 01:10:57,410
+Estou com a garota.
+
+994
+01:10:58,225 --> 01:11:01,089
+Mas preciso renegociar
+os termos do nosso acordo.
+
+995
+01:11:01,355 --> 01:11:03,196
+Se eu entregá-la...
+
+996
+01:11:03,401 --> 01:11:05,790
+Quero aqueles me perseguindo,
+longe.
+
+997
+01:11:05,791 --> 01:11:08,845
+<i>Arlequina, me entregue
+a pedra agora...</i>
+
+998
+01:11:08,846 --> 01:11:10,930
+<i>E eu garanto
+a sua segurança.</i>
+
+999
+01:11:10,931 --> 01:11:14,240
+<i>Sou o dono dessa cidade.
+Você terá minha proteção.</i>
+
+1000
+01:11:14,720 --> 01:11:16,120
+Tudo bem.
+
+1001
+01:11:16,121 --> 01:11:18,109
+Espero você
+no Parque de Diversões.
+
+1002
+01:11:18,110 --> 01:11:20,880
+Na Casa de Horrores.
+Em uma hora.
+
+1003
+01:11:30,125 --> 01:11:31,653
+Pare de me julgar.
+
+1004
+01:11:34,558 --> 01:11:35,980
+Zsasz!
+
+1005
+01:11:42,715 --> 01:11:44,115
+Venha, garota.
+
+1006
+01:11:44,463 --> 01:11:46,134
+Vou te levar
+para um lugar seguro.
+
+1007
+01:11:46,135 --> 01:11:47,895
+Achamos elas.
+
+1008
+01:11:51,187 --> 01:11:53,018
+Passarinho?
+
+1009
+01:11:53,419 --> 01:11:56,416
+Vai ser a motorista
+do sr. Zsasz esta noite.
+
+1010
+01:11:56,988 --> 01:12:01,245
+Agora, é com você.
+Casa de Horrores do Parque.
+
+1011
+01:12:01,246 --> 01:12:03,098
+Temos que trazê-las
+de volta?
+
+1012
+01:12:03,790 --> 01:12:06,887
+Acho que você aguenta
+algumas garotinhas.
+
+1013
+01:12:08,228 --> 01:12:10,371
+Só me traga de volta
+meu diamante.
+
+1014
+01:12:26,888 --> 01:12:28,312
+NÚMERO DESCONHECIDO.
+
+1015
+01:12:28,313 --> 01:12:30,218
+PARQUE DE DIVERSÕES.
+CASA DE HORRORES.
+
+1016
+01:12:57,338 --> 01:12:58,744
+O que foi?
+
+1017
+01:12:59,464 --> 01:13:00,869
+Nada.
+
+1018
+01:13:06,657 --> 01:13:09,893
+NÚMERO DESCONHECIDO.
+TE VEJO LÁ.
+
+1019
+01:13:13,650 --> 01:13:16,300
+- Encosta.
+- O quê?
+
+1020
+01:13:16,675 --> 01:13:19,283
+Para a porra do carro agora.
+
+1021
+01:13:21,566 --> 01:13:23,424
+Preciso dar uma mijada.
+
+1022
+01:13:26,830 --> 01:13:29,790
+<i>Ela te traiu, chefe.
+Ela te traiu.</i>
+
+1023
+01:13:29,791 --> 01:13:33,763
+- Tem certeza?
+<i>- Seu passarinho é um X9.</i>
+
+1024
+01:13:41,168 --> 01:13:42,799
+Quer que eu a mate?
+
+1025
+01:13:46,940 --> 01:13:49,619
+Não.
+
+1026
+01:13:50,022 --> 01:13:51,424
+Eu irei até você.
+
+1027
+01:14:27,280 --> 01:14:30,217
+Achei que éramos amigas.
+E você...
+
+1028
+01:14:30,218 --> 01:14:33,331
+Viu como as coisas são para mim.
+Não tive escolha.
+
+1029
+01:14:33,659 --> 01:14:37,038
+E se você se for antes
+dele chegar aqui tudo fica bem.
+
+1030
+01:14:38,717 --> 01:14:40,124
+Arlequina.
+
+1031
+01:14:40,459 --> 01:14:43,366
+Desculpe, garota.
+De verdade.
+
+1032
+01:14:53,176 --> 01:14:54,944
+Essa foi rápida.
+
+1033
+01:14:57,702 --> 01:14:59,108
+Ela está...
+
+1034
+01:14:59,467 --> 01:15:03,757
+- Onde está Cassandra Cain?
+- Você? Outra vez?
+
+1035
+01:15:12,585 --> 01:15:14,874
+- Você está bêbada?
+- Cai dentro.
+
+1036
+01:15:15,718 --> 01:15:17,124
+Certo.
+
+1037
+01:15:38,885 --> 01:15:40,811
+Bem nas tetas.
+
+1038
+01:15:46,159 --> 01:15:48,702
+Onde está Cassandra Cain?
+
+1039
+01:15:50,121 --> 01:15:51,530
+Cass.
+
+1040
+01:15:57,134 --> 01:16:00,468
+Você matou meu sanduíche!
+
+1041
+01:16:06,963 --> 01:16:08,366
+Tchauzinho, passarinho.
+
+1042
+01:16:12,593 --> 01:16:14,420
+Não é justo.
+
+1043
+01:16:14,421 --> 01:16:18,656
+- Isso foi realmente necessário?
+- Não conhece ela como eu.
+
+1044
+01:16:18,657 --> 01:16:20,319
+Cass?
+
+1045
+01:16:24,001 --> 01:16:27,827
+Graças a Deus.
+Vou te tirar daqui.
+
+1046
+01:16:27,828 --> 01:16:30,608
+Ela realmente te grudou
+num vaso sanitário?
+
+1047
+01:16:33,409 --> 01:16:34,874
+Isso é legal.
+
+1048
+01:16:35,956 --> 01:16:37,456
+Você ainda está consciente.
+
+1049
+01:16:39,943 --> 01:16:44,437
+Está sentindo? Olhe para mim.
+Você é uma boa garota agora?
+
+1050
+01:16:46,044 --> 01:16:50,399
+"Eu sou uma boa garota.
+Eu sou uma boa garota".
+
+1051
+01:17:01,179 --> 01:17:05,195
+Eu tenho uma para todas
+as aves
+
+1052
+01:17:05,196 --> 01:17:08,343
+que ajudei a voar para longe
+deste mundo.
+
+1053
+01:17:08,847 --> 01:17:11,495
+E estou guardando
+um lugar especial para você.
+
+1054
+01:17:12,801 --> 01:17:14,201
+Bem aqui.
+
+1055
+01:17:19,279 --> 01:17:21,435
+- Você tem que ficar quieta.
+- Oi.
+
+1056
+01:17:22,146 --> 01:17:23,546
+O que vocês estão fazendo?
+
+1057
+01:17:24,843 --> 01:17:26,309
+SUCO DE AMEIXA
+
+1058
+01:17:27,468 --> 01:17:29,797
+Eu sei onde está o diamante.
+
+1059
+01:17:30,328 --> 01:17:32,922
+A pedra ainda
+está dentro de você?
+
+1060
+01:17:36,539 --> 01:17:37,939
+Deus.
+
+1061
+01:17:40,991 --> 01:17:42,391
+Pare.
+
+1062
+01:17:44,304 --> 01:17:47,372
+- Que merda, Zsasz?
+- Abra ela.
+
+1063
+01:17:47,711 --> 01:17:50,281
+- Pare de brincar.
+- Você me ouviu.
+
+1064
+01:17:50,703 --> 01:17:52,103
+Corte ela, porra.
+
+1065
+01:17:53,217 --> 01:17:56,032
+Certo. Não, não.
+Olha, ela é só uma criança.
+
+1066
+01:17:56,033 --> 01:17:59,696
+- Você é um X9 imundo.
+- Eu sou um X9?
+
+1067
+01:17:59,697 --> 01:18:01,470
+Sabia que você
+não era confiável.
+
+1068
+01:18:01,673 --> 01:18:03,493
+A passarinho do Roman.
+
+1069
+01:18:03,889 --> 01:18:05,790
+Ave maldita!
+
+1070
+01:18:06,380 --> 01:18:08,794
+É por isso que ele precisa
+que eu olhe ele.
+
+1071
+01:18:10,498 --> 01:18:13,708
+É por isso que ele precisa
+que eu cuide dele.
+
+1072
+01:18:15,331 --> 01:18:18,075
+Você está apenas sendo
+paranoico, Zsasz.
+
+1073
+01:18:18,515 --> 01:18:20,084
+É?
+
+1074
+01:18:20,085 --> 01:18:21,485
+Prove.
+
+1075
+01:18:22,601 --> 01:18:24,530
+Rasgue a barriguinha dela.
+
+1076
+01:18:25,010 --> 01:18:28,651
+- Isso não vai acontecer.
+- Agora! Rasgue-a!
+
+1077
+01:18:42,607 --> 01:18:44,007
+Seu merda!
+
+1078
+01:18:53,260 --> 01:18:54,660
+Parada!
+
+1079
+01:18:57,939 --> 01:18:59,339
+Não se mexa.
+
+1080
+01:19:01,729 --> 01:19:03,276
+Quem diabos é você?
+
+1081
+01:19:10,728 --> 01:19:12,128
+Vá pegar a garota.
+
+1082
+01:19:13,174 --> 01:19:15,401
+Volte, porra!
+
+1083
+01:19:15,402 --> 01:19:18,048
+- Afastem-se. Todas vocês.
+- Abaixa essa merda.
+
+1084
+01:19:18,049 --> 01:19:20,018
+Atira nelas, garota.
+
+1085
+01:19:20,019 --> 01:19:24,182
+Você! Abaixe essa arminha
+de Robin Hood!
+
+1086
+01:19:24,183 --> 01:19:26,939
+- Cass, está tudo bem. Calma.
+- Não se mexa!
+
+1087
+01:19:26,940 --> 01:19:28,340
+Tudo bem.
+
+1088
+01:19:28,768 --> 01:19:31,252
+Eu não sei o que diabos
+está acontecendo.
+
+1089
+01:19:31,253 --> 01:19:35,987
+Mas sei que esse pedaço
+de merda... tentou me estripar.
+
+1090
+01:19:37,154 --> 01:19:38,554
+E você.
+
+1091
+01:19:40,404 --> 01:19:42,287
+Pensei que fosse diferente.
+
+1092
+01:19:44,823 --> 01:19:46,526
+Desculpa, garota.
+
+1093
+01:19:48,809 --> 01:19:51,638
+Acho que sou
+uma pessoa terrível.
+
+1094
+01:20:00,414 --> 01:20:01,818
+Estou de volta.
+
+1095
+01:20:01,819 --> 01:20:05,426
+Certo, acho que me meti
+em algo que não me importo.
+
+1096
+01:20:05,427 --> 01:20:07,864
+Esse cara está morto,
+então eu vou nessa. Beleza?
+
+1097
+01:20:07,865 --> 01:20:10,997
+Não, espere! Ela está mentindo.
+Ela trabalha para Sionis.
+
+1098
+01:20:10,998 --> 01:20:13,377
+Como é?
+Eu trabalho para Sionis?
+
+1099
+01:20:14,414 --> 01:20:17,248
+Eu não vou deixar você vender
+a garota para ele.
+
+1100
+01:20:17,249 --> 01:20:20,256
+Eu não ia vender a garota,
+eu ia trocar a garota.
+
+1101
+01:20:20,257 --> 01:20:22,177
+Sim, para salvar
+sua pele estúpida.
+
+1102
+01:20:22,178 --> 01:20:25,458
+Não me orgulho do que fiz,
+mas tinha a cidade atrás de mim.
+
+1103
+01:20:25,459 --> 01:20:28,838
+- Até a Assassina da Besta.
+- Não sou a Assassina da Besta!
+
+1104
+01:20:28,839 --> 01:20:30,239
+Eita.
+
+1105
+01:20:31,819 --> 01:20:34,755
+- Eles me chamam...
+- Helena Bertinelli.
+
+1106
+01:20:34,756 --> 01:20:38,150
+- Que droga!
+- Do massacre dos Bertinelli?
+
+1107
+01:20:38,151 --> 01:20:41,932
+Minha nossa, isso é um baita
+trauma de infância.
+
+1108
+01:20:47,574 --> 01:20:49,274
+<i>Eu matei Galante.</i>
+
+1109
+01:20:53,694 --> 01:20:55,694
+Matei o esquadrão
+de tiro dele.
+
+1110
+01:20:59,829 --> 01:21:02,292
+<i>Eu matei Victor Zsasz.</i>
+
+1111
+01:21:08,056 --> 01:21:09,696
+E agora eu terminei.
+
+1112
+01:21:11,565 --> 01:21:12,985
+Bravo!
+
+1113
+01:21:17,819 --> 01:21:19,819
+Então, se não importam,
+estou de saída.
+
+1114
+01:21:22,360 --> 01:21:25,360
+Odeio te dizer isso querida,
+mas você não terminou.
+
+1115
+01:21:25,798 --> 01:21:28,786
+Quem acha que financiou
+o poderzinho do Galante?
+
+1116
+01:21:28,787 --> 01:21:30,716
+Galante estava trabalhando
+com Sionis.
+
+1117
+01:21:30,717 --> 01:21:32,988
+Roman matou sua família
+atrás daquela pedra.
+
+1118
+01:21:32,989 --> 01:21:34,939
+Acha mesmo que ele
+não mataria a garota?
+
+1119
+01:21:35,725 --> 01:21:39,749
+O diamante é nossa única
+chance de detê-lo.
+
+1120
+01:21:39,750 --> 01:21:42,025
+Precisam ver isso aqui.
+
+1121
+01:21:45,611 --> 01:21:47,306
+É o Sionis.
+
+1122
+01:21:59,775 --> 01:22:04,153
+- Estamos fodidas!
+- Ele trouxe o próprio exército.
+
+1123
+01:22:12,423 --> 01:22:14,212
+Todos vieram
+por minha causa.
+
+1124
+01:22:16,280 --> 01:22:17,735
+Não vieram?
+
+1125
+01:22:24,465 --> 01:22:26,446
+- Não.
+- Não vieram?
+
+1126
+01:22:26,447 --> 01:22:27,872
+Não, não vieram.
+
+1127
+01:22:28,497 --> 01:22:31,558
+Sabem o que aquilo significa?
+Ele não veio só pela garota.
+
+1128
+01:22:31,559 --> 01:22:33,040
+Ele veio atrás de todas nós!
+
+1129
+01:22:33,466 --> 01:22:35,824
+Com certeza atrás de mim!
+Acabei de roubá-lo.
+
+1130
+01:22:36,025 --> 01:22:39,464
+Você o traiu.
+Você matou o amigo dele.
+
+1131
+01:22:39,465 --> 01:22:42,630
+Você é tão burra a ponto
+de investigá-lo.
+
+1132
+01:22:42,631 --> 01:22:46,369
+A não ser que queiramos
+morrer horrivelmente,
+
+1133
+01:22:46,370 --> 01:22:49,174
+e deixar o Roman abrir
+as entranhas da garota,
+
+1134
+01:22:50,527 --> 01:22:54,074
+- vamos trabalhar juntas.
+- Com você?
+
+1135
+01:22:54,506 --> 01:22:57,032
+Sim, agiremos juntas
+
+1136
+01:22:57,033 --> 01:22:59,028
+e sairemos inteiras daqui.
+Certo?
+
+1137
+01:23:03,254 --> 01:23:04,854
+Tudo bem.
+
+1138
+01:23:05,496 --> 01:23:07,334
+Sim, tudo bem.
+
+1139
+01:23:10,291 --> 01:23:12,886
+- Claro.
+- Isso!
+
+1140
+01:23:13,524 --> 01:23:15,774
+Mas precisaremos
+de armamento melhor.
+
+1141
+01:23:20,273 --> 01:23:23,201
+Isso aqui serve?
+
+1142
+01:23:24,738 --> 01:23:27,286
+Não. Não mesmo.
+
+1143
+01:23:29,495 --> 01:23:32,011
+Estamos mortas.
+Mortas para caralho.
+
+1144
+01:23:32,012 --> 01:23:35,620
+- O filho da puta levou tudo!
+- Estamos fodidas!
+
+1145
+01:23:35,621 --> 01:23:38,651
+- Caralho!
+- Ainda tem isso aqui!
+
+1146
+01:23:44,526 --> 01:23:45,926
+Certo.
+
+1147
+01:23:57,343 --> 01:24:00,266
+Amigos, irmãos,
+
+1148
+01:24:00,267 --> 01:24:02,892
+homens de Gotham.
+
+1149
+01:24:02,893 --> 01:24:07,211
+Eu financiei vocês.
+Eu os protegi.
+
+1150
+01:24:07,793 --> 01:24:11,234
+Fiz favores e os mantive
+fora da prisão.
+
+1151
+01:24:11,804 --> 01:24:14,381
+Chegou a hora
+de me agradecerem.
+
+1152
+01:24:15,673 --> 01:24:18,456
+Mostrem àquelas putas
+
+1153
+01:24:18,457 --> 01:24:21,426
+que, com Roman Sionis,
+não se fode!
+
+1154
+01:24:21,762 --> 01:24:25,242
+US$500 mil àquele
+que me trouxer a garota viva.
+
+1155
+01:24:25,243 --> 01:24:28,068
+O resto, podem matar.
+
+1156
+01:24:33,167 --> 01:24:34,745
+Maneiro.
+
+1157
+01:24:36,395 --> 01:24:40,496
+Não, não. Essa não.
+É sentimental, usa essa.
+
+1158
+01:24:42,260 --> 01:24:45,155
+- É brincadeira.
+- Tenho que cuidar das garotas.
+
+1159
+01:24:45,156 --> 01:24:47,559
+Não é divertido?
+É tipo uma festa do pijama.
+
+1160
+01:24:47,560 --> 01:24:49,798
+Deveríamos pedir pizza.
+Fazer coquetéis.
+
+1161
+01:24:49,799 --> 01:24:52,097
+- Arlequina, foco.
+- Beleza. Claro.
+
+1162
+01:24:52,877 --> 01:24:55,988
+Boa. Que merda está acontecendo
+com esse arco e flecha?
+
+1163
+01:24:55,989 --> 01:24:57,693
+Não é a porra
+de um arco e flecha.
+
+1164
+01:24:57,694 --> 01:24:59,498
+É uma besta.
+Não tenho 12 anos.
+
+1165
+01:24:59,499 --> 01:25:02,704
+- Amei ela. Acessos de raiva.
+- Não tenho acesso de raiva.
+
+1166
+01:25:02,705 --> 01:25:05,417
+Psicologicamente falando,
+
+1167
+01:25:05,418 --> 01:25:07,969
+a vingança nunca é plena,
+mata a alma e envenena.
+
+1168
+01:25:07,970 --> 01:25:12,400
+É. Prontas?
+Os caras maus estão lá fora.
+
+1169
+01:25:16,056 --> 01:25:18,376
+Porra.
+Abaixem-se.
+
+1170
+01:25:19,059 --> 01:25:21,274
+Por aqui!
+
+1171
+01:25:22,470 --> 01:25:23,870
+Cass!
+
+1172
+01:25:23,871 --> 01:25:26,046
+- Sigam-me.
+- Vai, vai!
+
+1173
+01:25:26,047 --> 01:25:27,871
+Vai!
+
+1174
+01:25:31,439 --> 01:25:34,137
+Puta merda!
+
+1175
+01:25:54,172 --> 01:25:55,652
+O que foi?
+
+1176
+01:25:55,653 --> 01:25:57,732
+Você é muito foda.
+
+1177
+01:25:57,733 --> 01:25:59,499
+Beleza. Por aqui.
+
+1178
+01:26:08,080 --> 01:26:10,298
+Preparem-se, meninas.
+
+1179
+01:26:20,151 --> 01:26:23,040
+Não se preocupa.
+Você vai conseguir. Beleza?
+
+1180
+01:26:23,341 --> 01:26:26,259
+Mas que...
+Vai, vai, vai logo!
+
+1181
+01:26:26,560 --> 01:26:28,171
+Porra.
+
+1182
+01:26:30,337 --> 01:26:31,874
+Merda.
+
+1183
+01:26:41,326 --> 01:26:43,309
+Merda!
+
+1184
+01:27:01,557 --> 01:27:03,874
+Filho da puta.
+
+1185
+01:27:16,567 --> 01:27:18,621
+Me solta!
+
+1186
+01:27:18,622 --> 01:27:20,325
+Peguei.
+
+1187
+01:27:21,019 --> 01:27:22,419
+<i>Por aqui!</i>
+
+1188
+01:27:22,420 --> 01:27:23,913
+Levanta. Tudo bem.
+Vamos.
+
+1189
+01:27:23,914 --> 01:27:25,591
+Não devia ter visto isso.
+
+1190
+01:27:26,246 --> 01:27:28,925
+Segure isto para mim,
+está bem? Pense só nisso.
+
+1191
+01:27:28,926 --> 01:27:31,418
+Apenas feche os olhos
+e segure firme. Está bem?
+
+1192
+01:27:31,823 --> 01:27:34,339
+Aqui. Se abaixe.
+Você ficará bem.
+
+1193
+01:28:16,450 --> 01:28:17,853
+Canário!
+
+1194
+01:28:18,738 --> 01:28:20,139
+Está bem?
+
+1195
+01:28:20,772 --> 01:28:22,439
+Temos que ir por esse lado!
+
+1196
+01:28:25,070 --> 01:28:27,237
+- Mais?
+- Quando ela teve tempo
+
+1197
+01:28:27,238 --> 01:28:29,086
+para colocar o patins?
+Vamos.
+
+1198
+01:28:36,209 --> 01:28:37,613
+Valeu!
+
+1199
+01:28:50,639 --> 01:28:52,040
+Abaixa!
+
+1200
+01:28:56,001 --> 01:28:57,439
+- Quer uma xuxinha?
+- Sim.
+
+1201
+01:28:58,278 --> 01:28:59,679
+Porra!
+
+1202
+01:29:04,739 --> 01:29:06,340
+Eu pego ele!
+
+1203
+01:29:09,355 --> 01:29:10,950
+Saia aqui, garota!
+
+1204
+01:29:14,648 --> 01:29:16,218
+Quem tá olhando a garota?
+
+1205
+01:29:28,672 --> 01:29:30,077
+Abaixe-se!
+
+1206
+01:29:40,129 --> 01:29:42,439
+Por favor, chega.
+
+1207
+01:29:47,661 --> 01:29:50,581
+- Então, já me perdoou?
+- Me solta!
+
+1208
+01:29:54,839 --> 01:29:56,240
+Mais alguém com fome?
+
+1209
+01:29:56,241 --> 01:29:57,641
+- Conheço um lugar.
+- Muita.
+
+1210
+01:29:57,642 --> 01:29:59,875
+- Amo tacos.
+- Sério?
+
+1211
+01:30:08,037 --> 01:30:09,657
+Abaixa! Se abaixa!
+
+1212
+01:30:10,109 --> 01:30:11,510
+Você está bem.
+
+1213
+01:30:13,109 --> 01:30:14,516
+Deixe-me ver isso.
+
+1214
+01:30:15,937 --> 01:30:19,351
+- Sai!
+- Eu te ajudo.
+
+1215
+01:30:20,804 --> 01:30:23,746
+Está contente que usou aquilo?
+Sexy e a prova de balas.
+
+1216
+01:30:23,747 --> 01:30:26,647
+Arlequina! Não! Solte-me!
+
+1217
+01:30:26,648 --> 01:30:29,709
+- Arlequina!
+- Pegaram a garota. Merda!
+
+1218
+01:30:29,710 --> 01:30:33,025
+Não podemos deixar.
+Confio em você.
+
+1219
+01:30:33,980 --> 01:30:35,948
+- Uma bala?
+- Por favor, me ajuda!
+
+1220
+01:30:35,949 --> 01:30:38,557
+- Alguém tem munição?
+- Porra. Estou sem.
+
+1221
+01:30:39,647 --> 01:30:42,367
+Não tenho como sair daqui.
+Preciso passar por eles.
+
+1222
+01:30:42,770 --> 01:30:47,020
+Temos que ir, nos mover
+Estão indo para o carro.
+
+1223
+01:30:47,021 --> 01:30:48,422
+Eles estão fugindo.
+
+1224
+01:30:48,423 --> 01:30:49,918
+- Entra aí!
+- Solte-me!
+
+1225
+01:30:53,313 --> 01:30:54,713
+Merda! Estou sem munição.
+
+1226
+01:30:54,714 --> 01:30:56,592
+Rápido!
+Estão se aproximando.
+
+1227
+01:30:57,828 --> 01:31:00,319
+Canário, sabe o que fazer.
+
+1228
+01:31:00,980 --> 01:31:03,667
+Tampem os ouvidos!
+É melhor trazê-la de volta.
+
+1229
+01:31:24,063 --> 01:31:26,011
+<i>Falei que ela tinha
+uma voz de matar.</i>
+
+1230
+01:31:47,438 --> 01:31:48,838
+Precisa de uma carona?
+
+1231
+01:32:14,501 --> 01:32:15,901
+Pegue-a.
+
+1232
+01:32:58,939 --> 01:33:01,089
+- Me joga.
+- O quê?
+
+1233
+01:33:01,090 --> 01:33:03,017
+- Me joga.
+- Tudo bem.
+
+1234
+01:33:10,611 --> 01:33:12,011
+Garota!
+
+1235
+01:33:12,367 --> 01:33:13,767
+Arlequina!
+
+1236
+01:33:14,882 --> 01:33:16,282
+Atire nela!
+
+1237
+01:33:25,298 --> 01:33:26,737
+Pise no freio!
+
+1238
+01:33:46,722 --> 01:33:48,122
+Não!
+
+1239
+01:34:29,509 --> 01:34:30,909
+Garota!
+
+1240
+01:34:42,837 --> 01:34:44,237
+<i>Arlequina!</i>
+
+1241
+01:35:01,894 --> 01:35:04,669
+<i>Nós sempre
+adoramos um drama.</i>
+
+1242
+01:35:04,993 --> 01:35:06,393
+<i>Não adoramos?</i>
+
+1243
+01:35:08,478 --> 01:35:09,893
+<i>E olhe para nós agora.</i>
+
+1244
+01:35:11,671 --> 01:35:13,071
+<i>Não percebe?</i>
+
+1245
+01:35:13,665 --> 01:35:16,594
+<i>Está tentando me matar.
+Sou o único que pode protegê-la.</i>
+
+1246
+01:35:19,556 --> 01:35:22,269
+<i>Sabe que não consegue
+se virar sozinha, Arlequina.</i>
+
+1247
+01:35:22,270 --> 01:35:23,734
+<i>Não é do seu feitio.</i>
+
+1248
+01:35:24,884 --> 01:35:27,537
+<i>Mas me matar?
+Você precisa de mim!</i>
+
+1249
+01:35:42,046 --> 01:35:43,464
+É o seguinte...
+
+1250
+01:35:43,775 --> 01:35:45,240
+Bebê Romy.
+
+1251
+01:35:47,202 --> 01:35:50,982
+Sua proteção é baseada no fato
+de que as pessoas temem você.
+
+1252
+01:35:51,499 --> 01:35:53,592
+Assim como temem o sr. C.
+
+1253
+01:35:59,014 --> 01:36:01,685
+Mas eu que deveria
+ser temida.
+
+1254
+01:36:01,686 --> 01:36:04,623
+Não você. Não o sr. C.
+
+1255
+01:36:04,624 --> 01:36:07,319
+Porque eu sou a porra
+da Arlequina!
+
+1256
+01:36:15,075 --> 01:36:16,475
+Merda!
+
+1257
+01:36:17,763 --> 01:36:19,913
+Isso foi muito vergonhoso.
+
+1258
+01:36:20,284 --> 01:36:22,955
+- Claro que foi.
+- Acha que pode me vencer?
+
+1259
+01:36:22,956 --> 01:36:25,223
+Você é uma idiota.
+
+1260
+01:36:26,653 --> 01:36:28,252
+Sinto muito, garota.
+
+1261
+01:36:28,877 --> 01:36:32,079
+Sinto muito por tentar vendê-la.
+Foi muita crueldade.
+
+1262
+01:36:34,079 --> 01:36:35,479
+Se vale de alguma coisa,
+
+1263
+01:36:36,993 --> 01:36:40,025
+você me fez querer ser
+uma pessoa menos terrível.
+
+1264
+01:36:42,525 --> 01:36:46,024
+Se estamos pedindo desculpas,
+eu devia te contar uma coisa.
+
+1265
+01:36:46,025 --> 01:36:49,439
+- Com licença!
+- Roubei uma coisa de você.
+
+1266
+01:36:49,814 --> 01:36:53,594
+- Sua mão leve de merda.
+- Roubei seu anel.
+
+1267
+01:36:53,595 --> 01:36:54,995
+Meu anel?
+
+1268
+01:36:58,125 --> 01:36:59,525
+Maneiro.
+
+1269
+01:37:18,902 --> 01:37:20,402
+<i>Cass! Arlequina!</i>
+
+1270
+01:37:20,747 --> 01:37:22,147
+Estamos bem.
+
+1271
+01:37:25,920 --> 01:37:27,545
+- Você está bem?
+- Estou.
+
+1272
+01:37:28,164 --> 01:37:29,564
+Ele morreu?
+
+1273
+01:37:30,187 --> 01:37:34,404
+- Bom. Foda-se aquele cara.
+- Sim. Alguém quer tacos?
+
+1274
+01:37:35,538 --> 01:37:38,600
+Não, mas é sério. Você foi
+impressionante com aquele arco.
+
+1275
+01:37:38,944 --> 01:37:41,013
+- Muito impressionante.
+- É uma besta.
+
+1276
+01:37:41,014 --> 01:37:43,372
+- Sou grata. Obrigada.
+- Margaritas matinais!
+
+1277
+01:37:43,373 --> 01:37:44,773
+Obrigada. Eu te ajudo.
+
+1278
+01:37:44,774 --> 01:37:47,695
+- Você bebe, certo, criança?
+- Acho que não.
+
+1279
+01:37:47,696 --> 01:37:51,374
+- Eu amo aquele, nome, Caçadora.
+- Sério?
+
+1280
+01:37:51,375 --> 01:37:52,775
+Ótimo nome.
+
+1281
+01:37:54,904 --> 01:37:57,160
+Eu gosto mesmo
+de como você conseguiu
+
+1282
+01:37:57,161 --> 01:37:59,403
+chutar tão alto
+naquelas calças apertadas.
+
+1283
+01:37:59,404 --> 01:38:01,349
+- É, isso é legal.
+- Valeu.
+
+1284
+01:38:02,529 --> 01:38:04,864
+Obrigada pelo carro.
+
+1285
+01:38:06,417 --> 01:38:07,817
+Por nada.
+
+1286
+01:38:08,371 --> 01:38:11,685
+Criança, se você não cagar
+com esse burrito, não caga mais.
+
+1287
+01:38:14,168 --> 01:38:15,568
+Dê-me um minuto.
+
+1288
+01:38:17,023 --> 01:38:18,423
+Isso aí!
+
+1289
+01:38:18,424 --> 01:38:19,824
+Certo!
+
+1290
+01:38:21,531 --> 01:38:23,926
+Dei suco de ameixa para ela,
+laxantes.
+
+1291
+01:38:23,927 --> 01:38:25,981
+A garota
+tem um estômago de aço.
+
+1292
+01:38:25,982 --> 01:38:28,210
+E sabe de uma coisa?
+Te devo umas desculpas.
+
+1293
+01:38:29,105 --> 01:38:30,505
+A mim?
+
+1294
+01:38:30,957 --> 01:38:33,811
+Eu subestimei você,
+e sinto muito.
+
+1295
+01:38:35,293 --> 01:38:36,693
+Estou acostumada com isso.
+
+1296
+01:38:37,721 --> 01:38:41,038
+<i>Arlequina! Traz a peneira.</i>
+
+1297
+01:38:42,282 --> 01:38:45,042
+- Moças.
+- Divirta-se com isso.
+
+1298
+01:38:46,700 --> 01:38:48,851
+Então, e agora?
+
+1299
+01:38:49,194 --> 01:38:51,550
+Sionis já era,
+mas é uma questão de tempo
+
+1300
+01:38:51,551 --> 01:38:54,515
+antes que outro idiota tente
+terminar o que ele começou.
+
+1301
+01:38:54,516 --> 01:38:56,773
+- Certo.
+- Temos que limpar esta cidade
+
+1302
+01:38:56,774 --> 01:38:58,616
+de dentro para fora.
+
+1303
+01:38:59,219 --> 01:39:01,889
+Ela sempre fala
+como o policial dos anos 80,
+
+1304
+01:39:01,890 --> 01:39:03,551
+- ou é impressão minha?
+- Foda-se.
+
+1305
+01:39:03,552 --> 01:39:05,143
+- E você também.
+- O quê?
+
+1306
+01:39:05,655 --> 01:39:09,369
+- Nós fomos incríveis lá.
+- Sim! Arrasamos!
+
+1307
+01:39:09,370 --> 01:39:12,534
+Eu concordo completamente.
+Então vou comemorar também.
+
+1308
+01:39:12,535 --> 01:39:14,639
+- Obrigada.
+- Certo.
+
+1309
+01:39:18,601 --> 01:39:20,573
+- Ela roubou meu carro!
+- O quê?
+
+1310
+01:39:25,657 --> 01:39:27,563
+- Desculpe.
+<i>- Sei o que está pensando.</i>
+
+1311
+01:39:27,564 --> 01:39:29,767
+Acha que sou uma puta
+depois de tudo aquilo.
+
+1312
+01:39:30,462 --> 01:39:33,522
+Mas ouviu a policial.
+Sionis já era.
+
+1313
+01:39:33,988 --> 01:39:35,494
+E quanto a elas?
+
+1314
+01:39:36,187 --> 01:39:38,219
+Elas vão ficar bem.
+
+1315
+01:39:39,936 --> 01:39:43,014
+<i>O chefe de Montoya pegou
+os bandidos na Casa de Horrores.</i>
+
+1316
+01:39:43,388 --> 01:39:45,992
+<i>E levou todo o crédito
+por isso.</i>
+
+1317
+01:39:46,362 --> 01:39:47,773
+<i>De novo!</i>
+
+1318
+01:39:53,322 --> 01:39:55,255
+<i>Era o chute nas bolas
+que ela precisava</i>
+
+1319
+01:39:55,256 --> 01:39:57,116
+<i>para ver que não precisava
+provar nada</i>
+
+1320
+01:39:57,117 --> 01:39:58,763
+<i>àqueles idiotas estúpidos.</i>
+
+1321
+01:39:59,538 --> 01:40:01,160
+<i>Ela pediu demissão
+no mesmo dia.</i>
+
+1322
+01:40:06,466 --> 01:40:08,819
+<i>Conseguimos os códigos secretos
+do diamante.</i>
+
+1323
+01:40:08,820 --> 01:40:11,020
+<i>E a Caçadora recuperou
+o dinheiro da família.</i>
+
+1324
+01:40:12,395 --> 01:40:15,623
+<i>Ela usa para financiar uma linha
+de roupas contra o crime.</i>
+
+1325
+01:40:18,350 --> 01:40:21,824
+<i>Eles se chamam
+de Aves de Rapina.</i>
+
+1326
+01:40:22,503 --> 01:40:24,890
+<i>Eu as chamo de pequenas
+benfeitores idiotas.</i>
+
+1327
+01:40:28,061 --> 01:40:32,215
+<i>A pedra em si valia
+um belo trocado, então penhorei.</i>
+
+1328
+01:40:32,216 --> 01:40:34,333
+<i>E investi o dinheiro
+em uma pequena startup</i>
+
+1329
+01:40:34,334 --> 01:40:35,897
+<i>fazendo barulho
+na Zona Leste.</i>
+
+1330
+01:40:35,898 --> 01:40:37,544
+ARLEQUINA & ASSOCIADAS
+AS FODONAS
+
+1331
+01:40:40,287 --> 01:40:42,070
+<i>E encontrei o Bruce.</i>
+
+1332
+01:40:42,071 --> 01:40:44,454
+<i>Ele estava andando
+por Chinatown.</i>
+
+1333
+01:40:44,455 --> 01:40:48,304
+<i>Acho que isso prova que hienas
+têm mesmo nove vidas.</i>
+
+1334
+01:41:08,741 --> 01:41:11,993
+<i>É, tornei a garota
+minha aprendiz.</i>
+
+1335
+01:41:12,367 --> 01:41:14,039
+<i>Me chame de molenga.</i>
+
+1336
+01:41:15,306 --> 01:41:16,742
+Eu te desafio.
+
+1337
+01:41:24,843 --> 01:41:27,843
+<b>GeekSubs
+Mais que legenders</b>
+
+1338
+01:41:28,360 --> 01:41:33,360
+<b><i>Fica aí
+que tem cena pós-crédito!</i></b>
+
+1339
+01:48:40,620 --> 01:48:42,939
+<i>Ainda estão aí, idiotas?</i>
+
+1340
+01:48:42,940 --> 01:48:45,472
+<i>Beleza.
+Já que estão aqui até agora,</i>
+
+1341
+01:48:45,473 --> 01:48:47,761
+<i>vou contar
+um super-hiper-power segredo.</i>
+
+1342
+01:48:47,762 --> 01:48:49,372
+<i>Mas não podem espalhar.</i>
+
+1343
+01:48:49,373 --> 01:48:51,928
+<i>Beleza então.
+Sabia que o Batman…</i>										
+
+  
+  
+   
+
+ 
+
+
+
+  
+
+
+ 
+ 
+
+ 
+  										
+   
+  
+
+
+
+
+ 
+ 
+
+ 
+  
+

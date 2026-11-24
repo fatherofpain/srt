@@ -1,0 +1,3194 @@
+2
+00:00:49,280 --> 00:00:50,320
+Fogo!
+
+3
+00:01:07,400 --> 00:01:08,960
+Acabem com ela.
+
+4
+00:01:21,046 --> 00:01:23,910
+<i>Incrementar e iniciar.</i>
+
+5
+00:01:23,994 --> 00:01:26,760
+<i>Fase 1 começando.</i>
+
+6
+00:01:33,818 --> 00:01:35,042
+Olá?
+
+7
+00:01:35,320 --> 00:01:37,164
+<i>Mova o lápis.</i>
+
+8
+00:01:41,542 --> 00:01:42,800
+O quê?
+
+9
+00:01:43,186 --> 00:01:44,720
+<i>Mova o lápis.</i>
+
+10
+00:01:44,804 --> 00:01:48,283
+<i>Conclua a tarefa no tempo estipulado.</i>
+
+11
+00:01:53,278 --> 00:01:54,960
+Espere.
+
+12
+00:01:56,880 --> 00:01:58,282
+Onde é que estou?
+
+13
+00:01:58,549 --> 00:01:59,845
+<i>Começar.</i>
+
+14
+00:02:00,485 --> 00:02:03,265
+Começar?
+Começar o quê?
+
+15
+00:03:03,881 --> 00:03:05,400
+Pronto.
+
+16
+00:03:06,151 --> 00:03:07,567
+Eu o movi.
+
+17
+00:03:07,651 --> 00:03:09,362
+<i>Tarefa concluída.</i>
+
+18
+00:03:11,400 --> 00:03:12,880
+Agora me diga...
+
+19
+00:03:12,964 --> 00:03:19,200
+CONTROL: O PODER DA MENTE
+
+20
+00:03:30,871 --> 00:03:33,640
+<i>Incrementar e iniciar.</i>
+
+21
+00:03:48,736 --> 00:03:50,760
+Não, não, não.
+
+22
+00:03:50,844 --> 00:03:52,056
+Não!
+
+23
+00:03:53,480 --> 00:03:56,800
+-O que é isto?
+<i>-Mova o lápis.</i>
+
+24
+00:03:56,884 --> 00:03:58,796
+O quê?
+O lápis?
+
+25
+00:03:58,880 --> 00:04:01,720
+<i>Conclua a tarefa no tempo estipulado.</i>
+
+26
+00:04:02,046 --> 00:04:03,259
+Espere.
+
+27
+00:04:04,502 --> 00:04:06,523
+O que estou fazendo aqui?
+
+28
+00:04:06,759 --> 00:04:08,695
+O que quer de mim?
+
+29
+00:04:08,925 --> 00:04:11,961
+<i>Conclua a tarefa no tempo estipulado.</i>
+
+30
+00:04:20,991 --> 00:04:23,516
+Estou acorrentada a uma cadeira.
+
+31
+00:04:26,280 --> 00:04:27,510
+Ei!
+
+32
+00:04:29,434 --> 00:04:31,093
+Deixe-me sair daqui!
+
+33
+00:04:33,000 --> 00:04:35,039
+Deixe-me sair daqui!
+
+34
+00:04:35,123 --> 00:04:36,480
+Por favor!
+
+35
+00:04:38,310 --> 00:04:42,444
+<i>Se a tarefa não for concluída
+segundo parâmetros aceitáveis,</i>
+
+36
+00:04:42,528 --> 00:04:44,400
+<i>sua filha vai morrer.</i>
+
+37
+00:04:45,816 --> 00:04:47,600
+Minha filha.
+
+38
+00:04:53,364 --> 00:04:54,440
+Eve!
+
+39
+00:04:54,524 --> 00:04:55,600
+Shh!
+
+40
+00:04:56,925 --> 00:04:58,040
+Pare!
+
+41
+00:04:59,080 --> 00:05:01,080
+Por que está com a minha filha?
+
+42
+00:05:01,366 --> 00:05:02,502
+Eve!
+
+43
+00:05:02,880 --> 00:05:04,163
+Eve!
+
+44
+00:05:04,400 --> 00:05:05,996
+O que quer de mim?
+
+45
+00:05:06,080 --> 00:05:08,516
+O que você quer de mim?
+
+46
+00:05:13,891 --> 00:05:15,188
+Está bem.
+
+47
+00:05:15,552 --> 00:05:16,680
+Certo.
+
+48
+00:05:31,850 --> 00:05:33,070
+Merda!
+
+49
+00:05:33,999 --> 00:05:35,240
+Merda!
+
+50
+00:06:28,080 --> 00:06:29,400
+Anda!
+
+51
+00:06:34,720 --> 00:06:36,206
+Consegui!
+
+52
+00:07:06,231 --> 00:07:07,482
+Consegui.
+
+53
+00:07:08,415 --> 00:07:10,080
+<i>Tarefa concluída.</i>
+
+54
+00:07:11,316 --> 00:07:13,091
+Não!
+Espere!
+
+55
+00:07:49,801 --> 00:07:51,202
+Eve?
+
+56
+00:07:53,160 --> 00:07:54,640
+Você está bem?
+
+57
+00:07:55,112 --> 00:07:56,680
+Hã-hã!
+
+58
+00:07:58,707 --> 00:08:00,945
+O que está fazendo?
+
+59
+00:08:01,909 --> 00:08:03,120
+Shh!
+
+60
+00:08:04,920 --> 00:08:06,648
+A areia está cantando.
+
+61
+00:08:14,926 --> 00:08:16,928
+Canta, mamãe.
+
+62
+00:08:59,671 --> 00:09:00,876
+Ai!
+
+63
+00:09:03,775 --> 00:09:05,009
+Ai!
+
+64
+00:09:10,976 --> 00:09:12,465
+Ei.
+
+65
+00:09:18,556 --> 00:09:20,030
+Ei?
+
+66
+00:09:33,879 --> 00:09:35,173
+Ai!
+
+67
+00:12:21,390 --> 00:12:23,000
+O que fez comigo?
+
+68
+00:12:23,108 --> 00:12:24,776
+Ei!
+
+69
+00:12:24,860 --> 00:12:26,804
+Estou falando com você!
+
+70
+00:12:27,720 --> 00:12:29,830
+Diga logo o que quer.
+
+71
+00:12:31,883 --> 00:12:33,313
+Por favor.
+
+72
+00:12:38,462 --> 00:12:40,597
+Eu só quero sair daqui.
+
+73
+00:12:42,760 --> 00:12:44,762
+Por favor, deixe-me sair.
+
+74
+00:12:46,552 --> 00:12:47,560
+Por favor.
+
+75
+00:12:52,037 --> 00:12:53,470
+Deixe-me sair.
+
+76
+00:12:58,120 --> 00:13:00,772
+<i>Incrementar e iniciar.</i>
+
+77
+00:13:01,212 --> 00:13:03,440
+-Se me disser para...
+<i>-Mova o lápis.</i>
+
+78
+00:13:03,774 --> 00:13:05,285
+Vá à merda!
+
+79
+00:13:09,921 --> 00:13:11,142
+Olá?
+
+80
+00:13:11,570 --> 00:13:13,624
+<i>-Mova o lápis.</i>
+-Não!
+
+81
+00:13:13,708 --> 00:13:17,319
+<i>Se a tarefa não for concluída
+segundo parâmetros aceitáveis,</i>
+
+82
+00:13:17,403 --> 00:13:18,560
+<i>Eve vai morrer.</i>
+
+83
+00:13:19,815 --> 00:13:21,450
+Não a meta nisso.
+
+84
+00:13:21,896 --> 00:13:23,566
+Ela é só uma criança.
+
+85
+00:13:24,036 --> 00:13:27,720
+<i>Se a tarefa não for concluída
+segundo parâmetros aceitáveis,</i>
+
+86
+00:13:27,804 --> 00:13:29,442
+<i>Eve vai morrer.</i>
+
+87
+00:13:32,600 --> 00:13:35,287
+-Quero falar com ela.
+<i>-Não é possível.</i>
+
+88
+00:13:35,371 --> 00:13:36,916
+Então torne possível.
+
+89
+00:13:37,191 --> 00:13:42,008
+Se não falar com minha filha agora,
+não conseguirá mais nada de mim.
+
+90
+00:13:46,251 --> 00:13:47,760
+<i>Aguarde.</i>
+
+91
+00:13:51,729 --> 00:13:54,280
+<i>Mamãe?
+É você?</i>
+
+92
+00:13:57,079 --> 00:13:58,680
+Meu Deus, Eve.
+
+93
+00:13:59,360 --> 00:14:00,440
+Eve!
+
+94
+00:14:02,241 --> 00:14:03,724
+Mamãe?
+
+95
+00:14:04,285 --> 00:14:06,592
+Querida, eles te machucaram?
+
+96
+00:14:06,676 --> 00:14:07,985
+Você está bem?
+
+97
+00:14:09,287 --> 00:14:11,876
+<i>Mamãe?
+Estou com medo.</i>
+
+98
+00:14:11,960 --> 00:14:13,480
+<i>Quero ir para casa.</i>
+
+99
+00:14:13,943 --> 00:14:17,680
+<i>Eve permanecerá ilesa,
+desde que siga as instruções.</i>
+
+100
+00:14:18,695 --> 00:14:20,249
+<i>Mova o lápis.</i>
+
+101
+00:14:20,993 --> 00:14:23,160
+Está bem!
+Vou mover a porra do...
+
+102
+00:14:24,208 --> 00:14:25,520
+lápis.
+
+103
+00:14:27,480 --> 00:14:28,400
+O quê?
+
+104
+00:15:11,880 --> 00:15:14,156
+Fala sério!
+Vamos lá!
+
+105
+00:15:16,982 --> 00:15:18,416
+Vamos lá!
+
+106
+00:15:24,345 --> 00:15:26,129
+Tem que ter algum jeito.
+
+107
+00:15:26,213 --> 00:15:28,213
+Tem que ter algum jeito.
+
+108
+00:16:10,588 --> 00:16:12,536
+O que devo fazer?
+
+109
+00:16:15,160 --> 00:16:17,255
+O que quer de mim?
+
+110
+00:16:21,478 --> 00:16:23,091
+Não consigo.
+
+111
+00:16:29,280 --> 00:16:30,920
+Mova!
+
+112
+00:16:32,600 --> 00:16:33,840
+Mova!
+
+113
+00:16:35,760 --> 00:16:37,400
+Mova, droga!
+
+114
+00:16:38,837 --> 00:16:41,057
+Mova!
+
+115
+00:16:44,545 --> 00:16:46,920
+<i>Tarefa concluída.</i>
+
+116
+00:16:49,032 --> 00:16:50,111
+Espere.
+
+117
+00:16:50,195 --> 00:16:52,080
+Espere, espere!
+
+118
+00:17:22,240 --> 00:17:24,570
+Pode me ajudar, mamãe?
+
+119
+00:17:49,520 --> 00:17:51,356
+Evie, querida?
+
+120
+00:17:51,440 --> 00:17:52,520
+Hã-hã?
+
+121
+00:17:53,880 --> 00:17:56,017
+O que está acontecendo?
+
+122
+00:17:56,920 --> 00:17:59,532
+Estamos construindo um castelo.
+
+123
+00:18:01,213 --> 00:18:02,419
+Certo.
+
+124
+00:18:03,748 --> 00:18:05,022
+Certo.
+
+125
+00:18:11,815 --> 00:18:13,128
+Eileen?
+
+126
+00:18:13,641 --> 00:18:14,880
+Eileen!
+
+127
+00:18:36,005 --> 00:18:37,240
+O que foi?
+
+128
+00:18:37,485 --> 00:18:38,640
+Eileen.
+
+129
+00:18:42,540 --> 00:18:43,804
+Onde estamos?
+
+130
+00:18:44,622 --> 00:18:47,040
+-Meu Deus! Tudo bem?
+-Não!
+
+131
+00:18:47,124 --> 00:18:49,560
+-Fique longe!
+-Relaxe, sou eu.
+
+132
+00:18:49,644 --> 00:18:52,200
+Ai!
+Caramba!
+
+133
+00:18:52,325 --> 00:18:55,028
+Eileen, sou eu, é o Roger.
+
+134
+00:18:55,112 --> 00:18:56,320
+Merda!
+
+135
+00:19:01,539 --> 00:19:02,750
+Roger?
+
+136
+00:19:04,973 --> 00:19:06,200
+Roger?
+
+137
+00:19:10,543 --> 00:19:12,480
+Você é meu marido.
+
+138
+00:19:13,231 --> 00:19:14,670
+Não se lembra?
+
+139
+00:19:14,931 --> 00:19:16,507
+Ficou maluca?
+
+140
+00:19:38,790 --> 00:19:40,016
+Roger.
+
+141
+00:19:40,440 --> 00:19:41,670
+Sim.
+
+142
+00:19:43,173 --> 00:19:44,440
+Sim.
+
+143
+00:19:44,781 --> 00:19:46,830
+Roger, eu não...
+
+144
+00:19:46,914 --> 00:19:49,280
+-Tudo bem.
+-Não sei o que está acontecendo.
+
+145
+00:19:49,364 --> 00:19:53,975
+-Está tudo bem, apenas respire.
+-Eu não sei o que está acontecendo.
+
+146
+00:19:54,059 --> 00:19:55,480
+Sim.
+
+147
+00:20:01,399 --> 00:20:03,667
+Espere.
+O quê?
+
+148
+00:20:03,751 --> 00:20:05,800
+O que está fazendo aqui?
+
+149
+00:20:07,840 --> 00:20:10,280
+Como pode estar aqui?
+
+150
+00:20:13,574 --> 00:20:15,084
+Eu não sei.
+
+151
+00:20:16,640 --> 00:20:19,918
+Não consigo lembrar.
+Por que não me lembro?
+
+152
+00:20:20,544 --> 00:20:24,040
+O que aconteceu com você?
+Por que está nesta cadeira?
+
+153
+00:20:24,124 --> 00:20:29,040
+Eu fico acordando aqui,
+com uma voz mandando fazer coisas.
+
+154
+00:20:29,532 --> 00:20:30,756
+Uma voz?
+
+155
+00:20:30,840 --> 00:20:33,040
+Sim, Roger, uma voz.
+
+156
+00:20:33,331 --> 00:20:37,680
+Ela disse que se eu não fizer
+o que manda, então...
+
+157
+00:20:38,436 --> 00:20:41,257
+Então o quê, Eileen?
+
+158
+00:20:42,200 --> 00:20:44,292
+-Ela a pegou.
+-Ela quem?
+
+159
+00:20:44,376 --> 00:20:46,957
+-Presta atenção, a voz.
+-Estou tentando.
+
+160
+00:20:47,041 --> 00:20:49,640
+Se não fizermos o que manda,
+vai matá-la.
+
+161
+00:20:49,724 --> 00:20:50,920
+-Matar quem?
+-Eve!
+
+162
+00:20:59,391 --> 00:21:01,725
+Espere um instante.
+
+163
+00:21:01,809 --> 00:21:04,156
+Vamos voltar ao começo.
+
+164
+00:21:04,240 --> 00:21:07,134
+Essa voz,
+o que ela disse exatamente?
+
+165
+00:21:07,666 --> 00:21:11,520
+Ela disse: "Mova o lápis ou Eve
+vai morrer."
+
+166
+00:21:12,162 --> 00:21:14,963
+"Mova o lápis ou Eve vai..."
+
+167
+00:21:15,047 --> 00:21:19,163
+-O que tem o lápis com a Eve?
+-Não importa! Temos que fazer algo.
+
+168
+00:21:19,247 --> 00:21:22,173
+Eu sei!
+Só não consigo entender...
+
+169
+00:21:22,368 --> 00:21:26,228
+-Como sabe que estão com a Eve?
+-Porque falei com ela, Roger.
+
+170
+00:21:26,312 --> 00:21:28,480
+Eles estão com a nossa filhinha.
+
+171
+00:21:28,564 --> 00:21:30,505
+Ok, ok.
+Está tudo bem.
+
+172
+00:21:30,589 --> 00:21:33,428
+Deve ter uma explicação lógica para isso.
+
+173
+00:21:33,512 --> 00:21:35,920
+<i>Incrementar e iniciar.</i>
+
+174
+00:21:44,062 --> 00:21:45,296
+Quem é?
+
+175
+00:21:45,380 --> 00:21:46,880
+<i>Quebre o lápis.</i>
+
+176
+00:21:51,274 --> 00:21:53,801
+Não faremos nada
+até dizer o que é isso.
+
+177
+00:21:53,885 --> 00:21:56,680
+<i>Conclua a tarefa no tempo estipulado.</i>
+
+178
+00:21:58,280 --> 00:21:59,487
+Ei!
+
+179
+00:22:00,090 --> 00:22:02,108
+Estou falando com você!
+
+180
+00:22:02,192 --> 00:22:04,588
+Quero falar com a minha filha.
+
+181
+00:22:08,640 --> 00:22:10,160
+Que droga é essa?
+
+182
+00:22:10,694 --> 00:22:12,015
+Outro teste.
+
+183
+00:22:12,827 --> 00:22:14,880
+O que devemos fazer?
+
+184
+00:22:15,933 --> 00:22:18,189
+O que acontece quando o tempo acaba?
+
+185
+00:22:19,120 --> 00:22:22,440
+-Eileen, o que está acontecendo?
+-Não tempos tempo.
+
+186
+00:22:22,524 --> 00:22:26,127
+Se vão machucar a Eve,
+precisamos resolver isso juntos.
+
+187
+00:22:26,211 --> 00:22:30,298
+-Agora diga que droga é essa?
+-Já disse, quando acabar, vão matar a Eve.
+
+188
+00:22:30,382 --> 00:22:33,385
+-Não faz sentido, por que a machucariam?
+-Não importa!
+
+189
+00:22:33,469 --> 00:22:38,520
+-Ou me ajuda ou fica quieto.
+-Certo, "Quebre o lápis", o que significa?
+
+190
+00:22:38,604 --> 00:22:41,532
+Não sei!
+Acho que é para quebrar o lápis!
+
+191
+00:22:43,475 --> 00:22:46,480
+<i>Apenas a cobaia primária
+pode realizar a tarefa.</i>
+
+192
+00:22:46,564 --> 00:22:49,125
+-A Eileen?
+<i>-Apenas a cobaia primária</i>
+
+193
+00:22:49,209 --> 00:22:53,156
+<i>-pode realizar a tarefa.</i>
+-Mas ela está presa na cadeira!
+
+194
+00:22:53,240 --> 00:22:55,169
+<i>Reposicione os materiais do teste.</i>
+
+195
+00:22:55,253 --> 00:22:57,920
+<i>Apenas a cobaia primária
+pode realizar a tarefa.</i>
+
+196
+00:22:58,004 --> 00:23:01,834
+<i>Se a tarefa não for concluída
+segundo parâmetros aceitáveis,</i>
+
+197
+00:23:01,918 --> 00:23:03,055
+<i>Eve vai morrer.</i>
+
+198
+00:23:03,139 --> 00:23:05,800
+Não vou obedecer
+uma secretária eletrônica.
+
+199
+00:23:05,884 --> 00:23:07,899
+Roger, coloque de volta!
+
+200
+00:23:08,440 --> 00:23:11,574
+<i>Reposicione os materiais do teste.</i>
+
+201
+00:23:14,182 --> 00:23:15,716
+O que vai fazer?
+
+202
+00:23:15,800 --> 00:23:18,200
+-Tirá-la da cadeira.
+-Está presa no chão.
+
+203
+00:23:18,284 --> 00:23:21,196
+Eles mandaram fazer coisas antes.
+Qual foi a última?
+
+204
+00:23:21,280 --> 00:23:22,465
+-Como escapou?
+-Não sei!
+
+205
+00:23:22,549 --> 00:23:24,850
+-Eu só soube, achei uma maneira.
+-Como?
+
+206
+00:23:24,934 --> 00:23:26,951
+-Pare de gritar!
+-Então faça algo!
+
+207
+00:23:27,035 --> 00:23:29,636
+-Estou tentando, me deixe pensar!
+-Estou deixando!
+
+208
+00:23:29,720 --> 00:23:31,440
+É para mover com a mente?
+
+209
+00:23:31,524 --> 00:23:35,962
+Lá vem você com a porra do sarcasmo.
+Só quero que seja prática.
+
+210
+00:23:36,046 --> 00:23:38,676
+Talvez eu possa te trazer o lápis.
+
+211
+00:23:38,760 --> 00:23:41,200
+-O tempo está acabando!
+-Roger, cale a boca!
+
+212
+00:23:45,080 --> 00:23:46,840
+<i>Tarefa concluída.</i>
+
+213
+00:23:50,695 --> 00:23:52,160
+O que ela fez?
+
+214
+00:24:03,116 --> 00:24:05,000
+Como fez isso?
+
+215
+00:24:08,012 --> 00:24:10,000
+Meu Deus, Eileen.
+
+216
+00:24:16,854 --> 00:24:18,153
+Roger?
+
+217
+00:25:22,187 --> 00:25:23,600
+Roger?
+
+218
+00:25:25,142 --> 00:25:27,520
+Que bom, você está viva.
+
+219
+00:25:28,993 --> 00:25:30,760
+O que está fazendo?
+
+220
+00:25:31,095 --> 00:25:33,920
+Procurando uma saída.
+Algum tipo de porta.
+
+221
+00:25:34,398 --> 00:25:36,391
+Está perdendo tempo.
+
+222
+00:25:37,720 --> 00:25:39,640
+Como isso veio parar aqui?
+
+223
+00:25:40,091 --> 00:25:41,800
+Nós estamos aqui dentro.
+
+224
+00:25:43,141 --> 00:25:45,076
+Tem que ter uma porta.
+
+225
+00:25:45,160 --> 00:25:47,400
+Mesmo que ache uma saída, eu...
+
+226
+00:25:48,272 --> 00:25:50,200
+Nós vamos encontrá-la.
+
+227
+00:25:51,615 --> 00:25:54,112
+Com certeza, vamos encontrá-la.
+
+228
+00:25:54,248 --> 00:25:55,920
+Não sei não.
+
+229
+00:25:56,387 --> 00:25:59,190
+Então acha que devemos cooperar?
+
+230
+00:25:59,274 --> 00:26:01,207
+Acho melhor fazer o que mandam.
+
+231
+00:26:01,291 --> 00:26:04,520
+Acha que vão devolvê-la
+depois do que aconteceu?
+
+232
+00:26:04,604 --> 00:26:07,244
+-O que aconteceu?
+-O lance com o lápis.
+
+233
+00:26:08,733 --> 00:26:10,068
+Roger...
+
+234
+00:26:10,179 --> 00:26:12,342
+-Eu vi o que fez.
+-Não fiz nada.
+
+235
+00:26:12,426 --> 00:26:14,711
+-Eu estava bem ali.
+-É um truque.
+
+236
+00:26:14,795 --> 00:26:17,080
+Uma brincadeira de mau gosto.
+
+237
+00:26:17,622 --> 00:26:18,920
+Não.
+
+238
+00:26:19,537 --> 00:26:21,400
+É psicocinese.
+
+239
+00:26:21,619 --> 00:26:23,483
+-Nossa!
+-É sério.
+
+240
+00:26:23,567 --> 00:26:26,084
+-Como Uri Geller, entortando colheres.
+-Palhaçada.
+
+241
+00:26:26,168 --> 00:26:28,400
+É o que querem que pense.
+O Governo e a CIA.
+
+242
+00:26:28,484 --> 00:26:31,272
+-Você está se ouvindo?
+-Inventam e escondem essas coisas.
+
+243
+00:26:31,356 --> 00:26:35,156
+Você acha que uma organização secreta
+apagou minha memória,
+
+244
+00:26:35,240 --> 00:26:37,920
+sequestrou nossa filha
+e pegou a gente de cobaia?
+
+245
+00:26:38,004 --> 00:26:40,209
+A gente, não, mas você.
+
+246
+00:26:43,360 --> 00:26:45,840
+Já teve a sensação de tempo perdido?
+
+247
+00:26:45,924 --> 00:26:49,182
+-Meu Deus.
+-Sério, e se você tiver esses poderes?
+
+248
+00:26:49,266 --> 00:26:51,036
+Explicaria muitas coisas.
+
+249
+00:26:51,120 --> 00:26:53,562
+-Lembra do espelho que caiu?
+-Não.
+
+250
+00:26:53,782 --> 00:26:56,316
+Brigamos feio quando a Eve nasceu.
+
+251
+00:26:56,400 --> 00:26:57,305
+-Não lembro.
+
+252
+00:26:57,389 --> 00:27:01,293
+Você gritou comigo por alguma razão
+e o espelho da minha mãe caiu da parede
+
+253
+00:27:01,377 --> 00:27:03,960
+na mesma hora
+e despedaçou ao meu redor.
+
+254
+00:27:14,320 --> 00:27:16,120
+Já brigamos muito.
+
+255
+00:27:20,672 --> 00:27:22,680
+Não é verdade?
+
+256
+00:27:25,572 --> 00:27:27,638
+Algumas vezes...
+
+257
+00:27:34,485 --> 00:27:36,588
+-Opa, calma aí.
+-Estou bem.
+
+258
+00:27:36,672 --> 00:27:38,989
+-Deixe-me ajudar.
+-Já disse que estou bem.
+
+259
+00:27:41,069 --> 00:27:44,240
+-Preciso de uma bebida.
+-Nem me fala.
+
+260
+00:27:44,324 --> 00:27:45,493
+Não...
+
+261
+00:27:45,577 --> 00:27:47,120
+falo da água.
+
+262
+00:28:02,040 --> 00:28:03,860
+Você tem que admitir,
+
+263
+00:28:05,242 --> 00:28:08,340
+tem algo muito esquisito acontecendo aqui.
+
+264
+00:28:08,920 --> 00:28:10,154
+Verdade.
+
+265
+00:28:29,480 --> 00:28:31,480
+Do que se lembra por último?
+
+266
+00:28:40,818 --> 00:28:42,310
+-O quê?
+-Nada.
+
+267
+00:28:42,394 --> 00:28:43,631
+O que foi?
+
+268
+00:28:45,440 --> 00:28:48,520
+Você se lembra de alguma coisa, não é?
+
+269
+00:28:49,810 --> 00:28:52,502
+Talvez.
+Não sei.
+
+270
+00:28:53,200 --> 00:28:54,916
+Precisa comer alguma coisa.
+
+271
+00:28:55,000 --> 00:28:57,201
+-Estou sem fome.
+-Para recuperar as forças.
+
+272
+00:28:57,285 --> 00:29:00,760
+-Pode colaborar, se não por mim, pela Eve?
+-Agora não, Roger, por favor.
+
+273
+00:29:00,844 --> 00:29:02,681
+Se não agora, então quando?
+
+274
+00:29:03,040 --> 00:29:06,813
+-Depois que matarem a nossa filha?
+-Pare!
+
+275
+00:29:09,640 --> 00:29:12,490
+Não, eu quero dormir.
+
+276
+00:29:15,280 --> 00:29:17,040
+Preciso dormir.
+
+277
+00:29:31,442 --> 00:29:32,645
+Mamãe?
+
+278
+00:29:32,729 --> 00:29:34,989
+Por que parece tão cansada?
+
+279
+00:29:36,908 --> 00:29:38,944
+Não sei, meu amor.
+
+280
+00:29:40,120 --> 00:29:42,217
+Você fica indo embora.
+
+281
+00:29:42,712 --> 00:29:43,920
+Eu sei.
+
+282
+00:29:44,004 --> 00:29:45,832
+Eu quero ficar.
+
+283
+00:29:47,040 --> 00:29:48,920
+Tem que brincar comigo.
+
+284
+00:29:51,190 --> 00:29:52,410
+Eu sei.
+
+285
+00:29:52,494 --> 00:29:56,320
+Eu quero,
+mas cada hora acontece alguma coisa.
+
+286
+00:29:56,404 --> 00:29:57,855
+Fica sentada.
+
+287
+00:30:00,177 --> 00:30:01,411
+Tudo bem.
+
+288
+00:30:07,582 --> 00:30:11,575
+-O que vamos construir?
+-Um castelo de areia.
+
+289
+00:30:13,855 --> 00:30:16,014
+Tem que fazer assim.
+
+290
+00:30:17,520 --> 00:30:21,080
+Será que o papai também quer brincar?
+
+291
+00:30:22,693 --> 00:30:24,121
+O papai?
+
+292
+00:30:44,143 --> 00:30:45,453
+Eve?
+
+293
+00:30:47,980 --> 00:30:49,280
+Eve?
+
+294
+00:30:50,943 --> 00:30:52,260
+Eve!
+
+295
+00:30:52,993 --> 00:30:54,360
+Eve!
+
+296
+00:30:54,444 --> 00:30:56,040
+Eve!
+Não!
+
+297
+00:30:56,498 --> 00:30:59,072
+-Eve! Eve!
+-Calma, está tudo bem.
+
+298
+00:30:59,156 --> 00:31:00,360
+Ei, ei.
+
+299
+00:31:01,119 --> 00:31:02,520
+Está tudo bem.
+
+300
+00:31:02,604 --> 00:31:04,092
+Foi só um sonho.
+
+301
+00:31:07,622 --> 00:31:08,840
+Tudo bem.
+
+302
+00:31:09,137 --> 00:31:11,085
+Só foi um sonho.
+
+303
+00:31:15,105 --> 00:31:17,040
+Quanto tempo fiquei apagada?
+
+304
+00:31:17,955 --> 00:31:19,423
+Difícil dizer.
+
+305
+00:31:20,400 --> 00:31:21,702
+Ai, droga!
+
+306
+00:31:22,114 --> 00:31:25,276
+-O que foi?
+-A minha cabeça está me matando.
+
+307
+00:31:25,360 --> 00:31:27,814
+-Vou dar uma olhada.
+-Não!
+
+308
+00:31:28,320 --> 00:31:29,720
+Só quero ajudar.
+
+309
+00:31:32,246 --> 00:31:33,457
+Vem cá.
+
+310
+00:31:34,072 --> 00:31:35,299
+Deixa eu ver.
+
+311
+00:31:38,113 --> 00:31:41,716
+Definitivamente tem algo aqui,
+sob a pele.
+
+312
+00:31:41,800 --> 00:31:43,236
+Está quente.
+
+313
+00:31:43,320 --> 00:31:45,526
+<i>Incrementar e iniciar.</i>
+
+314
+00:31:45,610 --> 00:31:47,613
+<i>Fase 2 começando.</i>
+
+315
+00:31:48,200 --> 00:31:50,332
+<i>Coloque a bola no balde.</i>
+
+316
+00:31:50,416 --> 00:31:53,396
+Quantos desses testes ainda faltam?
+
+317
+00:31:53,480 --> 00:31:56,240
+<i>Conclua a tarefa no tempo estipulado.</i>
+
+318
+00:31:57,280 --> 00:31:58,716
+Me responda!
+
+319
+00:31:58,800 --> 00:32:02,036
+<i>Se a tarefa não for concluída
+segundo parâmetros aceitáveis,</i>
+
+320
+00:32:02,120 --> 00:32:03,840
+-Diga!
+<i>-Sua filha vai morrer.</i>
+
+321
+00:32:03,924 --> 00:32:05,920
+Eileen, faça o que ela diz.
+
+322
+00:32:11,320 --> 00:32:13,081
+Vai lá, faça.
+
+323
+00:32:13,165 --> 00:32:16,633
+-Fazer o quê?
+-Coloque a bola no balde.
+
+324
+00:32:18,103 --> 00:32:21,600
+-Isso é loucura.
+-Apenas tente.
+
+325
+00:32:40,292 --> 00:32:41,792
+Que idiotice, porra!
+
+326
+00:32:41,876 --> 00:32:44,306
+-O que aconteceu?
+-Não aconteceu nada!
+
+327
+00:32:44,390 --> 00:32:47,996
+-É só se concentrar mais.
+-Agora é perito no assunto?
+
+328
+00:32:48,080 --> 00:32:49,162
+Não é hora disso.
+
+329
+00:32:49,246 --> 00:32:52,110
+Você consegue, como moveu o lápis.
+Sabe consegue.
+
+330
+00:32:52,194 --> 00:32:56,520
+Mesmo se movi, e não estou dizendo isso,
+como faço para controlar?
+
+331
+00:32:56,942 --> 00:32:58,920
+-Não sei.
+-Não brinca!
+
+332
+00:32:59,004 --> 00:33:00,880
+Droga, tudo bem.
+
+333
+00:33:07,360 --> 00:33:08,640
+O que vai fazer?
+
+334
+00:33:08,724 --> 00:33:11,800
+-Tirá-la da cadeira.
+-Já tentamos isso.
+
+335
+00:33:11,884 --> 00:33:15,027
+-Talvez se afrouxarmos os parafusos.
+-Como?
+
+336
+00:33:17,062 --> 00:33:18,679
+Com o seu poder.
+
+337
+00:33:18,763 --> 00:33:21,236
+Eileen, aquele lápis quebrou.
+
+338
+00:33:21,320 --> 00:33:25,852
+A bandeja voou da minha mão.
+Você tem uma habilidade e precisa usá-la.
+
+339
+00:33:25,936 --> 00:33:28,522
+Falta um minuto para fazer um milagre.
+
+340
+00:33:28,606 --> 00:33:31,160
+Ou quer salvar a Eve,
+ou não quer.
+
+341
+00:33:33,240 --> 00:33:34,485
+Eileen?
+
+342
+00:33:37,498 --> 00:33:38,710
+Está bem.
+
+343
+00:33:39,600 --> 00:33:40,680
+Beleza.
+
+344
+00:33:43,700 --> 00:33:44,906
+Vou tentar.
+
+345
+00:33:44,990 --> 00:33:48,280
+Se soltar a cadeira,
+posso movê-la para perto da mesa.
+
+346
+00:33:48,510 --> 00:33:50,516
+A mesa está aparafusada?
+
+347
+00:33:50,600 --> 00:33:52,916
+Sim, que nem a cadeira.
+
+348
+00:33:53,000 --> 00:33:55,880
+-Maior ou menor?
+-Bem menor.
+
+349
+00:33:55,964 --> 00:33:57,187
+Está bem.
+
+350
+00:34:12,842 --> 00:34:14,320
+Senti uma coisa.
+
+351
+00:34:15,720 --> 00:34:17,756
+Caramba, ele se mexeu.
+
+352
+00:34:17,840 --> 00:34:19,554
+Não sei descrever.
+
+353
+00:34:19,638 --> 00:34:21,082
+É frio, duro...
+
+354
+00:34:21,166 --> 00:34:23,829
+sinto nos dedos,
+só que na minha mente.
+
+355
+00:34:23,913 --> 00:34:25,615
+Tente de novo.
+
+356
+00:34:33,840 --> 00:34:34,960
+Está funcionando.
+
+357
+00:34:38,741 --> 00:34:42,040
+Está funcionando.
+Eileen, está conseguindo!
+
+358
+00:35:10,948 --> 00:35:12,440
+Já foi uma perna.
+
+359
+00:35:21,680 --> 00:35:23,440
+Duas agora.
+
+360
+00:35:31,600 --> 00:35:33,840
+Só falta mais um pouco.
+
+361
+00:35:33,924 --> 00:35:35,280
+Conseguiu!
+
+362
+00:35:45,373 --> 00:35:47,240
+Vamos lá, vamos lá.
+
+363
+00:35:53,000 --> 00:35:54,529
+Último parafuso.
+
+364
+00:36:00,920 --> 00:36:02,320
+Empurre!
+
+365
+00:36:03,800 --> 00:36:05,120
+Mas que merda!
+
+366
+00:36:06,280 --> 00:36:07,640
+Força!
+Empurre!
+
+367
+00:36:10,102 --> 00:36:11,840
+Estou tentando!
+
+368
+00:36:44,560 --> 00:36:46,280
+<i>Tarefa concluída.</i>
+
+369
+00:37:16,234 --> 00:37:17,795
+Você está bem?
+
+370
+00:37:20,372 --> 00:37:21,622
+Estou.
+
+371
+00:37:25,615 --> 00:37:28,849
+-Olha, Eileen.
+-Está tudo bem.
+
+372
+00:37:28,932 --> 00:37:30,240
+Não.
+
+373
+00:37:30,448 --> 00:37:31,968
+Não está.
+
+374
+00:37:34,152 --> 00:37:35,496
+Sinto muito.
+
+375
+00:37:36,956 --> 00:37:38,360
+De verdade.
+
+376
+00:37:38,822 --> 00:37:41,007
+Passei dos limites.
+
+377
+00:37:41,815 --> 00:37:44,077
+Estamos aqui juntos e...
+
+378
+00:37:45,513 --> 00:37:48,200
+Só estava pensando em mim mesmo.
+
+379
+00:37:51,560 --> 00:37:52,520
+Então?
+
+380
+00:37:54,280 --> 00:37:55,908
+Me perdoa?
+
+381
+00:38:02,280 --> 00:38:03,840
+Que bom.
+
+382
+00:38:09,490 --> 00:38:12,360
+Quando comeu pela última vez?
+
+383
+00:38:12,444 --> 00:38:17,556
+Que sorte!
+O <i>chef</i> Roger está a seu dispor.
+
+384
+00:38:17,640 --> 00:38:19,400
+Deus, o francês não.
+
+385
+00:38:19,484 --> 00:38:20,720
+Hã-hã.
+
+386
+00:38:24,733 --> 00:38:29,374
+-Você fazia a Eve rir assim.
+-Que bom.
+
+387
+00:38:29,681 --> 00:38:31,920
+Você está se lembrando.
+
+388
+00:38:34,112 --> 00:38:35,669
+O que mais?
+
+389
+00:38:40,320 --> 00:38:42,960
+<i>-A praia.</i>
+<i>-A praia?</i>
+
+390
+00:38:43,659 --> 00:38:45,840
+<i>Levamos a Eve para a praia.</i>
+
+391
+00:38:49,680 --> 00:38:51,245
+<i>Isso mesmo.</i>
+
+392
+00:38:51,760 --> 00:38:53,623
+<i>Era aniversário dela.</i>
+
+393
+00:38:54,032 --> 00:38:56,359
+<i>A Eve adorava a praia.</i>
+
+394
+00:39:12,155 --> 00:39:13,880
+Só isso.
+
+395
+00:39:14,792 --> 00:39:17,227
+Você, Eve e a praia.
+
+396
+00:39:18,922 --> 00:39:21,217
+Não lembro de mais nada.
+
+397
+00:39:25,131 --> 00:39:29,265
+Talvez essa coisa na sua cabeça
+esteja bloqueando.
+
+398
+00:39:32,480 --> 00:39:35,080
+O que acha que significa tudo isso?
+
+399
+00:39:36,541 --> 00:39:37,934
+Não sei.
+
+400
+00:39:38,968 --> 00:39:40,183
+Bem...
+
+401
+00:39:41,747 --> 00:39:43,441
+Seja como for...
+
+402
+00:39:46,106 --> 00:39:48,916
+É bom se apegar às coisas que temos.
+
+403
+00:39:49,000 --> 00:39:51,129
+Eve e as coisas boas.
+
+404
+00:39:51,499 --> 00:39:54,430
+Se ainda estiverem aí dentro
+e continuarmos tentando
+
+405
+00:39:54,514 --> 00:39:56,743
+talvez possamos revivê-las um dia.
+
+406
+00:39:57,110 --> 00:39:59,313
+Você, eu, a Eve...
+
+407
+00:39:59,397 --> 00:40:01,283
+a praia também pode ser.
+
+408
+00:40:26,091 --> 00:40:27,883
+Você está certo, sabe?
+
+409
+00:40:28,112 --> 00:40:31,104
+Há muito tempo não escuto você dizer isso.
+
+410
+00:40:31,573 --> 00:40:34,884
+Provavelmente há muito tempo
+que você não está certo.
+
+411
+00:40:42,880 --> 00:40:44,400
+<i>Vire a página.</i>
+
+412
+00:40:44,776 --> 00:40:46,311
+<i>Encha o balde.</i>
+
+413
+00:40:47,011 --> 00:40:48,596
+<i>Gire a garrafa.</i>
+
+414
+00:40:49,036 --> 00:40:51,056
+<i>Construa um castelo.</i>
+
+415
+00:42:15,040 --> 00:42:16,970
+<i>Tarefa concluída.</i>
+
+416
+00:42:51,429 --> 00:42:54,240
+Acho que primeiro é a mola da armadilha.
+
+417
+00:43:03,841 --> 00:43:06,040
+Não é essa a mola da armadilha.
+
+418
+00:43:10,789 --> 00:43:13,600
+-Também não é essa.
+-Diga logo qual é.
+
+419
+00:43:19,440 --> 00:43:20,956
+Obrigada.
+
+420
+00:43:21,733 --> 00:43:23,360
+E agora?
+
+421
+00:43:25,323 --> 00:43:27,160
+A trava da empunhadura.
+
+422
+00:43:31,630 --> 00:43:34,619
+Seria mais rápido
+se organizasse as peças primeiro?
+
+423
+00:43:34,703 --> 00:43:39,500
+Não, seria mais rápido se você dissesse
+qual peça vai aonde em vez de tentar...
+
+424
+00:43:39,584 --> 00:43:40,916
+Tentar o quê?
+
+425
+00:43:41,000 --> 00:43:44,556
+Nada, deixe-me fazer sozinha,
+não preciso da sua ajuda.
+
+426
+00:43:44,640 --> 00:43:47,859
+-Beleza, como queira.
+-Típico.
+
+427
+00:43:48,240 --> 00:43:49,716
+Por que isso?
+
+428
+00:43:49,800 --> 00:43:53,000
+-Porque não está ajudando.
+-Não, por que uma arma?
+
+429
+00:43:53,084 --> 00:43:55,958
+-Não faz sentido.
+-E alguma coisa aqui faz?
+
+430
+00:43:56,042 --> 00:43:58,320
+Teve areia, bolas, baldes, pás...
+
+431
+00:43:58,920 --> 00:44:01,520
+-É a Eve e a praia, entendi...
+-Pare.
+
+432
+00:44:01,604 --> 00:44:05,516
+São gatilhos emocionais, talvez
+amplifiquem suas habilidades, mas isso?
+
+433
+00:44:05,600 --> 00:44:08,036
+Por que querem que aprenda
+a usar uma arma?
+
+434
+00:44:08,120 --> 00:44:10,640
+Sabemos por quê estão te testando,
+mas não o que querem.
+
+435
+00:44:10,724 --> 00:44:12,720
+Não importa o que querem.
+
+436
+00:44:14,664 --> 00:44:17,090
+Deixa eu me concentrar.
+
+437
+00:44:25,480 --> 00:44:28,160
+-Não é aí...
+-Que aberração esse controle!
+
+438
+00:44:31,402 --> 00:44:34,968
+-Só estou tentando ajudar.
+-A quê? Enlouquecer?
+
+439
+00:44:35,052 --> 00:44:37,400
+A controlar isso.
+
+440
+00:44:45,016 --> 00:44:48,516
+Engraçado...
+Você, um especialista em controle?
+
+441
+00:44:48,600 --> 00:44:51,600
+Engraçado...
+Você me chamando de aberração.
+
+442
+00:44:54,032 --> 00:44:55,680
+O que disse?
+
+443
+00:44:57,482 --> 00:45:00,200
+-Esquece.
+-Me chame de aberração de novo.
+
+444
+00:45:00,284 --> 00:45:02,000
+Chega, já disse.
+
+445
+00:45:02,084 --> 00:45:05,840
+Você disse "chega",
+então o assunto acabou?
+
+446
+00:45:08,172 --> 00:45:11,956
+Não sei o que é pior.
+Ficar presa nesta sala, ou presa com você.
+
+447
+00:45:12,040 --> 00:45:14,013
+Começou, preciso de...
+
+448
+00:45:14,097 --> 00:45:18,559
+De uma bebida? Ótimo.
+Talvez desmaie e eu possa me concentrar.
+
+449
+00:45:18,643 --> 00:45:22,876
+Se você se olhasse às vezes,
+entenderia porque comecei a beber.
+
+450
+00:45:22,960 --> 00:45:26,396
+É sempre os outros,
+você é alcoólatra e a culpa é minha.
+
+451
+00:45:26,480 --> 00:45:28,529
+Como se lembra dessa merda toda?
+
+452
+00:45:28,613 --> 00:45:33,156
+Não tinham apagado sua memória?
+Ou era uma farsa, como tudo o que diz?
+
+453
+00:45:33,240 --> 00:45:35,196
+A única farsa é a sua pose.
+
+454
+00:45:35,280 --> 00:45:37,880
+-Não se trata de mim.
+-É sempre você.
+
+455
+00:45:37,964 --> 00:45:39,836
+Vá à merda, Eileen!
+
+456
+00:45:39,920 --> 00:45:42,600
+Não pedi por nada disso!
+
+457
+00:45:44,689 --> 00:45:46,596
+Certo, beleza.
+
+458
+00:45:46,680 --> 00:45:51,016
+-Vamos recomeçar, desculpa.
+-Isso soa familiar.
+
+459
+00:45:54,120 --> 00:45:56,888
+Eileen, eu pedi desculpa.
+
+460
+00:45:56,972 --> 00:45:58,926
+A palavrinha mágica...
+
+461
+00:45:59,010 --> 00:46:02,320
+"Desculpa, Eileen.
+É só uma bebida."
+
+462
+00:46:05,200 --> 00:46:09,103
+"Desculpa, Eileen.
+Desculpa, desculpa, desculpa..."
+
+463
+00:46:12,270 --> 00:46:15,080
+Certo.
+Se acalme.
+
+464
+00:46:17,394 --> 00:46:18,955
+Estou super calma.
+
+465
+00:46:19,377 --> 00:46:23,637
+<i>-Carregue a arma, Eileen.</i>
+-Ei, espere aí.
+
+466
+00:46:44,320 --> 00:46:46,000
+Muito bem, Eileen.
+
+467
+00:46:46,416 --> 00:46:49,120
+Tarefa concluída, fim do teste.
+
+468
+00:46:50,840 --> 00:46:52,036
+Ei!
+
+469
+00:46:52,120 --> 00:46:54,920
+Olhe para mim.
+Não estamos aqui para nos matar,
+
+470
+00:46:55,234 --> 00:46:57,240
+mas para salvar a nossa filha.
+
+471
+00:46:58,400 --> 00:47:01,040
+Ei, ei!
+Estamos aqui para salvar a Eve!
+
+472
+00:47:01,560 --> 00:47:02,800
+Querida, acorde.
+
+473
+00:47:16,560 --> 00:47:19,600
+<i>Tarefa concluída.</i>
+
+474
+00:47:45,097 --> 00:47:50,880
+-A gente nunca vai acabar o castelo.
+-Mas já está tão bom.
+
+475
+00:47:51,215 --> 00:47:53,503
+Você fez tudo sozinha?
+
+476
+00:47:53,603 --> 00:47:57,400
+Papai disse que ajudaria,
+mas não ajudou.
+
+477
+00:48:04,458 --> 00:48:05,960
+Opa!
+
+478
+00:48:11,156 --> 00:48:16,160
+O papai é tão desastrado às vezes.
+
+479
+00:49:21,974 --> 00:49:23,217
+Ei.
+
+480
+00:49:26,271 --> 00:49:27,500
+Ei.
+
+481
+00:49:35,619 --> 00:49:36,949
+Oi.
+
+482
+00:49:38,922 --> 00:49:40,268
+Oi?
+
+483
+00:49:42,706 --> 00:49:44,291
+Você está bem?
+
+484
+00:49:45,917 --> 00:49:47,720
+Estou com frio.
+
+485
+00:49:48,305 --> 00:49:50,406
+Morrendo de frio.
+
+486
+00:49:58,760 --> 00:50:01,000
+Precisa comer um pouco.
+
+487
+00:50:07,518 --> 00:50:10,120
+Acha que vão nos soltar?
+
+488
+00:50:12,877 --> 00:50:15,114
+Acho, com certeza.
+
+489
+00:50:16,078 --> 00:50:18,200
+Só temos que continuar lutando.
+
+490
+00:50:19,218 --> 00:50:21,440
+Nos concentrar no futuro.
+
+491
+00:50:22,766 --> 00:50:24,294
+No futuro?
+
+492
+00:50:25,011 --> 00:50:28,053
+No que faremos
+quando recuperarmos a Eve.
+
+493
+00:50:30,335 --> 00:50:32,564
+Eu só quero abraçá-la
+
+494
+00:50:33,276 --> 00:50:35,560
+e nunca mais soltar.
+
+495
+00:50:36,214 --> 00:50:39,245
+Vamos começar um show de mágica um dia.
+
+496
+00:50:39,421 --> 00:50:43,476
+Eu uso uma cartola
+e você levita as coisas dos bastidores.
+
+497
+00:50:43,560 --> 00:50:45,190
+Roger, o Grande.
+
+498
+00:50:46,278 --> 00:50:50,009
+Caramba,
+você poderia dobrar colheres.
+
+499
+00:51:02,825 --> 00:51:04,800
+Como nos conhecemos?
+
+500
+00:51:06,871 --> 00:51:08,636
+Não se lembra?
+
+501
+00:51:11,863 --> 00:51:15,800
+Não consigo entender o que você sabe
+e o que não sabe.
+
+502
+00:51:18,583 --> 00:51:19,930
+É como se...
+
+503
+00:51:20,719 --> 00:51:22,208
+ela ou...
+
+504
+00:51:23,695 --> 00:51:25,463
+a voz ou sei lá...
+
+505
+00:51:27,382 --> 00:51:31,809
+só quisesse me mostrar certas coisas
+em momentos específicos.
+
+506
+00:51:33,176 --> 00:51:35,209
+Apenas fragmentos
+
+507
+00:51:37,455 --> 00:51:39,920
+que depois desaparecem.
+
+508
+00:51:40,322 --> 00:51:41,600
+Que nem...
+
+509
+00:51:43,105 --> 00:51:45,819
+escrever no vidro embaçado.
+
+510
+00:51:48,098 --> 00:51:52,270
+Se tento forçar, não lembro de nada.
+
+511
+00:51:55,319 --> 00:51:58,045
+Nem sei no que trabalhava.
+
+512
+00:51:59,504 --> 00:52:03,204
+Você era professora.
+Bem, estava se formando.
+
+513
+00:52:03,288 --> 00:52:04,610
+Nossa...
+
+514
+00:52:05,480 --> 00:52:08,009
+Estava me formando no quê?
+
+515
+00:52:08,093 --> 00:52:09,309
+Bem...
+
+516
+00:52:10,406 --> 00:52:15,200
+Física de Matéria Condensada.
+Nem pergunta, porque não faço ideia.
+
+517
+00:52:15,284 --> 00:52:18,800
+Só via os livros espalhados
+pela mesa da cozinha.
+
+518
+00:52:21,493 --> 00:52:23,960
+Você era tão inteligente.
+
+519
+00:52:24,652 --> 00:52:29,120
+Nunca saberei o que viu
+em alguém como eu.
+
+520
+00:52:31,614 --> 00:52:33,720
+A gente se conheceu na faculdade?
+
+521
+00:52:35,018 --> 00:52:36,920
+Eu tinha uma banda de Rock.
+
+522
+00:52:37,189 --> 00:52:39,916
+-Você tocava?
+-Cantava.
+
+523
+00:52:40,000 --> 00:52:41,720
+Não lembra mesmo?
+
+524
+00:52:43,714 --> 00:52:45,614
+Conte a história.
+
+525
+00:52:46,400 --> 00:52:48,406
+Qual era o nome da banda?
+
+526
+00:52:53,078 --> 00:52:55,080
+Oceano da Morte.
+
+527
+00:52:58,280 --> 00:53:00,440
+-Meio tosco.
+-Eu sei.
+
+528
+00:53:00,524 --> 00:53:05,480
+Disse a mesma coisa na época,
+mas também disse que amava o oceano.
+
+529
+00:53:08,037 --> 00:53:10,480
+Depois a Eve nasceu
+
+530
+00:53:10,985 --> 00:53:12,396
+e eu larguei.
+
+531
+00:53:12,480 --> 00:53:15,440
+Música lenta e aflição
+não dá grana.
+
+532
+00:53:17,875 --> 00:53:20,119
+Queria poder me lembrar.
+
+533
+00:53:20,880 --> 00:53:23,157
+Talvez seja melhor assim.
+
+534
+00:53:25,880 --> 00:53:28,433
+-Errei muito, Eileen.
+-Não acredito.
+
+535
+00:53:28,517 --> 00:53:31,200
+Decepcionei você muitas vezes.
+
+536
+00:53:31,642 --> 00:53:34,945
+Fala sério.
+Eu também devo ter errado.
+
+537
+00:53:35,029 --> 00:53:39,558
+Você era uma chata de galocha, às vezes.
+Bem, quase sempre.
+
+538
+00:53:39,642 --> 00:53:41,000
+Mas nem sempre.
+
+539
+00:53:54,278 --> 00:53:57,270
+Mas sempre te culpei
+pelos meus problemas.
+
+540
+00:53:58,505 --> 00:54:00,827
+As coisas pareciam boas, mas...
+
+541
+00:54:16,052 --> 00:54:17,270
+Está quente.
+
+542
+00:54:17,760 --> 00:54:19,269
+Foi você?
+
+543
+00:54:22,125 --> 00:54:24,299
+Eu precisava de algo quente.
+
+544
+00:54:24,720 --> 00:54:26,046
+Caramba!
+
+545
+00:54:26,883 --> 00:54:29,121
+Nem percebi que tinha feito.
+
+546
+00:54:31,025 --> 00:54:34,160
+Física de matéria condensada, certo?
+
+547
+00:54:52,830 --> 00:54:54,402
+Roger?
+
+548
+00:54:59,110 --> 00:55:00,599
+Sinto muito.
+
+549
+00:55:01,600 --> 00:55:03,520
+Por quê?
+
+550
+00:55:05,570 --> 00:55:07,175
+Não sei.
+
+551
+00:55:09,280 --> 00:55:10,829
+Eu só sinto.
+
+552
+00:55:12,077 --> 00:55:15,009
+Gostaria de me lembrar por quê.
+
+553
+00:57:22,987 --> 00:57:25,800
+<i>Incrementar e iniciar.</i>
+
+554
+00:57:33,103 --> 00:57:34,320
+Eileen!
+
+555
+00:57:35,201 --> 00:57:37,299
+Eileen, levante-se!
+
+556
+00:57:37,920 --> 00:57:39,591
+Eileen, acorde!
+
+557
+00:57:39,777 --> 00:57:41,480
+<i>Salve Roger.</i>
+
+558
+00:57:43,094 --> 00:57:45,390
+Eileen, acorde!
+
+559
+00:57:47,040 --> 00:57:49,400
+Me tire dessa droga!
+
+560
+00:57:53,120 --> 00:57:55,956
+Certo, tente ficar calmo.
+
+561
+00:57:56,040 --> 00:57:58,526
+Claro, tranquilidade pura!
+
+562
+00:57:58,610 --> 00:58:01,600
+-Vou dar um jeito.
+-Tente parar a areia.
+
+563
+00:58:01,684 --> 00:58:03,009
+Vou tentar!
+
+564
+00:58:07,000 --> 00:58:09,832
+O que está acontecendo?
+Eileen?
+
+565
+00:58:13,240 --> 00:58:14,160
+Eileen!
+
+566
+00:58:14,592 --> 00:58:15,916
+Não consigo!
+
+567
+00:58:16,000 --> 00:58:18,985
+Estou quase sem tempo,
+vou morrer aqui!
+
+568
+00:58:19,069 --> 00:58:22,160
+Não vai, não!
+Vou dar um jeito.
+
+569
+00:58:26,200 --> 00:58:27,520
+O que está fazendo?
+
+570
+00:58:29,228 --> 00:58:32,400
+-O que está fazendo?
+-Tentando ver melhor!
+
+571
+00:58:33,512 --> 00:58:34,680
+Eileen!
+
+572
+00:58:34,764 --> 00:58:37,316
+Está todo vedado.
+
+573
+00:58:37,400 --> 00:58:39,876
+-Consegue quebrar?
+-Vamos tentar.
+
+574
+00:58:39,960 --> 00:58:41,800
+Boa ideia, vamos juntos.
+
+575
+00:58:41,884 --> 00:58:43,680
+-Certo.
+-Vamos lá.
+
+576
+00:58:50,816 --> 00:58:54,280
+Mas que merda!
+Precisamos tentar outra coisa.
+
+577
+00:58:55,420 --> 00:58:58,884
+A cadeira,
+vou tentar quebrar com ela.
+
+578
+00:59:08,320 --> 00:59:11,400
+-Vou contar até três.
+-Quebre logo!
+
+579
+00:59:14,040 --> 00:59:16,320
+O quê!?
+Está brincando!?
+
+580
+00:59:16,404 --> 00:59:19,707
+Pegue ela!
+Pegue a porra da cadeira!
+
+581
+00:59:19,791 --> 00:59:21,560
+Por que está parando?
+
+582
+00:59:21,644 --> 00:59:23,320
+Não pare, porra!
+
+583
+00:59:23,404 --> 00:59:25,760
+Tente, Eileen!
+Precisa me salvar!
+
+584
+00:59:25,844 --> 00:59:29,040
+Eileen!
+Eileen, me ajude!
+
+585
+00:59:31,503 --> 00:59:33,954
+Eileen!
+Está de brincadeira?
+
+586
+00:59:34,038 --> 00:59:36,432
+Não pode me deixar morrer aqui!
+
+587
+00:59:36,516 --> 00:59:39,640
+Não pare, precisa continuar.
+Eu te amo!
+
+588
+00:59:39,725 --> 00:59:40,960
+Eileen!
+
+589
+00:59:44,560 --> 00:59:45,867
+Desculpa.
+
+590
+00:59:46,080 --> 00:59:47,756
+Desculpa.
+
+591
+00:59:47,840 --> 00:59:49,675
+Sinto muito.
+
+592
+00:59:59,697 --> 01:00:01,337
+Desculpa.
+
+593
+01:00:06,037 --> 01:00:07,576
+Desculpa!
+
+594
+01:00:28,508 --> 01:00:31,108
+Por que está fazendo isso?
+
+595
+01:00:32,296 --> 01:00:36,549
+<i>A tarefa não foi concluída
+segundo os parâmetros especificados.</i>
+
+596
+01:00:36,633 --> 01:00:38,246
+Foda-se!
+
+597
+01:00:42,960 --> 01:00:44,526
+Espere.
+Não!
+
+598
+01:00:44,610 --> 01:00:48,422
+<i>A tarefa não foi concluída
+segundo os parâmetros especificados.</i>
+
+599
+01:00:48,506 --> 01:00:51,341
+Então é isso?
+Eu falhei?
+
+600
+01:00:54,037 --> 01:00:55,686
+Não.
+E a Eve?
+
+601
+01:00:55,770 --> 01:00:59,633
+<i>A tarefa não foi concluída
+segundo os parâmetros especificados.</i>
+
+602
+01:00:59,717 --> 01:01:01,147
+Não, não!
+
+603
+01:01:01,231 --> 01:01:03,561
+Espere, por favor!
+
+604
+01:01:03,645 --> 01:01:05,211
+Por favor, eu...
+
+605
+01:01:06,065 --> 01:01:08,280
+Não, espere!
+
+606
+01:01:09,794 --> 01:01:11,995
+Por favor, ela não...
+
+607
+01:01:14,640 --> 01:01:17,375
+Não, não!
+Me passe outro teste.
+
+608
+01:01:17,459 --> 01:01:20,360
+Por favor, outro.
+Vou me esforçar mais.
+
+609
+01:01:20,444 --> 01:01:22,516
+Prometo me esforçar mais.
+
+610
+01:01:23,037 --> 01:01:25,106
+Farei o que você quiser.
+
+611
+01:01:25,190 --> 01:01:29,120
+<i>A tarefa não foi concluída
+segundo os parâmetros especificados.</i>
+
+612
+01:01:29,204 --> 01:01:31,320
+Os parâmetros que se fodam!
+
+613
+01:01:36,687 --> 01:01:38,953
+<i>Fase 2 concluída.</i>
+
+614
+01:02:03,000 --> 01:02:04,640
+Venha com a gente.
+
+615
+01:02:05,390 --> 01:02:07,392
+Onde está a minha filha?
+
+616
+01:02:08,396 --> 01:02:10,701
+Não dificulte as coisas.
+
+617
+01:04:38,177 --> 01:04:41,600
+TESTE 0298
+EM PROGRESSO
+
+618
+01:05:09,507 --> 01:05:12,560
+Não a deixem chegar
+a uma distância crítica.
+
+619
+01:05:14,640 --> 01:05:15,840
+Fogo!
+
+620
+01:06:57,150 --> 01:06:58,356
+Espere.
+
+621
+01:06:58,440 --> 01:07:01,283
+Não, por favor.
+Eu tenho uma filha.
+
+622
+01:07:02,120 --> 01:07:03,589
+Espere!
+
+623
+01:08:36,240 --> 01:08:40,302
+TESTE 0297
+CONCLUÍDO
+
+624
+01:10:00,440 --> 01:10:04,437
+MATERIAIS - SUPRIMENTOS
+SOBRESSALENTES
+
+625
+01:10:08,805 --> 01:10:10,660
+São todos iguais a mim.
+
+626
+01:10:10,744 --> 01:10:12,562
+São todos iguais a mim.
+
+627
+01:10:19,484 --> 01:10:21,353
+São todos iguais a mim.
+
+628
+01:10:23,676 --> 01:10:25,571
+São todos iguais a mim.
+
+629
+01:10:31,912 --> 01:10:34,280
+São todos iguais a mim.
+
+630
+01:10:34,558 --> 01:10:36,304
+Quem é igual a você?
+
+631
+01:10:42,169 --> 01:10:44,068
+São todos iguais a mim.
+
+632
+01:10:45,237 --> 01:10:47,105
+São todos iguais a mim.
+
+633
+01:10:52,336 --> 01:10:54,252
+São todos iguais a mim.
+
+634
+01:10:56,241 --> 01:10:58,214
+São todos iguais a mim.
+
+635
+01:11:44,369 --> 01:11:46,369
+São todos iguais a mim.
+
+636
+01:11:47,038 --> 01:11:48,330
+Viu?
+
+637
+01:11:49,096 --> 01:11:51,171
+São todos iguais a mim.
+
+638
+01:11:53,704 --> 01:11:56,375
+São todos iguais a mim.
+
+639
+01:11:59,656 --> 01:12:01,009
+Eles são...
+
+640
+01:12:01,194 --> 01:12:03,094
+São todos iguais a mim.
+
+641
+01:12:44,596 --> 01:12:45,902
+Fogo!
+
+642
+01:12:50,720 --> 01:12:52,200
+Recarregar!
+
+643
+01:12:54,720 --> 01:12:55,840
+Parem.
+
+644
+01:13:07,746 --> 01:13:09,680
+Que porra é essa?
+
+645
+01:13:09,977 --> 01:13:11,880
+Que porra é essa?
+
+646
+01:16:19,777 --> 01:16:21,012
+Eve?
+
+647
+01:16:21,981 --> 01:16:23,243
+Eve!
+
+648
+01:16:24,849 --> 01:16:26,050
+Eve!
+
+649
+01:16:35,360 --> 01:16:37,680
+Devolva-a para mim.
+
+650
+01:16:40,600 --> 01:16:44,080
+Devolva a minha filha!
+
+651
+01:16:44,164 --> 01:16:46,135
+<i>Fase 3 concluída.</i>
+
+652
+01:16:46,219 --> 01:16:49,040
+<i>O ciclo de testes foi concluído.</i>
+
+653
+01:16:57,035 --> 01:16:58,469
+Quer dizer...
+
+654
+01:16:59,717 --> 01:17:00,991
+Eu consegui?
+
+655
+01:17:02,799 --> 01:17:05,285
+<i>Você concluiu o ciclo de testes.</i>
+
+656
+01:17:06,858 --> 01:17:08,186
+Eu a salvei.
+
+657
+01:17:09,394 --> 01:17:10,694
+Eu consegui.
+
+658
+01:17:11,997 --> 01:17:14,803
+Então, cadê ela?
+Quero vê-la.
+
+659
+01:17:15,206 --> 01:17:17,516
+<i>Isso não é possível.</i>
+
+660
+01:17:17,600 --> 01:17:20,826
+Por que não?
+Você disse que concluí o teste.
+
+661
+01:17:21,188 --> 01:17:23,389
+<i>Eve se foi.</i>
+
+662
+01:17:23,473 --> 01:17:25,925
+Se foi?
+O que quer dizer?
+
+663
+01:17:26,080 --> 01:17:29,220
+<i>Desabilitando
+controle de memória seletiva.</i>
+
+664
+01:18:17,656 --> 01:18:19,480
+Você gostou, mamãe?
+
+665
+01:18:21,599 --> 01:18:22,837
+Amei.
+
+666
+01:18:26,520 --> 01:18:29,160
+Será que o papai quer brincar?
+
+667
+01:18:36,960 --> 01:18:39,299
+Te peguei, está com você!
+
+668
+01:18:40,656 --> 01:18:42,640
+-Agora vou te pegar!
+-Vai?
+
+669
+01:18:42,724 --> 01:18:44,424
+Monstro da cosquinha!
+
+670
+01:18:45,280 --> 01:18:47,403
+-Vou te pegar!
+-Vai?
+
+671
+01:18:47,617 --> 01:18:48,756
+Será?
+
+672
+01:18:48,840 --> 01:18:50,560
+Será que são todas gaivotas?
+
+673
+01:18:51,462 --> 01:18:54,815
+-A maioria, sim.
+-Olha só essa voando.
+
+674
+01:18:54,899 --> 01:18:56,520
+Legal!
+
+675
+01:19:33,237 --> 01:19:34,820
+Precisamos ir.
+
+676
+01:19:35,440 --> 01:19:38,503
+-Mais 20 minutinhos.
+-Vamos nos atrasar.
+
+677
+01:19:38,587 --> 01:19:41,080
+Não quero lidar com sua mãe
+e o relógio dela.
+
+678
+01:19:41,164 --> 01:19:44,200
+-Ainda não acabei.
+-Está quente, tem mais no carro.
+
+679
+01:19:44,451 --> 01:19:45,920
+Eu falei para largar.
+
+680
+01:19:51,720 --> 01:19:53,767
+Deixa disso, Eileen.
+
+681
+01:20:01,934 --> 01:20:04,169
+-Você prometeu.
+-Desculpa.
+
+682
+01:20:04,253 --> 01:20:06,455
+Você sempre pede desculpa.
+
+683
+01:20:06,539 --> 01:20:11,160
+-Podemos não brigar na frente dela?
+-De repente é o pai do ano?
+
+684
+01:20:12,248 --> 01:20:15,331
+-Minha nossa!
+-Quando então, Roger?
+
+685
+01:20:15,800 --> 01:20:18,821
+Quando vai parar?
+Quando vai crescer, porra?
+
+686
+01:20:18,905 --> 01:20:21,880
+Quando eu acordar feliz!
+Que tal?
+
+687
+01:20:22,163 --> 01:20:26,076
+Quando não estiver mais deprimido.
+Que tal?
+
+688
+01:20:26,240 --> 01:20:29,760
+Talvez se me desse uma gota da atenção
+que costumava dar,
+
+689
+01:20:29,844 --> 01:20:32,876
+só uma gotícula
+do que mostra por ela.
+
+690
+01:20:32,960 --> 01:20:36,116
+Aí não acordaria em casa
+me sentindo na prisão.
+
+691
+01:20:36,200 --> 01:20:39,422
+-Está com ciúmes da filha.
+-Não foi o que eu disse!
+
+692
+01:20:41,280 --> 01:20:44,560
+-Foi exatamente o que...
+-Cale a boca!
+
+693
+01:20:45,720 --> 01:20:47,520
+Você é patético.
+
+694
+01:21:32,124 --> 01:21:33,357
+Não...
+
+695
+01:21:33,800 --> 01:21:36,592
+Não pode ser.
+Não é verdade.
+
+696
+01:21:41,200 --> 01:21:43,172
+É sonho, ela ainda está viva.
+
+697
+01:21:43,256 --> 01:21:46,760
+<i>Incorreto.
+Eve não sobreviveu à ocorrência incitante.</i>
+
+698
+01:21:47,150 --> 01:21:49,010
+Alguém me ajude!
+
+699
+01:21:51,133 --> 01:21:53,094
+Eu falei com ela.
+
+700
+01:21:53,280 --> 01:21:57,036
+Falei com ela na sala de testes,
+nos meus sonhos.
+
+701
+01:21:57,120 --> 01:21:59,779
+<i>Simulações neurais reconstruídas.</i>
+
+702
+01:22:00,400 --> 01:22:03,624
+<i>Gatilhos emocionais para recriar
+a ocorrência.</i>
+
+703
+01:22:03,708 --> 01:22:04,915
+Por quê?
+
+704
+01:22:05,324 --> 01:22:09,309
+Por que me mostrar?
+Por que fazer isso?
+
+705
+01:22:09,393 --> 01:22:14,476
+<i>O bloco de memória deve ser removido
+antes do recondicionamento no depósito.</i>
+
+706
+01:22:14,560 --> 01:22:15,840
+RECONDICIONAMENTO
+
+707
+01:22:17,017 --> 01:22:20,308
+<i>Queira prosseguir
+para o recondicionamento.</i>
+
+708
+01:22:29,181 --> 01:22:30,529
+Depois...
+
+709
+01:22:33,387 --> 01:22:35,982
+ainda me lembrarei do que fiz?
+
+710
+01:22:36,420 --> 01:22:38,016
+<i>Não.</i>
+
+711
+01:22:38,939 --> 01:22:41,880
+<i>Queira prosseguir
+para o recondicionamento.</i>
+
+712
+01:22:46,198 --> 01:22:48,040
+<i>Está indo embora, mamãe?</i>
+
+713
+01:22:55,307 --> 01:22:56,912
+Sinto muito.
+
+714
+01:22:58,200 --> 01:23:01,240
+Você não vai brincar comigo?
+
+715
+01:23:08,632 --> 01:23:10,161
+Não posso.
+
+716
+01:23:11,622 --> 01:23:13,612
+Não posso deixá-la.
+
+717
+01:23:15,227 --> 01:23:17,400
+<i>Eve já se foi.</i>
+
+718
+01:23:18,002 --> 01:23:19,487
+Eu sei.
+
+719
+01:23:20,278 --> 01:23:22,360
+Mas tem que haver uma maneira.
+
+720
+01:23:23,268 --> 01:23:25,282
+<i>Não há.</i>
+
+721
+01:23:25,366 --> 01:23:26,720
+Por favor?
+
+722
+01:23:27,248 --> 01:23:29,616
+<i>Prossiga para o recondicionamento.</i>
+
+723
+01:23:29,700 --> 01:23:33,642
+<i>A memória do evento e consequente culpa
+serão apagadas.</i>
+
+724
+01:23:34,255 --> 01:23:37,440
+Isso significa que a Eve será apagada.
+
+725
+01:23:37,524 --> 01:23:41,000
+Na sala de testes, nos meus sonhos,
+ela ainda está lá.
+
+726
+01:23:41,084 --> 01:23:42,844
+Esperando por mim.
+
+727
+01:23:44,125 --> 01:23:47,302
+<i>Estas instalações
+cumprem apenas duas funções.</i>
+
+728
+01:23:47,386 --> 01:23:49,952
+<i>Experimentação e recondicionamento.</i>
+
+729
+01:23:50,036 --> 01:23:52,880
+<i>-Queira prosseguir...</i>
+-Deixe-me ir de novo.
+
+730
+01:23:53,300 --> 01:23:56,317
+<i>-Você deseja refazer o teste?</i>
+-Sim.
+
+731
+01:23:56,631 --> 01:23:58,720
+Sim, refazer o teste.
+
+732
+01:23:59,670 --> 01:24:03,976
+Se não posso salvá-la,
+pelo menos deixe-me acreditar que posso.
+
+733
+01:24:04,060 --> 01:24:05,338
+Mais uma vez.
+
+734
+01:24:06,244 --> 01:24:07,591
+Por favor?
+
+735
+01:24:09,374 --> 01:24:10,723
+Por favor!
+
+736
+01:24:12,317 --> 01:24:13,966
+<i>Permissão concedida.</i>
+
+737
+01:24:14,050 --> 01:24:16,840
+<i>Prepare-se
+para redefinição do experimento.</i>
+
+738
+01:24:20,563 --> 01:24:21,783
+Está bem.
+
+739
+01:24:26,424 --> 01:24:27,658
+Estou pronta.
+
+740
+01:25:11,779 --> 01:25:14,040
+<i>Incrementar e iniciar.</i>
+
+741
+01:25:14,672 --> 01:25:16,724
+<i>Fase 1 começando.</i>
+
+742
+01:25:17,782 --> 01:25:19,037
+Olá?
+
+743
+01:25:19,796 --> 01:25:21,765
+<i>Mova o lápis.</i>

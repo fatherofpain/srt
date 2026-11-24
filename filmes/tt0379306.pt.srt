@@ -1,0 +1,5363 @@
+1
+00:00:42,100 --> 00:00:44,352
+<i>Eu estava mexendo</i>
+<i>no meu guarda-roupa...</i>
+
+2
+00:00:44,478 --> 00:00:47,272
+<i>e encontrei um grampo</i>
+<i>no chão.</i>
+
+3
+00:00:47,356 --> 00:00:50,109
+<i>Isso não é nada. Encontrei</i>
+<i>cabelo dela na minha cama.</i>
+
+4
+00:00:54,822 --> 00:01:00,828
+<i># Só mais uma tragédia</i>
+<i>De um pé-rapado, creio eu</i>
+
+5
+00:01:01,913 --> 00:01:04,332
+<i># Porque estou</i>
+<i>vendendo a coisa</i>
+
+6
+00:01:04,499 --> 00:01:07,544
+<i># Que significa tudo</i>
+<i>para minha vida...</i>
+
+7
+00:01:07,669 --> 00:01:10,589
+FALSÁRIA
+<i># e minha felicidade.</i>
+
+8
+00:01:12,758 --> 00:01:15,302
+NOVA YORK - 1930
+
+9
+00:01:16,136 --> 00:01:17,596
+<i>Algumas mulheres</i>
+<i>levam felicidade...</i>
+
+10
+00:01:17,721 --> 00:01:22,101
+<i>a todo lugar que vão.</i>
+<i>Outras, toda vez que vão.</i>
+
+11
+00:01:22,184 --> 00:01:23,853
+<i>Eu, todo lugar e toda vez.</i>
+
+12
+00:01:23,978 --> 00:01:26,230
+<i>Os maridos gostam</i>
+<i>de me ver chegar.</i>
+
+13
+00:01:26,356 --> 00:01:28,775
+<i>As mulheres preferem</i>
+<i>me ver ir embora.</i>
+
+14
+00:01:29,234 --> 00:01:31,361
+Lá está ela. É ela.
+
+15
+00:01:31,486 --> 00:01:33,738
+Com qual marido ela
+não transou?
+
+16
+00:01:33,864 --> 00:01:35,741
+- Com quem está agora?
+- Quem sabe?
+
+17
+00:01:35,824 --> 00:01:38,911
+- É mais velha do que pensei.
+- Olhem. Observem.
+
+18
+00:01:40,454 --> 00:01:41,664
+É para ela aprender!
+
+19
+00:01:41,830 --> 00:01:45,793
+Lamento, Sra. Erlynne,
+mas essa conta foi fechada.
+
+20
+00:01:45,960 --> 00:01:48,087
+Pela Sra. Fairchild.
+
+21
+00:01:50,214 --> 00:01:53,551
+Podia ter dito antes
+de eu pedir o Bordeaux.
+
+22
+00:01:55,178 --> 00:01:56,972
+Que Bordeaux, Sra. Erlynne?
+
+23
+00:01:57,138 --> 00:01:59,766
+Joe, você é um bom amigo.
+
+24
+00:02:00,892 --> 00:02:04,271
+- Ela está atrás de mim?
+- Vestida de azul.
+
+25
+00:02:04,855 --> 00:02:06,565
+Ponha na conta de Kleghorn.
+
+26
+00:02:06,648 --> 00:02:09,485
+Sua esposa está sentada
+ao lado da Sra. Fairchild.
+
+27
+00:02:09,610 --> 00:02:12,863
+- Que mundo pequeno!
+- E a Sra. Winters à direita.
+
+28
+00:02:13,364 --> 00:02:15,700
+E ficando ainda menor!
+
+29
+00:02:16,451 --> 00:02:17,827
+Quer sair pelos fundos?
+
+30
+00:02:17,952 --> 00:02:21,956
+Não. Se você sai pelos fundos,
+nunca mais entra pela frente.
+
+31
+00:02:23,041 --> 00:02:25,627
+Uma dama sempre sai
+como entrou.
+
+32
+00:02:30,716 --> 00:02:33,802
+Achei que meu marido
+tinha mais bom gosto.
+
+33
+00:02:34,261 --> 00:02:37,098
+Lamento saber que vai
+nos deixar, Sra. Erlynne.
+
+34
+00:02:37,431 --> 00:02:40,935
+- Deixar vocês?
+- Vou fechar sua conta.
+
+35
+00:02:42,937 --> 00:02:46,733
+<i># Eu lhe peço</i>
+<i>Para me fazer uma oferta</i>
+
+36
+00:02:47,233 --> 00:02:51,822
+<i># Não sei quanto pode render</i>
+
+37
+00:02:51,989 --> 00:02:54,074
+<i># Não é muito</i>
+
+38
+00:02:54,283 --> 00:02:56,618
+<i># Mas é tudo o que eu tenho</i>
+
+39
+00:02:56,785 --> 00:03:00,873
+<i># Juntamente com</i>
+<i>um velho anel de ouro</i>
+
+40
+00:03:00,998 --> 00:03:04,877
+<i># Já me viu pobre</i>
+<i>Como um mendigo</i>
+
+41
+00:03:05,253 --> 00:03:09,507
+<i># Já me viu rico como um rei</i>
+
+42
+00:03:09,674 --> 00:03:14,679
+<i># E já me viu no inferno</i>
+<i>E no paraíso também</i>
+
+43
+00:03:14,846 --> 00:03:19,726
+<i># Juntamente com</i>
+<i>um velho anel de ouro</i>
+
+44
+00:03:28,486 --> 00:03:30,404
+<i>A súbita mudança</i>
+<i>na minha situação...</i>
+
+45
+00:03:30,530 --> 00:03:32,949
+<i>não foi o único motivo</i>
+<i>da minha partida.</i>
+
+46
+00:03:33,199 --> 00:03:37,120
+<i>A costa italiana no verão</i>
+<i>atrai ricos e famosos.</i>
+
+47
+00:03:37,495 --> 00:03:39,414
+<i>Sou mal-afamada e pobre.</i>
+
+48
+00:03:39,581 --> 00:03:41,333
+<i>Quase.</i>
+
+49
+00:03:42,125 --> 00:03:45,045
+<i>Uma porta se fecha,</i>
+<i>outra se abre.</i>
+
+50
+00:03:46,505 --> 00:03:49,550
+<i>Às vezes, não é a porta</i>
+<i>que você espera.</i>
+
+51
+00:03:51,761 --> 00:03:54,514
+<i>Vi a oportunidade</i>
+<i>e decidi aproveitá-la.</i>
+
+52
+00:04:05,025 --> 00:04:07,361
+AMALFI, ITÁLIA, 1930
+
+53
+00:04:45,193 --> 00:04:47,904
+Paulo! Sempre trabalhando.
+
+54
+00:04:48,029 --> 00:04:49,906
+Como vai você?
+E sua família?
+
+55
+00:04:50,031 --> 00:04:52,117
+Muito bem, condessa.
+E a senhora?
+
+56
+00:04:52,325 --> 00:04:56,705
+Na minha idade ficamos feliz
+por não estar num desses!
+
+57
+00:04:56,997 --> 00:05:00,292
+Meg, querida, venha. Venha.
+
+58
+00:05:01,001 --> 00:05:02,753
+Ah, Giuseppina.
+
+59
+00:05:03,087 --> 00:05:05,214
+É uma amiga minha.
+Faça um desconto para ela.
+
+60
+00:05:05,381 --> 00:05:06,924
+Venha. Venha.
+
+61
+00:05:07,133 --> 00:05:09,719
+É a melhor loja
+de luvas da cidade.
+
+62
+00:05:09,886 --> 00:05:11,471
+Ela lhe dará um bom desconto.
+
+63
+00:05:11,888 --> 00:05:16,267
+Vá. Eu vou procurar seu marido,
+não se preocupe. Vá.
+
+64
+00:05:19,896 --> 00:05:21,314
+Por aqui, senhora.
+
+65
+00:05:29,698 --> 00:05:30,658
+Estas são lindas.
+
+66
+00:05:44,256 --> 00:05:46,591
+- Parece ser seu tamanho.
+- Como?
+
+67
+00:05:46,716 --> 00:05:48,885
+Minha irmã especificou
+cada detalhe...
+
+68
+00:05:48,969 --> 00:05:51,305
+mas não disse o tamanho.
+Importa-se?
+
+69
+00:05:51,555 --> 00:05:53,265
+Oh, não, claro que não.
+
+70
+00:05:54,475 --> 00:05:56,727
+Fica justa da primeira vez.
+
+71
+00:05:57,061 --> 00:05:58,896
+Talvez devesse tirar o anel.
+
+72
+00:05:59,188 --> 00:06:01,190
+É minha aliança.
+Eu nunca tiro.
+
+73
+00:06:01,524 --> 00:06:02,692
+Então, a outra mão.
+
+74
+00:06:11,535 --> 00:06:14,162
+Não é preciso abotoar.
+Vê-se que serve.
+
+75
+00:06:14,288 --> 00:06:16,248
+Lorde Darlington,
+seu devasso!
+
+76
+00:06:16,373 --> 00:06:17,916
+O que está aprontando?
+
+77
+00:06:18,042 --> 00:06:21,670
+Ignore-o, Meg, querida.
+É um grande pecador.
+
+78
+00:06:21,837 --> 00:06:24,423
+Mas um excelente parceiro
+no bridge.
+
+79
+00:06:24,549 --> 00:06:26,676
+Se não fosse,
+não o toleraria.
+
+80
+00:06:26,801 --> 00:06:29,345
+- Vocês se conhecem?
+- Do escritório de Londres.
+
+81
+00:06:29,470 --> 00:06:32,390
+Eu lhe falei sobre o John.
+Mas vocês se conheceram?
+
+82
+00:06:32,724 --> 00:06:35,936
+- Não. Prazer em conhecê-lo.
+- Igualmente, Sra. Windemere.
+
+83
+00:06:36,061 --> 00:06:38,355
+Estamos vendo luvas
+para minha mãe.
+
+84
+00:06:38,605 --> 00:06:41,108
+- Disse que eram para sua irmã.
+- Tanto faz.
+
+85
+00:06:41,775 --> 00:06:43,777
+Vamos jantar.
+Onde se hospedaram?
+
+86
+00:06:43,944 --> 00:06:46,530
+No Grand, mas estamos
+procurando uma casa.
+
+87
+00:06:46,697 --> 00:06:48,866
+A essa altura da temporada.
+Eu avisei.
+
+88
+00:06:48,950 --> 00:06:50,576
+Sei de uma casa disponível.
+
+89
+00:07:12,558 --> 00:07:14,685
+Não é ano de eleição nos EUA?
+
+90
+00:07:14,810 --> 00:07:15,645
+Quem disse
+que vou me candidatar?
+
+91
+00:07:15,728 --> 00:07:19,357
+- É perfeita. Linda!
+- Falei do fantasma?
+
+92
+00:07:20,817 --> 00:07:23,653
+Eu me sinto como uma princesa
+num conto de fadas.
+
+93
+00:07:23,737 --> 00:07:25,280
+Você é uma princesa.
+
+94
+00:07:25,488 --> 00:07:27,491
+Porque me casei
+com um príncipe.
+
+95
+00:07:28,158 --> 00:07:30,244
+Eu a enganei totalmente,
+coitada.
+
+96
+00:07:30,369 --> 00:07:33,497
+Se pudesse enganar uma mulher
+tão linda, não seria solteiro!
+
+97
+00:07:34,331 --> 00:07:36,751
+- Você a fez corar.
+- Não seja tolo.
+
+98
+00:07:36,834 --> 00:07:38,586
+Venha ver os quadros.
+
+99
+00:08:00,276 --> 00:08:03,904
+Precisam fazer xixi na frente
+do iate do lorde Darlington?
+
+100
+00:08:04,322 --> 00:08:05,323
+Vamos!
+
+101
+00:08:06,574 --> 00:08:07,992
+Boa noite.
+
+102
+00:08:20,923 --> 00:08:22,800
+Sra. Plymdale?
+
+103
+00:08:22,966 --> 00:08:25,761
+Oh, é aquela com grandes...?
+
+104
+00:08:25,886 --> 00:08:29,807
+Pés. Pés enormes.
+Pobre Plymdale.
+
+105
+00:08:29,974 --> 00:08:32,518
+- Às, Dama, Rei, Valete.
+- Nenhuma figura.
+
+106
+00:08:32,685 --> 00:08:34,979
+Não, o iate é do John,
+as regras são dele.
+
+107
+00:08:35,104 --> 00:08:36,397
+- Tome.
+- Obrigado.
+
+108
+00:08:36,564 --> 00:08:39,067
+Pés enormes. Pés de lancha.
+
+109
+00:08:39,192 --> 00:08:42,279
+Se desejo tivesse um antídoto,
+seriam os pés dela.
+
+110
+00:08:42,404 --> 00:08:44,072
+Fico doente de pensar neles.
+
+111
+00:08:44,197 --> 00:08:46,533
+Quantas vezes
+você se divorciou, Tuppy?
+
+112
+00:08:46,658 --> 00:08:49,328
+- Três, quatro? Perdi a conta.
+- Isso é bigamia.
+
+113
+00:08:49,453 --> 00:08:51,539
+Bigamia é ter uma esposa
+a mais.
+
+114
+00:08:51,664 --> 00:08:53,165
+Monogamia também.
+
+115
+00:08:53,624 --> 00:08:56,627
+O casamento precisa
+de uma base. Um mútuo...
+
+116
+00:08:56,752 --> 00:08:58,296
+- Desentendimento.
+- Exato.
+
+117
+00:08:58,421 --> 00:09:00,757
+Um homem não pode ser feliz
+com uma mulher.
+
+118
+00:09:00,882 --> 00:09:03,718
+Pode ser feliz com qualquer
+uma. Desde que não a ame.
+
+119
+00:09:03,843 --> 00:09:05,595
+Para quem nunca pensou
+em se casar...
+
+120
+00:09:05,679 --> 00:09:07,264
+sabe muito a respeito.
+
+121
+00:09:07,389 --> 00:09:10,475
+Pensei seriamente em me casar.
+Por isso continuo solteiro.
+
+122
+00:09:10,601 --> 00:09:11,351
+É isso aí!
+
+123
+00:09:11,435 --> 00:09:15,272
+Só não conheci a mulher certa.
+Veja o Cecil, ainda com a Edna.
+
+124
+00:09:15,397 --> 00:09:17,942
+O homem fica de olho bem
+aberto antes do casamento...
+
+125
+00:09:18,025 --> 00:09:20,403
+e semi-fechado depois.
+
+126
+00:09:20,611 --> 00:09:22,613
+- É só isso.
+- Exato.
+
+127
+00:09:31,039 --> 00:09:33,792
+Acho ótimo aumentar
+as apostas.
+
+128
+00:09:33,959 --> 00:09:36,461
+Oh, seu sortudo!
+
+129
+00:09:46,180 --> 00:09:48,224
+Não parece estar se divertindo.
+
+130
+00:09:48,474 --> 00:09:50,476
+Estou, sim!
+É uma ótima festa.
+
+131
+00:09:50,643 --> 00:09:53,271
+- Aceita um drinque?
+- Não, obrigada. Não bebo.
+
+132
+00:09:53,480 --> 00:09:54,981
+Não bebe?
+
+133
+00:09:55,315 --> 00:09:57,609
+- Pareço puritana?
+- Claro que não.
+
+134
+00:09:57,984 --> 00:10:01,405
+- Fui criada assim.
+- Num convento?
+
+135
+00:10:02,156 --> 00:10:05,868
+Pela minha tia Julia.
+Irmã do meu pai.
+
+136
+00:10:06,327 --> 00:10:08,788
+Minha mãe morreu
+quando eu era pequena.
+
+137
+00:10:11,666 --> 00:10:14,127
+É a única foto
+que tenho dela.
+
+138
+00:10:14,502 --> 00:10:17,130
+Meu pai não voltou
+a se casar.
+
+139
+00:10:17,422 --> 00:10:19,674
+Ela é tão linda
+quanto a filha.
+
+140
+00:10:21,968 --> 00:10:24,930
+Ofendi você?
+A intenção foi fazer um elogio.
+
+141
+00:10:25,055 --> 00:10:28,517
+- Você me faz elogios demais.
+- Vou parar agora mesmo.
+
+142
+00:10:28,851 --> 00:10:32,855
+- Obrigada.
+- Fui sincero em todos eles.
+
+143
+00:10:34,023 --> 00:10:36,067
+Faz de conta que é mau, mas...
+
+144
+00:10:36,818 --> 00:10:39,070
+- na verdade, não é.
+- Não há bom e mau.
+
+145
+00:10:39,195 --> 00:10:40,780
+Ou a pessoa é fascinante
+ou chata.
+
+146
+00:10:40,864 --> 00:10:43,324
+Se fui chato,
+peço sinceras desculpas.
+
+147
+00:10:43,450 --> 00:10:46,286
+- Queria que fôssemos amigos.
+- Já somos, não?
+
+148
+00:10:46,369 --> 00:10:50,499
+Não se continuar me adulando
+e fazendo tolos elogios.
+
+149
+00:10:50,624 --> 00:10:52,501
+Defina "tolos".
+
+150
+00:10:52,626 --> 00:10:54,962
+Quero sua palavra.
+
+151
+00:10:55,087 --> 00:10:58,299
+O melhor modo de manter a
+palavra é nunca dá-la.
+
+152
+00:11:16,819 --> 00:11:19,780
+É sempre um prazer
+ver uma bela mulher.
+
+153
+00:11:19,905 --> 00:11:21,740
+Bom dia.
+
+154
+00:11:36,423 --> 00:11:38,800
+Deve ser algo muito especial.
+
+155
+00:11:39,134 --> 00:11:42,346
+É aniversário da minha esposa.
+
+156
+00:11:42,554 --> 00:11:46,058
+Este é um objeto
+muito especial.
+
+157
+00:12:01,157 --> 00:12:02,617
+O que acha?
+
+158
+00:12:03,160 --> 00:12:06,038
+A safira combina
+com seus olhos.
+
+159
+00:12:07,498 --> 00:12:09,708
+É para minha esposa.
+
+160
+00:12:09,833 --> 00:12:12,044
+Um homem não deve comprar
+jóias para sua esposa.
+
+161
+00:12:12,211 --> 00:12:13,754
+Por quê?
+
+162
+00:12:13,879 --> 00:12:16,716
+Ela se pergunta o que
+ele comprou para a amante.
+
+163
+00:12:16,841 --> 00:12:20,178
+Minha esposa
+não tem motivo para isso.
+
+164
+00:12:20,553 --> 00:12:22,430
+Ela é uma mulher de sorte.
+
+165
+00:12:23,306 --> 00:12:25,517
+Se eu fosse sua esposa...
+
+166
+00:12:25,642 --> 00:12:28,603
+- eu ia querer isto.
+- Um leque?
+
+167
+00:12:28,812 --> 00:12:31,940
+Não para revolver o ar,
+mas sim o coração.
+
+168
+00:12:32,191 --> 00:12:33,275
+Durante séculos...
+
+169
+00:12:33,358 --> 00:12:36,946
+uma linguagem erótica
+entre homens e mulheres.
+
+170
+00:12:39,156 --> 00:12:43,703
+Se uma mulher punha no seio,
+assim, significava "amo você".
+
+171
+00:12:44,746 --> 00:12:46,831
+"Quando posso ver você"?
+
+172
+00:12:47,832 --> 00:12:49,417
+"Espere por mim".
+
+173
+00:12:50,835 --> 00:12:53,130
+"Pode me beijar".
+
+174
+00:12:55,799 --> 00:12:57,468
+"Estamos sendo observados".
+
+175
+00:13:02,264 --> 00:13:04,183
+Você me convenceu.
+
+176
+00:13:11,190 --> 00:13:12,525
+Quanto é?
+
+177
+00:13:12,859 --> 00:13:15,904
+Não está à venda.
+
+178
+00:13:18,448 --> 00:13:20,617
+Não. Se eu lhe vendesse...
+
+179
+00:13:20,701 --> 00:13:22,244
+partiria o coração
+da minha mãe.
+
+180
+00:13:22,411 --> 00:13:23,912
+A mamãe.
+
+181
+00:13:26,040 --> 00:13:29,168
+Ouro legítimo.
+
+182
+00:13:30,252 --> 00:13:34,298
+Se der tudo para ele, quem
+vai me pagar um expresso?
+
+183
+00:13:40,388 --> 00:13:42,182
+Minhas costas.
+
+184
+00:13:44,393 --> 00:13:47,312
+E americanos por toda parte.
+
+185
+00:13:47,855 --> 00:13:51,275
+Nem parece que a
+depressão afetou aquele país.
+
+186
+00:13:51,442 --> 00:13:55,029
+Por favor, algo para beber
+antes que eu desmaie.
+
+187
+00:13:55,780 --> 00:13:57,865
+Não fazem compras. Saqueiam!
+
+188
+00:13:58,116 --> 00:13:59,826
+E falam alto.
+
+189
+00:14:00,827 --> 00:14:03,621
+Será que todo mundo
+é surdo lá?
+
+190
+00:14:03,788 --> 00:14:05,498
+Algo na dieta deles, talvez?
+
+191
+00:14:05,624 --> 00:14:07,834
+Temos amigos americanos,
+mamãe.
+
+192
+00:14:07,959 --> 00:14:10,420
+Não precisam saber
+o que falamos deles.
+
+193
+00:14:10,545 --> 00:14:13,549
+Se todos soubessem
+o que um diz do outro...
+
+194
+00:14:13,674 --> 00:14:15,551
+não haveria quatro amigos
+no mundo.
+
+195
+00:14:15,676 --> 00:14:16,969
+Gosto dos EUA.
+
+196
+00:14:17,094 --> 00:14:20,222
+Diga outro país que foi
+da barbárie à decadência...
+
+197
+00:14:20,306 --> 00:14:23,100
+sem criar uma
+civilização entre eles.
+
+198
+00:14:23,226 --> 00:14:25,061
+Tributo à eficiência americana.
+
+199
+00:14:25,144 --> 00:14:28,690
+- Lá está o Sr. Windemere.
+- Ele tem que ficar com a gente.
+
+200
+00:14:30,025 --> 00:14:32,110
+Ele não está vendo você,
+mamãe.
+
+201
+00:14:32,819 --> 00:14:34,404
+Quem está com ele?
+
+202
+00:14:34,529 --> 00:14:36,114
+Parece ser a esposa dele.
+
+203
+00:14:36,490 --> 00:14:38,617
+Não, não creio que seja.
+
+204
+00:14:40,077 --> 00:14:44,248
+Agora não consigo ver.
+Estão entrando no carro.
+
+205
+00:14:44,415 --> 00:14:46,542
+Então, deve ser a esposa dele.
+
+206
+00:14:46,709 --> 00:14:48,586
+Não era.
+
+207
+00:14:48,711 --> 00:14:51,089
+Então, eu preciso saber quem é.
+
+208
+00:14:51,214 --> 00:14:53,299
+Acho que devíamos
+cuidar da nossa vida.
+
+209
+00:14:53,466 --> 00:14:55,218
+Minha vida me aborrece.
+
+210
+00:14:55,343 --> 00:14:57,804
+Prefiro cuidar
+da vida dos outros.
+
+211
+00:14:58,138 --> 00:15:00,599
+Coitada da Meg,
+ela é tão meiga.
+
+212
+00:15:00,724 --> 00:15:02,643
+E a menina não tem mãe.
+
+213
+00:15:02,684 --> 00:15:06,021
+- Quero trazê-la ao meu peito.
+- Tive um pensamento parecido.
+
+214
+00:15:07,022 --> 00:15:09,608
+O Sr. Windemere
+não ia gostar de ouvir isso.
+
+215
+00:15:09,734 --> 00:15:13,780
+Felicidade conjugal é um grande fardo
+para duas pessoas carregarem.
+
+216
+00:15:13,905 --> 00:15:16,658
+Às vezes, uma
+terceira pessoa alivia o peso.
+
+217
+00:15:16,866 --> 00:15:20,370
+Parece que o Sr. Windemere
+concorda com você.
+
+218
+00:15:54,490 --> 00:15:56,992
+Posso adivinhar
+o que estava fazendo.
+
+219
+00:15:57,660 --> 00:16:00,079
+Comprando meu presente
+de aniversário?
+
+220
+00:16:05,752 --> 00:16:07,378
+Eu estava certa.
+
+221
+00:16:07,754 --> 00:16:08,963
+O que comprou?
+
+222
+00:16:09,047 --> 00:16:11,967
+Nada. Está velha demais
+para ganhar presentes.
+
+223
+00:16:12,467 --> 00:16:16,430
+- Uma dica, uma pequena dica.
+- Terá que esperar para ver.
+
+224
+00:16:18,557 --> 00:16:21,101
+- Perfume?
+- Não, pare com isso.
+
+225
+00:16:21,685 --> 00:16:23,479
+Um livro de poemas?
+
+226
+00:16:24,188 --> 00:16:25,398
+Um vestido?
+
+227
+00:16:25,481 --> 00:16:27,483
+Uma bolsa de crocodilo
+igual à da condessa...
+
+228
+00:16:27,608 --> 00:16:30,611
+com pequenas garras
+penduradas no fundo.
+
+229
+00:16:31,988 --> 00:16:33,948
+Chega de tentar adivinhar.
+
+230
+00:16:34,073 --> 00:16:35,575
+Robert?
+
+231
+00:16:35,700 --> 00:16:38,787
+Prometa que não acabaremos
+como aqueles velhos casais...
+
+232
+00:16:38,912 --> 00:16:42,624
+sentados um diante do outro,
+no jantar, sem nada a dizer.
+
+233
+00:16:42,749 --> 00:16:45,252
+Você, sem nada a dizer?!
+
+234
+00:16:47,379 --> 00:16:48,672
+Prometo.
+
+235
+00:16:48,798 --> 00:16:51,050
+Vamos sempre dizer a verdade
+um ao outro?
+
+236
+00:16:51,384 --> 00:16:53,469
+Exceto perto dos aniversários.
+
+237
+00:17:01,394 --> 00:17:04,689
+Que safadinho!
+O que andou lendo?
+
+238
+00:17:05,565 --> 00:17:09,111
+- O que quer dizer?
+- Não, é bom.
+
+239
+00:17:09,445 --> 00:17:10,738
+Apague as luzes.
+
+240
+00:17:10,863 --> 00:17:13,908
+- Mas eu quero ver você.
+- Por favor!
+
+241
+00:17:34,304 --> 00:17:35,889
+Vou levar todos eles.
+
+242
+00:17:36,473 --> 00:17:38,893
+<i>- Bom dia, senhora.</i>
+- Com licença.
+
+243
+00:17:38,976 --> 00:17:41,062
+<i>Comprei um tailleur.</i>
+<i>Ficou para conserto.</i>
+
+244
+00:17:41,145 --> 00:17:43,856
+<i>- Para Margaret Windemere.</i>
+<i>- Ah, Sra. Windemere.</i>
+
+245
+00:17:43,940 --> 00:17:45,149
+<i>Um momento, por favor.</i>
+
+246
+00:17:45,358 --> 00:17:46,401
+<i>Obrigada.</i>
+
+247
+00:17:52,949 --> 00:17:56,370
+Desculpe-me.
+Você é americana, não?
+
+248
+00:17:56,828 --> 00:17:59,081
+Sou de Nova York.
+Sra. Erlynne.
+
+249
+00:17:59,623 --> 00:18:01,625
+Rhode Island.
+Sra. Windemere.
+
+250
+00:18:02,543 --> 00:18:06,547
+Preciso da opinião de uma
+conterrânea. Seja franca.
+
+251
+00:18:09,967 --> 00:18:11,594
+Você usaria este vestido?
+
+252
+00:18:17,809 --> 00:18:20,896
+Não deixa muito espaço
+para a imaginação.
+
+253
+00:18:21,021 --> 00:18:25,234
+Depende da imaginação.
+Alguns têm mais do que outros.
+
+254
+00:18:26,360 --> 00:18:29,613
+Creio que não
+é nada recatado?
+
+255
+00:18:29,989 --> 00:18:31,866
+Acha que é vulgar?
+
+256
+00:18:33,951 --> 00:18:36,329
+Algumas pessoas podem achar.
+
+257
+00:18:36,663 --> 00:18:39,916
+Seu marido está aí?
+Queria a opinião de um homem.
+
+258
+00:18:40,083 --> 00:18:42,627
+Garanto que ele é
+muito conservador.
+
+259
+00:18:42,711 --> 00:18:45,088
+Nem sempre a mulher
+conhece seu marido.
+
+260
+00:18:45,213 --> 00:18:47,925
+Conheço o Robert. Somos
+casados há mais de um ano.
+
+261
+00:18:48,175 --> 00:18:50,928
+Um ano?
+Praticamente uma vida!
+
+262
+00:18:51,053 --> 00:18:53,013
+Aqui está, senhora.
+
+263
+00:18:53,264 --> 00:18:55,141
+Oh, obrigada.
+
+264
+00:18:55,266 --> 00:18:58,352
+Muito obrigada.
+Volte sempre.
+
+265
+00:18:59,729 --> 00:19:02,523
+- Adeus.
+- Não vai levar o chapéu?
+
+266
+00:19:02,690 --> 00:19:05,110
+A cor é perfeita para você.
+Não gosta?
+
+267
+00:19:05,235 --> 00:19:08,446
+Não tenho onde usar.
+Não serve para ir à igreja.
+
+268
+00:19:08,572 --> 00:19:10,115
+Por que não?
+
+269
+00:19:10,198 --> 00:19:12,451
+Imagine o que as pessoas
+diriam!
+
+270
+00:19:12,576 --> 00:19:14,453
+Se somos guiados por
+opiniões dos outros...
+
+271
+00:19:14,536 --> 00:19:16,789
+inútil termos as nossas!
+
+272
+00:19:18,916 --> 00:19:20,501
+Foi um prazer, Sra. Erwin.
+
+273
+00:19:20,626 --> 00:19:23,045
+- Erlynne.
+- Erlynne.
+
+274
+00:19:39,855 --> 00:19:42,024
+Ela estava numa pensão.
+
+275
+00:19:42,149 --> 00:19:45,069
+Agora está numa mansão
+a minutos do clube.
+
+276
+00:19:46,946 --> 00:19:48,197
+Ele está lá.
+
+277
+00:19:54,662 --> 00:19:56,915
+Não há como não vê-lo.
+
+278
+00:20:01,294 --> 00:20:04,548
+Ele vai e vem o tempo todo.
+
+279
+00:20:05,299 --> 00:20:09,220
+Em público, ela está sempre
+com outros homens, é claro.
+
+280
+00:20:11,889 --> 00:20:15,184
+Está sempre vestida
+na última moda.
+
+281
+00:20:15,351 --> 00:20:18,438
+Alguém deve lhe dar
+uma generosa mesada.
+
+282
+00:20:18,521 --> 00:20:20,106
+Silêncio!
+
+283
+00:20:20,565 --> 00:20:25,070
+E ela vai pôr a mão no bolso
+do Tuppy, se ele não acordar!
+
+284
+00:20:25,445 --> 00:20:27,906
+Ela não passa
+de uma prostituta.
+
+285
+00:20:30,159 --> 00:20:33,704
+E a Sra. Windemere
+nem desconfia?
+
+286
+00:20:34,413 --> 00:20:36,123
+De jeito nenhum.
+
+287
+00:20:46,634 --> 00:20:50,055
+- Oh, desculpe.
+- Ela deve estar no terraço.
+
+288
+00:21:08,658 --> 00:21:10,493
+Desculpe,
+não queria assustá-la.
+
+289
+00:21:10,577 --> 00:21:13,622
+- Mas assustou.
+- Pois é. O que é isso?
+
+290
+00:21:13,747 --> 00:21:16,041
+O menu para minha
+festa de aniversário.
+
+291
+00:21:16,166 --> 00:21:19,503
+Como se fala lagosta
+em italiano?
+
+292
+00:21:19,837 --> 00:21:21,338
+Aragosta.
+
+293
+00:21:22,756 --> 00:21:24,466
+Aragosta.
+
+294
+00:21:24,800 --> 00:21:27,011
+Muito bem.
+Agora fiquei com fome.
+
+295
+00:21:27,219 --> 00:21:30,264
+Deixe isso. Todo mundo
+vai almoçar no clube.
+
+296
+00:21:31,057 --> 00:21:33,768
+Está bem. Vou chamar o Robert.
+
+297
+00:21:48,492 --> 00:21:51,036
+Ficou combinado
+que não me ligaria em casa.
+
+298
+00:21:51,162 --> 00:21:53,414
+Como posso seduzi-la
+se sempre leva seu marido?
+
+299
+00:21:54,457 --> 00:21:57,168
+Devagar demais. Vamos.
+
+300
+00:21:58,920 --> 00:22:00,171
+Está bem.
+
+301
+00:22:01,715 --> 00:22:05,010
+Sim, estarei aí em uma hora.
+
+302
+00:22:05,260 --> 00:22:06,803
+Certo, em uma hora.
+
+303
+00:22:06,928 --> 00:22:08,889
+Chega de trabalhar.
+Nós vamos almoçar.
+
+304
+00:22:09,014 --> 00:22:10,766
+Não posso, sinto muito.
+
+305
+00:22:12,518 --> 00:22:15,688
+- Vai trabalhar?
+- O dinheiro nunca dorme.
+
+306
+00:22:16,647 --> 00:22:17,940
+Droga!
+
+307
+00:22:18,691 --> 00:22:20,902
+Todos os trabalhos
+remunerados absorvem...
+
+308
+00:22:20,985 --> 00:22:22,737
+e degradam a mente.
+
+309
+00:22:22,820 --> 00:22:24,155
+Nunca teve
+trabalho remunerado.
+
+310
+00:22:24,239 --> 00:22:26,074
+Caso encerrado.
+
+311
+00:22:26,199 --> 00:22:29,119
+Lazer refinado
+é a real vocação do homem.
+
+312
+00:22:29,244 --> 00:22:31,955
+- Preciso enviar uns telegramas.
+- Vou esperar você.
+
+313
+00:22:32,039 --> 00:22:35,876
+Vou demorar a tarde toda. Não
+quero que você perca o dia.
+
+314
+00:22:37,169 --> 00:22:40,131
+- Você se importa, John?
+- Se me importo?
+
+315
+00:22:40,464 --> 00:22:42,049
+Não, claro que não.
+
+316
+00:22:51,643 --> 00:22:55,772
+Se você vai levar aquela mulher
+à opera, não se sente conosco.
+
+317
+00:22:56,106 --> 00:22:57,065
+Pense na Alessandra.
+
+318
+00:22:57,149 --> 00:22:58,859
+A Sra. Erlynne tem
+suas poltronas.
+
+319
+00:22:58,942 --> 00:23:00,861
+Quem paga?
+
+320
+00:23:00,986 --> 00:23:03,447
+Seu tio morreu.
+Ela herdou algum dinheiro.
+
+321
+00:23:03,530 --> 00:23:05,908
+E as visitas do Sr. Windemere?
+
+322
+00:23:06,033 --> 00:23:08,369
+Está administrando
+os investimentos dela.
+
+323
+00:23:08,619 --> 00:23:09,829
+Você gosta de fofoca.
+
+324
+00:23:09,912 --> 00:23:12,498
+Não deixa a verdade
+mostrar sua cara.
+
+325
+00:23:12,582 --> 00:23:16,836
+Não é a cara que está sendo
+mostrada, meu caro Tuppy.
+
+326
+00:23:17,170 --> 00:23:19,130
+Poderia apagar o cigarro?
+
+327
+00:23:19,548 --> 00:23:21,883
+A ópera faz com que me sinta
+tão romântica!
+
+328
+00:23:21,967 --> 00:23:25,471
+Qualquer coisa idiota demais
+para ser dita é cantada.
+
+329
+00:23:25,679 --> 00:23:27,056
+Onde está o romantismo?
+
+330
+00:23:27,181 --> 00:23:30,643
+E as mulheres
+são sempre tão gorduchas!
+
+331
+00:23:31,352 --> 00:23:33,688
+Desculpe, é meu pé.
+
+332
+00:23:33,813 --> 00:23:35,857
+Até aqui?!
+
+333
+00:23:35,982 --> 00:23:38,026
+Não falei para você?
+
+334
+00:23:49,496 --> 00:23:51,373
+Garoto, pare!
+
+335
+00:23:53,042 --> 00:23:56,337
+Anchovas fritas e mariscos
+num copo de papelão. Delicioso!
+
+336
+00:24:00,174 --> 00:24:01,467
+Cuidado, está quente.
+
+337
+00:24:01,718 --> 00:24:03,595
+Você disse que íamos ao clube.
+
+338
+00:24:03,720 --> 00:24:05,180
+Tenho péssimo senso
+de direção.
+
+339
+00:24:05,305 --> 00:24:07,015
+Tem péssimo senso de decoro.
+
+340
+00:24:07,098 --> 00:24:09,643
+Nunca uso essa palavra.
+Não sei bem o que significa.
+
+341
+00:24:10,018 --> 00:24:12,980
+- No clube, haveria mais gente.
+- Você tem razão.
+
+342
+00:24:13,271 --> 00:24:14,773
+Aqui estamos, ao sol...
+
+343
+00:24:14,898 --> 00:24:17,359
+comendo peixe que acaba
+de sair do barco...
+
+344
+00:24:17,484 --> 00:24:20,988
+quando podíamos estar entre
+lorde Tuppy e Cecil Cintilante...
+
+345
+00:24:21,155 --> 00:24:23,950
+ouvindo as queixas de um
+deles sobre sua digestão...
+
+346
+00:24:24,075 --> 00:24:26,411
+enquanto a condessa
+se lamenta...
+
+347
+00:24:26,536 --> 00:24:29,122
+que Alessandra se preocupa mais
+com os hábitos de acasalamento...
+
+348
+00:24:29,247 --> 00:24:31,750
+dos pássaros do que
+com os de sua espécie,
+
+349
+00:24:31,833 --> 00:24:33,209
+e a viúva Plymdale...
+
+350
+00:24:33,293 --> 00:24:37,297
+pisca, louca de desejo,
+para cada homem que passa.
+
+351
+00:24:37,631 --> 00:24:42,052
+Para mim, isso é tempo bem gasto.
+Portanto, concordo com você.
+
+352
+00:24:42,177 --> 00:24:44,763
+No clube,
+estaríamos com mais gente.
+
+353
+00:24:45,973 --> 00:24:48,017
+Receia que alguém nos veja?
+
+354
+00:24:48,392 --> 00:24:50,478
+Receia que façam fofocas?
+
+355
+00:24:51,562 --> 00:24:54,357
+Sabe o que é pior do que
+ser alvo de comentários?
+
+356
+00:24:55,358 --> 00:24:58,111
+Não ser alvo de comentários.
+
+357
+00:25:40,740 --> 00:25:43,201
+A Sra. Erlynne
+vai recebê-lo lá em cima.
+
+358
+00:25:47,539 --> 00:25:49,291
+No quarto dela.
+
+359
+00:25:52,586 --> 00:25:54,421
+"Eu não vou demorar".
+
+360
+00:26:07,894 --> 00:26:09,312
+É bem caro.
+
+361
+00:26:09,437 --> 00:26:12,440
+- Só o melhor para você.
+- Eu sei, eu que paguei.
+
+362
+00:26:12,565 --> 00:26:14,442
+É isso aí.
+
+363
+00:26:14,943 --> 00:26:17,070
+Convém beber assim tão cedo?
+
+364
+00:26:17,696 --> 00:26:19,865
+Em algum lugar do mundo,
+é tarde.
+
+365
+00:26:19,990 --> 00:26:22,284
+Não quero que pense
+que é um hábito meu.
+
+366
+00:26:22,826 --> 00:26:24,536
+Por isso parece tão culpado?
+
+367
+00:26:24,662 --> 00:26:26,455
+Não gosto de mentir para ela.
+
+368
+00:26:27,039 --> 00:26:29,584
+Preciso ir.
+Ela só saiu para almoçar.
+
+369
+00:26:32,754 --> 00:26:34,923
+É o único dinheiro
+que tenho agora.
+
+370
+00:26:35,089 --> 00:26:39,636
+Vou abrir uma conta para você.
+Você pode sacar diretamente.
+
+371
+00:26:39,761 --> 00:26:41,972
+Conheci a Meg.
+
+372
+00:26:42,431 --> 00:26:44,641
+Foi por acaso.
+
+373
+00:26:45,475 --> 00:26:48,354
+Tudo bem, ela não fazia
+idéia de quem eu era.
+
+374
+00:26:48,520 --> 00:26:49,897
+Falou com ela?
+
+375
+00:26:50,022 --> 00:26:53,317
+Sim, por um minuto.
+Ela é muito bonita.
+
+376
+00:26:54,360 --> 00:26:58,656
+Como vocês se conheceram?
+Foi amor à primeira vista?
+
+377
+00:26:58,948 --> 00:27:00,450
+Preciso ir.
+
+378
+00:27:00,658 --> 00:27:02,494
+Estou curiosa. É natural.
+
+379
+00:27:02,702 --> 00:27:04,829
+Não há razão
+para essas perguntas.
+
+380
+00:27:06,414 --> 00:27:08,667
+- Você a ama?
+- Muito.
+
+381
+00:27:10,168 --> 00:27:12,713
+Prefiro cortar meu braço
+a magoá-la.
+
+382
+00:27:12,838 --> 00:27:15,257
+Está protegendo Meg
+ou sua reputação?
+
+383
+00:27:15,382 --> 00:27:17,635
+Você não me conhece
+nem um pouco.
+
+384
+00:27:22,098 --> 00:27:23,725
+Ele trabalhou
+na noite de núpcias?
+
+385
+00:27:23,891 --> 00:27:25,977
+Não!
+
+386
+00:27:26,394 --> 00:27:30,649
+Ele é muito consciencioso
+e eu o respeito por isso.
+
+387
+00:27:30,815 --> 00:27:33,485
+E se não fosse trabalho,
+se tivesse uma amante?
+
+388
+00:27:34,027 --> 00:27:35,904
+Eu não poderia respeitar isso.
+
+389
+00:27:36,029 --> 00:27:39,283
+Se uma esposa é traída, tem
+liberdade de fazer o mesmo.
+
+390
+00:27:39,408 --> 00:27:41,911
+Não, isso a tornaria tão
+ruim quanto o marido.
+
+391
+00:27:41,994 --> 00:27:44,121
+No casamento moderno,
+um engana o outro.
+
+392
+00:27:44,246 --> 00:27:46,374
+Somos totalmente honestos
+um com o outro.
+
+393
+00:27:46,457 --> 00:27:48,167
+Devia tomá-lo por modelo.
+
+394
+00:27:48,292 --> 00:27:51,629
+Pretendo fazer isso.
+A partir de agora.
+
+395
+00:27:53,006 --> 00:27:54,758
+Não gosta?
+
+396
+00:27:56,635 --> 00:27:59,346
+Vou guardar para o Robert.
+Ele adora figos.
+
+397
+00:27:59,763 --> 00:28:01,557
+Então, divida o meu.
+
+398
+00:28:04,268 --> 00:28:06,437
+Podemos ir até o telégrafo?
+
+399
+00:28:06,979 --> 00:28:09,273
+Provavelmente, ele não comeu.
+
+400
+00:28:13,861 --> 00:28:16,906
+Alberto? Fabrizio?
+
+401
+00:28:17,198 --> 00:28:18,908
+Qual é o nome dele?
+
+402
+00:28:19,367 --> 00:28:20,744
+Mario?
+
+403
+00:28:21,411 --> 00:28:22,913
+Garçom.
+
+404
+00:28:23,288 --> 00:28:24,873
+Uísque.
+
+405
+00:28:25,499 --> 00:28:28,836
+Outra coisa, sua Sra. Erlynne
+não tem princípios.
+
+406
+00:28:29,003 --> 00:28:31,088
+Prefiro pessoas a princípios.
+
+407
+00:28:31,213 --> 00:28:33,966
+E pessoas sem princípios,
+mais ainda.
+
+408
+00:28:34,133 --> 00:28:37,345
+Mas, lorde Augustus,
+ela só o quer por seu dinheiro.
+
+409
+00:28:37,470 --> 00:28:40,014
+Qual o problema?
+É o que tenho de melhor.
+
+410
+00:28:40,223 --> 00:28:43,268
+Velho, gordo,
+sem inteligência alguma...
+
+411
+00:28:43,435 --> 00:28:44,894
+e com um monte de dinheiro.
+
+412
+00:28:45,020 --> 00:28:46,730
+Você não precisa
+se menosprezar.
+
+413
+00:28:46,813 --> 00:28:48,857
+Seus amigos podem fazer isso.
+
+414
+00:28:51,151 --> 00:28:55,364
+Junto à marina,
+passeando, deslumbrante...
+
+415
+00:28:55,406 --> 00:28:58,534
+adivinhem quem eu vi
+com o lorde Darlington?
+
+416
+00:29:05,959 --> 00:29:07,836
+Eles não o viram hoje.
+
+417
+00:29:30,068 --> 00:29:31,986
+Sabe onde está o meu marido?
+
+418
+00:29:32,111 --> 00:29:34,614
+Pensei que tivesse
+saído depois da senhora.
+
+419
+00:29:38,368 --> 00:29:39,661
+Robert?
+
+420
+00:30:02,185 --> 00:30:03,895
+Como foi o almoço?
+
+421
+00:30:04,229 --> 00:30:06,773
+Fomos ao telégrafo.
+Onde você estava?
+
+422
+00:30:07,441 --> 00:30:10,319
+Bem, creio que
+nós nos desencontramos.
+
+423
+00:30:42,895 --> 00:30:46,608
+Agora estou vendo o titio.
+Ele está com a americana.
+
+424
+00:30:48,860 --> 00:30:51,404
+Blush a mais e roupa a menos.
+
+425
+00:30:51,571 --> 00:30:53,824
+Está apelando
+ao que o coitado tem de pior.
+
+426
+00:30:53,949 --> 00:30:55,325
+É o que as mulheres
+fazem melhor.
+
+427
+00:30:55,450 --> 00:30:59,288
+Soube que saiu de Nova York
+sem pagar a conta do hotel.
+
+428
+00:30:59,413 --> 00:31:00,706
+Um escândalo e tanto.
+
+429
+00:31:00,831 --> 00:31:04,126
+- Quem? Alguém que conheço?
+- Alguém que não conhece.
+
+430
+00:31:04,251 --> 00:31:06,379
+Não. Mantenha-se longe.
+
+431
+00:31:06,504 --> 00:31:08,840
+É aquela com o lorde Augustus.
+
+432
+00:31:09,424 --> 00:31:11,551
+Você conhece a Sra. Erlynne,
+não?
+
+433
+00:31:11,759 --> 00:31:14,512
+- Não.
+- Mas eu vi você.
+
+434
+00:31:14,637 --> 00:31:17,641
+Oh, era seu pé?
+
+435
+00:31:18,558 --> 00:31:20,978
+Onde encontra sapatos
+que lhe sirvam?
+
+436
+00:31:21,103 --> 00:31:24,022
+Meus pés são
+proporcionais ao meu corpo.
+
+437
+00:31:24,148 --> 00:31:25,608
+Oh, sim, claro.
+
+438
+00:31:25,733 --> 00:31:29,362
+Embora costumem se encontrar
+em lugares peculiares.
+
+439
+00:31:29,528 --> 00:31:32,114
+Aquela gente
+está olhando para nós.
+
+440
+00:31:32,281 --> 00:31:33,032
+Quem?
+
+441
+00:31:36,828 --> 00:31:38,455
+Não se preocupe com elas.
+
+442
+00:31:38,580 --> 00:31:41,416
+É a esposa do meu irmão
+e a amiga dela, Sra. Plymdale.
+
+443
+00:31:41,791 --> 00:31:45,128
+O marido morreu no ano
+passado. Fígado, creio.
+
+444
+00:31:45,295 --> 00:31:48,006
+- Coitada.
+- Sim, muito triste.
+
+445
+00:31:48,132 --> 00:31:50,759
+O cabelo ficou dourado
+de tristeza.
+
+446
+00:31:52,887 --> 00:31:55,932
+Erlynne, isso mesmo.
+Ela recebeu um dinheiro.
+
+447
+00:31:56,098 --> 00:31:59,811
+- Apliquei para ela.
+- Uma herança, suponho.
+
+448
+00:32:00,144 --> 00:32:00,922
+Sim.
+
+449
+00:32:01,020 --> 00:32:03,606
+A mulher da loja,
+da qual lhe falei, lembra-se?
+
+450
+00:32:03,732 --> 00:32:04,816
+A do vestido.
+
+451
+00:32:05,483 --> 00:32:08,195
+Decotado atrás e na frente.
+Dava para ver tudo.
+
+452
+00:32:08,320 --> 00:32:09,488
+Era indecente.
+
+453
+00:32:09,613 --> 00:32:11,615
+Não está habituada
+à moda italiana.
+
+454
+00:32:11,740 --> 00:32:14,326
+Não, sua esposa tem
+toda a razão.
+
+455
+00:32:14,493 --> 00:32:16,996
+A Sra. Erlynne
+é uma conhecida Jezebel.
+
+456
+00:32:17,121 --> 00:32:20,166
+É uma calúnia.
+Se não pode provar, não repita.
+
+457
+00:32:20,791 --> 00:32:23,544
+Robert sempre dá a todos
+o benefício da dúvida.
+
+458
+00:32:23,711 --> 00:32:25,588
+Desculpe,
+eu não gosto de fofoca.
+
+459
+00:32:25,713 --> 00:32:29,134
+Fofoca, tudo bem. Pregar
+moral é que é de mau gosto.
+
+460
+00:32:31,011 --> 00:32:33,221
+Ela está de olho em mim,
+se é que me entende.
+
+461
+00:32:33,305 --> 00:32:36,642
+Portanto, não se preocupe
+com o que elas falam de você.
+
+462
+00:32:37,726 --> 00:32:39,895
+Por quê? O que falam de mim?
+
+463
+00:32:40,145 --> 00:32:41,939
+Que sou uma libertina?
+
+464
+00:32:42,064 --> 00:32:44,942
+Atrevida... com um passado.
+
+465
+00:32:45,276 --> 00:32:47,486
+Uma mulher atrevida.
+Céus!
+
+466
+00:32:47,612 --> 00:32:50,156
+É um atrevimento seu
+ser visto em minha companhia.
+
+467
+00:32:50,281 --> 00:32:51,950
+Também tenho um passado.
+
+468
+00:32:52,075 --> 00:32:53,952
+Casado e divorciado
+duas vezes.
+
+469
+00:32:54,536 --> 00:32:57,706
+Toda experiência é válida, e
+o que disserem do casamento,
+
+470
+00:32:57,789 --> 00:32:59,666
+certamente
+é uma experiência.
+
+471
+00:32:59,791 --> 00:33:01,293
+Quando as pessoas chamam
+algo de experiência...
+
+472
+00:33:01,376 --> 00:33:03,712
+querem dizer erro.
+
+473
+00:33:03,837 --> 00:33:05,255
+Concordo plenamente.
+
+474
+00:33:05,381 --> 00:33:07,842
+Sempre temos
+uns esqueletos no armário.
+
+475
+00:33:07,967 --> 00:33:10,511
+Acho que devíamos
+deixá-los circularem.
+
+476
+00:33:10,678 --> 00:33:12,722
+Está absolutamente certa.
+
+477
+00:33:13,639 --> 00:33:16,601
+Quando alguém concorda
+comigo, devo estar errada.
+
+478
+00:33:16,768 --> 00:33:18,645
+Gosta de ser diferente, não?
+
+479
+00:33:19,187 --> 00:33:21,064
+Nunca vou entender
+as mulheres.
+
+480
+00:33:21,189 --> 00:33:24,443
+As mulheres querem ser
+amadas, não entendidas.
+
+481
+00:33:24,651 --> 00:33:26,361
+Está totalmente enganada.
+
+482
+00:33:26,528 --> 00:33:28,781
+Você é muito compreensivo.
+
+483
+00:33:30,366 --> 00:33:32,576
+Aquela moça de lilás,
+você a conhece?
+
+484
+00:33:34,370 --> 00:33:36,455
+Ah, sim, é a esposa do Robert.
+
+485
+00:33:36,664 --> 00:33:39,292
+Recém-casados, é só chamego.
+Uma graça.
+
+486
+00:33:41,169 --> 00:33:43,797
+Podia parar de olhar para mim.
+
+487
+00:33:45,632 --> 00:33:46,883
+Não está olhando.
+
+488
+00:33:47,008 --> 00:33:49,928
+Aquelas mulheres
+devem ter feito fofoca.
+
+489
+00:33:50,178 --> 00:33:53,182
+- Não ligue para isso.
+- Não costumo ligar.
+
+490
+00:33:56,226 --> 00:33:59,063
+Está tão abafado aqui.
+Mal consigo respirar.
+
+491
+00:33:59,355 --> 00:34:01,399
+Vamos indo? Você se importa?
+
+492
+00:34:01,649 --> 00:34:04,110
+Não me importo
+nem um pouquinho.
+
+493
+00:34:04,736 --> 00:34:05,862
+Ótimo.
+
+494
+00:34:08,823 --> 00:34:12,410
+Não dá para acreditar.
+Caiu na rede dela!
+
+495
+00:34:14,037 --> 00:34:15,747
+Pobre Tuppy.
+
+496
+00:34:27,844 --> 00:34:29,929
+Chamo um táxi?
+
+497
+00:34:30,763 --> 00:34:33,183
+- Podemos ir andando?
+- Por que não?
+
+498
+00:34:36,019 --> 00:34:37,604
+Bela cidade.
+
+499
+00:34:37,729 --> 00:34:40,148
+Os romanos chamam de
+"Terra das Sereias"...
+
+500
+00:34:40,273 --> 00:34:41,984
+...da Odisséia de Homero.
+- É mesmo?
+
+501
+00:34:42,109 --> 00:34:43,610
+Como você é inteligente!
+
+502
+00:34:43,777 --> 00:34:47,031
+- Li em algum lugar.
+- Gosto de uma boa leitura.
+
+503
+00:34:47,197 --> 00:34:50,618
+Nada complicado, que interfira
+com a ignorância natural.
+
+504
+00:34:50,743 --> 00:34:53,079
+- É a chave da felicidade.
+- Acha mesmo?
+
+505
+00:34:53,204 --> 00:34:55,707
+Com certeza.
+Boa saúde é importante, mas...
+
+506
+00:34:55,873 --> 00:34:59,461
+ignorância é a chave. Se você
+sabe demais, está condenado.
+
+507
+00:35:09,680 --> 00:35:11,348
+Bem, chegamos.
+
+508
+00:35:12,224 --> 00:35:14,852
+Não vai me convidar
+para um último drinque?
+
+509
+00:35:16,854 --> 00:35:20,441
+Dizia-se que as sereias eram
+metade mulher, metade monstro.
+
+510
+00:35:20,942 --> 00:35:23,903
+Seduziam os marinheiros
+com suas canções.
+
+511
+00:35:24,738 --> 00:35:27,866
+Os navios batiam nas rochas
+e os homens se afogavam.
+
+512
+00:35:28,992 --> 00:35:32,538
+Vamos entrar. Você pode
+me falar mais sobre isso.
+
+513
+00:35:43,049 --> 00:35:46,427
+Pobre Sra. Plymdale. Acho que
+ela realmente gosta do Tuppy.
+
+514
+00:35:47,011 --> 00:35:49,431
+- Aonde acha que eles foram?
+- Quem?
+
+515
+00:35:50,014 --> 00:35:52,058
+Tuppy e Sra. Erlynne.
+
+516
+00:35:52,225 --> 00:35:54,144
+Provavelmente ao
+apartamento dela.
+
+517
+00:35:54,311 --> 00:35:55,729
+Provavelmente.
+
+518
+00:35:56,521 --> 00:35:58,524
+Acha que vai convidá-la
+para a minha festa?
+
+519
+00:35:59,608 --> 00:36:01,110
+Vou fazer com que
+não convide.
+
+520
+00:36:02,820 --> 00:36:05,698
+- Mas não seja indelicado.
+- Não, claro que não.
+
+521
+00:36:06,365 --> 00:36:09,368
+É que não quero
+que ninguém fique constrangido.
+
+522
+00:36:09,494 --> 00:36:11,704
+Alguém como ela
+cria um desconforto.
+
+523
+00:36:11,829 --> 00:36:12,997
+Sim.
+
+524
+00:36:13,373 --> 00:36:16,501
+Pode dizer que é uma
+festa íntima. Só amigos.
+
+525
+00:36:16,626 --> 00:36:18,211
+- Não investidores.
+- Certo.
+
+526
+00:36:19,296 --> 00:36:24,343
+Não é só fofoca de mulher.
+John Darlington sabe de tudo.
+
+527
+00:36:28,347 --> 00:36:31,142
+Disse que o amigo dela
+é um homem casado.
+
+528
+00:36:31,350 --> 00:36:32,476
+É revoltante.
+
+529
+00:36:32,560 --> 00:36:34,520
+As pessoas sentem prazer
+em falar.
+
+530
+00:36:38,233 --> 00:36:41,277
+- Por que insiste em defendê-la?
+- Não estou defendendo.
+
+531
+00:36:42,070 --> 00:36:43,238
+Está.
+
+532
+00:36:43,405 --> 00:36:45,157
+Chega deste assunto.
+
+533
+00:36:47,534 --> 00:36:51,121
+Será que convém você
+ajudá-la nos investimentos?
+
+534
+00:36:51,246 --> 00:36:53,415
+Todos sabem a origem
+do dinheiro dela.
+
+535
+00:36:53,582 --> 00:36:55,209
+Outro assunto.
+
+536
+00:36:57,712 --> 00:36:59,297
+Feche os olhos.
+
+537
+00:37:00,590 --> 00:37:02,759
+- Robert?
+- Feche os olhos.
+
+538
+00:37:10,350 --> 00:37:13,604
+Já passa da meia noite.
+Feliz aniversário.
+
+539
+00:37:30,205 --> 00:37:33,083
+- É lindo.
+- Gosta?
+
+540
+00:37:35,085 --> 00:37:36,670
+Obrigada.
+
+541
+00:37:38,255 --> 00:37:40,632
+- Amo você.
+- Também amo você.
+
+542
+00:37:50,643 --> 00:37:52,145
+Nossa!
+
+543
+00:37:55,440 --> 00:37:57,275
+- Obrigada.
+- De nada.
+
+544
+00:38:06,118 --> 00:38:08,120
+Gosta?
+
+545
+00:38:09,747 --> 00:38:11,499
+Comida é a rocha...
+
+546
+00:38:11,916 --> 00:38:14,252
+que sustenta nosso corpo.
+
+547
+00:38:16,087 --> 00:38:18,840
+Nenhum amor é puro e simples
+como o amor pela comida.
+
+548
+00:38:18,965 --> 00:38:22,344
+Raramente o amor é puro,
+e nunca é simples.
+
+549
+00:38:22,510 --> 00:38:25,013
+Creio que nunca se apaixonou.
+
+550
+00:38:25,764 --> 00:38:27,599
+Pode tomar a liberdade
+de me chamar de Stella...
+
+551
+00:38:27,724 --> 00:38:29,518
+mas não creia que conhece
+meu coração.
+
+552
+00:38:29,643 --> 00:38:32,271
+Estou sempre apaixonada.
+
+553
+00:38:32,980 --> 00:38:36,942
+Ótimo. Excelente atitude.
+E você é linda.
+
+554
+00:38:37,443 --> 00:38:40,446
+E inteligente.
+Mais do que eu, espero, mas...
+
+555
+00:38:40,613 --> 00:38:42,615
+isso não é
+uma grande vantagem.
+
+556
+00:38:42,740 --> 00:38:45,034
+Seria bom me casar com você.
+
+557
+00:38:45,994 --> 00:38:47,621
+Que prático!
+
+558
+00:38:47,746 --> 00:38:51,208
+Comecei muitos romances
+por sentimento.
+
+559
+00:38:51,667 --> 00:38:53,502
+Sempre acabam em acordos.
+
+560
+00:38:53,627 --> 00:38:56,213
+Poderia ouvi-lo a noite toda,
+lorde Augustus.
+
+561
+00:38:56,338 --> 00:38:58,591
+Tuppy, por favor.
+
+562
+00:39:00,050 --> 00:39:02,261
+Vai pensar na minha proposta?
+
+563
+00:39:03,888 --> 00:39:06,099
+Homens não se casam
+com mulheres como eu.
+
+564
+00:39:07,016 --> 00:39:09,060
+Não há mulheres como você.
+
+565
+00:39:09,227 --> 00:39:13,523
+Pelo menos entre as que
+eu conheci, e não foram poucas.
+
+566
+00:39:13,690 --> 00:39:16,318
+Eu fui casada. Não tomei gosto.
+
+567
+00:39:16,485 --> 00:39:19,905
+As pessoas mudam.
+Você pode mudar de opinião.
+
+568
+00:39:20,656 --> 00:39:22,908
+Quando penso nisso,
+penso num quarto...
+
+569
+00:39:23,158 --> 00:39:25,035
+onde não se pode abrir
+uma janela.
+
+570
+00:39:26,704 --> 00:39:28,831
+Onde não há janela.
+
+571
+00:39:30,625 --> 00:39:33,211
+Cada dia, quando você acorda,
+o quarto está menor.
+
+572
+00:39:34,838 --> 00:39:38,633
+No início, você não se
+dá conta. Acontece lentamente.
+
+573
+00:39:39,426 --> 00:39:41,178
+Aos poucos.
+
+574
+00:39:42,512 --> 00:39:45,140
+Aí, uma manhã,
+você abre os olhos...
+
+575
+00:39:46,058 --> 00:39:48,352
+e o quarto está tão pequeno
+que você...
+
+576
+00:39:49,061 --> 00:39:50,688
+não consegue se mexer.
+
+577
+00:39:51,939 --> 00:39:53,858
+Você não consegue respirar.
+
+578
+00:39:55,735 --> 00:39:57,320
+Tem que sair.
+
+579
+00:39:58,738 --> 00:40:00,907
+Você não consegue
+pensar em mais nada...
+
+580
+00:40:01,449 --> 00:40:02,993
+e em mais ninguém.
+
+581
+00:40:04,494 --> 00:40:06,997
+Você se casou com o
+homem errado, só isso.
+
+582
+00:40:10,584 --> 00:40:12,670
+Ele se casou com
+a mulher errada.
+
+583
+00:40:14,713 --> 00:40:15,881
+Está tarde.
+
+584
+00:40:17,133 --> 00:40:18,509
+Hora de ir para a cama.
+
+585
+00:40:19,510 --> 00:40:20,636
+Dormir.
+
+586
+00:40:20,845 --> 00:40:22,889
+"Sonhar, talvez".
+
+587
+00:40:22,972 --> 00:40:25,225
+Shakespeare.
+Eu também leio um pouco.
+
+588
+00:40:25,433 --> 00:40:28,061
+É, você falou.
+Boa noite, Tuppy.
+
+589
+00:40:31,606 --> 00:40:34,067
+Detesto gosto de tabaco.
+
+590
+00:40:37,196 --> 00:40:39,615
+Bem, então chega.
+
+591
+00:40:46,748 --> 00:40:50,168
+Não vou mais fumar.
+A partir de agora.
+
+592
+00:40:53,004 --> 00:40:55,006
+O que mais posso lhe dizer?
+
+593
+00:40:57,009 --> 00:40:59,469
+Sou um homem muito rico,
+sabe?
+
+594
+00:41:00,179 --> 00:41:02,056
+É um homem muito gentil.
+
+595
+00:41:02,890 --> 00:41:04,183
+Vá para a cama.
+
+596
+00:41:09,397 --> 00:41:11,482
+Fico feliz de parar de fumar.
+
+597
+00:41:13,693 --> 00:41:15,361
+Um vício horrível.
+
+598
+00:41:19,616 --> 00:41:21,243
+Boa noite.
+
+599
+00:41:56,030 --> 00:41:58,824
+Haverá um domador de leões,
+ou os palhaços de sempre?
+
+600
+00:41:59,075 --> 00:42:02,912
+Robert tinha medo que chovesse.
+Eu queria pouca gente...
+
+601
+00:42:03,037 --> 00:42:04,998
+mas ele disse
+que só se faz 21 anos uma vez.
+
+602
+00:42:05,123 --> 00:42:09,586
+Conheço várias mulheres
+que fazem 35 anos a cada ano.
+
+603
+00:42:09,753 --> 00:42:11,088
+Pode fazer 21 anos
+várias vezes.
+
+604
+00:42:11,213 --> 00:42:12,923
+É bobagem esconder a idade.
+
+605
+00:42:13,048 --> 00:42:15,968
+- Não tem vícios redentores.
+- Espero que não.
+
+606
+00:42:17,177 --> 00:42:18,971
+Feliz aniversário.
+
+607
+00:42:20,055 --> 00:42:22,266
+O convite dizia
+"nada de presentes".
+
+608
+00:42:22,433 --> 00:42:24,268
+Por isso eu trouxe agora.
+
+609
+00:42:28,731 --> 00:42:31,943
+É caro demais. Sei que não
+tem nenhum significado, mas...
+
+610
+00:42:32,068 --> 00:42:33,153
+não fica bem.
+
+611
+00:42:33,278 --> 00:42:36,198
+Ouro fica bem com tudo.
+Use. Ninguém precisa saber.
+
+612
+00:42:37,282 --> 00:42:38,450
+Eu saberia.
+
+613
+00:42:39,409 --> 00:42:41,078
+Tem um significado.
+
+614
+00:42:41,245 --> 00:42:43,038
+- Por favor?
+- É um presente de amigo.
+
+615
+00:42:43,205 --> 00:42:45,916
+Vou ficar muito magoado
+se recusar.
+
+616
+00:42:46,459 --> 00:42:48,044
+Olhe o que me fez fazer.
+
+617
+00:42:48,210 --> 00:42:50,254
+Um pouco de amizade
+pode ser perigoso.
+
+618
+00:42:50,379 --> 00:42:51,756
+E mais, pode ser fatal.
+
+619
+00:42:51,881 --> 00:42:54,467
+Aceite antes que eu morra
+e estrague seu terraço.
+
+620
+00:42:57,345 --> 00:42:59,556
+É muito bonito. Obrigada.
+
+621
+00:43:03,894 --> 00:43:06,522
+Onde está o Robert?
+Mandando outro telegrama?
+
+622
+00:43:07,773 --> 00:43:10,359
+Senhora, a florista
+está esperando o dinheiro.
+
+623
+00:43:10,609 --> 00:43:12,403
+Tenho que pegar
+com o Sr. Windemere.
+
+624
+00:43:12,528 --> 00:43:13,696
+Ele pode voltar depois?
+
+625
+00:43:13,821 --> 00:43:15,656
+Robert tem talão de cheque
+no escritório?
+
+626
+00:43:15,781 --> 00:43:18,326
+- Você pode assinar?
+- Sim, claro.
+
+627
+00:43:18,451 --> 00:43:20,829
+Mande-o esperar.
+Vejo você à noite.
+
+628
+00:43:20,995 --> 00:43:23,498
+Nem sempre as pessoas
+se portam como esperamos.
+
+629
+00:43:23,665 --> 00:43:27,044
+Na verdade, é o contrário.
+Não quero ver você magoada.
+
+630
+00:43:27,210 --> 00:43:29,004
+Do que está falando?
+
+631
+00:43:29,129 --> 00:43:31,006
+Talvez precise de um amigo
+um dia desses.
+
+632
+00:43:31,173 --> 00:43:33,968
+Estarei às ordens.
+Vai se lembrar disso?
+
+633
+00:43:34,969 --> 00:43:36,303
+Sim, claro.
+
+634
+00:45:17,495 --> 00:45:19,872
+Vim o mais rápido
+que eu pude.
+
+635
+00:45:20,456 --> 00:45:23,251
+Estamos todos
+tão desolados com isso.
+
+636
+00:45:24,836 --> 00:45:27,130
+Mas não leve para
+o lado pessoal.
+
+637
+00:45:27,964 --> 00:45:30,926
+A Sra. Erlynne
+é uma dessas mulheres...
+
+638
+00:45:31,051 --> 00:45:34,513
+que atraem os homens
+como uma abelha a uma chama.
+
+639
+00:45:35,764 --> 00:45:39,518
+- Uma traça.
+- Uma abelha a uma traça.
+
+640
+00:45:42,813 --> 00:45:45,149
+Deve haver uma
+outra explicação.
+
+641
+00:45:52,323 --> 00:45:55,577
+Tenho uma idéia.
+Vamos dar uma volta?
+
+642
+00:46:04,086 --> 00:46:08,549
+Se há casamento sem amor,
+haverá amor sem casamento.
+
+643
+00:46:08,674 --> 00:46:12,845
+- Mas nós nos casamos por amor.
+- Claro. E eu também.
+
+644
+00:46:13,304 --> 00:46:14,931
+Mas antes de um ano...
+
+645
+00:46:15,139 --> 00:46:17,976
+Benito estava tendo
+diversos casos.
+
+646
+00:46:18,143 --> 00:46:20,186
+Tive que demitir
+minha melhor empregada.
+
+647
+00:46:20,770 --> 00:46:22,314
+Não, agora eu me lembro.
+
+648
+00:46:22,689 --> 00:46:24,942
+Eu a passei para
+a minha prima.
+
+649
+00:46:25,442 --> 00:46:28,153
+O marido dela era
+tão míope, pensei.
+
+650
+00:46:28,737 --> 00:46:31,615
+Mas ele seguiu o
+rastro do perfume.
+
+651
+00:46:31,991 --> 00:46:34,285
+Que infortúnio!
+
+652
+00:46:34,994 --> 00:46:38,164
+Acredite, querida,
+acontece com todas nós.
+
+653
+00:46:38,539 --> 00:46:40,833
+Amor eterno é como
+o fantasma na sua casa.
+
+654
+00:46:40,959 --> 00:46:42,127
+Todos falam sobre ele...
+
+655
+00:46:42,252 --> 00:46:45,297
+mas tente achar
+uma pessoa que o viu.
+
+656
+00:46:50,177 --> 00:46:53,138
+- Posso lhe pedir um favor?
+- O que quiser.
+
+657
+00:46:53,722 --> 00:46:56,058
+Quanto... à Sra. Erlynne?
+
+658
+00:46:56,809 --> 00:46:58,519
+Mulher inteligente.
+
+659
+00:46:58,728 --> 00:47:00,354
+Ela me expulsou ontem
+à noite.
+
+660
+00:47:00,479 --> 00:47:03,316
+Sabe que sou um idiota.
+Tanto quanto eu sei que sou.
+
+661
+00:47:03,941 --> 00:47:06,110
+Mas vem tomar um chá comigo.
+
+662
+00:47:09,572 --> 00:47:13,410
+É ótimo conhecer uma mulher
+que me entende completamente.
+
+663
+00:47:13,577 --> 00:47:17,039
+Importa-se de não trazê-la
+à festa esta noite?
+
+664
+00:47:17,956 --> 00:47:19,458
+É esse o favor?
+
+665
+00:47:19,583 --> 00:47:21,710
+Meg acha que pode criar
+um desconforto.
+
+666
+00:47:21,836 --> 00:47:23,546
+Então, é verdade?
+
+667
+00:47:23,754 --> 00:47:27,592
+Eu não acredito. Não parece
+o tipo de cara que faz isso.
+
+668
+00:47:27,800 --> 00:47:32,013
+A Sra. Erlynne é fascinante.
+E difícil resistir a ela, mas...
+
+669
+00:47:33,098 --> 00:47:34,849
+Não é nada sério, é?
+
+670
+00:47:34,975 --> 00:47:37,978
+Estou avisando,
+terá que brigar comigo por ela.
+
+671
+00:47:38,228 --> 00:47:39,896
+E sou um homem apaixonado.
+
+672
+00:47:40,689 --> 00:47:42,941
+Do que está falando?
+
+673
+00:47:44,693 --> 00:47:45,945
+Por aqui, Sra. Erlynne.
+
+674
+00:47:46,070 --> 00:47:47,947
+- Obrigada.
+- De nada.
+
+675
+00:47:56,080 --> 00:47:58,124
+- Venha comigo.
+- Aonde está me levando?
+
+676
+00:47:58,375 --> 00:48:00,210
+- Solte meu braço.
+- Preciso falar com você.
+
+677
+00:48:00,377 --> 00:48:02,045
+Lorde Augustus me espera.
+
+678
+00:48:02,587 --> 00:48:05,549
+- Precisa sair de Amalfi imediatamente.
+- Sair?
+
+679
+00:48:05,716 --> 00:48:08,510
+E ir aonde? Pagou meu
+aluguel para a temporada.
+
+680
+00:48:08,677 --> 00:48:10,971
+Pago em outro lugar.
+Parta amanhã.
+
+681
+00:48:11,138 --> 00:48:13,682
+- Não entendo.
+- As pessoas estão falando.
+
+682
+00:48:14,350 --> 00:48:15,893
+Sobre nós.
+
+683
+00:48:16,811 --> 00:48:18,396
+Não vejo graça.
+
+684
+00:48:18,563 --> 00:48:22,192
+Você esconde um segredo real
+e um falso aparece no lugar.
+
+685
+00:48:22,317 --> 00:48:25,320
+Há uma certa ironia, admita.
+
+686
+00:48:27,197 --> 00:48:30,242
+Não estou pronta para partir.
+Estou me divertindo.
+
+687
+00:48:30,367 --> 00:48:31,952
+Estou implorando.
+
+688
+00:48:32,828 --> 00:48:36,498
+Pense na Meg. Se ela soubesse
+que você é a mãe dela...
+
+689
+00:48:38,709 --> 00:48:39,919
+ficaria arrasada.
+
+690
+00:48:40,002 --> 00:48:42,421
+Meg,
+dos magníficos Windemere?
+
+691
+00:48:42,630 --> 00:48:45,258
+Escândalo em família é ruim
+para aspirantes a político.
+
+692
+00:48:45,341 --> 00:48:47,635
+Não sou a única
+com espírito prático.
+
+693
+00:48:47,761 --> 00:48:52,724
+Espírito prático? Vinte anos
+e nem sequer uma palavra.
+
+694
+00:48:52,933 --> 00:48:54,685
+Você aparece quando
+ela se casa com um cara rico.
+
+695
+00:48:54,768 --> 00:48:58,021
+Isso é espírito prático?
+Tenho outro nome para isso.
+
+696
+00:48:58,230 --> 00:49:00,733
+- Está ferindo meus sentimentos.
+- Você tem sentimentos?
+
+697
+00:49:00,858 --> 00:49:03,027
+Isso não pode ser comprado.
+
+698
+00:49:04,320 --> 00:49:07,448
+Quanto quer para
+embarcar no próximo vôo?
+
+699
+00:49:12,162 --> 00:49:14,622
+Cada beijo que ele me deu
+é sórdido.
+
+700
+00:49:15,415 --> 00:49:17,542
+Cada minuto que passamos
+juntos, uma mentira.
+
+701
+00:49:20,295 --> 00:49:21,755
+Como é possível?
+
+702
+00:49:22,339 --> 00:49:25,884
+Todo homem nasce sincero
+e morre mentiroso.
+
+703
+00:49:26,677 --> 00:49:29,430
+O que quer que faça,
+nada de escândalos.
+
+704
+00:49:29,555 --> 00:49:32,141
+É desagradável.
+E um desperdício de energia.
+
+705
+00:49:33,476 --> 00:49:35,269
+Não, claro que não.
+
+706
+00:49:35,895 --> 00:49:38,773
+Chorar é o refúgio
+de mulheres comuns.
+
+707
+00:49:39,691 --> 00:49:41,902
+As bonitas vão fazer compras.
+
+708
+00:49:54,415 --> 00:49:57,084
+Esteja nesse avião.
+Enviarei o dinheiro.
+
+709
+00:50:07,220 --> 00:50:09,348
+Ouvi você direito?
+
+710
+00:50:09,556 --> 00:50:13,185
+Que...
+Meg Windemere é sua filha?
+
+711
+00:50:13,685 --> 00:50:15,187
+Minha filha?
+
+712
+00:50:15,604 --> 00:50:17,231
+A esposa do Robert?
+
+713
+00:50:17,565 --> 00:50:19,942
+Como se atreve?!
+
+714
+00:50:20,109 --> 00:50:23,404
+Ela deve ter pelo
+menos 20 anos! Mãe dela?
+
+715
+00:50:24,405 --> 00:50:26,491
+Eu pareço tão velha assim?
+
+716
+00:50:29,077 --> 00:50:30,537
+É claro que não.
+
+717
+00:50:32,622 --> 00:50:34,374
+Acho que peguei no sono.
+
+718
+00:50:35,083 --> 00:50:38,295
+Estava cochilando.
+Volte a dormir.
+
+719
+00:50:48,973 --> 00:50:50,475
+Venha.
+
+720
+00:51:10,621 --> 00:51:13,249
+Nada de negócios.
+Conversaremos outro dia.
+
+721
+00:51:13,458 --> 00:51:15,168
+- É um prazer vê-lo.
+- Linda festa.
+
+722
+00:51:15,710 --> 00:51:17,253
+Mais champanhe.
+
+723
+00:51:17,462 --> 00:51:19,172
+Bem-vindos.
+Aproveitem a festa.
+
+724
+00:51:50,914 --> 00:51:54,501
+- Boa noite, Sr. Dumby.
+- Boa noite Sra. Stutfield.
+
+725
+00:51:54,793 --> 00:51:56,670
+Ótima festa da temporada,
+creio.
+
+726
+00:51:56,795 --> 00:52:00,675
+- Foi uma temporada fantástica.
+- Realmente fantástica.
+
+727
+00:52:00,841 --> 00:52:05,054
+Boa noite, Sra. Plymdale.
+A última festa da temporada.
+
+728
+00:52:05,179 --> 00:52:08,641
+Creio que sim. Foi uma
+temporada monótona, não?
+
+729
+00:52:08,808 --> 00:52:10,977
+Sim, terrivelmente monótona.
+
+730
+00:52:11,102 --> 00:52:12,896
+- Boa noite, Cecil.
+- Olá, Dumby.
+
+731
+00:52:13,021 --> 00:52:16,024
+Suponho que seja
+a última festa da temporada.
+
+732
+00:52:16,858 --> 00:52:18,735
+Provavelmente haverá
+mais duas.
+
+733
+00:52:18,861 --> 00:52:21,655
+Tive um sonho estranho hoje.
+
+734
+00:52:21,780 --> 00:52:23,157
+Acabo de lembrar
+de uma parte dele.
+
+735
+00:52:23,282 --> 00:52:24,867
+O que vamos beber?
+
+736
+00:52:24,992 --> 00:52:27,328
+- Onde está a aniversariante?
+- Transformando-se.
+
+737
+00:52:27,453 --> 00:52:29,038
+Salsichas e mulheres.
+
+738
+00:52:29,163 --> 00:52:31,249
+Se querem desfrutar
+a experiência...
+
+739
+00:52:31,374 --> 00:52:33,668
+não assistam ao seu preparo!
+
+740
+00:53:47,664 --> 00:53:50,291
+- É novo?
+- Novinho. Gosta?
+
+741
+00:53:50,750 --> 00:53:52,711
+Pode se resfriar.
+Vou buscar um agasalho.
+
+742
+00:53:53,086 --> 00:53:56,423
+Sua amiga não lhe ensinou
+nada sobre moda italiana?
+
+743
+00:53:56,590 --> 00:53:57,841
+Minha amiga?
+
+744
+00:53:58,008 --> 00:54:00,094
+Vi os cheques. Nem tente!
+
+745
+00:54:00,219 --> 00:54:02,388
+Sra. Plymdale,
+que bom que veio.
+
+746
+00:54:02,513 --> 00:54:04,056
+Quer outra taça
+de champanhe?
+
+747
+00:54:04,181 --> 00:54:06,309
+Vamos tomar, nós duas.
+
+748
+00:54:08,144 --> 00:54:09,937
+Por que não pergunta
+como estou?
+
+749
+00:54:10,146 --> 00:54:12,023
+Gosto que as pessoas
+perguntem.
+
+750
+00:54:12,148 --> 00:54:14,192
+Mostra interesse
+pela minha saúde.
+
+751
+00:54:14,317 --> 00:54:16,987
+E você não imagina
+como isso é reconfortante.
+
+752
+00:54:17,988 --> 00:54:19,448
+Linda festa.
+
+753
+00:54:19,573 --> 00:54:22,117
+- Como vai você, Cecil?
+- Nada bem.
+
+754
+00:54:22,326 --> 00:54:24,411
+Queria que Alessandra...
+
+755
+00:54:24,536 --> 00:54:26,705
+conhecesse
+o Sr. Hopper da Austrália.
+
+756
+00:54:26,830 --> 00:54:30,084
+- Você apresenta para ela?
+- Com licença um instante.
+
+757
+00:54:30,209 --> 00:54:32,670
+Vá com o Sr. Windemere.
+Obrigada.
+
+758
+00:54:33,254 --> 00:54:36,215
+É minha última.
+Vou sentir falta dela.
+
+759
+00:54:36,507 --> 00:54:38,426
+Mas é melhor saírem de casa...
+
+760
+00:54:38,510 --> 00:54:40,470
+antes que se voltem
+contra a gente.
+
+761
+00:54:40,595 --> 00:54:44,391
+As meninas adoram as mães.
+Ao crescerem, elas nos julgam.
+
+762
+00:54:44,516 --> 00:54:47,144
+Raramente, elas nos perdoam.
+
+763
+00:54:49,938 --> 00:54:53,526
+Oh, pobre tolo.
+Ele nunca aprende.
+
+764
+00:54:53,692 --> 00:54:55,820
+Que tolo?
+Não me faça escolher.
+
+765
+00:54:55,945 --> 00:54:59,031
+Tuppy!
+Ele trouxe a Sra. Erlynne.
+
+766
+00:54:59,198 --> 00:55:01,409
+Todas as mulheres
+vão ignorá-la.
+
+767
+00:55:01,534 --> 00:55:03,828
+Pode ter melhor sorte
+com os homens.
+
+768
+00:55:03,995 --> 00:55:05,413
+Por causa dos homens...
+
+769
+00:55:05,538 --> 00:55:07,374
+algumas mulheres
+desconfiam de outras.
+
+770
+00:55:07,499 --> 00:55:10,293
+Nem as mulheres
+nem os homens...
+
+771
+00:55:10,419 --> 00:55:11,962
+ninguém confia nas mulheres.
+
+772
+00:55:12,087 --> 00:55:15,424
+É o que une hindus e católicos.
+
+773
+00:55:26,561 --> 00:55:29,522
+Sei que prometi, mas preciso
+dizer que está linda esta noite.
+
+774
+00:55:30,899 --> 00:55:33,401
+Bem, se você precisa, precisa.
+
+775
+00:55:34,528 --> 00:55:37,114
+Desculpe, eu estava
+procurando outra pessoa.
+
+776
+00:55:37,281 --> 00:55:39,324
+Bem, você me encontrou.
+
+777
+00:55:39,700 --> 00:55:41,410
+Sra. Erlynne.
+
+778
+00:55:41,577 --> 00:55:43,245
+Posso chamá-la de Stella?
+
+779
+00:55:43,829 --> 00:55:46,123
+Lorde Augustus
+foi buscar champanhe.
+
+780
+00:55:46,415 --> 00:55:48,501
+Podemos fazer
+uma troca de favores.
+
+781
+00:55:49,126 --> 00:55:50,962
+Tentador, mas não.
+
+782
+00:55:51,129 --> 00:55:55,175
+Prefiro que ele não nos veja
+ao luar. Poderia interpretar mal.
+
+783
+00:55:55,341 --> 00:55:56,801
+Ouça-me.
+
+784
+00:55:56,926 --> 00:55:59,346
+Windemere é mais rico
+do que Tuppy.
+
+785
+00:55:59,513 --> 00:56:00,514
+Para que mudar de par?
+
+786
+00:56:00,639 --> 00:56:03,058
+Pode ter o que quer
+e Meg fica livre.
+
+787
+00:56:04,059 --> 00:56:05,227
+Livre?
+
+788
+00:56:05,352 --> 00:56:07,313
+Ela não tem coragem
+de deixá-lo.
+
+789
+00:56:07,438 --> 00:56:09,857
+Mas se ficar claro
+que ele está com você?
+
+790
+00:56:10,191 --> 00:56:12,193
+Ele não está.
+
+791
+00:56:12,610 --> 00:56:17,198
+Recebeu falsa informação.
+Devia receber um reembolso.
+
+792
+00:56:17,782 --> 00:56:19,409
+Com licença.
+
+793
+00:56:19,909 --> 00:56:22,120
+Tive que convidá-la, Dumby.
+
+794
+00:56:22,329 --> 00:56:25,665
+É uma mulher mudada.
+Dá para ver nos olhos dela.
+
+795
+00:56:25,832 --> 00:56:28,085
+Ela não olharia para você
+se fosse pobre.
+
+796
+00:56:28,293 --> 00:56:30,212
+Nem eu para ela se fosse feia.
+
+797
+00:56:30,337 --> 00:56:32,965
+O que é justo é justo.
+Toma lá, dá cá.
+
+798
+00:56:33,132 --> 00:56:35,259
+Sei que teve seus casos, mas...
+
+799
+00:56:35,426 --> 00:56:37,720
+se um homem pode tolerar
+seu passado...
+
+800
+00:56:37,845 --> 00:56:40,473
+por que não o da esposa?
+De qualquer forma...
+
+801
+00:56:40,640 --> 00:56:42,850
+é passar uma esponja
+no passado e recomeçar.
+
+802
+00:56:42,976 --> 00:56:46,938
+Ela e eu...
+nós nos entendemos.
+
+803
+00:56:47,063 --> 00:56:48,189
+E sabe o que dizem?
+
+804
+00:56:48,315 --> 00:56:52,194
+Todo santo tem um passado,
+todo pecador tem um futuro.
+
+805
+00:56:56,281 --> 00:56:58,909
+Vou pedi-la em casamento,
+se ela me quiser.
+
+806
+00:56:59,660 --> 00:57:03,915
+Sabe por que o chamam
+de altar, Tuppy?
+
+807
+00:57:04,081 --> 00:57:07,043
+É onde fazem
+sacrifícios humanos.
+
+808
+00:57:07,877 --> 00:57:11,005
+Tive um sonho
+com a Sra. Erlynne hoje.
+
+809
+00:57:11,172 --> 00:57:12,465
+Bem...
+
+810
+00:57:12,591 --> 00:57:14,801
+você não
+pôde evitar, suponho. Ela...
+
+811
+00:57:15,927 --> 00:57:17,721
+é uma mulher e tanto.
+
+812
+00:57:18,388 --> 00:57:21,266
+Mas... no futuro...
+
+813
+00:57:21,433 --> 00:57:23,686
+por favor, procure
+sonhar com outra pessoa.
+
+814
+00:57:47,127 --> 00:57:49,255
+Não acha que bebeu
+o bastante?
+
+815
+00:58:04,729 --> 00:58:07,316
+- Linda festa.
+- Obrigado por ter vindo.
+
+816
+00:58:10,861 --> 00:58:12,154
+Meg?
+
+817
+00:58:12,488 --> 00:58:14,323
+Preciso me trocar.
+
+818
+00:58:14,532 --> 00:58:16,450
+- Você a viu?
+- Não fique assim.
+
+819
+00:58:16,951 --> 00:58:18,703
+Você está linda.
+
+820
+00:58:18,911 --> 00:58:21,164
+Fica ridículo
+para uma mulher da idade dela.
+
+821
+00:58:22,040 --> 00:58:23,917
+Por que você não me contou?
+
+822
+00:58:24,834 --> 00:58:26,836
+Disse que era meu amigo.
+
+823
+00:58:27,379 --> 00:58:29,297
+Homens e mulheres
+não podem ser amigos.
+
+824
+00:58:34,219 --> 00:58:35,929
+- Meg?
+- Não.
+
+825
+00:58:56,076 --> 00:58:58,787
+Vai conseguir ficar com ele?
+
+826
+00:58:59,037 --> 00:59:02,833
+Vai conseguir ir para a cama
+com ele esta noite?
+
+827
+00:59:02,958 --> 00:59:05,544
+Amanhã à noite?
+Nas noites seguintes?
+
+828
+00:59:06,879 --> 00:59:10,049
+Disse que não há perdão
+para quem trai a esposa.
+
+829
+00:59:10,299 --> 00:59:11,259
+O que vai escolher?
+
+830
+00:59:11,342 --> 00:59:14,679
+Um casamento falso, aviltante,
+ou seu verdadeiro eu?
+
+831
+00:59:14,721 --> 00:59:17,307
+Amo você desde o início.
+Essa é a verdade.
+
+832
+00:59:17,432 --> 00:59:20,644
+Quando estendeu a mão
+na loja, pensei: "É ela".
+
+833
+00:59:20,769 --> 00:59:23,855
+Imagine se eu
+tivesse passado sem parar.
+
+834
+00:59:24,565 --> 00:59:26,525
+Só de pensar...
+
+835
+00:59:27,109 --> 00:59:29,069
+Eu nunca tinha amado
+ninguém antes.
+
+836
+00:59:29,320 --> 00:59:31,155
+Pare.
+
+837
+00:59:41,166 --> 00:59:42,751
+John?
+
+838
+00:59:43,710 --> 00:59:45,921
+Desculpe,
+eu não queria assustar você.
+
+839
+00:59:46,254 --> 00:59:48,966
+Estou procurando a Meg.
+Se a vir, é importante.
+
+840
+00:59:49,466 --> 00:59:51,135
+Vocês brigaram?
+
+841
+00:59:52,720 --> 00:59:54,638
+Um pequeno desentendimento.
+
+842
+00:59:55,681 --> 00:59:57,350
+Procure no bar.
+
+843
+01:00:04,357 --> 01:00:06,568
+Tuppy parou de fumar
+por causa dela.
+
+844
+01:00:06,735 --> 01:00:07,652
+Mulheres.
+
+845
+01:00:07,777 --> 01:00:10,071
+Elas nos inspiram
+a grandes feitos.
+
+846
+01:00:10,197 --> 01:00:12,949
+E aí, elas nos impedem
+de realizá-los.
+
+847
+01:00:13,075 --> 01:00:14,368
+Ele a está pedindo
+em casamento.
+
+848
+01:00:14,493 --> 01:00:17,079
+Se ela aceitar,
+será o terceiro dele.
+
+849
+01:00:17,204 --> 01:00:19,373
+A esperança supera
+a experiência.
+
+850
+01:00:19,498 --> 01:00:22,001
+É como Deus brinca
+com a raça humana.
+
+851
+01:00:22,168 --> 01:00:25,046
+Ele está convencido
+de que ela está mudada.
+
+852
+01:00:25,671 --> 01:00:27,632
+Quer tornar
+a coisa interessante?
+
+853
+01:00:28,216 --> 01:00:30,343
+Eu disse que estava
+falando sério.
+
+854
+01:00:31,928 --> 01:00:34,180
+Ninguém preveniu
+você contra mim?
+
+855
+01:00:34,306 --> 01:00:36,224
+Oh, sim. Todo mundo.
+
+856
+01:00:37,768 --> 01:00:39,394
+Guarde isso.
+
+857
+01:00:39,686 --> 01:00:42,106
+Você não precisa me amar
+logo de início.
+
+858
+01:00:42,231 --> 01:00:44,316
+Pense no dinheiro.
+
+859
+01:00:44,441 --> 01:00:48,237
+E se nos casarmos e em um
+ano você estiver falido?
+
+860
+01:00:48,362 --> 01:00:50,281
+Estarei presa a um pobretão.
+
+861
+01:00:50,406 --> 01:00:53,117
+Por outro lado, posso morrer no
+campo de golfe terça que vem.
+
+862
+01:00:53,201 --> 01:00:55,119
+E você ficará bem de vida.
+
+863
+01:00:55,245 --> 01:00:57,414
+A vida é um jogo, Stella.
+
+864
+01:00:58,415 --> 01:01:00,375
+Não sei o que dizer.
+
+865
+01:01:01,668 --> 01:01:04,087
+As pessoas já falam
+o bastante.
+
+866
+01:01:26,611 --> 01:01:28,280
+A Sra. Windemere
+e a Sra. Erlynne...
+
+867
+01:01:28,363 --> 01:01:31,283
+parecem mãe e filha, não?
+
+868
+01:01:31,450 --> 01:01:33,744
+Estão usando o mesmo vestido.
+
+869
+01:01:33,953 --> 01:01:35,621
+Deve ser por isso.
+
+870
+01:01:41,669 --> 01:01:43,546
+Venha comigo.
+
+871
+01:01:43,671 --> 01:01:46,007
+Podemos partir esta noite.
+
+872
+01:01:49,302 --> 01:01:50,804
+Por favor.
+
+873
+01:01:57,394 --> 01:01:59,438
+Isso é alguma brincadeira?
+
+874
+01:02:00,064 --> 01:02:02,441
+Preciso falar com você.
+É sobre Darlington.
+
+875
+01:02:02,608 --> 01:02:04,110
+Venha comigo.
+
+876
+01:02:09,699 --> 01:02:11,284
+Está apaixonado pela Meg.
+
+877
+01:02:11,451 --> 01:02:14,871
+Eu vou aumentar a quantia.
+Quero que vá embora já.
+
+878
+01:02:15,163 --> 01:02:17,541
+Eu me preocuparia mais
+se fosse você.
+
+879
+01:02:17,708 --> 01:02:19,084
+Mas não é.
+
+880
+01:02:19,334 --> 01:02:21,879
+Eu tenho mentido
+para minha esposa...
+
+881
+01:02:22,004 --> 01:02:24,673
+...e não sou bom nisso.
+- Posso acabar com os boatos...
+
+882
+01:02:24,757 --> 01:02:28,344
+e mostrar que estou
+com o Tuppy.
+
+883
+01:02:28,469 --> 01:02:31,180
+- Caso encerrado.
+- Vou explicar do meu jeito. Saia.
+
+884
+01:02:33,266 --> 01:02:35,143
+Eu queria me despedir dela.
+
+885
+01:02:35,310 --> 01:02:39,481
+Você se despediu há 20 anos.
+Não terá uma segunda chance.
+
+886
+01:02:46,822 --> 01:02:48,657
+Vou sair antes.
+
+887
+01:02:49,241 --> 01:02:52,161
+- Não devemos sair juntos.
+- Você é a especialista.
+
+888
+01:02:54,372 --> 01:02:56,082
+Conte até 100.
+
+889
+01:03:52,434 --> 01:03:54,060
+Sra. Windemere?
+
+890
+01:04:26,386 --> 01:04:30,808
+<i>"Caro Robert, pensei que nosso</i>
+<i>casamento fosse perfeito.</i>
+
+891
+01:04:32,727 --> 01:04:35,062
+<i>"Pensei que ficaríamos juntos</i>
+<i>para sempre.</i>
+
+892
+01:04:35,855 --> 01:04:38,524
+<i>"Se ama a Sra. Erlynne,</i>
+<i>deve ficar com ela.</i>
+
+893
+01:04:39,984 --> 01:04:42,487
+<i>"Eu me sinto tão tola.</i>
+
+894
+01:04:42,612 --> 01:04:44,656
+<i>"Todo mundo sabia,</i>
+<i>menos eu."</i>
+
+895
+01:05:11,977 --> 01:05:14,479
+Meg, deixe-me entrar.
+Quero falar com você.
+
+896
+01:05:16,482 --> 01:05:18,734
+Por favor, abra a porta.
+
+897
+01:05:20,194 --> 01:05:23,698
+Não há nada entre mim
+e Stella Erlynne.
+
+898
+01:05:23,906 --> 01:05:25,533
+Como pode pensar isso?
+
+899
+01:05:25,825 --> 01:05:27,952
+Ela é velha.
+Tinge o cabelo.
+
+900
+01:05:28,536 --> 01:05:30,330
+<i>Pinta o rosto como uma índia.</i>
+
+901
+01:05:31,831 --> 01:05:34,876
+<i>É uma mulher fria e egoísta.</i>
+
+902
+01:05:35,460 --> 01:05:37,629
+<i>Nada atraente,</i>
+<i>uma vez que a conhece.</i>
+
+903
+01:05:38,714 --> 01:05:41,550
+Ouça,
+ela ia fazer mal a uma pessoa.
+
+904
+01:05:42,718 --> 01:05:45,512
+Alguém que nunca
+fez mal a ela.
+
+905
+01:05:45,930 --> 01:05:49,809
+<i>Ela veio aqui com um segredo</i>
+<i>que teria partido seu coração.</i>
+
+906
+01:05:50,476 --> 01:05:53,271
+<i>Eu queria contar para você.</i>
+<i>Só não sabia como.</i>
+
+907
+01:05:54,063 --> 01:05:57,442
+<i>Estava tentando proteger você.</i>
+<i>Tem que acreditar em mim.</i>
+
+908
+01:05:58,693 --> 01:06:01,905
+Ela me pediu dinheiro
+e eu dei, mas...
+
+909
+01:06:01,988 --> 01:06:03,573
+não sinto orgulho
+de ser chantageado.
+
+910
+01:06:03,699 --> 01:06:05,534
+Não sabia o que fazer.
+
+911
+01:06:05,701 --> 01:06:07,911
+Eu devia ter contado
+desde o início.
+
+912
+01:06:09,622 --> 01:06:12,333
+<i>Não estou mentindo</i>
+<i>para você agora.</i>
+
+913
+01:06:12,500 --> 01:06:14,085
+<i>Eu amo você.</i>
+
+914
+01:06:14,710 --> 01:06:17,839
+<i>E não há nenhuma outra</i>
+<i>mulher no meu coração...</i>
+
+915
+01:06:18,589 --> 01:06:20,592
+<i>nem na minha cama.</i>
+
+916
+01:06:21,759 --> 01:06:23,219
+Meg...
+
+917
+01:06:24,012 --> 01:06:26,348
+por favor, abra a porta.
+
+918
+01:06:31,770 --> 01:06:34,189
+<i>Nós dois tomamos</i>
+<i>champanhe demais.</i>
+
+919
+01:06:34,898 --> 01:06:36,817
+<i>Podemos conversar</i>
+<i>amanhã de manhã.</i>
+
+920
+01:06:56,088 --> 01:06:58,173
+- Esplêndido.
+- Obrigado por terem vindo.
+
+921
+01:06:59,133 --> 01:07:01,844
+- Linda festa. Boa noite.
+- Vejo você no clube.
+
+922
+01:07:03,679 --> 01:07:07,767
+- AÍ está você.
+- Leve Windemere até o clube.
+
+923
+01:07:07,934 --> 01:07:11,145
+Mantenha-o fora a noite toda.
+Faça-o beber.
+
+924
+01:07:11,271 --> 01:07:14,274
+- Não o deixe voltar para casa.
+- Por quê?
+
+925
+01:07:15,358 --> 01:07:17,110
+O que foi?
+
+926
+01:07:17,611 --> 01:07:20,113
+Gosto de você. Gosto mesmo.
+
+927
+01:07:20,781 --> 01:07:23,534
+Se é para ficarmos juntos,
+você não pode fazer isso.
+
+928
+01:07:23,701 --> 01:07:27,079
+- Fazer o quê?
+- "Onde? Quando? Por quê?"
+
+929
+01:07:27,204 --> 01:07:29,498
+Nem sempre posso me explicar
+a mim mesma...
+
+930
+01:07:29,623 --> 01:07:31,375
+imagine aos outros.
+
+931
+01:07:31,542 --> 01:07:33,878
+Sorte sua.
+Alivia a pressão.
+
+932
+01:07:34,087 --> 01:07:36,464
+Quase nunca
+o porquê interessa ao homem...
+
+933
+01:07:36,589 --> 01:07:39,134
+mas sente-se obrigado
+a mostrar interesse.
+
+934
+01:07:39,300 --> 01:07:42,137
+Portanto, vou fazer exatamente
+o que deseja...
+
+935
+01:07:42,262 --> 01:07:44,473
+e me sentir
+como se fôssemos casados.
+
+936
+01:07:45,349 --> 01:07:47,518
+Você está se sentindo
+à vontade?
+
+937
+01:07:48,560 --> 01:07:50,562
+Puxa, Tuppy...
+
+938
+01:07:50,980 --> 01:07:53,399
+você é o primeiro
+que me pergunta isso.
+
+939
+01:07:53,816 --> 01:07:58,405
+Não preciso ser o primeiro,
+Stella. Só o último.
+
+940
+01:08:58,176 --> 01:09:00,554
+Há um táxi esperando
+no fim do cais.
+
+941
+01:09:01,013 --> 01:09:02,723
+Meu marido mandou você.
+
+942
+01:09:02,973 --> 01:09:05,267
+Ele pensa que você
+está dormindo...
+
+943
+01:09:05,392 --> 01:09:07,645
+depois de um litro
+de champanhe.
+
+944
+01:09:08,938 --> 01:09:10,731
+Vamos.
+
+945
+01:09:11,566 --> 01:09:13,568
+Ele me deu dinheiro,
+só isso.
+
+946
+01:09:13,651 --> 01:09:15,862
+Sou uma velha amiga da família.
+
+947
+01:09:16,029 --> 01:09:17,280
+Acha que sou idiota?
+
+948
+01:09:17,405 --> 01:09:20,200
+Casada com um homem
+que a ama e fugindo...
+
+949
+01:09:20,283 --> 01:09:23,078
+com um playboy internacional.
+Se acho que é idiota?
+
+950
+01:09:23,161 --> 01:09:24,037
+Não é da sua conta.
+
+951
+01:09:24,121 --> 01:09:26,498
+Acha que porque as mulheres
+podem votar...
+
+952
+01:09:26,623 --> 01:09:28,709
+algo realmente mudou
+para nós?
+
+953
+01:09:28,834 --> 01:09:31,503
+Os amigos vão parar de ligar.
+
+954
+01:09:31,754 --> 01:09:33,964
+Ele receberá convites,
+você não.
+
+955
+01:09:34,090 --> 01:09:35,591
+Você recebe.
+
+956
+01:09:36,634 --> 01:09:38,302
+Não se compare.
+
+957
+01:09:38,428 --> 01:09:41,431
+É preciso prática para
+viver sem arrependimento.
+
+958
+01:09:44,267 --> 01:09:46,937
+Um casamento exige
+entrega total do coração.
+
+959
+01:09:47,103 --> 01:09:50,399
+Gente egoísta não consegue,
+mas você não é assim.
+
+960
+01:09:50,691 --> 01:09:53,610
+Pode ter êxito
+onde os demais falharam.
+
+961
+01:09:54,278 --> 01:09:57,907
+- Por que acreditaria em você?
+- Acredite nele, não em mim.
+
+962
+01:09:58,032 --> 01:10:01,285
+Ele é fiel a você,
+eu juro pela minha vida.
+
+963
+01:10:01,410 --> 01:10:02,870
+Ele mandou você mentir.
+
+964
+01:10:04,580 --> 01:10:06,791
+Ele nem sabe que
+você está aqui.
+
+965
+01:10:10,587 --> 01:10:12,589
+Ele não precisa saber nunca.
+
+966
+01:10:13,715 --> 01:10:15,509
+Quer que eu minta de novo?
+
+967
+01:10:15,592 --> 01:10:18,095
+Tudo está arruinado entre
+nós. Não posso.
+
+968
+01:10:18,303 --> 01:10:19,763
+O que aconteceu com você?
+
+969
+01:10:19,888 --> 01:10:21,807
+Quem ensinou você
+a ser rancorosa?
+
+970
+01:10:21,932 --> 01:10:24,477
+Você cometeu um erro.
+Não piore as coisas.
+
+971
+01:10:24,643 --> 01:10:26,395
+Se fecha os olhos
+para o que não é perfeito...
+
+972
+01:10:26,479 --> 01:10:28,898
+está pedindo para
+cair num buraco.
+
+973
+01:10:34,487 --> 01:10:36,072
+Tudo bem.
+
+974
+01:10:37,824 --> 01:10:39,367
+Vá em frente.
+
+975
+01:10:39,993 --> 01:10:43,789
+Pise no amor por orgulho
+e culpa.
+
+976
+01:10:43,956 --> 01:10:46,458
+Quanto essa troca valerá
+em um ano?
+
+977
+01:10:47,126 --> 01:10:48,335
+Em 20 anos?
+
+978
+01:11:05,604 --> 01:11:08,106
+Seu barco precisa mesmo
+ser tão grande?
+
+979
+01:11:08,232 --> 01:11:10,401
+Sabe o que falam de
+homens com barcos grandes.
+
+980
+01:11:10,567 --> 01:11:13,320
+- É melhor eu ir para casa.
+- Quer um charuto?
+
+981
+01:11:13,487 --> 01:11:16,115
+Não tinha largado
+pelo amor de uma boa mulher?
+
+982
+01:11:16,240 --> 01:11:20,161
+Boa mulher não é o termo
+que usaria para a Sra. Erlynne.
+
+983
+01:11:20,286 --> 01:11:22,789
+Não é a serva do demônio
+que está insinuando.
+
+984
+01:11:22,872 --> 01:11:27,335
+Dumby e eu estamos preocupados
+com o seu futuro.
+
+985
+01:11:27,502 --> 01:11:31,548
+Mulheres diabólicas são um
+incômodo; as boas, um tédio.
+
+986
+01:11:31,673 --> 01:11:33,050
+É a única diferença.
+
+987
+01:11:33,175 --> 01:11:35,761
+A Sra. Erlynne não é
+incômodo nem tédio.
+
+988
+01:11:35,928 --> 01:11:38,889
+Você muda seus hábitos,
+mas ela não mudará os dela.
+
+989
+01:11:39,014 --> 01:11:41,309
+Apostei 50 libras
+com o Dumby.
+
+990
+01:11:41,475 --> 01:11:42,685
+Já chega!
+
+991
+01:11:42,810 --> 01:11:45,355
+Não vou ouvir mais
+nenhuma palavra contra ela.
+
+992
+01:11:45,563 --> 01:11:47,482
+Ela é tudo
+o que eu sempre quis.
+
+993
+01:11:48,024 --> 01:11:52,445
+Meu caro Tuppy, neste mundo
+há somente duas tragédias.
+
+994
+01:11:52,571 --> 01:11:56,783
+Uma é não obter o que
+se quer. A outra é obter.
+
+995
+01:11:56,950 --> 01:12:00,996
+A última é bem pior. A última
+é uma verdadeira tragédia.
+
+996
+01:12:01,163 --> 01:12:03,165
+Casamento.
+
+997
+01:12:03,332 --> 01:12:06,502
+Ele tem muitas penas.
+Pergunte à Edna.
+
+998
+01:12:07,753 --> 01:12:10,048
+O celibato não tem prazeres.
+
+999
+01:12:10,506 --> 01:12:13,551
+- O que sabe sobre celibato?
+- Posso aprender.
+
+1000
+01:12:13,718 --> 01:12:16,054
+- Para provar meu amor.
+- Uma mulher que precisa de provas?
+
+1001
+01:12:16,179 --> 01:12:17,722
+Antes de deixar o marido.
+
+1002
+01:12:17,889 --> 01:12:20,267
+John, você é um canalha.
+
+1003
+01:12:20,684 --> 01:12:22,644
+Todos nós estamos
+na sarjeta.
+
+1004
+01:12:22,936 --> 01:12:24,480
+Mas há alguns olhando
+para as estrelas.
+
+1005
+01:12:24,605 --> 01:12:26,565
+<i>O que os homens</i>
+<i>Chamam de galanteio</i>
+
+1006
+01:12:26,690 --> 01:12:29,068
+<i>E os deuses de adultério</i>
+
+1007
+01:12:29,193 --> 01:12:33,739
+<i>É muito mais comum</i>
+<i>Onde o clima é quente</i>
+
+1008
+01:12:35,908 --> 01:12:38,119
+É o que eu comprei
+para a Meg.
+
+1009
+01:12:40,121 --> 01:12:41,623
+De aniversário.
+
+1010
+01:12:41,831 --> 01:12:43,667
+Tem certeza?
+
+1011
+01:12:44,126 --> 01:12:46,545
+Deve ter esquecido
+quando vieram almoçar.
+
+1012
+01:12:46,795 --> 01:12:48,797
+Estava com ele esta noite.
+
+1013
+01:12:49,047 --> 01:12:51,175
+Os leques são todos parecidos.
+
+1014
+01:12:51,258 --> 01:12:52,760
+John?
+
+1015
+01:12:53,761 --> 01:12:58,808
+- Não faço idéia.
+- Meg não está aqui, está?
+
+1016
+01:12:58,975 --> 01:13:01,436
+Não. É claro que não.
+
+1017
+01:13:03,313 --> 01:13:05,648
+- O que foi isso?
+- Eu não ouvi nada.
+
+1018
+01:13:06,358 --> 01:13:07,943
+Ela está lá embaixo.
+
+1019
+01:13:08,151 --> 01:13:09,945
+Calma. Você bebeu demais.
+
+1020
+01:13:10,862 --> 01:13:12,865
+Não banque o idiota.
+
+1021
+01:13:13,198 --> 01:13:14,700
+Tarde demais.
+
+1022
+01:13:14,825 --> 01:13:18,078
+- Caramba!
+- Ponha gelo nisso, está inchado.
+
+1023
+01:13:24,961 --> 01:13:27,088
+Pensei que fosse o meu.
+
+1024
+01:13:27,589 --> 01:13:30,467
+Creio que peguei o da
+Sra. Windemere por engano.
+
+1025
+01:13:43,105 --> 01:13:45,733
+Tuppy, juro,
+eu não fazia idéia.
+
+1026
+01:13:54,868 --> 01:13:57,996
+Você deve 50 libras
+ao Cecil. Lamento.
+
+1027
+01:14:03,210 --> 01:14:06,630
+Parece que o idiota sou eu,
+Windemere, não você.
+
+1028
+01:15:17,623 --> 01:15:20,292
+Passei a noite
+no barco do John.
+
+1029
+01:15:23,337 --> 01:15:25,464
+Eu bebi demais.
+
+1030
+01:15:25,923 --> 01:15:27,925
+Posso pedir que me perdoe?
+
+1031
+01:15:30,136 --> 01:15:32,722
+Fiz uma grande besteira
+ontem à noite.
+
+1032
+01:15:37,310 --> 01:15:38,895
+Não se compara
+ao que eu fiz.
+
+1033
+01:15:39,020 --> 01:15:40,772
+Fiz papel de idiota.
+
+1034
+01:15:40,897 --> 01:15:43,150
+Estraguei tudo
+para o pobre Tuppy.
+
+1035
+01:15:43,275 --> 01:15:45,360
+Melhor agora que depois, creio.
+
+1036
+01:15:45,444 --> 01:15:46,278
+Tuppy?
+
+1037
+01:15:46,362 --> 01:15:49,323
+Fim do noivado
+com a Sra. Erlynne.
+
+1038
+01:15:52,159 --> 01:15:53,995
+Do que está falando?
+
+1039
+01:15:54,120 --> 01:15:57,832
+Ontem, no iate do John, ela
+estava esperando no quarto dele.
+
+1040
+01:15:59,000 --> 01:16:01,252
+Eu estava bêbado
+e pensei que...
+
+1041
+01:16:01,419 --> 01:16:03,463
+Vi seu leque e pensei que...
+
+1042
+01:16:04,172 --> 01:16:06,508
+Não pensei.
+Era ela!
+
+1043
+01:16:06,633 --> 01:16:08,677
+Ela disse que pegou
+por engano.
+
+1044
+01:16:08,802 --> 01:16:11,513
+- Não, não é verdade.
+- Claro que não.
+
+1045
+01:16:11,889 --> 01:16:13,933
+É melhor contar as colheres.
+
+1046
+01:16:14,183 --> 01:16:16,143
+Estava certa de não
+querê-la aqui.
+
+1047
+01:16:16,352 --> 01:16:19,105
+Mas não esperava isso do John.
+Tuppy é amigo dele.
+
+1048
+01:16:19,522 --> 01:16:22,942
+Ela não pegou meu leque.
+Eu o deixei no...
+
+1049
+01:16:24,486 --> 01:16:26,613
+Um telefonema dos EUA.
+
+1050
+01:16:27,948 --> 01:16:29,991
+É seu pai, Sr. Windemere.
+
+1051
+01:16:30,200 --> 01:16:31,702
+Agora não.
+
+1052
+01:16:32,202 --> 01:16:34,872
+Não, eu vou atender.
+Ele vai ficar preocupado.
+
+1053
+01:16:41,587 --> 01:16:43,214
+- Amo você.
+- Amo você.
+
+1054
+01:16:47,760 --> 01:16:49,721
+E uma mulher trouxe isto.
+
+1055
+01:16:49,888 --> 01:16:51,765
+Ela está esperando lá embaixo.
+
+1056
+01:16:57,604 --> 01:16:59,815
+Obrigado.
+
+1057
+01:17:28,137 --> 01:17:31,974
+O que está fazendo aqui?
+Tínhamos um acordo.
+
+1058
+01:17:32,600 --> 01:17:34,519
+Vim devolver o leque.
+
+1059
+01:17:35,770 --> 01:17:37,897
+Como está sua esposa
+esta manhã?
+
+1060
+01:17:38,273 --> 01:17:40,525
+Não se aproxime
+da minha esposa.
+
+1061
+01:17:40,650 --> 01:17:42,777
+Só perguntei como ela está.
+
+1062
+01:17:44,029 --> 01:17:45,989
+Se veio para dizer a ela
+quem é você...
+
+1063
+01:17:46,281 --> 01:17:47,991
+é melhor que seja eu a dizer.
+
+1064
+01:17:49,034 --> 01:17:50,911
+É meu segredo, não seu.
+
+1065
+01:17:51,954 --> 01:17:54,790
+Você o guardou muito bem.
+
+1066
+01:17:55,124 --> 01:17:57,668
+Vinte anos é muito tempo.
+
+1067
+01:17:58,669 --> 01:18:01,339
+Não parece ter sido
+um esforço tão grande.
+
+1068
+01:18:02,715 --> 01:18:05,135
+Você vê uma menininha...
+
+1069
+01:18:05,260 --> 01:18:08,138
+da mesma idade,
+e afasta o pensamento.
+
+1070
+01:18:08,805 --> 01:18:10,307
+Fecha a porta.
+
+1071
+01:18:11,683 --> 01:18:15,229
+Só às 3:00,
+aquele horário intermediário...
+
+1072
+01:18:15,479 --> 01:18:18,524
+tarde demais para fazer algo,
+cedo demais para o jantar...
+
+1073
+01:18:18,691 --> 01:18:21,110
+as portas se abrem.
+
+1074
+01:18:21,819 --> 01:18:24,363
+Não acredito
+que sinta algo por ela.
+
+1075
+01:18:24,739 --> 01:18:28,076
+Não se preocupa com ninguém
+além de si mesma.
+
+1076
+01:18:29,369 --> 01:18:30,829
+Robert.
+
+1077
+01:18:31,371 --> 01:18:34,416
+Seu pai precisa lhe falar.
+Disse que é importante.
+
+1078
+01:18:36,752 --> 01:18:39,004
+A Sra. Erlynne
+veio devolver o leque.
+
+1079
+01:18:39,463 --> 01:18:41,340
+Já estava de saída.
+
+1080
+01:18:42,049 --> 01:18:44,385
+Não, não vá embora,
+preciso lhe falar.
+
+1081
+01:18:44,552 --> 01:18:47,430
+- Ela vai perder o avião.
+- São só uns minutos.
+
+1082
+01:18:50,808 --> 01:18:53,686
+Seu pai está esperando.
+Ele disse que é importante.
+
+1083
+01:18:57,857 --> 01:18:59,901
+Seria um grande erro...
+
+1084
+01:19:00,277 --> 01:19:02,237
+perder o avião.
+
+1085
+01:19:14,125 --> 01:19:16,502
+Vim ver se você chegou
+bem em casa.
+
+1086
+01:19:16,669 --> 01:19:17,795
+Não vá ainda.
+
+1087
+01:19:17,920 --> 01:19:20,548
+É a única testemunha
+de que nada aconteceu.
+
+1088
+01:19:20,715 --> 01:19:22,634
+Testemunha?
+
+1089
+01:19:22,842 --> 01:19:24,594
+Vou contar a verdade a ele.
+
+1090
+01:19:26,513 --> 01:19:28,724
+O que fez foi um erro seu.
+
+1091
+01:19:28,849 --> 01:19:32,102
+Seu fardo. Você o carrega.
+
+1092
+01:19:32,269 --> 01:19:35,731
+Você não confessa e passa
+para alguém que ama você.
+
+1093
+01:19:35,856 --> 01:19:36,857
+Todos pensam que vocês...
+
+1094
+01:19:36,982 --> 01:19:38,859
+Pensarão de todo modo.
+Não importa.
+
+1095
+01:19:38,985 --> 01:19:41,654
+Não é verdade.
+Importa ao Tuppy.
+
+1096
+01:19:41,738 --> 01:19:44,032
+Eu não posso estragar isso.
+
+1097
+01:19:44,198 --> 01:19:47,494
+Quer estragar a única
+coisa boa que eu já fiz?
+
+1098
+01:19:48,787 --> 01:19:50,997
+O certo é dizer a verdade.
+
+1099
+01:19:51,206 --> 01:19:55,002
+Vocês se amam.
+Essa é a verdade de vocês.
+
+1100
+01:19:55,252 --> 01:19:57,588
+Por que renuncia ao seu
+casamento para salvar o meu?
+
+1101
+01:19:57,671 --> 01:20:00,382
+- Não faz sentido.
+- Vou lhe contar a verdade.
+
+1102
+01:20:00,966 --> 01:20:02,968
+Mas prometa que não vai
+fazer disso...
+
+1103
+01:20:03,094 --> 01:20:04,804
+uma confissão grandiosa.
+
+1104
+01:20:04,887 --> 01:20:07,432
+Jure pelo que é
+mais sagrado para você.
+
+1105
+01:20:12,771 --> 01:20:14,773
+Juro pela minha mãe.
+
+1106
+01:20:19,528 --> 01:20:21,280
+Como?
+
+1107
+01:20:21,613 --> 01:20:23,449
+Ela é meu anjo da guarda.
+
+1108
+01:20:23,866 --> 01:20:26,202
+A vida toda,
+quis ser como ela.
+
+1109
+01:20:28,496 --> 01:20:31,582
+Com certeza,
+ela não ia querer isso de você.
+
+1110
+01:20:33,292 --> 01:20:35,962
+Ela teria vergonha
+de mim agora.
+
+1111
+01:20:38,214 --> 01:20:41,468
+Todos transpomos o abismo,
+Sra. Windemere.
+
+1112
+01:20:42,344 --> 01:20:45,889
+Se nunca olhamos para baixo,
+como podemos saber quem somos?
+
+1113
+01:20:47,141 --> 01:20:51,353
+Uma mãe não se envergonharia
+de uma filha que não caiu nele.
+
+1114
+01:20:54,357 --> 01:20:56,609
+Espero que esteja certa.
+
+1115
+01:20:56,776 --> 01:20:59,404
+Nunca estive tão certa
+de alguma coisa.
+
+1116
+01:21:03,825 --> 01:21:06,244
+Então, eu juro.
+
+1117
+01:21:07,079 --> 01:21:09,498
+O que você queria me dizer?
+
+1118
+01:21:12,626 --> 01:21:14,378
+Nada.
+
+1119
+01:21:15,504 --> 01:21:17,339
+Vou perder o avião.
+
+1120
+01:21:18,758 --> 01:21:20,676
+Adeus, Sra. Windemere.
+
+1121
+01:21:21,761 --> 01:21:23,721
+Espero que nos vejamos
+de novo.
+
+1122
+01:21:25,348 --> 01:21:27,016
+Eu também.
+
+1123
+01:21:42,950 --> 01:21:44,702
+Sra. Erlynne.
+
+1124
+01:21:47,538 --> 01:21:50,208
+- Não contou a ela?
+- Não.
+
+1125
+01:21:52,168 --> 01:21:53,920
+Por que não?
+
+1126
+01:21:55,046 --> 01:21:56,840
+Ela tem uma mãe.
+
+1127
+01:21:57,758 --> 01:21:59,593
+Uma fotografia em
+um medalhão.
+
+1128
+01:22:00,177 --> 01:22:01,887
+É um conto de fadas.
+
+1129
+01:22:03,180 --> 01:22:07,810
+Uma mãe amável e atenciosa
+que a ama e zela por ela.
+
+1130
+01:22:09,228 --> 01:22:11,814
+Não vou tirar isso dela.
+
+1131
+01:22:12,273 --> 01:22:14,067
+Nem você deve fazer isso.
+
+1132
+01:22:29,375 --> 01:22:32,253
+Sra. Erlynne
+Mil Dólares
+
+1133
+01:23:29,939 --> 01:23:33,443
+Por uma noite, achei que
+estava apaixonado por outra.
+
+1134
+01:23:33,651 --> 01:23:36,238
+Por um minuto, achei que
+estava apaixonada por outro.
+
+1135
+01:23:41,577 --> 01:23:43,662
+- Ela estava certa.
+- Quem?
+
+1136
+01:23:44,622 --> 01:23:48,000
+A Sra. Erlynne disse que
+não podemos fechar os olhos...
+
+1137
+01:23:48,125 --> 01:23:52,380
+a tudo que não é perfeito, ou
+podemos cair num grande abismo.
+
+1138
+01:23:52,839 --> 01:23:54,674
+Nós quase caímos.
+
+1139
+01:23:55,174 --> 01:23:56,801
+É uma mulher inteligente.
+
+1140
+01:23:58,344 --> 01:24:00,305
+É uma boa mulher.
+
+1141
+01:24:01,139 --> 01:24:03,058
+Melhor do que eu pensei.
+
+1142
+01:24:40,056 --> 01:24:41,682
+Ela insistiu.
+
+1143
+01:24:45,812 --> 01:24:47,230
+Quem?
+
+1144
+01:24:47,397 --> 01:24:51,026
+Meg.
+Algo para você se lembrar dela.
+
+1145
+01:24:52,068 --> 01:24:54,404
+E ela explicou tudo.
+
+1146
+01:24:55,072 --> 01:24:56,114
+Tudo?
+
+1147
+01:24:56,240 --> 01:24:59,243
+Sim, claro.
+O pneu furado, o cachorro.
+
+1148
+01:24:59,410 --> 01:25:01,871
+O motorista brasileiro
+com a filha grávida...
+
+1149
+01:25:01,996 --> 01:25:03,581
+que perdeu a bolsa.
+
+1150
+01:25:03,706 --> 01:25:06,209
+E só o que posso dizer
+em minha defesa é...
+
+1151
+01:25:07,710 --> 01:25:09,671
+que não tenho defesa.
+
+1152
+01:25:09,796 --> 01:25:13,049
+Tirei conclusões precipitadas
+e pensei o pior.
+
+1153
+01:25:14,843 --> 01:25:17,429
+Para onde vai este avião?
+
+1154
+01:25:19,264 --> 01:25:20,974
+Não sei.
+
+1155
+01:25:21,767 --> 01:25:23,936
+Vai se casar comigo
+quando chegarmos lá?
+
+1156
+01:25:25,271 --> 01:25:28,357
+Todo homem tem a esposa
+que merece.
+
+1157
+01:25:29,942 --> 01:25:34,072
+Bem, tenho sido
+um homem muito, muito mau.
+
+1158
+01:26:45,606 --> 01:26:48,943
+Sabe, John,
+o amor é um campo de batalha.
+
+1159
+01:26:49,527 --> 01:26:51,446
+Foi só uma ferida.
+
+1160
+01:26:51,613 --> 01:26:54,282
+Se os homens avançam,
+as mulheres resistem.
+
+1161
+01:26:54,449 --> 01:26:58,036
+Se batemos em retirada,
+bloqueiam nossa fuga.
+
+1162
+01:26:58,203 --> 01:26:59,454
+Jamais ganhamos.
+
+1163
+01:26:59,579 --> 01:27:01,790
+Homem e mulher
+jamais entenderão um ao outro.
+
+1164
+01:27:01,915 --> 01:27:05,461
+Só porque se esforçam tanto
+para enganar um ao outro.
+
+1165
+01:27:05,753 --> 01:27:09,590
+Ah, olá, Dumby.
+Você está acordado?
+
+1166
+01:27:09,799 --> 01:27:12,093
+Estou ganhando?
+

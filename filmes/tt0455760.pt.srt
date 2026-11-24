@@ -1,0 +1,2831 @@
+1
+00:00:06,000 --> 00:00:12,074
+api.OpenSubtitles.org is deprecated, please
+implement REST API from OpenSubtitles.com
+
+2
+00:00:17,600 --> 00:00:20,600
+...:::  By: E.Fers  :::...
+
+3
+00:00:22,655 --> 00:00:26,455
+No século VI A.C., acreditava-se
+que os espíritos dos mortos
+
+4
+00:00:26,626 --> 00:00:29,561
+falavam através da região
+do estômago dos vivos.
+
+5
+00:00:29,629 --> 00:00:33,121
+Do latim VENTER, de "ventre",
+e LOQUI, "falar".
+
+6
+00:00:33,299 --> 00:00:37,258
+Daí surgiu a palavra
+VENTRÍLOQUO.
+
+7
+00:00:49,549 --> 00:00:52,109
+CADERNO DE ANOTAÇÕES
+
+8
+00:01:23,549 --> 00:01:25,642
+DESIGN PERFEITO
+
+9
+00:02:04,157 --> 00:02:05,590
+Expressão?
+
+10
+00:02:06,859 --> 00:02:08,156
+BONECO PERFEITO
+
+11
+00:02:41,194 --> 00:02:44,186
+PARA FAZER O BONECO PERFEITO
+
+12
+00:03:00,313 --> 00:03:01,780
+DISPOSITIVO DO OLHO
+
+13
+00:03:42,955 --> 00:03:44,320
+Já consertou?
+
+14
+00:03:44,924 --> 00:03:47,017
+Só mais dois minutos.
+
+15
+00:03:47,994 --> 00:03:49,427
+Disse isso há uma hora.
+
+16
+00:03:49,495 --> 00:03:51,690
+- Prometi fazer o jantar, não foi?
+- Sim.
+
+17
+00:03:51,764 --> 00:03:53,994
+Bem, estou lhe fazendo
+um jantar gourmet.
+
+18
+00:03:54,066 --> 00:03:56,193
+Pode acreditar.
+Vai valer a espera.
+
+19
+00:04:02,008 --> 00:04:03,202
+Renda-se.
+
+20
+00:04:05,211 --> 00:04:08,237
+Renda-se às maravilhas
+de se pedir comida.
+
+21
+00:04:09,682 --> 00:04:11,513
+Sabia que isso ia acontecer.
+
+22
+00:04:12,018 --> 00:04:14,987
+Porque quando seus dedos discam
+aqueles sete números,
+
+23
+00:04:15,054 --> 00:04:16,783
+isso realmente me excita.
+
+24
+00:04:17,290 --> 00:04:19,656
+Foi a melhor coisa que conseguiu pensar
+para dizer?
+
+25
+00:04:19,725 --> 00:04:20,851
+Sim.
+
+26
+00:04:23,529 --> 00:04:25,588
+Nossa.
+Você é rápido.
+
+27
+00:04:41,681 --> 00:04:42,773
+Quem era?
+
+28
+00:04:44,550 --> 00:04:45,778
+Não sei.
+
+29
+00:04:50,656 --> 00:04:52,624
+Não diz nem de onde veio.
+
+30
+00:04:52,692 --> 00:04:54,922
+Bem, tem um jeito de descobrirmos.
+
+31
+00:05:08,941 --> 00:05:12,035
+Ah, Jamie, você nos adotou um bebê.
+
+32
+00:05:12,144 --> 00:05:14,510
+Um bebê? Viu essa coisa?
+
+33
+00:05:14,914 --> 00:05:18,145
+- Bem, quem lhe enviaria um boneco?
+- Não tenho idéia.
+
+34
+00:05:19,585 --> 00:05:21,485
+Não tem cartão nem recado.
+
+35
+00:05:21,654 --> 00:05:23,588
+Os olhos parecem tão reais.
+
+36
+00:05:27,593 --> 00:05:30,721
+"Não sei quanto a você,
+mas a Lisa quer comida chinesa".
+
+37
+00:05:31,330 --> 00:05:33,264
+Acho que minha esposa enlouqueceu.
+
+38
+00:05:33,332 --> 00:05:36,995
+Ah, meu Deus! Isso me lembra de um poema
+de quando éramos crianças.
+
+39
+00:05:37,169 --> 00:05:38,431
+Que poema?
+
+40
+00:05:38,604 --> 00:05:39,866
+Você se lembra.
+
+41
+00:05:39,939 --> 00:05:43,705
+Aquela velha história de terror
+sobre uma mulher que tinha bonecos.
+
+42
+00:05:44,043 --> 00:05:46,273
+"Cuidado com o olhar de Mary Shaw
+
+43
+00:05:46,946 --> 00:05:49,210
+Ela não tinha filhos,
+só bonecos..."
+
+44
+00:05:49,782 --> 00:05:52,114
+E blá blá, qualquer coisa assustadora.
+
+45
+00:05:53,085 --> 00:05:55,212
+Qualquer coisa... Bu!
+
+46
+00:05:56,856 --> 00:05:59,518
+Acho que está se divertindo demais
+com isto, Lise.
+
+47
+00:05:59,592 --> 00:06:01,753
+Querido, não deixarei
+o boneco feio machucá-lo.
+
+48
+00:06:01,827 --> 00:06:03,488
+Obrigado. Obrigado.
+
+49
+00:06:42,101 --> 00:06:43,932
+Se fizer o Jamie gritar,
+
+50
+00:06:44,203 --> 00:06:48,606
+vou deixar você transar com a minha
+velha Barbie. Combinado?
+
+51
+00:06:49,375 --> 00:06:50,535
+"Sim, Lisa".
+
+52
+00:06:51,911 --> 00:06:53,742
+Meu Deus, eu sou uma idiota.
+
+53
+00:07:19,038 --> 00:07:20,164
+Bom garoto.
+
+54
+00:07:51,003 --> 00:07:52,197
+Jamie?
+
+55
+00:07:54,373 --> 00:07:55,431
+Jamie?
+
+56
+00:10:17,216 --> 00:10:18,547
+Querida, cheguei.
+
+57
+00:10:26,826 --> 00:10:29,795
+Lisa! O que está tentando fazer?
+Incendiar a casa?
+
+58
+00:10:33,532 --> 00:10:34,521
+Lise?
+
+59
+00:10:38,404 --> 00:10:39,735
+Ah, Lisa.
+
+60
+00:10:42,007 --> 00:10:43,406
+Estou aqui.
+
+61
+00:10:46,212 --> 00:10:49,511
+Jantar na cama de novo.
+
+62
+00:11:01,126 --> 00:11:02,252
+Lisa!
+
+63
+00:11:03,462 --> 00:11:04,656
+Sim, Jamie?
+
+64
+00:11:06,932 --> 00:11:08,559
+O que está acontecendo?
+
+65
+00:11:11,737 --> 00:11:15,002
+- Tenho uma surpresa para você, Jamie.
+- ...para você, Jamie.
+
+66
+00:11:30,222 --> 00:11:31,917
+Lisa, não tem graça!
+
+67
+00:12:19,171 --> 00:12:22,106
+MÉDICO LEGISTA
+
+68
+00:12:38,424 --> 00:12:41,086
+O estranho é que não tem
+marcas de tentativa de defesa.
+
+69
+00:12:41,160 --> 00:12:44,425
+Se alguém tentasse
+esculpir o meu rosto,
+
+70
+00:12:44,496 --> 00:12:45,758
+eu lutaria um pouco.
+
+71
+00:12:45,831 --> 00:12:49,232
+É, mas você sempre foi meio brigona.
+
+72
+00:12:52,304 --> 00:12:54,397
+- Marcas de amarras?
+- Nenhuma.
+
+73
+00:12:54,506 --> 00:12:56,303
+- E...
+- Drogas?
+
+74
+00:12:57,209 --> 00:13:01,202
+É um dom. Eu penso nas palavras aqui
+e elas saem por aí.
+
+75
+00:13:01,981 --> 00:13:03,278
+Nos primeiros resultados, não.
+
+76
+00:13:03,349 --> 00:13:06,546
+Mas os resultados finais chegarão
+em 48 horas.
+
+77
+00:13:06,618 --> 00:13:10,076
+Pessoalmente, acho que só alguém
+completamente bêbado mataria a esposa
+
+78
+00:13:10,155 --> 00:13:11,417
+e a colocaria como manequim.
+
+79
+00:13:11,490 --> 00:13:15,927
+Mas a coisa mais estranha
+é o rosto dela. Nunca vi nada igual.
+
+80
+00:13:31,076 --> 00:13:33,374
+Sabe o que foi? Seu erro?
+
+81
+00:13:34,246 --> 00:13:35,577
+A rosa.
+
+82
+00:13:36,081 --> 00:13:39,050
+Sim.
+Cara, veja bem,
+
+83
+00:13:39,218 --> 00:13:41,846
+se soubesse quantos caras dão rosas
+à esposa
+
+84
+00:13:41,920 --> 00:13:43,911
+no dia em que vão, sabe...
+
+85
+00:13:44,289 --> 00:13:45,916
+Como se fosse um álibi.
+
+86
+00:13:46,091 --> 00:13:47,285
+Álibi?
+
+87
+00:13:49,228 --> 00:13:51,355
+Não ouvi.
+Disse alguma coisa?
+
+88
+00:13:51,430 --> 00:13:53,557
+Por que eu precisaria de um álibi?
+
+89
+00:13:56,502 --> 00:13:59,062
+Estou certo de que seu advogado
+gostaria que tivesse.
+
+90
+00:13:59,138 --> 00:14:00,799
+- Meu advogado?
+- Sim.
+
+91
+00:14:01,340 --> 00:14:03,740
+A promotoria terá suas digitais,
+
+92
+00:14:03,809 --> 00:14:05,606
+nenhum sinal de arrombamento,
+
+93
+00:14:05,677 --> 00:14:08,237
+e você sendo a última pessoa
+a ver sua esposa viva.
+
+94
+00:14:08,313 --> 00:14:10,611
+É muita coisa para enfrentar.
+
+95
+00:14:11,116 --> 00:14:13,482
+- Acha que matei minha esposa?
+- Como é?
+
+96
+00:14:14,720 --> 00:14:16,654
+Acha que matei minha esposa?
+
+97
+00:14:17,589 --> 00:14:19,580
+Não.
+Não, não acho que a matou.
+
+98
+00:14:20,025 --> 00:14:21,856
+Estou só tentando ajudar seu advogado.
+
+99
+00:14:21,927 --> 00:14:24,157
+Ele vai precisar de algo mais concreto.
+
+100
+00:14:24,229 --> 00:14:27,289
+Ao menos para afastar
+as suspeitas de você.
+
+101
+00:14:27,466 --> 00:14:30,128
+Suspeitas?
+Se quer falar sobre suspeitas,
+
+102
+00:14:30,202 --> 00:14:33,000
+por que não começa pelo pacote
+que apareceu à minha porta?
+
+103
+00:14:33,072 --> 00:14:35,540
+Ah, sim.
+O pacote, claro.
+
+104
+00:14:36,475 --> 00:14:38,943
+Vamos ver.
+Receberam um pacote sem endereço
+
+105
+00:14:39,011 --> 00:14:40,774
+momentos antes de a Lisa ser morta.
+
+106
+00:14:40,846 --> 00:14:43,041
+Sim. Um pacote
+com um boneco de ventríloquo.
+
+107
+00:14:43,115 --> 00:14:44,912
+Boneco de ventríloquo.
+Sim.
+
+108
+00:14:46,051 --> 00:14:49,612
+O departamento de brinquedos misteriosos
+fica no fim do corredor.
+
+109
+00:14:49,755 --> 00:14:51,313
+Este é o departamento de homicídios.
+
+110
+00:14:51,390 --> 00:14:53,688
+Então, a menos que me diga
+como um fantoche
+
+111
+00:14:53,759 --> 00:14:57,160
+está ligado ao assassinato de sua esposa,
+não vejo relevância.
+
+112
+00:15:01,400 --> 00:15:03,163
+Na cidade de onde venho,
+
+113
+00:15:04,169 --> 00:15:07,104
+um boneco de ventríloquo é mau agouro.
+
+114
+00:15:07,806 --> 00:15:09,637
+É meio que uma lenda local,
+
+115
+00:15:09,842 --> 00:15:14,108
+e algumas pessoas acreditam que o boneco
+traz morte aos que estão ao seu redor.
+
+116
+00:15:18,784 --> 00:15:19,842
+Tudo bem.
+
+117
+00:15:20,319 --> 00:15:21,809
+Bem, Jamie,
+
+118
+00:15:23,088 --> 00:15:26,251
+nunca prendi um boneco
+por assassinato antes.
+
+119
+00:15:27,259 --> 00:15:29,727
+Mas já prendi vários maridos.
+
+120
+00:15:30,896 --> 00:15:32,887
+Não acha estranho
+que o pacote tenha chegado
+
+121
+00:15:32,965 --> 00:15:36,799
+- logo antes dela ser morta?
+- Não, vou lhe dizer o que é estranho.
+
+122
+00:15:36,869 --> 00:15:41,329
+Disse que sua esposa falou com você
+logo antes de tê-la encontrado, certo?
+
+123
+00:15:41,573 --> 00:15:44,064
+- Sim.
+- É. Mas ela estava sem língua.
+
+124
+00:15:45,077 --> 00:15:47,875
+De fato, de acordo com você,
+ela já estava morta.
+
+125
+00:15:48,147 --> 00:15:50,240
+Agora, para mim, isso é estranho.
+
+126
+00:15:51,450 --> 00:15:54,419
+Então, o que vai fazer? Me prender?
+
+127
+00:15:56,421 --> 00:15:57,513
+Ainda não.
+
+128
+00:16:00,459 --> 00:16:02,552
+Olhe, você pode ir, Ashen.
+
+129
+00:16:03,929 --> 00:16:05,658
+Está livre por enquanto.
+
+130
+00:16:07,599 --> 00:16:08,623
+Ótimo.
+
+131
+00:16:10,769 --> 00:16:13,932
+Vai me dar mais tempo
+para fazer o seu trabalho por você.
+
+132
+00:17:25,677 --> 00:17:30,307
+OS INCRÍVEIS MARY SHAW & BILLY
+EM RAVENS FAIR
+
+133
+00:17:57,242 --> 00:18:00,643
+BEM-VINDO A RAVENS FAIR
+UM LUGAR SERENO PARA SE VIVER
+
+134
+00:18:12,858 --> 00:18:15,088
+FECHANDO
+
+135
+00:18:15,260 --> 00:18:17,125
+FECHADO
+
+136
+00:18:18,997 --> 00:18:20,692
+LOJA FECHANDO
+
+137
+00:19:08,280 --> 00:19:09,474
+Jamie!
+
+138
+00:19:12,384 --> 00:19:14,579
+Sinto muito por sua perda.
+
+139
+00:19:15,320 --> 00:19:17,788
+Mas estou feliz por você estar em casa.
+
+140
+00:19:20,625 --> 00:19:22,957
+Meu Deus,
+deve me achar tão mal-educada.
+
+141
+00:19:23,028 --> 00:19:25,360
+Nem fomos apresentados.
+
+142
+00:19:25,464 --> 00:19:26,795
+Sou Ella.
+
+143
+00:19:27,899 --> 00:19:28,923
+Eu sou...
+
+144
+00:19:29,267 --> 00:19:32,498
+Bem, acho que sou sua madrasta.
+
+145
+00:19:34,339 --> 00:19:36,864
+- Ele está em casa?
+- Sim, está.
+
+146
+00:19:37,843 --> 00:19:39,936
+- Por favor, entre.
+- Obrigado.
+
+147
+00:19:40,145 --> 00:19:42,545
+Há algumas coisas que precisa saber
+sobre seu pai.
+
+148
+00:19:42,614 --> 00:19:44,309
+Sei tudo o que preciso.
+
+149
+00:19:44,383 --> 00:19:46,783
+Ella! Quem está aí com você?
+
+150
+00:19:46,852 --> 00:19:50,788
+Seu pai não vai brigar com você, Jamie.
+Ele já não briga com ninguém.
+
+151
+00:19:50,856 --> 00:19:53,324
+Bem, então não se casou com meu pai.
+
+152
+00:19:53,392 --> 00:19:54,552
+Ella!
+
+153
+00:20:04,903 --> 00:20:06,461
+Estou ouvindo.
+
+154
+00:20:07,906 --> 00:20:10,067
+Esta maldita cadeira está emperrada.
+
+155
+00:20:10,142 --> 00:20:12,167
+Aqui, Edward, deixe-me ajudá-lo.
+
+156
+00:20:21,086 --> 00:20:24,112
+Meu filho.
+Que surpresa agradável.
+
+157
+00:20:24,723 --> 00:20:27,988
+- O que aconteceu?
+- Seu pai sofreu um derrame há dois meses.
+
+158
+00:20:28,059 --> 00:20:31,586
+- Por que ninguém me disse?
+- Você não retorna as ligações.
+
+159
+00:20:33,031 --> 00:20:35,056
+Porque nunca sei o que lhe dizer.
+
+160
+00:20:35,133 --> 00:20:38,864
+Sei que eu não era a pessoa mais fácil
+de se lidar,
+
+161
+00:20:39,638 --> 00:20:41,230
+- mas mudei.
+- Sério?
+
+162
+00:20:41,306 --> 00:20:44,002
+Sim. Um derrame pode
+mudar um homem.
+
+163
+00:20:45,143 --> 00:20:47,941
+Ouça, sinto muito por sua esposa.
+
+164
+00:20:48,713 --> 00:20:50,578
+Ouvi dizer que a trouxe para cá.
+
+165
+00:20:50,649 --> 00:20:52,310
+- Sim.
+- Não se preocupe.
+
+166
+00:20:52,384 --> 00:20:54,944
+Vou ligar para Henry Walker,
+cuidar de tudo.
+
+167
+00:20:55,020 --> 00:20:56,783
+Não, tudo bem, posso cuidar disso.
+
+168
+00:20:56,855 --> 00:21:00,052
+Jamie, por favor. Como seu pai,
+é o mínimo que posso fazer.
+
+169
+00:21:00,125 --> 00:21:02,116
+Fez o mínimo que pôde
+a minha vida inteira.
+
+170
+00:21:02,194 --> 00:21:04,458
+É muito tarde para caridade.
+
+171
+00:21:04,663 --> 00:21:06,460
+Foi para isso que veio,
+
+172
+00:21:06,531 --> 00:21:09,125
+para me lembrar
+de como fui um pai ruim?
+
+173
+00:21:09,201 --> 00:21:12,898
+Em vista do que aconteceu,
+esperava podermos deixar isso para trás.
+
+174
+00:21:12,971 --> 00:21:14,939
+Não vim falar sobre isso, eu...
+
+175
+00:21:15,006 --> 00:21:17,167
+Vim lhe perguntar uma coisa.
+
+176
+00:21:19,344 --> 00:21:22,575
+Lembra-se que quando eu era criança,
+a mamãe costumava ler um poema?
+
+177
+00:21:22,647 --> 00:21:24,808
+Lembra como era?
+
+178
+00:21:26,151 --> 00:21:27,550
+Que poema?
+
+179
+00:21:29,821 --> 00:21:32,381
+"Cuidado com o olhar de Mary Shaw
+
+180
+00:21:32,824 --> 00:21:35,349
+Ela não tinha filhos, só bonecos
+
+181
+00:21:35,627 --> 00:21:38,187
+E se a vir em seus sonhos...
+
+182
+00:21:38,997 --> 00:21:41,295
+Nunca, jamais grite".
+
+183
+00:21:41,366 --> 00:21:42,492
+Conhece?
+
+184
+00:21:42,567 --> 00:21:45,661
+Era só um poema que recitavam
+às crianças para se comportarem.
+
+185
+00:21:45,737 --> 00:21:49,605
+Não. É mais do que uma história de terror.
+E os adultos também acreditavam.
+
+186
+00:21:49,674 --> 00:21:52,006
+Vivemos em uma cidade pequena, Jamie.
+
+187
+00:21:52,377 --> 00:21:55,540
+Mentes medíocres criam
+superstições medíocres.
+
+188
+00:21:55,614 --> 00:21:57,582
+Só isso.
+Nada mais.
+
+189
+00:21:57,649 --> 00:21:59,514
+- Nada?
+- Edward,
+
+190
+00:21:59,985 --> 00:22:01,816
+seu filho passou por muita coisa.
+
+191
+00:22:01,887 --> 00:22:04,412
+Por que não lhe preparamos um quarto?
+
+192
+00:22:04,823 --> 00:22:07,451
+Não, tudo bem.
+Não vou ficar muito tempo.
+
+193
+00:22:07,893 --> 00:22:09,918
+Tenho um funeral a planejar.
+
+194
+00:22:09,995 --> 00:22:11,929
+Jamie, Jamie!
+
+195
+00:22:14,299 --> 00:22:16,324
+Jamie! Por favor, espere.
+
+196
+00:22:17,502 --> 00:22:20,767
+- Não vai passar a noite aqui?
+- Foi bom conhecê-la, Ella.
+
+197
+00:22:20,839 --> 00:22:23,808
+Seu pai mudou.
+Ele não é o homem de que se lembra.
+
+198
+00:22:23,875 --> 00:22:25,137
+Mesmo?
+
+199
+00:22:27,312 --> 00:22:28,745
+Vê aquilo?
+
+200
+00:22:28,813 --> 00:22:33,307
+A mamãe estava nessa foto conosco,
+até que ele a levou a se matar.
+
+201
+00:22:33,385 --> 00:22:36,115
+Sua segunda esposa estava naquele ali.
+
+202
+00:22:36,421 --> 00:22:38,286
+Mas foi esperta
+o bastante para deixá-lo.
+
+203
+00:22:38,356 --> 00:22:40,722
+Então, é uma boa coisa
+que vai viver mais que ele.
+
+204
+00:22:40,792 --> 00:22:43,352
+Não haverá ninguém
+para tirá-la da pintura.
+
+205
+00:22:43,862 --> 00:22:46,558
+Casa Funerária Walker
+
+206
+00:22:51,102 --> 00:22:52,433
+O que mais?
+
+207
+00:22:54,205 --> 00:22:57,003
+O que mais quer de mim?
+
+208
+00:22:58,476 --> 00:23:00,740
+Peck, peck, peck, peck, peck, peck.
+
+209
+00:23:00,912 --> 00:23:04,211
+Devo dizer que fiquei muito triste
+ao saber da notícia.
+
+210
+00:23:05,317 --> 00:23:10,152
+Se quiser, posso mostrar os diversos
+tipos de caixão que temos.
+
+211
+00:23:11,389 --> 00:23:13,289
+Ou podemos fazer isso depois.
+
+212
+00:23:14,092 --> 00:23:16,754
+Tudo bem.
+Vamos... Vamos fazer isso agora.
+
+213
+00:23:16,928 --> 00:23:20,261
+Tudo bem.
+Não sei quais são suas preferências.
+
+214
+00:23:20,665 --> 00:23:23,133
+Já falou com a família dela?
+
+215
+00:23:23,635 --> 00:23:27,799
+Só uma vez.
+Não falamos sobre caixões.
+
+216
+00:23:29,774 --> 00:23:31,503
+Quando ela vai chegar?
+
+217
+00:23:32,243 --> 00:23:33,710
+Esta noite.
+
+218
+00:23:35,213 --> 00:23:40,241
+Quando a polícia liberar o corpo,
+vou buscá-la.
+
+219
+00:23:41,586 --> 00:23:46,819
+Ah, precisa preencher estes formulários,
+quando puder.
+
+220
+00:25:46,177 --> 00:25:47,337
+Jamie.
+
+221
+00:25:48,580 --> 00:25:49,774
+Jamie!
+
+222
+00:27:16,935 --> 00:27:18,800
+Não, não pode ser.
+
+223
+00:27:29,747 --> 00:27:30,839
+Marion?
+
+224
+00:27:31,749 --> 00:27:33,546
+Marion, é você?
+
+225
+00:27:40,158 --> 00:27:43,753
+Marion, eu disse para
+não descer mais aí.
+
+226
+00:27:44,162 --> 00:27:46,926
+- A hora silenciosa chegou.
+- Saia daí e vá para a cama.
+
+227
+00:27:46,998 --> 00:27:48,556
+Ela está aqui agora.
+
+228
+00:27:49,300 --> 00:27:51,131
+- Eu sei.
+- Marion,
+
+229
+00:27:51,236 --> 00:27:53,204
+não tenho tempo para brincadeira.
+
+230
+00:27:53,271 --> 00:27:55,102
+Ela não vai me achar aqui.
+
+231
+00:27:55,173 --> 00:27:57,539
+Marion, não vou pedir de novo.
+
+232
+00:27:57,809 --> 00:28:00,175
+Vamos.
+Anda, anda.
+
+233
+00:28:06,684 --> 00:28:09,152
+Fique quieta.
+
+234
+00:28:09,921 --> 00:28:12,116
+- A hora silenciosa chegou.
+- Continue.
+
+235
+00:28:12,257 --> 00:28:14,191
+Suba logo.
+Irei depois.
+
+236
+00:29:55,460 --> 00:29:57,223
+Você a viu? Viu?
+
+237
+00:29:57,295 --> 00:29:59,354
+Quando ela matou sua esposa?
+Você a viu?
+
+238
+00:29:59,430 --> 00:30:01,523
+Matou minha esposa?
+Do que está falando?
+
+239
+00:30:01,599 --> 00:30:04,363
+"Cuidado com o olhar de Mary Shaw
+
+240
+00:30:04,669 --> 00:30:07,035
+Ela não tinha filhos, só bonecos
+
+241
+00:30:07,739 --> 00:30:09,331
+E se a vir em seus sonhos..."
+
+242
+00:30:09,407 --> 00:30:10,635
+Marion!
+
+243
+00:30:10,908 --> 00:30:12,876
+Ela está aqui.
+Ninguém está a salvo.
+
+244
+00:30:12,944 --> 00:30:14,138
+- Ninguém está a salvo.
+- Vamos.
+
+245
+00:30:14,212 --> 00:30:16,680
+- Marion, deixe-o em paz.
+- Ninguém está a salvo.
+
+246
+00:30:16,748 --> 00:30:19,114
+- Não é um bom momento.
+- Do que ela está falando?
+
+247
+00:30:19,183 --> 00:30:21,310
+Desculpe, Jamie.
+Ela não sabe o que diz.
+
+248
+00:30:21,386 --> 00:30:22,410
+Ela está aqui!
+
+249
+00:30:22,487 --> 00:30:25,650
+Venha. Vou levá-la para casa agora.
+Vamos, vamos. Venha.
+
+250
+00:30:25,723 --> 00:30:29,124
+Precisa enterrar o boneco!
+Enterre o boneco!
+
+251
+00:30:29,327 --> 00:30:31,557
+Deixe-o em paz, deixe-o.
+Venha.
+
+252
+00:30:31,629 --> 00:30:33,563
+Marion, vamos para casa agora.
+
+253
+00:31:02,493 --> 00:31:06,020
+MOTEL de Ravens Fair
+
+254
+00:32:26,444 --> 00:32:30,710
+CEMITÉRIO DE RAVENS FAIR
+
+255
+00:33:38,516 --> 00:33:40,347
+Quem foi que te tirou daqui?
+
+256
+00:35:23,688 --> 00:35:26,521
+Pensei ter lhe pedido
+para não sair da cidade.
+
+257
+00:35:28,326 --> 00:35:31,193
+Vim enterrar minha esposa.
+Algum problema?
+
+258
+00:35:31,262 --> 00:35:32,320
+Não.
+
+259
+00:35:33,798 --> 00:35:37,097
+O problema é que ela não é a única pessoa
+que veio enterrar.
+
+260
+00:35:37,635 --> 00:35:39,728
+Está me seguindo, agora?
+
+261
+00:35:40,838 --> 00:35:43,398
+Sabe, Jamie, tem me forçado
+
+262
+00:35:43,474 --> 00:35:46,875
+a usar a palavra "perplexo"
+com muita freqüência, ultimamente.
+
+263
+00:35:49,180 --> 00:35:52,843
+Importa-se em me dizer o que é isso?
+
+264
+00:35:54,452 --> 00:35:57,910
+Tudo bem.
+Já que não responde minhas perguntas,
+
+265
+00:35:59,323 --> 00:36:01,314
+talvez queira responder as dele.
+
+266
+00:36:05,363 --> 00:36:07,194
+"Por que me enterrou, Jamie?
+
+267
+00:36:07,431 --> 00:36:10,525
+Porque sou evidência
+em um crime capital,
+
+268
+00:36:10,768 --> 00:36:14,431
+um crime no qual você é
+o suspeito número um?"
+
+269
+00:36:20,945 --> 00:36:23,243
+Está me entendendo?
+
+270
+00:36:23,314 --> 00:36:25,282
+É como eu disse.
+
+271
+00:36:25,349 --> 00:36:28,580
+Na noite em que Lisa foi morta,
+alguém o enviou a mim.
+
+272
+00:36:28,652 --> 00:36:30,916
+Simplesmente chegou à minha porta.
+
+273
+00:36:31,756 --> 00:36:32,916
+Então, por que o enterrou?
+
+274
+00:36:32,990 --> 00:36:35,823
+Veio daquele cemitério.
+Estava devolvendo.
+
+275
+00:36:35,893 --> 00:36:37,258
+Ao cemitério?
+
+276
+00:36:38,429 --> 00:36:42,297
+Há uma velha história de terror por aqui
+sobre uma mulher chamada Mary Shaw.
+
+277
+00:36:42,366 --> 00:36:44,266
+Ela foi enterrada
+com a coleção de bonecos.
+
+278
+00:36:44,335 --> 00:36:48,135
+A história diz:
+"Se a vir, nunca grite".
+
+279
+00:36:48,205 --> 00:36:49,467
+Ou o quê?
+
+280
+00:36:53,177 --> 00:36:54,872
+Ou acabará sem língua.
+
+281
+00:36:54,945 --> 00:36:56,708
+Acho que sua esposa não obedeceu, hein?
+
+282
+00:36:56,781 --> 00:36:58,942
+- Seu filho da...
+- Ei! Ei!
+
+283
+00:36:59,150 --> 00:37:00,481
+Acalme-se, Jamie.
+
+284
+00:37:00,551 --> 00:37:04,385
+Não vamos incluir agressão à autoridade
+à sua lista de delitos.
+
+285
+00:37:06,290 --> 00:37:09,521
+Está tentando me dizer
+que um fantasma matou sua esposa?
+
+286
+00:37:09,627 --> 00:37:12,391
+- Não sei. Eu não sei.
+- O que sabe?
+
+287
+00:37:12,463 --> 00:37:13,953
+Sei que quem me enviou isto
+
+288
+00:37:14,031 --> 00:37:17,000
+matou minha esposa ou sabe quem o fez.
+
+289
+00:37:18,702 --> 00:37:20,101
+É uma teoria.
+
+290
+00:37:21,138 --> 00:37:22,264
+Vou embora.
+
+291
+00:37:22,339 --> 00:37:27,538
+E espero que não se importe
+que eu leve nosso amiguinho comigo,
+
+292
+00:37:27,845 --> 00:37:29,870
+já que é uma evidência.
+
+293
+00:37:30,181 --> 00:37:31,307
+Ótimo.
+
+294
+00:37:34,852 --> 00:37:36,376
+Boa noite, vizinho.
+
+295
+00:37:42,827 --> 00:37:44,124
+Vizinho?
+
+296
+00:37:49,066 --> 00:37:50,431
+Durma bem.
+
+297
+00:38:13,657 --> 00:38:16,683
+Sabe, eu notei que
+tem a pele bem macia.
+
+298
+00:38:19,230 --> 00:38:20,788
+Qual é o segredo?
+
+299
+00:38:23,868 --> 00:38:26,132
+Bem, isso não funciona para mim.
+
+300
+00:39:06,644 --> 00:39:07,975
+Amigo seu?
+
+301
+00:39:09,246 --> 00:39:11,680
+Disse que Mary Shaw matou minha esposa.
+
+302
+00:39:12,383 --> 00:39:13,816
+Por que diria isso?
+
+303
+00:39:13,884 --> 00:39:14,873
+Marion.
+
+304
+00:39:15,419 --> 00:39:16,818
+Marion, por favor!
+
+305
+00:39:17,621 --> 00:39:21,352
+- Sim, eu sei, eu sei...
+- O que sabe sobre Mary Shaw?
+
+306
+00:39:22,927 --> 00:39:25,054
+Eu não disse nada! Eu...
+
+307
+00:39:28,699 --> 00:39:31,532
+Você... Não deveria ter isso.
+
+308
+00:39:32,236 --> 00:39:35,364
+- Onde o conseguiu?
+- Talvez você possa me dizer.
+
+309
+00:39:37,007 --> 00:39:40,238
+- É dela.
+- De quem? Da Mary Shaw?
+
+310
+00:39:41,645 --> 00:39:43,510
+Não dizemos o nome dela por aqui.
+
+311
+00:39:43,581 --> 00:39:48,018
+Não dizem o nome.
+Bem, por que não tenta?
+
+312
+00:39:49,620 --> 00:39:52,748
+Pode me ajudar a descobrir
+quem matou minha esposa.
+
+313
+00:39:53,891 --> 00:39:59,124
+Há coisas de que você se lembra,
+e coisas que não consegue esquecer.
+
+314
+00:40:00,497 --> 00:40:03,728
+Como o olhar daquela mulher
+quando ela morreu.
+
+315
+00:40:06,270 --> 00:40:12,402
+Seu nome era Mary Shaw,
+a ventríloquo que perdeu a voz.
+
+316
+00:40:13,377 --> 00:40:17,370
+Quando eu era criança,
+eram os tempos de glória de Ravens Fair,
+
+317
+00:40:17,681 --> 00:40:20,844
+e a cidade construiu um grande teatro,
+
+318
+00:40:21,418 --> 00:40:24,876
+o Teatro Guignol, em Lost Lake.
+
+319
+00:40:25,823 --> 00:40:29,259
+Só fui lá uma vez.
+
+320
+00:40:34,431 --> 00:40:37,525
+Senhoras e senhores,
+preparem-se para se impressionar.
+
+321
+00:40:37,935 --> 00:40:39,903
+Preparem-se para se maravilhar.
+
+322
+00:40:40,137 --> 00:40:45,336
+Vejam Mary Shaw dar vida
+ao garoto de madeira.
+
+323
+00:41:00,457 --> 00:41:02,357
+Onde está o Billy?
+
+324
+00:41:02,993 --> 00:41:04,483
+Billy!
+
+325
+00:41:04,662 --> 00:41:07,358
+Onde você está, Billy?
+
+326
+00:41:07,431 --> 00:41:09,797
+Não vai me achar, mãe!
+
+327
+00:41:11,902 --> 00:41:15,429
+Sei que está se escondendo por aí!
+
+328
+00:41:16,106 --> 00:41:17,437
+Você, aí!
+
+329
+00:41:20,444 --> 00:41:23,641
+Pode verificar embaixo de seu assento?
+
+330
+00:41:30,754 --> 00:41:32,016
+Ele está aqui!
+
+331
+00:41:32,256 --> 00:41:35,657
+Pode trazê-lo para mim?
+
+332
+00:41:40,464 --> 00:41:42,295
+Bom garoto.
+
+333
+00:41:48,639 --> 00:41:50,106
+Diga obrigado.
+
+334
+00:41:50,607 --> 00:41:52,438
+Obrigado, Henry.
+
+335
+00:41:53,277 --> 00:41:55,040
+Está certo, jovem?
+
+336
+00:41:55,312 --> 00:41:58,008
+Seu nome é Henry?
+
+337
+00:42:01,351 --> 00:42:06,618
+Bem, acho que meu garoto estava
+de olho em você.
+
+338
+00:42:08,525 --> 00:42:11,551
+Agora, por que fugiu, Billy?
+
+339
+00:42:11,929 --> 00:42:13,897
+Eu não o trato bem?
+
+340
+00:42:14,098 --> 00:42:17,556
+Ah, sim, você é a melhor mãe
+que eu poderia desejar!
+
+341
+00:42:17,835 --> 00:42:22,169
+É só que fica tão empoeirado
+dentro daquela caixinha,
+
+342
+00:42:22,539 --> 00:42:23,733
+que me faz ter vontade de...
+
+343
+00:42:23,807 --> 00:42:25,434
+- Vontade de que?
+- De...
+
+344
+00:42:25,509 --> 00:42:26,737
+Vontade de...
+
+345
+00:42:33,016 --> 00:42:34,176
+Ah, Billy!
+
+346
+00:42:34,418 --> 00:42:37,581
+Você espirrou no meu sapato!
+
+347
+00:42:40,224 --> 00:42:42,954
+Desculpe, mamãe.
+Não pude evitar.
+
+348
+00:42:43,026 --> 00:42:45,017
+Consigo ver sua boca se movendo!
+
+349
+00:42:48,232 --> 00:42:49,460
+O quê?
+
+350
+00:42:54,171 --> 00:42:57,265
+- Quem disse isso?
+- Eu. Consigo ver.
+
+351
+00:42:57,541 --> 00:42:59,372
+A boca dela está se mexendo.
+
+352
+00:43:01,011 --> 00:43:02,535
+O que diz disso, Billy?
+
+353
+00:43:02,613 --> 00:43:05,980
+O jovem Michael acha
+que você não é uma pessoa de verdade!
+
+354
+00:43:06,049 --> 00:43:09,382
+- O que quer dizer, mãe?
+- Ele acha que é um boneco,
+
+355
+00:43:09,486 --> 00:43:12,148
+e que eu estou fazendo
+sua voz por você.
+
+356
+00:43:15,592 --> 00:43:17,560
+Mas não pode ser verdade!
+
+357
+00:43:17,661 --> 00:43:20,789
+De forma alguma você me daria
+todas as falas boas.
+
+358
+00:43:20,931 --> 00:43:22,796
+Esqueça-o, Billy!
+
+359
+00:43:22,866 --> 00:43:25,994
+Sempre haverá aqueles que duvidam!
+
+360
+00:43:26,403 --> 00:43:28,371
+Não quero esquecer, mãe!
+
+361
+00:43:28,772 --> 00:43:32,037
+Acho que devíamos mostrar a esse garoto
+como sou real.
+
+362
+00:43:32,109 --> 00:43:34,168
+- Sou tão real quanto ele!
+- Não.
+
+363
+00:43:34,311 --> 00:43:37,178
+Temo que devamos continuar o show.
+
+364
+00:43:37,247 --> 00:43:39,875
+Não! Sou tão real quanto você,
+e vou lhe mostrar.
+
+365
+00:43:39,950 --> 00:43:41,884
+- Deixe-o em paz, Billy!
+- Vou mostrar a ele!
+
+366
+00:43:41,952 --> 00:43:44,386
+- Ouça! Chega!
+- Sou tão real quanto você!
+
+367
+00:43:44,454 --> 00:43:46,285
+- Chega!
+- Traga-o aqui!
+
+368
+00:44:00,270 --> 00:44:04,001
+Agora, quem é o boneco?
+
+369
+00:44:04,942 --> 00:44:08,776
+Algumas semanas depois,
+esse garoto desapareceu.
+
+370
+00:44:08,846 --> 00:44:10,939
+Sumiu sem deixar rastros.
+
+371
+00:44:12,349 --> 00:44:16,786
+Mas eu sempre achei que Mary Shaw
+tinha algo a ver com isso.
+
+372
+00:44:16,987 --> 00:44:20,320
+Pouco tempo depois,
+ela foi assassinada.
+
+373
+00:44:21,258 --> 00:44:23,852
+- Quem a matou?
+- Ninguém descobriu.
+
+374
+00:44:24,361 --> 00:44:29,128
+Em seu testamento, Mary disse que seus
+bonecos deviam ser enterrados com ela,
+
+375
+00:44:29,633 --> 00:44:33,091
+seus filhos, como ela os chamava.
+
+376
+00:44:33,170 --> 00:44:34,899
+Todos os 101.
+
+377
+00:44:38,842 --> 00:44:42,141
+Seu corpo foi trazido à funerária
+do meu pai,
+
+378
+00:44:42,312 --> 00:44:46,749
+para que ele pudesse trabalhar
+em seu último pedido.
+
+379
+00:44:50,387 --> 00:44:54,255
+Ela não só queria ser enterrada
+com seus bonecos,
+
+380
+00:44:54,424 --> 00:44:57,916
+mas pediu que fosse, ela mesma,
+transformada em um.
+
+381
+00:47:05,455 --> 00:47:07,184
+Henry, está tudo bem?
+
+382
+00:47:08,492 --> 00:47:13,987
+Desde que ela foi enterrada, tem havido
+uma praga de mortes em Ravens Fair,
+
+383
+00:47:14,164 --> 00:47:16,496
+famílias sendo assassinadas.
+
+384
+00:47:18,502 --> 00:47:21,198
+Foram encontrados sem suas línguas.
+
+385
+00:47:25,409 --> 00:47:28,207
+Em pose de retrato familiar.
+
+386
+00:47:33,517 --> 00:47:35,348
+Sua esposa foi a última.
+
+387
+00:47:41,591 --> 00:47:43,957
+Como pôde tirar essas fotos?
+
+388
+00:47:44,027 --> 00:47:47,053
+Não, eu tenho de tirar fotos.
+É parte do meu trabalho.
+
+389
+00:47:47,898 --> 00:47:50,264
+Quem poderia ter desenterrado o boneco
+e me enviado?
+
+390
+00:47:50,333 --> 00:47:51,698
+Não sei.
+
+391
+00:47:54,171 --> 00:47:58,130
+Ninguém na cidade ousa dizer
+o nome de Mary Shaw,
+
+392
+00:47:58,208 --> 00:48:00,608
+quem dirá se aproximar
+de sua sepultura.
+
+393
+00:48:00,911 --> 00:48:05,575
+Eles sabem que ela não parará de matar
+até que parem de gritar.
+
+394
+00:48:07,617 --> 00:48:10,484
+Disse que ela vivia
+no velho teatro, certo?
+
+395
+00:48:10,587 --> 00:48:12,612
+- Aquele em Lost Lake?
+- Jamie!
+
+396
+00:48:13,023 --> 00:48:14,547
+Jamie, por favor!
+
+397
+00:48:18,295 --> 00:48:19,990
+Por favor, tome cuidado.
+
+398
+00:48:20,797 --> 00:48:24,460
+Se estiver procurando respostas,
+vai acabar encontrando-as.
+
+399
+00:48:24,534 --> 00:48:26,468
+É com isso que estou contando.
+
+400
+00:48:59,002 --> 00:49:00,492
+Bom dia, Mary.
+
+401
+00:49:00,570 --> 00:49:03,403
+Vou olhar as crianças.
+
+402
+00:52:20,704 --> 00:52:25,835
+Mamãe! Mamãe! Mamãe.
+
+403
+00:53:24,067 --> 00:53:25,898
+PARA FAZER O BONECO PERFEITO
+
+404
+00:53:29,139 --> 00:53:32,108
+Jovem herdeiro de fortuna desaparecido
+TEME-SE CRIME
+
+405
+00:53:32,475 --> 00:53:34,466
+GAROTO DESAPARECIDO
+
+406
+00:53:37,046 --> 00:53:38,775
+Michael Ashen
+Desaparecido
+
+407
+00:54:06,376 --> 00:54:08,344
+O que quer com ele? O que é?
+
+408
+00:54:08,411 --> 00:54:11,244
+O que quer? Fizemos o que queria.
+
+409
+00:54:11,414 --> 00:54:14,781
+Nós a colocamos junto com sua família.
+
+410
+00:54:15,952 --> 00:54:19,444
+- Por que não nos deixa em paz?
+- Por quê?
+
+411
+00:54:19,756 --> 00:54:21,223
+Eu não fiz nada!
+
+412
+00:54:21,291 --> 00:54:24,260
+Sim, fez.
+Você falou.
+
+413
+00:54:24,494 --> 00:54:26,189
+Não falei! Não falei!
+
+414
+00:54:26,262 --> 00:54:29,288
+Não disse nada!
+
+415
+00:54:32,635 --> 00:54:33,727
+Ei!
+
+416
+00:54:34,971 --> 00:54:36,962
+Diga alguma coisa.
+
+417
+00:54:38,441 --> 00:54:40,636
+Por que ficou tão calado?
+
+418
+00:54:43,580 --> 00:54:46,105
+Vou mandá-lo ao lugar de onde veio
+de uma vez por todas!
+
+419
+00:54:46,182 --> 00:54:47,479
+- Ele falou comigo!
+- Pare!
+
+420
+00:54:47,550 --> 00:54:50,246
+Falou, ele falou comigo.
+
+421
+00:55:35,899 --> 00:55:37,059
+Marion?
+
+422
+00:55:43,139 --> 00:55:46,472
+Marion, me desculpe por ter gritado
+com você.
+
+423
+00:56:01,624 --> 00:56:02,886
+Marion?
+
+424
+00:56:04,460 --> 00:56:06,894
+Não precisa mais se esconder.
+
+425
+00:56:06,963 --> 00:56:08,794
+Já vai acabar.
+
+426
+00:56:10,733 --> 00:56:11,893
+Marion?
+
+427
+00:56:13,269 --> 00:56:14,327
+Marion?
+
+428
+00:56:25,915 --> 00:56:28,440
+Marion, saia daí, agora!
+
+429
+00:56:44,133 --> 00:56:45,464
+Marion?
+
+430
+00:56:55,411 --> 00:56:56,969
+Marion, abra a porta.
+
+431
+00:56:58,214 --> 00:57:00,944
+Marion! Vamos, sem joguinhos, Marion!
+
+432
+00:57:01,017 --> 00:57:02,644
+Abra a porta!
+
+433
+00:57:23,906 --> 00:57:27,069
+Marion, abra a porta, por favor!
+Marion!
+
+434
+00:57:27,243 --> 00:57:29,302
+Olá, Henry!
+
+435
+00:57:53,870 --> 00:57:55,201
+Ah, meu Deus.
+
+436
+00:58:13,690 --> 00:58:17,524
+Sua voz é minha, agora, Henry.
+
+437
+00:58:33,176 --> 00:58:35,474
+Jamie, chegou bem na hora do jantar.
+
+438
+00:58:35,645 --> 00:58:37,374
+- Não estou com fome.
+- É sopa.
+
+439
+00:58:37,447 --> 00:58:41,474
+- E deliciosa, se me permite dizer.
+- Eu concordo.
+
+440
+00:58:42,652 --> 00:58:44,984
+Não vim aqui para comer, vim conversar
+
+441
+00:58:45,054 --> 00:58:46,419
+sobre Mary Shaw.
+
+442
+00:58:48,524 --> 00:58:50,685
+- Mentiu para mim.
+- Não, não menti.
+
+443
+00:58:52,562 --> 00:58:54,223
+- Sente-se.
+- Não, eu quero a verdade.
+
+444
+00:58:54,297 --> 00:58:57,892
+O que é que Michael Ashen
+e nossa família têm a ver com Mary Shaw?
+
+445
+00:58:59,902 --> 00:59:01,028
+Tudo bem.
+
+446
+00:59:02,672 --> 00:59:04,071
+Quando ele era criança,
+
+447
+00:59:04,140 --> 00:59:08,201
+seu tio-avô, Michael Ashen,
+desapareceu sem deixar rastros.
+
+448
+00:59:10,847 --> 00:59:13,907
+Para nossa família,
+só havia uma suspeita:
+
+449
+00:59:14,183 --> 00:59:15,275
+Mary Shaw.
+
+450
+00:59:16,018 --> 00:59:18,418
+Então, eles fizeram
+sua própria justiça.
+
+451
+00:59:21,224 --> 00:59:22,953
+Forçaram-na a gritar.
+
+452
+00:59:26,129 --> 00:59:28,120
+E então cortaram sua língua.
+
+453
+00:59:28,531 --> 00:59:31,898
+- Nossa família a matou?
+- Junto com outros de Ravens Fair.
+
+454
+00:59:33,936 --> 00:59:35,961
+Mas ela não permaneceu morta.
+
+455
+00:59:37,073 --> 00:59:39,701
+Ela voltou e se vingou.
+
+456
+00:59:40,977 --> 00:59:44,743
+Um por um, cada um
+dos homens envolvidos foram mortos.
+
+457
+00:59:45,548 --> 00:59:47,573
+Suas línguas foram arrancadas.
+
+458
+00:59:48,184 --> 00:59:50,914
+E o mesmo aconteceu às suas esposas.
+
+459
+00:59:51,487 --> 00:59:53,546
+E seus filhos.
+
+460
+00:59:53,623 --> 00:59:55,682
+E os filhos de seus filhos.
+
+461
+00:59:55,758 --> 00:59:58,818
+Todos esses anos você ressentiu
+o fato de eu tê-lo mandado embora,
+
+462
+00:59:58,895 --> 01:00:02,092
+mas eu o fiz para afastá-lo
+dessa maldição.
+
+463
+01:00:02,932 --> 01:00:04,229
+Afastar-me?
+
+464
+01:00:04,567 --> 01:00:05,898
+Bem, ela encontrou a Lisa!
+
+465
+01:00:05,968 --> 01:00:09,836
+A morte da Lisa me fez perceber
+que não podemos fugir do nosso destino.
+
+466
+01:00:11,107 --> 01:00:13,075
+Espíritos têm memórias longas.
+
+467
+01:00:15,211 --> 01:00:17,338
+Ela virá atrás de nós.
+
+468
+01:00:17,713 --> 01:00:21,308
+- Pago pelos pecados de meus pais.
+- Jamie, eu sinto muito.
+
+469
+01:00:21,484 --> 01:00:25,853
+Eu só queria proteger você,
+mesmo se isso o fizesse me odiar.
+
+470
+01:00:25,922 --> 01:00:28,390
+Não sei como,
+mas de um jeito ou de outro,
+
+471
+01:00:29,692 --> 01:00:31,592
+vou parar essa coisa.
+
+472
+01:00:32,395 --> 01:00:33,828
+Por favor, filho!
+
+473
+01:00:35,264 --> 01:00:36,595
+Bem, olá!
+
+474
+01:00:36,666 --> 01:00:39,567
+Queria saber se pode me ajudar
+num caso de pessoa desaparecida.
+
+475
+01:00:39,635 --> 01:00:40,659
+Espere.
+
+476
+01:00:41,437 --> 01:00:44,895
+Estou procurando por um homem,
+cabelos castanhos, desta altura,
+
+477
+01:00:44,974 --> 01:00:47,499
+às vezes visto com uma mão
+em seu traseiro.
+
+478
+01:00:47,844 --> 01:00:52,144
+Na verdade, seus irmãos
+e irmãs também desapareceram.
+
+479
+01:00:52,615 --> 01:00:55,482
+- Do que está falando?
+- Alguém cavou e os tirou.
+
+480
+01:00:56,519 --> 01:00:57,884
+Todos os 100.
+
+481
+01:00:58,721 --> 01:01:01,485
+Quero saber quem e por quê.
+
+482
+01:01:01,557 --> 01:01:02,819
+Eu também.
+
+483
+01:01:03,526 --> 01:01:06,586
+Não me venha com a historinha
+da mulher que mata se você grita,
+
+484
+01:01:06,662 --> 01:01:08,789
+porque ninguém aqui ouviu falar
+dessa Mary Shaw
+
+485
+01:01:08,865 --> 01:01:11,163
+- nem de seu conto de fadas.
+- Estão mentindo!
+
+486
+01:01:11,234 --> 01:01:13,600
+- Estão com medo!
+- Medo de quê?
+
+487
+01:01:14,003 --> 01:01:15,334
+De fantasmas?
+
+488
+01:01:15,438 --> 01:01:19,101
+Ou de falar com o policial que está
+investigando a morte de sua esposa?
+
+489
+01:01:19,175 --> 01:01:21,473
+Eles não têm motivo para me proteger.
+
+490
+01:01:22,411 --> 01:01:24,572
+Mas acreditam em Mary Shaw.
+
+491
+01:01:25,281 --> 01:01:26,976
+Por isso não respondem suas perguntas.
+
+492
+01:01:27,049 --> 01:01:30,450
+Não, é você que não as responde, Jamie.
+
+493
+01:01:30,519 --> 01:01:32,384
+Por isso vou prendê-lo
+por roubar provas.
+
+494
+01:01:32,455 --> 01:01:33,945
+Depois vou sentá-lo, e irei...
+
+495
+01:01:34,023 --> 01:01:36,355
+O que quer que eu lhe diga?
+
+496
+01:01:36,559 --> 01:01:38,993
+Algo com mais sentido
+do que uma história de terror.
+
+497
+01:01:39,061 --> 01:01:41,996
+Jamie, está tudo bem?
+
+498
+01:01:46,002 --> 01:01:48,300
+É para você.
+Disseram que é urgente.
+
+499
+01:01:50,506 --> 01:01:51,734
+Vá em frente.
+
+500
+01:01:55,344 --> 01:01:56,606
+- Alô?
+- Jamie.
+
+501
+01:01:56,879 --> 01:01:58,005
+Quem é?
+
+502
+01:01:59,782 --> 01:02:01,079
+Jamie?
+
+503
+01:02:01,250 --> 01:02:02,239
+Henry?
+
+504
+01:02:03,085 --> 01:02:06,680
+- Posso provar.
+- Henry, não ouvi, a ligação está ruim.
+
+505
+01:02:06,923 --> 01:02:08,288
+Posso provar.
+
+506
+01:02:08,824 --> 01:02:10,985
+Eu posso...
+Você não a matou.
+
+507
+01:02:12,161 --> 01:02:14,425
+Há uma forma, no teatro.
+
+508
+01:02:14,497 --> 01:02:16,556
+Encontre-me no teatro.
+Fica em Lost Lake.
+
+509
+01:02:16,632 --> 01:02:18,361
+Sim, eu sei onde fica.
+
+510
+01:02:18,534 --> 01:02:19,933
+Agora, Jamie.
+
+511
+01:02:21,003 --> 01:02:23,164
+Henry, espere! O que descobriu?
+
+512
+01:02:23,873 --> 01:02:25,932
+Henry! Henry!
+
+513
+01:02:30,579 --> 01:02:32,376
+Era Henry Walker, da funerária.
+
+514
+01:02:32,448 --> 01:02:34,712
+Disse que pode provar
+que não matei minha esposa.
+
+515
+01:02:34,784 --> 01:02:36,877
+Hora conveniente para ele ligar.
+Vamos.
+
+516
+01:02:36,953 --> 01:02:38,944
+Espere, espere.
+Vou encontrá-lo no teatro.
+
+517
+01:02:39,021 --> 01:02:41,216
+- É aonde vou.
+- Não, você vai comigo.
+
+518
+01:02:41,290 --> 01:02:42,757
+O compromisso comigo vem primeiro.
+
+519
+01:02:42,825 --> 01:02:45,259
+Queria respostas.
+Vou lhe dar respostas.
+
+520
+01:02:45,328 --> 01:02:48,491
+O acampamento acabou.
+Chega de histórias de terror. Vamos.
+
+521
+01:02:48,564 --> 01:02:52,022
+Ouça, estamos falando
+da minha esposa. Vamos.
+
+522
+01:02:56,205 --> 01:02:58,196
+Faça-nos um favor, Jamie.
+
+523
+01:02:58,641 --> 01:03:01,166
+Não me faça algemá-lo
+na frente da sua mãe.
+
+524
+01:03:05,514 --> 01:03:06,742
+Jamie!
+
+525
+01:03:08,084 --> 01:03:10,177
+Jamie. Jamie!
+
+526
+01:03:10,419 --> 01:03:13,354
+Ei, não me faça persegui-lo!
+
+527
+01:03:13,422 --> 01:03:14,411
+Jamie!
+
+528
+01:03:17,093 --> 01:03:19,186
+O tanque do carro não está cheio.
+
+529
+01:04:24,360 --> 01:04:25,452
+Jamie!
+
+530
+01:04:31,967 --> 01:04:33,059
+Henry?
+
+531
+01:04:35,171 --> 01:04:36,331
+Jamie!
+
+532
+01:04:51,287 --> 01:04:52,345
+Olá?
+
+533
+01:04:53,456 --> 01:04:54,980
+Onde você está?
+
+534
+01:04:56,692 --> 01:04:57,852
+Henry?
+
+535
+01:05:06,268 --> 01:05:07,394
+Henry!
+
+536
+01:05:20,382 --> 01:05:21,644
+Henry?
+
+537
+01:05:22,518 --> 01:05:25,453
+Venha, Jamie.
+Estou aqui em cima.
+
+538
+01:05:26,589 --> 01:05:28,250
+Estou chegando, Jamie.
+
+539
+01:05:36,298 --> 01:05:38,289
+Droga.
+
+540
+01:06:03,526 --> 01:06:04,652
+Jamie?
+
+541
+01:06:06,395 --> 01:06:07,794
+Sei que está aqui.
+
+542
+01:06:10,132 --> 01:06:11,622
+Estou aqui dentro.
+
+543
+01:06:30,452 --> 01:06:31,646
+Henry?
+
+544
+01:06:49,471 --> 01:06:51,063
+- Henry?
+- Tente de novo.
+
+545
+01:06:54,276 --> 01:06:55,402
+Ele está aqui.
+
+546
+01:06:55,477 --> 01:06:58,378
+Não há ninguém aqui.
+Nossos barcos eram os únicos.
+
+547
+01:06:58,447 --> 01:07:01,280
+- Ouça, estou dizendo, ele está aqui!
+- E eu estou dizendo
+
+548
+01:07:01,350 --> 01:07:03,818
+que não está!
+
+549
+01:07:04,086 --> 01:07:05,576
+Sim, ele está.
+
+550
+01:07:09,725 --> 01:07:12,819
+Se disser "eu falei", eu te mato.
+
+551
+01:07:17,566 --> 01:07:19,193
+Onde está?
+
+552
+01:07:42,491 --> 01:07:44,482
+Segure isto por um segundo.
+
+553
+01:07:46,061 --> 01:07:47,551
+Aonde vai?
+
+554
+01:08:02,544 --> 01:08:04,944
+Lembre-se, o que quer que aconteça,
+
+555
+01:08:05,447 --> 01:08:06,675
+não grite.
+
+556
+01:08:09,885 --> 01:08:12,649
+Jamie. Jamie?
+
+557
+01:08:17,026 --> 01:08:18,118
+Jamie?
+
+558
+01:08:20,462 --> 01:08:21,554
+Jamie!
+
+559
+01:08:27,970 --> 01:08:29,460
+Siga-me.
+
+560
+01:08:30,539 --> 01:08:31,699
+Sim, senhor.
+
+561
+01:09:25,127 --> 01:09:28,654
+Tudo bem, Jamie, onde ele está?
+
+562
+01:09:39,274 --> 01:09:41,640
+Se eu vir mais um destes...
+
+563
+01:09:55,124 --> 01:09:56,648
+Estão todos aqui.
+
+564
+01:10:11,940 --> 01:10:13,100
+Sim.
+
+565
+01:10:16,145 --> 01:10:17,544
+Todos em casa.
+
+566
+01:10:27,356 --> 01:10:29,688
+Alguém os trouxe de volta.
+
+567
+01:10:42,171 --> 01:10:43,832
+Todos, menos um.
+
+568
+01:10:45,274 --> 01:10:46,400
+O quê?
+
+569
+01:10:50,279 --> 01:10:51,871
+Que diabos é isso?
+
+570
+01:11:16,572 --> 01:11:18,005
+É um boneco?
+
+571
+01:11:24,046 --> 01:11:25,536
+Não.
+
+572
+01:11:28,016 --> 01:11:29,347
+É um menino.
+
+573
+01:11:37,593 --> 01:11:39,322
+Digo, era um menino.
+
+574
+01:11:48,971 --> 01:11:51,405
+- Sou eu.
+- Tudo bem, entendi.
+
+575
+01:11:52,407 --> 01:11:55,808
+Acho que resolvemos um caso
+de pessoa desaparecida de 70 anos atrás.
+
+576
+01:11:55,878 --> 01:11:57,402
+Quem era?
+
+577
+01:11:59,748 --> 01:12:01,579
+Um parente distante.
+
+578
+01:12:06,088 --> 01:12:07,680
+Foi assim que começou.
+
+579
+01:12:10,292 --> 01:12:12,453
+O que está acontecendo aqui, Jamie?
+
+580
+01:12:39,888 --> 01:12:41,150
+Jamie.
+
+581
+01:13:21,430 --> 01:13:22,920
+Que diabos...
+
+582
+01:13:58,767 --> 01:13:59,859
+Mary Shaw?
+
+583
+01:14:05,974 --> 01:14:07,339
+Mary Shaw?
+
+584
+01:14:11,680 --> 01:14:13,113
+Esperto.
+
+585
+01:14:15,283 --> 01:14:16,580
+Quem está aí?
+
+586
+01:14:16,818 --> 01:14:18,080
+Apareça!
+
+587
+01:14:18,253 --> 01:14:19,413
+Saia!
+
+588
+01:14:20,889 --> 01:14:22,288
+O que deseja?
+
+589
+01:14:27,496 --> 01:14:32,763
+Silenciar aqueles que me silenciaram.
+
+590
+01:14:34,636 --> 01:14:37,264
+Foi por isso que matou Michael Ashen?
+
+591
+01:14:38,006 --> 01:14:41,237
+Tão difícil construir
+
+592
+01:14:41,610 --> 01:14:43,908
+o boneco perfeito.
+
+593
+01:14:44,713 --> 01:14:49,173
+Às vezes tem de se usar partes vivas.
+
+594
+01:14:50,385 --> 01:14:53,548
+"Eu te amo, mamãe.
+Eu te amo, mamãe.
+
+595
+01:14:53,722 --> 01:14:54,882
+Eu te amo.
+
+596
+01:14:55,524 --> 01:14:57,355
+Eu te amo, mamãe".
+
+597
+01:14:58,560 --> 01:14:59,857
+Por que a Lisa?
+
+598
+01:15:00,729 --> 01:15:02,959
+Por que a tirou de mim?
+
+599
+01:15:04,433 --> 01:15:09,370
+Aproxime-se e eu lhe direi.
+
+600
+01:15:13,442 --> 01:15:15,876
+Não vá até lá.
+Não.
+
+601
+01:15:15,977 --> 01:15:18,104
+Vamos, vamos.
+Não vá.
+
+602
+01:15:29,057 --> 01:15:31,491
+Aproxime-se.
+
+603
+01:15:31,660 --> 01:15:34,390
+Vou sussurrar a você.
+
+604
+01:15:59,121 --> 01:16:02,318
+Você não era o último Ashen.
+
+605
+01:16:03,391 --> 01:16:07,555
+O último Ashen estava dentro dela.
+
+606
+01:16:43,098 --> 01:16:44,326
+Não grite.
+
+607
+01:16:58,780 --> 01:16:59,872
+O boneco!
+
+608
+01:17:03,718 --> 01:17:06,016
+O que está acontecendo aqui, Jamie?
+
+609
+01:17:08,957 --> 01:17:11,357
+- O que está acontecendo?
+- Ela vive nos bonecos!
+
+610
+01:17:11,426 --> 01:17:13,758
+- O quê?
+- Ela vive nos bonecos!
+
+611
+01:17:16,131 --> 01:17:18,429
+- Destrua os bonecos!
+- Estou destruindo!
+
+612
+01:17:21,403 --> 01:17:22,768
+Todos eles!
+
+613
+01:17:35,116 --> 01:17:37,209
+Jamie! Corra!
+
+614
+01:17:51,733 --> 01:17:52,791
+Vamos!
+
+615
+01:20:34,562 --> 01:20:35,893
+Só falta um.
+
+616
+01:20:59,788 --> 01:21:01,016
+Henry!
+
+617
+01:21:04,359 --> 01:21:05,417
+Henry!
+
+618
+01:21:12,267 --> 01:21:16,033
+Por favor. Por favor.
+
+619
+01:21:26,181 --> 01:21:28,149
+Por favor.
+
+620
+01:21:30,518 --> 01:21:31,610
+Por favor.
+
+621
+01:21:32,587 --> 01:21:35,579
+Por favor, diga
+
+622
+01:21:36,391 --> 01:21:38,586
+- alguma coisa.
+- Droga.
+
+623
+01:21:41,463 --> 01:21:44,489
+Marion. Marion, ouça-me.
+Onde está o boneco?
+
+624
+01:21:44,933 --> 01:21:46,560
+- Ele o levou.
+- Quem?
+
+625
+01:21:46,634 --> 01:21:49,194
+- Quem o levou?
+- O Sr. Ashen.
+
+626
+01:21:49,304 --> 01:21:50,601
+Sr...
+
+627
+01:21:51,039 --> 01:21:53,473
+Marion, meu pai está
+em uma cadeira de rodas.
+
+628
+01:21:53,541 --> 01:21:55,566
+Ele nunca sai de casa.
+
+629
+01:21:55,743 --> 01:21:59,611
+Ele saiu desta casa.
+Ele pegou o boneco.
+
+630
+01:22:00,682 --> 01:22:02,809
+Foi ele.
+
+631
+01:23:47,822 --> 01:23:49,915
+Por que me enterrou, Jamie?
+
+632
+01:23:52,927 --> 01:23:54,394
+Estou aqui!
+
+633
+01:25:37,699 --> 01:25:38,757
+Pai?
+
+634
+01:25:51,112 --> 01:25:55,208
+Sei que eu não era a pessoa mais fácil
+de se lidar,
+
+635
+01:25:55,283 --> 01:25:56,580
+mas mudei.
+
+636
+01:25:56,651 --> 01:25:57,845
+Jamie!
+
+637
+01:25:58,686 --> 01:26:01,883
+- Sopa! E deliciosa.
+- Eu concordo.
+
+638
+01:26:05,960 --> 01:26:08,827
+Jamie, posso provar que não a matou.
+
+639
+01:26:12,100 --> 01:26:15,092
+Jamie! Estou tão feliz por estar aqui.
+
+640
+01:26:31,619 --> 01:26:34,247
+Agora, quem é o boneco?
+
+641
+01:26:35,957 --> 01:26:39,290
+Não!
+
+642
+01:26:56,611 --> 01:26:58,806
+"Cuidado com o olhar de Mary Shaw
+
+643
+01:26:59,447 --> 01:27:01,745
+Ela não tinha filhos, só bonecos
+
+644
+01:27:02,917 --> 01:27:05,317
+E se a vir em seus sonhos
+
+645
+01:27:05,386 --> 01:27:08,913
+Nunca, jamais grite".
+
+646
+01:27:15,000 --> 01:27:18,000
+...:::  WOLVERDON FILMES :::...
+
+647
+01:27:19,305 --> 01:28:19,857
+Watch any video online with Open-SUBTITLES
+Free Browser extension: osdb.link/ext

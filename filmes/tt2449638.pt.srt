@@ -1,0 +1,4304 @@
+﻿﻿1
+00:00:06,000 --> 00:00:12,074
+
+2
+00:00:34,525 --> 00:00:37,874
+<i>A Auxilisun atende às altas
+exigências de seu atarefado dia</i>
+
+3
+00:00:37,875 --> 00:00:40,389
+<i>com energia renovável
+a preços acessíveis.</i>
+
+4
+00:00:40,390 --> 00:00:42,705
+<i>Mas nem sempre
+essa foi a escolha do poder</i>
+
+5
+00:00:42,706 --> 00:00:46,297
+<i>para 99% dos órgãos
+econômicos do mundo.</i>
+
+6
+00:00:46,298 --> 00:00:49,663
+<i>A Auxilisun nasceu
+da inovação necessária</i>
+
+7
+00:00:49,664 --> 00:00:51,539
+<i>após a fusão nuclear
+de três usinas</i>
+
+8
+00:00:51,540 --> 00:00:54,104
+<i>acabar com a energia nuclear
+do mundo.</i>
+
+9
+00:00:54,105 --> 00:00:56,190
+<i>Barões do petróleo
+e extremistas verdes</i>
+
+10
+00:00:56,191 --> 00:00:58,442
+<i>aumentaram os custos da energia
+cada vez mais,</i>
+
+11
+00:00:58,443 --> 00:01:01,548
+<i>resultando na crise
+de energia de 2018.</i>
+
+12
+00:01:01,549 --> 00:01:03,502
+<i>O mundo ficou em caos</i>
+
+13
+00:01:03,503 --> 00:01:07,616
+<i>até que a Auxilisun criou
+o motor de tri-fissão.</i>
+
+14
+00:01:07,617 --> 00:01:09,748
+<i>Uma instalação de contenção
+da Auxilisun</i>
+
+15
+00:01:09,749 --> 00:01:12,799
+<i>foi construída sobre o local
+de desastre das três usinas</i>
+
+16
+00:01:12,800 --> 00:01:16,516
+<i>para que o motor de tri-fissão
+limpasse o perigo da radiação.</i>
+
+17
+00:01:16,517 --> 00:01:18,085
+<i>O progresso foi lento.</i>
+
+18
+00:01:18,086 --> 00:01:20,348
+<i>Mas estudos científicos
+independentes provam</i>
+
+19
+00:01:20,349 --> 00:01:23,952
+<i>que o milagroso motor
+da Auxilisun não só funcionou,</i>
+
+20
+00:01:23,953 --> 00:01:27,740
+<i>mas também criou nova energia
+a partir da radiação que limpava</i>
+
+21
+00:01:27,741 --> 00:01:31,609
+<i>e assim começou
+a revolução energética de 2025.</i>
+
+22
+00:01:31,610 --> 00:01:33,347
+<i>Sem mais
+biocombustíveis sujos,</i>
+
+23
+00:01:33,348 --> 00:01:35,978
+<i>vento inconsistente,
+nem painéis solares caros.</i>
+
+24
+00:01:35,979 --> 00:01:38,303
+<i>Os motores de tri-fissão
+limpam resíduos velhos</i>
+
+25
+00:01:38,304 --> 00:01:40,401
+<i>enquanto a Auxilisun
+continua construindo</i>
+
+26
+00:01:40,402 --> 00:01:42,922
+<i>suas usinas inovadoras
+em todo o mundo.</i>
+
+27
+00:01:42,923 --> 00:01:45,982
+<i>Hoje a energia nuclear
+energiza tudo que você faz</i>
+
+28
+00:01:45,983 --> 00:01:48,853
+<i>e a Auxilisun está lá para
+garantir que permaneça segura</i>
+
+29
+00:01:48,854 --> 00:01:51,936
+<i>renovável e o mais importante,
+acessível.</i>
+
+30
+00:01:51,937 --> 00:01:53,331
+<i>Auxilisun,</i>
+
+31
+00:01:53,332 --> 00:01:56,677
+<i>criando um novo futuro
+limpando o passado.</i>
+
+32
+00:02:35,678 --> 00:02:38,231
+<i><b>WTFSubs
+Apresenta:</b></i>
+
+33
+00:02:38,232 --> 00:02:41,822
+<b>ATOMICA</b>
+
+34
+00:02:41,823 --> 00:02:43,823
+<i><b>Tradução:
+MatMaggi | arthurdenner</b></i>
+
+35
+00:02:43,824 --> 00:02:45,824
+<i><b>Tradução:
+freakover | Ghost | vegafloyd</b></i>
+
+36
+00:02:45,825 --> 00:02:47,825
+<i><b>Tradução:
+Ice | PedroTrindade²</b></i>
+
+37
+00:02:47,826 --> 00:02:49,826
+<i><b>Tradução:
+Vahainen | Monk</b></i>
+
+38
+00:02:49,827 --> 00:02:51,627
+<i><b>Revisão:
+Moicano</b></i>
+
+39
+00:02:58,665 --> 00:02:59,965
+Acender luzes.
+
+40
+00:03:17,809 --> 00:03:19,109
+Desligar alarmes.
+
+41
+00:03:40,713 --> 00:03:43,363
+<i>CSE Dixon,
+estamos no meio da noite.</i>
+
+42
+00:03:43,364 --> 00:03:45,011
+David,
+as comunicações caíram.
+
+43
+00:03:45,012 --> 00:03:47,391
+- Com os técnicos de campo...
+<i>- É Natal.</i>
+
+44
+00:03:47,392 --> 00:03:49,692
+<i>Isso é algo que dá
+para esperar até amanhã?</i>
+
+45
+00:03:50,936 --> 00:03:53,837
+O Deserto de Gibson Norte
+é o maior repositório
+
+46
+00:03:53,838 --> 00:03:55,789
+de resíduos nucleares
+do hemisfério sul.
+
+47
+00:03:55,790 --> 00:03:57,754
+Ele não tira folgas.
+
+48
+00:03:59,080 --> 00:04:01,730
+- Tem algo errado.
+<i>- Não temos ninguém disponível.</i>
+
+49
+00:04:02,799 --> 00:04:04,487
+- Eu vou.
+<i>- O quê?</i>
+
+50
+00:04:04,488 --> 00:04:07,293
+Você não tem ninguém disponível,
+então eu mesma vou.
+
+51
+00:04:07,294 --> 00:04:09,694
+Chame o transporte.
+Estarei pronta em 10 minutos.
+
+52
+00:04:22,558 --> 00:04:24,618
+Indo para
+a Zona Vermelha agora.
+
+53
+00:04:24,941 --> 00:04:26,505
+Completamente inabitável.
+
+54
+00:04:26,506 --> 00:04:29,114
+Você não vai querer acabar
+com o combustível aqui.
+
+55
+00:04:30,335 --> 00:04:31,635
+INTERFERÊNCIA DE RADIAÇÃO
+
+56
+00:05:03,050 --> 00:05:04,804
+<i>Então a Auxilisun está enviando</i>
+
+57
+00:05:04,805 --> 00:05:07,518
+uma assistente técnica
+para essa instalação remota.
+
+58
+00:05:07,519 --> 00:05:10,146
+Nenhum engenheiro chefe
+disponível?
+
+59
+00:05:10,147 --> 00:05:12,514
+Eu sou uma engenheira chefe
+de tecnologia.
+
+60
+00:05:15,144 --> 00:05:17,045
+- Quantas você já engendrou?
+- Nenhuma.
+
+61
+00:05:17,046 --> 00:05:19,997
+Fui promovida recentemente.
+Meu trabalho foi em laboratório.
+
+62
+00:05:19,998 --> 00:05:21,298
+Mostrar visão.
+
+63
+00:05:42,464 --> 00:05:47,255
+<i>É assim que uma instalação
+da Auxilisun de verdade parece.</i>
+
+64
+00:05:47,256 --> 00:05:49,087
+Você não vê isso
+no laboratório.
+
+65
+00:06:09,878 --> 00:06:12,266
+Este também foi seu primeiro
+agendamento de voo?
+
+66
+00:06:12,267 --> 00:06:14,362
+Não há nada aqui
+para vir te buscar.
+
+67
+00:06:17,058 --> 00:06:19,600
+Perdemos comunicação
+com o Deserto de Gibson Norte.
+
+68
+00:06:19,601 --> 00:06:22,649
+Quando voltar, contatarei
+o HQ da Auxilisun para virem
+
+69
+00:06:22,650 --> 00:06:24,573
+e pedirei para
+não mandarem você.
+
+70
+00:06:31,227 --> 00:06:33,463
+<i>Sistema ativado.</i>
+
+71
+00:08:18,490 --> 00:08:19,932
+<i>Descontaminar.</i>
+
+72
+00:08:23,846 --> 00:08:26,525
+<i>Iniciar descontaminação.</i>
+
+73
+00:09:36,569 --> 00:09:38,240
+Abby Dixon reportando.
+
+74
+00:09:38,241 --> 00:09:41,968
+ID: HEB0511.
+
+75
+00:09:41,969 --> 00:09:44,544
+Entrada 001.
+
+76
+00:09:45,842 --> 00:09:48,284
+No momento da minha entrada
+na instalação,
+
+77
+00:09:48,285 --> 00:09:50,063
+nenhuma resposta
+dos funcionários.
+
+78
+00:09:50,064 --> 00:09:53,530
+A instalação em si
+está em um estado de ruína,
+
+79
+00:09:54,004 --> 00:09:55,475
+possivelmente deserta.
+
+80
+00:09:55,805 --> 00:09:58,225
+Vou registrar minhas entradas
+e enviá-las
+
+81
+00:09:58,226 --> 00:10:00,526
+o quanto antes quando
+as comunicações voltarem.
+
+82
+00:10:14,047 --> 00:10:15,467
+Olá!
+
+83
+00:10:41,962 --> 00:10:43,263
+Quem é você?
+
+84
+00:10:43,264 --> 00:10:48,108
+Eu sou engenheira de instalações
+técnicas da Auxilisun.
+
+85
+00:10:50,855 --> 00:10:52,205
+O que está fazendo aqui?
+
+86
+00:10:53,306 --> 00:10:56,507
+Suas comunicações caíram.
+Estou aqui para consertar.
+
+87
+00:10:58,128 --> 00:11:00,150
+Tem ID?
+Posso ver sua ID?
+
+88
+00:11:00,151 --> 00:11:01,658
+Não consigo
+me conectar à rede.
+
+89
+00:11:01,659 --> 00:11:03,761
+A rede não vale
+merda nenhuma aqui.
+
+90
+00:11:03,762 --> 00:11:05,931
+- Você tem um scanner?
+- Tem um scanner.
+
+91
+00:11:05,932 --> 00:11:07,496
+Ali.
+Na mesa.
+
+92
+00:11:09,835 --> 00:11:11,135
+Isso.
+
+93
+00:11:26,243 --> 00:11:27,543
+Feliz?
+
+94
+00:11:28,124 --> 00:11:29,615
+Meu nome é Dixon.
+
+95
+00:11:30,221 --> 00:11:31,573
+Abby Dixon.
+
+96
+00:11:32,538 --> 00:11:33,839
+Como chegou aqui?
+
+97
+00:11:33,840 --> 00:11:36,526
+Eu fui deixada por
+um tri-cóptero da companhia.
+
+98
+00:11:37,372 --> 00:11:38,672
+Só você?
+
+99
+00:11:39,091 --> 00:11:40,392
+Sim.
+
+100
+00:11:40,393 --> 00:11:41,966
+- Só você.
+- Só eu.
+
+101
+00:11:43,371 --> 00:11:45,867
+Só vou ficar aqui
+até consertar.
+
+102
+00:11:48,387 --> 00:11:49,687
+Quem é você?
+
+103
+00:11:50,519 --> 00:11:51,880
+O Zek ou o Robinson?
+
+104
+00:11:54,076 --> 00:11:56,151
+Robinson.
+Eu sou o Robinson.
+
+105
+00:11:56,830 --> 00:11:58,131
+Isso.
+
+106
+00:11:58,132 --> 00:11:59,532
+Você quase me deu
+um infarto.
+
+107
+00:12:00,394 --> 00:12:02,558
+Fazendo barulhos
+no corredor.
+
+108
+00:12:03,066 --> 00:12:05,193
+Não ensinam a bater
+no QG da Auxilisun?
+
+109
+00:12:05,194 --> 00:12:06,494
+Cadê o Dr. Zek?
+
+110
+00:12:07,407 --> 00:12:10,222
+- Ele saiu.
+- Saiu? Para onde?
+
+111
+00:12:11,352 --> 00:12:12,745
+Fazer pesquisas.
+
+112
+00:12:13,386 --> 00:12:15,206
+No deserto.
+Não sei.
+
+113
+00:12:15,761 --> 00:12:17,061
+Não é meu trabalho.
+
+114
+00:12:18,429 --> 00:12:20,725
+- Quando ele voltará?
+- Ele não disse.
+
+115
+00:12:21,166 --> 00:12:22,466
+Ele levou o buggy.
+
+116
+00:12:27,680 --> 00:12:28,992
+O que é isso?
+
+117
+00:12:28,993 --> 00:12:30,948
+Não é nada.
+Tenho tudo sob controle.
+
+118
+00:12:31,924 --> 00:12:34,653
+Como não é nada?
+Obviamente é alguma coisa.
+
+119
+00:12:34,654 --> 00:12:35,954
+Não é.
+
+120
+00:12:36,766 --> 00:12:38,458
+Do que está falando?
+
+121
+00:12:40,343 --> 00:12:45,004
+Aqui diz,
+"Código de erro 8627B."
+
+122
+00:12:45,005 --> 00:12:47,192
+O que isso quer dizer?
+Qual o procedimento?
+
+123
+00:12:48,678 --> 00:12:51,154
+O procedimento é:
+você precisa relaxar.
+
+124
+00:12:51,155 --> 00:12:53,725
+Certo, isso não é piada.
+
+125
+00:12:54,141 --> 00:12:56,328
+Esta é uma instalação
+sofisticada,
+
+126
+00:12:56,329 --> 00:12:59,030
+estou aqui para avaliar
+a falha de comunicação
+
+127
+00:12:59,031 --> 00:13:01,291
+e isso potencialmente
+pode ser uma falha...
+
+128
+00:13:06,667 --> 00:13:08,852
+Eu puxei a alavanca.
+Você me viu puxá-la?
+
+129
+00:13:09,982 --> 00:13:11,731
+Ela reinicia o sistema.
+
+130
+00:13:12,441 --> 00:13:13,867
+Sim.
+
+131
+00:13:13,868 --> 00:13:15,760
+Faz as luzes vermelhas
+ficarem verdes.
+
+132
+00:13:17,230 --> 00:13:18,900
+Eu disse
+que estava sob controle.
+
+133
+00:13:26,400 --> 00:13:28,803
+Pode ao menos me mostrar
+meu quarto?
+
+134
+00:13:32,292 --> 00:13:33,592
+Eu não estava...
+
+135
+00:13:34,321 --> 00:13:36,176
+esperando convidados.
+
+136
+00:13:38,453 --> 00:13:40,518
+Tenho certeza que amará
+suas acomodações.
+
+137
+00:13:48,796 --> 00:13:50,096
+Certo.
+
+138
+00:13:52,512 --> 00:13:53,812
+Geral.
+
+139
+00:13:55,520 --> 00:13:56,820
+Área comum.
+
+140
+00:13:58,363 --> 00:14:01,038
+Cozinha, obviamente, e...
+
+141
+00:14:01,552 --> 00:14:04,809
+Lá em cima é o solário.
+
+142
+00:14:05,221 --> 00:14:07,170
+Parece não ser muito usado.
+
+143
+00:14:07,777 --> 00:14:09,113
+Não.
+
+144
+00:14:09,114 --> 00:14:11,225
+Não sou muito
+de me bronzear.
+
+145
+00:14:12,100 --> 00:14:15,084
+Mas essa não é a função dela.
+Os solários foram feitos...
+
+146
+00:14:15,085 --> 00:14:17,635
+Para fornecer
+uma quantidade de raios UV
+
+147
+00:14:17,636 --> 00:14:18,967
+para manter sua mente sã.
+
+148
+00:14:18,968 --> 00:14:20,622
+Minha saúde mental está bem.
+
+149
+00:14:20,623 --> 00:14:23,601
+- Essa é a enfermaria?
+- Sim, você é seu médico.
+
+150
+00:14:23,602 --> 00:14:25,714
+É meio engraçado.
+Então...
+
+151
+00:14:25,715 --> 00:14:27,015
+Aqui...
+
+152
+00:14:28,068 --> 00:14:30,172
+Sim, aqui está.
+Quarto de hóspedes.
+
+153
+00:14:30,173 --> 00:14:31,676
+Não é grande coisa, mas...
+
+154
+00:14:32,405 --> 00:14:34,596
+A camareira vem às 10h
+para limpar tudo.
+
+155
+00:14:39,130 --> 00:14:40,430
+Feliz Natal.
+
+156
+00:14:54,130 --> 00:14:56,130
+CARGA: 17 MESES
+
+157
+00:15:44,520 --> 00:15:45,867
+Robinson?
+
+158
+00:15:59,208 --> 00:16:00,520
+Robinson?
+
+159
+00:16:08,675 --> 00:16:09,975
+Robinson.
+
+160
+00:16:21,496 --> 00:16:22,796
+Olá.
+
+161
+00:16:30,411 --> 00:16:33,552
+Não percebi que seria
+uma ocasião formal.
+
+162
+00:16:33,553 --> 00:16:35,676
+Teria feito a barba.
+
+163
+00:16:35,677 --> 00:16:37,735
+Caso precise te encontrar
+na instalação.
+
+164
+00:16:37,736 --> 00:16:39,318
+Não precisa disto.
+
+165
+00:16:39,950 --> 00:16:41,584
+Você nunca está muito longe.
+
+166
+00:16:44,378 --> 00:16:45,790
+Então...
+
+167
+00:16:45,791 --> 00:16:48,033
+Foi isso que você veio ver,
+não é?
+
+168
+00:17:06,348 --> 00:17:07,648
+Qual o problema?
+
+169
+00:17:13,165 --> 00:17:15,916
+Adorei nossa conversa.
+
+170
+00:17:15,917 --> 00:17:18,031
+Estava me sentindo só
+antes de você chegar.
+
+171
+00:17:18,032 --> 00:17:20,434
+Você é um sopro de ar fresco.
+
+172
+00:17:20,435 --> 00:17:21,971
+Não estou aqui
+para conversar.
+
+173
+00:17:22,322 --> 00:17:24,103
+Estou para consertar
+sua instalação.
+
+174
+00:17:24,668 --> 00:17:25,968
+Sim.
+
+175
+00:17:30,121 --> 00:17:31,421
+O que é isso?
+
+176
+00:17:33,428 --> 00:17:35,037
+Unidade de comunicação
+universal.
+
+177
+00:17:36,394 --> 00:17:39,679
+O nervo central de toda
+nossa matriz de comunicação.
+
+178
+00:17:40,414 --> 00:17:42,971
+- Como não sabe disso?
+- Isso é um dinossauro.
+
+179
+00:17:43,656 --> 00:17:45,998
+Como tudo por aqui.
+
+180
+00:17:47,078 --> 00:17:49,314
+Deserto de Gibson Norte
+não é um dinossauro.
+
+181
+00:17:49,315 --> 00:17:52,487
+É o protótipo no qual
+toda nossa empresa se sustenta.
+
+182
+00:17:53,211 --> 00:17:55,093
+E nossa maior conquista.
+
+183
+00:17:57,728 --> 00:17:59,613
+Isso é um pouco triste.
+
+184
+00:18:12,870 --> 00:18:14,170
+E aí?
+
+185
+00:18:17,685 --> 00:18:18,985
+Desculpe.
+
+186
+00:18:20,190 --> 00:18:21,490
+Consegue consertar?
+
+187
+00:18:24,366 --> 00:18:25,766
+Não há carga.
+
+188
+00:18:26,067 --> 00:18:27,367
+Tenho baterias.
+
+189
+00:18:28,810 --> 00:18:31,902
+Terei que fazer um diagnóstico
+na instalação inteira
+
+190
+00:18:31,903 --> 00:18:33,927
+para ver onde está
+a falha no sistema.
+
+191
+00:18:34,982 --> 00:18:36,885
+Diagnóstico?
+
+192
+00:18:36,886 --> 00:18:39,728
+Sim. Sim.
+
+193
+00:18:40,306 --> 00:18:43,332
+Pode me mostrar
+a sala de máquinas?
+
+194
+00:18:43,683 --> 00:18:44,983
+Claro.
+
+195
+00:18:48,016 --> 00:18:49,316
+Agora.
+
+196
+00:18:51,638 --> 00:18:53,637
+Por favor,
+não toque no violão.
+
+197
+00:19:03,408 --> 00:19:05,287
+Em que departamento
+você trabalha?
+
+198
+00:19:06,076 --> 00:19:08,571
+Não trabalho em nenhum
+específico.
+
+199
+00:19:08,572 --> 00:19:10,018
+Fico no QG.
+
+200
+00:19:10,459 --> 00:19:14,358
+Então você não sabe nada
+sobre a PPS.
+
+201
+00:19:14,359 --> 00:19:17,100
+Psicose da Privação Sensorial.
+
+202
+00:19:17,101 --> 00:19:18,568
+Eu que inventei.
+
+203
+00:19:18,569 --> 00:19:20,054
+O que é?
+
+204
+00:19:20,599 --> 00:19:23,715
+Quando se passa
+muito tempo sozinho
+
+205
+00:19:23,716 --> 00:19:25,728
+num lugar como esse...
+
+206
+00:19:25,729 --> 00:19:27,290
+sem janelas...
+
+207
+00:19:27,291 --> 00:19:28,865
+se fica um pouco...
+
+208
+00:19:28,866 --> 00:19:31,596
+Se fica um pouco paranoico.
+
+209
+00:19:31,597 --> 00:19:35,566
+Por isso todos os empregados
+fazem um exame psicológico
+
+210
+00:19:35,567 --> 00:19:37,931
+- antes da admissão.
+- É verdade.
+
+211
+00:19:40,098 --> 00:19:41,763
+Mas não é tão simples.
+
+212
+00:19:42,352 --> 00:19:44,786
+Quando você disse
+que o Dr. Zek estaria de volta?
+
+213
+00:19:44,787 --> 00:19:46,130
+Eu não disse.
+
+214
+00:19:46,945 --> 00:19:49,787
+Você precisa saber algo
+sobre o roteiro dele.
+
+215
+00:19:50,310 --> 00:19:53,933
+Não. Ele trabalha em uma área
+diferente das instalações,
+
+216
+00:19:53,934 --> 00:19:56,842
+atrás de uma porta trancada.
+Ele é quem tem especialização.
+
+217
+00:19:56,843 --> 00:19:58,926
+Só fico fora do caminho
+e limpo o lixo.
+
+218
+00:19:58,927 --> 00:20:01,214
+Ele entra e sai
+quando quiser?
+
+219
+00:20:01,215 --> 00:20:04,073
+Ele quem é o chefe.
+Não sou a mãe dele.
+
+220
+00:20:04,074 --> 00:20:06,098
+Não é o que eu quis dizer...
+
+221
+00:20:08,461 --> 00:20:11,372
+- Estamos quase chegando.
+- O laboratório dele é por aqui?
+
+222
+00:20:11,373 --> 00:20:13,000
+Sim, é no final do corredor.
+
+223
+00:20:15,237 --> 00:20:17,178
+Você terá uma chance
+
+224
+00:20:17,278 --> 00:20:20,513
+de ver os experimentos
+científicos malucos
+
+225
+00:20:20,514 --> 00:20:22,555
+do Dr. Zek bem de perto.
+
+226
+00:20:22,556 --> 00:20:24,159
+Eu li os relatórios dele.
+
+227
+00:20:24,160 --> 00:20:25,846
+Não há algo
+no trabalho do Dr. Zek
+
+228
+00:20:25,847 --> 00:20:28,220
+que seja fora
+dos parâmetros da companhia.
+
+229
+00:20:28,221 --> 00:20:29,586
+É mesmo?
+
+230
+00:20:30,795 --> 00:20:32,897
+Por que ele faz tudo
+com a porta trancada?
+
+231
+00:20:32,898 --> 00:20:34,294
+Ele nunca me deixa entrar.
+
+232
+00:20:34,295 --> 00:20:36,735
+Você está criando
+uma fantasia.
+
+233
+00:20:36,736 --> 00:20:39,252
+É essa a psicose de isolamento
+que estava dizendo?
+
+234
+00:20:39,253 --> 00:20:40,629
+Não.
+
+235
+00:20:40,630 --> 00:20:43,140
+Bem... Talvez.
+
+236
+00:20:44,397 --> 00:20:46,267
+Olhe o laboratório.
+
+237
+00:20:46,268 --> 00:20:48,070
+Vai te matar de tédio.
+
+238
+00:20:54,091 --> 00:20:55,947
+Só não toque em nada.
+
+239
+00:21:19,552 --> 00:21:23,280
+Isso...
+é algo.
+
+240
+00:21:29,020 --> 00:21:31,103
+É aqui onde ele guarda
+toda a merda?
+
+241
+00:21:31,970 --> 00:21:33,405
+A merda?
+
+242
+00:21:34,176 --> 00:21:35,705
+Merda nuclear.
+
+243
+00:21:37,976 --> 00:21:40,627
+Não, o resto é mantido
+na Câmara Profunda.
+
+244
+00:21:40,628 --> 00:21:42,068
+Atrás daquelas portas.
+
+245
+00:21:42,069 --> 00:21:43,805
+Acha esse lugar impressionante?
+
+246
+00:21:43,806 --> 00:21:46,052
+A Câmara Profunda
+é 10 vezes maior.
+
+247
+00:21:46,053 --> 00:21:47,387
+O que é isso, então?
+
+248
+00:21:47,897 --> 00:21:49,686
+O sistema de resfriamento.
+
+249
+00:21:50,386 --> 00:21:54,603
+Um ventilador feito
+para durar 200.000 anos.
+
+250
+00:21:55,356 --> 00:21:57,773
+Mas não é nada
+comparado a isso.
+
+251
+00:21:58,194 --> 00:22:02,461
+Esse é o verdadeiro segredo
+de sucesso da Auxilisun.
+
+252
+00:22:02,826 --> 00:22:05,019
+O motor de tri-fissão.
+
+253
+00:22:05,020 --> 00:22:08,436
+Extrai a energia da queda
+radioativa na Câmara Profunda
+
+254
+00:22:08,437 --> 00:22:09,912
+e alimenta os ventiladores.
+
+255
+00:22:09,913 --> 00:22:11,348
+Eu deveria ter acesso.
+
+256
+00:22:11,349 --> 00:22:14,345
+Se esse ventilador quebrar,
+adivinha quem tem que consertar?
+
+257
+00:22:14,346 --> 00:22:15,762
+Isso é impossível.
+
+258
+00:22:17,446 --> 00:22:19,733
+Se os dois ventiladores pararem,
+
+259
+00:22:19,734 --> 00:22:21,837
+esse lugar se encheria de gás
+tão rápido
+
+260
+00:22:21,838 --> 00:22:25,037
+que seria como o pavio
+de uma dinamite nuclear.
+
+261
+00:22:25,655 --> 00:22:29,597
+Nunca, nenhum ventilador quebrou
+na história da Auxilisun.
+
+262
+00:22:29,598 --> 00:22:31,173
+É um projeto brilhante.
+
+263
+00:22:31,777 --> 00:22:35,372
+Por que o único acesso
+é por essa portinha de cachorro?
+
+264
+00:22:35,747 --> 00:22:38,272
+Robóticas são as únicas coisas
+que podem consertar
+
+265
+00:22:38,273 --> 00:22:39,659
+um motor de tri-fissão.
+
+266
+00:22:39,979 --> 00:22:41,507
+Mesmo com traje especial,
+
+267
+00:22:41,508 --> 00:22:44,019
+há tanta radiação
+que você morreria em 48 horas.
+
+268
+00:22:44,020 --> 00:22:45,339
+Você deveria saber disso.
+
+269
+00:22:46,252 --> 00:22:47,633
+Onde é o outro ventilador?
+
+270
+00:22:48,510 --> 00:22:50,160
+No fundo da Câmara Profunda.
+
+271
+00:22:51,558 --> 00:22:52,976
+Em que parte das instalações
+
+272
+00:22:52,977 --> 00:22:56,176
+precisa de um "bilhete dourado"
+para conseguir acessar?
+
+273
+00:23:01,725 --> 00:23:03,850
+- Só estou olhando.
+- Tudo bem.
+
+274
+00:23:04,290 --> 00:23:08,601
+Você precisa de acesso nível 14
+para entrar na Câmara Profunda.
+
+275
+00:23:09,173 --> 00:23:12,342
+Você é tipo nível 18?
+
+276
+00:23:14,230 --> 00:23:17,747
+Quando eles passam o scanner
+nós recebemos pacotes básicos.
+
+277
+00:23:17,748 --> 00:23:21,349
+Sabe,
+escritório, quarto.
+
+278
+00:23:22,192 --> 00:23:24,112
+Droga.
+Consertou os comunicadores?
+
+279
+00:23:24,113 --> 00:23:25,422
+Não.
+
+280
+00:23:26,960 --> 00:23:29,871
+Todos os fusíveis e cabeamento
+estão intactos,
+
+281
+00:23:29,872 --> 00:23:33,449
+então o problema deve ser
+em algum lugar entre aqui e ali.
+
+282
+00:23:34,993 --> 00:23:36,751
+Vai me mostrar
+a Câmara Profunda?
+
+283
+00:23:37,730 --> 00:23:39,030
+Não.
+
+284
+00:23:39,459 --> 00:23:42,179
+Ninguém desce
+na Câmara Profunda.
+
+285
+00:23:43,501 --> 00:23:44,856
+Dr. Zek.
+
+286
+00:23:45,658 --> 00:23:47,603
+Ele desce
+na Câmara Profunda.
+
+287
+00:23:49,054 --> 00:23:51,561
+- Está enganado.
+- Escuto ele aqui o tempo todo.
+
+288
+00:23:51,562 --> 00:23:54,526
+Sempre que ele abre a porta,
+ecoa em toda a instalação.
+
+289
+00:23:55,527 --> 00:23:56,915
+Você está errado.
+
+290
+00:23:57,848 --> 00:24:00,856
+- Acha que inventei?
+- Não, acho que está confuso.
+
+291
+00:24:00,857 --> 00:24:04,350
+Dr. Zek nem tem acesso digital
+a Câmara Profunda.
+
+292
+00:24:06,938 --> 00:24:08,238
+Tem certeza?
+
+293
+00:24:31,671 --> 00:24:32,971
+Robinson?
+
+294
+00:24:36,526 --> 00:24:38,929
+Jesus! Robinson!
+
+295
+00:24:40,580 --> 00:24:42,227
+- Robinson!
+- O quê...
+
+296
+00:24:42,546 --> 00:24:44,530
+- O quê?
+- Você está bem?
+
+297
+00:24:44,854 --> 00:24:46,416
+- Você me bateu.
+- Desculpa.
+
+298
+00:24:46,417 --> 00:24:48,601
+- Só caí.
+- O que houve?
+
+299
+00:24:49,587 --> 00:24:51,347
+Foi só um longo dia,
+sabe?
+
+300
+00:24:51,348 --> 00:24:53,022
+Talvez eu precise
+de uma soneca.
+
+301
+00:24:53,545 --> 00:24:55,868
+Costuma desmaiar
+quando está cansado?
+
+302
+00:24:55,869 --> 00:24:58,038
+Não cheguei a desmaiar.
+
+303
+00:24:58,039 --> 00:25:01,444
+Só tive um momento de...
+o que está fazendo?
+
+304
+00:25:01,445 --> 00:25:03,593
+Quando foi a última vez
+que fez um exame?
+
+305
+00:25:03,594 --> 00:25:06,065
+Não preciso
+de um exame médico.
+
+306
+00:25:17,004 --> 00:25:18,503
+Abby Dixon.
+
+307
+00:25:18,504 --> 00:25:20,670
+Entrada 002.
+
+308
+00:25:20,671 --> 00:25:23,629
+Cheguei nessa manhã
+para encontrar o Dr. Darius Zek,
+
+309
+00:25:23,630 --> 00:25:26,432
+o chefe executivo cientifico,
+que está ausente,
+
+310
+00:25:26,433 --> 00:25:28,329
+mapeando a área ao redor.
+
+311
+00:25:28,330 --> 00:25:30,060
+Mas não está confirmado.
+
+312
+00:25:30,061 --> 00:25:32,541
+O zelador da instalação,
+Robinson Scott,
+
+313
+00:25:33,058 --> 00:25:34,552
+não foi cooperativo.
+
+314
+00:25:34,553 --> 00:25:36,002
+Ainda sem comunicações,
+
+315
+00:25:36,003 --> 00:25:39,089
+a análise preliminar do porquê,
+foi inconclusiva.
+
+316
+00:25:39,518 --> 00:25:43,124
+Nunca tinha visto
+uma instalação Auxilisun assim.
+
+317
+00:25:43,125 --> 00:25:45,796
+É... negligente.
+
+318
+00:25:45,797 --> 00:25:48,440
+E Robinson Scott...
+
+319
+00:25:49,488 --> 00:25:51,270
+Não sei quem o contratou,
+mas...
+
+320
+00:27:12,045 --> 00:27:13,492
+Me desculpe.
+
+321
+00:27:36,637 --> 00:27:37,937
+Oi.
+
+322
+00:27:39,609 --> 00:27:40,909
+Aquela fechadura engana.
+
+323
+00:27:41,632 --> 00:27:42,932
+Foi mal por aquilo.
+
+324
+00:27:44,321 --> 00:27:45,636
+Dá para arrumar?
+
+325
+00:27:47,214 --> 00:27:50,395
+Bom, nem precisa, né.
+
+326
+00:27:51,032 --> 00:27:53,074
+Não cometerei esse erro
+novamente.
+
+327
+00:27:53,569 --> 00:27:55,290
+É não costumo
+receber visitas.
+
+328
+00:28:04,058 --> 00:28:05,564
+Leva aquilo a todo canto,
+não?
+
+329
+00:28:06,620 --> 00:28:08,533
+Ouvi você falando nisso
+ontem à noite.
+
+330
+00:28:08,846 --> 00:28:11,613
+As paredes são bem finas.
+
+331
+00:28:14,967 --> 00:28:16,363
+Eu coleto informações,
+
+332
+00:28:17,673 --> 00:28:19,261
+e retransmito
+para a Auxilisun.
+
+333
+00:28:19,262 --> 00:28:21,285
+Esse é o meu trabalho,
+é o protocolo.
+
+334
+00:28:23,782 --> 00:28:25,507
+O Dr. Zek já voltou?
+
+335
+00:28:26,255 --> 00:28:27,754
+Não.
+
+336
+00:28:27,755 --> 00:28:30,250
+É normal ele ficar fora
+a noite toda?
+
+337
+00:28:31,801 --> 00:28:33,101
+Claro.
+
+338
+00:28:36,902 --> 00:28:39,563
+- Macchiato.
+- Para mim não.
+
+339
+00:28:40,088 --> 00:28:43,493
+É o melhor macchiato do mundo,
+tem que experimentar.
+
+340
+00:28:46,232 --> 00:28:47,532
+Está quente.
+
+341
+00:28:49,653 --> 00:28:51,572
+- Açúcar?
+- Não.
+
+342
+00:28:52,610 --> 00:28:53,910
+Estou satisfeita.
+
+343
+00:28:54,426 --> 00:28:56,025
+Deixe o dela aí.
+
+344
+00:28:56,026 --> 00:28:57,326
+Farei um pra mim.
+
+345
+00:29:00,132 --> 00:29:03,687
+Eu quero fazer
+um exame médico em você.
+
+346
+00:29:03,688 --> 00:29:05,312
+- Exame... não.
+- Ontem...
+
+347
+00:29:05,313 --> 00:29:07,686
+Aquilo ontem à noite
+não foi nada.
+
+348
+00:29:07,687 --> 00:29:10,875
+Não, pode ser algo sério.
+Toma.
+
+349
+00:29:20,909 --> 00:29:24,588
+É muita gentileza,
+mas estou bem.
+
+350
+00:29:25,543 --> 00:29:28,668
+Agora estou.
+Na juventude eu tive algo.
+
+351
+00:29:29,913 --> 00:29:31,213
+Meus rins.
+
+352
+00:29:32,040 --> 00:29:33,695
+Mas já passou.
+Estou bem.
+
+353
+00:29:34,547 --> 00:29:37,084
+Por causa da bebida?
+
+354
+00:29:38,098 --> 00:29:40,958
+Basicamente drogas.
+E umas bebidas.
+
+355
+00:29:40,959 --> 00:29:43,602
+Eu tenho uma irmã,
+Margot.
+
+356
+00:29:43,940 --> 00:29:47,250
+Ela tem...
+a sua idade.
+
+357
+00:29:48,346 --> 00:29:49,646
+Ela me deixou sóbrio.
+
+358
+00:29:50,448 --> 00:29:51,947
+Cuidou de mim.
+
+359
+00:29:51,948 --> 00:29:54,562
+Me deixou melhor.
+Me deixou limpo.
+
+360
+00:29:56,120 --> 00:29:57,968
+Todos desistiram.
+
+361
+00:29:59,137 --> 00:30:01,690
+Ela me ajudou.
+Estou bem.
+
+362
+00:30:03,057 --> 00:30:04,357
+Estou bem.
+
+363
+00:30:06,574 --> 00:30:07,874
+Já passou.
+
+364
+00:30:10,195 --> 00:30:11,555
+Não beba a água.
+
+365
+00:30:12,247 --> 00:30:13,547
+Não é boa.
+
+366
+00:30:18,092 --> 00:30:21,115
+Isso é bom. Adoro.
+Não quer o seu?
+
+367
+00:30:21,486 --> 00:30:22,985
+Fique à vontade.
+
+368
+00:30:22,986 --> 00:30:25,204
+Dois copos de café
+para mim.
+
+369
+00:30:25,205 --> 00:30:26,505
+Fica esperta.
+
+370
+00:30:27,747 --> 00:30:29,047
+Saúde.
+
+371
+00:30:36,428 --> 00:30:41,035
+Eu limpei a casa
+desse velho.
+
+372
+00:30:41,036 --> 00:30:43,734
+Fazíamos isso quando eram
+expulsos das casas deles.
+
+373
+00:30:43,735 --> 00:30:46,329
+Isso era algo
+que conseguia fazer
+
+374
+00:30:46,330 --> 00:30:48,913
+quando eu estava
+um pouco chapado, sabe?
+
+375
+00:30:48,914 --> 00:30:50,780
+Um trabalho fácil
+de fazer.
+
+376
+00:30:50,781 --> 00:30:52,470
+Então,
+limpei a casa desse cara,
+
+377
+00:30:52,471 --> 00:30:55,476
+juntando roupas, moveis e coisas
+que ele não precisava mais.
+
+378
+00:30:55,477 --> 00:30:59,757
+Daí eu olho num canto
+e tem um monte de CDs.
+
+379
+00:30:59,758 --> 00:31:02,080
+- Aí pensei: "Da hora."
+- Um monte de quê?
+
+380
+00:31:02,081 --> 00:31:05,521
+Ele tinha um monte de CDs,
+discos compactos.
+
+381
+00:31:05,522 --> 00:31:07,524
+Discos compactos.
+Sabe...
+
+382
+00:31:07,955 --> 00:31:10,559
+Tipo disquinhos musicais
+prateados.
+
+383
+00:31:10,560 --> 00:31:12,691
+Tipo as antigas
+músicas do século passado.
+
+384
+00:31:12,692 --> 00:31:14,909
+E tem uma coisa
+que meio que reconheço.
+
+385
+00:31:14,910 --> 00:31:17,246
+Tipo Oasis, lembra?
+
+386
+00:31:17,247 --> 00:31:19,104
+Shed Seven.
+
+387
+00:31:19,741 --> 00:31:21,309
+East 17.
+
+388
+00:31:21,310 --> 00:31:25,111
+E pensei em tocar música
+enquanto limpava.
+
+389
+00:31:25,112 --> 00:31:28,024
+Mexi nas músicas tipo
+"vou pegar isso, e isso".
+
+390
+00:31:28,025 --> 00:31:29,707
+E aí cai essa bolsa.
+
+391
+00:31:29,708 --> 00:31:33,080
+E penso "ele meio que
+escondeu isso aqui".
+
+392
+00:31:33,081 --> 00:31:35,377
+Essa carteirinha.
+O que tem dentro?
+
+393
+00:31:35,378 --> 00:31:37,653
+Eu nem sei tanto
+sobre música antiga.
+
+394
+00:31:37,654 --> 00:31:40,137
+Mas conheço
+um bocadinho sobre...
+
+395
+00:31:40,723 --> 00:31:42,631
+antigas drogas e tóxicos.
+
+396
+00:31:42,632 --> 00:31:45,113
+Aí, abro e vejo
+
+397
+00:31:45,114 --> 00:31:47,259
+esse cristal,
+essa pedra, sabe.
+
+398
+00:31:47,260 --> 00:31:50,069
+Tipo, "Olá!"
+Sabe o que era?
+
+399
+00:31:50,070 --> 00:31:52,221
+É uma pedra de craque.
+
+400
+00:31:52,222 --> 00:31:53,561
+Aí corro pela casa,
+
+401
+00:31:53,562 --> 00:31:55,674
+pra ter certeza que é
+seguro mexer nisso.
+
+402
+00:31:55,675 --> 00:31:59,038
+Preciso de um isqueiro,
+papel alumínio,
+
+403
+00:31:59,039 --> 00:32:01,690
+e, tipo,
+um tubo de vidro.
+
+404
+00:32:01,691 --> 00:32:04,098
+Aí arranjo tudo.
+E vou usar o bagulho.
+
+405
+00:32:04,099 --> 00:32:06,664
+Deixo tudo montado
+e boto um pouco de craque.
+
+406
+00:32:06,665 --> 00:32:09,181
+Boto no tubinho e...
+
+407
+00:32:09,182 --> 00:32:11,750
+Tenho que acender.
+Espero.
+
+408
+00:32:11,751 --> 00:32:15,738
+Nada. E estou falando
+de 2 ou 3 minutos.
+
+409
+00:32:15,739 --> 00:32:18,906
+Devia estar brisando já,
+brisando forte.
+
+410
+00:32:18,907 --> 00:32:21,835
+Nada. Achei que podia ser
+um craque mais fraco.
+
+411
+00:32:21,836 --> 00:32:24,668
+Aí pego mais um pouco,
+boto no vidrinho.
+
+412
+00:32:24,669 --> 00:32:26,985
+Pego o isqueiro,
+acendo de novo.
+
+413
+00:32:26,986 --> 00:32:30,001
+Nada. Acabei fumando
+a pedra toda de craque.
+
+414
+00:32:30,002 --> 00:32:33,549
+E é muito craque. Muito.
+Sem efeito.
+
+415
+00:32:33,550 --> 00:32:35,816
+Aí uns 20, 25 minutos depois,
+
+416
+00:32:35,817 --> 00:32:38,364
+vem essa dor de cabeça.
+
+417
+00:32:38,365 --> 00:32:41,334
+Parece que a cabeça
+encheu de cimento.
+
+418
+00:32:41,335 --> 00:32:43,273
+Fico meio enjoado.
+E quando percebi,
+
+419
+00:32:43,274 --> 00:32:45,956
+desmaiei na casa de alguém.
+
+420
+00:32:45,957 --> 00:32:48,253
+Nem era minha casa.
+Apaguei, assim.
+
+421
+00:32:48,254 --> 00:32:51,415
+E aí, o dono da casa,
+um bundão velho,
+
+422
+00:32:51,416 --> 00:32:54,630
+o dono do craque
+me acorda.
+
+423
+00:32:54,631 --> 00:32:57,596
+Aí me levanto
+e olho ao redor.
+
+424
+00:32:57,597 --> 00:32:59,765
+Tento disfarçar um pouco,
+mas ele viu.
+
+425
+00:32:59,766 --> 00:33:02,821
+Ele viu o que fiz.
+Viu a porra toda.
+
+426
+00:33:02,822 --> 00:33:04,402
+Sabe o que ele disse?
+
+427
+00:33:04,816 --> 00:33:08,998
+<i>"Minha avó
+trouxe isso em 1991.</i>
+
+428
+00:33:08,999 --> 00:33:11,818
+<i>Você fumou um pedaço
+do Muro de Berlim".</i>
+
+429
+00:33:15,136 --> 00:33:17,160
+Foi tudo para a cabeça, né?
+
+430
+00:33:17,161 --> 00:33:19,388
+Cara...
+Foi muito...
+
+431
+00:33:19,389 --> 00:33:22,372
+Tipo, eu fumei a história.
+
+432
+00:33:24,536 --> 00:33:27,110
+Fui ao hospital,
+fiquei uns dois dias lá.
+
+433
+00:33:27,111 --> 00:33:29,168
+Totalmente sozinho,
+mas aí...
+
+434
+00:33:29,169 --> 00:33:32,883
+Minha irmã apareceu
+e me deu um sermão.
+
+435
+00:33:32,884 --> 00:33:36,086
+"Limpe sua vida. Precisa mudar".
+Essas coisas.
+
+436
+00:33:36,087 --> 00:33:38,122
+Isso que me trouxe, sabe?
+
+437
+00:33:38,123 --> 00:33:40,155
+Ela...
+Ela e eu concordamos.
+
+438
+00:33:40,156 --> 00:33:41,773
+Que eu viesse, sabe?
+
+439
+00:33:42,321 --> 00:33:44,015
+E você?
+
+440
+00:33:44,545 --> 00:33:45,887
+Eu?
+
+441
+00:33:45,888 --> 00:33:48,736
+Sabe, família.
+Pessoas, amigos.
+
+442
+00:33:48,737 --> 00:33:51,399
+Não, não.
+Sem família.
+
+443
+00:33:51,924 --> 00:33:53,900
+Sem família?
+
+444
+00:33:53,901 --> 00:33:57,002
+É órfã,
+criada pela Auxilisun?
+
+445
+00:34:01,492 --> 00:34:03,141
+Não. Quer dizer...
+
+446
+00:34:03,142 --> 00:34:04,936
+Eu tenho um pai.
+
+447
+00:34:04,937 --> 00:34:07,059
+Mas, tecnicamente.
+
+448
+00:34:07,060 --> 00:34:08,540
+Não nos falamos.
+
+449
+00:34:09,520 --> 00:34:11,219
+O que é isso?
+
+450
+00:34:13,485 --> 00:34:15,473
+Estava tentando
+ser amigo.
+
+451
+00:34:17,706 --> 00:34:19,444
+Certo, e...
+
+452
+00:34:19,776 --> 00:34:22,172
+Nos feriados
+e no seu aniversário...
+
+453
+00:34:22,173 --> 00:34:25,475
+O que faz?
+Almoça sozinha?
+
+454
+00:34:25,476 --> 00:34:28,358
+Joga paciência?
+Dorme o dia todo?
+
+455
+00:34:32,311 --> 00:34:33,882
+Tenho amigos.
+
+456
+00:34:33,883 --> 00:34:35,333
+- Tem?
+- Tenho.
+
+457
+00:34:35,334 --> 00:34:37,016
+Estou cético.
+
+458
+00:34:37,017 --> 00:34:38,821
+Diga os nomes
+dos seus amigos.
+
+459
+00:34:38,822 --> 00:34:40,462
+Tesla e Jobs.
+
+460
+00:34:40,830 --> 00:34:44,006
+Que nomes são esses?
+Tipo, qual é.
+
+461
+00:34:45,677 --> 00:34:48,297
+- São meus cachorros.
+- Chamou eles assim?
+
+462
+00:34:48,298 --> 00:34:50,209
+Qual é.
+
+463
+00:34:50,210 --> 00:34:52,270
+Qual a raça?
+Os pequenos...
+
+464
+00:34:52,271 --> 00:34:55,247
+que só sabem latir
+e que cabem
+
+465
+00:34:55,248 --> 00:34:58,228
+- num pacote de açúcar?
+- Isso não faz sentido.
+
+466
+00:34:58,229 --> 00:35:01,060
+Os níveis de becquerel
+estão mais altos que o normal.
+
+467
+00:35:01,061 --> 00:35:03,120
+Acho que suas medidas
+estão ruins.
+
+468
+00:35:03,121 --> 00:35:06,849
+Ou alguém foi
+na Câmara Profunda.
+
+469
+00:35:09,136 --> 00:35:11,415
+- O quê?
+- Nem um ser humano,
+
+470
+00:35:11,416 --> 00:35:14,660
+ninguém,
+nem mesmo o Dr. Zek,
+
+471
+00:35:14,661 --> 00:35:16,436
+poderia gerar algo assim.
+
+472
+00:35:16,437 --> 00:35:18,012
+Tem que ser
+seu equipamento.
+
+473
+00:35:18,342 --> 00:35:20,313
+Não está calibrado.
+
+474
+00:35:20,922 --> 00:35:22,633
+Vou deixar você trabalhar.
+
+475
+00:35:23,871 --> 00:35:25,270
+Vai resolver isso.
+
+476
+00:35:58,456 --> 00:36:00,678
+Dr. Zek
+ainda está desaparecido.
+
+477
+00:36:01,289 --> 00:36:03,222
+Estou preocupada
+com sua segurança.
+
+478
+00:36:04,498 --> 00:36:07,221
+E tem...
+um problema.
+
+479
+00:36:08,039 --> 00:36:10,728
+Os dados mostram que
+a zona vermelha está crescendo,
+
+480
+00:36:10,729 --> 00:36:12,571
+o que sei não ser possível.
+
+481
+00:36:12,572 --> 00:36:14,006
+Deve ser um...
+
+482
+00:36:14,007 --> 00:36:16,435
+erro de leitura
+do equipamento.
+
+483
+00:36:16,436 --> 00:36:19,694
+Robinson não tem
+as habilidades que esperava.
+
+484
+00:36:21,524 --> 00:36:24,099
+Vou recalibrar tudo sozinha.
+
+485
+00:37:34,957 --> 00:37:37,091
+- O que você está olhando?
+- Jesus!
+
+486
+00:37:37,832 --> 00:37:39,159
+Desculpa.
+
+487
+00:37:40,830 --> 00:37:43,364
+Estava indo ao telhado,
+dar umas tacadas.
+
+488
+00:37:43,365 --> 00:37:46,433
+Pensei ter visto um homem
+no deserto.
+
+489
+00:37:50,005 --> 00:37:51,305
+Posso?
+
+490
+00:37:52,908 --> 00:37:54,208
+Claro.
+
+491
+00:38:05,254 --> 00:38:08,089
+Humm, não vejo nada.
+
+492
+00:38:08,090 --> 00:38:10,057
+E se for Zek?
+
+493
+00:38:12,094 --> 00:38:14,829
+E se...
+E se ele está lá fora...
+
+494
+00:38:14,830 --> 00:38:16,497
+Se ele está ferido...
+
+495
+00:38:16,498 --> 00:38:18,565
+E precisa da nossa ajuda?
+
+496
+00:38:23,505 --> 00:38:26,039
+Não acho que Zek volte.
+
+497
+00:38:26,942 --> 00:38:29,309
+Ele se foi há quatro dias.
+
+498
+00:38:31,647 --> 00:38:33,014
+Não.
+
+499
+00:38:33,015 --> 00:38:34,983
+Você disse que ele
+partiu ontem.
+
+500
+00:38:34,984 --> 00:38:37,084
+Eu não disse isso.
+
+501
+00:38:40,422 --> 00:38:42,456
+O que não está me dizendo?
+
+502
+00:38:43,659 --> 00:38:45,425
+Ele meio que pirou.
+
+503
+00:38:46,328 --> 00:38:48,963
+Privação sensorial psicótica.
+
+504
+00:38:48,964 --> 00:38:50,531
+Coisa séria.
+
+505
+00:38:50,532 --> 00:38:53,001
+Não sei se foi o isolamento
+
+506
+00:38:53,002 --> 00:38:56,084
+ou os testes que ele
+estava fazendo.
+
+507
+00:38:56,085 --> 00:38:58,840
+Talvez tenha sido exposto
+à radiação na Câmara Profunda.
+
+508
+00:38:58,841 --> 00:39:02,542
+Mas, você sabe,
+ele... meio que...
+
+509
+00:39:03,646 --> 00:39:06,079
+E então na última noite
+antes...
+
+510
+00:39:07,449 --> 00:39:09,984
+Sabe, vou dar umas tacadas
+lá no telhado.
+
+511
+00:39:09,985 --> 00:39:11,819
+Não, escute.
+
+512
+00:39:12,321 --> 00:39:15,088
+As linhas de força foram
+intencionalmente cortadas.
+
+513
+00:39:15,991 --> 00:39:18,026
+Ele cortou?
+
+514
+00:39:18,027 --> 00:39:19,927
+Diga-me o que aconteceu.
+
+515
+00:39:22,364 --> 00:39:26,634
+Sabe, na maioria das vezes,
+
+516
+00:39:26,635 --> 00:39:29,037
+é só ignorá-lo.
+
+517
+00:39:29,038 --> 00:39:32,674
+Eu fico na sala de controle.
+Ele faz o que quer. Beleza.
+
+518
+00:39:32,675 --> 00:39:35,543
+E então, antes de partir,
+
+519
+00:39:35,544 --> 00:39:38,479
+ele estava... gritando.
+
+520
+00:39:38,480 --> 00:39:42,016
+Gritando no corredor.
+
+521
+00:39:42,017 --> 00:39:45,053
+Cada vez mais alto,
+mais alto. Para mim.
+
+522
+00:39:45,054 --> 00:39:48,122
+"Foi você, foi você.
+Você quebrou... você danificou."
+
+523
+00:39:48,123 --> 00:39:50,591
+"Você quebrou o ventilador.
+Você quebrou."
+
+524
+00:39:50,592 --> 00:39:53,728
+Ele ficava apontando para mim
+e me acusando e gritando.
+
+525
+00:39:53,729 --> 00:39:55,563
+Ele é um sujeito assustador.
+
+526
+00:39:55,564 --> 00:39:57,465
+E eu corri.
+
+527
+00:39:57,466 --> 00:39:59,968
+Corri e me escondi.
+
+528
+00:39:59,969 --> 00:40:03,037
+Eu ouvi as portas lá de cima.
+
+529
+00:40:03,038 --> 00:40:04,706
+Ele pegou o carrinho.
+
+530
+00:40:04,707 --> 00:40:06,741
+Eu não... quero dizer...
+
+531
+00:40:06,742 --> 00:40:10,078
+não sei como ele
+sobreviveria lá fora.
+
+532
+00:40:10,079 --> 00:40:13,448
+Quer dizer, estou dizendo,
+eu vi algo.
+
+533
+00:40:13,449 --> 00:40:15,483
+Sim, bem, sabe,
+
+534
+00:40:15,484 --> 00:40:17,517
+isso... isso poderia ser...
+
+535
+00:40:18,520 --> 00:40:20,087
+Esse lugar.
+
+536
+00:40:23,158 --> 00:40:25,092
+São as paredes.
+
+537
+00:40:25,627 --> 00:40:27,194
+Terra.
+
+538
+00:40:27,997 --> 00:40:29,463
+O ar...
+
+539
+00:40:31,567 --> 00:40:33,533
+Entra em você.
+
+540
+00:40:37,106 --> 00:40:39,374
+Como você está dormindo?
+
+541
+00:40:39,375 --> 00:40:41,174
+Você tem sonhado?
+
+542
+00:40:43,679 --> 00:40:45,746
+Você tem sonhado?
+
+543
+00:40:51,053 --> 00:40:54,322
+Você pode passar
+o tempo que quiser
+
+544
+00:40:54,323 --> 00:40:56,056
+naquele solário.
+
+545
+00:40:57,359 --> 00:40:59,493
+Mas fica dentro
+de sua mente.
+
+546
+00:41:04,266 --> 00:41:06,199
+Vou jogar golfe.
+
+547
+00:42:31,220 --> 00:42:32,620
+Robinson?
+
+548
+00:44:08,416 --> 00:44:09,949
+Robinson.
+
+549
+00:44:21,463 --> 00:44:23,663
+Robinson, é o Zek.
+
+550
+00:44:24,533 --> 00:44:26,866
+Consegue...
+Consegue me ouvir?
+
+551
+00:44:28,303 --> 00:44:29,669
+Abra a porta!
+
+552
+00:44:33,909 --> 00:44:36,710
+<i>Não sei se devo
+desabilitar a segurança.</i>
+
+553
+00:44:38,681 --> 00:44:43,016
+Nós dois vamos morrer se você
+não abrir esta porta agora!
+
+554
+00:45:07,409 --> 00:45:10,409
+Não sabemos seu estado
+de exposição à radiação.
+
+555
+00:45:11,713 --> 00:45:14,047
+Não temos tempo
+para discutir isso.
+
+556
+00:45:16,018 --> 00:45:17,617
+Ajude-me a movê-lo.
+
+557
+00:45:21,490 --> 00:45:24,659
+Vá para dentro. Eu pego ele.
+Acho que é um erro, Abby.
+
+558
+00:45:24,660 --> 00:45:26,860
+Vá para dentro.
+Vai! Vai!
+
+559
+00:45:39,942 --> 00:45:41,676
+Que diabos foi aquilo?
+
+560
+00:45:41,677 --> 00:45:44,745
+Estava apenas seguindo
+o protocolo de contaminação.
+
+561
+00:45:44,746 --> 00:45:46,547
+- É o Dr. Zek.
+- Você não sabe se é.
+
+562
+00:45:46,548 --> 00:45:48,850
+- Não sabe.
+- Quem mais poderia ser?
+
+563
+00:45:48,851 --> 00:45:52,319
+Estamos na zona vermelha,
+300 km da cidade mais próxima.
+
+564
+00:45:55,357 --> 00:45:56,657
+Bem?
+
+565
+00:45:56,658 --> 00:45:58,625
+Sim, é o Dr. Zek.
+
+566
+00:45:59,695 --> 00:46:02,063
+- Como ele está?
+- Pulsação está estável.
+
+567
+00:46:02,064 --> 00:46:03,698
+É isso?
+
+568
+00:46:03,699 --> 00:46:05,499
+Ele estava bem exposto lá fora.
+
+569
+00:46:05,500 --> 00:46:08,068
+- O que é isso?
+- Hexomorfona.
+
+570
+00:46:09,371 --> 00:46:11,072
+Deve ajudar a combater
+
+571
+00:46:11,073 --> 00:46:13,707
+os sintomas de intoxicação
+por radiação.
+
+572
+00:46:16,028 --> 00:46:17,661
+Ele não foi muito longe,
+não é?
+
+573
+00:46:18,408 --> 00:46:20,434
+Eu não sei.
+Talvez ele volte.
+
+574
+00:46:28,010 --> 00:46:29,635
+O que aconteceu com você?
+
+575
+00:46:39,860 --> 00:46:41,160
+O que é isso?
+
+576
+00:46:41,665 --> 00:46:43,718
+Precaução.
+Ele é perigoso, não é?
+
+577
+00:46:43,719 --> 00:46:45,755
+Ele está em coma.
+
+578
+00:46:45,756 --> 00:46:48,264
+Bem, você acordou
+de um coma.
+
+579
+00:46:48,834 --> 00:46:51,036
+- Certo.
+- Precisa de alguma ajuda?
+
+580
+00:46:51,037 --> 00:46:53,337
+Por que você não volta
+para a sala de controle?
+
+581
+00:46:53,338 --> 00:46:55,702
+É bom, sabe.
+Ele está de volta.
+
+582
+00:46:58,252 --> 00:46:59,552
+Isso é importante.
+
+583
+00:48:12,439 --> 00:48:14,139
+O que...
+
+584
+00:48:16,262 --> 00:48:17,562
+Você estava gritando.
+
+585
+00:48:18,382 --> 00:48:19,894
+Fiquei preocupado.
+
+586
+00:48:23,033 --> 00:48:24,564
+Foi só um pesadelo.
+
+587
+00:48:25,236 --> 00:48:26,536
+Sobre seu pai?
+
+588
+00:48:28,248 --> 00:48:29,753
+Você falou o nome dele.
+
+589
+00:48:32,743 --> 00:48:34,143
+É esse lugar.
+
+590
+00:48:34,144 --> 00:48:35,444
+Eu estou bem.
+
+591
+00:48:35,445 --> 00:48:36,845
+Poderia ter me enganado.
+
+592
+00:48:38,954 --> 00:48:41,790
+Meu pai eutanasiou minha avó
+quando eu tinha sete anos.
+
+593
+00:49:10,634 --> 00:49:12,284
+O ventilador não está
+funcionando.
+
+594
+00:49:12,285 --> 00:49:13,585
+Olhe, olhe!
+
+595
+00:49:13,586 --> 00:49:15,226
+Não, isso é impossível.
+
+596
+00:49:15,227 --> 00:49:17,834
+Reinicie o console. Todas
+as leituras foram apagadas.
+
+597
+00:49:17,835 --> 00:49:19,135
+Tenho certeza que é isso.
+
+598
+00:49:25,533 --> 00:49:28,157
+Aquilo ajudou, mas olhe.
+Ainda está...
+
+599
+00:49:28,158 --> 00:49:29,458
+Não está se movendo.
+
+600
+00:49:29,978 --> 00:49:31,278
+Certo.
+
+601
+00:49:32,147 --> 00:49:35,280
+Eu irei checar.
+Você só... fique aqui.
+
+602
+00:49:36,269 --> 00:49:37,569
+Certo.
+
+603
+00:51:00,439 --> 00:51:01,739
+O que aconteceu?
+
+604
+00:51:03,697 --> 00:51:05,449
+Você voltou lá?
+
+605
+00:51:05,985 --> 00:51:07,285
+O quê?
+
+606
+00:51:07,763 --> 00:51:09,063
+O ventilador.
+
+607
+00:51:09,655 --> 00:51:10,955
+Eu não posso.
+
+608
+00:51:12,965 --> 00:51:15,870
+Eu não tenho acesso.
+Lembra?
+
+609
+00:51:16,972 --> 00:51:18,675
+Do que está me acusando?
+
+610
+00:51:21,296 --> 00:51:22,596
+Desculpe-me.
+
+611
+00:51:24,343 --> 00:51:26,312
+Não é possível
+
+612
+00:51:26,313 --> 00:51:29,147
+a não ser que alguém tenha
+sabotado a sala de máquinas.
+
+613
+00:51:29,148 --> 00:51:31,373
+Apenas... não pode...
+não pode acontecer.
+
+614
+00:51:33,369 --> 00:51:35,412
+Eu preciso recuperar
+as comunicações.
+
+615
+00:51:35,877 --> 00:51:37,869
+Entre em contato com o QG
+de novo.
+
+616
+00:51:38,401 --> 00:51:40,165
+Isso está além de mim agora.
+
+617
+00:51:40,166 --> 00:51:43,040
+Certo, quão sério é?
+
+618
+00:51:43,041 --> 00:51:44,580
+Precisamos evacuar?
+
+619
+00:51:45,181 --> 00:51:47,829
+Não. Contanto que o outro
+ventilador funcione,
+
+620
+00:51:47,830 --> 00:51:50,572
+levará dias antes que os gases
+
+621
+00:51:50,573 --> 00:51:52,151
+se acumulem
+em níveis perigosos.
+
+622
+00:51:52,956 --> 00:51:54,256
+Zek.
+
+623
+00:51:57,102 --> 00:51:58,944
+Estamos passando
+
+624
+00:51:58,945 --> 00:52:00,740
+por um desligamento
+sem precedentes
+
+625
+00:52:00,741 --> 00:52:02,297
+da máquina e do ventilador.
+
+626
+00:52:02,298 --> 00:52:05,813
+Solicitando equipe de reparo
+de emergência imediatamente.
+
+627
+00:52:06,493 --> 00:52:09,012
+A razão para o desligamento
+é desconhecida.
+
+628
+00:52:10,783 --> 00:52:12,299
+Um ventilador quebrou.
+
+629
+00:52:13,755 --> 00:52:15,396
+Como isso faz sentido?
+
+630
+00:52:17,038 --> 00:52:18,838
+Com os sistemas da Auxilisun,
+
+631
+00:52:18,839 --> 00:52:20,939
+um ventilador não pode
+quebrar a não ser...
+
+632
+00:52:21,675 --> 00:52:23,496
+que alguém o sabote.
+
+633
+00:52:26,258 --> 00:52:27,558
+Desligando.
+
+634
+00:52:42,072 --> 00:52:43,665
+Não gosto que ele esteja aqui.
+
+635
+00:52:45,239 --> 00:52:46,739
+Ele está algemado.
+
+636
+00:52:47,622 --> 00:52:49,498
+Você não o conhece
+como eu conheço.
+
+637
+00:52:51,899 --> 00:52:54,234
+Por que não me deixa
+vigiá-lo por um tempo.
+
+638
+00:52:54,235 --> 00:52:56,205
+Não, eu consigo.
+
+639
+00:52:57,063 --> 00:52:58,618
+Você tem um trabalho
+para fazer.
+
+640
+00:52:58,619 --> 00:53:00,508
+Está sob controle.
+
+641
+00:53:02,101 --> 00:53:04,507
+Você não pode ficar
+aqui a noite toda vigiando-o.
+
+642
+00:53:05,883 --> 00:53:07,183
+Eu consigo.
+
+643
+00:53:12,887 --> 00:53:14,387
+Se ele acordar...
+
+644
+00:53:16,307 --> 00:53:17,807
+se ele se mover...
+
+645
+00:53:20,005 --> 00:53:21,305
+me chame.
+
+646
+00:54:12,477 --> 00:54:14,357
+- O quê...
+- Está tudo bem.
+
+647
+00:54:14,358 --> 00:54:15,658
+- O quê?
+- Está tudo bem.
+
+648
+00:54:16,676 --> 00:54:18,676
+O que é esse...
+O que é esse lugar?
+
+649
+00:54:18,677 --> 00:54:20,003
+Onde eu estou?
+
+650
+00:54:20,004 --> 00:54:22,317
+Você está na Auxilisun
+Deserto de Gibson Norte.
+
+651
+00:54:23,680 --> 00:54:26,241
+- Deserto de Gibson Norte?
+- Robinson. Ele acordou.
+
+652
+00:54:26,242 --> 00:54:27,542
+Robinson.
+
+653
+00:54:27,543 --> 00:54:28,843
+Robinson?
+
+654
+00:54:32,182 --> 00:54:33,482
+Certo.
+
+655
+00:54:33,483 --> 00:54:35,264
+- Certo?
+- Obrigado Deus.
+
+656
+00:54:37,037 --> 00:54:39,286
+O quê?
+Por que eu estou...
+
+657
+00:54:39,287 --> 00:54:43,395
+Sou Abby Dixon. Engenheira
+de instalações da Auxilisun.
+
+658
+00:54:43,396 --> 00:54:45,419
+Fui enviada para cá.
+
+659
+00:54:45,420 --> 00:54:47,403
+O que aconteceu comigo?
+
+660
+00:54:48,835 --> 00:54:52,395
+Apenas relaxe, e,
+te colocaremos à par de tudo.
+
+661
+00:54:53,186 --> 00:54:55,708
+Dr. Sale me disse
+para dizer "olá".
+
+662
+00:54:57,574 --> 00:54:59,274
+Dr. Jeffrey Sale?
+
+663
+00:54:59,275 --> 00:55:03,656
+Três anos nas aulas dele,
+e depois fui sua estagiária.
+
+664
+00:55:03,657 --> 00:55:06,718
+Ele arrumou minha primeira
+entrevista na Auxilisun.
+
+665
+00:55:07,414 --> 00:55:09,054
+Ele me disse
+para te dizer "oi".
+
+666
+00:55:10,304 --> 00:55:14,028
+Não nos falamos
+desde que cheguei aqui.
+
+667
+00:55:15,137 --> 00:55:16,792
+Jeffrey e eu
+nos graduamos juntos.
+
+668
+00:55:16,793 --> 00:55:18,394
+Estava em sua festa
+de casamento.
+
+669
+00:55:20,198 --> 00:55:24,626
+Ele tinha muitas coisas boas
+para falar sobre você.
+
+670
+00:55:24,627 --> 00:55:26,056
+Ele as inventou então.
+
+671
+00:55:26,057 --> 00:55:28,118
+Bem, ele disse que
+
+672
+00:55:28,119 --> 00:55:32,038
+você é o mais brilhante
+cientista de contenção nuclear
+
+673
+00:55:32,039 --> 00:55:34,272
+que ele já teve o prazer
+de conhecer.
+
+674
+00:55:38,192 --> 00:55:39,492
+Aqui.
+
+675
+00:55:42,215 --> 00:55:43,515
+Olá.
+
+676
+00:55:44,031 --> 00:55:46,414
+- Obrigado, Robinson.
+- Não há de quê.
+
+677
+00:55:47,297 --> 00:55:48,609
+Como você se sente?
+
+678
+00:55:49,548 --> 00:55:50,907
+Para que serve isso?
+
+679
+00:55:51,517 --> 00:55:54,805
+Não lembra do que aconteceu
+na noite que você partiu?
+
+680
+00:55:54,806 --> 00:55:56,106
+Não me recordo.
+
+681
+00:55:56,743 --> 00:55:58,993
+- Você ficou um pouco louco.
+- Você teve um...
+
+682
+00:55:59,367 --> 00:56:00,766
+colapso nervoso.
+
+683
+00:56:04,127 --> 00:56:06,923
+Essa é, infelizmente, a razão
+de você estar algemado.
+
+684
+00:56:06,924 --> 00:56:10,144
+Pela nossa segurança,
+mas principalmente pela sua.
+
+685
+00:56:11,391 --> 00:56:12,907
+- Obrigado.
+- Não há de quê.
+
+686
+00:56:12,908 --> 00:56:14,607
+Não me sinto bem.
+Irei deitar.
+
+687
+00:56:14,608 --> 00:56:16,173
+Certo.
+Relaxe.
+
+688
+00:56:17,763 --> 00:56:19,177
+Você tem um
+
+689
+00:56:19,178 --> 00:56:21,593
+kit de higiene pessoal?
+
+690
+00:56:22,734 --> 00:56:24,140
+Eu só acho...
+
+691
+00:56:24,554 --> 00:56:26,389
+que faria o Dr. Zek
+se sentir melhor
+
+692
+00:56:26,390 --> 00:56:29,414
+em não ter uma semana inteira
+de poeira por cima dele.
+
+693
+00:56:31,114 --> 00:56:33,810
+- Quer que eu vá buscar?
+- Ficarei bem.
+
+694
+00:56:34,365 --> 00:56:35,665
+2 minutos.
+
+695
+00:56:42,832 --> 00:56:44,132
+Dr. Zek?
+
+696
+00:56:45,724 --> 00:56:47,574
+Há algo que você
+não está me contando?
+
+697
+00:56:55,743 --> 00:56:57,043
+Venha aqui.
+
+698
+00:57:00,059 --> 00:57:02,417
+Eu tenho que saber
+se posso confiar em você.
+
+699
+00:57:02,418 --> 00:57:04,660
+Bem, é claro que você
+pode confiar em mim.
+
+700
+00:57:04,661 --> 00:57:06,479
+O filho do Dr. Jeffrey,
+fale-me dele.
+
+701
+00:57:06,480 --> 00:57:09,504
+Ele está nos seus 20 anos.
+
+702
+00:57:09,505 --> 00:57:10,981
+Ele acabou de casar.
+
+703
+00:57:10,982 --> 00:57:13,189
+Não o conheci pessoalmente,
+mas...
+
+704
+00:57:13,489 --> 00:57:15,090
+Conte-me a verdade
+
+705
+00:57:15,512 --> 00:57:18,435
+sobre o filho
+de Jeffrey Sale, agora.
+
+706
+00:57:20,017 --> 00:57:22,095
+Ele não é o verdadeiro
+filho do Dr. Sale.
+
+707
+00:57:23,145 --> 00:57:24,549
+A esposa dele estava grávida
+
+708
+00:57:24,550 --> 00:57:27,205
+quando ele a conheceu, não
+deveria dizer para ninguém.
+
+709
+00:57:27,206 --> 00:57:28,523
+Ninguém sabe disso.
+
+710
+00:57:28,524 --> 00:57:29,976
+Eu sei.
+
+711
+00:57:29,977 --> 00:57:31,927
+Exceto pessoas que valem
+a pena confiar.
+
+712
+00:57:35,323 --> 00:57:36,623
+Aquele homem...
+
+713
+00:57:37,420 --> 00:57:39,432
+não é Robinson Scott.
+
+714
+00:57:41,230 --> 00:57:42,530
+O quê?
+
+715
+00:57:42,531 --> 00:57:43,831
+Dr. Zek,
+
+716
+00:57:44,459 --> 00:57:46,157
+você agiu
+como se conhecesse ele.
+
+717
+00:57:47,177 --> 00:57:49,489
+Bem, eu precisei.
+Estou algemado aqui.
+
+718
+00:57:49,490 --> 00:57:51,802
+A razão pela qual não morri
+é porque você acha
+
+719
+00:57:51,803 --> 00:57:53,252
+que ele é Robinson Scott.
+
+720
+00:57:53,253 --> 00:57:54,553
+Certo, veja.
+
+721
+00:57:54,554 --> 00:57:56,638
+Estava em meu laboratório,
+sozinho.
+
+722
+00:57:56,639 --> 00:57:58,966
+Eu estava trabalhando.
+E houve uma brecha.
+
+723
+00:57:58,967 --> 00:58:00,998
+E Robinson,
+o verdadeiro Robinson Scott,
+
+724
+00:58:00,999 --> 00:58:02,333
+ele saiu para checar,
+
+725
+00:58:02,334 --> 00:58:04,098
+e ele foi subjugado
+por esse cara.
+
+726
+00:58:04,099 --> 00:58:06,436
+E então esse homem,
+me achou.
+
+727
+00:58:08,602 --> 00:58:10,181
+Eu deixei Robinson.
+
+728
+00:58:11,517 --> 00:58:13,080
+Então se ele não é
+
+729
+00:58:13,081 --> 00:58:14,381
+Robinson Scott,
+
+730
+00:58:14,382 --> 00:58:16,345
+então como essa pessoa
+entrou aqui?
+
+731
+00:58:16,346 --> 00:58:18,208
+Estamos no meio
+da zona vermelha.
+
+732
+00:58:18,209 --> 00:58:20,356
+Não faço ideia.
+Deve ter sido jogado aqui.
+
+733
+00:58:20,357 --> 00:58:21,808
+Não tenho certeza.
+Eu não sei.
+
+734
+00:58:21,809 --> 00:58:24,656
+Você sabe alguma coisa
+sobre o que ele quer?
+
+735
+00:58:25,120 --> 00:58:27,401
+Precisamos sair daqui.
+Não temos muito tempo.
+
+736
+00:58:28,452 --> 00:58:30,780
+Então quando é seu próximo
+transporte agendado?
+
+737
+00:58:31,373 --> 00:58:34,273
+Eu falei para eles
+que eu os contataria.
+
+738
+00:58:34,274 --> 00:58:36,567
+Merda. As comunicações
+ainda estão desligadas?
+
+739
+00:58:36,568 --> 00:58:39,179
+Sim, mas a antena
+no seu buggy.
+
+740
+00:58:39,180 --> 00:58:41,070
+Faço ligação direta,
+uso o comunicador
+
+741
+00:58:41,071 --> 00:58:42,371
+para ter um sinal.
+
+742
+00:58:42,372 --> 00:58:44,943
+Ótimo. Então você envia
+um pedido de ajuda Código 7,
+
+743
+00:58:44,944 --> 00:58:47,108
+mas não pode deixá-lo
+saber que você enviou.
+
+744
+00:58:47,483 --> 00:58:50,435
+Contanto que ele acredite
+que você não sabe a verdade,
+
+745
+00:58:50,436 --> 00:58:52,450
+ficaremos bem.
+Ficaremos.
+
+746
+00:58:52,451 --> 00:58:54,982
+E por que ele não iria
+simplesmente nos matar?
+
+747
+00:58:55,356 --> 00:58:57,023
+E ele ainda não tentou
+matá-la?
+
+748
+00:58:57,024 --> 00:58:58,539
+Ele precisa de você
+para algo.
+
+749
+00:59:01,488 --> 00:59:03,254
+Estou configurando
+meu rádio,
+
+750
+00:59:03,255 --> 00:59:05,182
+sintonizado
+na minha frequência
+
+751
+00:59:05,183 --> 00:59:07,850
+Então, enquanto eu sair,
+se ele voltar...
+
+752
+00:59:08,483 --> 00:59:10,405
+ouvirei tudo o que acontece.
+
+753
+00:59:10,406 --> 00:59:11,706
+Ótimo.
+Obrigado.
+
+754
+00:59:11,707 --> 00:59:13,340
+- Abby.
+- Sim?
+
+755
+00:59:14,519 --> 00:59:15,819
+Nós podemos fazer isso.
+
+756
+01:00:33,044 --> 01:00:36,718
+MAIS DOENTES SEM RESPOSTAS
+
+757
+01:00:42,629 --> 01:00:44,718
+<i>Abby, ele está aqui.</i>
+
+758
+01:00:44,719 --> 01:00:46,119
+<i>Ele está vindo.</i>
+
+759
+01:00:49,707 --> 01:00:51,007
+Certo.
+
+760
+01:00:51,410 --> 01:00:52,794
+Aqui vamos nós.
+
+761
+01:00:53,523 --> 01:00:54,823
+Onde?
+
+762
+01:00:55,314 --> 01:00:56,614
+Onde?
+
+763
+01:01:34,296 --> 01:01:35,841
+Nós temos um problema.
+
+764
+01:01:35,842 --> 01:01:38,127
+Robinson não é Robinson.
+
+765
+01:01:38,128 --> 01:01:39,528
+Alguém invadiu a instalação.
+
+766
+01:01:39,529 --> 01:01:41,896
+Por isso Dr. Zek
+tentou fugir.
+
+767
+01:01:42,291 --> 01:01:45,103
+Precisamos de ajuda
+imediatamente.
+
+768
+01:01:45,599 --> 01:01:47,425
+Deite-se.
+
+769
+01:01:48,335 --> 01:01:49,998
+Apenas deite sua cabeça.
+
+770
+01:01:53,707 --> 01:01:56,457
+Aqui.
+Deve se sentir melhor.
+
+771
+01:01:58,022 --> 01:02:00,295
+Tire essa sujeira
+do deserto de você.
+
+772
+01:02:14,863 --> 01:02:17,297
+Abaixe sua mão.
+
+773
+01:02:20,489 --> 01:02:23,644
+Preciso te manter algemado
+para sua segurança, Dr. Zek.
+
+774
+01:02:23,645 --> 01:02:25,152
+Eu sei.
+
+775
+01:02:25,153 --> 01:02:27,825
+Essas lâminas
+são incrivelmente afiadas.
+
+776
+01:02:31,030 --> 01:02:33,224
+Tente imaginar
+
+777
+01:02:33,225 --> 01:02:37,232
+que você está
+em um daqueles filmes antigos,
+
+778
+01:02:37,233 --> 01:02:38,823
+em uma barbearia.
+
+779
+01:02:46,101 --> 01:02:47,619
+Cadê a Abby?
+
+780
+01:02:48,319 --> 01:02:52,240
+Ela foi até meu laboratório
+pegar meu tablet.
+
+781
+01:02:53,817 --> 01:02:57,602
+Só vou...
+Parece que vai dar certo.
+
+782
+01:03:01,382 --> 01:03:06,218
+Vou precisar te abaixar
+um pouco.
+
+783
+01:03:06,751 --> 01:03:10,520
+Não consigo alcançar
+essas áreas mais difíceis.
+
+784
+01:03:10,521 --> 01:03:14,134
+- No meu pescoço não precisa.
+- <i>Relaxa.</i>
+
+785
+01:03:21,824 --> 01:03:23,384
+Relaxa.
+
+786
+01:03:23,385 --> 01:03:25,683
+- Robinson?
+- Estou terminando.
+
+787
+01:03:26,524 --> 01:03:28,583
+Muito melhor.
+Pronto.
+
+788
+01:03:28,584 --> 01:03:32,240
+Você ficou bem melhor.
+Aqui.
+
+789
+01:03:32,241 --> 01:03:34,241
+Esqueceu do meu tablet.
+
+790
+01:03:34,242 --> 01:03:36,776
+O laboratório estava bagunçado,
+não encontrei.
+
+791
+01:03:36,777 --> 01:03:39,059
+Precisará explicar melhor
+onde está.
+
+792
+01:03:39,060 --> 01:03:40,492
+Sim, claro.
+
+793
+01:03:47,436 --> 01:03:50,277
+- Dr. Zek, teve um dia e tanto.
+- Eu sei.
+
+794
+01:03:50,278 --> 01:03:52,231
+Talvez precise descansar.
+
+795
+01:03:52,232 --> 01:03:54,017
+- Não...
+- Darei isso para relaxar.
+
+796
+01:03:54,018 --> 01:03:55,324
+Eu não...
+
+797
+01:03:56,664 --> 01:03:59,775
+- Deite-o, Robinson.
+- Fique de olho nele.
+
+798
+01:04:05,401 --> 01:04:07,201
+Ele estava
+extremamente nervoso.
+
+799
+01:04:07,797 --> 01:04:09,505
+Parabéns por apagá-lo.
+
+800
+01:04:09,506 --> 01:04:13,308
+Só pensei que ficaríamos
+mais tranquilos
+
+801
+01:04:13,309 --> 01:04:15,493
+sabendo que ele foi drogado
+para dormir.
+
+802
+01:04:16,689 --> 01:04:18,472
+Ele parece
+não lembrar de nada.
+
+803
+01:04:18,473 --> 01:04:19,824
+Acredita nele?
+
+804
+01:04:21,199 --> 01:04:23,132
+Ele parece perigoso
+para você?
+
+805
+01:04:24,448 --> 01:04:25,847
+Bem...
+
+806
+01:04:27,302 --> 01:04:29,377
+As coisas nem sempre são
+o que parecem.
+
+807
+01:06:11,976 --> 01:06:13,318
+O que está havendo?
+
+808
+01:06:13,319 --> 01:06:15,725
+- Injetei para acordá-lo.
+- Cadê o cara?
+
+809
+01:06:15,726 --> 01:06:19,058
+Ele está dormindo. Temos que ir.
+Olhe para o outro lado.
+
+810
+01:06:19,059 --> 01:06:21,105
+- Enviou o sinal?
+- Ainda não.
+
+811
+01:06:21,106 --> 01:06:22,558
+É para lá que fomos.
+
+812
+01:06:23,684 --> 01:06:25,550
+Precisamos sair daqui.
+
+813
+01:06:26,931 --> 01:06:29,858
+Em 40 minutos chegarão aqui.
+Esperaremos lá fora.
+
+814
+01:06:29,859 --> 01:06:32,182
+- Certo. Vamos.
+- Tarde demais.
+
+815
+01:06:33,270 --> 01:06:34,810
+O que está fazendo,
+Abby?
+
+816
+01:06:35,527 --> 01:06:37,493
+Você não é Robinson Scott.
+
+817
+01:06:38,416 --> 01:06:39,716
+Do que está falando?
+
+818
+01:06:39,717 --> 01:06:41,050
+- Dr. Zek.
+- Parado!
+
+819
+01:06:41,051 --> 01:06:43,034
+- Dr. Zek me contou...
+- Abby.
+
+820
+01:06:43,035 --> 01:06:46,073
+O médico? Confia nele?
+É assim?
+
+821
+01:06:46,074 --> 01:06:50,334
+Diga a verdade.
+Diga a verdade para ela agora!
+
+822
+01:06:50,335 --> 01:06:52,060
+- O quê?
+- Os delírios de um louco.
+
+823
+01:06:52,061 --> 01:06:54,288
+Conte sobre o Deserto
+de Gibson Norte.
+
+824
+01:06:54,289 --> 01:06:56,727
+Sobre a joia da coroa
+da Auxilisun.
+
+825
+01:06:56,728 --> 01:06:58,153
+- O quê?
+- Conte para ela.
+
+826
+01:06:58,154 --> 01:07:00,641
+Não faço ideia
+do que está falando.
+
+827
+01:07:00,642 --> 01:07:03,380
+E quer arriscar nossas vidas,
+não é?
+
+828
+01:07:18,989 --> 01:07:21,617
+- Deixe-me ver.
+- Estou sangrando?
+
+829
+01:07:21,618 --> 01:07:24,626
+Parece que o laser cauterizou
+a ferida. Venha.
+
+830
+01:07:27,857 --> 01:07:29,547
+Para a cama.
+Aqui.
+
+831
+01:07:30,034 --> 01:07:31,931
+O que ele disse
+sobre mim?
+
+832
+01:07:33,107 --> 01:07:34,576
+Não toque.
+
+833
+01:07:36,680 --> 01:07:39,122
+Ele me disse
+que você era um terrorista...
+
+834
+01:07:39,505 --> 01:07:42,089
+que invadiu isso aqui
+e matou o Robinson de verdade.
+
+835
+01:07:42,090 --> 01:07:43,400
+Acreditou nele?
+
+836
+01:07:43,401 --> 01:07:46,228
+Dr. Zek é um membro respeitado
+da comunidade científica.
+
+837
+01:07:46,229 --> 01:07:49,861
+- O que eu devia pensar?
+- Dr. Zek é um lunático.
+
+838
+01:07:50,306 --> 01:07:53,432
+Como cruzaria pela zona vermelha
+e por aquele deserto enorme?
+
+839
+01:07:53,433 --> 01:07:55,634
+Me envenenaria por radiação
+até chegar aqui.
+
+840
+01:07:57,543 --> 01:07:59,510
+Ele destruiu o mecanismo
+da porta.
+
+841
+01:08:01,839 --> 01:08:03,382
+Estamos presos aqui.
+
+842
+01:08:03,383 --> 01:08:07,132
+- Ele escapará sem nós.
+- Não.
+
+843
+01:08:07,133 --> 01:08:10,524
+Ele não vai escapar.
+Ele vai para Câmara Profunda	.
+
+844
+01:08:14,812 --> 01:08:16,211
+Imbecil.
+
+845
+01:08:17,501 --> 01:08:18,900
+Só...
+
+846
+01:08:21,585 --> 01:08:22,951
+O que quis dizer?
+
+847
+01:08:23,988 --> 01:08:28,412
+Quando disse que esse lugar todo
+era uma mentira?
+
+848
+01:08:28,928 --> 01:08:31,026
+- Está doendo.
+- O que quis dizer?
+
+849
+01:08:32,863 --> 01:08:34,998
+Este lugar
+
+850
+01:08:34,999 --> 01:08:39,883
+era para ser uma instalação
+de armazenamento nuclear segura.
+
+851
+01:08:41,015 --> 01:08:42,848
+Ele a transformou
+numa bomba.
+
+852
+01:08:47,804 --> 01:08:49,370
+Obrigado.
+
+853
+01:08:50,047 --> 01:08:51,347
+Abby, eu não...
+
+854
+01:08:51,815 --> 01:08:53,683
+Não sei o que faremos agora.
+
+855
+01:08:53,684 --> 01:08:57,267
+Como chegamos nele?
+Ele está na Câmara Profunda.
+
+856
+01:09:01,291 --> 01:09:02,858
+Eu tenho acesso.
+
+857
+01:09:04,028 --> 01:09:06,595
+- Você tem?
+- Tenho.
+
+858
+01:09:06,949 --> 01:09:08,522
+- Isso é ótimo.
+- Espere.
+
+859
+01:09:11,135 --> 01:09:12,435
+Certo.
+
+860
+01:09:15,639 --> 01:09:17,617
+Eu vou religar a porta
+
+861
+01:09:18,509 --> 01:09:20,968
+para que o mecanismo funcione
+deste lado.
+
+862
+01:09:24,348 --> 01:09:25,726
+Você pode fazer isso?
+
+863
+01:09:31,005 --> 01:09:32,305
+Boa.
+
+864
+01:09:38,195 --> 01:09:39,615
+Precisamos encontrá-lo.
+
+865
+01:09:40,468 --> 01:09:42,535
+Posso rastreá-lo
+no meu tablet.
+
+866
+01:09:42,536 --> 01:09:43,966
+Não há tempo para isso!
+
+867
+01:09:43,967 --> 01:09:45,267
+Não há tempo!
+
+868
+01:10:38,522 --> 01:10:39,822
+Porra.
+
+869
+01:11:05,272 --> 01:11:07,256
+- Largue o taco.
+- Está bem.
+
+870
+01:11:07,582 --> 01:11:09,623
+- Quem é você?
+- Está bem.
+
+871
+01:11:25,540 --> 01:11:27,504
+Você é aquele
+com a doença da radiação.
+
+872
+01:11:27,505 --> 01:11:29,538
+- Atravessou a zona vermelha?
+- Cale-se!
+
+873
+01:11:29,539 --> 01:11:31,417
+- Quem é você? Por favor.
+- Cale-se.
+
+874
+01:11:31,418 --> 01:11:32,868
+- Quem é você?
+- Cale-se!
+
+875
+01:11:33,510 --> 01:11:36,410
+Nada pode me impedir de fazer
+o que vim fazer aqui!
+
+876
+01:11:58,570 --> 01:11:59,870
+O que está fazendo?
+
+877
+01:11:59,871 --> 01:12:02,064
+Deserto de Gibson Norte
+está em decomposição
+
+878
+01:12:02,065 --> 01:12:04,385
+num ritmo imprevisível por anos,
+e você sabia!
+
+879
+01:12:04,386 --> 01:12:07,164
+O sistema Auxilisun é
+à prova de falhas. Não há...
+
+880
+01:12:07,165 --> 01:12:09,901
+E Barrow Creek? As cidades
+habitáveis mais próximas
+
+881
+01:12:09,902 --> 01:12:11,384
+deveriam estar
+na zona verde.
+
+882
+01:12:11,385 --> 01:12:15,218
+A não ser que Barrow Creek,
+a cidade toda, levantou e mudou,
+
+883
+01:12:15,552 --> 01:12:17,665
+a zona vermelha
+está se expandindo.
+
+884
+01:12:19,145 --> 01:12:20,545
+Sim.
+
+885
+01:12:20,546 --> 01:12:22,368
+Quando iria contar
+a Auxilisun?
+
+886
+01:12:22,369 --> 01:12:24,103
+Auxilisun já sabe.
+
+887
+01:12:25,662 --> 01:12:26,962
+O quê?
+
+888
+01:12:28,198 --> 01:12:31,516
+Dr. Sale e eu
+sabemos a verdade.
+
+889
+01:12:31,517 --> 01:12:33,617
+- A verdade?
+- Sim.
+
+890
+01:12:33,618 --> 01:12:35,672
+A verdade
+que está matando pessoas?
+
+891
+01:12:35,673 --> 01:12:39,032
+A verdade é que a energia
+que damos ao mundo
+
+892
+01:12:39,033 --> 01:12:41,210
+é mais importante
+que uma cidadezinha
+
+893
+01:12:41,211 --> 01:12:43,311
+- Pessoas estão...
+- no meio do nada!
+
+894
+01:12:43,312 --> 01:12:45,094
+A família daquele homem.
+
+895
+01:12:45,095 --> 01:12:47,564
+Quantos viveram?
+
+896
+01:12:48,252 --> 01:12:52,305
+Sabe quantos hospitais, cidades
+e casas usam nossa energia?
+
+897
+01:12:52,306 --> 01:12:55,750
+Havia 230 idiotas
+em Barrow Creek!
+
+898
+01:12:55,751 --> 01:12:57,051
+Cale-se!
+
+899
+01:12:58,562 --> 01:13:00,493
+Cale-se, está bem?
+
+900
+01:13:01,832 --> 01:13:03,899
+Você pode encontrar
+a saída.
+
+901
+01:13:09,707 --> 01:13:11,007
+Abby.
+
+902
+01:13:34,897 --> 01:13:37,572
+Então era você que estava
+quebrando os ventiladores.
+
+903
+01:13:38,187 --> 01:13:40,611
+Você atravessou
+a zona vermelha sozinho?
+
+904
+01:13:41,411 --> 01:13:43,103
+Há quanto tempo
+está morrendo?
+
+905
+01:13:43,607 --> 01:13:44,907
+Não tenho certeza.
+
+906
+01:13:47,094 --> 01:13:48,932
+Todos ficamos doentes
+ao mesmo tempo.
+
+907
+01:13:49,354 --> 01:13:51,815
+Eu só durei mais
+
+908
+01:13:52,349 --> 01:13:53,699
+que Margot...
+
+909
+01:13:55,152 --> 01:13:56,552
+e Sammy.
+
+910
+01:13:56,553 --> 01:13:58,526
+Isso não vai
+trazê-las de volta.
+
+911
+01:13:59,823 --> 01:14:02,487
+Eu sei como é
+perder a família.
+
+912
+01:14:08,866 --> 01:14:12,479
+Então você sabe
+por que tenho que fazer isso.
+
+913
+01:14:13,003 --> 01:14:15,955
+Não. Só vai matar mais pessoas.
+Não posso deixar...
+
+914
+01:14:15,956 --> 01:14:17,493
+- Não me siga, Abby.
+- Pare.
+
+915
+01:14:17,494 --> 01:14:20,327
+- Afaste-se! Afaste-se, Abby!
+- Pare!
+
+916
+01:14:21,210 --> 01:14:22,510
+Pare.
+
+917
+01:14:24,581 --> 01:14:27,791
+Auxilisun,
+tomou tudo de mim.
+
+918
+01:14:27,792 --> 01:14:29,565
+Se você destruir
+este lugar,
+
+919
+01:14:30,182 --> 01:14:31,803
+não será melhor que eles.
+
+920
+01:14:31,804 --> 01:14:33,304
+E você é?
+
+921
+01:14:37,947 --> 01:14:40,705
+Não.
+O mundo precisa de uma tragédia
+
+922
+01:14:41,045 --> 01:14:43,276
+para ver
+o que está acontecendo aqui.
+
+923
+01:14:44,434 --> 01:14:46,744
+Eu vou te matar
+antes de deixar isso acontecer.
+
+924
+01:14:49,039 --> 01:14:50,439
+Não, não vai.
+
+925
+01:14:54,711 --> 01:14:56,813
+Se conseguirmos sair daqui,
+
+926
+01:14:56,814 --> 01:14:59,272
+tenho todas as informações
+no meu HD.
+
+927
+01:14:59,273 --> 01:15:01,557
+Podemos divulgar.
+Fazer com que todos saibam.
+
+928
+01:15:01,558 --> 01:15:04,470
+Não, Abby.
+Vão te matar, Abby!
+
+929
+01:15:04,471 --> 01:15:06,268
+Isso é maior do que você!
+
+930
+01:15:07,124 --> 01:15:09,124
+O mundo inteiro, Abby!
+
+931
+01:15:09,125 --> 01:15:10,729
+Eles estão mentindo!
+
+932
+01:15:12,443 --> 01:15:15,174
+É isso que Margot e Sammy
+gostariam?
+
+933
+01:15:19,102 --> 01:15:20,452
+Não tenho certeza.
+
+934
+01:15:21,471 --> 01:15:22,821
+Eu não sei.
+
+935
+01:15:26,043 --> 01:15:27,737
+Talvez eu possa perguntá-las.
+
+936
+01:15:28,345 --> 01:15:29,645
+Não!
+
+937
+01:16:26,603 --> 01:16:29,928
+Aqui é a CTE Abby Dixon
+para o tri-cóptero da Auxilisun.
+
+938
+01:16:29,929 --> 01:16:31,693
+Rhine,
+está me ouvindo?
+
+939
+01:18:45,232 --> 01:18:48,229
+<i><b>WTFSubs</b></i>
+
+940
+01:18:48,230 --> 01:18:51,230
+<i><b>Porque filme ruim
+é bom pra caralho!</b></i>
+
+941
+01:18:51,231 --> 01:18:54,231
+<i><b>Fale conosco:
+contato.wtfsubs@gmail.com</b></i>
+
+942
+01:18:54,232 --> 01:18:57,232
+<i><b>Curta nossa página:
+fb.com/WtfSubs</b></i>
+
+943
+01:18:57,233 --> 01:19:00,233
+<i><b>Twitter:
+@WTFSubs</b></i>
+
+944
+01:19:00,234 --> 01:19:03,234
+<b>TEM CENA APÓS OS CRÉDITOS</b>
+
+944
+01:19:04,305 --> 01:20:04,512
+Contribua tornando-se um usuário VIP 
+e remova todos os anúncios do www.OpenSubtitles.org

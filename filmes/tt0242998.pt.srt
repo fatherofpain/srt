@@ -1,0 +1,3850 @@
+1
+00:00:06,000 --> 00:00:12,074
+api.OpenSubtitles.org is deprecated, please
+implement REST API from OpenSubtitles.com
+
+2
+00:00:41,931 --> 00:00:43,410
+Shelley?
+
+3
+00:00:44,011 --> 00:00:47,128
+- Dança comigo?
+- Só se for em sonhos, imbecil!
+
+4
+00:00:58,291 --> 00:00:59,929
+Lily?
+
+5
+00:01:00,971 --> 00:01:03,769
+- Quer dançar comigo?
+- Com você?
+
+6
+00:01:14,051 --> 00:01:15,609
+Paige?
+
+7
+00:01:16,752 --> 00:01:21,347
+- Quer dançar comigo?
+- Prefiro ser cozida viva.
+
+8
+00:01:28,352 --> 00:01:30,661
+Olá, Kate. Quer dançar?
+
+9
+00:01:31,072 --> 00:01:35,662
+- Talvez mais tarde, Jeremy.
+- Sim, talvez mais tarde.
+
+10
+00:01:45,022 --> 00:01:46,264
+Olá, Dorothy.
+
+11
+00:01:48,535 --> 00:01:50,491
+Quer dançar comigo?
+
+12
+00:02:15,135 --> 00:02:17,725
+Olhe para eles!
+A búfala o estica aos beijos.
+
+13
+00:02:18,265 --> 00:02:20,176
+Você gosta, búfala? Está ficando quente?
+
+14
+00:02:20,195 --> 00:02:22,867
+- Pare! Afaste-se de mim!
+- O pervertido te atacou?
+
+15
+00:02:22,875 --> 00:02:25,889
+Sim, o Jeremy atacou-me.
+
+16
+00:02:25,895 --> 00:02:28,266
+O pervertido pulou para cima da búfala.
+
+17
+00:02:28,315 --> 00:02:31,331
+- Eu não fiz nada disso.
+- Pervertido.
+
+18
+00:03:04,823 --> 00:03:10,534
+TERROR NO DIA DE SÃO VALENTIM
+
+19
+00:03:16,383 --> 00:03:18,419
+13 anos depois
+
+20
+00:03:18,703 --> 00:03:21,171
+É muito simples, Shelley. É que,
+
+21
+00:03:21,903 --> 00:03:24,098
+de um ponto de vista evolutivo,
+
+22
+00:03:25,279 --> 00:03:27,634
+o Jason procura uma jovem atraente,
+
+23
+00:03:27,839 --> 00:03:30,797
+porque quer ter filhos saudáveis.
+E uma jovem como você...
+
+24
+00:03:31,279 --> 00:03:34,077
+procura um homem bem-sucedido
+como o Jason
+
+25
+00:03:34,799 --> 00:03:36,915
+porque quer sentir-se segura.
+
+26
+00:03:38,919 --> 00:03:41,592
+O Jason tem espinafres nos dentes.
+
+27
+00:03:43,719 --> 00:03:45,550
+Obrigado.
+
+28
+00:03:48,272 --> 00:03:50,945
+Bem, e é assim que a espécie sobrevive.
+
+29
+00:03:51,032 --> 00:03:52,829
+"Socorro"
+
+30
+00:03:53,072 --> 00:03:54,949
+Afinal, que mais há,
+
+31
+00:03:55,152 --> 00:03:56,949
+no final de tudo?
+
+32
+00:03:57,192 --> 00:03:59,183
+No final...
+
+33
+00:03:59,432 --> 00:04:02,344
+Bem, há a conta.
+
+34
+00:04:02,712 --> 00:04:04,623
+A conta, por favor.
+
+35
+00:04:04,832 --> 00:04:07,141
+- Pode ir buscar o meu carro?
+- Claro.
+
+36
+00:04:09,232 --> 00:04:11,462
+Não quer sobremesa?
+
+37
+00:04:11,712 --> 00:04:14,351
+Não, desculpa, vou ter um exame final.
+
+38
+00:04:14,432 --> 00:04:16,070
+É pena.
+
+39
+00:04:16,152 --> 00:04:18,143
+- Muito obrigada.
+- Obrigada.
+
+40
+00:04:21,432 --> 00:04:23,662
+<i>Muy expensivo.
+
+41
+00:04:25,458 --> 00:04:29,371
+Então... Você comeu salmão
+e cocktail de uvas.
+
+42
+00:04:30,218 --> 00:04:32,971
+Eu comi frango e salada.
+
+43
+00:04:33,338 --> 00:04:35,249
+Isto dá...
+
+44
+00:04:35,778 --> 00:04:36,927
+Certo...
+
+45
+00:04:37,738 --> 00:04:41,282
+Obrigado, Jason. Gostei de te conhecer.
+
+46
+00:04:41,318 --> 00:04:43,036
+O quê? Só isso?
+
+47
+00:04:43,038 --> 00:04:45,349
+- O que é?
+- Não recebo um beijo?
+
+48
+00:04:45,358 --> 00:04:48,278
+- Desculpe?
+- Um insignificante beijo.
+
+49
+00:04:48,278 --> 00:04:49,462
+Oh, Deus!
+
+50
+00:04:49,638 --> 00:04:51,932
+Essa coisa de se fazer
+de difícil não é para o Jason.
+
+51
+00:04:54,279 --> 00:04:56,713
+Jason, eu ainda não sou médica,
+
+52
+00:04:56,959 --> 00:04:59,632
+mas acho que deve procurar
+ajuda psiquiátrica,
+
+53
+00:05:00,279 --> 00:05:02,235
+rapidamente.
+
+54
+00:05:05,519 --> 00:05:07,475
+Olha quem fala!
+
+55
+00:05:15,276 --> 00:05:17,267
+O Jason gosta do seu vestido.
+
+56
+00:06:09,605 --> 00:06:12,278
+Muito bem, Chad,
+agora somos só nós dois.
+
+57
+00:06:12,685 --> 00:06:14,801
+Prometo ser delicada.
+
+58
+00:06:17,045 --> 00:06:21,003
+É do tipo forte, mas silencioso.
+Que agradável!
+
+59
+00:06:33,525 --> 00:06:35,959
+<i>Transversus abdominus.
+
+60
+00:06:38,285 --> 00:06:39,987
+Tem alguém aí?
+
+61
+00:06:43,475 --> 00:06:45,147
+Olá?
+
+62
+00:06:51,995 --> 00:06:53,826
+Olá?
+
+63
+00:07:40,191 --> 00:07:41,943
+Meu Deus!
+
+64
+00:07:44,151 --> 00:07:46,540
+- Quase me mata de susto.
+- Desculpe.
+
+65
+00:07:49,311 --> 00:07:52,384
+É muito tarde. Vai ficar bem aqui sozinha?
+
+66
+00:07:52,591 --> 00:07:56,185
+Sim, tenho o Chad. O meu cadáver.
+
+67
+00:08:01,511 --> 00:08:05,449
+- Boa sorte para amanhã.
+- Obrigada, para você também.
+
+68
+00:08:18,391 --> 00:08:21,859
+"A viagem do amor é cheia de esforço.
+
+69
+00:08:23,581 --> 00:08:26,598
+O meu amor por você crescerá
+quando sangrar do pescoço."
+
+70
+00:08:34,221 --> 00:08:37,568
+Que ótimo!
+É realmente ótimo...
+
+71
+00:09:12,357 --> 00:09:14,313
+Muito bem...
+
+72
+00:09:53,117 --> 00:09:57,600
+Pára! Merda! Chega de brincadeiras!
+
+73
+00:13:11,050 --> 00:13:13,883
+Vamos lá, Kate, você prometeu.
+
+74
+00:13:14,570 --> 00:13:16,401
+Hoje, no trabalho, escrevi uma coluna
+
+75
+00:13:16,490 --> 00:13:18,879
+sobre como limpar o pó
+do monitor do computador.
+
+76
+00:13:19,050 --> 00:13:21,769
+- Não chega de dor para um dia?
+- Isto não é doloroso.
+
+77
+00:13:22,210 --> 00:13:24,246
+Doloroso é um encontro às cegas
+
+78
+00:13:24,450 --> 00:13:27,567
+ou conhecer alguém pela Internet
+e perceber que o 1,80m
+
+79
+00:13:27,850 --> 00:13:29,647
+é apenas 1,65m.
+
+80
+00:13:30,690 --> 00:13:33,443
+Kate, hoje vai conhecer trinta caras.
+
+81
+00:13:34,170 --> 00:13:38,250
+Trinta segundos cada um,
+a não ser que queira mais. É brilhante.
+
+82
+00:13:38,330 --> 00:13:40,048
+Vai ser divertido.
+
+83
+00:13:40,330 --> 00:13:42,764
+Eu ainda não acabei
+definitivamente com o Adam.
+
+84
+00:13:42,930 --> 00:13:45,257
+Mas vais acabar. Acredita em mim.
+
+85
+00:13:45,260 --> 00:13:46,761
+As relações não têm voltas de 180 graus
+
+86
+00:13:46,850 --> 00:13:50,019
+e o Adam é um bêbado.
+- Ele não é nada bêbado.
+
+87
+00:13:50,030 --> 00:13:53,038
+É uma personalidade
+com tendência para dependências que,
+
+88
+00:13:53,050 --> 00:13:55,260
+por acaso, gosta muito de álcool.
+
+89
+00:13:56,893 --> 00:13:59,458
+Tudo bem. Vamos fazer isto.
+
+90
+00:14:01,046 --> 00:14:02,445
+"Turbo Encontros"
+
+91
+00:14:04,286 --> 00:14:06,959
+A família da minha mãe remonta
+ao Mayflower.
+
+92
+00:14:07,486 --> 00:14:09,124
+Fui eu que descobri isso.
+
+93
+00:14:09,206 --> 00:14:11,481
+Ela faz as suas próprias
+camisolas de gola alta.
+
+94
+00:14:11,566 --> 00:14:14,080
+Teve nove filhos. Extraordinário, não é?
+
+95
+00:14:14,566 --> 00:14:17,763
+É uma mulher surpreendente.
+
+96
+00:14:22,366 --> 00:14:24,800
+Me deu o fora.
+
+97
+00:14:25,366 --> 00:14:27,436
+Diz que arranja coisa melhor.
+
+98
+00:14:27,646 --> 00:14:30,444
+Diz que não lhe satisfaço as necessidades...
+
+99
+00:14:30,926 --> 00:14:32,723
+...sexuais.
+
+100
+00:14:34,309 --> 00:14:37,107
+Para mim, é óbvio. A garota deve ser lésbica.
+
+101
+00:14:37,629 --> 00:14:40,587
+A maior equipe da história
+do futebol profissional:
+
+102
+00:14:40,869 --> 00:14:42,905
+"Forty-niners"!
+
+103
+00:14:43,429 --> 00:14:45,101
+A Bíblia.
+
+104
+00:14:45,189 --> 00:14:47,783
+A Bíblia é a base da moralidade
+e do casamento.
+
+105
+00:14:57,140 --> 00:14:59,608
+- Sei o que está pensando.
+- Sabe?
+
+106
+00:14:59,900 --> 00:15:03,361
+- Quer sair daqui.
+- Essa foi muito boa.
+
+107
+00:15:09,060 --> 00:15:11,778
+- Olá!
+- Olá!
+
+108
+00:15:13,283 --> 00:15:15,922
+- Eu sou a Paige.
+- Brian.
+
+109
+00:15:18,083 --> 00:15:21,314
+A minha amiga te disse
+que tenho uma relação séria?
+
+110
+00:15:23,843 --> 00:15:26,198
+Não, por acaso não disse.
+
+111
+00:15:26,843 --> 00:15:28,754
+Mas eu estou livre.
+
+112
+00:15:32,335 --> 00:15:34,166
+Você é terrível, sabia?
+
+113
+00:15:34,455 --> 00:15:37,492
+- Teve os seus 30 segundos.
+- 24. Roubou-me 6.
+
+114
+00:15:39,335 --> 00:15:41,007
+Olá?
+
+115
+00:15:41,295 --> 00:15:44,093
+Não vai acreditar
+no que a Paige me fez fazer, Dorothy.
+
+116
+00:15:44,295 --> 00:15:45,887
+O quê?
+
+117
+00:15:48,295 --> 00:15:49,933
+Meu Deus!
+
+118
+00:15:50,922 --> 00:15:51,911
+O que foi?
+
+119
+00:15:53,522 --> 00:15:56,275
+Shelley Fisher foi levada
+muito antes do seu tempo.
+
+120
+00:15:57,082 --> 00:15:59,676
+Não lamentamos a perda dela,
+mas sim a nossa.
+
+121
+00:16:00,442 --> 00:16:05,580
+Chegou o momento dos que ficaram
+partilharem a tristeza.
+
+122
+00:16:06,712 --> 00:16:09,821
+Nunca sei o que fazer
+em situações como esta.
+
+123
+00:16:11,762 --> 00:16:14,993
+Eu sei que devíamos estar
+fazendo uma pausa,
+
+124
+00:16:15,362 --> 00:16:17,318
+mas achei que precisava de um amigo.
+
+125
+00:16:18,762 --> 00:16:20,878
+Estou contente por estar aqui.
+
+126
+00:16:22,823 --> 00:16:26,293
+O que é que eu faço?
+
+127
+00:16:29,223 --> 00:16:30,815
+Lamento muito.
+
+128
+00:16:36,743 --> 00:16:38,813
+Primeira página.
+
+129
+00:16:46,370 --> 00:16:49,600
+Kate, isso é para o Spencer Marks,
+você se lembra?.
+
+130
+00:16:49,770 --> 00:16:53,040
+Começamos junto no jornal.
+
+131
+00:16:54,820 --> 00:16:57,334
+Acabaram de nomeá-lo repórter
+principal dos Giants,
+
+132
+00:16:57,580 --> 00:16:59,696
+por isso comprei-lhe um presente.
+
+133
+00:17:01,940 --> 00:17:03,419
+Tudo bem.
+
+134
+00:17:03,660 --> 00:17:05,855
+- Desculpa, não é importante.
+- Claro que é.
+
+135
+00:17:06,700 --> 00:17:08,850
+Não toco em nada há três semanas.
+
+136
+00:17:10,980 --> 00:17:12,777
+Estou me portando muito bem, Kate.
+
+137
+00:17:17,080 --> 00:17:21,073
+Acha que podemos
+nos encontrar esta semana?
+
+138
+00:17:22,040 --> 00:17:23,871
+Para jantar ou algo assim?
+
+139
+00:17:25,000 --> 00:17:26,558
+- Não sei.
+- É só um jantar,
+
+140
+00:17:26,640 --> 00:17:28,517
+não é uma proposta de casamento.
+
+141
+00:17:28,600 --> 00:17:30,511
+Da última vez que jantamos juntos,
+
+142
+00:17:30,600 --> 00:17:33,825
+acabamos num hotel
+do lago Tahoe durante 3 dias.
+
+143
+00:17:34,840 --> 00:17:35,596
+Sim, é verdade... Isso...
+
+144
+00:17:37,080 --> 00:17:38,718
+Isso...
+
+145
+00:17:46,862 --> 00:17:49,137
+Eu te ligo, Ok?
+
+146
+00:18:26,293 --> 00:18:27,931
+Tem bom aspecto, não tem?
+
+147
+00:18:28,133 --> 00:18:30,886
+Kate, aquele rapaz
+tem sempre bom aspecto.
+
+148
+00:18:32,613 --> 00:18:35,686
+- Era o Adam?
+- Não seja dura comigo agora.
+
+149
+00:18:36,896 --> 00:18:39,729
+- Desculpa.
+- Isto é um funeral, Paige.
+
+150
+00:18:39,936 --> 00:18:41,608
+O que foi?
+
+151
+00:18:44,176 --> 00:18:46,531
+Viram a polícia falando com as pessoas?
+
+152
+00:18:46,736 --> 00:18:48,886
+Eu sei. Foi horrível.
+
+153
+00:18:50,216 --> 00:18:52,366
+Como está, Lily? Está bem?
+
+154
+00:18:52,856 --> 00:18:56,684
+Não sei. Não posso acreditar
+que ela tenha morrido.
+
+155
+00:18:58,475 --> 00:19:01,114
+Desculpem, sou o detetive Vaughn.
+
+156
+00:19:01,395 --> 00:19:03,351
+Disseram-me que eram
+amigas da Shelley...
+
+157
+00:19:03,595 --> 00:19:05,551
+Sim, conhecíamo-nos desde crianças.
+
+158
+00:19:06,188 --> 00:19:08,338
+- Posso fazer umas perguntas?
+- Claro.
+
+159
+00:19:08,628 --> 00:19:10,619
+Quando foi a última vez que a viram?
+
+160
+00:19:11,508 --> 00:19:13,544
+- Há cerca de um ano.
+- No meu caso, dois.
+
+161
+00:19:13,628 --> 00:19:14,344
+No meu também.
+
+162
+00:19:14,428 --> 00:19:16,817
+Ela estava muito ocupada
+com a escola de Medicina.
+
+163
+00:19:17,788 --> 00:19:19,858
+Conhecem um rapaz
+chamado Jason Marquette?
+
+164
+00:19:20,228 --> 00:19:22,184
+- Quem é esse?
+- A Shelley esteve com ele
+
+165
+00:19:22,348 --> 00:19:24,543
+na noite em que morreu.
+
+166
+00:19:28,348 --> 00:19:30,225
+Ouçam, senhoras...
+
+167
+00:19:32,005 --> 00:19:34,075
+Se se lembrarem de alguma coisa,
+de alguém,
+
+168
+00:19:34,405 --> 00:19:36,475
+liguem-me.
+
+169
+00:19:40,325 --> 00:19:42,475
+Pronto, cuidem-se.
+
+170
+00:19:42,725 --> 00:19:44,477
+Obrigada.
+
+171
+00:20:10,398 --> 00:20:12,514
+"As rosas são vermelhas,
+
+172
+00:20:12,958 --> 00:20:16,109
+as violetas são azuis e assim vão ficar
+
+173
+00:20:16,198 --> 00:20:19,156
+e vão ser precisos registros
+dentários para te identificar."
+
+174
+00:20:25,478 --> 00:20:27,389
+Olá, Dorothy.
+
+175
+00:20:28,078 --> 00:20:30,069
+Olá, Campbell.
+
+176
+00:20:31,758 --> 00:20:33,396
+Entre.
+
+177
+00:20:40,478 --> 00:20:42,594
+Tem uma casa acolhedora.
+
+178
+00:20:44,179 --> 00:20:45,897
+Está tudo bem?
+
+179
+00:20:47,379 --> 00:20:49,688
+Não me sinto muito à vontade
+com a situação.
+
+180
+00:20:50,019 --> 00:20:52,453
+Tentei te ligar antes,
+mas não estava em casa.
+
+181
+00:20:52,699 --> 00:20:54,690
+- Preciso te pedir um favor.
+- Claro.
+
+182
+00:20:55,499 --> 00:20:58,696
+O cara com quem eu dividia a casa
+saiu da cidade sem pagar o aluguel.
+
+183
+00:20:58,779 --> 00:21:02,508
+Quando cheguei na casa hoje,
+estava tudo no meio da rua.
+
+184
+00:21:02,939 --> 00:21:06,194
+Esquis, CD's, roupas, desapareceu tudo.
+
+185
+00:21:06,559 --> 00:21:09,676
+É claro que a hora não podia ser pior,
+porque tudo o que tenho
+
+186
+00:21:09,759 --> 00:21:11,477
+está investido no negócio.
+
+187
+00:21:13,759 --> 00:21:15,351
+Millie?
+
+188
+00:21:16,239 --> 00:21:17,957
+Millie!
+
+189
+00:21:20,054 --> 00:21:23,046
+- Prepare o quarto de hóspedes!
+- Não, Dorothy, não posso...
+
+190
+00:21:23,934 --> 00:21:26,528
+- Foi o seu pai que disse?
+- Não, fui eu que disse.
+
+191
+00:21:30,054 --> 00:21:32,807
+- Sinto-me mal por estar...
+- Não seja ridículo.
+
+192
+00:21:33,854 --> 00:21:36,812
+Vá se instalar que eu já vou lá.
+
+193
+00:21:37,894 --> 00:21:40,454
+Você é a melhor.
+
+194
+00:21:42,814 --> 00:21:44,805
+- Obrigado.
+- De nada.
+
+195
+00:21:52,551 --> 00:21:53,700
+Quem é o seu amigo?
+
+196
+00:21:53,791 --> 00:21:56,828
+Chama-se Campbell.
+Conheci-o no ioga e ele não é o seu tipo.
+
+197
+00:21:56,911 --> 00:21:59,345
+Diga ao meu pai que ele vai
+ficar aqui alguns dias.
+
+198
+00:21:59,431 --> 00:22:02,184
+É por causa dele que tem passado
+tanto tempo na esteira?
+
+199
+00:22:02,271 --> 00:22:04,660
+Kim, você não é minha amiga
+nem é minha mãe.
+
+200
+00:22:04,911 --> 00:22:07,141
+Eu só estou interessada
+pela sua vida, Dorothy,
+
+201
+00:22:07,231 --> 00:22:08,380
+como sua madrasta.
+
+202
+00:22:08,551 --> 00:22:11,065
+Quando tiver  idade suficiente
+para alugar um carro,
+
+203
+00:22:11,151 --> 00:22:13,187
+podemos discutir o seu papel
+como madrasta.
+
+204
+00:22:13,271 --> 00:22:16,580
+Entretanto, não fale
+sobre a minha vida sexual.
+
+205
+00:22:16,991 --> 00:22:18,262
+Você tem vida sexual?
+
+206
+00:22:19,493 --> 00:22:22,087
+Sim, tenho. E não cobro por hora, como você.
+
+207
+00:22:23,194 --> 00:22:25,503
+- Como se atreve?
+- Tira as mãos de cima de mim,
+
+208
+00:22:25,594 --> 00:22:27,391
+sua noiva por catálogo do inferno!
+
+209
+00:22:28,154 --> 00:22:29,951
+Parem com isso! As duas!
+
+210
+00:22:30,191 --> 00:22:32,751
+Ela acabou de me chamar de noiva
+por catálogo do inferno!
+
+211
+00:22:33,231 --> 00:22:34,983
+Dorothy...
+
+212
+00:22:35,071 --> 00:22:38,790
+Eu nem sequer sei do que é
+que ela acabou de me chamar.
+
+213
+00:22:38,871 --> 00:22:40,668
+Está tudo bem, querida.
+
+214
+00:22:41,631 --> 00:22:44,020
+Tem de mostrar mais respeito
+pela minha mulher.
+
+215
+00:22:47,207 --> 00:22:48,799
+Mas, pai...
+
+216
+00:23:21,310 --> 00:23:22,982
+Olá?
+
+217
+00:23:32,950 --> 00:23:34,668
+Olá?
+
+218
+00:24:01,670 --> 00:24:03,626
+Hoje não!
+
+219
+00:24:16,902 --> 00:24:19,462
+<i>Ligou para Murray, porteiro.
+Deixe a sua mensagem.
+
+220
+00:24:19,542 --> 00:24:21,897
+Murray, é a Kate do 403.
+
+221
+00:24:22,102 --> 00:24:25,253
+Não tenho água e preciso estar
+no trabalho daqui a meia hora.
+
+222
+00:24:25,542 --> 00:24:27,817
+Tenho a cabeça cheia de shampoo e... droga!
+
+223
+00:24:31,302 --> 00:24:34,497
+Murray! Você está aí?
+
+224
+00:25:11,736 --> 00:25:13,533
+É a hora ideal, Murray.
+
+225
+00:25:13,896 --> 00:25:15,375
+Alô?
+
+226
+00:25:17,376 --> 00:25:19,014
+Alô?
+
+227
+00:25:58,402 --> 00:26:00,791
+- Olá, Kate.
+- Olá, Gary.
+
+228
+00:26:02,478 --> 00:26:06,107
+Está linda, Kate.
+Que acha de sairmos, Kate?
+
+229
+00:26:07,358 --> 00:26:09,314
+Você pode ser minha amiga, Kate.
+
+230
+00:26:09,558 --> 00:26:11,355
+Você é assustador, Gary.
+
+231
+00:26:12,838 --> 00:26:14,829
+Pode ser o nosso destino, Kate.
+
+232
+00:26:16,758 --> 00:26:19,477
+<i>- Olá, Lily.
+- Olá para você também.
+
+233
+00:26:19,958 --> 00:26:23,234
+<i>Obrigado por ter pedido a minha
+fita. O meu nome é Lance.
+
+234
+00:26:23,318 --> 00:26:24,910
+Olá, Lance.
+
+235
+00:26:25,158 --> 00:26:26,910
+<i>Acho que sou perfeito para você.
+
+236
+00:26:27,118 --> 00:26:31,030
+<i>Sou simpático, divertido e tenho 1,80 m.
+
+237
+00:26:33,126 --> 00:26:35,037
+<i>Gosto de jogos de estratégia.
+
+238
+00:26:35,246 --> 00:26:37,999
+<i>Faço muitos esportes aquáticos.
+Caiaque...
+
+239
+00:26:38,566 --> 00:26:40,045
+Adeus, Lance.
+
+240
+00:26:40,246 --> 00:26:42,476
+Talvez a próxima vez, tenha mais sorte, Lance.
+
+241
+00:26:50,726 --> 00:26:52,364
+Quem é?
+
+242
+00:26:55,246 --> 00:26:56,964
+Quem é?
+
+243
+00:26:57,166 --> 00:26:58,804
+Não tem ninguém aqui!
+
+244
+00:26:58,886 --> 00:27:01,719
+Deve ser só o Lance.
+Ele não consegue chegar na fechadura,
+se lembra?
+
+245
+00:27:05,526 --> 00:27:07,437
+Olá...?
+
+246
+00:27:12,366 --> 00:27:15,322
+- Que estranho.
+- Foram rápidos.
+
+247
+00:27:17,968 --> 00:27:20,960
+- Aposto que é do Max.
+- A rosa.
+
+248
+00:27:22,088 --> 00:27:24,841
+- São Valentim.
+- Mostra...
+
+249
+00:27:30,448 --> 00:27:33,360
+"Toda a gente sabe que a beleza é interior,
+
+250
+00:27:33,848 --> 00:27:36,646
+Você é o que come, prove o sabor."
+
+251
+00:27:37,808 --> 00:27:39,685
+É simpático... acho.
+
+252
+00:27:40,588 --> 00:27:42,624
+É o cartão mais estranho que eu já vi.
+
+253
+00:27:43,748 --> 00:27:46,137
+Não é do Max. Olha..."J.M."
+
+254
+00:27:46,588 --> 00:27:48,146
+- Deve ser para você.
+- Porquê?
+
+255
+00:27:48,228 --> 00:27:51,538
+Porque o teu alfabeto é muito mais
+vasto do que o meu. Quem é o J. M?
+
+256
+00:27:52,428 --> 00:27:54,544
+Sei lá! É certeza que é para você.
+
+257
+00:27:55,808 --> 00:27:59,642
+Tudo bem.
+Se diz que é para mim, é para mim.
+
+258
+00:28:20,677 --> 00:28:23,316
+- John McCrite.
+- Nunca se insinuou para mim.
+
+259
+00:28:24,237 --> 00:28:26,751
+- Jeff Mallick?
+- Não é o estilo dele.
+
+260
+00:28:27,037 --> 00:28:29,756
+- Jake Matheson.
+- É gay.
+
+261
+00:28:30,383 --> 00:28:32,851
+Quem foi o tipo que te mandou
+o vírus de computador?
+
+262
+00:28:33,663 --> 00:28:36,131
+- Beckett Broda.
+- Droga!
+
+263
+00:28:37,343 --> 00:28:39,220
+J.M., J.M., J.M...
+
+264
+00:28:40,504 --> 00:28:43,177
+- Jeremy Melton?
+- Quem é o Jeremy Melton?
+
+265
+00:28:44,024 --> 00:28:47,061
+- Estou brincando.
+- Quem é o Jeremy Melton?
+
+266
+00:28:47,304 --> 00:28:49,260
+Então? Sexto ano!
+
+267
+00:28:49,744 --> 00:28:51,974
+O pervertido, 30 quilos.
+
+268
+00:28:52,344 --> 00:28:54,858
+Dentes de coelho.
+"Você é tão bonita, Paige!"
+
+269
+00:28:58,944 --> 00:29:00,855
+Ele já não deve viver aqui, não é?
+
+270
+00:29:01,774 --> 00:29:04,288
+- Estou brincando, Lily!
+- Eu sei, é que...
+
+271
+00:29:05,094 --> 00:29:08,609
+- Que acha que aconteceu com ele?
+- Não sei. Que interessa isso?
+
+272
+00:29:09,294 --> 00:29:11,171
+Não interessa.
+
+273
+00:29:11,814 --> 00:29:14,203
+Fomos horríveis com aquele garoto.
+
+274
+00:29:14,654 --> 00:29:19,379
+Deixa prá lá... Só sei que isto foi mesmo mau.
+
+275
+00:29:25,713 --> 00:29:29,149
+Estou falando de larvas,
+de vermes vivos dentro dos chocolates.
+
+276
+00:29:29,633 --> 00:29:31,430
+Pelo menos, os deixou na porta.
+
+277
+00:29:31,753 --> 00:29:34,221
+Juro que tinha alguém
+no meu apartamento.
+
+278
+00:29:34,313 --> 00:29:36,781
+Deve ter deixado a porta aberta.
+
+279
+00:29:36,873 --> 00:29:38,909
+Quando saímos, estávamos apressadas.
+
+280
+00:29:38,993 --> 00:29:41,712
+Sim, mas fiquei arrasada.
+Devia ter visto a cara dele.
+
+281
+00:29:43,433 --> 00:29:45,071
+Olha o que nós temos aqui...
+
+282
+00:29:47,473 --> 00:29:48,986
+Ele é útil.
+
+283
+00:29:52,516 --> 00:29:54,871
+Então? Quer ir até lá?
+
+284
+00:29:59,716 --> 00:30:01,195
+Acho que não.
+
+285
+00:30:03,716 --> 00:30:05,274
+Ei, garotas!
+
+286
+00:30:06,286 --> 00:30:08,720
+- Este é o Max.
+- Olá, Max. Eu sou a Kate.
+
+287
+00:30:10,086 --> 00:30:12,919
+- Olá, Kate.
+- Chega, Max.
+
+288
+00:30:13,766 --> 00:30:15,757
+Estou só sendo educado, Paige.
+
+289
+00:30:16,006 --> 00:30:18,236
+Não acham a exposição demais?
+
+290
+00:30:18,646 --> 00:30:20,841
+Sim, é ótima. Saúde!
+
+291
+00:30:21,976 --> 00:30:24,879
+- É melhor do que a última.
+- Você odiou essa.
+
+292
+00:30:25,846 --> 00:30:27,753
+Não, não.
+
+293
+00:30:27,776 --> 00:30:30,754
+Não faz mal. Eu também odiei.
+
+294
+00:30:31,366 --> 00:30:33,676
+Mas um artista tem de explorar.
+
+295
+00:30:34,046 --> 00:30:35,843
+Max, desculpa.
+
+296
+00:30:35,926 --> 00:30:38,599
+Há problemas com a reprodução
+do vídeo no labirinto.
+
+297
+00:30:39,046 --> 00:30:40,638
+Droga!
+
+298
+00:30:41,086 --> 00:30:42,963
+Desculpem-me...
+
+299
+00:30:46,806 --> 00:30:47,955
+Garota...
+
+300
+00:30:52,686 --> 00:30:54,677
+Eu volto já.
+
+301
+00:31:00,496 --> 00:31:02,212
+- Olá.
+- Olá.
+
+302
+00:31:02,316 --> 00:31:05,160
+- Eu sou a Paige.
+- Olá, Paige. Eu sou o Campbell.
+
+303
+00:31:05,994 --> 00:31:09,837
+O que te traz a este fascinante
+evento cultural, Campbell?
+
+304
+00:31:10,694 --> 00:31:13,804
+Esta é uma boa pergunta, Paige.
+Para dizer a verdade, eu vim com...
+
+305
+00:31:13,884 --> 00:31:16,444
+Olá, meninas!
+Estou vendo que já conheceram o Campbell.
+
+306
+00:31:16,564 --> 00:31:19,032
+Sim, a Paige estava agora
+mesmo se metendo com ele.
+
+307
+00:31:19,124 --> 00:31:20,955
+Desculpa, eu não sabia.
+
+308
+00:31:20,984 --> 00:31:24,196
+Campbell, a Kate e a Lily.
+Vejo que já conhece a Paige.
+
+309
+00:31:24,364 --> 00:31:25,717
+É um prazer conhecê-las.
+
+310
+00:31:25,804 --> 00:31:28,364
+Nós quatro andávamos de laços de cabelos
+e de aparelho juntas.
+
+311
+00:31:28,444 --> 00:31:31,163
+Verdade?
+Acho que ficaram todas muito bem.
+
+312
+00:31:35,084 --> 00:31:36,995
+- Quer uma bebida?
+- Sim, por favor.
+
+313
+00:31:40,467 --> 00:31:43,106
+Dorothy, que mais é que tem
+guardado para você?
+
+314
+00:31:43,747 --> 00:31:46,739
+Dia de São Valentim. O que significa isso?
+
+315
+00:31:47,947 --> 00:31:50,620
+Afinal de que se trata?
+Celebração do verdadeiro amor?
+
+316
+00:31:51,547 --> 00:31:54,664
+Foi muito estranho.
+Uma máscara de Cupido, tipo querubim.
+
+317
+00:31:55,147 --> 00:31:57,217
+Como no baile do dia de São Valentim?
+
+318
+00:31:57,427 --> 00:31:59,145
+Que baile?
+
+319
+00:31:59,747 --> 00:32:02,215
+Do liceu. Meu Deus, o Jeremy Melton.
+
+320
+00:32:03,107 --> 00:32:08,063
+Isto é tão estranho.
+Estivemos mesmo falando dele esta tarde.
+
+321
+00:32:12,553 --> 00:32:14,350
+Por isso, senhoras e senhores,
+
+322
+00:32:14,433 --> 00:32:17,505
+espero que se divirtam
+no seu encontro com o par misterioso.
+
+323
+00:32:17,753 --> 00:32:20,187
+Por favor, as senhoras para a esquerda
+
+324
+00:32:20,393 --> 00:32:22,304
+e os homens para a direita.
+
+325
+00:32:23,153 --> 00:32:25,223
+Senhoras de um lado, homens do outro.
+
+326
+00:32:31,993 --> 00:32:34,188
+Senhoras de um lado, homens do outro.
+
+327
+00:32:45,913 --> 00:32:48,666
+<i>O que quer fazer?
+
+328
+00:32:49,273 --> 00:32:54,090
+- Que acontece com este cara?
+- Olha para aquilo.
+
+329
+00:32:55,713 --> 00:32:58,003
+<i>O que quer fazer?
+
+330
+00:32:59,201 --> 00:33:01,061
+<i>O que quer fazer?
+
+331
+00:33:02,042 --> 00:33:03,837
+<i>O que quer fazer?
+
+332
+00:33:04,592 --> 00:33:06,662
+Parece um anúncio de lingerie.
+
+333
+00:33:07,552 --> 00:33:10,941
+É essa a ideia dele. É arte. Apenas continue.
+
+334
+00:33:18,032 --> 00:33:19,704
+<i>Ama-me.
+
+335
+00:33:19,992 --> 00:33:21,630
+<i>Ama-me.
+
+336
+00:33:21,872 --> 00:33:23,544
+<i>Ama-me.
+
+337
+00:33:23,872 --> 00:33:25,544
+<i>Ama-me.
+
+338
+00:33:26,792 --> 00:33:27,544
+<i>Ama-me.
+
+339
+00:33:28,912 --> 00:33:29,960
+<i>Ama-me.
+
+340
+00:33:34,887 --> 00:33:36,605
+Garotas?
+
+341
+00:34:11,449 --> 00:34:13,405
+- O que foi?
+- Quem é aquela?
+
+342
+00:34:16,049 --> 00:34:18,961
+Amy... É a Amy.
+
+343
+00:34:19,529 --> 00:34:22,513
+Que quer dizer com isso? É Amy...
+Mande-a embora daqui!
+
+344
+00:34:23,539 --> 00:34:26,053
+- Mas fui eu quem a convidou.
+- Como é que é?
+
+345
+00:34:28,939 --> 00:34:31,328
+- Relaxa.
+- Mas que diabo você está fazendo?
+
+346
+00:34:32,859 --> 00:34:35,523
+Nós não estamos mais no colegial, Ok?
+
+347
+00:34:37,259 --> 00:34:39,819
+Tenho de ir.
+Amanhã, tenho um vôo muito cedo.
+
+348
+00:34:40,491 --> 00:34:43,289
+- Não tenho de aturar isto.
+- Ótimo. Qual é o problema?
+
+349
+00:34:43,531 --> 00:34:45,249
+Qual é o problema?
+
+350
+00:34:45,491 --> 00:34:49,428
+O problema é que você é
+um pobretão e um hipócrita!
+
+351
+00:34:50,532 --> 00:34:52,807
+Sim, mas você já sabia isso.
+
+352
+00:34:57,012 --> 00:34:59,401
+Isso significa que não vai
+ser minha namorada?
+
+353
+00:36:19,657 --> 00:36:21,807
+Já te disse que quero o dinheiro de volta.
+
+354
+00:36:22,737 --> 00:36:26,019
+- Ei, é com você, sanguessuga.
+- Não entendo o que quer dizer...
+
+355
+00:36:27,672 --> 00:36:31,585
+- Está tudo bem?
+- Olha a última vítima!
+
+356
+00:36:32,152 --> 00:36:35,064
+- Desculpa, mas quem é você?
+- Não é da sua conta.
+
+357
+00:36:35,712 --> 00:36:37,942
+- Ela não é ninguém.
+- Ninguém.
+
+358
+00:36:38,192 --> 00:36:41,502
+Só a idiota que espera pelo retorno
+do investimento na Internet.
+
+359
+00:36:42,232 --> 00:36:45,640
+Como é que a chamou?
+Chupe-me-tudo.com?
+
+360
+00:36:45,792 --> 00:36:47,629
+Que engraçado. Vamos, Dorothy.
+
+361
+00:36:48,989 --> 00:36:51,344
+Tenha cuidado, sanguessuga.
+
+362
+00:36:52,229 --> 00:36:55,027
+- Desculpa não ter conseguido.
+- Não perdeu grande coisa,
+
+363
+00:36:55,109 --> 00:36:57,987
+a não ser o namorado da Dorothy
+sendo atacado por uma louca.
+
+364
+00:36:58,229 --> 00:37:01,505
+E arte muito ruim.
+Aquilo era basicamente pornô.
+
+365
+00:37:02,029 --> 00:37:03,906
+Parece-me Ok.
+
+366
+00:37:06,861 --> 00:37:09,898
+Não sei. Ultimamente,
+têm acontecido coisas muito estranhas.
+
+367
+00:37:10,020 --> 00:37:13,693
+Hoje encontrei uma máscara
+de Cupido no elevador.
+
+368
+00:37:13,700 --> 00:37:16,853
+Virei-me e vi o meu assustador
+vizinho olhando para mim.
+
+369
+00:37:17,220 --> 00:37:20,578
+"Não se atrase, Kate.
+Você é de primeira, Kate." Esse cara?
+
+370
+00:37:20,660 --> 00:37:22,378
+Sim, esse cara.
+
+371
+00:37:22,460 --> 00:37:26,652
+Sempre que vou lavar a roupa, ele está lá.
+De dia ou de noite, não importa.
+
+372
+00:37:27,660 --> 00:37:29,457
+Pára com isso.
+
+373
+00:37:29,700 --> 00:37:31,665
+Ontem, reparei que me faltavam
+peças íntimas.
+
+374
+00:37:31,670 --> 00:37:33,892
+Não se preocupe com isso. Fui eu.
+
+375
+00:37:34,180 --> 00:37:36,250
+Gosto de experimentá-la, sabia?
+
+376
+00:37:36,540 --> 00:37:39,892
+Faz-me sentir livre,
+liberta o meu lado feminino.
+
+377
+00:37:39,820 --> 00:37:42,334
+- O que vão desejar?
+- Eu quero uma Corona.
+
+378
+00:37:42,580 --> 00:37:44,491
+Uma soda, por favor.
+
+379
+00:37:45,100 --> 00:37:46,897
+Pensando melhor, são duas.
+
+380
+00:37:55,321 --> 00:37:56,959
+O que você disse?
+
+381
+00:37:59,441 --> 00:38:01,716
+Estou só pedindo uma oportunidade,
+só isso.
+
+382
+00:38:02,881 --> 00:38:04,758
+Eu quero, Adam, mas...
+
+383
+00:38:06,761 --> 00:38:10,797
+...você bebe e se descontrola
+e isso me assusta.
+
+384
+00:38:10,801 --> 00:38:13,305
+Eu parei com isso. Mudei.
+
+385
+00:38:14,094 --> 00:38:16,444
+Então não faz diferença
+se tiver que esperar um pouco.
+
+386
+00:38:23,955 --> 00:38:24,865
+Certo.
+
+387
+00:38:25,435 --> 00:38:29,144
+Não entendo. Já lhe dissemos que
+não víamos a Shelley há um ano.
+
+388
+00:38:29,795 --> 00:38:31,945
+- Como é que podemos ajudá-lo?
+- Animem-me.
+
+389
+00:38:33,035 --> 00:38:35,151
+A propósito, não havia mais uma?
+
+390
+00:38:35,315 --> 00:38:37,704
+A Lily. Ela está na cidade.
+
+391
+00:38:40,835 --> 00:38:43,474
+Isto são cartões de pêsames
+que os pais dela receberam.
+
+392
+00:38:43,555 --> 00:38:45,910
+Olhem para este... É estranho.
+
+393
+00:38:48,635 --> 00:38:50,865
+"Que pena, tão triste... Jeremy Melton"
+
+394
+00:38:52,515 --> 00:38:54,312
+J.M.
+
+395
+00:38:59,001 --> 00:39:02,198
+- Jeremy Melton...
+- Quem é o Jeremy Melton?
+
+396
+00:39:02,521 --> 00:39:04,352
+Era um imbecil do sexto ano.
+
+397
+00:39:04,441 --> 00:39:07,001
+- Ele e a Shelley eram amigos?
+- Não, a questão é essa.
+
+398
+00:39:07,081 --> 00:39:09,549
+Não o vemos há anos.
+Por que enviaria ele um cartão?
+
+399
+00:39:09,641 --> 00:39:11,438
+Porque é ele.
+
+400
+00:39:11,961 --> 00:39:13,713
+É o Jeremy.
+
+401
+00:39:14,161 --> 00:39:16,914
+No outro dia,
+recebi um cartão de São Valentim horrível.
+
+402
+00:39:17,001 --> 00:39:19,515
+Alguém dizia que ia me matar
+e estava assinado J.M.
+
+403
+00:39:19,601 --> 00:39:21,717
+O nosso também. O cartão e os chocolates.
+
+404
+00:39:23,809 --> 00:39:26,448
+Ambas receberam cartões
+ameaçadores assinados J. M?
+
+405
+00:39:27,129 --> 00:39:29,359
+Eu digo isso porque procuro
+um tal Jason Marquette
+
+406
+00:39:29,449 --> 00:39:31,440
+e vocês não se lembram de me dizer isso?
+
+407
+00:39:31,649 --> 00:39:34,288
+- Achei que era uma brincadeira.
+- Tudo bem.
+
+408
+00:39:34,369 --> 00:39:36,883
+Que razões teria o Jeremy Melton
+para lhes fazerem mal?
+
+409
+00:39:36,969 --> 00:39:38,846
+Ele me atacou no baile da escola
+
+410
+00:39:38,929 --> 00:39:40,920
+e foi para o reformatório por causa disso.
+
+411
+00:39:41,469 --> 00:39:44,745
+Isso explica a sua ameaça,
+mas porque a Shelley? Porque as outras amigas?
+
+412
+00:39:45,429 --> 00:39:47,897
+- Não sei, mas é ele.
+- Você não sabe isso.
+
+413
+00:39:48,029 --> 00:39:50,827
+A verdade é que um garoto
+que todas chatearam no sexto ano
+
+414
+00:39:51,069 --> 00:39:53,219
+não deve valer a pena tanta preocupação,
+
+415
+00:39:59,349 --> 00:40:01,260
+mas eu vou investigar do mesmo jeito.
+
+416
+00:40:02,669 --> 00:40:04,421
+Faça isso.
+
+417
+00:40:06,828 --> 00:40:09,740
+- Sei que a próxima sou eu.
+- O que você está dizendo?
+
+418
+00:40:09,988 --> 00:40:12,297
+O Jeremy foi para o reformatório
+por minha causa.
+
+419
+00:40:12,868 --> 00:40:14,938
+Dorothy, ele te atacou.
+
+420
+00:40:16,308 --> 00:40:17,980
+Dorothy...
+
+421
+00:40:21,112 --> 00:40:23,865
+Ele te atacou, não atacou?
+
+422
+00:40:24,632 --> 00:40:27,749
+Não, não atacou.
+
+423
+00:40:29,952 --> 00:40:33,384
+- Eu é que disse que tinha atacado.
+- Por que é que fez isso?
+
+424
+00:40:33,992 --> 00:40:35,983
+Vocês não iam entender...
+
+425
+00:40:37,392 --> 00:40:40,290
+Vocês lembram de como
+eu era naquele tempo?
+
+426
+00:40:42,285 --> 00:40:44,116
+Você era maior.
+
+427
+00:40:44,725 --> 00:40:46,681
+Era larga de ossos.
+
+428
+00:40:46,965 --> 00:40:49,195
+- Era roliça.
+- Era gorda!
+
+429
+00:40:50,085 --> 00:40:53,043
+A única pessoa que olhou
+para mim naquela noite foi o Jeremy.
+
+430
+00:40:53,245 --> 00:40:55,918
+Quando aqueles caras apareceram
+e nos viram aos beijos,
+
+431
+00:40:56,165 --> 00:40:58,395
+não consegui suportar e...
+
+432
+00:40:58,805 --> 00:41:00,557
+...menti.
+
+433
+00:41:00,765 --> 00:41:02,596
+Disse que ele me atacou.
+
+434
+00:41:03,235 --> 00:41:05,510
+Por que não disse isso ao Vaughn?
+
+435
+00:41:06,195 --> 00:41:07,867
+Não fui capaz.
+
+436
+00:41:08,978 --> 00:41:11,572
+Dorothy, se eu fosse você,
+não me preocupava com isso.
+
+437
+00:41:12,291 --> 00:41:16,019
+O Jeremy Melton nem água
+bebia sem meter os pés pelas mãos.
+
+438
+00:41:16,491 --> 00:41:19,858
+Não me parece que seja capaz
+de traçar um plano de vingança.
+
+439
+00:41:27,541 --> 00:41:29,497
+"Não Foram Encontrados Resultados"
+
+440
+00:41:44,450 --> 00:41:44,768
+Assustou-me!
+
+441
+00:41:44,830 --> 00:41:48,026
+- Que faz aqui?
+- Pensei que íamos jantar.
+
+442
+00:41:48,030 --> 00:41:50,087
+Nós íamos?
+
+443
+00:41:50,330 --> 00:41:53,288
+Sim, jantar. Desculpa.
+Esqueci-me completamente.
+
+444
+00:41:54,301 --> 00:41:56,690
+- Estou só um pouco distraída.
+- O que acontece?
+
+445
+00:41:58,551 --> 00:42:02,100
+Não deve ser nada.
+Se eu te disser, não vai acreditar.
+
+446
+00:42:03,791 --> 00:42:05,782
+Acha que é rebuscado, não acha?
+
+447
+00:42:06,031 --> 00:42:09,068
+Toda esta teoria da "Vingança dos Tolos"
+do Jeremy Melton...
+
+448
+00:42:09,751 --> 00:42:11,469
+Não sei.
+
+449
+00:42:14,471 --> 00:42:15,984
+Que devo fazer?
+
+450
+00:42:16,271 --> 00:42:20,278
+Estou pensando no México,
+em nós dois, até isto se resolver.
+
+451
+00:42:23,631 --> 00:42:25,189
+Bem...
+
+452
+00:42:29,833 --> 00:42:32,905
+- Quer subir?
+- Sim, quero, acredite.
+
+453
+00:42:44,353 --> 00:42:46,309
+Quero mesmo.
+
+454
+00:42:46,953 --> 00:42:48,591
+Mas?
+
+455
+00:42:48,833 --> 00:42:52,355
+Não quero que faça nada
+que amanhã vá se arrepender.
+
+456
+00:42:52,363 --> 00:42:57,193
+Por isso, sobe antes que eu fraqueje,
+está bem?
+
+457
+00:43:04,033 --> 00:43:06,973
+Não se preocupe, está bem?
+
+458
+00:43:06,973 --> 00:43:09,481
+Vai correr tudo bem.
+
+459
+00:43:11,420 --> 00:43:12,420
+- Ok.
+
+460
+00:43:16,468 --> 00:43:19,904
+- Ok. Primeiro, mandaram o Melton
+para o reformatório.
+
+461
+00:43:20,748 --> 00:43:23,137
+Um ano depois, ele é transferido para ala juvenil.
+
+462
+00:43:23,428 --> 00:43:26,022
+Seis meses depois,
+num hospital psiquiátrico do Estado.
+
+463
+00:43:26,388 --> 00:43:28,106
+É horrível.
+
+464
+00:43:28,228 --> 00:43:30,808
+Devem ter feito
+um grande escândalo no baile.
+
+465
+00:43:32,395 --> 00:43:35,386
+- Onde está ele agora detetive?
+- Não faço ideia.
+
+466
+00:43:35,475 --> 00:43:38,467
+Só sabemos que os pais morreram
+num incêndio há uns dois anos.
+
+467
+00:43:38,715 --> 00:43:40,626
+- Ele esteve envolvido?
+- Não sei.
+
+468
+00:43:40,715 --> 00:43:42,433
+Foi tratado como acidente.
+
+469
+00:43:42,515 --> 00:43:44,426
+Sigam-me, quero mostrar-lhes uma coisa.
+
+470
+00:43:44,515 --> 00:43:46,983
+Fui buscar uma foto e fiz alterações.
+
+471
+00:43:54,155 --> 00:43:55,634
+Aqui vai...
+
+472
+00:43:55,955 --> 00:43:58,185
+- É ele.
+- Certo.
+
+473
+00:43:58,955 --> 00:44:01,026
+Conhecem alguém que tenha este aspecto?
+
+474
+00:44:01,995 --> 00:44:03,747
+Ou este?
+
+475
+00:44:04,315 --> 00:44:06,226
+Ou este?
+
+476
+00:44:06,675 --> 00:44:08,582
+Ou este?
+
+477
+00:44:09,940 --> 00:44:12,135
+Lentes de contato castanhas,
+azuis, verdes,
+
+478
+00:44:12,340 --> 00:44:15,013
+barba, cabelo, bigode?
+Dez anos é muito tempo.
+
+479
+00:44:15,100 --> 00:44:17,694
+E isto sem contar com a hipótese
+da cirurgia plástica.
+
+480
+00:44:17,820 --> 00:44:19,811
+Tem fotos mais recentes dele?
+
+481
+00:44:21,660 --> 00:44:24,174
+Se tivesse,
+não acha que estaríamos a olhar para elas?
+
+482
+00:44:24,300 --> 00:44:28,162
+A questão é que pode ser qualquer pessoa.
+E a amiga de vocês, Lily?
+
+483
+00:44:28,170 --> 00:44:30,288
+Já lhe dissemos. Ela está em L.A.
+
+484
+00:44:31,220 --> 00:44:33,940
+E o Max Raimi?
+O que sabem sobre ele?
+
+485
+00:44:33,620 --> 00:44:37,168
+Só que é um artista. E ruim.
+
+486
+00:44:39,490 --> 00:44:41,446
+Eu sei, já vi o trabalho dele.
+
+487
+00:44:42,410 --> 00:44:44,640
+E as outras? Algum namorado?
+
+488
+00:44:45,050 --> 00:44:47,280
+A Paige, por exemplo?
+
+489
+00:44:51,410 --> 00:44:53,799
+A resposta é não.
+
+490
+00:44:56,090 --> 00:44:58,001
+Então e você?
+
+491
+00:44:59,482 --> 00:45:01,916
+Mais ou menos.
+Mas conheço-o há algum tempo.
+
+492
+00:45:02,602 --> 00:45:04,274
+Ou seja?
+
+493
+00:45:04,562 --> 00:45:06,553
+Ou seja,
+trabalhamos juntos no mesmo jornal.
+
+494
+00:45:06,682 --> 00:45:08,479
+Ele faz a cobertura dos Giants.
+
+495
+00:45:08,562 --> 00:45:10,553
+A mãe é advogada, o pai é professor.
+
+496
+00:45:10,802 --> 00:45:12,918
+São de Seattle.
+
+497
+00:45:13,242 --> 00:45:15,312
+Que tal?
+
+498
+00:45:17,782 --> 00:45:20,342
+- Então e você?
+- Eu tenho um namorado,
+
+499
+00:45:20,782 --> 00:45:23,580
+mas posso garantir
+que não é o seu Jeremy Melton.
+
+500
+00:45:24,662 --> 00:45:26,539
+Por que não me deixa decidir isso?
+
+501
+00:45:27,342 --> 00:45:29,537
+O nome dele é Campbell.
+É muito inteligente
+
+502
+00:45:30,022 --> 00:45:32,297
+e fundou a sua própria
+empresa na Internet.
+
+503
+00:45:32,422 --> 00:45:34,299
+Há quanto tempo é que o conhece?
+
+504
+00:45:34,382 --> 00:45:36,373
+- Há um mês.
+- Onde é que o conheceu?
+
+505
+00:45:38,521 --> 00:45:42,196
+No ioga. Mas foi num ginásio
+muito exclusivo, Ok?
+
+506
+00:45:44,281 --> 00:45:48,747
+Espere... você não disse que o
+Campbell estava em sua casa com você?
+
+507
+00:45:48,961 --> 00:45:53,260
+E está. O colega dele
+não pagou o aluguel, por isso...
+
+508
+00:45:53,311 --> 00:45:57,630
+Dorothy, conheceu o cara há um mês
+e ele já está em sua casa com você?
+
+509
+00:45:57,841 --> 00:46:00,878
+Desculpe Paige, mas houve caras
+de quem nem sabia os nomes
+
+510
+00:46:00,878 --> 00:46:05,016
+que entraram em suas calças.
+Ele só entrou em minha casa.
+
+511
+00:46:05,978 --> 00:46:08,173
+- Não precisava dizer isso, sua vaca!
+- Muito bem.
+
+512
+00:46:09,978 --> 00:46:14,667
+Já que estamos falando nisso,
+qual é o sobrenome do Campbell?
+
+513
+00:46:21,868 --> 00:46:24,357
+Sabe de uma coisa, chega, isso é besteira!
+
+514
+00:46:24,378 --> 00:46:27,347
+Eu não tenho de responder
+a estas perguntas.
+
+515
+00:46:28,595 --> 00:46:30,506
+Nos vemos mais tarde.
+
+516
+00:46:35,355 --> 00:46:37,277
+Correu tudo bem.
+
+517
+00:46:39,235 --> 00:46:41,191
+- Tenho de ir.
+- Eu também.
+
+518
+00:46:42,595 --> 00:46:44,904
+Paige, quero que fique mais um momento.
+
+519
+00:46:46,246 --> 00:46:48,635
+- Estou com problemas, detetive?
+
+520
+00:46:49,006 --> 00:46:52,884
+- Quer me interrogar?
+- Só vai levar um segundo.
+
+521
+00:46:53,886 --> 00:46:56,660
+- Falamos depois?
+- Claro, se não ficar presa.
+
+522
+00:47:05,350 --> 00:47:07,102
+Sente-se, por favor.
+
+523
+00:47:18,482 --> 00:47:20,791
+Então, Paige,
+o que vamos fazer em relação a isto?
+
+524
+00:47:20,882 --> 00:47:24,158
+Pensei que era o seu trabalho.
+Você é que é o detetive, certo?
+
+525
+00:47:25,042 --> 00:47:26,919
+Não estou falando do caso.
+
+526
+00:47:27,122 --> 00:47:29,556
+Não seja modesta. Eu estou falando disto.
+
+527
+00:47:31,282 --> 00:47:33,591
+- Disto o quê?
+- Desta tensão.
+
+528
+00:47:34,082 --> 00:47:35,754
+Tensão?
+
+529
+00:47:38,522 --> 00:47:43,537
+Desta tensão sexual. Sejamos honestos...
+
+530
+00:47:47,331 --> 00:47:51,290
+Detetive Vaughn,
+por favor tire a mão da minha perna.
+
+531
+00:47:52,931 --> 00:47:55,764
+Muito bem. Onde quer que eu ponha?
+
+532
+00:47:56,771 --> 00:47:58,762
+Que tal no seu rabo?
+
+533
+00:48:00,411 --> 00:48:02,288
+Tenha um bom dia.
+
+534
+00:48:08,994 --> 00:48:10,712
+Depois me diga alguma coisa!
+
+535
+00:48:36,206 --> 00:48:37,924
+Quem é você?
+
+536
+00:48:41,366 --> 00:48:45,925
+Isto não é o que parece, Ok.
+Tenha calma, eu não estou bem.
+
+537
+00:49:06,639 --> 00:49:08,231
+Aqui está.
+
+538
+00:49:15,679 --> 00:49:17,271
+Feliz Dia de São Valentim.
+
+539
+00:49:17,359 --> 00:49:20,412
+- Feliz Dia de São Valentim.
+- Vim te trazer um presente.
+
+540
+00:49:20,459 --> 00:49:22,373
+Teria chegado mais cedo,
+
+541
+00:49:22,399 --> 00:49:24,357
+mas passei grande parte da tarde
+falando com aquele detetive.
+
+542
+00:49:24,439 --> 00:49:26,031
+Foi muito romântico.
+
+543
+00:49:26,199 --> 00:49:29,652
+- Eu queria te explicar isso.
+- Não há nada para explicar.
+
+544
+00:49:29,689 --> 00:49:31,189
+Ele está falando com todo mundo.
+
+545
+00:49:31,399 --> 00:49:33,128
+Kate, não se preocupe.
+
+546
+00:49:33,129 --> 00:49:36,742
+Ei, precisa de companhia para a festa
+da Dorothy, esta noite?
+
+547
+00:49:37,279 --> 00:49:40,156
+Vamos lá, você não quer ir a uma festa
+de São Valentim sozinha.
+
+548
+00:49:41,169 --> 00:49:42,326
+É verdade.
+
+549
+00:49:44,160 --> 00:49:45,912
+Onde está o meu presente?
+
+550
+00:49:51,840 --> 00:49:53,592
+Fui eu que escolhi.
+
+551
+00:49:53,680 --> 00:49:55,875
+É uma gracinha.
+
+552
+00:49:56,080 --> 00:49:58,071
+Também tenho uma coisa para você.
+
+553
+00:50:02,760 --> 00:50:05,156
+- Mandou limpar a medalha.
+- Vire-se.
+
+554
+00:50:14,058 --> 00:50:17,892
+"Eu te devo Ternura, Amor e Carinho"
+
+555
+00:50:18,898 --> 00:50:20,616
+Isto é fantástico, adoro.
+
+556
+00:50:20,698 --> 00:50:22,689
+- Isto não há nas lojas.
+- Não.
+
+557
+00:50:26,738 --> 00:50:28,376
+Tchau.
+
+558
+00:50:59,885 --> 00:51:02,604
+- Mas que diabo está fazendo?
+- Que faz aqui?
+
+559
+00:51:03,525 --> 00:51:06,403
+O Detetive Vaughn é um sacana nojento.
+
+560
+00:51:06,805 --> 00:51:08,955
+- Que aconteceu?
+- Depois de ter saído,
+
+561
+00:51:09,205 --> 00:51:11,480
+colocou a mão na minha perna.
+- Foi você que pediu?
+
+562
+00:51:11,725 --> 00:51:14,398
+- O que é que acha?
+- Não sei.
+
+563
+00:51:18,245 --> 00:51:20,475
+<i>-Alô?
+- É a Dorothy.
+
+564
+00:51:20,725 --> 00:51:22,681
+Espera, Dorothy. A Paige também está aqui.
+
+565
+00:51:24,925 --> 00:51:26,563
+Olá, Dorothy.
+
+566
+00:51:26,765 --> 00:51:29,199
+A Kate quase me bateu
+na cabeça com um ferro.
+
+567
+00:51:29,939 --> 00:51:31,930
+Vieram aqui falar com o Campbell.
+
+568
+00:51:32,179 --> 00:51:34,215
+<i>Eu sei. Também interrogaram o Adam.
+
+569
+00:51:34,419 --> 00:51:37,377
+Ligaram-lhe ou interrogaram-no
+durante duas horas?
+
+570
+00:51:37,979 --> 00:51:41,096
+Agora pediram ao Campbell
+para não sair da cidade por uns dias.
+
+571
+00:51:41,219 --> 00:51:42,732
+<i>É humilhante.
+
+572
+00:51:45,126 --> 00:51:47,594
+- Disse o nome dele ao Vaughn?
+- Não!
+
+573
+00:51:48,206 --> 00:51:51,039
+<i>- Então como é que ele soube?
+- Ele é detetive.
+
+574
+00:51:51,926 --> 00:51:53,837
+<i>Você anda para trás e para a frente
+
+575
+00:51:53,926 --> 00:51:56,377
+<i>com o Adam tipo "Devo ou não?"
+
+576
+00:51:56,386 --> 00:51:58,013
+O Campbell é tudo o que tenho.
+
+577
+00:51:58,016 --> 00:52:00,320
+<i>Não me agrada ser abandonada
+na minha festa, kate.
+
+578
+00:52:00,406 --> 00:52:04,956
+Vamos lá, desliga o telefone e compensa o cara,
+já que ele está tão mal.
+
+579
+00:52:04,956 --> 00:52:06,722
+<i>Quer quer dizer com isso?
+
+580
+00:52:07,886 --> 00:52:09,572
+Usa a sua imaginação.
+
+581
+00:52:11,165 --> 00:52:12,996
+<i>- Obrigada, Paige.
+- De nada.
+
+582
+00:52:16,325 --> 00:52:18,281
+Ela é tão ridícula!
+
+583
+00:52:19,165 --> 00:52:23,202
+<i>- Precisa de instruções?
+- É o Detetive Vaughn, Kate.
+
+584
+00:52:26,485 --> 00:52:28,564
+Desculpe, Detetive.
+
+585
+00:52:28,885 --> 00:52:30,431
+Tenho boas notícias.
+Apanhamos o Marquette.
+
+586
+00:52:31,895 --> 00:52:33,663
+<i>Isso significa que é o Jeremy?
+
+587
+00:52:33,675 --> 00:52:35,382
+Ainda não começamos o interrogatório.
+
+588
+00:52:35,395 --> 00:52:37,778
+Mas, se não for o Melton,
+vai continuar a procurar, certo?
+
+589
+00:52:37,835 --> 00:52:40,394
+<i>Vamos continuar a vasculhar
+todos os ângulos.
+
+590
+00:52:40,485 --> 00:52:42,964
+<i>Entretanto, tenha cuidado.
+Fique com as suas amigas.
+
+591
+00:52:41,965 --> 00:52:44,855
+Quando souber
+mais alguma coisa, te falo.
+
+592
+00:52:44,895 --> 00:52:46,657
+Obrigada, detetive.
+
+593
+00:52:49,886 --> 00:52:51,444
+Então?
+
+594
+00:52:51,526 --> 00:52:52,959
+Apanharam o Marquette.
+
+595
+00:52:59,480 --> 00:53:01,277
+O que temos aqui?
+
+596
+00:53:01,800 --> 00:53:04,473
+O meu plano é ter isto
+pronto funcionando esta noite.
+
+597
+00:53:08,560 --> 00:53:10,516
+Desculpa aquilo desta manhã.
+
+598
+00:53:10,760 --> 00:53:14,271
+Não se preocupe com isso.
+Não foi nada de mais.
+
+599
+00:53:19,550 --> 00:53:21,070
+Feliz Dia de São Valentim
+
+600
+00:53:21,070 --> 00:53:22,911
+Dorothy, o que...
+
+601
+00:53:23,040 --> 00:53:26,759
+Não fazia ideia de que íamos
+trocar presentes. Verdade.
+
+602
+00:53:26,810 --> 00:53:29,460
+Estou envergonhado. Quer que eu abra?
+
+603
+00:53:31,880 --> 00:53:33,718
+Coloque-o.
+
+604
+00:53:41,600 --> 00:53:45,647
+- Gosta?
+- Se gosto?
+
+605
+00:53:45,800 --> 00:53:47,776
+Dorothy, adorei.
+
+606
+00:54:19,189 --> 00:54:22,420
+- Não se preocupe com isso.
+- É que...
+
+607
+00:54:28,829 --> 00:54:30,820
+Vou tomar uma ducha.
+
+608
+00:54:41,589 --> 00:54:43,386
+Agora é a minha vez.
+
+609
+00:54:53,852 --> 00:54:55,683
+É tão bonito!
+
+610
+00:54:59,412 --> 00:55:01,084
+Obrigada.
+
+611
+00:55:01,932 --> 00:55:05,315
+- Olha, tenho uma reunião...
+- Você vai embora?
+
+612
+00:55:05,362 --> 00:55:08,323
+Só vou tomar um copo.
+Demoro uma hora, no máximo.
+
+613
+00:55:08,572 --> 00:55:13,319
+Mas você tem a militante da Millie
+com o seu exército de homens...
+
+614
+00:55:13,332 --> 00:55:14,728
+Você vai ficar bem?
+
+615
+00:55:15,012 --> 00:55:17,387
+Sim, acho que sim.
+
+616
+00:55:18,492 --> 00:55:22,839
+Bem, quer me fazer companhia agora?
+
+617
+00:55:24,680 --> 00:55:27,353
+É tentador, mas...
+
+618
+00:55:27,680 --> 00:55:30,433
+Quero treinar um pouco
+antes da reunião,
+
+619
+00:55:30,720 --> 00:55:34,917
+mas prometo que estarei de volta
+para a festa.
+
+620
+00:55:47,080 --> 00:55:52,403
+Evan Wheeler, conta no. 3165936.
+
+621
+00:55:52,510 --> 00:55:54,805
+Já passamos por isto três vezes.
+
+622
+00:55:55,120 --> 00:55:57,350
+Sei que é toda a conta.
+
+623
+00:55:59,120 --> 00:56:02,903
+16 de Fevereiro de 1940.
+
+624
+00:56:03,400 --> 00:56:06,459
+Nome de solteira da mãe: Sather.
+
+625
+00:56:06,560 --> 00:56:08,026
+Mais alguma pergunta?
+
+626
+00:56:13,764 --> 00:56:15,800
+São Francisco.
+
+627
+00:56:16,284 --> 00:56:18,002
+O quê?
+
+628
+00:56:18,164 --> 00:56:21,236
+Não me diga onde é que eu nasci,
+transfira só os malditos fundos.
+
+629
+00:56:22,684 --> 00:56:24,481
+<i>Campbell...
+
+630
+00:56:25,244 --> 00:56:27,280
+<i>Campbell...
+
+631
+00:56:30,524 --> 00:56:32,196
+Sim, Dorothy?
+
+632
+00:56:32,604 --> 00:56:34,754
+<i>Ficamos sem água quente
+na casa principal.
+
+633
+00:56:34,844 --> 00:56:37,802
+<i>Pode me fazer um favor
+e ligar para o abastecimento central?
+
+634
+00:56:40,164 --> 00:56:42,930
+Claro, não há problema.
+
+635
+00:56:43,004 --> 00:56:46,154
+Perfeito! Agora faço parte do pessoal...
+
+636
+00:57:00,613 --> 00:57:02,171
+Perfeito.
+
+637
+00:57:32,921 --> 00:57:34,639
+Ótimo...
+
+638
+00:57:37,321 --> 00:57:39,152
+Droga!
+
+639
+00:57:43,841 --> 00:57:45,752
+Mesmo perfeito.
+
+640
+00:58:09,056 --> 00:58:10,808
+Merda!
+
+641
+00:58:32,458 --> 00:58:34,688
+Acho que isto vale pelo menos um Porsche.
+
+642
+00:59:07,745 --> 00:59:09,815
+Aqui está você. Com licença...
+
+643
+00:59:10,065 --> 00:59:11,783
+Aqui está você!
+
+644
+00:59:12,385 --> 00:59:14,296
+Já conseguiu arranjar alguém?
+
+645
+00:59:14,505 --> 00:59:16,621
+- Não consegui falar com o Brian.
+- Com quem?
+
+646
+00:59:17,025 --> 00:59:20,778
+Com o Brian.
+Se lembra do cara dos "Encontros Turbo"?
+
+647
+00:59:20,825 --> 00:59:24,228
+- Vou dar uma volta.
+- Tudo bem, diverta-se.
+
+648
+00:59:38,305 --> 00:59:39,777
+O Campbell ainda não apareceu?
+
+649
+00:59:39,785 --> 00:59:40,818
+Não.
+
+650
+00:59:42,239 --> 00:59:45,072
+Bem, são só... onze horas.
+
+651
+00:59:45,519 --> 00:59:48,079
+Ele disse que chegava antes da festa.
+
+652
+00:59:50,519 --> 00:59:54,207
+Eu não sou idiota, Kate.
+Sei ver quando me abandonam, Ok?
+
+653
+00:59:54,159 --> 00:59:57,095
+- Você não foi abandonada.
+- Certo...
+
+654
+00:59:57,129 --> 00:59:59,962
+- Feliz dia de São Valentim.
+- Olá, Adam.
+
+655
+01:00:01,959 --> 01:00:03,631
+Está lindo.
+
+656
+01:00:04,589 --> 01:00:06,900
+- Você também.
+- Está com ótimo aspecto.
+
+657
+01:00:07,319 --> 01:00:09,927
+- Bela festa, Dorothy.
+- Uma porcaria.
+
+658
+01:00:11,717 --> 01:00:13,594
+Está tudo bem?
+
+659
+01:00:13,837 --> 01:00:17,195
+Sim, está tudo bem.
+Os homens é que são um saco.
+
+660
+01:00:17,317 --> 01:00:19,547
+Isto não é nenhuma ofensa para você, Adam.
+
+661
+01:00:20,237 --> 01:00:22,068
+Não achei que fosse.
+
+662
+01:00:25,997 --> 01:00:27,988
+Muito bem... Com licença...
+
+663
+01:00:29,757 --> 01:00:31,875
+Ele vai chegar, Dorothy. Não se preocupe.
+
+664
+01:00:36,822 --> 01:00:38,096
+Nem pergunte.
+
+665
+01:00:42,062 --> 01:00:45,259
+- Tem algum programa para mais tarde?
+- Vou estar ocupada.
+
+666
+01:00:46,062 --> 01:00:48,974
+Vou me encontrar com um homem
+e fazer amor com ele.
+
+667
+01:00:49,062 --> 01:00:51,622
+É mesmo? Isso me parece bom.
+Alguém que eu conheça?
+
+668
+01:00:52,102 --> 01:00:54,491
+Sou jovem e razoavelmente bem apanhada.
+
+669
+01:00:54,702 --> 01:00:58,091
+Não deve ser muito difícil
+encontrar voluntários.
+
+670
+01:01:04,032 --> 01:01:05,943
+Sim, você serve.
+
+671
+01:01:23,806 --> 01:01:25,239
+E aí, quentura.
+
+672
+01:01:26,566 --> 01:01:28,158
+Você veio.
+
+673
+01:01:29,686 --> 01:01:33,644
+- Gosto da forma como dança.
+- Por que não se junta a mim?
+
+674
+01:01:44,966 --> 01:01:46,445
+Sabe...
+
+675
+01:01:48,326 --> 01:01:50,807
+...preferia te levar lá para cima.
+
+676
+01:02:00,579 --> 01:02:02,251
+O que há lá em cima?
+
+677
+01:02:03,859 --> 01:02:05,850
+Uma coisa que quero te mostrar.
+
+678
+01:02:06,699 --> 01:02:08,451
+É uma surpresa.
+
+679
+01:02:10,059 --> 01:02:12,015
+Adoro surpresas.
+
+680
+01:02:34,932 --> 01:02:37,366
+- Então?
+- Então?
+
+681
+01:02:41,252 --> 01:02:44,210
+- Já estamos aqui em cima.
+- É verdade.
+
+682
+01:02:46,332 --> 01:02:48,448
+Não tinha uma surpresa para mim?
+
+683
+01:02:55,972 --> 01:02:58,042
+Sim, tenho.
+
+684
+01:03:12,822 --> 01:03:14,460
+Surpresa!
+
+685
+01:03:17,662 --> 01:03:20,256
+me trouxe-me até aqui
+para me mostrar o seu pênis?
+
+686
+01:03:21,622 --> 01:03:23,738
+Oh, isso é tão meigo!
+
+687
+01:03:28,822 --> 01:03:30,778
+Então?
+
+688
+01:03:33,662 --> 01:03:35,732
+O que está esperando, querida?
+
+689
+01:03:36,062 --> 01:03:37,780
+Ilumine-o!
+
+690
+01:03:38,982 --> 01:03:41,291
+- Você é incrível.
+- Paige...paige...Paige...
+
+691
+01:03:42,902 --> 01:03:46,851
+Relaxa, está bem? Vai ser divertido.
+
+692
+01:03:51,330 --> 01:03:54,606
+Muito bem... Tire a camisa.
+
+693
+01:03:55,450 --> 01:03:57,361
+Está bem.
+
+694
+01:04:09,530 --> 01:04:11,486
+Não se esqueça das calças.
+
+695
+01:04:22,442 --> 01:04:24,239
+Agora, deite-se.
+
+696
+01:04:35,882 --> 01:04:37,520
+Que está fazendo?
+
+697
+01:04:38,082 --> 01:04:40,816
+Esquece. É uma surpresa.
+
+698
+01:04:56,462 --> 01:04:59,495
+- Eu sabia.
+- Sabia o quê?
+
+699
+01:04:59,482 --> 01:05:02,604
+Soube logo que era excêntrica
+da primeira vez que te vi, Paige.
+
+700
+01:05:10,882 --> 01:05:13,988
+- Ainda quer que o ilumine?
+- Claro que quero.
+
+701
+01:05:31,952 --> 01:05:33,819
+Paige! Sua vaca!
+
+702
+01:05:41,389 --> 01:05:43,186
+Esta festa está um saco.
+
+703
+01:05:43,269 --> 01:05:45,260
+As coisas com o Brian não correram bem?
+
+704
+01:05:46,509 --> 01:05:48,625
+Meu Deus!
+
+705
+01:05:52,549 --> 01:05:55,507
+- Isto é uma festa privada.
+- Tira as patas de cima de mim.
+
+706
+01:05:55,669 --> 01:05:58,342
+- O que ela faz aqui?
+- Ia mesmo sair, Dorothy.
+
+707
+01:05:59,949 --> 01:06:02,179
+- Esse colar é meu!
+- Do que você está falando?
+
+708
+01:06:02,509 --> 01:06:05,819
+- Foi o Campbell que me deu.
+- Por acaso é namorada dele?
+
+709
+01:06:06,046 --> 01:06:07,046
+- Ganhou de dia dos namorados?
+
+710
+01:06:06,549 --> 01:06:09,537
+Não me parece querida,
+porque esse colar me foi roubado,
+
+711
+01:06:09,539 --> 01:06:12,849
+juntamente com o resto das minhas jóias.
+
+712
+01:06:14,719 --> 01:06:16,340
+Dói, não dói?
+
+713
+01:06:17,847 --> 01:06:19,758
+Ele me ama.
+
+714
+01:06:21,207 --> 01:06:23,402
+Ele ama o teu dinheiro.
+
+715
+01:06:24,767 --> 01:06:26,439
+Acredite em mim.
+
+716
+01:06:26,727 --> 01:06:28,957
+- Ok, hora de ir embora.
+- Cuidado com o casaco!
+
+717
+01:06:37,783 --> 01:06:40,217
+Agora é que esta festa
+está oficialmente um saco.
+
+718
+01:06:40,303 --> 01:06:42,100
+Não me diga!?
+
+719
+01:06:44,103 --> 01:06:47,663
+- Aonde você está indo?
+- Tomar ar.
+
+720
+01:06:52,423 --> 01:06:54,379
+Olá outra vez.
+
+721
+01:06:56,973 --> 01:07:00,283
+Espera aí. Para onde está fugindo?
+
+722
+01:07:00,773 --> 01:07:04,237
+- O que você quer, Max?
+- Calma, doçura.
+
+723
+01:07:04,493 --> 01:07:06,643
+Só queria saber se viu a Lily.
+
+724
+01:07:06,973 --> 01:07:09,528
+Ela está em L.A. E não me chame de doçura.
+
+725
+01:07:10,948 --> 01:07:13,587
+Bem, doçura, a Lily não está em L.A.
+
+726
+01:07:14,508 --> 01:07:16,180
+Do que você está falando?
+
+727
+01:07:17,068 --> 01:07:19,502
+Liguei para o escritório dela
+e ela nunca lá chegou.
+
+728
+01:07:20,868 --> 01:07:23,462
+- Tem certeza?
+- Em relação a quê?
+
+729
+01:07:23,748 --> 01:07:26,387
+Acorda! Em relação à Lily.
+
+730
+01:07:26,868 --> 01:07:28,745
+Há quanto tempo sabe disso?
+
+731
+01:07:30,928 --> 01:07:33,461
+Essa roupa te fica bem mesmo, garota.
+
+732
+01:07:33,508 --> 01:07:36,877
+Fica de dar água na boca..
+
+733
+01:09:08,666 --> 01:09:10,304
+Oh, que ótimo......
+
+734
+01:09:10,386 --> 01:09:12,104
+O que é que você é?
+
+735
+01:09:21,106 --> 01:09:22,983
+Eu, eu só...
+
+736
+01:12:38,338 --> 01:12:40,010
+Dorothy?
+
+737
+01:12:40,738 --> 01:12:42,808
+- Você está bem?
+- Estou.
+
+738
+01:12:43,418 --> 01:12:47,913
+O Max disse que a Lily nunca chegou a L.A.
+
+739
+01:12:48,138 --> 01:12:50,049
+Sabe alguma coisa dela?
+
+740
+01:12:50,858 --> 01:12:55,247
+Não, mas aposto que a Paige sabe.
+
+741
+01:12:58,260 --> 01:12:59,978
+- Acha que ele está aqui?
+- Quem?
+
+742
+01:13:00,060 --> 01:13:02,255
+- O Jeremy Melton.
+- Credo, espero que não.
+
+743
+01:13:02,420 --> 01:13:04,729
+O meu pai tem uma arma no escritório.
+
+744
+01:13:04,820 --> 01:13:06,970
+Isso é uma boa forma
+de morrermos as duas.
+
+745
+01:13:14,205 --> 01:13:14,921
+Alô?
+
+746
+01:13:15,205 --> 01:13:18,163
+É o Detetive Vaughn.
+Tivemos de libertar o Marquette.
+
+747
+01:13:18,325 --> 01:13:21,795
+<i>- Porquê?
+- Não tínhamos provas suficientes.
+
+748
+01:13:21,885 --> 01:13:24,638
+Ele pode estar em qualquer lado.
+Nessa festa, por exemplo.
+
+749
+01:13:24,725 --> 01:13:26,602
+Que foi? Que aconteceu?
+
+750
+01:13:27,285 --> 01:13:30,038
+Ouça, Detetive,
+a nossa amiga Lily nunca chegou a L.A.
+
+751
+01:13:30,445 --> 01:13:32,879
+Tenham cuidado, andem em grupo.
+Eu estou indo caminho.
+
+752
+01:13:38,525 --> 01:13:40,356
+Tiveram de soltar o Marquette.
+
+753
+01:13:40,885 --> 01:13:43,399
+- Então, não têm nada?
+- Vamos.
+
+754
+01:13:54,978 --> 01:13:56,809
+Qual dos doze passos é esse?
+
+755
+01:13:57,298 --> 01:14:02,052
+Kate! Aí está você! Te procurei por todo o lado.
+
+756
+01:14:03,058 --> 01:14:05,174
+E eu não estava no fundo da garrafa?
+
+757
+01:14:15,888 --> 01:14:17,367
+Kate!
+
+758
+01:14:17,848 --> 01:14:20,760
+Ah...não se zangue. É São Valentim.
+
+759
+01:14:21,128 --> 01:14:22,800
+Afaste-se de mim.
+
+760
+01:16:10,667 --> 01:16:12,498
+Olá...?
+
+761
+01:16:13,787 --> 01:16:15,584
+Olá...?
+
+762
+01:16:17,307 --> 01:16:19,343
+Alguém quer ser meu namorado?
+
+763
+01:16:22,267 --> 01:16:23,939
+Vamos lá...
+
+764
+01:16:31,908 --> 01:16:33,580
+Olá...?
+
+765
+01:16:36,868 --> 01:16:38,586
+Vamos lá...
+
+766
+01:16:42,708 --> 01:16:44,221
+Vamos...
+
+767
+01:16:50,946 --> 01:16:52,379
+Brian?
+
+768
+01:16:55,186 --> 01:16:57,222
+Apareça, droga!
+
+769
+01:18:56,104 --> 01:18:57,981
+- Kate!
+- Sim?
+
+770
+01:18:58,504 --> 01:19:00,495
+Estourou um fusível, merda!
+
+771
+01:19:07,784 --> 01:19:10,014
+Isto se esvaziou depressa.
+
+772
+01:19:10,264 --> 01:19:12,653
+- Onde está a Paige?
+- Provavelmente na banheira.
+
+773
+01:19:12,904 --> 01:19:15,020
+Nestas festas,
+ela acaba sempre na banheira.
+
+774
+01:19:16,504 --> 01:19:20,062
+- Onde está o Adam?
+- Não sei. Viu no barzinho?
+
+775
+01:19:21,906 --> 01:19:23,976
+Pode ser ele.
+
+776
+01:19:24,186 --> 01:19:26,142
+O que é que pode ser ele?
+
+777
+01:19:28,466 --> 01:19:30,297
+Vamos lá, Dorothy.
+
+778
+01:19:30,946 --> 01:19:32,982
+Não me venha com isso.
+
+779
+01:19:33,066 --> 01:19:35,182
+Por que não?
+
+780
+01:19:35,266 --> 01:19:38,491
+Porque eu conheço o Adam.
+
+781
+01:19:40,192 --> 01:19:42,752
+Não é nenhum anjo,
+mas também não é nenhum assassino.
+
+782
+01:19:42,832 --> 01:19:45,824
+Também não sabia que ele era alcoólatra
+quando o conheceu,
+
+783
+01:19:45,912 --> 01:19:49,541
+Não é mesmo? Estou só dizendo
+que não confio no seu julgamento.
+
+784
+01:19:50,072 --> 01:19:51,744
+Chega!
+
+785
+01:19:51,992 --> 01:19:54,984
+Vamos lá! Com um pouco de exercício
+e uma cirurgia plástica,
+
+786
+01:19:55,232 --> 01:19:57,871
+o Jeremy Melton poderia tornar-se
+o Adam Carr, certo?
+
+787
+01:19:59,345 --> 01:20:00,664
+Ok, pela mesma lógica,
+
+788
+01:20:00,745 --> 01:20:03,259
+por que é que o Jeremy Melton
+não pode ser o Campbell?
+
+789
+01:20:03,345 --> 01:20:04,937
+Você...
+
+790
+01:20:06,185 --> 01:20:08,096
+Você devia retirar o que disse.
+
+791
+01:20:10,345 --> 01:20:12,176
+Olha, Dorothy,
+
+792
+01:20:12,265 --> 01:20:16,082
+eu não estou dizendo que é verdade mas,
+se vamos fazer acusações...
+
+793
+01:20:16,705 --> 01:20:19,014
+Você ouviu o que aquela Ruthie disse.
+
+794
+01:20:19,705 --> 01:20:21,935
+Acha que conhece
+muito bem o Campbell?
+
+795
+01:20:22,185 --> 01:20:24,745
+Você nem sequer sabe o sobrenome dele,
+pelo amor de Deus!
+
+796
+01:20:27,945 --> 01:20:31,883
+- Não consegue suportar, não é?
+- Suportar o quê?
+
+797
+01:20:32,305 --> 01:20:34,967
+Que eu tenha encontrado alguém
+tão bom como o seu namorado,
+
+798
+01:20:34,465 --> 01:20:38,848
+igualmente inteligente e com boa aparência.
+
+799
+01:20:39,385 --> 01:20:41,431
+- Isso é ridículo.
+- Porquê?
+
+800
+01:20:42,144 --> 01:20:45,295
+Por que haveria a garota gorda
+de ter um romance?
+
+801
+01:20:46,064 --> 01:20:48,055
+- O quê?
+- Vamos lá, Kate!
+
+802
+01:20:48,344 --> 01:20:51,336
+Você sempre foi a mais popular,
+a Shelley a mais inteligente,
+
+803
+01:20:51,704 --> 01:20:54,741
+a Lily a mais divertida,
+a Paige a mais sexy,
+
+804
+01:20:54,944 --> 01:20:57,412
+e eu a grande e gorda.
+
+805
+01:20:58,144 --> 01:21:01,783
+No que me diz respeito,
+é exatamente assim.
+
+806
+01:21:02,862 --> 01:21:04,693
+Sabe de uma coisa?
+
+807
+01:21:05,422 --> 01:21:07,492
+Quero que você se lixem todas!
+
+808
+01:21:11,942 --> 01:21:14,481
+Dorothy! Volte aqui!
+
+809
+01:21:15,462 --> 01:21:17,259
+Vamos lá!
+
+810
+01:21:43,616 --> 01:21:45,447
+Vamos, Vaughn.
+
+811
+01:22:43,313 --> 01:22:46,191
+<i>Fala o Detetive Vaughn.
+Deixe a sua mensagem.
+
+812
+01:22:59,734 --> 01:23:02,043
+Paige! Dorothy!
+
+813
+01:23:03,894 --> 01:23:05,566
+Paige!
+
+814
+01:23:05,934 --> 01:23:07,811
+Dorothy!
+
+815
+01:23:48,304 --> 01:23:50,135
+Oi.
+
+816
+01:23:55,464 --> 01:23:57,136
+É você.
+
+817
+01:23:58,264 --> 01:24:00,698
+- Sou eu.
+- Ainda está aqui.
+
+818
+01:24:02,184 --> 01:24:04,823
+- Ainda estou aqui.
+- Ouvi um barulho.
+
+819
+01:24:04,904 --> 01:24:07,657
+Pensei que podia ter acontecido
+alguma coisa à Dorothy.
+
+820
+01:24:09,264 --> 01:24:11,220
+A Dorothy já é crescida.
+
+821
+01:24:13,304 --> 01:24:15,056
+O que quer dizer com isso?
+
+822
+01:24:15,264 --> 01:24:19,821
+- Dançe comigo, Kate.
+- Só quero encontrar a Dorothy.
+
+823
+01:24:19,824 --> 01:24:23,611
+Estou pedindo com educação.
+Dançe comigo.
+
+824
+01:24:31,890 --> 01:24:33,881
+Não me faça suplicar, Kate.
+
+825
+01:24:34,370 --> 01:24:35,962
+Por favor...
+
+826
+01:24:46,490 --> 01:24:48,417
+Estraguei tudo, Kate.
+
+827
+01:24:50,330 --> 01:24:53,764
+Bebeu alguns drinks. Não é o fim do mundo.
+
+828
+01:24:54,330 --> 01:24:55,816
+Não, você está desapontada.
+
+829
+01:24:58,412 --> 01:25:00,607
+Só estou só preocupada
+por você me magoar.
+
+830
+01:25:01,412 --> 01:25:04,431
+Te magoar? Te magoar?
+
+831
+01:25:05,092 --> 01:25:08,385
+Não, querida, eu te amo.
+
+832
+01:25:09,660 --> 01:25:11,696
+Você e a única coisa boa da minha vida.
+
+833
+01:25:12,860 --> 01:25:15,249
+Para mim, todos os outros podem morrer.
+
+834
+01:25:17,180 --> 01:25:19,091
+Mas você...
+
+835
+01:25:23,740 --> 01:25:25,731
+...significa muito para mim.
+
+836
+01:25:34,482 --> 01:25:36,757
+Qual o problema, querida? Está tremendo.
+
+837
+01:25:37,882 --> 01:25:40,237
+Eu também não quero te magoar, Adam.
+
+838
+01:25:40,482 --> 01:25:42,552
+Eu compreendo.
+
+839
+01:25:43,882 --> 01:25:45,713
+Mas eu vou.
+
+840
+01:25:50,322 --> 01:25:51,994
+Dorothy!
+
+841
+01:25:52,522 --> 01:25:54,035
+Dorothy!
+
+842
+01:25:56,002 --> 01:25:57,833
+Dorothy!
+
+843
+01:26:09,789 --> 01:26:11,461
+Olá, Kate.
+
+844
+01:26:19,549 --> 01:26:22,798
+- Mas que droga está acontecendo aqui?
+- Nada.
+
+845
+01:26:24,709 --> 01:26:26,955
+O que aconteceu lá...
+
+846
+01:26:27,209 --> 01:26:30,065
+Quero falar sobre isso.
+
+847
+01:26:30,149 --> 01:26:35,198
+Desculpa, fiquei perturbada
+por causa da bebida.
+
+848
+01:26:35,029 --> 01:26:37,480
+Estava indo tão bem.
+
+849
+01:26:58,486 --> 01:27:00,556
+Por que quer me magoar assim?
+
+850
+01:27:01,326 --> 01:27:03,635
+Te amo. Sempre te amei.
+
+851
+01:27:06,446 --> 01:27:09,500
+- Afaste-se de mim!
+- Vamos lá, Kate.
+
+852
+01:29:55,552 --> 01:29:57,942
+Desculpe!
+
+853
+01:29:59,552 --> 01:30:01,986
+Acabou-se.
+
+854
+01:30:07,682 --> 01:30:09,348
+Está tudo bem.
+
+855
+01:30:28,632 --> 01:30:30,270
+Dorothy!
+
+856
+01:30:46,752 --> 01:30:48,504
+Não olhe para ela.
+
+857
+01:31:07,428 --> 01:31:09,817
+É no alto da rua, à direita.
+Depressa, por favor.
+
+858
+01:31:18,948 --> 01:31:20,779
+A polícia já está a caminho.
+
+859
+01:31:21,708 --> 01:31:23,585
+Não entendo.
+
+860
+01:31:24,388 --> 01:31:27,218
+Ela estava tão feliz
+há poucas semanas atrás.
+
+861
+01:31:28,312 --> 01:31:30,382
+Feliz como nunca a tinha visto.
+
+862
+01:31:32,752 --> 01:31:34,504
+Está tudo bem.
+
+863
+01:31:37,672 --> 01:31:39,503
+Não consigo entender.
+
+864
+01:31:42,192 --> 01:31:44,023
+Só consigo pensar que...
+
+865
+01:31:44,312 --> 01:31:48,270
+quando uma pessoa é assim solitária
+ou tem tanto ódio,
+
+866
+01:31:48,752 --> 01:31:53,941
+pode aprender a escondê-lo mas,
+por dentro, isso nunca morre.
+
+867
+01:31:54,202 --> 01:31:58,229
+Mantém-se sempre.
+Devora-nos as entranhas.
+
+868
+01:31:59,644 --> 01:32:01,839
+Até que, um dia,
+temos de fazer alguma coisa.
+
+869
+01:32:03,564 --> 01:32:07,202
+Mas todas nós gostávamos dela.
+Éramos amigas.
+
+870
+01:32:07,384 --> 01:32:09,894
+Por vezes, isso não chega, eu acho.
+
+871
+01:32:14,604 --> 01:32:18,729
+- Desculpe aquilo que eu fiz.
+- Isso agora não importa.
+
+872
+01:32:20,934 --> 01:32:24,022
+- Te amo, Adam.
+- Te amo, Kate.
+
+873
+01:32:29,604 --> 01:32:31,579
+Sempre te amei.
+
+874
+01:32:32,305 --> 01:33:32,167
+Contribua tornando-se um usuário VIP 
+e remova todos os anúncios do www.OpenSubtitles.org

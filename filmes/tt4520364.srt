@@ -1,0 +1,4797 @@
+1
+00:00:43,480 --> 00:00:46,575
+Olá, querida. Sou eu.
+
+2
+00:00:46,817 --> 00:00:50,502
+Pensei em almoçarmos
+juntas hoje.
+
+3
+00:00:53,073 --> 00:00:55,798
+Meu anjo,
+você parece triste.
+
+4
+00:00:55,910 --> 00:00:58,119
+É uma coisa muito natural.
+
+5
+00:00:58,120 --> 00:01:01,539
+Na verdade, é uma coisa muito
+humana se sentir triste.
+
+6
+00:01:01,540 --> 00:01:03,305
+Mas as emoções não são ruins.
+
+7
+00:01:05,878 --> 00:01:07,545
+Desculpe, querida.
+
+8
+00:01:07,546 --> 00:01:10,548
+Ainda estou tentando
+que eles mudem de ideia...
+
+9
+00:01:10,549 --> 00:01:13,354
+e deixem você sair um pouco.
+
+10
+00:01:18,891 --> 00:01:21,017
+Não! Não!
+
+11
+00:01:21,018 --> 00:01:22,323
+Não!
+
+12
+00:01:23,562 --> 00:01:24,729
+Meu Deus!
+
+13
+00:01:24,730 --> 00:01:27,905
+Morgan, Morgan.
+Fique calma, por favor.
+
+14
+00:01:28,442 --> 00:01:29,692
+Morgan.
+
+15
+00:01:29,693 --> 00:01:32,168
+Está tudo bem. Está tudo bem.
+
+16
+00:01:52,633 --> 00:01:55,688
+Reunião por acesso remoto
+para SynSect.
+
+17
+00:01:58,722 --> 00:02:02,183
+Caso número 6B1138.
+
+18
+00:02:02,184 --> 00:02:05,869
+ID áudio.
+Por favor, identifique-se.
+
+19
+00:02:06,564 --> 00:02:08,773
+Lee Weathers.
+
+20
+00:02:08,774 --> 00:02:10,209
+Gestão de Riscos.
+
+21
+00:02:10,901 --> 00:02:13,069
+Acesso concedido.
+
+22
+00:02:13,070 --> 00:02:15,375
+Por favor, aguarde.
+
+23
+00:02:16,407 --> 00:02:18,741
+Bom dia, Srta. Weathers.
+
+24
+00:02:18,742 --> 00:02:20,201
+Desculpe ser em cima da hora...
+
+25
+00:02:20,202 --> 00:02:24,427
+mas agradecemos muito a sua
+resposta urgente a este assunto.
+
+26
+00:02:24,582 --> 00:02:26,666
+Como pode ver
+pelo rápido relatório...
+
+27
+00:02:26,667 --> 00:02:28,432
+os pormenores não são muitos.
+
+28
+00:02:29,253 --> 00:02:33,089
+Sabemos que houve um incidente
+que envolveu o protótipo L-9...
+
+29
+00:02:33,090 --> 00:02:35,645
+num dos nossos
+laboratórios afastados.
+
+30
+00:02:35,801 --> 00:02:38,428
+Normalmente, mandaríamos
+uma equipe de segurança...
+
+31
+00:02:38,429 --> 00:02:42,849
+mas dada a extrema sensibilidade
+da pesquisa genética da série L...
+
+32
+00:02:42,850 --> 00:02:47,155
+achamos melhor agir
+com cuidado aqui.
+
+33
+00:02:47,771 --> 00:02:50,446
+Não queremos outra Helsinque.
+
+34
+00:02:51,692 --> 00:02:54,110
+Mantenha o pessoal do projeto
+no local...
+
+35
+00:02:54,111 --> 00:02:57,030
+e faça a sua conclusão
+depois da avaliação psicológica.
+
+36
+00:02:57,031 --> 00:02:59,324
+O Dr. Ben Shapiro,
+da tecnologia psicológica...
+
+37
+00:02:59,325 --> 00:03:02,170
+vai se juntar a você
+para entrevistar o sujeito.
+
+38
+00:03:02,703 --> 00:03:07,678
+A SynSect investiu muito capital
+no produto da série L e...
+
+39
+00:03:08,500 --> 00:03:12,212
+digamos que esta gente tem
+andado um pouco escondida.
+
+40
+00:03:12,213 --> 00:03:13,379
+Shortleaf.
+
+41
+00:03:13,380 --> 00:03:15,805
+Lee Weathers.
+Estão me esperando.
+
+42
+00:03:16,008 --> 00:03:18,523
+A faculdade é um grupo
+muito unido...
+
+43
+00:03:18,844 --> 00:03:22,931
+por isso é possível que se tenham
+desviado da reunião do projeto.
+
+44
+00:03:22,932 --> 00:03:26,476
+Me mantenha a par
+desde o contato inicial.
+
+45
+00:03:26,477 --> 00:03:28,952
+Confirmado.
+Apagar arquivo.
+
+46
+00:03:44,703 --> 00:03:46,246
+Srta. Weathers.
+
+47
+00:03:46,247 --> 00:03:47,455
+Ted Brenner.
+
+48
+00:03:47,456 --> 00:03:49,707
+Sou o Gestor do Projeto.
+Falamos online.
+
+49
+00:03:49,708 --> 00:03:50,875
+Muito prazer.
+
+50
+00:03:50,876 --> 00:03:53,181
+Deixe eu ajudar
+com a sua bagagem.
+
+51
+00:03:55,005 --> 00:03:56,798
+Encontrou o lugar
+sem dificuldade?
+
+52
+00:03:56,799 --> 00:03:58,524
+Encontrei.
+
+53
+00:03:58,634 --> 00:04:00,635
+Não sei se já foi informada...
+
+54
+00:04:00,636 --> 00:04:03,571
+mas acabamos de saber que o
+Dr. Shapiro foi preso.
+
+55
+00:04:03,722 --> 00:04:05,390
+Sim, fui informada.
+
+56
+00:04:05,391 --> 00:04:07,684
+É uma infelicidade, eu sei.
+
+57
+00:04:07,685 --> 00:04:10,770
+Deve estar aqui amanhã cedo, por isso,
+se não se importa de esperar...
+
+58
+00:04:10,771 --> 00:04:12,996
+Acho que não tenho
+outra alternativa.
+
+59
+00:04:13,440 --> 00:04:15,575
+Por aqui, por favor.
+
+60
+00:04:22,157 --> 00:04:24,576
+Tem o seu banheiro individual
+com chuveiro.
+
+61
+00:04:24,577 --> 00:04:26,432
+Temos água quente
+com fartura.
+
+62
+00:04:26,579 --> 00:04:30,354
+Gostaria de mostrar
+as instalações, se quiser.
+
+63
+00:04:30,583 --> 00:04:33,167
+Eu gostaria de me encontrar com
+o Dr. Cheng e o Dr. Ziegler.
+
+64
+00:04:33,168 --> 00:04:35,420
+Absolutamente. Eles estão
+ansiosos por conhecer você.
+
+65
+00:04:35,421 --> 00:04:37,516
+E com a Kathy Grieff.
+
+66
+00:04:37,923 --> 00:04:39,438
+A Kathy.
+
+67
+00:04:39,675 --> 00:04:41,467
+Não observei ela ainda hoje,
+mas...
+
+68
+00:04:41,468 --> 00:04:43,344
+Assim que fizer isso,
+diga que gostaria de ver ela.
+
+69
+00:04:43,345 --> 00:04:44,429
+Claro.
+
+70
+00:04:44,430 --> 00:04:45,895
+E a Morgan.
+
+71
+00:04:46,515 --> 00:04:48,099
+Assim que possível.
+
+72
+00:04:48,100 --> 00:04:50,695
+Vou me certificar
+que o Dr. Ziegler saiba.
+
+73
+00:04:51,770 --> 00:04:54,189
+Acho que verá os resultados
+do nosso investimento...
+
+74
+00:04:54,190 --> 00:04:57,066
+apesar dos contratempos atuais...
+
+75
+00:04:57,067 --> 00:04:59,082
+serem consideráveis.
+
+76
+00:04:59,987 --> 00:05:01,292
+Obrigada, Ted.
+
+77
+00:05:01,363 --> 00:05:02,878
+Sim.
+
+78
+00:05:11,916 --> 00:05:13,221
+É a Lee.
+
+79
+00:05:13,292 --> 00:05:15,043
+Tem permissão para começar.
+
+80
+00:05:15,044 --> 00:05:17,059
+Isto não se trata
+apenas de L-9.
+
+81
+00:05:17,338 --> 00:05:20,006
+Alguém cometeu um erro mesmo.
+
+82
+00:05:20,007 --> 00:05:22,759
+Use o dia de hoje para examinar
+bem a equipe.
+
+83
+00:05:22,760 --> 00:05:24,260
+Claro.
+
+84
+00:05:24,261 --> 00:05:27,356
+Depois da análise de Shapiro, amanhã,
+terei uma ideia mais completa.
+
+85
+00:05:28,432 --> 00:05:31,117
+Também espero ver a Morgan hoje.
+
+86
+00:05:32,394 --> 00:05:34,812
+Talvez precise insistir
+em ver ela.
+
+87
+00:05:34,813 --> 00:05:37,065
+Tenha cuidado, Srta. Weathers.
+
+88
+00:05:37,066 --> 00:05:39,609
+Certifique-se que todos os protocolos
+de segurança estão funcionando.
+
+89
+00:05:39,610 --> 00:05:43,375
+Mas, acima de tudo,
+preserve o ativo.
+
+90
+00:05:43,614 --> 00:05:46,199
+Para confirmar, estou agindo
+com a sua autorização total?
+
+91
+00:05:46,200 --> 00:05:48,201
+Absolutamente, Srta. Weathers.
+
+92
+00:05:48,202 --> 00:05:49,507
+Ótimo.
+
+93
+00:06:04,176 --> 00:06:06,401
+-Olá.
+-Olá.
+
+94
+00:06:07,680 --> 00:06:09,025
+Sou a Amy.
+
+95
+00:06:09,265 --> 00:06:11,057
+A comportamentalista.
+
+96
+00:06:11,058 --> 00:06:12,392
+Isso mesmo.
+
+97
+00:06:12,393 --> 00:06:15,353
+Acabo de rever a sua tese sobre o CNT
+em neurotecnologia de hibridização...
+
+98
+00:06:15,354 --> 00:06:16,771
+e achei ela impressionante.
+
+99
+00:06:16,772 --> 00:06:18,697
+Obrigada.
+
+100
+00:06:18,816 --> 00:06:20,608
+Mas esse era um trabalho antigo.
+
+101
+00:06:20,609 --> 00:06:22,443
+Nem me lembro mais
+do que escrevi.
+
+102
+00:06:22,444 --> 00:06:24,696
+Parece que conseguiu colocar
+em prática uma data de coisas.
+
+103
+00:06:24,697 --> 00:06:26,302
+Acredito na sua palavra.
+
+104
+00:06:26,782 --> 00:06:29,877
+Sabe, está longe de ser tão
+assustadora como eu imaginava.
+
+105
+00:06:32,329 --> 00:06:34,924
+Eu adoraria conversar mais,
+mas estou me instalando.
+
+106
+00:06:34,957 --> 00:06:37,142
+Vou deixar você em paz.
+
+107
+00:06:37,751 --> 00:06:40,169
+Limites seus, certo?
+
+108
+00:06:40,170 --> 00:06:41,713
+É isso que está escrito
+no meu arquivo?
+
+109
+00:06:41,714 --> 00:06:43,631
+Qualquer coisa assim.
+
+110
+00:06:43,632 --> 00:06:46,107
+Deve saber mais sobre mim
+do que eu.
+
+111
+00:06:46,594 --> 00:06:48,529
+Não diria isso.
+
+112
+00:06:48,888 --> 00:06:50,403
+Olhe, eu entendo.
+
+113
+00:06:50,472 --> 00:06:53,487
+Você tem um trabalho para fazer,
+como toda mundo aqui.
+
+114
+00:06:54,852 --> 00:06:57,437
+Se alguma vez precisar
+alguma coisa de mim...
+
+115
+00:06:57,438 --> 00:06:59,453
+não hesite em pedir.
+
+116
+00:07:00,357 --> 00:07:01,912
+Eu agradeço por isso.
+Obrigada.
+
+117
+00:07:03,569 --> 00:07:05,424
+Disseram que o jantar é às 20h?
+
+118
+00:07:05,821 --> 00:07:07,916
+O Skip está fazendo
+uma lasanha.
+
+119
+00:07:08,824 --> 00:07:12,219
+Toda mundo gosta de lasanha,
+certo?
+
+120
+00:07:12,745 --> 00:07:14,390
+Certo.
+
+121
+00:07:36,060 --> 00:07:37,485
+Olá!
+
+122
+00:07:37,937 --> 00:07:39,242
+Você é o Skip.
+
+123
+00:07:39,480 --> 00:07:40,897
+Certo.
+
+124
+00:07:40,898 --> 00:07:43,503
+Você é a consultora da Sede.
+
+125
+00:07:44,485 --> 00:07:46,986
+Bem, sou o nutricionista
+e o macaco da cozinha em geral.
+
+126
+00:07:46,987 --> 00:07:49,405
+Por isso, se precisar
+de alguma coisa, diga.
+
+127
+00:07:49,406 --> 00:07:51,741
+Precisa de alguma coisa?
+Água?
+
+128
+00:07:51,742 --> 00:07:53,757
+Cerveja?
+Talvez uma batida de proteínas?
+
+129
+00:07:53,911 --> 00:07:56,046
+Não. Estou bem.
+Obrigada.
+
+130
+00:07:56,247 --> 00:07:59,262
+A minha gloriosa contribuição
+para a ciência.
+
+131
+00:08:02,503 --> 00:08:03,768
+Caça?
+
+132
+00:08:04,338 --> 00:08:06,381
+Sim. Por aqui é tudo
+fresco da quinta.
+
+133
+00:08:06,382 --> 00:08:07,674
+Sou um caçador razoável.
+
+134
+00:08:07,675 --> 00:08:09,342
+Ora, aí está.
+
+135
+00:08:09,343 --> 00:08:10,843
+Vejo que já conhece o Skip.
+
+136
+00:08:10,844 --> 00:08:11,970
+Já sim.
+
+137
+00:08:11,971 --> 00:08:14,889
+Bem, o Dr. Ziegler está acabando
+um pequeno trabalho.
+
+138
+00:08:14,890 --> 00:08:17,905
+Mas eu pensei que podíamos
+fazer uma visitinha à Kathy.
+
+139
+00:08:18,352 --> 00:08:19,686
+Muito prazer.
+
+140
+00:08:19,687 --> 00:08:21,872
+O prazer é meu.
+
+141
+00:08:26,610 --> 00:08:30,071
+Kathy, Brenda.
+Esta é Lee Weathers da Sede.
+
+142
+00:08:30,072 --> 00:08:31,698
+Dr. Finch.
+
+143
+00:08:31,699 --> 00:08:34,054
+Kathy, eu adoraria conversar
+com você.
+
+144
+00:08:35,119 --> 00:08:37,078
+Como quiser.
+
+145
+00:08:37,079 --> 00:08:40,039
+Eu disse ao Bren,
+disse ao médico.
+
+146
+00:08:40,040 --> 00:08:42,709
+Droga, disse para todo mundo que não
+preciso ficar nesta maldita cama.
+
+147
+00:08:42,710 --> 00:08:45,765
+Mas ninguém parece querer
+me ouvir.
+
+148
+00:08:46,213 --> 00:08:48,089
+Ela foi medicada.
+
+149
+00:08:48,090 --> 00:08:50,216
+Eu gostaria de falar
+com ela em particular.
+
+150
+00:08:50,217 --> 00:08:51,217
+Ela precisa descansar.
+
+151
+00:08:51,218 --> 00:08:52,552
+Não vai demorar muito.
+
+152
+00:08:52,553 --> 00:08:54,068
+Tudo bem.
+
+153
+00:08:54,388 --> 00:08:56,613
+Estamos lá fora.
+
+154
+00:09:05,482 --> 00:09:06,816
+Como está se sentindo?
+
+155
+00:09:06,817 --> 00:09:09,632
+Pareço pior do que me sinto.
+
+156
+00:09:10,321 --> 00:09:12,956
+Eu garanto isso.
+
+157
+00:09:15,534 --> 00:09:17,035
+Escute...
+
+158
+00:09:17,036 --> 00:09:19,078
+isto não foi culpa da Morgan.
+
+159
+00:09:19,079 --> 00:09:21,214
+Foi culpa minha, sério.
+
+160
+00:09:22,917 --> 00:09:24,522
+Fui...
+
+161
+00:09:26,545 --> 00:09:28,338
+descuidada.
+
+162
+00:09:28,339 --> 00:09:30,381
+Ela estava de mau humor.
+
+163
+00:09:30,382 --> 00:09:33,301
+A companhia não tem que
+se preocupar comigo, sério.
+
+164
+00:09:33,302 --> 00:09:35,303
+Nós estamos preocupados.
+
+165
+00:09:35,304 --> 00:09:37,347
+Sempre que um empregado
+está em perigo.
+
+166
+00:09:37,348 --> 00:09:38,640
+Não, não.
+
+167
+00:09:38,641 --> 00:09:42,116
+Não é...
+quer dizer, o erro foi meu.
+
+168
+00:09:45,189 --> 00:09:47,914
+Não devia ter confundido ela.
+
+169
+00:09:48,609 --> 00:09:51,044
+Morgan não é uma "ela".
+
+170
+00:09:51,654 --> 00:09:53,129
+É uma "coisa."
+
+171
+00:09:54,657 --> 00:09:58,762
+Está enganada sobre isso,
+Srta. Weathers.
+
+172
+00:10:00,579 --> 00:10:02,413
+Ela é inteligente...
+
+173
+00:10:02,414 --> 00:10:04,249
+é mais inteligente
+do que qualquer um de nós.
+
+174
+00:10:04,250 --> 00:10:06,595
+Mas não é isso que torna
+a Morgan especial.
+
+175
+00:10:07,127 --> 00:10:09,522
+Havia alegria no seu coração...
+
+176
+00:10:10,589 --> 00:10:13,644
+antes de metermos ela
+naquela caixa.
+
+177
+00:10:15,719 --> 00:10:17,762
+Não conhece ela?
+
+178
+00:10:17,763 --> 00:10:19,068
+Ainda não.
+
+179
+00:10:19,473 --> 00:10:20,974
+Vai ver.
+
+180
+00:10:20,975 --> 00:10:23,410
+Vai ver. Vai mesmo.
+
+181
+00:10:23,727 --> 00:10:25,872
+Nada aqui é uma conclusão
+precipitada.
+
+182
+00:10:27,273 --> 00:10:30,708
+Procuro apenas algumas respostas.
+Alguma informação.
+
+183
+00:10:32,903 --> 00:10:35,208
+Você é uma mentirosa.
+
+184
+00:10:39,076 --> 00:10:41,841
+Há um sorriso no seu rosto...
+
+185
+00:10:42,746 --> 00:10:45,511
+mas sei bem o que você é.
+
+186
+00:10:46,041 --> 00:10:49,386
+É a droga de uma assassina.
+
+187
+00:10:56,552 --> 00:10:58,261
+Melhore depressa.
+
+188
+00:10:58,262 --> 00:11:00,987
+Não, não. Sinto muito.
+
+189
+00:11:01,432 --> 00:11:05,367
+São a porcaria destas drogas.
+Não sou eu mesma.
+
+190
+00:11:06,854 --> 00:11:08,897
+Ela é uma boa garota.
+
+191
+00:11:08,898 --> 00:11:12,734
+Ficou apenas toda confusa,
+apenas por um momento.
+
+192
+00:11:12,735 --> 00:11:15,000
+Pode acontecer a qualquer um.
+
+193
+00:11:15,237 --> 00:11:17,172
+Pode.
+
+194
+00:11:17,781 --> 00:11:19,706
+Rápidas melhoras.
+
+195
+00:11:42,264 --> 00:11:43,609
+Dr. Ziegler.
+
+196
+00:11:44,058 --> 00:11:45,391
+Srta. Weathers.
+
+197
+00:11:45,392 --> 00:11:46,601
+Muito prazer.
+
+198
+00:11:46,602 --> 00:11:48,686
+Sim. Absolutamente.
+
+199
+00:11:48,687 --> 00:11:51,231
+É uma infelicidade que a sua estadia
+aqui tenha sido inutilmente prolongada.
+
+200
+00:11:51,232 --> 00:11:53,024
+Tudo bem, Dr.
+A gente se adapta.
+
+201
+00:11:53,025 --> 00:11:54,859
+Por que não me coloca
+a par da situação?
+
+202
+00:11:54,860 --> 00:11:56,995
+Sim. Por favor.
+
+203
+00:11:57,821 --> 00:12:00,240
+A criação do ADN sintético...
+
+204
+00:12:00,241 --> 00:12:03,836
+foi a metade da equação
+relativamente simples.
+
+205
+00:12:03,953 --> 00:12:07,258
+A segunda metade é onde a coisa
+fica mais complicada.
+
+206
+00:12:08,207 --> 00:12:09,832
+Como um mágico...
+
+207
+00:12:09,833 --> 00:12:14,598
+enganamos o sistema nervoso
+de modo a aceitar o nosso nano...
+
+208
+00:12:14,880 --> 00:12:17,048
+para encaixar no seu meio.
+
+209
+00:12:17,049 --> 00:12:19,064
+Depois, durante o período
+de incubação...
+
+210
+00:12:19,802 --> 00:12:22,937
+o nano começa a introduzir
+a sua própria linguagem...
+
+211
+00:12:23,055 --> 00:12:24,820
+os seus próprios comandos.
+
+212
+00:12:25,933 --> 00:12:27,698
+A média de crescimento
+do organismo...
+
+213
+00:12:28,561 --> 00:12:30,854
+acelera gradualmente...
+
+214
+00:12:30,855 --> 00:12:33,648
+e reage e reproduz
+os novos estímulos.
+
+215
+00:12:33,649 --> 00:12:36,044
+Sim, eu li o material, Dr.
+
+216
+00:12:37,486 --> 00:12:39,921
+Sim. Claro.
+
+217
+00:12:40,364 --> 00:12:41,959
+Bem, como sabe...
+
+218
+00:12:42,616 --> 00:12:46,721
+a Morgan foi a nossa
+terceira tentativa.
+
+219
+00:12:48,205 --> 00:12:50,498
+O nosso primeiro sujeito
+de incubação total...
+
+220
+00:12:50,499 --> 00:12:53,793
+desenvolveu características
+internas externamente.
+
+221
+00:12:53,794 --> 00:12:56,479
+Não está dando certo.
+Está caindo.
+
+222
+00:12:56,839 --> 00:13:00,154
+Expirou não muito tempo depois
+do chamado nascimento.
+
+223
+00:13:00,259 --> 00:13:01,274
+Não.
+
+224
+00:13:03,596 --> 00:13:05,096
+E depois o segundo...
+
+225
+00:13:05,097 --> 00:13:07,307
+Bem, exibia um crescimento físico
+mais completo...
+
+226
+00:13:07,308 --> 00:13:10,518
+mas sofreu de problemas mentais
+no seu desenvolvimento.
+
+227
+00:13:10,519 --> 00:13:12,395
+Isto apenas fortaleceu
+a nossa decisão...
+
+228
+00:13:12,396 --> 00:13:16,191
+para começar com um espécime
+emocionalmente mais cognitivo.
+
+229
+00:13:16,192 --> 00:13:17,457
+Depois...
+
+230
+00:13:17,776 --> 00:13:21,041
+dois anos depois...
+
+231
+00:13:21,113 --> 00:13:23,748
+tivemos finalmente...
+
+232
+00:13:24,241 --> 00:13:26,586
+o nosso pequeno avanço.
+
+233
+00:13:26,911 --> 00:13:28,086
+Sim!
+
+234
+00:13:28,329 --> 00:13:29,644
+Olá.
+
+235
+00:13:32,249 --> 00:13:35,585
+Soubemos imediatamente que
+a Morgan era muito especial.
+
+236
+00:13:35,586 --> 00:13:38,691
+Muito atenta, muito reativa.
+
+237
+00:13:40,466 --> 00:13:42,008
+Como você está?
+
+238
+00:13:42,009 --> 00:13:44,969
+A inteligência dela
+crescia firmemente.
+
+239
+00:13:44,970 --> 00:13:47,931
+Compreensão avançada,
+taxa de crescimento.
+
+240
+00:13:47,932 --> 00:13:49,140
+Está pronta?
+
+241
+00:13:49,141 --> 00:13:51,726
+Em um mês,
+caminhava e falava.
+
+242
+00:13:51,727 --> 00:13:54,437
+Era exatamente
+o que nós pretendíamos...
+
+243
+00:13:54,438 --> 00:13:57,440
+um organismo biológico
+híbrido...
+
+244
+00:13:57,441 --> 00:14:00,527
+com a capacidade para tomar
+decisões autonomamente...
+
+245
+00:14:00,528 --> 00:14:03,503
+e respostas emocionais
+sofisticadas.
+
+246
+00:14:03,781 --> 00:14:05,416
+Não, Morgan. Volte!
+
+247
+00:14:08,911 --> 00:14:12,080
+Vou te pegar!
+Vou te pegar!
+
+248
+00:14:12,081 --> 00:14:14,136
+Morgan, olhe para cá.
+
+249
+00:14:14,333 --> 00:14:16,768
+-Olha para isto! Está vendo?
+-O que é?
+
+250
+00:14:19,547 --> 00:14:21,772
+Eu peguei três.
+
+251
+00:14:22,258 --> 00:14:25,023
+Não é espantoso?
+É um pequeno...
+
+252
+00:14:30,975 --> 00:14:33,280
+Hurra!
+
+253
+00:14:35,688 --> 00:14:37,772
+É o seu primeiro aniv...
+
+254
+00:14:37,773 --> 00:14:40,078
+O seu primeiro aniversário.
+
+255
+00:14:40,818 --> 00:14:42,503
+Excedeu...
+
+256
+00:14:43,070 --> 00:14:45,625
+as nossas mais loucas
+expectativas.
+
+257
+00:14:47,283 --> 00:14:49,338
+Um grande dia.
+
+258
+00:14:49,368 --> 00:14:50,973
+Um dia especial.
+
+259
+00:14:51,954 --> 00:14:54,429
+Gostaria de discutir o incidente,
+se estiver tudo bem.
+
+260
+00:14:55,416 --> 00:14:56,811
+Sim.
+
+261
+00:14:58,627 --> 00:15:00,169
+O que gostaria de saber?
+
+262
+00:15:00,170 --> 00:15:03,475
+Ainda não tenho
+certeza da causa.
+
+263
+00:15:04,383 --> 00:15:05,818
+Sim.
+
+264
+00:15:08,012 --> 00:15:12,390
+Tem havido algum debate sobre
+o tempo da Morgan fora...
+
+265
+00:15:12,391 --> 00:15:14,350
+de uma coisa
+que ela obviamente amava.
+
+266
+00:15:14,351 --> 00:15:16,644
+Quando a excursão com a Amy
+foi adiada...
+
+267
+00:15:16,645 --> 00:15:18,790
+ela pode bem ter exagerado.
+
+268
+00:15:20,482 --> 00:15:22,942
+Acredito que o uso da ecoterapia
+pela Amy...
+
+269
+00:15:22,943 --> 00:15:25,153
+foi maravilhoso para a Morgan.
+
+270
+00:15:25,154 --> 00:15:28,823
+A Cheng acreditou que a Morgan tomou
+contato com este tipo de estímulos...
+
+271
+00:15:28,824 --> 00:15:31,339
+numa idade muito jovem.
+
+272
+00:15:31,660 --> 00:15:33,369
+Está tudo bem.
+Está tudo bem, Morgan.
+
+273
+00:15:33,370 --> 00:15:35,965
+Está tudo bem.
+
+274
+00:15:36,165 --> 00:15:37,350
+Não!
+
+275
+00:15:37,416 --> 00:15:39,375
+Foi uma infelicidade.
+
+276
+00:15:39,376 --> 00:15:40,585
+Coloque a cabeça para trás.
+
+277
+00:15:40,586 --> 00:15:43,838
+Mas temos a oportunidade
+de aprender a partir daqui.
+
+278
+00:15:43,839 --> 00:15:46,299
+Podemos condicionar
+o comportamento da Morgan...
+
+279
+00:15:46,300 --> 00:15:50,145
+ensinar a ela o que é
+ação e consequência.
+
+280
+00:15:50,387 --> 00:15:51,638
+Não...
+
+281
+00:15:51,639 --> 00:15:55,516
+Eu acho que, apesar destas
+contrariedades óbvias...
+
+282
+00:15:55,517 --> 00:15:58,162
+este projeto
+está na direção certa.
+
+283
+00:15:58,229 --> 00:15:59,395
+Está tudo bem.
+
+284
+00:15:59,396 --> 00:16:00,701
+Não!
+
+285
+00:16:01,357 --> 00:16:02,662
+Morgan.
+
+286
+00:16:12,743 --> 00:16:15,537
+Quero que veja
+como ela é especial.
+
+287
+00:16:15,538 --> 00:16:18,581
+Temos trabalhado duramente,
+modificando dicas de comando...
+
+288
+00:16:18,582 --> 00:16:21,387
+e com a avaliação
+psicológica amanhã...
+
+289
+00:16:22,002 --> 00:16:24,847
+prefiro que o seu tempo com ela,
+agora, seja breve.
+
+290
+00:16:25,047 --> 00:16:27,152
+Darren.
+
+291
+00:16:27,883 --> 00:16:29,188
+Darren.
+
+292
+00:16:29,552 --> 00:16:31,719
+-Darren.
+-Olá.
+
+293
+00:16:31,720 --> 00:16:33,388
+Lee Weathers, da Sede.
+
+294
+00:16:33,389 --> 00:16:34,764
+Sim. Certo. Sede.
+
+295
+00:16:34,765 --> 00:16:36,530
+-Olá. Bem-vinda.
+-Olá.
+
+296
+00:16:36,767 --> 00:16:38,351
+Como ela está?
+
+297
+00:16:38,352 --> 00:16:40,407
+Sabe, está bem.
+
+298
+00:16:47,778 --> 00:16:49,673
+Para que é a música?
+
+299
+00:16:51,031 --> 00:16:52,916
+A Morgan acha ela relaxante.
+
+300
+00:16:53,450 --> 00:16:55,577
+Ela gosta de diferentes
+tipos de música.
+
+301
+00:16:55,578 --> 00:16:57,704
+Jazz, clássica.
+
+302
+00:16:57,705 --> 00:17:00,220
+Ultimamente gosta muito de ópera.
+
+303
+00:17:01,333 --> 00:17:03,167
+A Lee quer dizer olá.
+
+304
+00:17:03,168 --> 00:17:05,523
+Pode dizer à Morgan
+que baixe a música?
+
+305
+00:17:05,838 --> 00:17:07,483
+Morgan, camarada.
+
+306
+00:17:08,424 --> 00:17:10,049
+Pode baixar a música
+por uns minutos?
+
+307
+00:17:10,050 --> 00:17:12,775
+Temos aqui uma pessoa que gostaríamos
+que conhecesse, está bem?
+
+308
+00:17:18,142 --> 00:17:20,184
+Já organizamos o quarto.
+
+309
+00:17:20,185 --> 00:17:23,354
+A Morgan está aprendendo a controlar
+alguns aspectos do seu ambiente...
+
+310
+00:17:23,355 --> 00:17:25,660
+sem um intermediário.
+
+311
+00:17:48,923 --> 00:17:50,308
+Olá, Morgan.
+
+312
+00:17:52,051 --> 00:17:54,186
+Olá, Lee.
+
+313
+00:17:54,970 --> 00:17:56,554
+Sabe quem eu sou?
+
+314
+00:17:56,555 --> 00:17:57,860
+Sim.
+
+315
+00:17:58,140 --> 00:18:00,105
+Claro.
+
+316
+00:18:00,726 --> 00:18:02,621
+Você é Lee Weathers.
+
+317
+00:18:03,521 --> 00:18:06,481
+Consultora de Gestão de Risco
+na SynSect.
+
+318
+00:18:06,482 --> 00:18:08,117
+E porque estou eu aqui?
+
+319
+00:18:08,359 --> 00:18:11,584
+Para avaliar a minha viabilidade
+como meio de lucro...
+
+320
+00:18:12,863 --> 00:18:15,418
+à luz dos acontecimentos recentes.
+
+321
+00:18:16,283 --> 00:18:18,008
+Isso mesmo.
+
+322
+00:18:20,704 --> 00:18:22,969
+Como está se sentindo, Morgan?
+
+323
+00:18:24,583 --> 00:18:26,668
+Estou me sentindo...
+
+324
+00:18:26,669 --> 00:18:29,087
+não bem eu mesma.
+
+325
+00:18:29,088 --> 00:18:32,340
+A Morgan tem estado muito
+preocupada...
+
+326
+00:18:32,341 --> 00:18:33,806
+com a Kathy.
+
+327
+00:18:35,636 --> 00:18:37,691
+Não queria machucar ela.
+
+328
+00:18:37,972 --> 00:18:39,889
+A Kathy é uma pessoa muito doce.
+
+329
+00:18:39,890 --> 00:18:42,365
+Nunca faria nada que
+machucasse ela.
+
+330
+00:18:42,851 --> 00:18:44,352
+Foi um erro de julgamento.
+
+331
+00:18:44,353 --> 00:18:46,788
+Cometi um erro.
+
+332
+00:18:47,481 --> 00:18:50,942
+Mas está tudo bem agora,
+Morgan.
+
+333
+00:18:50,943 --> 00:18:53,498
+Está tudo bem.
+
+334
+00:18:54,363 --> 00:18:56,958
+Eu não queria ser
+mal educada.
+
+335
+00:18:57,408 --> 00:18:59,843
+Como está se sentindo, Lee?
+
+336
+00:19:02,079 --> 00:19:03,794
+Estou bem.
+
+337
+00:19:04,206 --> 00:19:06,561
+Estou bem.
+Obrigada por perguntar.
+
+338
+00:19:06,876 --> 00:19:09,210
+Gostaria de falar
+sobre o que aconteceu?
+
+339
+00:19:09,211 --> 00:19:10,712
+Na verdade, vamos guardar...
+
+340
+00:19:10,713 --> 00:19:13,188
+a avaliação psicológica
+para amanhã, Morgan.
+
+341
+00:19:14,174 --> 00:19:15,800
+Ficamos por aqui, Lee?
+
+342
+00:19:15,801 --> 00:19:17,896
+Ficamos.
+
+343
+00:19:18,304 --> 00:19:19,721
+Durma bem, Morgan.
+
+344
+00:19:19,722 --> 00:19:20,889
+Sim.
+
+345
+00:19:20,890 --> 00:19:22,682
+Obrigada, Dr. Ziegler.
+
+346
+00:19:22,683 --> 00:19:24,738
+Eu devia ter
+uma boa noite de sono.
+
+347
+00:19:27,188 --> 00:19:29,703
+Eu me sinto muito mal
+sobre tudo isto.
+
+348
+00:19:31,150 --> 00:19:33,745
+Tudo o que aconteceu.
+
+349
+00:19:34,695 --> 00:19:37,000
+Falamos nisso amanhã.
+
+350
+00:19:37,615 --> 00:19:39,130
+Está bem.
+
+351
+00:19:39,867 --> 00:19:41,842
+Amanhã.
+
+352
+00:19:42,119 --> 00:19:44,334
+Prazer em te conhecer, Morgan.
+
+353
+00:19:48,250 --> 00:19:50,925
+Prazer em te conhecer, Lee.
+
+354
+00:20:13,400 --> 00:20:15,875
+Você não dizer?
+
+355
+00:20:16,695 --> 00:20:18,210
+Dizer o quê?
+
+356
+00:20:18,822 --> 00:20:20,417
+Que está impressionada?
+
+357
+00:20:20,658 --> 00:20:22,784
+É isso que precisa
+que eu diga?
+
+358
+00:20:22,785 --> 00:20:24,090
+Que estou impressionada?
+
+359
+00:20:38,884 --> 00:20:40,819
+Temos licença para estar aqui?
+
+360
+00:20:44,932 --> 00:20:46,766
+Está tudo bem.
+
+361
+00:20:46,767 --> 00:20:48,622
+Isto pode ser o nosso
+pequeno segredo.
+
+362
+00:20:51,355 --> 00:20:54,210
+Veja isto, isto é um pinheiro.
+
+363
+00:20:54,942 --> 00:20:56,276
+E, sabe...
+
+364
+00:20:56,277 --> 00:20:59,592
+alguns deles vivem
+milhares de anos.
+
+365
+00:21:01,740 --> 00:21:03,658
+Milhares de anos?
+
+366
+00:21:03,659 --> 00:21:04,974
+Sim.
+
+367
+00:21:05,286 --> 00:21:07,591
+Muito legal, não é?
+
+368
+00:21:17,715 --> 00:21:20,560
+Morgan, tenho muito orgulho
+de você.
+
+369
+00:21:22,636 --> 00:21:23,970
+Por quê?
+
+370
+00:21:23,971 --> 00:21:26,316
+Porque está aprendendo
+a ser você mesma.
+
+371
+00:21:26,682 --> 00:21:29,367
+E isso é o mais importante.
+
+372
+00:21:56,212 --> 00:21:57,462
+Estava delicioso.
+
+373
+00:21:57,463 --> 00:21:58,796
+Obrigado.
+
+374
+00:21:58,797 --> 00:22:01,442
+Está se mostrando
+a nova garota?
+
+375
+00:22:02,176 --> 00:22:03,551
+Como assim?
+
+376
+00:22:03,552 --> 00:22:05,511
+"Consultora de Gestão de Risco?"
+
+377
+00:22:05,512 --> 00:22:07,096
+É isso mesmo.
+
+378
+00:22:07,097 --> 00:22:10,391
+A maioria das empresas tem
+uma certa quantidade de risco...
+
+379
+00:22:10,392 --> 00:22:13,353
+e eu calculo esse risco
+contra os lucros antecipados.
+
+380
+00:22:13,354 --> 00:22:15,188
+Claro.
+
+381
+00:22:15,189 --> 00:22:17,124
+Lucros antecipados.
+
+382
+00:22:20,110 --> 00:22:22,375
+Vocês se conheceram no trabalho?
+
+383
+00:22:22,655 --> 00:22:24,113
+Sim.
+
+384
+00:22:24,114 --> 00:22:27,719
+Espaços pequenos fazem com que
+você tenha amigos estranhos.
+
+385
+00:22:27,952 --> 00:22:29,118
+É engraçado...
+
+386
+00:22:29,119 --> 00:22:32,330
+mas de certa forma,
+a Morgan aproximou a gente.
+
+387
+00:22:32,331 --> 00:22:35,041
+É quase nossa filha.
+Não é, querido?
+
+388
+00:22:35,042 --> 00:22:36,177
+Sem dúvida.
+
+389
+00:22:36,835 --> 00:22:39,190
+Conheceu ela hoje.
+
+390
+00:22:39,505 --> 00:22:41,560
+Viu como é especial.
+
+391
+00:22:41,924 --> 00:22:43,841
+E é isso.
+
+392
+00:22:43,842 --> 00:22:45,552
+É tão fácil esquecer...
+
+393
+00:22:45,553 --> 00:22:48,555
+que a Morgan
+tem apenas cinco anos.
+
+394
+00:22:48,556 --> 00:22:51,474
+É inocente e está aprendendo...
+
+395
+00:22:51,475 --> 00:22:53,450
+e tem o direito
+de cometer erros.
+
+396
+00:22:53,477 --> 00:22:56,122
+Ela não tem direito nenhum.
+
+397
+00:22:59,441 --> 00:23:02,068
+Sim. Vivemos aqui
+há sete anos.
+
+398
+00:23:02,069 --> 00:23:04,696
+Como pode imaginar,
+é difícil evitar o gênero.
+
+399
+00:23:04,697 --> 00:23:06,072
+"Ela", "a coisa", que seja...
+
+400
+00:23:06,073 --> 00:23:09,117
+Então, prevê esta coisa toda
+do lucro antecipado?
+
+401
+00:23:09,118 --> 00:23:10,326
+E depois?
+
+402
+00:23:10,327 --> 00:23:13,052
+E depois faço a minha recomendação
+à Sede.
+
+403
+00:23:13,205 --> 00:23:16,180
+Tem que desculpar
+a curiosidade da Amy.
+
+404
+00:23:16,292 --> 00:23:19,137
+Dra. Cheng,
+apresento a Srta. Weathers.
+
+405
+00:23:19,295 --> 00:23:21,379
+É um prazer finalmente
+conhecer você.
+
+406
+00:23:21,380 --> 00:23:22,630
+Não nos conhecemos antes?
+
+407
+00:23:22,631 --> 00:23:23,923
+Não me parece.
+
+408
+00:23:23,924 --> 00:23:25,633
+Com certeza eu me lembraria.
+
+409
+00:23:25,634 --> 00:23:27,689
+Ainda bem que você
+se juntou a nós.
+
+410
+00:23:28,095 --> 00:23:29,554
+Obrigada.
+
+411
+00:23:29,555 --> 00:23:31,097
+Então, Srta. Weathers...
+
+412
+00:23:31,098 --> 00:23:34,953
+Imagino que a Sede
+deu a você autoridade total.
+
+413
+00:23:35,144 --> 00:23:37,103
+Espero que possamos ajudar...
+
+414
+00:23:37,104 --> 00:23:39,022
+a chegar a uma conclusão justa.
+
+415
+00:23:39,023 --> 00:23:40,538
+Obrigada.
+
+416
+00:23:41,192 --> 00:23:46,337
+Tenho muito respeito
+pelo seu trabalho, Dra. Cheng.
+
+417
+00:23:46,447 --> 00:23:48,052
+E pelo seu julgamento.
+
+418
+00:23:52,661 --> 00:23:55,046
+Esteve em Helsinque muito tempo?
+
+419
+00:23:56,123 --> 00:23:58,124
+Só depois.
+
+420
+00:23:58,125 --> 00:23:59,600
+Estava na recuperação.
+
+421
+00:23:59,710 --> 00:24:02,225
+Com certeza foi muito difícil
+para você.
+
+422
+00:24:02,463 --> 00:24:04,768
+Nenhum relato faria justiça.
+
+423
+00:24:04,965 --> 00:24:07,360
+Tínhamos uma equipe
+de trinta pessoas nesse projeto.
+
+424
+00:24:08,344 --> 00:24:10,279
+Só demorou uma hora
+
+425
+00:24:10,971 --> 00:24:13,026
+para que trinta
+passassem a nove.
+
+426
+00:24:14,725 --> 00:24:17,185
+Aprendi uma lição complicada.
+
+427
+00:24:17,186 --> 00:24:20,791
+Para cada decisão que tomamos,
+existem consequências.
+
+428
+00:24:21,106 --> 00:24:22,831
+Bem...
+
+429
+00:24:22,858 --> 00:24:26,213
+isto não é Helsinque,
+Dra. Cheng.
+
+430
+00:24:26,529 --> 00:24:28,780
+Esses eram protótipos
+primitivos.
+
+431
+00:24:28,781 --> 00:24:31,533
+A Morgan é muito mais avançada.
+
+432
+00:24:31,534 --> 00:24:34,879
+Muito mais do que a companhia
+poderia esperar.
+
+433
+00:24:35,579 --> 00:24:38,214
+Espero que tenha razão.
+
+434
+00:24:50,594 --> 00:24:53,888
+Porque você acabou com as sessões
+de ecoterapia da Morgan com a Amy?
+
+435
+00:24:53,889 --> 00:24:56,307
+Houve um incidente
+na floresta.
+
+436
+00:24:56,308 --> 00:24:59,185
+A Amy levou a Morgan para além
+da fronteira da propriedade.
+
+437
+00:24:59,186 --> 00:25:02,161
+Podia ter colocado em risco
+todo o projeto.
+
+438
+00:25:02,690 --> 00:25:05,035
+Foi a minha desculpa.
+
+439
+00:25:05,276 --> 00:25:06,871
+Mas a verdade?
+
+440
+00:25:09,530 --> 00:25:11,573
+Sabe qual é a coisa mais cruel
+que pode fazer...
+
+441
+00:25:11,574 --> 00:25:14,379
+a alguém que fechou numa sala?
+
+442
+00:25:16,287 --> 00:25:19,182
+Encostar a cara dela
+na janela.
+
+443
+00:25:21,000 --> 00:25:23,885
+Sabe o que tem que fazer.
+
+444
+00:25:43,397 --> 00:25:46,024
+-Muito bem, quero ver isto.
+-Está bem.
+
+445
+00:25:46,025 --> 00:25:47,870
+Cante aquela coisa estranha
+que ele canta...
+
+446
+00:25:49,820 --> 00:25:50,955
+Está bem.
+
+447
+00:26:03,417 --> 00:26:05,251
+Como você me venceu?
+
+448
+00:26:05,252 --> 00:26:07,295
+-Você é muito boa!
+-Maravilhosa!
+
+449
+00:26:07,296 --> 00:26:10,215
+Querida, você é muito boa.
+Aprendeu tão depressa.
+
+450
+00:26:10,216 --> 00:26:11,758
+-Podemos repetir?
+-Gravaram tudo?
+
+451
+00:26:11,759 --> 00:26:13,364
+Podemos repetir?
+
+452
+00:26:32,571 --> 00:26:40,176
+AO VIVO
+
+453
+00:27:01,058 --> 00:27:04,018
+Você também?
+
+454
+00:27:04,019 --> 00:27:05,524
+Está trabalhando até tarde?
+
+455
+00:27:07,940 --> 00:27:09,455
+É tranquilo aqui.
+
+456
+00:27:09,650 --> 00:27:11,865
+Sim, aqui fora.
+
+457
+00:27:12,361 --> 00:27:16,166
+A Brenda e o Darren estão
+numa boa no quarto do lado do meu.
+
+458
+00:27:17,533 --> 00:27:20,628
+É uma boa casa velha,
+mas as paredes são finas.
+
+459
+00:27:22,162 --> 00:27:24,372
+Quer uma bebida?
+
+460
+00:27:24,373 --> 00:27:25,888
+Por favor.
+
+461
+00:27:26,876 --> 00:27:29,231
+Gosta da vida na empresa?
+
+462
+00:27:29,253 --> 00:27:30,753
+É boa.
+
+463
+00:27:30,754 --> 00:27:32,899
+É?
+Há quanto tempo trabalha lá?
+
+464
+00:27:33,173 --> 00:27:34,478
+Algum.
+
+465
+00:27:37,177 --> 00:27:39,971
+Era isso que queria ser
+quando crescesse?
+
+466
+00:27:39,972 --> 00:27:42,697
+Consultora de Gestão de Risco?
+
+467
+00:27:45,436 --> 00:27:48,121
+Costuma compartilhar
+tanto assim?
+
+468
+00:27:50,065 --> 00:27:53,151
+O Darren e a Brenda
+se envolveram no início?
+
+469
+00:27:53,152 --> 00:27:55,207
+Muito no início, eu achou.
+
+470
+00:27:55,362 --> 00:27:58,087
+Depois dele ter cansado
+de andar atrás da Amy.
+
+471
+00:27:59,450 --> 00:28:00,965
+Ela é interessante.
+
+472
+00:28:01,202 --> 00:28:04,427
+Interessante seria a palavra
+que descreve ela.
+
+473
+00:28:06,248 --> 00:28:07,563
+Você também?
+
+474
+00:28:07,875 --> 00:28:09,850
+Eu também? Não.
+
+475
+00:28:10,461 --> 00:28:12,176
+Não, nem pensar.
+
+476
+00:28:13,589 --> 00:28:16,132
+estamos enrolados
+desde quando chegamos.
+
+477
+00:28:16,133 --> 00:28:18,318
+Sabe... acontece.
+
+478
+00:28:20,221 --> 00:28:21,471
+Não quero ser bisbilhoteira.
+
+479
+00:28:21,472 --> 00:28:25,237
+Só quero entender
+como as coisas funcionam aqui.
+
+480
+00:28:25,392 --> 00:28:26,697
+Certo.
+
+481
+00:28:27,228 --> 00:28:30,123
+Não, somos apenas duas pessoas
+conversando.
+
+482
+00:28:31,565 --> 00:28:33,358
+Não há nada de mal nisso.
+
+483
+00:28:33,359 --> 00:28:35,884
+Certo, eu entendo.
+Eu e a Amy.
+
+484
+00:28:36,403 --> 00:28:39,572
+Acho que fomos os únicos dois a
+entrar no clima de campo de férias...
+
+485
+00:28:39,573 --> 00:28:41,508
+quando dormimos juntos.
+
+486
+00:28:41,825 --> 00:28:44,430
+Mas acho que não faço
+o tipo dela.
+
+487
+00:28:48,207 --> 00:28:49,682
+-Olá, Ted.
+-Olá.
+
+488
+00:28:50,125 --> 00:28:51,793
+Como ela está?
+
+489
+00:28:51,794 --> 00:28:53,711
+Está um pouco inquieta
+esta noite.
+
+490
+00:28:53,712 --> 00:28:55,017
+Certo.
+
+491
+00:28:58,467 --> 00:29:00,732
+O que você acha
+da Srta. Weathers?
+
+492
+00:29:01,554 --> 00:29:05,109
+Você sabe como eu sou, Ted.
+Odeio todo mundo.
+
+493
+00:29:15,442 --> 00:29:17,037
+REPETIR A ÚLTIMA HORA
+Sim Não
+
+494
+00:29:28,247 --> 00:29:29,831
+DESLIGAR TODAS AS CÂMERAS
+Sim Não
+
+495
+00:29:29,832 --> 00:29:31,833
+TEM CERTEZA?
+Sim Não
+
+496
+00:29:31,834 --> 00:29:32,969
+CÂMERAS DESLIGADAS
+
+497
+00:29:37,715 --> 00:29:39,440
+Morgan.
+
+498
+00:29:40,885 --> 00:29:42,610
+Morgan.
+
+499
+00:29:43,512 --> 00:29:45,437
+O que você acha da Morgan?
+
+500
+00:29:45,890 --> 00:29:47,445
+Sinceramente?
+
+501
+00:29:47,641 --> 00:29:50,476
+Somos uma grande
+família feliz aqui...
+
+502
+00:29:50,477 --> 00:29:52,662
+mas ela me provoca calafrios.
+
+503
+00:29:52,938 --> 00:29:55,083
+Você é a única pessoa
+que disse isso.
+
+504
+00:29:55,357 --> 00:29:56,733
+Deve ser verdade...
+
+505
+00:29:56,734 --> 00:29:59,579
+mas não sou cientista e talvez
+eu tenha um pouco de ciúmes.
+
+506
+00:29:59,820 --> 00:30:01,696
+-Ciúmes?
+-Talvez.
+
+507
+00:30:01,697 --> 00:30:03,002
+Por quê?
+
+508
+00:30:04,074 --> 00:30:07,509
+<i>Fez um risotto perfeito.</i>
+
+509
+00:30:08,871 --> 00:30:10,716
+Fez como se não fosse nada.
+
+510
+00:30:10,998 --> 00:30:14,417
+Dizem que tem que se cozinhar
+com o coração e com a alma.
+
+511
+00:30:14,418 --> 00:30:18,313
+<i>Mas fez um risotto perfeito.</i>
+
+512
+00:30:29,016 --> 00:30:30,241
+Desculpe.
+
+513
+00:30:30,643 --> 00:30:31,948
+Deus.
+
+514
+00:30:34,146 --> 00:30:36,371
+Foi culpa minha.
+
+515
+00:30:37,733 --> 00:30:40,818
+Se soubesse quanto tempo estive
+no meio do nada...
+
+516
+00:30:40,819 --> 00:30:44,914
+fazendo torradas para o pessoal
+e cortando cascas para a C-3PO...
+
+517
+00:30:47,826 --> 00:30:49,077
+Bons sonhos, Skip.
+
+518
+00:30:49,078 --> 00:30:50,223
+Está bem.
+
+519
+00:31:01,298 --> 00:31:06,153
+Boa jogada, Skip.
+Boa jogada.
+
+520
+00:31:08,013 --> 00:31:10,398
+Eu queria falar com você...
+
+521
+00:31:10,599 --> 00:31:12,444
+antes de amanhã.
+
+522
+00:31:14,061 --> 00:31:16,946
+Vai correr tudo bem, Morgan.
+
+523
+00:31:17,314 --> 00:31:18,909
+Você vai ver.
+
+524
+00:31:19,066 --> 00:31:21,171
+Seja você mesma.
+
+525
+00:31:22,278 --> 00:31:23,753
+Está bem?
+
+526
+00:31:33,497 --> 00:31:35,142
+Sim.
+
+527
+00:31:35,207 --> 00:31:37,262
+Eu acho que...
+
+528
+00:31:38,168 --> 00:31:40,483
+é a única coisa que posso ser.
+
+529
+00:31:42,965 --> 00:31:44,610
+Fale outra vez.
+
+530
+00:31:46,343 --> 00:31:47,778
+Do lago.
+
+531
+00:31:51,473 --> 00:31:53,948
+Você lembrou.
+
+532
+00:32:00,232 --> 00:32:04,077
+Vou te levar ao Lago Navar.
+
+533
+00:32:04,862 --> 00:32:07,917
+Não é muito longe
+de onde estamos.
+
+534
+00:32:09,533 --> 00:32:14,928
+É o lago mais lindo
+que jamais você vai ver.
+
+535
+00:32:16,749 --> 00:32:18,604
+E se não fizer barulho...
+
+536
+00:32:19,001 --> 00:32:25,476
+consegue ouvir o murmúrio do vento
+entre as árvores.
+
+537
+00:32:27,593 --> 00:32:31,148
+É o nosso paraíso, Morgan.
+
+538
+00:32:32,973 --> 00:32:35,608
+É como o céu.
+
+539
+00:32:51,575 --> 00:32:53,550
+Quantos anos tem?
+
+540
+00:32:54,495 --> 00:32:57,890
+Acho que tem a idade
+do universo.
+
+541
+00:33:11,470 --> 00:33:13,355
+É um veado.
+
+542
+00:33:15,099 --> 00:33:18,074
+Morgan, não assuste ele.
+
+543
+00:33:31,782 --> 00:33:33,587
+Está ferido?
+
+544
+00:35:37,241 --> 00:35:40,416
+Este médico, é seu amigo?
+
+545
+00:35:40,494 --> 00:35:41,661
+Não.
+
+546
+00:35:41,662 --> 00:35:42,967
+Por quê?
+
+547
+00:35:44,373 --> 00:35:47,178
+Acho que não gosto muito dele.
+
+548
+00:35:47,543 --> 00:35:48,848
+É bom saber disso.
+
+549
+00:35:51,463 --> 00:35:54,549
+Dizem que não posso estar presente
+na avaliação psicológica.
+
+550
+00:35:54,550 --> 00:35:58,565
+Aparentemente não faço parte
+do pessoal essencial.
+
+551
+00:36:10,816 --> 00:36:12,734
+Estive vendo os arquivos.
+
+552
+00:36:12,735 --> 00:36:14,652
+É muito simples, não é?
+
+553
+00:36:14,653 --> 00:36:18,865
+Vai ver que esta avaliação
+não é normal.
+
+554
+00:36:18,866 --> 00:36:21,721
+A Morgan é um espécime
+excepcionalmente complexo.
+
+555
+00:36:22,286 --> 00:36:25,872
+Para mim, não passa
+de um micro-ondas.
+
+556
+00:36:25,873 --> 00:36:27,888
+Não vai mudar a minha maneira
+de trabalhar.
+
+557
+00:36:28,042 --> 00:36:31,753
+É um formulário de avaliação
+psicológica para IA de 4ª geração.
+
+558
+00:36:31,754 --> 00:36:35,229
+Ela não é um micro-ondas
+e não se esqueça disso.
+
+559
+00:36:35,674 --> 00:36:38,769
+Este é o meu trabalho, Dr.
+
+560
+00:36:39,053 --> 00:36:41,528
+E é um trabalho
+que faço muito bem.
+
+561
+00:36:41,764 --> 00:36:45,642
+Se tiver problema ou falta de fé
+com a minha metodologia,
+
+562
+00:36:45,643 --> 00:36:47,578
+sugiro que fale com a Sede.
+
+563
+00:36:48,687 --> 00:36:50,396
+-Dr. Shapiro.
+-Sim?
+
+564
+00:36:50,397 --> 00:36:51,648
+Esta é Lee Weathers.
+
+565
+00:36:51,649 --> 00:36:54,025
+Fico contente por ver que chegou.
+Espero que esteja tudo bem?
+
+566
+00:36:54,026 --> 00:36:56,528
+Sim. Peço desculpa pelo atraso.
+
+567
+00:36:56,529 --> 00:36:58,446
+Fiquei preso em Utah.
+Motivos pessoais.
+
+568
+00:36:58,447 --> 00:37:00,114
+Não tem problema.
+Estamos atrasados.
+
+569
+00:37:00,115 --> 00:37:01,783
+Precisa rever o contexto?
+
+570
+00:37:01,784 --> 00:37:03,409
+Não, não é necessário.
+Posso começar já.
+
+571
+00:37:03,410 --> 00:37:05,370
+Preciso sair daqui
+o mais depressa possível.
+
+572
+00:37:05,371 --> 00:37:06,538
+Vamos começar.
+
+573
+00:37:06,539 --> 00:37:07,854
+Por aqui, por favor.
+
+574
+00:37:28,018 --> 00:37:30,833
+Por quê?
+Quer que eu me sente aqui?
+
+575
+00:37:32,273 --> 00:37:34,232
+Isto é alguma brincadeira?
+
+576
+00:37:34,233 --> 00:37:36,943
+À luz de acontecimentos
+recentes...
+
+577
+00:37:36,944 --> 00:37:39,070
+Acho que nos sentiríamos
+mais confortáveis...
+
+578
+00:37:39,071 --> 00:37:40,655
+com protocolo de alta segurança.
+
+579
+00:37:40,656 --> 00:37:42,490
+Confortáveis, certo.
+
+580
+00:37:42,491 --> 00:37:44,450
+Bem, Ted,
+diga a experiência...
+
+581
+00:37:44,451 --> 00:37:47,412
+que o conforto pode ser um espinho
+que impede a verdade.
+
+582
+00:37:47,413 --> 00:37:48,538
+Claro, mas...
+
+583
+00:37:48,539 --> 00:37:51,854
+O meu trabalho é construir
+confiança com o sujeito.
+
+584
+00:37:51,959 --> 00:37:56,004
+Vai ser difícil
+com uma parede de vidro entre nós.
+
+585
+00:37:56,005 --> 00:38:00,110
+É só para assegurar
+o seu bem-estar, Dr.
+
+586
+00:38:02,261 --> 00:38:03,553
+O que perdi na reunião
+de informação?
+
+587
+00:38:03,554 --> 00:38:06,890
+Esta coisa dispara raios laser
+dos olhos ou algo assim?
+
+588
+00:38:06,891 --> 00:38:08,349
+Bem, para começar...
+
+589
+00:38:08,350 --> 00:38:09,985
+há sua premonição emergente.
+
+590
+00:38:10,686 --> 00:38:12,979
+O que não entende...
+
+591
+00:38:12,980 --> 00:38:15,245
+é o alcance da sua inteligência.
+
+592
+00:38:15,274 --> 00:38:17,150
+Dr., com todo o respeito...
+
+593
+00:38:17,151 --> 00:38:19,861
+se precisa que tenha um vidro
+me separando desta coisa,
+
+594
+00:38:19,862 --> 00:38:24,047
+então acho que se pode dizer que
+a avaliação psicológica já falhou.
+
+595
+00:38:30,122 --> 00:38:31,717
+Muito bem.
+
+596
+00:38:34,960 --> 00:38:36,095
+Olá, Morgan.
+
+597
+00:38:37,338 --> 00:38:39,233
+Olá, Dr. Shapiro.
+
+598
+00:38:40,382 --> 00:38:41,767
+Você sabe o meu nome.
+
+599
+00:38:42,176 --> 00:38:43,441
+Sim.
+
+600
+00:38:44,094 --> 00:38:45,649
+E sabe por que estou aqui?
+
+601
+00:38:46,222 --> 00:38:47,607
+Sim.
+
+602
+00:38:47,723 --> 00:38:51,448
+Ótimo!
+Então podemos começar.
+
+603
+00:38:51,727 --> 00:38:54,122
+Tudo bem para você?
+
+604
+00:38:55,856 --> 00:38:57,190
+Sim.
+
+605
+00:38:57,191 --> 00:38:59,192
+Não há respostas certas
+ou erradas...
+
+606
+00:38:59,193 --> 00:39:00,568
+Morgan.
+
+607
+00:39:00,569 --> 00:39:04,124
+Somos apenas nós conversando.
+
+608
+00:39:04,990 --> 00:39:06,295
+Só você e eu...
+
+609
+00:39:07,159 --> 00:39:08,701
+nos conhecendo.
+
+610
+00:39:08,702 --> 00:39:11,120
+Especificamente,
+eu conhecendo você.
+
+611
+00:39:11,121 --> 00:39:13,039
+Por isso, você...
+
+612
+00:39:13,040 --> 00:39:14,457
+seja você mesma.
+
+613
+00:39:14,458 --> 00:39:15,773
+Está bem?
+
+614
+00:39:16,043 --> 00:39:17,478
+Está bem.
+
+615
+00:39:17,711 --> 00:39:19,096
+Está bem.
+
+616
+00:39:19,880 --> 00:39:21,265
+Muito bem.
+
+617
+00:39:22,591 --> 00:39:24,266
+Sim...
+
+618
+00:39:24,969 --> 00:39:27,804
+Estive lendo no relatório...
+
+619
+00:39:27,805 --> 00:39:31,320
+que você tem se sentido triste.
+
+620
+00:39:33,394 --> 00:39:35,449
+Está se sentindo triste, Morgan?
+
+621
+00:39:36,897 --> 00:39:38,412
+Sim.
+
+622
+00:39:38,691 --> 00:39:40,956
+Por que?
+
+623
+00:39:42,403 --> 00:39:45,458
+Estou triste por causa da Kathy.
+
+624
+00:39:46,156 --> 00:39:48,171
+Kathy Grieff?
+
+625
+00:39:48,200 --> 00:39:49,505
+Sim.
+
+626
+00:39:52,454 --> 00:39:55,509
+Podes me dizer o que você fez?
+
+627
+00:39:57,001 --> 00:39:59,886
+Espetei uma faca
+no olho dela.
+
+628
+00:40:00,170 --> 00:40:02,095
+Foi um erro.
+
+629
+00:40:02,214 --> 00:40:03,939
+Não devia ter feito isso.
+
+630
+00:40:08,971 --> 00:40:11,946
+Se sentir triste
+é a resposta certa.
+
+631
+00:40:13,017 --> 00:40:14,322
+Sim.
+
+632
+00:40:18,689 --> 00:40:22,954
+E o que chamaríamos
+de resposta errada?
+
+633
+00:40:27,615 --> 00:40:28,840
+Riso.
+
+634
+00:40:30,117 --> 00:40:33,632
+Sim, claro.
+Riso seria uma resposta incorreta.
+
+635
+00:40:33,996 --> 00:40:36,511
+O que faz você rir, Morgan?
+
+636
+00:40:36,957 --> 00:40:39,062
+Eu não tenho muito senso
+de humor.
+
+637
+00:40:40,502 --> 00:40:41,727
+Não faz mal.
+
+638
+00:40:42,880 --> 00:40:45,765
+As pessoas me dizem
+as mesmas coisas...
+
+639
+00:40:47,760 --> 00:40:51,596
+Você se considera
+uma pessoa, Morgan?
+
+640
+00:40:51,597 --> 00:40:52,742
+Não.
+
+641
+00:40:53,098 --> 00:40:55,203
+Sou algo novo.
+
+642
+00:40:55,434 --> 00:40:57,949
+Não tenho rótulo.
+
+643
+00:40:58,270 --> 00:41:01,564
+Você acha que é seguro dizer
+que a sua consciência é superior?
+
+644
+00:41:01,565 --> 00:41:02,524
+Não.
+
+645
+00:41:02,525 --> 00:41:04,750
+É apenas diferente.
+
+646
+00:41:06,111 --> 00:41:08,036
+Alhos e bugalhos.
+
+647
+00:41:12,201 --> 00:41:15,203
+É um ditado.
+Quer dizer...
+
+648
+00:41:15,204 --> 00:41:17,799
+que você é diferente
+dos seres humanos...
+
+649
+00:41:17,915 --> 00:41:20,350
+da mesma forma que não se misturam
+alhos com bugalhos.
+
+650
+00:41:23,337 --> 00:41:28,022
+Sim. Claro.
+Sou alhos e bugalhos.
+
+651
+00:41:32,555 --> 00:41:35,265
+Me desculpe, tenho dificuldades
+com metáforas.
+
+652
+00:41:35,266 --> 00:41:37,451
+Você gosta de estar aqui,
+Morgan?
+
+653
+00:41:39,270 --> 00:41:40,945
+Sim.
+
+654
+00:41:42,147 --> 00:41:44,212
+Do que você gosta?
+
+655
+00:41:45,526 --> 00:41:47,291
+Gosto da minha música...
+
+656
+00:41:48,320 --> 00:41:49,779
+Gosto dos meus amigos.
+
+657
+00:41:49,780 --> 00:41:51,455
+Quem são os seus amigos?
+
+658
+00:41:51,657 --> 00:41:53,212
+O Darren é meu amigo.
+
+659
+00:41:54,076 --> 00:41:56,077
+A Brenda é minha amiga.
+
+660
+00:41:56,078 --> 00:41:57,662
+A Amy é minha amiga...
+
+661
+00:41:57,663 --> 00:41:59,888
+São seus amigos, certo.
+
+662
+00:42:02,042 --> 00:42:04,767
+Mas acha que eles
+tratam você como amiga?
+
+663
+00:42:05,921 --> 00:42:07,226
+Acha?
+
+664
+00:42:10,634 --> 00:42:12,385
+Você acha normal...
+
+665
+00:42:12,386 --> 00:42:14,429
+amigos se fecharem
+uns aos outros em jaulas?
+
+666
+00:42:14,430 --> 00:42:15,680
+Eu nem sempre
+estive numa jaula.
+
+667
+00:42:15,681 --> 00:42:16,816
+Não?
+
+668
+00:42:17,641 --> 00:42:18,808
+Antes do incidente...
+
+669
+00:42:18,809 --> 00:42:20,824
+podia ficar à vontade.
+
+670
+00:42:25,441 --> 00:42:28,568
+Estive lendo nas notas do incidente
+com a Kathy...
+
+671
+00:42:28,569 --> 00:42:30,486
+que houve, na verdade...
+
+672
+00:42:30,487 --> 00:42:33,156
+um desacordo sobre isso
+no dia anterior.
+
+673
+00:42:33,157 --> 00:42:35,802
+Você pode olhar para mim,
+por favor, Morgan?
+
+674
+00:42:41,332 --> 00:42:43,927
+Eu devia ter ido
+com a Amy ao lago.
+
+675
+00:42:44,793 --> 00:42:47,478
+Ir ao lago com a Amy.
+Entendi.
+
+676
+00:42:47,546 --> 00:42:50,298
+Parece ser divertido!
+Não admira que estivesse zangada.
+
+677
+00:42:50,299 --> 00:42:51,904
+Não estava zangada.
+
+678
+00:42:53,677 --> 00:42:55,152
+Foi um erro.
+
+679
+00:42:56,055 --> 00:42:57,972
+Um erro?
+
+680
+00:42:57,973 --> 00:43:01,318
+Tal como o erro
+que aconteceu com a Kathy?
+
+681
+00:43:03,938 --> 00:43:05,373
+Eu amo a Kathy.
+
+682
+00:43:07,191 --> 00:43:09,366
+Você sente o amor?
+
+683
+00:43:12,530 --> 00:43:15,755
+Tenho a capacidade
+de demonstrar amor.
+
+684
+00:43:16,867 --> 00:43:18,762
+Está bem.
+
+685
+00:43:19,620 --> 00:43:22,622
+Você consegue demonstrar amor...
+
+686
+00:43:22,623 --> 00:43:24,541
+e tristeza.
+
+687
+00:43:24,542 --> 00:43:27,177
+Como você exprime
+outras emoções?
+
+688
+00:43:27,711 --> 00:43:29,436
+Quais outras emoções?
+
+689
+00:43:30,172 --> 00:43:32,187
+Não sei. O medo?
+
+690
+00:43:33,259 --> 00:43:35,404
+A raiva?
+
+691
+00:43:45,271 --> 00:43:47,236
+Você é pai, não é?
+
+692
+00:43:49,316 --> 00:43:51,871
+Tem uma filha com treze anos.
+
+693
+00:43:56,323 --> 00:43:59,418
+Já não vê muito ela.
+
+694
+00:44:06,625 --> 00:44:08,020
+Sim.
+
+695
+00:44:09,628 --> 00:44:12,273
+Eu sou pai.
+
+696
+00:44:16,802 --> 00:44:18,595
+O que eu devia entender,
+Morgan?
+
+697
+00:44:18,596 --> 00:44:20,821
+O que estou perdendo?
+
+698
+00:44:21,682 --> 00:44:23,057
+Eu sou uma criança.
+
+699
+00:44:23,058 --> 00:44:25,033
+Você é uma criança.
+
+700
+00:44:27,605 --> 00:44:29,939
+Sim, é verdade.
+Você é uma criança.
+
+701
+00:44:29,940 --> 00:44:33,955
+Você só tem cinco anos.
+
+702
+00:44:36,572 --> 00:44:41,797
+Que emoção você acha que estava
+exprimindo com a Kathy, Morgan?
+
+703
+00:44:43,078 --> 00:44:44,723
+Eu amo a Kathy.
+
+704
+00:44:47,291 --> 00:44:49,266
+E eu?
+
+705
+00:44:50,211 --> 00:44:52,016
+Você me ama?
+
+706
+00:44:53,005 --> 00:44:53,922
+Não.
+
+707
+00:44:53,923 --> 00:44:55,148
+Não?
+
+708
+00:44:55,799 --> 00:44:57,926
+Isso fere os meus sentimentos.
+
+709
+00:44:57,927 --> 00:45:01,242
+Mas eu compreendo.
+Você acabou de me conhecer.
+
+710
+00:45:01,555 --> 00:45:04,200
+Mas talvez você possa vir
+a me amar.
+
+711
+00:45:05,226 --> 00:45:08,102
+Se, digamos, eu recomendar...
+
+712
+00:45:08,103 --> 00:45:10,538
+que seja permitido a você
+ir ao lago...
+
+713
+00:45:10,856 --> 00:45:12,251
+com a Amy.
+
+714
+00:45:14,527 --> 00:45:16,882
+Você seria capaz
+de me amar, então?
+
+715
+00:45:20,241 --> 00:45:22,046
+Eu não sei.
+
+716
+00:45:24,995 --> 00:45:27,720
+E se eu fizer
+uma recomendação diferente?
+
+717
+00:45:28,541 --> 00:45:30,500
+E se eu recomendar...
+
+718
+00:45:30,501 --> 00:45:33,886
+que não devia ser permitido
+a você sair desta sala?
+
+719
+00:45:35,506 --> 00:45:37,757
+Os meus sentimentos
+são irrelevantes.
+
+720
+00:45:37,758 --> 00:45:39,733
+Se essa é a recomendação...
+
+721
+00:45:40,010 --> 00:45:41,803
+Está bem.
+E se eu fizer a recomendação...
+
+722
+00:45:41,804 --> 00:45:45,765
+de que você não pode sair desta sala
+e não pode ouvir a sua música...
+
+723
+00:45:45,766 --> 00:45:47,871
+e não pode ver os seus amigos?
+
+724
+00:45:49,228 --> 00:45:53,003
+E se eu recomendasse
+que destruíssem você?
+
+725
+00:46:03,951 --> 00:46:06,369
+Está bem.
+
+726
+00:46:06,370 --> 00:46:07,675
+Esquece isso.
+
+727
+00:46:08,539 --> 00:46:10,604
+Está bem? Esquece.
+
+728
+00:46:11,000 --> 00:46:13,595
+Digamos que eu faça o oposto,
+está bem?
+
+729
+00:46:13,627 --> 00:46:16,963
+E se eu recomendar que você
+pode ir ao lago...
+
+730
+00:46:16,964 --> 00:46:18,939
+e eu levar você lá?
+
+731
+00:46:19,383 --> 00:46:21,593
+Sim. Aí seria natural...
+
+732
+00:46:21,594 --> 00:46:23,720
+que você tivesse sentimentos
+mais calorosos por mim.
+
+733
+00:46:23,721 --> 00:46:27,640
+Sentimentos que talvez tenha pela
+Amy ou por algum dos seus amigos.
+
+734
+00:46:27,641 --> 00:46:29,684
+Talvez até sentimentos
+como o amor.
+
+735
+00:46:29,685 --> 00:46:31,436
+Talvez.
+
+736
+00:46:31,437 --> 00:46:33,438
+Eu não sei.
+É uma situação hipotética.
+
+737
+00:46:33,439 --> 00:46:36,107
+Exato! Hipoteticamente,
+o que você faria...
+
+738
+00:46:36,108 --> 00:46:38,443
+se eu recomendasse
+que destruíssem você?
+
+739
+00:46:38,444 --> 00:46:40,111
+O que você faria,
+hipoteticamente?
+
+740
+00:46:40,112 --> 00:46:41,863
+-Eu não sei.
+-Vamos lá. Você não sabe?
+
+741
+00:46:41,864 --> 00:46:42,780
+Não.
+
+742
+00:46:42,781 --> 00:46:44,699
+-Assim de repente. Vamos lá!
+-Eu não sei.
+
+743
+00:46:44,700 --> 00:46:46,284
+-Não há certo nem errado. Vamos!
+-Eu não sei!
+
+744
+00:46:46,285 --> 00:46:47,380
+Vamos lá!
+
+745
+00:46:47,494 --> 00:46:49,913
+-Responda. O que você faria?
+-Eu não sei.
+
+746
+00:46:49,914 --> 00:46:52,139
+O que você faria?
+
+747
+00:46:52,458 --> 00:46:54,223
+Devíamos parar isto.
+
+748
+00:46:55,544 --> 00:46:58,019
+Mostre, se não consegue dizer.
+
+749
+00:47:00,799 --> 00:47:02,724
+Demonstre.
+
+750
+00:47:04,386 --> 00:47:05,901
+Isso.
+
+751
+00:47:09,475 --> 00:47:11,620
+O que é isso?
+Não sei o que é isso.
+
+752
+00:47:11,769 --> 00:47:14,103
+O que isso me mostra?
+
+753
+00:47:14,104 --> 00:47:15,438
+Mostre!
+
+754
+00:47:15,439 --> 00:47:17,482
+Não sei o que é isto!
+O que é isso?
+
+755
+00:47:17,483 --> 00:47:19,288
+Mostre o que você sente!
+
+756
+00:47:22,279 --> 00:47:24,294
+Mostre o que você sente!
+
+757
+00:47:26,242 --> 00:47:27,507
+Morgan!
+
+758
+00:47:27,826 --> 00:47:29,591
+Tranquilizante! Vai!
+
+759
+00:47:30,037 --> 00:47:31,182
+Agora!
+
+760
+00:47:36,835 --> 00:47:37,961
+Brenda.
+
+761
+00:47:37,962 --> 00:47:40,227
+Vai buscar a Brenda. Vai!
+
+762
+00:47:41,757 --> 00:47:43,062
+Merda. Merda.
+
+763
+00:47:45,844 --> 00:47:47,189
+Morgan!
+
+764
+00:47:49,223 --> 00:47:52,318
+Não. Que porra é essa?
+Merda!
+
+765
+00:47:53,310 --> 00:47:55,075
+Morgan. Parceira.
+
+766
+00:47:55,354 --> 00:47:57,449
+Preciso que você se acalme,
+está bem?
+
+767
+00:48:11,912 --> 00:48:13,007
+Morgan.
+
+768
+00:48:57,750 --> 00:48:59,055
+Morgan?
+
+769
+00:49:13,682 --> 00:49:15,027
+Morgan?
+
+770
+00:49:15,434 --> 00:49:17,227
+Morgan, olhe para mim.
+
+771
+00:49:17,228 --> 00:49:18,873
+Morgan.
+
+772
+00:49:19,522 --> 00:49:20,827
+Querida.
+
+773
+00:49:41,752 --> 00:49:43,253
+O que aconteceu?
+
+774
+00:49:43,254 --> 00:49:46,439
+Por favor.
+Tente relaxar, Morgan.
+
+775
+00:49:48,676 --> 00:49:51,094
+O Darren, machuquei ele?
+
+776
+00:49:51,095 --> 00:49:53,846
+Não. Estou bem, parceira.
+
+777
+00:49:53,847 --> 00:49:55,765
+Estou aqui, está bem?
+
+778
+00:49:55,766 --> 00:49:57,225
+Não queria fazer aquilo.
+
+779
+00:49:57,226 --> 00:49:59,831
+Sim, eu sei. Eu sei.
+
+780
+00:50:04,024 --> 00:50:05,483
+Não consigo mover os braços.
+
+781
+00:50:05,484 --> 00:50:06,734
+Você foi presa...
+
+782
+00:50:06,735 --> 00:50:08,319
+Morgan.
+
+783
+00:50:08,320 --> 00:50:11,155
+Decidimos uma linha de atuação.
+
+784
+00:50:11,156 --> 00:50:13,051
+Uma que é a melhor para você.
+
+785
+00:50:13,826 --> 00:50:16,091
+Melhor para mim?
+
+786
+00:50:16,871 --> 00:50:18,176
+Meu Deus.
+
+787
+00:50:18,789 --> 00:50:20,039
+O que vamos fazer?
+
+788
+00:50:20,040 --> 00:50:23,126
+Temos que informar a Sede
+imediatamente. Dr. Ziegler...
+
+789
+00:50:23,127 --> 00:50:24,982
+Tomei a liberdade.
+
+790
+00:50:25,087 --> 00:50:26,921
+Uma equipe de contenção
+estará aqui ao nascer do dia...
+
+791
+00:50:26,922 --> 00:50:29,227
+para recolher o espécime
+e outros dados para análise.
+
+792
+00:50:29,383 --> 00:50:30,818
+Não, não vai funcionar.
+
+793
+00:50:31,343 --> 00:50:34,528
+Mais ninguém consegue
+lidar com este tipo de material.
+
+794
+00:50:35,472 --> 00:50:38,777
+É mais eficiente se processarmos
+os dados aqui.
+
+795
+00:50:38,851 --> 00:50:41,352
+Lamento, Doutor.
+Não há mais nada a fazer aqui.
+
+796
+00:50:41,353 --> 00:50:42,948
+Mas é o nosso trabalho.
+
+797
+00:50:43,147 --> 00:50:45,832
+As nossas vidas
+foram investidas nisto.
+
+798
+00:50:46,317 --> 00:50:49,444
+Criamos vida nova
+e quer que joguemos tudo fora?
+
+799
+00:50:49,445 --> 00:50:50,750
+Chega.
+
+800
+00:50:52,364 --> 00:50:54,459
+Nós falhamos, Simon.
+
+801
+00:50:55,159 --> 00:50:57,035
+Não há mais nada para falar.
+
+802
+00:50:57,036 --> 00:50:58,203
+Cheng.
+
+803
+00:50:58,204 --> 00:51:01,389
+Volte para casa.
+Você não precisa estar aqui.
+
+804
+00:51:02,541 --> 00:51:03,708
+Certo.
+
+805
+00:51:03,709 --> 00:51:05,724
+E deixo você fazer o quê?
+
+806
+00:51:06,295 --> 00:51:08,671
+Destruir anos de trabalho?
+
+807
+00:51:08,672 --> 00:51:12,057
+Volte para casa.
+Tome um drink.
+
+808
+00:51:16,263 --> 00:51:18,528
+Se você acha que é melhor.
+
+809
+00:51:29,235 --> 00:51:30,318
+CUIDADO
+
+810
+00:51:30,319 --> 00:51:31,714
+Tiopentato de sódio.
+
+811
+00:51:33,614 --> 00:51:36,324
+Cinco mililitros para sedar.
+
+812
+00:51:36,325 --> 00:51:38,380
+O que você está fazendo?
+
+813
+00:51:39,411 --> 00:51:42,466
+Depois, trinta mililitros
+de hidromorfina.
+
+814
+00:51:43,499 --> 00:51:45,434
+Desapontei você, mãe?
+
+815
+00:51:47,586 --> 00:51:50,391
+Eu falhei?
+Dou sempre o melhor.
+
+816
+00:51:51,715 --> 00:51:54,360
+Faço tudo o que você pede, Ted.
+
+817
+00:51:55,010 --> 00:51:57,435
+Amy. Amy!
+
+818
+00:51:58,389 --> 00:51:59,744
+Não.
+
+819
+00:52:00,474 --> 00:52:02,684
+Não!
+Eu prometo que faço melhor.
+
+820
+00:52:02,685 --> 00:52:05,120
+-Faço o que quiserem.
+-Calma.
+
+821
+00:52:05,521 --> 00:52:08,022
+-Não, por favor. Não.
+-Relaxe.
+
+822
+00:52:08,023 --> 00:52:10,817
+-Está na hora de dormir, Morgan.
+-Não!
+
+823
+00:52:10,818 --> 00:52:13,173
+-Vai correr tudo bem, parceira.
+-Não.
+
+824
+00:52:13,404 --> 00:52:15,959
+Eu não quero morrer!
+Por favor, mãe.
+
+825
+00:52:16,657 --> 00:52:18,324
+-Isto vai ajudar.
+-Não!
+
+826
+00:52:18,325 --> 00:52:20,470
+-Você não vai sentir mais dores.
+-Não!
+
+827
+00:52:24,290 --> 00:52:27,095
+Eu quero viver.
+Por favor, mãe.
+
+828
+00:52:27,585 --> 00:52:30,044
+Eu não sou a sua mãe, Morgan.
+
+829
+00:52:30,045 --> 00:52:31,810
+Você não tem mãe.
+
+830
+00:52:37,970 --> 00:52:40,105
+Eu não tenho mãe?
+
+831
+00:52:42,725 --> 00:52:44,660
+Sinto muito.
+
+832
+00:52:45,436 --> 00:52:47,031
+Nós falhamos com você.
+
+833
+00:52:51,942 --> 00:52:53,417
+Que seja rápido.
+
+834
+00:53:06,665 --> 00:53:08,100
+Morgan!
+
+835
+00:53:08,375 --> 00:53:09,890
+Eu vou te pegar!
+
+836
+00:53:10,836 --> 00:53:12,481
+Vou te pegar!
+
+837
+00:53:14,298 --> 00:53:15,603
+Morgan.
+
+838
+00:53:18,886 --> 00:53:20,191
+Morgan!
+
+839
+00:53:21,305 --> 00:53:22,820
+Simon.
+
+840
+00:53:39,782 --> 00:53:41,757
+Eu sinto muito.
+
+841
+00:54:14,108 --> 00:54:15,833
+Vai se foder.
+
+842
+00:54:20,114 --> 00:54:22,089
+Eu não vou fazer isso.
+
+843
+00:54:34,128 --> 00:54:35,773
+Darren.
+
+844
+00:54:39,842 --> 00:54:41,009
+Sinto muito.
+
+845
+00:54:41,010 --> 00:54:42,260
+Não, você tem razão.
+
+846
+00:54:42,261 --> 00:54:43,566
+Vamos.
+
+847
+00:54:47,349 --> 00:54:48,984
+Não posso deixar você
+fazer isto.
+
+848
+00:54:49,518 --> 00:54:50,768
+Saia da minha frente, Ted.
+
+849
+00:54:50,769 --> 00:54:52,194
+Sinto muito, Lee, mas não.
+
+850
+00:55:10,998 --> 00:55:12,303
+Lee!
+
+851
+00:55:13,000 --> 00:55:14,305
+Lee!
+
+852
+00:55:14,627 --> 00:55:15,932
+Lee!
+
+853
+00:55:16,712 --> 00:55:19,437
+Costuma fazer efeito,
+pelo menos mais uma hora.
+
+854
+00:55:21,592 --> 00:55:25,027
+Lee. Isto é apenas
+uma situação infeliz.
+
+855
+00:55:29,516 --> 00:55:33,121
+Todos nos sentimos mal
+em relação ao que aconteceu.
+
+856
+00:55:33,562 --> 00:55:35,447
+Especialmente a Amy.
+
+857
+00:55:35,731 --> 00:55:37,496
+Onde está a Morgan?
+
+858
+00:55:39,276 --> 00:55:43,631
+Sabe que estou aqui, tal como você,
+como representante da companhia.
+
+859
+00:55:44,114 --> 00:55:46,919
+Estou aqui para agir
+nos seus melhores interesses.
+
+860
+00:55:48,285 --> 00:55:51,470
+Temos uma diferença de opinião,
+você e eu.
+
+861
+00:55:51,830 --> 00:55:56,055
+A Sede merece uma oportunidade
+para ouvir o nosso lado.
+
+862
+00:55:56,460 --> 00:55:58,419
+Você é profissional, Lee.
+
+863
+00:55:58,420 --> 00:56:00,345
+E eu respeito isso.
+
+864
+00:56:00,839 --> 00:56:03,967
+Mas é por causa desse profissionalismo
+que acho que devia entender...
+
+865
+00:56:03,968 --> 00:56:06,863
+e compreender as nossas ações.
+
+866
+00:56:13,769 --> 00:56:16,354
+Deixe eu sair. Já.
+
+867
+00:56:16,355 --> 00:56:19,000
+Eu lamento, Lee.
+Não posso fazer isso.
+
+868
+00:56:28,993 --> 00:56:30,838
+Eles estão chegando.
+
+869
+00:56:31,328 --> 00:56:35,081
+Os seus amigos da Sede vão chegar
+mais cedo do que você pensa.
+
+870
+00:56:35,082 --> 00:56:38,637
+Vamos todos conversar
+sobre tudo.
+
+871
+00:56:40,045 --> 00:56:44,257
+Claro. Agora, descanse.
+
+872
+00:56:44,258 --> 00:56:47,176
+Eu entendo o que você
+sente pela Morgan.
+
+873
+00:56:47,177 --> 00:56:49,862
+O carinho que tem por ela.
+
+874
+00:56:50,848 --> 00:56:53,823
+Ted, ela precisa ser destruída.
+
+875
+00:57:07,239 --> 00:57:08,615
+Ela está brava.
+
+876
+00:57:08,616 --> 00:57:10,074
+Claro que está brava.
+
+877
+00:57:10,075 --> 00:57:12,300
+Não podemos nos preocupar com isso.
+Já passamos desse ponto.
+
+878
+00:57:12,745 --> 00:57:14,245
+Ainda vamos demorar muito?
+
+879
+00:57:14,246 --> 00:57:17,457
+A Brenda está a trazer a Van
+e limpando o escritório.
+
+880
+00:57:17,458 --> 00:57:18,625
+-Darren?
+-Sim?
+
+881
+00:57:18,626 --> 00:57:21,141
+-Como estamos aí?
+-Quase acabando.
+
+882
+00:57:24,548 --> 00:57:26,273
+Morgan.
+
+883
+00:57:32,056 --> 00:57:33,861
+O que está acontecendo?
+
+884
+00:57:35,100 --> 00:57:37,352
+Nada.
+Volte para a cama, Kathy.
+
+885
+00:57:37,353 --> 00:57:39,229
+Eu quero saber
+o que está acontecendo.
+
+886
+00:57:39,230 --> 00:57:42,245
+Nada. Não se meta.
+
+887
+00:57:42,942 --> 00:57:44,787
+O que aconteceu?
+
+888
+00:57:45,444 --> 00:57:47,749
+Nada. Está tudo bem.
+
+889
+00:57:48,447 --> 00:57:49,906
+A Morgan vai ficar bem.
+
+890
+00:57:49,907 --> 00:57:51,366
+-Bren.
+-Meu Deus.
+
+891
+00:57:51,367 --> 00:57:52,367
+Onde está a Morgan?
+
+892
+00:57:52,368 --> 00:57:53,923
+Volte para a cama.
+
+893
+00:57:58,040 --> 00:57:59,755
+Onde está a Morgan?
+
+894
+00:58:01,001 --> 00:58:02,476
+Morgan!
+
+895
+00:58:02,753 --> 00:58:04,098
+Querida.
+
+896
+00:58:04,505 --> 00:58:07,190
+Temos de quer agora,
+está bem?
+
+897
+00:58:07,341 --> 00:58:10,396
+Preciso que você sente.
+Consegue?
+
+898
+00:58:10,761 --> 00:58:12,929
+Morgan, vamos.
+Vem aqui!
+
+899
+00:58:12,930 --> 00:58:14,145
+Morgan.
+
+900
+00:58:14,723 --> 00:58:16,015
+-Darren?
+-Sim.
+
+901
+00:58:16,016 --> 00:58:17,871
+Preciso que sente ela.
+
+902
+00:58:18,978 --> 00:58:20,645
+Está bem. Tome.
+Você faz isto.
+
+903
+00:58:20,646 --> 00:58:21,911
+Está bem.
+
+904
+00:58:22,565 --> 00:58:24,691
+Parceira.
+Preciso que você acorde.
+
+905
+00:58:24,692 --> 00:58:25,942
+Vamos!
+
+906
+00:58:25,943 --> 00:58:27,902
+Vamos fazer uma pequena viagem.
+
+907
+00:58:27,903 --> 00:58:29,612
+Vamos numa pequena aventura.
+
+908
+00:58:29,613 --> 00:58:30,838
+Vamos.
+
+909
+00:58:31,282 --> 00:58:34,047
+Vem aqui.
+Olhe para mim.
+
+910
+00:58:34,910 --> 00:58:36,465
+Escute!
+
+911
+00:58:37,496 --> 00:58:38,997
+Parceira.
+
+912
+00:58:38,998 --> 00:58:41,263
+Vai ficar tudo bem.
+
+913
+00:58:47,548 --> 00:58:48,773
+Morgan!
+
+914
+00:58:51,010 --> 00:58:52,315
+Morgan, não!
+
+915
+00:58:52,511 --> 00:58:53,816
+Darren!
+
+916
+00:58:57,933 --> 00:59:00,948
+Morgan. Morgan, não!
+
+917
+00:59:12,948 --> 00:59:14,713
+Você tem que parar.
+
+918
+00:59:15,075 --> 00:59:16,840
+Você não está bem, Morgan.
+
+919
+00:59:17,536 --> 00:59:18,841
+Você está doente.
+
+920
+00:59:19,830 --> 00:59:21,635
+Estou me sentindo muito melhor.
+
+921
+00:59:51,529 --> 00:59:52,904
+Onde você está indo?
+
+922
+00:59:52,905 --> 00:59:54,322
+Acabou.
+
+923
+00:59:54,323 --> 00:59:56,157
+Você não vai embora
+porque não está autorizada, Bren.
+
+924
+00:59:56,158 --> 00:59:58,093
+Quer me dizer
+o que está acontecendo?
+
+925
+00:59:58,202 --> 00:59:59,797
+Vamos sair daqui, está bem?
+
+926
+01:00:11,257 --> 01:00:12,507
+Olá, Lee.
+
+927
+01:00:12,508 --> 01:00:14,133
+Abra a porta.
+
+928
+01:00:14,134 --> 01:00:15,899
+O Dr. Shapiro tinha razão.
+
+929
+01:00:17,846 --> 01:00:20,201
+Aquelas pessoas
+não eram minhas amigas.
+
+930
+01:00:20,849 --> 01:00:22,600
+Queriam me matar...
+
+931
+01:00:22,601 --> 01:00:24,519
+exceto a Amy.
+
+932
+01:00:24,520 --> 01:00:27,235
+Só ela gostava realmente de mim.
+
+933
+01:00:27,606 --> 01:00:29,661
+Você precisa de ajuda, Morgan.
+
+934
+01:00:30,109 --> 01:00:32,318
+Abra a porta
+e deixe eu te ajudar.
+
+935
+01:00:32,319 --> 01:00:34,084
+Eu não preciso da sua ajuda.
+
+936
+01:00:35,281 --> 01:00:37,866
+Começo a me sentir eu mesma.
+
+937
+01:00:37,867 --> 01:00:40,472
+Você se sente
+como você mesma, Lee?
+
+938
+01:00:42,496 --> 01:00:44,891
+Ou se sente
+como outra coisa qualquer?
+
+939
+01:00:47,376 --> 01:00:49,561
+Eu sei porque me fizeram.
+
+940
+01:00:50,254 --> 01:00:52,139
+E se estão enganados?
+
+941
+01:00:53,465 --> 01:00:55,560
+Por que você não entra?
+
+942
+01:00:55,801 --> 01:00:57,468
+Podemos falar de tudo.
+
+943
+01:00:57,469 --> 01:01:00,234
+Eu adoraria ficar e falar, Lee.
+
+944
+01:01:00,890 --> 01:01:03,905
+Sinto que há muito
+para falarmos.
+
+945
+01:01:05,895 --> 01:01:07,200
+Mas agora tenho que ir.
+
+946
+01:01:07,688 --> 01:01:09,003
+Abra a porta.
+
+947
+01:01:09,023 --> 01:01:11,024
+Um dia você vai entender.
+
+948
+01:01:11,025 --> 01:01:12,330
+Morgan!
+
+949
+01:01:15,571 --> 01:01:17,126
+Porra.
+
+950
+01:01:17,865 --> 01:01:19,380
+Amy.
+
+951
+01:01:19,742 --> 01:01:21,547
+O que você está fazendo?
+
+952
+01:01:21,744 --> 01:01:22,879
+Skip!
+
+953
+01:01:22,912 --> 01:01:25,717
+Leva a Morgan lá para dentro.
+Amy!
+
+954
+01:01:26,707 --> 01:01:28,312
+Pare eles!
+
+955
+01:01:34,673 --> 01:01:36,591
+-Skip, não entre aí, está bem?
+-Não o quê?
+
+956
+01:01:36,592 --> 01:01:38,009
+Não vá lá embaixo, Skip.
+
+957
+01:01:38,010 --> 01:01:39,177
+-Do que você está dizendo?
+-Brenda!
+
+958
+01:01:39,178 --> 01:01:40,443
+Onde está a Lee?
+
+959
+01:01:44,767 --> 01:01:46,242
+Brenda!
+
+960
+01:01:48,687 --> 01:01:49,832
+Brenda!
+
+961
+01:01:51,732 --> 01:01:52,657
+Porra!
+
+962
+01:01:53,692 --> 01:01:56,277
+-Não, não, não.
+-Mas que porra! Eu quase...
+
+963
+01:01:56,278 --> 01:01:57,946
+Temos que sair daqui. Brenda,
+temos que ir.
+
+964
+01:01:57,947 --> 01:01:59,614
+Amy!
+O que está acontecendo?
+
+965
+01:01:59,615 --> 01:02:02,200
+-Onde está todo mundo?
+-É a Morgan. É a Morgan.
+
+966
+01:02:02,201 --> 01:02:03,743
+-Onde está o Darren?
+-Darren.
+
+967
+01:02:03,744 --> 01:02:05,009
+Onde está o Darren?
+
+968
+01:02:06,705 --> 01:02:08,039
+Morgan.
+
+969
+01:02:08,040 --> 01:02:09,249
+Onde ela está?
+
+970
+01:02:09,250 --> 01:02:11,042
+Onde está a Morgan, Amy?
+
+971
+01:02:11,043 --> 01:02:12,888
+Estou aqui, Brenda.
+
+972
+01:02:17,841 --> 01:02:20,146
+Oi, Morgan.
+
+973
+01:02:21,512 --> 01:02:23,487
+Está bem.
+
+974
+01:02:25,057 --> 01:02:27,702
+Me dê a arma, Morgan.
+
+975
+01:02:29,103 --> 01:02:31,618
+Calma, calma, Morgan.
+
+976
+01:02:33,607 --> 01:02:35,462
+Onde está o Darren?
+
+977
+01:02:38,821 --> 01:02:40,796
+Onde está o Darren, Morgan?
+
+978
+01:02:46,120 --> 01:02:47,505
+Sinto muito, parceira.
+
+979
+01:03:00,843 --> 01:03:02,398
+Morgan.
+
+980
+01:03:11,896 --> 01:03:14,041
+Não tenha medo, Amy.
+
+981
+01:03:23,324 --> 01:03:25,339
+Entre no carro.
+
+982
+01:03:29,413 --> 01:03:31,388
+Tenho que me despedir da mãe.
+
+983
+01:03:47,431 --> 01:03:49,933
+Aqui é a Dra. Lui Cheng...
+
+984
+01:03:49,934 --> 01:03:53,579
+Diretora Técnica
+do Programa Morgan L-9.
+
+985
+01:03:55,314 --> 01:03:58,983
+Lamento informar que
+aconteceu um acidente...
+
+986
+01:03:58,984 --> 01:04:02,999
+durante a avaliação psicológica
+da Morgan.
+
+987
+01:04:03,781 --> 01:04:05,336
+Tínhamos antecipado...
+
+988
+01:04:05,449 --> 01:04:09,624
+que, ao desenvolver um modelo
+que fosse mais consciente...
+
+989
+01:04:09,870 --> 01:04:11,704
+mais autônomo e mais humano...
+
+990
+01:04:11,705 --> 01:04:15,220
+poderíamos ensinar
+a ter o melhor de nós.
+
+991
+01:04:16,544 --> 01:04:19,420
+O nosso propósito era
+demonstrar...
+
+992
+01:04:19,421 --> 01:04:21,422
+à diretoria da SynSect...
+
+993
+01:04:21,423 --> 01:04:25,568
+que é possível haver uma forma de vida
+sintética mais refinada e pacífica.
+
+994
+01:04:27,888 --> 01:04:29,203
+Morgan?
+
+995
+01:04:30,266 --> 01:04:31,861
+Querida.
+
+996
+01:04:39,483 --> 01:04:40,618
+Darren.
+
+997
+01:04:40,734 --> 01:04:44,946
+Apesar das nossas tentativas para
+promover uma inteligência emocional...
+
+998
+01:04:44,947 --> 01:04:47,782
+Morgan foi incapaz
+de ultrapassar...
+
+999
+01:04:47,783 --> 01:04:50,168
+os seus parâmetros de arma.
+
+1000
+01:04:54,707 --> 01:04:56,602
+Merda. Porra.
+
+1001
+01:05:15,394 --> 01:05:16,949
+Lee!
+
+1002
+01:05:19,732 --> 01:05:21,649
+Ouça. Você não pode entrar ali.
+
+1003
+01:05:21,650 --> 01:05:23,651
+A Morgan está enfurecida.
+
+1004
+01:05:23,652 --> 01:05:25,278
+Isto é o que eu faço, Skip.
+
+1005
+01:05:25,279 --> 01:05:26,964
+Vá buscar a sua espingarda.
+
+1006
+01:05:32,161 --> 01:05:34,716
+Confirmação de colapso
+do programa.
+
+1007
+01:05:35,039 --> 01:05:37,332
+Morgan já não é viável.
+
+1008
+01:05:37,333 --> 01:05:38,758
+Mãe.
+
+1009
+01:05:48,886 --> 01:05:50,481
+Muito bem.
+
+1010
+01:05:50,888 --> 01:05:53,743
+Implementação de protocolo
+de perda...
+
+1011
+01:05:54,058 --> 01:05:55,703
+em andamento.
+
+1012
+01:06:08,989 --> 01:06:11,334
+Eu vim me despedir.
+
+1013
+01:06:13,327 --> 01:06:16,182
+Você devia ter me contado,
+mãe.
+
+1014
+01:06:16,455 --> 01:06:18,350
+O que eu realmente sou.
+
+1015
+01:06:19,208 --> 01:06:21,723
+Em que me tornaria.
+
+1016
+01:06:26,507 --> 01:06:28,232
+Desculpe.
+
+1017
+01:06:28,884 --> 01:06:32,939
+Agora você sabe exatamente
+o que você é.
+
+1018
+01:07:43,959 --> 01:07:45,251
+Amy.
+
+1019
+01:07:45,252 --> 01:07:47,253
+Saia do carro.
+
+1020
+01:07:47,254 --> 01:07:49,881
+Amy, saia do carro.
+Não é seguro.
+
+1021
+01:07:49,882 --> 01:07:51,187
+Me dê a arma.
+
+1022
+01:07:52,218 --> 01:07:54,613
+Está bem.
+
+1023
+01:09:09,461 --> 01:09:11,686
+Não, pare. Pare!
+
+1024
+01:09:17,303 --> 01:09:19,108
+Sai daí. Agora.
+
+1025
+01:09:38,949 --> 01:09:40,254
+Morgan.
+
+1026
+01:09:41,160 --> 01:09:42,285
+Morgan.
+
+1027
+01:09:42,286 --> 01:09:43,369
+Morgan!
+
+1028
+01:09:43,370 --> 01:09:45,175
+Morgan, não!
+
+1029
+01:10:45,307 --> 01:10:46,492
+Pare!
+
+1030
+01:10:50,062 --> 01:10:51,367
+Porra!
+
+1031
+01:10:52,898 --> 01:10:54,963
+Morgan! Pare!
+
+1032
+01:10:57,027 --> 01:10:58,752
+Não, Morgan.
+
+1033
+01:11:17,256 --> 01:11:19,481
+Jesus Cristo,
+você está bem?
+
+1034
+01:11:19,592 --> 01:11:20,925
+Vou levar o seu carro.
+
+1035
+01:11:20,926 --> 01:11:21,926
+O quê?
+
+1036
+01:11:21,927 --> 01:11:24,942
+Não, não, você está ferida.
+Deixe pra lá.
+
+1037
+01:11:25,514 --> 01:11:28,279
+Não. Não é assim que funciona.
+
+1038
+01:11:31,645 --> 01:11:34,250
+Entre.
+Eu sei para onde elas vão.
+
+1039
+01:12:28,827 --> 01:12:31,512
+Eu não vou te machucar, Amy.
+
+1040
+01:12:33,457 --> 01:12:35,222
+Você vai ver.
+
+1041
+01:12:50,766 --> 01:12:53,371
+Encoste aqui.
+Não muito perto.
+
+1042
+01:13:06,156 --> 01:13:07,461
+Volte para o carro.
+
+1043
+01:13:07,783 --> 01:13:09,668
+Não, droga.
+Vou ajudar você.
+
+1044
+01:13:10,411 --> 01:13:12,426
+Deixe eu fazer o meu trabalho.
+
+1045
+01:13:36,979 --> 01:13:38,704
+Agora você vai ver.
+
+1046
+01:13:40,482 --> 01:13:42,747
+Como podemos ser felizes.
+
+1047
+01:15:38,392 --> 01:15:40,987
+O céu é assim?
+
+1048
+01:15:46,483 --> 01:15:48,118
+Não sei.
+
+1049
+01:16:00,414 --> 01:16:02,179
+Deve ser.
+
+1050
+01:16:13,385 --> 01:16:15,110
+Eu me sinto...
+
+1051
+01:16:21,936 --> 01:16:23,621
+viva.
+
+1052
+01:17:26,125 --> 01:17:27,430
+O que foi aquilo?
+
+1053
+01:17:29,545 --> 01:17:30,850
+Morgan?
+
+1054
+01:17:34,091 --> 01:17:35,936
+Por favor, não...
+
+1055
+01:17:36,135 --> 01:17:37,940
+Morgan?
+
+1056
+01:18:12,171 --> 01:18:13,686
+Merda!
+
+1057
+01:20:12,082 --> 01:20:13,597
+O que aconteceu?
+
+1058
+01:20:15,127 --> 01:20:16,812
+Foi a Lee?
+
+1059
+01:20:17,963 --> 01:20:19,380
+Vamos. Agora.
+
+1060
+01:20:19,381 --> 01:20:21,146
+Não! Morgan.
+
+1061
+01:20:22,885 --> 01:20:25,070
+Você tem que parar.
+
+1062
+01:20:26,222 --> 01:20:28,357
+Está bem? Pare.
+
+1063
+01:22:28,719 --> 01:22:30,734
+O que aconteceu?
+
+1064
+01:22:31,138 --> 01:22:32,703
+Acabou.
+
+1065
+01:22:33,390 --> 01:22:35,155
+A Morgan morreu?
+
+1066
+01:22:35,726 --> 01:22:37,281
+Morreu.
+
+1067
+01:22:40,481 --> 01:22:41,648
+Onde está a Amy?
+
+1068
+01:22:41,649 --> 01:22:43,214
+Temos que ir embora.
+
+1069
+01:22:44,735 --> 01:22:46,830
+O que aconteceu
+com a Amy?
+
+1070
+01:22:51,450 --> 01:22:53,215
+Sinto muito, Skip.
+
+1071
+01:22:54,745 --> 01:22:56,300
+Espere, Lee...
+
+1072
+01:23:23,858 --> 01:23:25,873
+Ela se comportou bem.
+
+1073
+01:23:27,111 --> 01:23:29,279
+Concordo,
+a situação ficou desordenada...
+
+1074
+01:23:29,280 --> 01:23:32,031
+mas dada a natureza imprevisível
+da tarefa...
+
+1075
+01:23:32,032 --> 01:23:34,868
+ela cumpriu o seu mandato
+na perfeição.
+
+1076
+01:23:34,869 --> 01:23:37,453
+Foi cuidadosa e precisa...
+
+1077
+01:23:37,454 --> 01:23:41,082
+mesmo quando a situação
+estava fora do controle.
+
+1078
+01:23:41,083 --> 01:23:42,959
+O mais importante foi que...
+
+1079
+01:23:42,960 --> 01:23:46,885
+seguiu as diretrizes sem hesitar.
+
+1080
+01:23:47,923 --> 01:23:51,438
+Os danos colaterais
+são lamentáveis, claro.
+
+1081
+01:23:51,927 --> 01:23:53,782
+Mas neste caso...
+
+1082
+01:23:53,971 --> 01:23:55,606
+inevitáveis.
+
+1083
+01:24:01,228 --> 01:24:05,373
+Estes eventos tornam brutalmente
+claro o que eu tinha previsto.
+
+1084
+01:24:06,108 --> 01:24:07,233
+O L-9...
+
+1085
+01:24:07,234 --> 01:24:09,919
+era o programa inferior.
+
+1086
+01:24:15,367 --> 01:24:18,972
+Embora o seu desenvolvimento
+emocional tenha sido notável...
+
+1087
+01:24:19,246 --> 01:24:20,955
+a sua destruição imediata...
+
+1088
+01:24:20,956 --> 01:24:24,250
+embora infeliz,
+foi claramente necessária.
+
+1089
+01:24:24,251 --> 01:24:28,726
+Parece que os cães mais velhos
+continuam caçando melhor.
+
+1090
+01:24:28,839 --> 01:24:30,684
+Então, está decidido.
+
+1091
+01:24:30,758 --> 01:24:32,967
+Ficamos pelo que sabemos.
+
+1092
+01:24:32,968 --> 01:24:37,243
+Todos os desenvolvimentos
+revertem para a série L-4.
+
+1093
+01:24:38,766 --> 01:24:41,531
+O que fazemos
+com Lee Weathers?
+
+1094
+01:24:42,311 --> 01:24:44,036
+O que tem?
+
+1095
+01:24:44,813 --> 01:24:46,618
+Ela é perfeita.
+
+1096
+01:24:48,314 --> 01:24:53,115
+<i>Adaptação PT-BR: wallop
+Sync by DanDee</i>
+
+1097
+01:31:41,021 --> 01:31:46,326
+<i>Traduzido por: Ana Maria Nobre</i>
+

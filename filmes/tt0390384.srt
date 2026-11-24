@@ -1,0 +1,5223 @@
+1
+00:00:32,899 --> 00:00:36,391
+"Isso é o que vai acontecer:
+vou ler isto..."
+
+2
+00:00:36,703 --> 00:00:39,797
+"e você vai ouvir,
+e vai ficar na linha."
+
+3
+00:00:39,906 --> 00:00:43,501
+"Não vai interromper.
+E não vai falar de jeito nenhum."
+
+4
+00:00:43,610 --> 00:00:47,376
+"Algumas coisas você já sabe.
+Começarei do início."
+
+5
+00:00:50,016 --> 00:00:54,316
+"Precisos, sim.
+Metódicos. Educados."
+
+6
+00:00:54,421 --> 00:00:56,389
+"Eles eram assim."
+
+7
+00:00:56,489 --> 00:00:59,014
+"Nada de extremo.
+Como qualquer um, eles mudavam."
+
+8
+00:00:59,125 --> 00:01:03,289
+"Tinham dias de erros,
+de preguiça, brigas internas."
+
+9
+00:01:03,797 --> 00:01:07,665
+"E tinham dias, bons dias,
+que pelo julgamento de qualquer um..."
+
+10
+00:01:08,001 --> 00:01:10,367
+"eles deveriam ser
+considerados muito espertos."
+
+11
+00:01:10,537 --> 00:01:13,768
+"Ninguém teria dito que o que
+eles faziam era complicado."
+
+12
+00:01:14,074 --> 00:01:18,443
+"Não poderia nem ser considerado novo.
+Exceto talvez no sentido geológico."
+
+13
+00:01:18,812 --> 00:01:21,508
+"Pegavam das redondezas
+o que precisavam..."
+
+14
+00:01:21,614 --> 00:01:23,275
+"e transformavam em algo mais."
+
+15
+00:01:23,383 --> 00:01:27,012
+-...nem marcamos uma reunião ainda.
+-Que data de compra colocou nesse?
+
+16
+00:01:27,120 --> 00:01:30,283
+-Dia 28. Por quê?
+-Sei lá... É, vou colocar 28.
+
+17
+00:01:30,390 --> 00:01:34,656
+Pensou algo mais sobre
+o que vai fazer?
+
+18
+00:01:36,396 --> 00:01:38,762
+-Na verdade não.
+-Porque eu...
+
+19
+00:01:38,865 --> 00:01:41,561
+Quero dizer, não mudei de idéia.
+
+20
+00:01:41,668 --> 00:01:45,604
+Phillip e eu conversamos e achamos
+que vai ser bom. Seria divertido.
+
+21
+00:01:48,441 --> 00:01:50,204
+Ninguém está dizendo
+que não será divertido.
+
+22
+00:01:50,310 --> 00:01:54,371
+É que o tempo de brincar com bobinas de
+Tesla e bola de luz na garagem acabou.
+
+23
+00:01:54,481 --> 00:01:56,975
+Talvez você devesse tentar
+isso no seu tempo livre, sabe?
+
+24
+00:01:57,083 --> 00:01:58,143
+Meu tempo livre? Que tempo livre?
+
+25
+00:01:58,183 --> 00:02:00,243
+O tempo livre após as 50 horas
+por semana no trabalho...
+
+26
+00:02:00,353 --> 00:02:04,346
+ou após as 30 horas de tempo livre
+que eu já passo naquela garagem?
+
+27
+00:02:04,757 --> 00:02:06,748
+E não é uma bobina de Tesla.
+
+28
+00:02:06,860 --> 00:02:09,420
+Eu poderia ganhar uns minutos
+por dia se comesse no banheiro.
+
+29
+00:02:09,529 --> 00:02:12,225
+Quantas patentes tivemos?
+Nos últimos 14 meses?
+
+30
+00:02:12,332 --> 00:02:15,233
+-Você assinou o acordo?
+-Ninguém assinou o acordo.
+
+31
+00:02:15,335 --> 00:02:17,462
+Não importa, vamos
+continuar com o acordo.
+
+32
+00:02:17,570 --> 00:02:20,698
+Diga uma coisa daquela garagem
+que seja remotamente lucrativa.
+
+33
+00:02:20,807 --> 00:02:22,940
+Não vejo ninguém largando
+o emprego por causa disso.
+
+34
+00:02:22,957 --> 00:02:24,140
+Eu sei que eu não, e você?
+
+35
+00:02:24,244 --> 00:02:26,906
+Acho que o que Abe quer dizer
+é que agora os cartões JTAG são tudo.
+
+36
+00:02:27,013 --> 00:02:31,313
+Quando olhamos estes endereços, vemos
+vários apartamentos. Residências.
+
+37
+00:02:31,417 --> 00:02:34,443
+Mas esses não são os pedidos
+de fabricantes ou revendas gigantes.
+
+38
+00:02:34,554 --> 00:02:36,749
+-São os calmos e...
+-Hackers.
+
+39
+00:02:36,856 --> 00:02:40,292
+É, aspirantes a hackers testando
+as placas-mães velhas de seus pais.
+
+40
+00:02:41,528 --> 00:02:45,464
+Sei que muito disso é
+culpa minha, eu assumo isso.
+
+41
+00:02:45,698 --> 00:02:49,964
+Com tudo aquilo ano passado,
+e os discursos sem sentido de Platts...
+
+42
+00:02:50,069 --> 00:02:53,732
+...e tudo aquilo que não discutiremos agora...
+-Talvez devêssemos discutir isso.
+
+43
+00:02:54,607 --> 00:02:56,097
+Desculpe, o quê?
+
+44
+00:02:57,844 --> 00:02:59,641
+Vamos lá, diga a ele.
+
+45
+00:03:01,047 --> 00:03:03,572
+Talvez devêssemos discutir isso.
+Falei com meu irmão hoje...
+
+46
+00:03:03,683 --> 00:03:06,243
+e ele sabe de outros dois casos
+como aquele na empresa dele.
+
+47
+00:03:06,352 --> 00:03:07,549
+Deveríamos deixar o Platts saber
+que estamos falando disso.
+
+48
+00:03:07,562 --> 00:03:09,549
+Olha, esqueça o Platts.
+
+49
+00:03:09,656 --> 00:03:13,148
+Isso tem que ser sobre o que tem
+a melhor chance de sair ao mercado...
+
+50
+00:03:13,259 --> 00:03:15,489
+e o que vai nos dar a
+atenção do capital de risco.
+
+51
+00:03:15,595 --> 00:03:18,962
+Olhem, fui fiel a vocês
+quando eram as suas vezes.
+
+52
+00:03:19,065 --> 00:03:21,863
+E eu não estava 100% certo
+do que estávamos fazendo...
+
+53
+00:03:21,968 --> 00:03:24,266
+ou talvez nem concordasse.
+
+54
+00:03:25,505 --> 00:03:27,632
+Mas se for a minha vez...
+
+55
+00:03:27,874 --> 00:03:31,605
+se ainda estamos seguindo as regras,
+então é isso o que eu quero tentar.
+
+56
+00:03:34,814 --> 00:03:37,146
+Aqui, toma. Disseram que não pode congelar.
+
+57
+00:03:37,250 --> 00:03:39,377
+Robert, por favor.
+Não vai durar.
+
+58
+00:03:39,485 --> 00:03:42,750
+-Vai estragar no meu carro.
+-Vai estragar aqui. Certo, obrigada.
+
+59
+00:03:42,855 --> 00:03:44,550
+-Boa noite, pessoal.
+-Até mais.
+
+60
+00:03:47,227 --> 00:03:50,890
+-Acabamos dando um grande discurso...
+-Espera, nós demos o discurso?
+
+61
+00:03:50,997 --> 00:03:53,022
+-Acabamos de dar. Há 5 minutos atrás.
+-Eu dei o discurso.
+
+62
+00:03:53,132 --> 00:03:54,499
+Eu que forcei o tema, lembra?
+
+63
+00:03:54,532 --> 00:03:57,899
+Estão em cima de nós porque
+sou uma droga como malvado.
+
+64
+00:03:58,004 --> 00:04:01,371
+-Você deveria fazer. Você finge melhor.
+-Não tenho certeza.
+
+65
+00:04:01,474 --> 00:04:04,841
+Desde que sigamos este caminho
+onde usamos física básica...
+
+66
+00:04:04,944 --> 00:04:08,402
+e nos divertindo naquela garagem,
+acho que podemos tentar isso.
+
+67
+00:04:08,514 --> 00:04:11,777
+Phillip e Robert estão
+determinados nisso, tudo bem.
+
+68
+00:04:11,851 --> 00:04:13,949
+Mas você sabe que não
+tenho interesse nisso.
+
+69
+00:04:14,053 --> 00:04:16,385
+Eu sei que você não tem
+interesse nisso, além do fato...
+
+70
+00:04:16,489 --> 00:04:20,323
+de que Phillip e Robert nem precisam
+de nós. Eles só querem usar o equipamento.
+
+71
+00:04:20,426 --> 00:04:22,758
+Para o que eu quero fazer?
+Não precisamos deles.
+
+72
+00:04:22,862 --> 00:04:25,660
+Nem de Phillip, porque
+não precisa de software.
+
+73
+00:04:26,399 --> 00:04:29,232
+-Ela está dormindo?
+-Não, e ela precisa tomar banho.
+
+74
+00:04:29,636 --> 00:04:33,003
+-Ela vai acabar no armário se eu for.
+-Tudo bem.
+
+75
+00:04:33,906 --> 00:04:36,139
+Mesmo se Robert estiver de
+acordo, e ele não vai estar...
+
+76
+00:04:36,243 --> 00:04:39,246
+Não tenho certeza de entender
+o que ele diz que essa coisa fará.
+
+77
+00:04:39,343 --> 00:04:41,246
+Eu acho que devemos deixá-los
+seguir pelos próximos 2 meses.
+
+78
+00:04:41,347 --> 00:04:44,043
+-Eles fazem o deles, fazemos o nosso.
+-Disseram que levaria 14 horas.
+
+79
+00:04:44,150 --> 00:04:46,243
+Não coma isso. Sério, é ruim.
+
+80
+00:04:46,352 --> 00:04:48,820
+Temos que jogar os 2 primeiros fora.
+O filtro.
+
+81
+00:04:48,921 --> 00:04:50,616
+E se eu esmagar?
+
+82
+00:04:51,725 --> 00:04:53,149
+Esses caras têm financiamento.
+
+83
+00:04:53,176 --> 00:04:56,489
+-Esses caras têm... o quê?
+-Hélio Líquido. Têm financiamento.
+
+84
+00:04:56,596 --> 00:04:58,723
+-Não...
+-Não, é disso que se trata.
+
+85
+00:04:58,831 --> 00:05:01,163
+Essa é toda a diferença.
+Disso que se trata a caixa.
+
+86
+00:05:01,267 --> 00:05:03,995
+Veja, não temos que jogar indo
+para frente e para trás...
+
+87
+00:05:04,004 --> 00:05:08,240
+inventando formas inovadoras de a
+esfriar, e geralmente inúteis no processo.
+
+88
+00:05:08,251 --> 00:05:11,004
+-Aaron, preciso do jogo hexagonal.
+-Não dá pra vender isso.
+
+89
+00:05:11,011 --> 00:05:12,304
+Certo, não dá pra vender isso.
+
+90
+00:05:12,311 --> 00:05:15,507
+Chegando pela parte de trás,
+ao invés de mudar a temperatura ao redor,
+
+91
+00:05:15,614 --> 00:05:17,777
+mudaremos apenas o
+nível que ela conduzirá,
+
+92
+00:05:17,884 --> 00:05:20,617
+a temperatura de transição.
+E ao bombardear estas bordas...
+
+93
+00:05:20,620 --> 00:05:22,017
+O que ele está dizendo
+é que esses caras...
+
+94
+00:05:22,120 --> 00:05:24,017
+eles jogam a cerâmica, e a
+temperatura desce mais e mais.
+
+95
+00:05:24,123 --> 00:05:26,323
+Torna a cerâmica menos resistente,
+detona o campo magnético interior.
+
+96
+00:05:26,330 --> 00:05:27,923
+-Detona?
+-Exatamente.
+
+97
+00:05:28,027 --> 00:05:29,527
+-O que ele está dizendo...
+-O que eu estou dizendo é...
+
+98
+00:05:29,537 --> 00:05:30,757
+jogamos a caixa nisso.
+
+99
+00:05:31,331 --> 00:05:33,864
+Concentrarmos nosso próprio
+campo magnético para neutralizar...
+
+100
+00:05:33,871 --> 00:05:34,664
+e detonar com a inversa...
+
+101
+00:05:34,767 --> 00:05:36,632
+o que passa dentro da cerâmica.
+-É inteligente.
+
+102
+00:05:36,736 --> 00:05:38,763
+Isso deve mudar a
+temperatura de transição...
+
+103
+00:05:38,776 --> 00:05:40,763
+para algo que possamos trabalhar.
+
+104
+00:05:40,873 --> 00:05:44,309
+-E em quanto estamos falando?
+-Com sorte, temperatura ambiente.
+
+105
+00:05:45,578 --> 00:05:48,274
+O que isso quer dizer? O melhor
+matemático é um preguiçoso?
+
+106
+00:05:48,381 --> 00:05:51,111
+-O que você pediu?
+-Eu que pedi. Preciso do jogo hexagonal.
+
+107
+00:05:51,217 --> 00:05:52,878
+-Do que você chamou isso?
+-Vamos logo.
+
+108
+00:05:52,985 --> 00:05:54,748
+-Não, não. Esses aqui são do tipo 1?
+-Os supercondutores?
+
+109
+00:05:54,854 --> 00:05:56,515
+Sim, são do tipo 1.
+
+110
+00:05:56,622 --> 00:05:58,249
+O quê? Isso pode ser um problema?
+
+111
+00:05:58,358 --> 00:06:01,225
+Têm vários no trabalho, mas
+todos têm código de barras.
+
+112
+00:06:01,327 --> 00:06:04,922
+-Se precisar, compro os kits.
+-O que vai fazer com a fonte?
+
+113
+00:06:05,031 --> 00:06:06,362
+Como?
+
+114
+00:06:07,066 --> 00:06:10,001
+-Posso pegar eles.
+-Pode... Tem certeza?
+
+115
+00:06:10,103 --> 00:06:11,900
+Pensei que não
+gostasse dessa idéia.
+
+116
+00:06:12,004 --> 00:06:13,693
+Você está certo, se temos que comprar,
+temos que comprar.
+
+117
+00:06:13,704 --> 00:06:15,053
+Podemos cuidar de todo o resto.
+
+118
+00:06:15,074 --> 00:06:16,439
+E quanto à fonte aqui?
+
+119
+00:06:16,542 --> 00:06:19,067
+Conhece a história de que
+a NASA gastou milhões...
+
+120
+00:06:19,178 --> 00:06:22,978
+desenvolvendo uma caneta que escreve em
+gravidade zero? Já leu algo sobre isso?
+
+121
+00:06:23,082 --> 00:06:26,518
+-E como a Rússia resolveu o problema?
+-Sim, eles usaram um lápis.
+
+122
+00:06:26,819 --> 00:06:28,719
+É, um lápis comum de madeira.
+
+123
+00:06:29,589 --> 00:06:32,717
+Parece que Phillip pega o
+caminho da NASA quase sempre.
+
+124
+00:06:32,825 --> 00:06:35,487
+-Paládio?
+-Está com o diagrama, o que diz?
+
+125
+00:06:35,595 --> 00:06:37,589
+Eles usam uma relação de
+platina e paládio.
+
+126
+00:06:37,630 --> 00:06:39,598
+Não será necessário
+com as mudanças que fiz.
+
+127
+00:06:39,699 --> 00:06:41,963
+Eu acho que estão se exibindo.
+Se você tem, use, certo?
+
+128
+00:06:42,068 --> 00:06:43,535
+Quero um roteador de reposição.
+
+129
+00:06:43,636 --> 00:06:46,730
+-Vou botar 4 onças de paládio.
+-Robert já viu?
+
+130
+00:06:46,839 --> 00:06:48,602
+-Já tenho a dele.
+-Não posso consertar isso.
+
+131
+00:06:48,708 --> 00:06:52,371
+-Certo. Onde está comprando?
+-Wal-Mart. Custam $50.
+
+132
+00:06:52,712 --> 00:06:55,374
+-Pode trazer o recibo, por favor?
+-Sim.
+
+133
+00:06:55,481 --> 00:06:57,711
+Espera, platina ou paládio
+é menos resistente?
+
+134
+00:06:57,817 --> 00:06:59,876
+-Abe? Não é um...
+-É, não me importo.
+
+135
+00:06:59,986 --> 00:07:02,477
+-Então resistência não importa.
+-Preciso de uma confirmação ou um Sim.
+
+136
+00:07:02,588 --> 00:07:04,613
+-Você sacudiu a...
+-Porca?
+
+137
+00:07:04,724 --> 00:07:07,454
+-Robert sacudiu.
+-Sim. Eu acho.
+
+138
+00:07:07,994 --> 00:07:11,395
+-Bem, então qual mais barato?
+-Não vai comprar, vai?
+
+139
+00:07:11,497 --> 00:07:14,864
+Bem, a menos que você tenha
+alguns gramas de paládio por aí.
+
+140
+00:07:15,401 --> 00:07:18,131
+Só estou falando... por que
+colocariam aí se não precisasse?
+
+141
+00:07:18,237 --> 00:07:20,296
+Um conversor catalítico.
+Está bom.
+
+142
+00:07:20,406 --> 00:07:23,068
+Lembre-se de devolver.
+Sua emissão acaba de subir 300%.
+
+143
+00:07:23,176 --> 00:07:25,076
+-Tem o bastante aqui?
+-Sim, deve ter.
+
+144
+00:07:25,178 --> 00:07:29,046
+Se não tiver, pegamos do meu caminhão.
+Certo, tubagem de cobre.
+
+145
+00:07:36,556 --> 00:07:39,821
+-Isso será inútil, certo?
+-Sem a tubagem? Sim...
+
+146
+00:07:40,760 --> 00:07:42,991
+-Podemos usar o Freon, também.
+-Não, eu te disse...
+
+147
+00:07:43,016 --> 00:07:45,154
+...vai ser à temperatura ambiente.
+-Eu sei, só pra garantir.
+
+148
+00:07:45,264 --> 00:07:49,291
+Não, pare. Acabei de comprar a tubagem.
+Isso não vai nos poupar dinheiro.
+
+149
+00:07:49,364 --> 00:07:50,491
+Você cortou alguma coisa?
+
+150
+00:07:55,208 --> 00:07:58,268
+-Jay? E aí, cara. Como vai?
+-Bem.
+
+151
+00:08:19,932 --> 00:08:22,093
+Não deveríamos usar proteção?
+
+152
+00:08:24,470 --> 00:08:26,665
+-Não deveríamos usar proteção?
+-Como?
+
+153
+00:08:26,772 --> 00:08:29,036
+Proteção. Não deveríamos
+usar proteção?
+
+154
+00:08:36,349 --> 00:08:38,783
+Espere. Phillip, não vai
+querer vir até aqui.
+
+155
+00:08:38,885 --> 00:08:41,080
+Phillip, ponha uma
+máscara, certo?
+
+156
+00:09:21,928 --> 00:09:24,396
+Mas é mesmo, não?
+Não sou apenas eu?
+
+157
+00:09:24,497 --> 00:09:29,127
+Não, realmente é menor, mas parece que
+é assim mesmo. Pegue o que eles têm.
+
+158
+00:09:29,835 --> 00:09:32,269
+Menos os resfriamentos
+que não precisamos.
+
+159
+00:09:32,772 --> 00:09:34,865
+O resto é o banho de mercúrio...
+
+160
+00:09:34,974 --> 00:09:39,240
+que você conhece melhor que eu,
+mas provavelmente estão se mostrando.
+
+161
+00:09:39,946 --> 00:09:44,144
+Quero dizer, se
+você tem, use, certo?
+
+162
+00:09:45,051 --> 00:09:47,451
+-Que foi? Doeu?
+-Não, não senti nada.
+
+163
+00:09:47,553 --> 00:09:49,851
+Esse barulho está me perturbando.
+
+164
+00:09:55,528 --> 00:09:57,553
+-O que sentiu?
+-Não sei.
+
+165
+00:09:57,663 --> 00:09:59,824
+Não sei se estou inventando.
+
+166
+00:10:01,033 --> 00:10:02,295
+Toma.
+
+167
+00:10:16,649 --> 00:10:19,447
+-Vamos fazer a próxima parte.
+-Sim.
+
+168
+00:10:27,460 --> 00:10:30,793
+Não tem algum tipo de vidro
+ou algo transparente...
+
+169
+00:10:30,896 --> 00:10:33,456
+Algo que possamos usar como janela?
+Vidro refratário?
+
+170
+00:10:33,566 --> 00:10:35,193
+-Certo, pronto.
+-Baixe.
+
+171
+00:10:35,301 --> 00:10:38,361
+Não sei de nada que não deixe
+um buraco no campo.
+
+172
+00:10:38,471 --> 00:10:40,462
+Mas temos que ver o
+que se passa ali dentro.
+
+173
+00:10:40,573 --> 00:10:43,235
+-Quanto que custou?
+-Sim.
+
+174
+00:10:44,176 --> 00:10:46,872
+-Como?
+-Quer pôr minha câmera...
+
+175
+00:10:46,979 --> 00:10:50,506
+dentro da caixa que é tão perigosa
+que não podemos nem olhar.
+
+176
+00:10:53,986 --> 00:10:56,819
+Se algo acontecer,
+vai me pagar de volta?
+
+177
+00:10:58,224 --> 00:11:01,716
+Então temos uma leve pressão
+negativa na caixa.
+
+178
+00:11:01,994 --> 00:11:03,859
+E então estamos prontos
+para o argônio.
+
+179
+00:11:04,597 --> 00:11:08,158
+-Espera, qual é esse?
+-O azul.
+
+180
+00:11:08,668 --> 00:11:12,035
+Pesa uns 77 gramas.
+
+181
+00:11:12,171 --> 00:11:14,401
+Mudei a escala para
+decagramas, no entanto.
+
+182
+00:11:14,940 --> 00:11:18,398
+Está mostrando 7.7 decagramas.
+
+183
+00:11:19,512 --> 00:11:21,275
+Preparar para...
+
+184
+00:11:21,814 --> 00:11:26,183
+0,05 litros de argônio.
+
+185
+00:11:34,794 --> 00:11:37,262
+-Está pronto?
+-Primeiro a placa, certo?
+
+186
+00:11:37,363 --> 00:11:40,264
+Certo, primeiro a placa, e aí...
+
+187
+00:11:45,805 --> 00:11:47,602
+Vamos dar um segundo.
+
+188
+00:12:05,958 --> 00:12:08,051
+-Quer fazer a caixa agora?
+-Quero.
+
+189
+00:12:08,227 --> 00:12:10,889
+Vamos checar a lista.
+Aaron, espera um pouco.
+
+190
+00:12:10,996 --> 00:12:14,693
+Vamos conferir se está tudo certo.
+Espera, Aaron. Um momento.
+
+191
+00:12:16,469 --> 00:12:17,902
+Só um momento.
+
+192
+00:12:29,181 --> 00:12:30,512
+Está bem.
+
+193
+00:12:39,992 --> 00:12:41,391
+Alguma coisa?
+
+194
+00:12:42,595 --> 00:12:44,790
+-Isso é normal?
+-Não sei.
+
+195
+00:12:46,031 --> 00:12:48,124
+-Vou desligar.
+-Espera! Não.
+
+196
+00:12:51,570 --> 00:12:54,971
+-Certo, eu não fiz isso.
+-Explodimos algo?
+
+197
+00:12:56,942 --> 00:13:00,070
+Explodimos. Está destruído.
+
+198
+00:13:00,746 --> 00:13:03,408
+-Quer checar sua câmera?
+-Quero.
+
+199
+00:13:03,849 --> 00:13:05,783
+-Vamos tirar isso.
+-Pronto?
+
+200
+00:13:05,951 --> 00:13:08,215
+1, 2, 3.
+
+201
+00:13:21,467 --> 00:13:24,994
+E aí. Me diga que está com fome.
+Kara está na mãe dela e estou faminto.
+
+202
+00:13:25,437 --> 00:13:27,530
+É, estou com fome. O que...
+
+203
+00:13:27,640 --> 00:13:31,804
+Abe, são 7 horas.
+Abe, são 7 horas da noite.
+
+204
+00:13:31,977 --> 00:13:34,309
+-Certo, eu tenho comida...
+-Certo.
+
+205
+00:13:34,413 --> 00:13:37,780
+-Espera, as crianças estão aí?
+-Espera um pouco.
+
+206
+00:13:38,851 --> 00:13:40,250
+Sim, estão aqui.
+
+207
+00:13:40,352 --> 00:13:44,118
+Certo, esquece, vamos pra algum lugar.
+Estacionei agora, então desça.
+
+208
+00:13:44,223 --> 00:13:47,283
+Suba primeiro. Tem umas coisas
+que quero devolver à loja.
+
+209
+00:13:47,393 --> 00:13:49,520
+Tudo bem, mas me encontre na porta.
+
+210
+00:13:49,628 --> 00:13:52,791
+-Tudo bem.
+-Sério, me encontre na porta.
+
+211
+00:13:52,932 --> 00:13:54,832
+Certo. Tudo bem. Até mais.
+
+212
+00:13:57,532 --> 00:13:58,232
+Tudo bem.
+
+213
+00:14:00,032 --> 00:14:01,032
+Fala, Brad.
+
+214
+00:14:08,948 --> 00:14:11,314
+-E aí, Abe?
+-Fala, Brad. Como está?
+
+215
+00:14:11,550 --> 00:14:12,642
+Bem.
+
+216
+00:14:22,928 --> 00:14:25,692
+-Quanto tempo ele disse que ficaria?
+-Não muito.
+
+217
+00:14:25,798 --> 00:14:28,824
+Se ele tem problemas, ele precisa
+consertar. Você não é o pai dele.
+
+218
+00:14:28,934 --> 00:14:32,563
+Eu sei. Só pensei que seria
+legal fazer algo caridoso.
+
+219
+00:14:32,671 --> 00:14:35,469
+Definitivamente é caridade.
+Ao menos você admite isso.
+
+220
+00:14:38,277 --> 00:14:41,508
+Está afim de um filé?
+Para comer.
+
+221
+00:14:42,448 --> 00:14:45,884
+Não, não quero um filé. Vamos só
+pegar uns tacos no caminho à loja.
+
+222
+00:14:45,985 --> 00:14:47,919
+-Tem umas coisas que quero tentar.
+-Tudo bem.
+
+223
+00:14:48,020 --> 00:14:52,013
+Podemos pegar uns tacos no caminho,
+ou podemos comer um filé mais tarde.
+
+224
+00:14:52,124 --> 00:14:55,389
+Do que está falando?
+Não vou pagar por um filé.
+
+225
+00:15:00,199 --> 00:15:01,723
+Está estável?
+
+226
+00:15:03,502 --> 00:15:05,402
+Aaron, está estável?
+
+227
+00:15:13,345 --> 00:15:16,041
+-O que fez nessa coisa?
+-Como?
+
+228
+00:15:16,415 --> 00:15:20,010
+-Parece que um cachorro digeriu.
+-Certo, essa é a placa.
+
+229
+00:15:20,753 --> 00:15:23,551
+Ajustei isso na caixa para
+poder controlar a alimentação.
+
+230
+00:15:23,656 --> 00:15:26,750
+-Achei que era a forma mais fácil...
+-Isto está apenas controlando a caixa.
+
+231
+00:15:26,859 --> 00:15:30,693
+A placa é a mesma. O que você
+faz é alimentar gradativamente.
+
+232
+00:15:30,759 --> 00:15:32,893
+Até...
+
+233
+00:15:34,700 --> 00:15:37,396
+Certo. Ouviu isso? Como está...
+
+234
+00:15:37,503 --> 00:15:40,836
+Viu, nem estou mais tocando.
+Cresce com seu próprio momento.
+
+235
+00:15:40,940 --> 00:15:43,500
+É como um circuito de
+retro-alimentação auto-regulável.
+
+236
+00:15:43,609 --> 00:15:47,375
+E o que você faz quando chega lá,
+é trazê-lo de volta...
+
+237
+00:15:48,347 --> 00:15:51,805
+e aí está, desliza.
+Estável. E fica assim.
+
+238
+00:15:54,586 --> 00:15:56,019
+Então funciona?
+
+239
+00:15:56,722 --> 00:15:59,247
+-Funciona.
+-Quanto é isso, uns 10%?
+
+240
+00:15:59,558 --> 00:16:02,721
+Cai mais alguns pontos
+quando atinge o pico.
+
+241
+00:16:02,828 --> 00:16:05,854
+Venha aqui ver isso.
+
+242
+00:16:06,031 --> 00:16:07,623
+Certo, o que estou vendo?
+
+243
+00:16:07,733 --> 00:16:11,032
+-O que estamos tirando das baterias?
+-Provavelmente 24 volts.
+
+244
+00:16:11,136 --> 00:16:13,502
+-Digo, nada mais que isso, certo?
+-Certo.
+
+245
+00:16:13,605 --> 00:16:15,300
+Então seu medidor está pifado.
+
+246
+00:16:15,774 --> 00:16:18,344
+Foi o que pensei.
+Então tentei com outros três.
+
+247
+00:16:18,364 --> 00:16:19,574
+Obtive exatamente a mesma coisa.
+
+248
+00:16:19,678 --> 00:16:21,509
+-Passei toda a noite...
+-O que era?
+
+249
+00:16:21,613 --> 00:16:25,344
+Não sei, eu passei a noite e duas horas
+do almoço, checando tudo novamente.
+
+250
+00:16:25,451 --> 00:16:29,444
+Tem algo errado aqui. Não podemos
+tirar mais do que estamos colocando.
+
+251
+00:16:29,555 --> 00:16:31,785
+-Um pouco mais.
+-É, tanto faz.
+
+252
+00:16:31,890 --> 00:16:34,791
+Não é nem um volt e meio
+a mais do que colocamos.
+
+253
+00:16:34,893 --> 00:16:38,852
+Provavelmente sejam as baterias.
+São baratas, não estão bem reguladas.
+
+254
+00:16:39,098 --> 00:16:40,656
+Mesmo assim, é estranho.
+
+255
+00:16:43,969 --> 00:16:46,062
+Quer ver algo mais estranho?
+
+256
+00:16:46,372 --> 00:16:50,240
+Certo, vamos revisar mais uma vez.
+Duas baterias, certo? 24 volts?
+
+257
+00:16:51,110 --> 00:16:54,204
+Quanto tiramos dessa?
+Só por diversão.
+
+258
+00:16:56,915 --> 00:16:58,405
+12 volts.
+
+259
+00:17:08,394 --> 00:17:11,921
+-E dessa?
+-Deve ser 12 volts.
+
+260
+00:17:20,706 --> 00:17:22,697
+Então, que porra é essa?
+
+261
+00:17:23,909 --> 00:17:25,877
+Não fica assim.
+
+262
+00:17:26,712 --> 00:17:29,545
+Não, se reduz em alguns minutos.
+O que faz isso acontecer?
+
+263
+00:17:34,553 --> 00:17:38,546
+Não sei. Direi algo a eles.
+Direi que vamos desinfetar.
+
+264
+00:17:38,657 --> 00:17:41,023
+Será por um dia ou dois,
+de qualquer forma.
+
+265
+00:17:41,427 --> 00:17:45,420
+-A menos que queira trazê-los.
+-Não, eles têm que trabalhar, também.
+
+266
+00:17:45,531 --> 00:17:48,694
+Se Phillip descobrir,
+ele vai querer desmontar.
+
+267
+00:17:48,801 --> 00:17:53,204
+-Não, só vou dar uma ajustada.
+-Eu sei. Você tem razão.
+
+268
+00:17:53,806 --> 00:17:57,242
+Abe, é a minha garagem, certo?
+Não é como se eles pagassem aluguel.
+
+269
+00:17:57,743 --> 00:18:01,839
+"O negócio era valioso.
+Claramente. Disso eles tinham certeza."
+
+270
+00:18:01,947 --> 00:18:04,279
+"Mas qual era sua aplicação?
+Em questão de horas..."
+
+271
+00:18:04,383 --> 00:18:07,875
+"eles ligado à tudo, desde trânsito
+de massa a lançamento de satélite."
+
+272
+00:18:07,986 --> 00:18:10,181
+"Imaginavam dispositivos do
+tamanho de jumbos."
+
+273
+00:18:10,289 --> 00:18:13,349
+"Tudo seria mais barato.
+Era prático e eles sabiam."
+
+274
+00:18:13,459 --> 00:18:15,518
+"Mas acima de tudo,
+por trás das coisas boas..."
+
+275
+00:18:15,627 --> 00:18:17,788
+"sabiam que o modo mais fácil
+deles serem explorados..."
+
+276
+00:18:17,896 --> 00:18:20,160
+"era vender algo que eles
+ainda não compreendiam."
+
+277
+00:18:20,265 --> 00:18:23,723
+"Então continuaram quietos.
+As festas continuavam."
+
+278
+00:18:23,836 --> 00:18:26,396
+"Qualquer aniversário,
+celebração, feriado..."
+
+279
+00:18:26,505 --> 00:18:28,441
+"talvez um lançamento de
+um projeto obscuro."
+
+280
+00:18:28,455 --> 00:18:30,441
+"Não importava.
+Qualquer motivo servia."
+
+281
+00:18:30,609 --> 00:18:33,012
+"O importante é que
+Thomas Granger..."
+
+282
+00:18:33,029 --> 00:18:35,012
+"a última esperança de
+financiamento, apareceria."
+
+283
+00:18:35,114 --> 00:18:37,877
+"Se ele saísse um pouco
+antes do que eles gostariam..."
+
+284
+00:18:37,894 --> 00:18:39,483
+"não poderia ser culpado."
+
+285
+00:18:39,585 --> 00:18:42,611
+"Ele só estava lá para agradar
+sua filha Rachel."
+
+286
+00:18:42,721 --> 00:18:45,281
+"E ela só estava lá
+para agradar Abe."
+
+287
+00:18:47,726 --> 00:18:49,785
+O que disse ao
+Sr. Granger agora há pouco?
+
+288
+00:18:49,895 --> 00:18:52,659
+-Você virou minha carne?
+-Não pode chamá-lo de Sr. Granger.
+
+289
+00:18:52,764 --> 00:18:54,925
+Tem que chamá-lo de
+Thomas ou algo do tipo.
+
+290
+00:18:55,033 --> 00:18:57,934
+-Continue.
+-Porque ele não vai te levar a sério.
+
+291
+00:18:59,138 --> 00:19:01,732
+-Ele pensa que somos crianças.
+-Se chamá-lo de Sr. Granger...
+
+292
+00:19:01,840 --> 00:19:06,573
+ele vai achar que é um garoto de 6
+anos. Ele é assim comigo. Não dá mais.
+
+293
+00:19:06,845 --> 00:19:10,474
+"Abe tinha ficado com a tarefa de
+quantificar e explicar o dispositivo."
+
+294
+00:19:11,450 --> 00:19:13,315
+"Mas quando as semanas
+se tornaram meses..."
+
+295
+00:19:13,418 --> 00:19:18,518
+"o entusiasmo se tornou uma lenta percepção
+que era algo fora de seu alcance."
+
+296
+00:20:00,566 --> 00:20:02,864
+Aí está ele.
+Te liguei a manhã inteira.
+
+297
+00:20:02,968 --> 00:20:05,994
+-Pra onde ligou?
+-Pro seu trabalho e seu celular.
+
+298
+00:20:06,772 --> 00:20:08,239
+Não estou lá.
+
+299
+00:20:09,408 --> 00:20:10,602
+Sério?
+
+300
+00:20:12,578 --> 00:20:15,547
+-Torneio de março?
+-É Carolina e Michigan.
+
+301
+00:20:15,647 --> 00:20:17,774
+-Quem joga?
+-Não sei nem o que estão jogando.
+
+302
+00:20:19,284 --> 00:20:21,411
+Tem algo importante
+no trabalho hoje?
+
+303
+00:20:21,520 --> 00:20:25,456
+Espero que não esteja dizendo que algum
+dia não seja importante na Cortex Semi.
+
+304
+00:20:26,892 --> 00:20:30,259
+Estava vindo para te dar um
+discurso sobre a nossa...
+
+305
+00:20:30,362 --> 00:20:33,331
+longa amizade, e toda a
+confiança, esse negócio.
+
+306
+00:20:33,432 --> 00:20:35,059
+Mas que tal isso?
+
+307
+00:20:35,167 --> 00:20:37,065
+Se matar o trabalho esta tarde...
+
+308
+00:20:37,167 --> 00:20:39,365
+e prometer fazer algumas
+coisinhas que eu pedir...
+
+309
+00:20:39,471 --> 00:20:42,201
+eu em troca, te mostrarei
+a coisa mais importante...
+
+310
+00:20:42,307 --> 00:20:44,969
+que qualquer ser vivo
+jamais testemunhou.
+
+311
+00:20:46,011 --> 00:20:49,469
+Parece mostarda pra mim.
+
+312
+00:20:49,581 --> 00:20:51,913
+Eu sei, mas é uma película.
+É uma proteína...
+
+313
+00:20:52,017 --> 00:20:54,918
+secretada por um fungo
+chamado Aspergillus Ticor.
+
+314
+00:20:55,020 --> 00:20:56,044
+Ele te disse isso?
+
+315
+00:20:56,154 --> 00:20:59,123
+Não, ele sabia que era uma proteína
+mas não sabia de onde vinha.
+
+316
+00:20:59,224 --> 00:21:02,387
+Tudo que ele fez foi tirar algumas
+fotos com o seu equipamento.
+
+317
+00:21:02,494 --> 00:21:03,825
+Adivinhe onde vamos.
+
+318
+00:21:03,929 --> 00:21:06,295
+-Sabe onde está Will?
+-Não, por quê?
+
+319
+00:21:06,398 --> 00:21:08,730
+A reunião de Ariel foi
+adiada para quarta-feira.
+
+320
+00:21:08,834 --> 00:21:11,598
+Pensei que ele estava esperando
+por ela. Onde vão?
+
+321
+00:21:11,703 --> 00:21:13,933
+O que fazem com os engenheiros
+quando completam 40 anos?
+
+322
+00:21:14,039 --> 00:21:16,439
+-O que, Bradshaw?
+-Exato. Sabe de uma coisa?
+
+323
+00:21:16,541 --> 00:21:19,442
+Eu sei onde está o Will.
+Dou o recado no caminho.
+
+324
+00:21:19,544 --> 00:21:21,774
+-Certo. Obrigado.
+-Pode me encontrar lá fora?
+
+325
+00:21:21,880 --> 00:21:24,974
+-Você tem que dirigir.
+-Tome. Pegue as minhas chaves.
+
+326
+00:21:25,083 --> 00:21:29,281
+Certo, se puder, apenas finja que
+essa é a primeira vez que eu entro.
+
+327
+00:21:29,421 --> 00:21:32,913
+E se pudesse dizer a ele
+exatamente o que me disse...
+
+328
+00:21:33,759 --> 00:21:37,126
+-Certo, então o que é isso?
+-Concentração de proteína.
+
+329
+00:21:37,229 --> 00:21:40,858
+-Certo, pode dizer a ele?
+-Concentração de proteína.
+
+330
+00:21:41,366 --> 00:21:44,130
+-Mas de que tipo?
+-Algum fungo.
+
+331
+00:21:44,403 --> 00:21:47,167
+-Algum fungo.
+-De onde veio?
+
+332
+00:21:47,339 --> 00:21:51,207
+-Não sei. Era para o laboratório.
+-Sim, é a próxima etapa.
+
+333
+00:21:51,310 --> 00:21:54,074
+-Estava no desenho, não é?
+-Sim.
+
+334
+00:21:54,446 --> 00:21:56,004
+Como veio parar aqui?
+
+335
+00:21:56,114 --> 00:21:59,311
+Sabe o que eles fazem com os
+engenheiros quando completam 40 anos?
+
+336
+00:21:59,618 --> 00:22:01,245
+Os mandam embora e atiram neles.
+
+337
+00:22:01,353 --> 00:22:04,322
+Mas que diabos, Abe? Poderia
+ter apenas me mostrado as fotos.
+
+338
+00:22:04,423 --> 00:22:08,086
+-Quero que acredite.
+-Acreditar no que, na proteína?
+
+339
+00:22:08,327 --> 00:22:09,988
+-Acredito em você.
+-Certo, olha...
+
+340
+00:22:10,095 --> 00:22:13,531
+esse cara acha que é uma brincadeira,
+então talvez seja um pouco defensivo.
+
+341
+00:22:13,632 --> 00:22:15,964
+Sério? Por que acharia isso?
+
+342
+00:22:28,680 --> 00:22:30,113
+Por favor.
+
+343
+00:22:32,084 --> 00:22:33,949
+Aspergillus Ticor.
+
+344
+00:22:34,553 --> 00:22:36,680
+É um fungo que
+está por toda parte.
+
+345
+00:22:37,356 --> 00:22:41,622
+Está na nossa cama, nossa pele, até
+no nosso intestino. Por toda parte.
+
+346
+00:22:42,661 --> 00:22:47,030
+É basicamente a razão para não deixar
+coisas em lugares escuros e úmidos.
+
+347
+00:22:47,199 --> 00:22:49,963
+Obrigado. Está com aquela
+amostra que eu trouxe?
+
+348
+00:22:55,240 --> 00:22:58,232
+Aí está. Terger. T-E-R-G-E-R.
+
+349
+00:22:59,444 --> 00:23:02,538
+Certo, quando te mostrei isso,
+diga a ele o que achou.
+
+350
+00:23:05,183 --> 00:23:08,414
+-Achou que era uma piada, certo?
+-É uma piada.
+
+351
+00:23:09,321 --> 00:23:11,346
+Certo, mas como sabia?
+
+352
+00:23:14,459 --> 00:23:16,791
+Pode mostrar a ele? Por favor?
+
+353
+00:23:25,904 --> 00:23:29,340
+É assim que eu tiro proteína A
+do Aspergillus Ticor. O adoçamos,
+
+354
+00:23:29,441 --> 00:23:32,274
+agitamos, centrifugamos e
+adoçamos um pouco mais.
+
+355
+00:23:32,377 --> 00:23:33,408
+Leva em torno de um mês.
+
+356
+00:23:33,427 --> 00:23:35,608
+Para obter a mesma
+quantidade que eu trouxe.
+
+357
+00:23:36,648 --> 00:23:38,240
+Para obter a mesma
+quantidade que eu trouxe.
+
+358
+00:23:38,350 --> 00:23:40,750
+Então se for um incubador
+para fungos, tem valor?
+
+359
+00:23:40,852 --> 00:23:42,649
+-Mas não é isso.
+-Então é o quê?
+
+360
+00:23:42,754 --> 00:23:46,121
+Existe outra forma de secretar
+tanta proteína. Fazer naturalmente.
+
+361
+00:23:46,224 --> 00:23:48,654
+Mas leva muito mais tempo.
+Bem mais tempo.
+
+362
+00:23:48,693 --> 00:23:53,530
+Mas se tiver um pouco de umidade e deixar,
+começará a secretar e vai aumentando...
+
+363
+00:23:53,632 --> 00:23:56,032
+...e aumentando, mas leva muito tempo.
+-Quanto tempo?
+
+364
+00:23:56,134 --> 00:23:59,001
+-Muito tempo.
+-Mais que alguns dias? Então quanto?
+
+365
+00:23:59,104 --> 00:24:01,368
+Ele disse que para obter a mesma
+quantidade de proteína que temos...
+
+366
+00:24:01,473 --> 00:24:03,771
+a mesma quantidade que eu
+tirava a cada cinco dias...
+
+367
+00:24:03,875 --> 00:24:06,070
+e cinco dias depois
+já se acumulava...
+
+368
+00:24:06,178 --> 00:24:08,840
+ele disse que que levaria
+cerca de 5 a 6 anos.
+
+369
+00:24:11,316 --> 00:24:13,340
+-Não quero descretidar esse cara...
+-Exatamente.
+
+370
+00:24:13,351 --> 00:24:16,047
+Então, digo para se danar e
+coloco meu relógio lá dentro.
+
+371
+00:24:16,588 --> 00:24:18,715
+-E?
+-Quero que você faça.
+
+372
+00:24:19,424 --> 00:24:22,257
+-Onde está a caixa?
+-Levei de volta à loja.
+
+373
+00:24:24,329 --> 00:24:27,856
+-Espera, digital ou mecânico?
+-Exato. Coloquei os dois.
+
+374
+00:24:29,201 --> 00:24:31,601
+-E o quê?
+-Quero que você faça.
+
+375
+00:24:34,272 --> 00:24:36,536
+Pensamos que estávamos
+diminuindo a gravidade, certo?
+
+376
+00:24:36,641 --> 00:24:38,632
+Que estávamos bloqueando
+essa informação.
+
+377
+00:24:38,743 --> 00:24:42,372
+Mas acho que fazemos mais que isso,
+acho que bloqueamos mais que isso.
+
+378
+00:24:42,481 --> 00:24:46,611
+Você notou? Quando controlava a
+alimentação, notou que era parabólica?
+
+379
+00:24:46,885 --> 00:24:50,150
+É importante. Parábolas são
+importantes. Aqui, dê uma olhada.
+
+380
+00:24:51,223 --> 00:24:52,656
+Não sei, Abe.
+
+381
+00:24:52,757 --> 00:24:55,385
+Agora vou ligar e deixar
+rodar por 60 segundos...
+
+382
+00:24:55,494 --> 00:24:57,758
+com nada dentro.
+Está vazio dessa vez.
+
+383
+00:24:57,763 --> 00:24:58,652
+Isso dá 22...
+
+384
+00:24:58,664 --> 00:25:01,094
+Em todas as equações que descrevem
+movimento, calor e entropia.
+
+385
+00:25:01,099 --> 00:25:02,294
+Só um minuto... um segundo.
+
+386
+00:25:02,300 --> 00:25:05,327
+Em todos diagramas de Feynman, qual é
+a variável que se põe negativa...
+
+387
+00:25:05,437 --> 00:25:06,305
+e ainda dá respostas racionais?
+
+388
+00:25:06,337 --> 00:25:07,995
+-Me dá um minuto!
+-Não é massa. Não é...
+
+389
+00:25:08,006 --> 00:25:10,804
+22 horas, 27 minutos na caixa.
+
+390
+00:25:10,909 --> 00:25:14,508
+-É um número ímpar.
+-Quantos minutos é isso? São 1.347 minutos.
+
+391
+00:25:15,914 --> 00:25:19,441
+-1.347, cara, pegou rápido.
+-Como sabia que era ímpar?
+
+392
+00:25:19,551 --> 00:25:21,612
+Porque é assim.
+Isso que acontece:
+
+393
+00:25:21,651 --> 00:25:23,612
+Tem uma ponta em A
+e uma ponta em B.
+
+394
+00:25:23,722 --> 00:25:26,691
+Digamos que a ponta A seja 12:00,
+e a ponta B seja 12:01.
+
+395
+00:25:26,791 --> 00:25:29,692
+Certo? Ligamos a máquina
+com o boneco na ponta A.
+
+396
+00:25:29,794 --> 00:25:31,928
+-Ele viaja para a frente...
+-Tem que anotar isso.
+
+397
+00:25:31,935 --> 00:25:33,954
+-Aaron, não há o que anotar.
+-Então eu vou anotar.
+
+398
+00:25:33,966 --> 00:25:36,925
+Certo. Ele viaja para frente normalmente,
+em direção à ponta B.
+
+399
+00:25:37,035 --> 00:25:39,169
+E quando chega lá, a alimentação
+reduz parabolicamente...
+
+400
+00:25:39,171 --> 00:25:40,499
+até onde devia parar,
+mas não para.
+
+401
+00:25:40,511 --> 00:25:42,199
+Ela se curva novamente
+em direção à ponta A.
+
+402
+00:25:42,207 --> 00:25:44,670
+Quando chega de volta em A...
+agora faça a curva...
+
+403
+00:25:44,677 --> 00:25:49,210
+O boneco experimentou um total
+de 2 minutos, e novamente se curva...
+
+404
+00:25:49,217 --> 00:25:50,941
+Curva de volta.
+Curva-se parabolicamente.
+
+405
+00:25:50,950 --> 00:25:54,078
+Certo, curva-se de volta novamente
+e faz isso umas 1.300 vezes,
+
+406
+00:25:54,086 --> 00:25:56,015
+e quando finalmente
+sai na ponta B...
+
+407
+00:25:56,021 --> 00:25:58,954
+já viajou um número ímpar de
+vezes para frente e para trás.
+
+408
+00:25:58,957 --> 00:26:02,693
+O que há de tão especial em 1.300? Por que
+cerca de 1.300? Por que não dá exato?
+
+409
+00:26:02,794 --> 00:26:04,853
+-Isso não é empírico.
+-Me dá isso.
+
+410
+00:26:04,963 --> 00:26:08,763
+Não sei por que não dá exato.
+Aí tem algum tipo de probabilidade aí.
+
+411
+00:26:08,867 --> 00:26:11,892
+Cada vez que chega na ponta B,
+há uma chance... pequena chance...
+
+412
+00:26:11,903 --> 00:26:14,404
+de que não se curve
+em direção à ponta A.
+
+413
+00:26:14,506 --> 00:26:18,203
+E por alguma razão, leva umas
+1.300 viagens até que aconteça.
+
+414
+00:26:18,310 --> 00:26:21,609
+Mas ele tem que sair, senão
+não o poderíamos ver depois.
+
+415
+00:26:21,713 --> 00:26:23,704
+Certo, vamos ver isso.
+
+416
+00:26:24,382 --> 00:26:26,680
+22 horas, 14 minutos.
+
+417
+00:26:30,722 --> 00:26:33,885
+-1.334 minutos.
+-Par.
+
+418
+00:26:36,261 --> 00:26:37,990
+Entra na ponta B.
+
+419
+00:26:39,965 --> 00:26:41,694
+Sai na ponta B.
+
+420
+00:26:44,703 --> 00:26:48,104
+-Só quero que você veja como eu vi.
+-Estou tentando, certo?
+
+421
+00:26:48,206 --> 00:26:50,674
+Tudo que colocamos naquela
+caixa sai desaterrado.
+
+422
+00:26:50,775 --> 00:26:53,539
+E não me refiro aterrado à terra,
+digo que não está conectado.
+
+423
+00:26:53,645 --> 00:26:56,808
+Estamos bloqueando o que a mantém
+seguindo em frente, então ele reverte.
+
+424
+00:26:56,915 --> 00:27:00,043
+Dentro da caixa, é como uma rua, e
+as duas pontas são sem saída.
+
+425
+00:27:00,051 --> 00:27:02,444
+Não é arrasto de referenciais nem
+combinação de buracos-de-minhoca.
+
+426
+00:27:02,451 --> 00:27:04,144
+É mecânica básica e calor.
+
+427
+00:27:04,255 --> 00:27:06,348
+Não é mecânica e calor.
+
+428
+00:27:10,662 --> 00:27:14,223
+-Podemos publicar.
+-Sim, podemos publicar.
+
+429
+00:27:14,332 --> 00:27:16,823
+Não, podemos realmente publicar.
+
+430
+00:27:17,636 --> 00:27:20,002
+Aaron, o boneco é estúpido.
+Não pode se mexer.
+
+431
+00:27:20,105 --> 00:27:22,699
+Digo, mesmo se colocássemos
+o boneco na ponta B...
+
+432
+00:27:22,807 --> 00:27:27,506
+ainda se moveria para trás e para
+frente até ser expulso na ponta B.
+
+433
+00:27:31,116 --> 00:27:32,674
+Mas se fosse inteligente...
+
+434
+00:27:34,519 --> 00:27:38,717
+poderia entrar na ponta B e sair
+na ponta A antes de retornar.
+
+435
+00:27:42,727 --> 00:27:46,857
+Está falando em fazer uma maior.
+Está falando em fazer uma maior.
+
+436
+00:27:48,166 --> 00:27:51,499
+Eu não disse nada.
+Você que está dizendo.
+
+437
+00:27:52,971 --> 00:27:54,529
+Então, acredita em mim?
+
+438
+00:27:56,308 --> 00:27:57,870
+Não, não acredito.
+
+439
+00:27:58,043 --> 00:28:00,409
+Vamos lá. Vamos
+tomar alguma coisa.
+
+440
+00:28:05,483 --> 00:28:07,917
+-Vamos precisar movê-la.
+-Vamos.
+
+441
+00:28:10,022 --> 00:28:12,990
+Precisamos de uma caixa grande o
+suficiente para caber uma pessoa, certo?
+
+442
+00:28:13,011 --> 00:28:14,790
+-Até ligá-la...
+-Na verdade, quando eu testava a caixa...
+
+443
+00:28:14,825 --> 00:28:17,056
+mais da metade dos
+anéis são redundantes.
+
+444
+00:28:17,072 --> 00:28:20,520
+O anel interior é forte o bastante
+sozinho, o que faz a placa ser menor.
+
+445
+00:28:20,532 --> 00:28:22,825
+Muita coisa é desnecessária.
+O que podemos fazer...
+
+446
+00:28:22,934 --> 00:28:27,234
+é pegar várias dessas placas pequenas e
+cercar um recipiente com uma rede deles.
+
+447
+00:28:28,506 --> 00:28:29,768
+Quão pequenas?
+
+448
+00:28:30,008 --> 00:28:32,569
+Deveriam ser acumulativass para
+que vários mini-campos...
+
+449
+00:28:32,588 --> 00:28:34,069
+se igualem a um grande, certo?
+
+450
+00:28:34,379 --> 00:28:36,747
+Sim, é. Uma soma de
+séries... faria sentido.
+
+451
+00:28:36,848 --> 00:28:40,284
+O que eu ia dizer, é que precisamos
+achar um lugar para colocá-lo...
+
+452
+00:28:40,385 --> 00:28:42,850
+e ligá-lo sem que seja
+perturbado, algum lugar...
+
+453
+00:28:42,873 --> 00:28:44,446
+Poderíamos trancar
+em um armário.
+
+454
+00:28:44,466 --> 00:28:45,787
+Não, mais seguro que um armário.
+
+455
+00:28:45,800 --> 00:28:48,687
+Um lugar onde ninguém possa pôr
+os dedos e estragar tudo.
+
+456
+00:28:48,693 --> 00:28:50,354
+Com controle climático.
+
+457
+00:28:50,995 --> 00:28:53,395
+Sim, é... tanto faz,
+acharemos algum lugar.
+
+458
+00:28:53,765 --> 00:28:56,700
+Então, se seguirmos seu caminho...
+com o quê? Vários mini-campos?
+
+459
+00:28:56,801 --> 00:29:00,532
+É muito trabalho. Teríamos que...
+Quantos dias levaria?
+
+460
+00:29:01,973 --> 00:29:05,170
+Abe, sabe o que
+poderíamos usar?
+
+461
+00:29:06,177 --> 00:29:09,413
+Olhe, sei que viu muitas
+loucuras ultimamente, certo?
+
+462
+00:29:09,424 --> 00:29:12,150
+Sei que está tentando fazer
+com que tudo tenha sentido.
+
+463
+00:29:12,194 --> 00:29:13,640
+-Mas você entende, não é?
+-Não não entendo.
+
+464
+00:29:13,662 --> 00:29:17,347
+Só quero que entenda que o que
+vai ver não é uma piada, certo?
+
+465
+00:29:17,455 --> 00:29:20,219
+Não faria isso com você
+e não estou fazendo.
+
+466
+00:29:20,325 --> 00:29:24,728
+Então quando ver isso, não grite
+ou faça qualquer barulho, nem corra.
+
+467
+00:29:25,363 --> 00:29:29,322
+Sei que deve achar que está
+sendo enganado. Mas não está.
+
+468
+00:29:29,434 --> 00:29:32,301
+Prometo, não está. Certo?
+
+469
+00:29:58,696 --> 00:30:00,061
+Quem era, Abe?
+
+470
+00:30:24,923 --> 00:30:27,153
+Vamos esperar. 6 minutos.
+
+471
+00:31:28,019 --> 00:31:30,180
+Olha, tem certeza que
+está bem para dirigir?
+
+472
+00:31:33,791 --> 00:31:36,453
+O que fez o dia todo?
+Desde o início?
+
+473
+00:31:39,631 --> 00:31:42,429
+Passei um dia em
+um hotel em Russellfield.
+
+474
+00:31:44,269 --> 00:31:47,500
+-Te encontro na loja.
+-Me pergunto o que eu fiz.
+
+475
+00:31:49,877 --> 00:31:52,566
+-Acho que voltei pro trabalho.
+-É, provavelmente.
+
+476
+00:31:52,677 --> 00:31:54,611
+Provavelmente só
+trabalhei, acho.
+
+477
+00:31:55,380 --> 00:31:57,678
+É, provavelmente.
+
+478
+00:32:01,986 --> 00:32:04,511
+Olha, agora que eu
+sei sobre isso, Abe...
+
+479
+00:32:05,123 --> 00:32:07,956
+não faça isso de novo, certo?
+Não onde me afete.
+
+480
+00:32:12,597 --> 00:32:14,121
+Vá em frente.
+
+481
+00:32:19,737 --> 00:32:21,170
+Oi, Rachel.
+
+482
+00:33:03,514 --> 00:33:05,175
+Por que não a loteria?
+
+483
+00:33:05,550 --> 00:33:08,280
+Podemos se você quiser,
+mas só no sábado.
+
+484
+00:33:08,296 --> 00:33:12,414
+E mesmo se ganharmos todo os $10 milhões,
+é apenas $200.000 pelos próximos 30 anos.
+
+485
+00:33:12,436 --> 00:33:13,114
+Apenas?
+
+486
+00:33:13,891 --> 00:33:16,758
+-E isso é apenas uma boa transação.
+-Alguns dias assim...
+
+487
+00:33:16,861 --> 00:33:20,262
+-Eu só estava testando. Entrei e saí.
+-Quero fazer o que você fez, ok?
+
+488
+00:33:20,365 --> 00:33:21,764
+Exatamente o que você fez.
+
+489
+00:33:21,866 --> 00:33:23,737
+Certo, a primeira coisa que fiz
+foi avisar que estava doente.
+
+490
+00:33:23,766 --> 00:33:24,767
+Certo, fiz isso.
+
+491
+00:33:24,869 --> 00:33:26,737
+Depois fui até o armazém.
+
+492
+00:33:26,769 --> 00:33:28,737
+Certo, mas tenho que deixar
+Lauren na escola primeiro.
+
+493
+00:33:28,840 --> 00:33:31,434
+Então me encontre lá.
+Vamos precisar dos 2 carros.
+
+494
+00:33:31,542 --> 00:33:34,636
+Temos que estacionar o seu na estrada,
+fora da vista do armazém.
+
+495
+00:33:34,746 --> 00:33:37,647
+-Por que estamos fazendo isso?
+-Precisamos de uma carona pra casa.
+
+496
+00:33:37,749 --> 00:33:39,307
+-O que é isso...
+-Fará sentido.
+
+497
+00:33:39,417 --> 00:33:41,612
+Certo, serei paciente.
+
+498
+00:33:41,719 --> 00:33:45,211
+Quando cheguei ao armazém,
+enchi a caixa com argônio...
+
+499
+00:33:45,323 --> 00:33:49,054
+e tive que ajustá-la bem
+para tapar os vazamentos.
+
+500
+00:33:49,527 --> 00:33:52,052
+-Tem vazamentos?
+-Sempre tem vazamentos.
+
+501
+00:33:55,900 --> 00:34:00,496
+Às 8h30, ajustei o timer
+para 15 minutos...
+
+502
+00:34:00,605 --> 00:34:04,006
+Entrei no carro, e dirigi
+até Russellfield.
+
+503
+00:34:04,208 --> 00:34:05,368
+Certo, me perdi.
+
+504
+00:34:05,476 --> 00:34:08,138
+-O quê?
+-Por que o timer?
+
+505
+00:34:08,513 --> 00:34:12,381
+Porque o momento que ligarmos as
+máquinas será quando terminaremos...
+
+506
+00:34:12,483 --> 00:34:15,213
+...saindo delas, e...
+-Certo. Entendi. Desculpe.
+
+507
+00:34:15,319 --> 00:34:18,015
+Não quero estar por perto
+quando fizerem isso.
+
+508
+00:34:19,057 --> 00:34:23,460
+Enquanto eu estava na estrada às 8h45,
+a máquina ligou por conta própria...
+
+509
+00:34:24,495 --> 00:34:27,623
+e às 8h49, já estava
+completamente aquecida.
+
+510
+00:34:35,406 --> 00:34:40,002
+Em Russellfield, fui a um
+hotel e tentei me isolar.
+
+511
+00:34:40,711 --> 00:34:42,474
+Espera, o que quer
+dizer com "isolar"?
+
+512
+00:34:42,580 --> 00:34:45,276
+Quero dizer, fechei as janelas,
+desliguei tudo no quarto...
+
+513
+00:34:45,383 --> 00:34:47,351
+o telefone, a TV,
+relógio, rádio, tudo.
+
+514
+00:34:47,452 --> 00:34:50,444
+Não queria correr o risco de
+encontrar algum conhecido...
+
+515
+00:34:50,555 --> 00:34:52,523
+ou de ver algo nos
+noticiários que pudesse...
+
+516
+00:34:52,623 --> 00:34:56,525
+Se estamos lidando com casualidade,
+e... eu nem tenho certeza de saber.
+
+517
+00:34:56,627 --> 00:34:58,822
+-Eu só...
+-O quê?
+
+518
+00:34:59,230 --> 00:35:02,393
+-Me tirei da equação.
+-Errou por precaução.
+
+519
+00:35:02,500 --> 00:35:03,592
+Sim.
+
+520
+00:35:05,103 --> 00:35:07,230
+Então o que fez o dia todo?
+
+521
+00:35:10,308 --> 00:35:13,971
+-Apenas sentei lá. Tinha uns livros, mas...
+-O quê? Estava nervoso?
+
+522
+00:35:14,078 --> 00:35:17,206
+Sim. É tão difícil prever tudo.
+
+523
+00:35:22,153 --> 00:35:23,886
+"Evacipar".
+(Apagar sua própria história)
+
+524
+00:35:28,726 --> 00:35:32,253
+Às 14h30, passei no
+Suprimentos Médicos Williams.
+
+525
+00:35:32,363 --> 00:35:34,456
+Peguei um tanque de oxigênio
+classe E e uma máscara.
+
+526
+00:35:34,565 --> 00:35:38,228
+Liguei pra minha compania de investimentos
+e perguntei quais ações em seu fundo...
+
+527
+00:35:38,336 --> 00:35:40,236
+tiveram a maior porcentagem
+de lucro no dia.
+
+528
+00:35:40,338 --> 00:35:43,307
+A idéia era apenas obter informações
+suficientes para uma boa transação.
+
+529
+00:35:43,407 --> 00:35:46,103
+Quando formos, podemos apenas baixar
+os dados, transar em cada movimento?
+
+530
+00:35:46,210 --> 00:35:48,947
+Mas se fizermos isso, quero
+usar a biblioteca em Russellfield,
+
+531
+00:35:48,970 --> 00:35:50,747
+usar os computadores deles.
+
+532
+00:36:04,695 --> 00:36:08,859
+Então, cheguei ao armazém pelas 15h15
+e desliguei a energia da caixa.
+
+533
+00:36:09,767 --> 00:36:12,634
+O ciclo baixou a um nível
+tolerável por volta de 15h19.
+
+534
+00:36:12,803 --> 00:36:15,863
+O truque é entrar após
+alcançar um nível tranquilo...
+
+535
+00:36:15,973 --> 00:36:19,272
+mas antes que desligue completamente.
+Tem um espaço aí.
+
+536
+00:36:19,443 --> 00:36:21,377
+Então... dói?
+
+537
+00:36:22,813 --> 00:36:24,508
+É, dói um pouco.
+
+538
+00:36:24,882 --> 00:36:28,511
+Não é ruim se esperar o tempo certo.
+É como um pequeno choque estático.
+
+539
+00:36:28,619 --> 00:36:31,179
+Mas assim que entra,
+você fica bem. O quê?
+
+540
+00:36:31,522 --> 00:36:34,719
+Eu sei que você fez isso,
+e posso supor que você não tem...
+
+541
+00:36:34,825 --> 00:36:36,793
+câncer ou impotência sexual.
+
+542
+00:36:36,894 --> 00:36:39,590
+Mas qual a sua opinião sobre
+a segurança dessa coisa?
+
+543
+00:36:39,697 --> 00:36:42,063
+Não imagino nenhuma forma
+dessa coisa poder ser...
+
+544
+00:36:42,166 --> 00:36:44,293
+considerada nem um pouco
+perto de ser segura.
+
+545
+00:36:44,402 --> 00:36:47,894
+Só sei que passei 6 horas lá
+e ainda estou vivo.
+
+546
+00:36:50,508 --> 00:36:52,408
+Ainda quer fazer isso?
+
+547
+00:37:09,327 --> 00:37:12,091
+Ajustei o alarme no meu
+cronômetro para 6 horas.
+
+548
+00:37:12,196 --> 00:37:16,292
+Regulei o tanque de oxigênio,
+tomei uma Dramamina, e tentei dormir.
+
+549
+00:37:16,968 --> 00:37:18,230
+Conseguiu?
+
+550
+00:37:18,502 --> 00:37:20,402
+-O quê?
+-Conseguiu dormiu?
+
+551
+00:37:20,905 --> 00:37:24,841
+No início, não. Nunca me
+considerei claustrofóbico...
+
+552
+00:37:24,942 --> 00:37:29,072
+mas comecei a suar, e não achava
+o fluxo adequado pro tanque...
+
+553
+00:37:29,547 --> 00:37:33,608
+e estava respirando diferente de
+quando eu estava do lado de fora.
+
+554
+00:37:33,718 --> 00:37:36,118
+Finalmente, me acalmei, e...
+
+555
+00:37:36,287 --> 00:37:40,446
+sei lá, talvez tenha sido a Dramamina
+fazendo efeito, mas lembro dessa hora...
+
+556
+00:37:40,558 --> 00:37:43,356
+no escuro, com a
+vibração da máquina...
+
+557
+00:37:43,928 --> 00:37:46,897
+foi o momento de maior
+felicidade que eu já tive.
+
+558
+00:37:49,634 --> 00:37:52,000
+Acordei sozinho, sem o alarme...
+
+559
+00:37:52,103 --> 00:37:55,595
+e esperei a máquina esfriar.
+Esfriar da minha perspectiva.
+
+560
+00:37:55,706 --> 00:37:58,573
+Chegou a um ponto onde pareceu
+que estava segura para sair...
+
+561
+00:37:58,676 --> 00:38:01,236
+mas o cronômetro ainda
+mostrava alguns minutos...
+
+562
+00:38:01,345 --> 00:38:03,711
+então confiei na
+matemática e esperei.
+
+563
+00:38:39,884 --> 00:38:43,581
+Isso não é um choque estático, Abe.
+Certo, pare com isso.
+
+564
+00:38:49,860 --> 00:38:51,589
+Você saiu cedo demais.
+
+565
+00:38:53,030 --> 00:38:57,057
+Tem que esperar pelo cronômetro pra
+saber que a potência está baixa o bastante.
+
+566
+00:38:57,468 --> 00:38:59,163
+Então, estamos de volta?
+
+567
+00:38:59,603 --> 00:39:03,164
+Sim, estamos.
+São 8h50, manhã de terça-feira.
+
+568
+00:39:07,278 --> 00:39:09,337
+Tudo bem. Me dê uns minutos.
+
+569
+00:39:12,416 --> 00:39:15,943
+A partir daí, foi fácil.
+A maioria do trabalho estava feita.
+
+570
+00:39:16,053 --> 00:39:19,386
+Deixei tudo do jeito que encontrei.
+Deixei a máquina sozinha...
+
+571
+00:39:19,490 --> 00:39:22,459
+não desliguei nada,
+e saí fora de lá.
+
+572
+00:39:22,560 --> 00:39:26,997
+Para que sua dupla encontrasse tudo
+igual mais tarde e entrasse na caixa?
+
+573
+00:39:27,098 --> 00:39:29,576
+Isso, mas também, eu,
+ou minha dupla...
+
+574
+00:39:29,598 --> 00:39:31,626
+ou alguém estava
+na caixa voltando.
+
+575
+00:39:31,736 --> 00:39:34,967
+Então quem sabe o que teria acontecido
+se eu tivesse desligado a máquina.
+
+576
+00:39:35,072 --> 00:39:37,563
+Certamente. Então,
+se usa só uma vez.
+
+577
+00:39:37,675 --> 00:39:42,078
+Então naquela hora, já que minha dupla
+estava indo pro hotel no meu carro...
+
+578
+00:39:42,179 --> 00:39:46,206
+tive que pegar um táxi. Mas quando
+formos, poderemos usar seu caminhão.
+
+579
+00:40:06,570 --> 00:40:10,233
+-Você tem uma conta margem, não é?
+-Sim, agora tenho. O que vamos comprar?
+
+580
+00:40:10,341 --> 00:40:11,743
+Bom. Hoje, antes do 12h30...
+
+581
+00:40:11,761 --> 00:40:14,243
+vamos comprar quantas
+participações conseguirmos da RGWU.
+
+582
+00:40:16,313 --> 00:40:20,010
+Vão anunciar que seus lucros nesse
+trimestre são três vezes e meia maiores...
+
+583
+00:40:20,117 --> 00:40:23,109
+e as ações quase duplicarão
+nas transações pela tarde.
+
+584
+00:40:25,022 --> 00:40:27,149
+-O que eles fazem?
+-Como assim?
+
+585
+00:40:27,291 --> 00:40:29,555
+O que essa compania faz?
+Fazem coisas ou...
+
+586
+00:40:29,660 --> 00:40:32,254
+Não sei. Não importa. O importante
+é que o valor aumenta.
+
+587
+00:40:32,363 --> 00:40:34,242
+O volume é tão alto que o número de
+participações que compramos...
+
+588
+00:40:34,363 --> 00:40:36,062
+não afetará o preço.
+
+589
+00:40:39,804 --> 00:40:41,931
+Não sabe mesmo
+o que eles fazem?
+
+590
+00:40:47,511 --> 00:40:51,311
+Por isso falou de grandes empresas, o
+volume é tão grande que não nos notam.
+
+591
+00:40:51,415 --> 00:40:53,508
+-Acha que é muita cautela?
+-Não sei.
+
+592
+00:40:53,617 --> 00:40:55,812
+Sei que existem
+muitas ações por aí...
+
+593
+00:40:55,920 --> 00:40:59,117
+que dão muito mais que o dobro,
+mas esse é meu primeiro dia.
+
+594
+00:41:36,760 --> 00:41:38,591
+-Meu Deus.
+-Ela não vai responder.
+
+595
+00:41:38,762 --> 00:41:40,457
+Eu sei, Abe.
+Essa é a questão.
+
+596
+00:41:41,599 --> 00:41:45,592
+Eu sei, mas qual a resposta?
+Você tem os $400 bilhões...
+
+597
+00:41:45,703 --> 00:41:49,298
+já doou um pouco,
+tem uma mansão de 100 quartos...
+
+598
+00:41:49,406 --> 00:41:51,772
+que combinam com seus
+iates e helicópteros.
+
+599
+00:41:51,876 --> 00:41:54,845
+Basicamente, você tem impunidade
+total para fazer o que quiser...
+
+600
+00:41:54,945 --> 00:41:55,934
+-...ninguém pode te tocar.
+-É.
+
+601
+00:41:56,046 --> 00:41:58,105
+-Acaba de voltar...
+-Acima da lei.
+
+602
+00:41:58,215 --> 00:42:03,084
+Muito acima. Você acaba de voltar das
+férias de 2 anos viajando pelo mundo.
+
+603
+00:42:03,187 --> 00:42:05,246
+Como preenche o seu dia?
+O que faz?
+
+604
+00:42:05,356 --> 00:42:09,690
+Abe, sei que essa é a pergunta, mas não
+é uma pergunta real, então por que importa?
+
+605
+00:42:09,793 --> 00:42:11,192
+Então qual a resposta?
+
+606
+00:42:11,295 --> 00:42:15,129
+Amor, ele sabe que essa é a pergunta,
+certo? Ele está perguntando a você.
+
+607
+00:42:15,533 --> 00:42:19,094
+Como assim? O que farei da minha
+vida ou o que farei amanhã?
+
+608
+00:42:19,203 --> 00:42:20,465
+Meu Deus, qualquer um.
+
+609
+00:42:22,172 --> 00:42:26,165
+Tenho que fazer algo construtivo.
+Teria que fazer... algo que ajude...
+
+610
+00:42:26,277 --> 00:42:29,940
+...algo que faça eu me sentir bem.
+-Eu sei. Isso é fantástico.
+
+611
+00:42:30,047 --> 00:42:34,916
+-Minha esposa. Tão boa, tão pura.
+-Cala a boca. Por que perguntou, então
+
+612
+00:42:35,152 --> 00:42:39,350
+Isso que eu faria:
+acordaria amanhã de manhã...
+
+613
+00:42:39,456 --> 00:42:41,890
+e iria à Gabriel Capital Inc.,
+
+614
+00:42:41,992 --> 00:42:45,758
+e diria à recepcionista de Joseph
+Platts que estou lá para vê-lo...
+
+615
+00:42:45,863 --> 00:42:47,558
+e quando ele saísse...
+
+616
+00:42:49,066 --> 00:42:51,899
+eu daria uma porrada
+bem no nariz dele.
+
+617
+00:42:52,870 --> 00:42:56,863
+Apenas um soco dos bons.
+
+618
+00:42:58,409 --> 00:43:01,606
+-Que maravilha. Já era hora.
+-Que ótimo.
+
+619
+00:43:01,712 --> 00:43:04,408
+De onde saiu isso?
+Você sempre defende o cara.
+
+620
+00:43:04,515 --> 00:43:07,075
+-Não é natural.
+-Eu só faria se soubesse que...
+
+621
+00:43:07,184 --> 00:43:08,913
+ninguém descobriria
+ou se machucaria.
+
+622
+00:43:09,019 --> 00:43:12,386
+Tipo, queria que houvesse uma
+forma de eu fazer isso...
+
+623
+00:43:12,489 --> 00:43:14,320
+e aí eu voltasse e dissesse
+a mim mesmo para não fazer.
+
+624
+00:43:14,425 --> 00:43:17,519
+Porque só quero saber como seria.
+Só isso, na verdade.
+
+625
+00:43:17,628 --> 00:43:18,822
+Estou tão orgulhosa.
+
+626
+00:43:19,196 --> 00:43:21,623
+Finalmente, meu marido...
+
+627
+00:43:21,696 --> 00:43:22,923
+o herói.
+
+628
+00:43:28,973 --> 00:43:32,170
+-Não podemos fazer isso.
+-Eu sei.
+
+629
+00:43:32,543 --> 00:43:34,238
+Ligou pro controle de pestes?
+
+630
+00:43:35,045 --> 00:43:38,879
+Amor, são pássaros. Não quer um monte
+de passarinhos mortos por aí, quer?
+
+631
+00:43:38,983 --> 00:43:43,010
+-Não parecem pássaros.
+-Ela acha que tem ratos no sótão.
+
+632
+00:43:44,021 --> 00:43:46,012
+"Mas a idéia havia sido dada..."
+
+633
+00:43:46,123 --> 00:43:49,251
+"e as palavras não voltariam após
+terem sido ditas em voz alta."
+
+634
+00:43:49,360 --> 00:43:50,952
+Então está entendendo
+isso, certo?
+
+635
+00:43:51,061 --> 00:43:53,586
+Olhe Abe, não precisa me persuadir
+para não fazer isso, certo?
+
+636
+00:43:53,697 --> 00:43:56,723
+-Acho que não te disse...
+-Mesmo se conseguir parar você...
+
+637
+00:43:56,834 --> 00:44:00,395
+ou sua dupla, de bater em Platts,
+por que sua dupla voltaria à caixa?
+
+638
+00:44:00,504 --> 00:44:03,962
+"E sem necessidade dela sem
+aplicação possível no mundo real..."
+
+639
+00:44:04,274 --> 00:44:07,732
+"sem vantagem nenhuma aproveitável,
+a idéia continuou."
+
+640
+00:44:08,379 --> 00:44:11,837
+-Como faria isso?
+-Não faria.
+
+641
+00:44:12,282 --> 00:44:14,773
+-Só de brincadeira.
+-Ainda não faria.
+
+642
+00:44:14,885 --> 00:44:17,718
+-Mas se tivesse um jeito de...
+-Olha, Abe, olha.
+
+643
+00:44:18,188 --> 00:44:21,316
+Não vou fingir que sei tudo
+sobre paradoxos...
+
+644
+00:44:21,425 --> 00:44:24,826
+ou o que acontece depois, e
+honestamente, não acredito nisso.
+
+645
+00:44:24,928 --> 00:44:28,728
+Matar sua mãe antes de você nascer,
+Tem que funcionar de alguma forma.
+
+646
+00:44:28,832 --> 00:44:30,959
+-Não sei.
+-Isso eu sei com certeza.
+
+647
+00:44:31,068 --> 00:44:35,129
+A pior coisa do mundo é saber
+que o momento que você experimenta...
+
+648
+00:44:35,239 --> 00:44:38,037
+já foi definido,
+que esse é o segundo...
+
+649
+00:44:38,142 --> 00:44:42,044
+ou o terceiro, ou sei lá.
+E já sentiu alguma vez que...
+
+650
+00:44:43,113 --> 00:44:46,879
+sei lá, talvez as coisas não andem
+bem, que sua vida esteja confusa...
+
+651
+00:44:46,984 --> 00:44:48,448
+ou não está como você gostaria,
+e começa a se perguntar...
+
+652
+00:44:48,484 --> 00:44:51,448
+O que causou isso?
+Como as coisas chegaram neste ponto?
+
+653
+00:44:52,356 --> 00:44:54,483
+As pessoas estão sempre
+culpando seus pais...
+
+654
+00:44:54,591 --> 00:44:57,890
+como se suas mães os amamentasse
+mais, suas vidas seriam diferentes.
+
+655
+00:44:57,995 --> 00:44:59,155
+Bando de chorões.
+
+656
+00:44:59,263 --> 00:45:02,426
+Sim, eles são. Mas e se não fosse
+algo que você se perguntasse?
+
+657
+00:45:02,533 --> 00:45:05,525
+E se você soubesse que essa não é
+forma que as coisas eram pra ser?
+
+658
+00:45:05,636 --> 00:45:09,766
+Não sou assim. Não acredito em destino,
+que só existe uma maneira das coisas serem.
+
+659
+00:45:09,873 --> 00:45:11,773
+Eu também não. Mas o que é pior?
+
+660
+00:45:11,875 --> 00:45:14,969
+Achar que está sendo paranóico
+ou saber que deveria estar sendo?
+
+661
+00:45:20,884 --> 00:45:23,648
+Não precisa me olhar assim.
+Estou bem.
+
+662
+00:45:29,827 --> 00:45:32,625
+Não, só achei que estaria.
+Confio nela.
+
+663
+00:45:32,730 --> 00:45:36,530
+-Sei que quando decidi te contar...
+-Decidiu me contar?
+
+664
+00:45:36,900 --> 00:45:39,835
+Sei que vocês são casados
+e não existem segredos...
+
+665
+00:45:39,900 --> 00:45:41,735
+e qualquer coisa que
+eu te falar, ela saberá.
+
+666
+00:45:41,839 --> 00:45:43,363
+-Não é questão de confiança.
+-Eu sei.
+
+667
+00:45:43,474 --> 00:45:46,102
+Não seria melhor
+se em alguns dias...
+
+668
+00:45:46,210 --> 00:45:49,668
+eu a surpreendesse e fôssemos para
+a Costa Rica ou outro lugar por 1 mês?
+
+669
+00:45:49,780 --> 00:45:53,307
+Faremos ela entender aos poucos.
+Talvez compre alguma propriedade...
+
+670
+00:45:53,417 --> 00:45:56,318
+Por enquanto, pode dizer a ela
+que teve um bom dia na bolsa.
+
+671
+00:45:56,420 --> 00:45:57,478
+Você não entende. Não.
+
+672
+00:45:57,588 --> 00:46:00,056
+Não entende as perguntas
+que vêm com isso.
+
+673
+00:46:00,157 --> 00:46:02,682
+Mas explicaremos pra ela,
+e tomaremos um tempo...
+
+674
+00:46:02,793 --> 00:46:03,987
+para pensar no
+que vem depois...
+
+675
+00:46:04,094 --> 00:46:07,655
+que acho, que deveria ser construir uma
+caixa maior, do tamanho de um quarto...
+
+676
+00:46:07,765 --> 00:46:09,596
+pelo menos onde mais de
+uma pessoa pudesse caber nela.
+
+677
+00:46:09,700 --> 00:46:12,828
+Seguro ou não, parece um
+caixão do jeito que é.
+
+678
+00:46:13,570 --> 00:46:15,333
+A propósito, esse
+é o nosso cara.
+
+679
+00:46:16,440 --> 00:46:20,206
+-Qual o volume?
+-Cinco e meio.
+
+680
+00:46:20,811 --> 00:46:23,439
+Qual o retorno? Deus...
+
+681
+00:46:26,283 --> 00:46:30,549
+Não posso bater isso. Mas achei que eu
+estivesse falando de Robert e Phillip.
+
+682
+00:46:30,654 --> 00:46:31,848
+Não quero contar a eles.
+
+683
+00:46:31,955 --> 00:46:34,219
+Sei que investiram
+muito no grupo...
+
+684
+00:46:34,324 --> 00:46:35,689
+Não quero contar a eles.
+
+685
+00:46:35,860 --> 00:46:39,024
+Abe, se precisa que eu assuma a
+culpa nisso... está bem, certo?
+
+686
+00:46:39,129 --> 00:46:40,892
+Eu aceito tranquilamente. É minha.
+
+687
+00:46:40,998 --> 00:46:43,660
+No final da semana, podem
+ter o que quiserem.
+
+688
+00:46:43,767 --> 00:46:47,032
+Entregarei todos os direitos
+patentes dos últimos dois anos.
+
+689
+00:46:47,137 --> 00:46:49,503
+Podem ficar com o equipamento,
+a garagem, a casa.
+
+690
+00:46:49,606 --> 00:46:52,473
+Podem ficar com meu caminhão se
+isso faz você se sentir melhor.
+
+691
+00:46:52,576 --> 00:46:55,670
+Mas não vou dizer a eles
+uma palavra sobre isso. Nós não vamos.
+
+692
+00:47:10,460 --> 00:47:12,690
+Meu Deus, tudo é
+tão diferente lá dentro.
+
+693
+00:47:12,796 --> 00:47:14,855
+Dá pra sentir o quão
+isolado você está.
+
+694
+00:47:15,199 --> 00:47:18,168
+É um mundo totalmente separado,
+e você ocupa a maior parte dele.
+
+695
+00:47:18,268 --> 00:47:21,726
+E o som.
+Não é diferente por dentro?
+
+696
+00:47:21,905 --> 00:47:25,238
+É como se estivesse cantando.
+Acho que não dá pra ouvir de fora...
+
+697
+00:47:25,342 --> 00:47:28,869
+-Eu tive um sonho lá dentro.
+-Sobre o quê?
+
+698
+00:47:30,747 --> 00:47:35,411
+Eu estava no oceano, ou perto
+dele, e fiquei ouvindo as ondas.
+
+699
+00:47:35,919 --> 00:47:37,409
+Foi tão inesperado.
+
+700
+00:47:38,222 --> 00:47:41,191
+De noite. E a maré
+continuava indo e voltando.
+
+701
+00:47:41,922 --> 00:47:43,491
+-É.
+-É.
+
+702
+00:47:53,971 --> 00:47:56,735
+Vem cá um segundo, cara.
+O que tem na sua mão?
+
+703
+00:47:57,307 --> 00:47:59,104
+-Está sangrando?
+-Isso é sangue.
+
+704
+00:47:59,209 --> 00:48:00,767
+-Vire-se.
+-Está vendo?
+
+705
+00:48:00,878 --> 00:48:03,278
+Da onde está vindo?
+É o seu caderno.
+
+706
+00:48:03,380 --> 00:48:06,474
+-É você. Deus, é o seu ouvido.
+-O que é?
+
+707
+00:48:06,817 --> 00:48:10,116
+-Seu ouvido está sangrando.
+-Me dá isso. Tudo bem.
+
+708
+00:48:13,724 --> 00:48:16,659
+-Isso é normal? Não é normal.
+-Pra máquina?
+
+709
+00:48:17,494 --> 00:48:20,827
+Não, para as pessoas.
+Acha que é a máquina? Tudo bem.
+
+710
+00:48:38,882 --> 00:48:40,941
+Beleza. Hoje posso
+realmente trabalhar.
+
+711
+00:48:41,051 --> 00:48:42,416
+E aí, caras, o que
+está rolando?
+
+712
+00:48:42,519 --> 00:48:45,352
+Sempre pareço render mais quando
+não estou trancado do lado de fora.
+
+713
+00:48:45,455 --> 00:48:46,888
+É, ele disse que tinham
+que desinfetar de novo.
+
+714
+00:48:46,990 --> 00:48:49,959
+É, mas não pode nos dizer com
+antecedência. O herói está aqui?
+
+715
+00:48:50,060 --> 00:48:52,392
+Além disso, não se vê nada
+por aqui além dessas lagartixas.
+
+716
+00:48:52,496 --> 00:48:54,123
+-Eu sei.
+-É, eu acho que é para as lagartixas.
+
+717
+00:48:54,231 --> 00:48:55,596
+-Como?
+-Por quê?
+
+718
+00:48:55,766 --> 00:48:58,997
+-Ei, cara, valeu pelo presente.
+-Como está indo?
+
+719
+00:48:59,102 --> 00:49:02,833
+Querem saber? Vocês dois, se
+divertem, mas tem uma diferença.
+
+720
+00:49:02,940 --> 00:49:04,202
+Espera. Como chamou ele?
+
+721
+00:49:04,308 --> 00:49:06,367
+-O quê?
+-Quando você entrou? O que disse?
+
+722
+00:49:06,476 --> 00:49:07,943
+-Ele não te contou sobre isso?
+-Não.
+
+723
+00:49:08,045 --> 00:49:12,175
+Certo. O ex-namorado da Rachel foi ao
+meu aniversário com uma espingarda.
+
+724
+00:49:12,282 --> 00:49:13,715
+-O quê?
+-Juro por Deus.
+
+725
+00:49:13,817 --> 00:49:15,614
+É, Abe. Já escutei esse
+sermão de Kara.
+
+726
+00:49:15,719 --> 00:49:18,085
+-Filby!
+-Você terá de mim. Tem esposa e filha.
+
+727
+00:49:18,188 --> 00:49:21,487
+É estranho que só vocês dois
+tem problema com isso.
+
+728
+00:49:21,591 --> 00:49:24,059
+-Todo mundo acha que fiz bem.
+-Você não fez.
+
+729
+00:49:24,161 --> 00:49:27,562
+Não pode arriscar sua vida e
+o bem-estar de Kara e Lauren...
+
+730
+00:49:27,664 --> 00:49:28,688
+por alguém como Rachel.
+
+731
+00:49:28,799 --> 00:49:30,858
+Ela praticamente implora
+para que isso aconteça com ela.
+
+732
+00:49:30,968 --> 00:49:32,560
+Pensei que ao menos
+você entenderia.
+
+733
+00:49:32,669 --> 00:49:34,637
+Entender o quê?
+Você nunca foi assim.
+
+734
+00:49:34,738 --> 00:49:38,435
+É isso que eu quero dizer. Você vê
+como as coisas estão diferentes.
+
+735
+00:49:39,109 --> 00:49:41,270
+Diferentes? Como as
+coisas estão diferentes?
+
+736
+00:49:42,012 --> 00:49:44,879
+Você percebe, tá bom?
+Eu sei que percebe.
+
+737
+00:49:47,517 --> 00:49:49,280
+Olha, aquela foi a noite...
+
+738
+00:49:49,987 --> 00:49:51,978
+que você me contou
+tudo sobre a máquina.
+
+739
+00:49:52,089 --> 00:49:53,686
+Tudo que me mostrou estava
+tão fresco em minha mente...
+
+740
+00:49:53,695 --> 00:49:55,786
+e quando vi esse cara...
+
+741
+00:49:55,892 --> 00:49:58,452
+Estava olhando pra ele.
+Eu não ia deixar ele fazer isso.
+
+742
+00:49:58,562 --> 00:50:01,326
+Não ia deixar ele assustar
+as pessoas daquela forma.
+
+743
+00:50:01,765 --> 00:50:03,665
+Sei que foi estupidez, certo?
+
+744
+00:50:03,867 --> 00:50:07,303
+Mas toda essa idéia,
+tudo isso que estamos fazendo...
+
+745
+00:50:07,871 --> 00:50:12,433
+Só levou pouco para eu me acostumar.
+Eu não estava totalmente ambientado.
+
+746
+00:50:12,576 --> 00:50:16,068
+Se fosse apenas você com quem deveria
+se preocupar, ainda acharia estúpido.
+
+747
+00:50:16,179 --> 00:50:19,046
+Mas tem uma família agora,
+e Deus, especialmente agora...
+
+748
+00:50:19,149 --> 00:50:20,980
+qualquer coisa assim
+seria uma loucura.
+
+749
+00:50:21,084 --> 00:50:24,076
+-Eu sei, tá bem?
+-Sei que sabe, mas tem que...
+
+750
+00:50:24,187 --> 00:50:27,213
+-Eu sei, tá bem?
+-Filby!
+
+751
+00:50:29,893 --> 00:50:33,351
+Seu pedaço de... Mesmo
+se o ver, não me diga.
+
+752
+00:50:33,463 --> 00:50:37,092
+Não é minha culpa eu não saber,
+e espero que essa coisa fuja.
+
+753
+00:50:37,200 --> 00:50:38,929
+Então o que fazemos aqui?
+
+754
+00:50:39,036 --> 00:50:42,870
+Ela se preocupa com o gato. Então
+você procura o gato. É o que você faz.
+
+755
+00:50:52,849 --> 00:50:54,783
+-Não sei.
+-O que quer dizer?
+
+756
+00:50:54,885 --> 00:50:58,284
+É um pouco embaraçoso o cara
+do armazém nos ver entrar juntos...
+
+757
+00:50:58,308 --> 00:50:59,482
+mas nunca nos vê sair.
+
+758
+00:50:59,589 --> 00:51:02,057
+Sim, mas o que você acha que
+a recepcionista pensa...
+
+759
+00:51:02,159 --> 00:51:05,651
+de dois caras que vão pra um quarto
+por seis horas todos os dias?
+
+760
+00:51:09,099 --> 00:51:10,566
+Desligou isso?
+
+761
+00:51:14,438 --> 00:51:16,565
+Trouxe seu celular?
+
+762
+00:51:18,075 --> 00:51:20,066
+Posso ver o identificador
+de chamadas?
+
+763
+00:51:22,112 --> 00:51:23,875
+Sim, ainda não voltamos.
+
+764
+00:51:24,981 --> 00:51:27,882
+Sim, mas não pode levar
+de volta com você, certo?
+
+765
+00:51:32,489 --> 00:51:34,821
+Aqui é o Aaron.
+Oi, querida.
+
+766
+00:51:35,692 --> 00:51:39,924
+Não estou aí. Tive que vir ao
+centro e ajudar uns caras.
+
+767
+00:51:40,030 --> 00:51:41,224
+Fale.
+
+768
+00:51:42,399 --> 00:51:45,664
+Parece bom. Não, tenho que
+comer com esses idiotas.
+
+769
+00:51:45,769 --> 00:51:48,067
+Mas guarde um pouco pra mim.
+Eu como depois.
+
+770
+00:51:48,638 --> 00:51:53,098
+Certo. Sim, às 18h.
+
+771
+00:52:55,939 --> 00:52:57,873
+-O quê?
+-O quê?
+
+772
+00:52:58,108 --> 00:53:01,908
+Era para vencermos por 2 pontos, e
+acabam de virar faltando 12 segundos.
+
+773
+00:53:02,012 --> 00:53:04,980
+-Fazemos uma falta.
+-Não.
+
+774
+00:53:05,012 --> 00:53:06,380
+É, fazemos uma falta.
+
+775
+00:53:06,393 --> 00:53:09,946
+Como? Não, fazemos falta agora,
+eles erram o primeiro lance livre...
+
+776
+00:53:10,053 --> 00:53:12,214
+...e eles acertam uma de três.
+-Três pontos.
+
+777
+00:53:12,322 --> 00:53:13,516
+Isso mesmo.
+
+778
+00:53:17,306 --> 00:53:18,127
+É.
+
+779
+00:53:19,896 --> 00:53:23,127
+Cara, está com fome?
+Não como desde hoje mais tarde.
+
+780
+00:53:26,736 --> 00:53:28,169
+E aí, caras?
+
+781
+00:53:35,745 --> 00:53:39,112
+-Só pode estar brincando.
+-Desculpe, esqueci que estava no bolso.
+
+782
+00:53:39,216 --> 00:53:40,877
+-É a Kara?
+-É.
+
+783
+00:53:44,354 --> 00:53:45,912
+Como os celulares funcionam?
+
+784
+00:53:46,022 --> 00:53:48,889
+Se existem 2 telefones duplicados
+e eu ligo pro mesmo número...
+
+785
+00:53:48,992 --> 00:53:51,256
+os dois tocam ao mesmo
+tempo, ou eles...
+
+786
+00:53:51,361 --> 00:53:53,522
+-Não funcionam assim.
+-É um sinal de rádio.
+
+787
+00:53:53,630 --> 00:53:54,892
+Não, é uma rede.
+
+788
+00:53:54,998 --> 00:53:58,058
+Verifica cada área e quando
+acha o telefone, pára de tocar.
+
+789
+00:53:58,168 --> 00:53:59,760
+Toca no primeiro.
+
+790
+00:54:02,205 --> 00:54:04,969
+-Esse está tocando.
+-Certo.
+
+791
+00:54:05,075 --> 00:54:07,373
+Então o que está com sua dupla em
+Russellfield não pode tocar.
+
+792
+00:54:07,477 --> 00:54:09,536
+Certo. Acho que
+quebramos a simetria.
+
+793
+00:54:10,847 --> 00:54:14,112
+-Está certo que funcionam assim?
+-Não.
+
+794
+00:54:15,819 --> 00:54:17,514
+Está se sentindo bem?
+
+795
+00:54:18,321 --> 00:54:20,482
+-Estou, e você?
+-Sim.
+
+796
+00:54:49,653 --> 00:54:51,814
+Kara está dormindo?
+Eu te acordei?
+
+797
+00:54:51,921 --> 00:54:55,857
+Está. Não, eu não,
+foi mais um cochilo.
+
+798
+00:54:56,459 --> 00:54:59,792
+Acho que meu corpo está se acostumando
+a essas 36h por dia. O que houve?
+
+799
+00:54:59,896 --> 00:55:02,160
+Podemos fazer isso,
+mas temos que fazer agora.
+
+800
+00:55:02,265 --> 00:55:05,029
+-Tem o endereço da casa dele?
+-Por que agora?
+
+801
+00:55:05,135 --> 00:55:08,332
+Planejamos fazer uma viagem
+amanhã, certo? Igual a hoje?
+
+802
+00:55:08,438 --> 00:55:09,666
+Sim, pelas ações.
+
+803
+00:55:09,773 --> 00:55:14,210
+Bem, há meia hora eu estava dormindo.
+O alarme de um carro me acordou.
+
+804
+00:55:14,311 --> 00:55:17,075
+Tinha uns garotos andando de
+skate, e batendo nos carros.
+
+805
+00:55:17,180 --> 00:55:21,139
+Então vamos agora, fazemos o serviço
+no Platts, voltamos pra caixa...
+
+806
+00:55:21,251 --> 00:55:23,776
+e voltamos antes dos garotos
+dispararem os alarmes.
+
+807
+00:55:23,887 --> 00:55:27,846
+Só temos que ficar lá à vista.
+Isso deve assustá-los.
+
+808
+00:55:27,957 --> 00:55:29,925
+Dessa forma, minha dupla
+dorme toda a noite...
+
+809
+00:55:30,026 --> 00:55:34,486
+eles não têm essa conversa, e entram
+na caixa amanhã como de costume.
+
+810
+00:55:36,099 --> 00:55:39,865
+-Estarão mudados. Mas...
+-Sim, mas ao menos estarão na caixa.
+
+811
+00:55:42,172 --> 00:55:45,938
+Espera, como voltamos tão longe
+se as máquinas não estão funcionando?
+
+812
+00:55:48,311 --> 00:55:51,644
+-Estiveram funcionando?
+-Sim.
+
+813
+00:55:51,781 --> 00:55:55,239
+Comecei a ir às 5 horas e ligá-las.
+5 da tarde.
+
+814
+00:55:55,985 --> 00:55:58,180
+Cansei de todo esse
+assunto sem respostas...
+
+815
+00:55:58,288 --> 00:56:01,280
+Fazemos isso como experiência
+ou fazemos isso por mim?
+
+816
+00:56:01,391 --> 00:56:04,053
+-Um pouco de cada.
+-17:00.
+
+817
+00:56:04,160 --> 00:56:07,926
+Se terminamos às 3h,
+serão 10 horas na caixa.
+
+818
+00:56:09,065 --> 00:56:11,124
+Estou com os tanques de
+oxigênio no carro.
+
+819
+00:56:26,783 --> 00:56:29,445
+-Esse não é...
+-Esse não é o carro da Rachel?
+
+820
+00:56:30,920 --> 00:56:34,549
+Não é da Rachel, é do pai dela.
+Eles têm o mesmo modelo.
+
+821
+00:56:34,791 --> 00:56:36,122
+Viu isso?
+
+822
+00:56:36,960 --> 00:56:40,555
+É o Sr. Granger. É o Thomas.
+Está sentado naquele carro.
+
+823
+00:56:40,964 --> 00:56:41,988
+O quê?
+
+824
+00:56:42,532 --> 00:56:44,796
+Juro que era ele.
+Que diabos ele está fazendo...
+
+825
+00:56:44,901 --> 00:56:47,734
+sentado do lado de fora da
+minha casa às 2h da manhã?
+
+826
+00:56:49,839 --> 00:56:52,307
+Não acredito nisso.
+Ele está nos seguindo?
+
+827
+00:56:52,409 --> 00:56:55,071
+-O que está fazendo?
+-Vamos ver o que ele quer.
+
+828
+00:56:55,178 --> 00:56:58,113
+Não, primeiro vamos sair
+do meu bairro. Vamos.
+
+829
+00:56:58,214 --> 00:57:00,648
+-Viu ele hoje?
+-Não.
+
+830
+00:57:02,585 --> 00:57:04,985
+Eu vi ele.
+Vi essa tarde...
+
+831
+00:57:05,555 --> 00:57:06,783
+pelas 18h.
+
+832
+00:57:06,890 --> 00:57:09,154
+Tem certeza que não o viu
+quando passamos?
+
+833
+00:57:09,259 --> 00:57:10,385
+Não, como?
+
+834
+00:57:10,960 --> 00:57:13,986
+Estou certo que essa tarde ele
+estava sem barba. Sei que estava.
+
+835
+00:57:14,097 --> 00:57:16,497
+Ele estava pronto para ir à
+alguma festa com a esposa.
+
+836
+00:57:16,599 --> 00:57:19,193
+Agora parece que ele tem uma
+barba de dois ou três dias.
+
+837
+00:57:19,302 --> 00:57:22,430
+-Tem certeza?
+-Não tenho, mas acho que sim.
+
+838
+00:57:27,343 --> 00:57:29,834
+Rachel. É o Abe.
+Te acordei?
+
+839
+00:57:31,648 --> 00:57:34,708
+Pode me dar o número
+do seu pai rapidinho?
+
+840
+00:57:35,318 --> 00:57:37,411
+Sim. Certo, vá em frente.
+
+841
+00:57:39,756 --> 00:57:42,020
+-Sim, obrigado.
+-O que ele está fazendo?
+
+842
+00:57:42,926 --> 00:57:44,723
+Só está sentado.
+
+843
+00:57:45,094 --> 00:57:48,894
+Saiu por um segundo e achei
+que vinha até aqui...
+
+844
+00:57:49,399 --> 00:57:52,425
+e aí ele voltou pro carro.
+Acho que está bêbado.
+
+845
+00:57:52,535 --> 00:57:55,129
+Oi, desculpe ligar tão tarde.
+
+846
+00:57:55,505 --> 00:57:58,133
+Posso falar com Thomas
+Granger, por favor?
+
+847
+00:57:59,576 --> 00:58:02,739
+Sim, aqui é James Miller,
+da Putney e Myers.
+
+848
+00:58:04,347 --> 00:58:05,678
+Oi, Sr. Granger?
+
+849
+00:58:07,050 --> 00:58:08,877
+Thomas Granger?
+
+850
+00:58:12,722 --> 00:58:15,190
+O que faz aqui? Venha cá!
+
+851
+00:58:30,406 --> 00:58:31,873
+O que aconteceu?
+
+852
+00:58:33,076 --> 00:58:34,839
+Estou bem. Escorreguei.
+
+853
+00:58:45,722 --> 00:58:49,214
+Quero saber que caixa usou.
+Fez uma pra você, não? Só uma.
+
+854
+00:58:49,325 --> 00:58:51,452
+Sim. Quantas acha que eu fiz?
+
+855
+00:58:54,964 --> 00:58:57,831
+Essas estão bem calibradas.
+Eu as liguei às 17h.
+
+856
+00:58:58,434 --> 00:59:00,868
+Ele pode ter usado uma
+e ter voltado às 17:00.
+
+857
+00:59:00,970 --> 00:59:03,200
+Poderia estar em uma
+delas agora mesmo.
+
+858
+00:59:06,543 --> 00:59:09,239
+Digo para desligarmos e
+vermos se ele está aí.
+
+859
+00:59:10,380 --> 00:59:12,109
+Estava pensando em
+falar pra ele?
+
+860
+00:59:12,215 --> 00:59:14,410
+Só me diga se estava.
+Não vou ficar bravo.
+
+861
+00:59:14,517 --> 00:59:16,348
+Não, prometo.
+Sabe que não faria isso.
+
+862
+00:59:16,452 --> 00:59:17,680
+Tem certeza que não?
+
+863
+00:59:17,787 --> 00:59:20,722
+É de você que ele não pode
+se aproximar sem desmaiar.
+
+864
+00:59:22,792 --> 00:59:25,556
+De jeito nenhum eu falaria isso
+pra alguém. De jeito nenhum.
+
+865
+00:59:25,662 --> 00:59:27,789
+-Pode pensar em alguma razão para tal?
+-Não.
+
+866
+00:59:27,897 --> 00:59:30,730
+Às vezes fazemos algumas coisas, mas
+não sabemos como chegamos a tal ponto.
+
+867
+00:59:30,833 --> 00:59:32,300
+-Não posso.
+-Não pode o quê?
+
+868
+00:59:32,402 --> 00:59:35,235
+Não posso pensar em nenhuma
+razão para eu fazer isso.
+
+869
+00:59:36,439 --> 00:59:38,202
+Bem, eu também não.
+
+870
+00:59:38,908 --> 00:59:41,001
+E se fosse uma emergência?
+
+871
+00:59:41,844 --> 00:59:46,440
+-Então faria se fosse uma emergência?
+-Não sei. O que, você faria?
+
+872
+00:59:47,116 --> 00:59:49,346
+Não sei. Que tipo de emergência?
+
+873
+00:59:50,787 --> 00:59:52,687
+"As permutações eram infinitas."
+
+874
+00:59:55,191 --> 00:59:56,886
+"Eles tentaram novamente
+voltar ao ponto de partida..."
+
+875
+00:59:56,993 --> 00:59:59,723
+"mas mesmo enquanto o tinham separado
+de Abe por dois quartos..."
+
+876
+00:59:59,829 --> 01:00:00,818
+Pergunte o nome dele.
+
+877
+01:00:00,930 --> 01:00:03,660
+"...o estado de Granger só poderia
+ser descrito como vegetativo."
+
+878
+01:00:03,766 --> 01:00:05,165
+O que ele disse?
+
+879
+01:00:05,268 --> 01:00:07,828
+"A partir disso, deduziram
+que o problema era recursivo..."
+
+880
+01:00:07,937 --> 01:00:11,566
+"mas além disso, tiveram que admitir,
+contra sua própria natureza..."
+
+881
+01:00:11,674 --> 01:00:14,165
+"e mais uma vez, que não era
+possível saber a resposta."
+
+882
+01:00:14,277 --> 01:00:15,972
+-O que você acha que ele mudou?
+-Não pode ter sido muito.
+
+883
+01:00:16,079 --> 01:00:19,674
+Não tivemos contato com ele nas
+3 horas que poderia ter feito algo.
+
+884
+01:00:19,782 --> 01:00:20,975
+Eu sei que ele mudou isso.
+
+885
+01:00:21,082 --> 01:00:23,775
+Sei que não estávamos tendo
+essa conversa na primeira vez...
+
+886
+01:00:23,886 --> 01:00:25,183
+então você não sabe o que perdemos.
+
+887
+01:00:25,288 --> 01:00:26,812
+Não pode ter sido muito.
+
+888
+01:00:26,923 --> 01:00:29,721
+Não importa o quanto.
+O importante é que mudou.
+
+889
+01:00:29,826 --> 01:00:31,054
+Entendo o que está dizendo.
+
+890
+01:00:31,160 --> 01:00:32,457
+"A pergunta deveria ter sido..."
+
+891
+01:00:32,562 --> 01:00:34,996
+"o que fazer com o comatoso
+no quarto de hóspedes."
+
+892
+01:00:35,098 --> 01:00:38,795
+"Mas na cabeça de Abe, ele já
+estava compilando a lista."
+
+893
+01:00:45,041 --> 01:00:47,736
+"2mg de triazolam oral
+a cada 7 horas..."
+
+894
+01:00:47,843 --> 01:00:51,644
+"induz um estado de sono seguro
+e uma taxa mínima de metabolismo."
+
+895
+01:00:53,249 --> 01:00:54,876
+"Nesse estado
+contínuo de descanso..."
+
+896
+01:00:54,984 --> 01:00:57,919
+"o corpo humano respira 0.3
+litros de oxigênio por minuto..."
+
+897
+01:00:58,021 --> 01:01:00,546
+"ou aproximadamente
+2.000 litros em 4 dias."
+
+898
+01:01:01,257 --> 01:01:04,590
+"Um tanque de oxigênio
+classe E contém 625 litros."
+
+899
+01:01:05,428 --> 01:01:06,793
+"Para manter a hidratação..."
+
+900
+01:01:06,896 --> 01:01:11,026
+"o corpo recicla um mínimo de
+2,5 litros de água por dia."
+
+901
+01:01:11,367 --> 01:01:13,528
+"Qualquer comida seria um luxo..."
+
+902
+01:01:13,770 --> 01:01:16,398
+"mas um tanque pequeno de
+óxido de nitrogênio médico..."
+
+903
+01:01:16,506 --> 01:01:18,565
+"seria necessário do outro lado."
+
+904
+01:01:19,242 --> 01:01:22,473
+"Passando o quarto com suas máquinas,
+e dois níveis acima..."
+
+905
+01:01:22,578 --> 01:01:24,341
+"ele foi a outro quarto..."
+
+906
+01:01:24,447 --> 01:01:27,146
+"onde tinha guardado o que chamarei
+de agora em diante..."
+
+907
+01:01:27,447 --> 01:01:29,146
+"...de Máquina de Segurança."
+
+908
+01:03:10,253 --> 01:03:12,915
+Aí está você.
+Te liguei a manhã inteira.
+
+909
+01:03:14,624 --> 01:03:15,682
+É mesmo?
+
+910
+01:03:16,659 --> 01:03:18,320
+Pro seu celular e
+seu trabalho.
+
+911
+01:03:23,800 --> 01:03:24,892
+Não estou lá.
+
+912
+01:03:25,001 --> 01:03:26,161
+É mesmo?
+
+913
+01:03:31,407 --> 01:03:32,999
+Não sei nem o que.
+
+914
+01:03:35,812 --> 01:03:37,074
+Só estou cansado.
+
+915
+01:03:37,246 --> 01:03:41,478
+Espero que não esteja dizendo que algum
+dia não seja importante na Cortex Semi.
+
+916
+01:03:54,564 --> 01:03:57,727
+"Estava vindo para te dar um
+discurso sobre a nossa..."
+
+917
+01:03:57,834 --> 01:04:00,701
+"longa amizade, e toda a
+confiança, esse negócio."
+
+918
+01:04:00,803 --> 01:04:02,270
+"Mas que tal isso?"
+
+919
+01:04:02,371 --> 01:04:06,501
+"Se matar o trabalho hoje, e prometer
+fazer algumas coisinhas que eu pedir..."
+
+920
+01:04:06,609 --> 01:04:09,373
+"eu em troca, te mostrarei
+a coisa mais importante..."
+
+921
+01:04:09,478 --> 01:04:12,072
+"que qualquer ser vivo
+jamais testemunhou."
+
+922
+01:04:13,649 --> 01:04:17,745
+"A essa altura, discutiriam um pouco."
+
+923
+01:04:20,289 --> 01:04:23,315
+"Abe, é claro, iria
+querer saber como."
+
+924
+01:04:25,428 --> 01:04:28,727
+"Aaron teria que explicar tudo
+sobre a listagem do armazém..."
+
+925
+01:04:28,831 --> 01:04:32,289
+"e como mostrava dois quartos
+no nome de Abram Terger."
+
+926
+01:04:32,668 --> 01:04:35,796
+"Depois, Abe precisaria
+saber como."
+
+927
+01:04:37,240 --> 01:04:39,401
+"Aaron explicaria que
+quando foi ali..."
+
+928
+01:04:39,508 --> 01:04:41,373
+"e encontrou a máquina de
+segurança funcionando..."
+
+929
+01:04:41,477 --> 01:04:43,570
+"sabia exatamente o que era."
+
+930
+01:04:44,780 --> 01:04:47,044
+"Mas Abe perguntaria como."
+
+931
+01:04:47,850 --> 01:04:50,751
+"E o lance sobre o desenho
+modulado dos caixões..."
+
+932
+01:04:50,853 --> 01:04:51,619
+"e como isso significava..."
+
+933
+01:04:51,703 --> 01:04:54,619
+"...que ele podia dobrar um
+e levar de volta dentro de outro."
+
+934
+01:04:55,091 --> 01:04:57,252
+"Não são para se usar
+apenas uma vez."
+
+935
+01:04:57,360 --> 01:04:59,920
+"São recicláveis, Aaron diria."
+
+936
+01:05:05,701 --> 01:05:07,430
+"Como? Abe perguntaria."
+
+937
+01:05:10,706 --> 01:05:13,573
+"E Aaron descreveria quão simples
+as coisas se tornam..."
+
+938
+01:05:14,410 --> 01:05:17,971
+"quando se sabe com precisão o
+que uma pessoa comerá no café..."
+
+939
+01:05:18,080 --> 01:05:20,310
+"até mesmo em um mundo
+de tampas lacradas."
+
+940
+01:05:42,905 --> 01:05:43,894
+"Como?"
+
+941
+01:05:45,374 --> 01:05:47,808
+"E aí é onde eu
+entraria na história."
+
+942
+01:05:47,910 --> 01:05:50,378
+"Ou sairía, dependendo
+da sua referência."
+
+943
+01:05:52,648 --> 01:05:56,311
+"Porque quando Aaron voltou da
+segunda vez, não foi tão fácil."
+
+944
+01:05:58,587 --> 01:06:01,112
+"Ele não esperava que eu
+armasse uma briga."
+
+945
+01:06:01,223 --> 01:06:04,386
+"E àquela altura, ele estava
+cansado demais para me vencer."
+
+946
+01:06:05,761 --> 01:06:08,594
+"Mas por motivos que só são
+evidentes para mim agora..."
+
+947
+01:06:08,831 --> 01:06:11,265
+"compreendi que ele
+simplesmente queria mais."
+
+948
+01:06:11,367 --> 01:06:14,825
+"Que tinha investido mais.
+Então fui embora."
+
+949
+01:06:15,504 --> 01:06:18,735
+"Ele já havia feito o serviço,
+que eu pretendia..."
+
+950
+01:06:18,841 --> 01:06:22,277
+"de gravar as conversas
+do dia para garantir."
+
+951
+01:06:22,478 --> 01:06:25,470
+"Graças àquele fone, ele tinha
+3 segundos de vantagem com o mundo."
+
+952
+01:06:25,581 --> 01:06:28,448
+Aaron, você precisa dormir.
+Dormir de verdade.
+
+953
+01:06:29,051 --> 01:06:31,747
+Não posso.
+Tenho meus horários.
+
+954
+01:06:33,422 --> 01:06:36,949
+"Ele só tinha que falar as
+palavras que vinham à sua cabeça..."
+
+955
+01:06:37,059 --> 01:06:39,425
+"e os que estivessem ao
+seu redor iriam obedecer."
+
+956
+01:07:00,049 --> 01:07:01,448
+"Esta é faixa 3."
+
+957
+01:07:01,550 --> 01:07:04,951
+"Abe está trazendo meu carro
+e estou indo para a quadra."
+
+958
+01:07:05,054 --> 01:07:06,214
+"Encontrarei Will lá."
+
+959
+01:07:06,322 --> 01:07:10,383
+"Vou convidá-lo para a festa e farei
+com que traga o namorado de Rachel."
+
+960
+01:07:11,093 --> 01:07:13,151
+"Will."
+-Will.
+
+961
+01:07:13,596 --> 01:07:16,427
+"Desgraçado pretensioso."
+-Desgraçado pretensioso.
+
+962
+01:07:16,531 --> 01:07:17,795
+Que diabos é isso? Seu celular?
+
+963
+01:07:17,900 --> 01:07:21,494
+-Não, é um rádio, cara.
+-Você parece do Serviço Secreto.
+
+964
+01:07:21,603 --> 01:07:23,970
+A reunião de Ariel passou para quarta.
+
+965
+01:07:24,073 --> 01:07:26,473
+Como? Que diabos estou
+fazendo aqui então?
+
+966
+01:07:26,575 --> 01:07:28,008
+Sim, já sei. Sinto muito.
+
+967
+01:07:28,110 --> 01:07:29,839
+"Belo arremesso, Aaron."
+
+968
+01:07:32,114 --> 01:07:34,139
+Na parede. Que feio, Aaron.
+
+969
+01:07:34,250 --> 01:07:36,377
+"Poderíamos ter usado isso
+semana passada contra TI."
+
+970
+01:07:36,485 --> 01:07:39,716
+Ao menos tem o golfe.
+Vi que anda praticando.
+
+971
+01:07:39,822 --> 01:07:43,519
+Vem aqui com sua gravata de $3
+e acha que pode jogar.
+
+972
+01:07:43,626 --> 01:07:46,560
+"O que vai fazer essa noite?"
+-O que vai fazer essa noite?
+
+973
+01:07:46,661 --> 01:07:48,789
+Era para eu estar em Raleigh,
+mas graças a você perdi meu vôo.
+
+974
+01:07:48,898 --> 01:07:50,160
+-Conhece o Robert?
+-Sim.
+
+975
+01:07:50,266 --> 01:07:52,757
+Tem aniversário dele hoje.
+Por que não aparece?
+
+976
+01:07:52,868 --> 01:07:56,827
+-Vou sair com meu primo.
+-Leve-o. Rachel estará lá.
+
+977
+01:07:56,939 --> 01:07:58,066
+-Que reunião!
+-Exatamente.
+
+978
+01:07:58,139 --> 01:08:00,266
+Isso vai ser divertido.
+
+979
+01:08:15,257 --> 01:08:17,418
+Acho que não vou fazer isso.
+
+980
+01:08:19,328 --> 01:08:20,420
+Por que não?
+
+981
+01:08:21,597 --> 01:08:24,930
+Porque posso pensar em várias
+formas diferentes disso acontecer...
+
+982
+01:08:25,034 --> 01:08:26,934
+e ninguém sair machucado
+de algum jeito.
+
+983
+01:08:27,036 --> 01:08:28,937
+Posso ligar pra ela e ver
+se ela quer fazer outra coisa...
+
+984
+01:08:29,039 --> 01:08:32,303
+ou melhor ainda, nem falar com ela.
+Ela nem saberá da festa.
+
+985
+01:08:32,408 --> 01:08:35,468
+Está bom por hoje. Mas e amanhã?
+E os outros dias?
+
+986
+01:08:35,578 --> 01:08:38,547
+-Eu cuido de amanhã e depois.
+-É, você sempre cuidará dela.
+
+987
+01:08:38,647 --> 01:08:40,208
+Esse cara é louco o suficiente...
+
+988
+01:08:40,247 --> 01:08:42,208
+...para entrar em um quarto
+cheio de gente balançando uma arma.
+
+989
+01:08:42,318 --> 01:08:44,786
+O que acha que ele vai fazer
+se encontrá-la sozinha?
+
+990
+01:08:44,887 --> 01:08:46,523
+Dessa forma, sabemos exatamente
+o que ocorre.
+
+991
+01:08:46,687 --> 01:08:48,323
+Temos controle absoluto disso.
+
+992
+01:08:48,424 --> 01:08:51,621
+No final da noite, o cara
+é preso e vai pra cadeia.
+
+993
+01:08:51,727 --> 01:08:54,457
+Assim que funciona.
+Suas palavras, não minhas.
+
+994
+01:08:55,097 --> 01:08:56,462
+Vamos, tem que ser você.
+
+995
+01:08:56,565 --> 01:09:00,001
+Ela disse que estava lá porque
+você disse a ela que estaria.
+
+996
+01:09:05,574 --> 01:09:08,407
+Não me diga que eu voltei
+e fiz tudo isso por nada.
+
+997
+01:09:12,781 --> 01:09:14,112
+Ele não atira?
+
+998
+01:09:15,384 --> 01:09:16,179
+Não, não atirou...
+
+999
+01:09:16,384 --> 01:09:17,979
+Ele nunca atirou, nem
+quando foi pra cima nele?
+
+1000
+01:09:18,086 --> 01:09:19,718
+Não, não atirou quando
+eu não estava lá,
+
+1001
+01:09:19,822 --> 01:09:22,586
+não atirou quando eu estava
+e fui pra cima dele...
+
+1002
+01:09:22,691 --> 01:09:24,885
+...e pelo que Robert te disse,
+ele não atirou esta noite.
+
+1003
+01:09:24,994 --> 01:09:27,794
+Ele não tem coragem.
+Nós sabemos de tudo.
+
+1004
+01:09:27,897 --> 01:09:29,455
+Certo? Somos videntes.
+
+1005
+01:09:36,405 --> 01:09:37,895
+Mesmo assim, podemos ser cuidadosos.
+
+1006
+01:09:38,007 --> 01:09:40,703
+Talvez possamos chegar
+na arma sem ele saber.
+
+1007
+01:09:41,076 --> 01:09:42,407
+Certamente.
+
+1008
+01:09:42,511 --> 01:09:46,038
+Ele deixa no caminhão antes de
+entrar. Nem precisamos mas...
+
+1009
+01:09:46,148 --> 01:09:49,709
+...se faz você se sentir melhor.
+-Qual o problema com as nossas mãos?
+
+1010
+01:09:51,954 --> 01:09:53,353
+Como assim?
+
+1011
+01:09:53,455 --> 01:09:55,719
+Por que não conseguimos
+escrever como pessoas normais?
+
+1012
+01:09:58,127 --> 01:10:00,721
+Não sei. Consigo ver as letras.
+
+1013
+01:10:02,831 --> 01:10:04,232
+Sei como deveriam ser,
+só não consigo...
+
+1014
+01:10:04,331 --> 01:10:07,632
+...fazer com que minha mão
+as escrevam facilmente.
+
+1015
+01:10:08,270 --> 01:10:11,564
+Tente comparar com a mão esquerda.
+Com a minha, fica a mesma coisa.
+
+1016
+01:10:21,770 --> 01:10:23,164
+Oi, Rachel.
+
+1017
+01:10:31,327 --> 01:10:33,591
+Adivinha que dia é hoje.
+
+1018
+01:10:36,065 --> 01:10:38,556
+Não, não. É aniversário
+do seu amigo Robert.
+
+1019
+01:10:40,002 --> 01:10:42,800
+Ele diz que gosta de discos,
+então comprei "O Melhor de Bread".
+
+1020
+01:10:42,905 --> 01:10:44,668
+Não, discos de
+verdade, de vinil.
+
+1021
+01:10:45,007 --> 01:10:49,273
+"Posso dizer com certeza o que fiz
+naquela noite, quando era minha vez."
+
+1022
+01:10:50,079 --> 01:10:54,243
+"Mas acho que não ajudaria,
+porque o que o mundo se lembra..."
+
+1023
+01:10:54,350 --> 01:10:58,047
+"a realidade, a última revisão
+é o que conta, aparentemente."
+
+1024
+01:10:59,255 --> 01:11:01,587
+"Então quantas vezes Aaron levou..."
+
+1025
+01:11:01,690 --> 01:11:04,284
+"enquanto fazia o ciclo
+das mesmas conversas..."
+
+1026
+01:11:04,393 --> 01:11:06,827
+"a fazer a sincronização
+labial continuamente?"
+
+1027
+01:11:07,296 --> 01:11:10,561
+"Quantas vezes levaria
+até fazer corretamente?"
+
+1028
+01:11:10,699 --> 01:11:12,530
+"3? 4?"
+
+1029
+01:11:13,702 --> 01:11:14,862
+"20?"
+
+1030
+01:11:16,071 --> 01:11:19,336
+"Decidi acreditar que só
+mais uma bastaria."
+
+1031
+01:11:19,441 --> 01:11:22,433
+"Quase posso dormir de noite
+se só tiver mais uma."
+
+1032
+01:11:23,312 --> 01:11:27,476
+"Lenta e metodicamente, ele
+reconstruiu um momento perfeito."
+
+1033
+01:11:29,785 --> 01:11:32,276
+"Pegou das redondezas
+o que era preciso..."
+
+1034
+01:11:32,388 --> 01:11:34,583
+"e transformou em algo mais."
+
+1035
+01:11:47,136 --> 01:11:50,367
+"E uma vez que os detalhes
+haviam sido arranjados com sucesso..."
+
+1036
+01:11:50,472 --> 01:11:53,737
+"não haveria mais nada a fazer,
+a não ser esperar pelo conflito."
+
+1037
+01:11:58,480 --> 01:12:01,278
+"Talvez o esperado debate moral
+do último minuto..."
+
+1038
+01:12:01,383 --> 01:12:04,147
+"até que os ruídos do quarto
+aumentassem até o pânico..."
+
+1039
+01:12:04,253 --> 01:12:07,450
+"e os gritos de fundo
+enquanto o atirador entra."
+
+1040
+01:12:08,857 --> 01:12:10,725
+"E eventualmente, ele deve ter
+conseguido perfeitamente..."
+
+1041
+01:12:10,857 --> 01:12:12,725
+"e deve ter sido lindo..."
+
+1042
+01:12:12,828 --> 01:12:15,524
+"com todos elogios e
+adorações que teria."
+
+1043
+01:12:15,631 --> 01:12:18,156
+"Ele provavelmente tinha salvado
+vidas, no fim das contas."
+
+1044
+01:12:20,002 --> 01:12:23,233
+"Quem sabe o que teria acontecido
+se ele não estivesse lá?"
+
+1045
+01:12:38,220 --> 01:12:40,620
+Sei que as coisas
+estão mal, certo?
+
+1046
+01:12:42,424 --> 01:12:45,291
+Sei que não concorda
+com o que eu fiz.
+
+1047
+01:12:45,961 --> 01:12:47,053
+Sei que está chateado.
+
+1048
+01:12:47,162 --> 01:12:50,791
+E para ser honesto, também não
+estou muito feliz com você.
+
+1049
+01:12:51,400 --> 01:12:54,233
+Mas sabe que isso vai passar.
+Vamos lá.
+
+1050
+01:12:54,336 --> 01:12:57,271
+Vamos para algum lugar onde
+não falemos o idioma.
+
+1051
+01:12:57,373 --> 01:12:59,398
+Aaron, não temos dinheiro aqui...
+
+1052
+01:12:59,508 --> 01:13:01,339
+e teríamos que roubar
+nossos passaportes.
+
+1053
+01:13:01,443 --> 01:13:03,343
+Dinheiro? Ganharemos dinheiro.
+
+1054
+01:13:03,612 --> 01:13:05,773
+Tem apostas em Las Vegas.
+Torneio de março.
+
+1055
+01:13:05,881 --> 01:13:08,816
+Ganharemos o bastante em uma noite
+para financiar milhares de férias.
+
+1056
+01:13:08,917 --> 01:13:11,977
+Passaportes. Sabe que eles não
+estão usando o deles mesmo.
+
+1057
+01:13:12,788 --> 01:13:14,881
+Vamos. Estou pensando em Star City.
+
+1058
+01:13:14,990 --> 01:13:17,424
+Visitar os campos de
+treinamento dos cosmonautas.
+
+1059
+01:13:17,659 --> 01:13:19,183
+Vou ficar aqui.
+
+1060
+01:13:20,129 --> 01:13:21,187
+Por quê?
+
+1061
+01:13:31,473 --> 01:13:33,407
+Eles irão construir suas
+próprias caixas qualquer dia.
+
+1062
+01:13:33,609 --> 01:13:36,239
+E o seu já sabe
+o que eles construíram.
+
+1063
+01:13:36,345 --> 01:13:39,508
+Não vai poder observá-los
+para sempre.
+
+1064
+01:13:40,616 --> 01:13:42,743
+A caixa que Abe está
+construindo não funcionará.
+
+1065
+01:13:43,285 --> 01:13:45,014
+Ele conectou os fios errado.
+
+1066
+01:13:45,721 --> 01:13:47,245
+E se eles consertarem isso...
+
+1067
+01:13:47,356 --> 01:13:50,325
+eu começarei a tirar partes.
+É só um dispositivo.
+
+1068
+01:13:50,426 --> 01:13:51,586
+Não funciona mais.
+
+1069
+01:13:51,693 --> 01:13:54,491
+Sua dupla dirá que eles têm
+que continuar com outra coisa.
+
+1070
+01:13:54,663 --> 01:13:56,528
+E a minha irá concordar.
+Eles são amigos.
+
+1071
+01:13:56,632 --> 01:13:58,429
+Vai ficar? Por quê?
+
+1072
+01:13:58,634 --> 01:14:00,625
+Por quê? Vejamos, por
+que Abe iria ficar?
+
+1073
+01:14:00,736 --> 01:14:03,728
+Que motivo poderia haver
+para ficar aqui?
+
+1074
+01:14:06,241 --> 01:14:09,677
+Suponho que ela não volta
+o suficiente, não é?
+
+1075
+01:14:11,113 --> 01:14:14,742
+Escuta, por que não pega Kara
+e Lauren e as coloca na caixa...
+
+1076
+01:14:14,851 --> 01:14:17,813
+e aí você e Aaron podem ficar cada um
+com uma, e os dois terão fraquezas...
+
+1077
+01:14:17,852 --> 01:14:19,014
+...e você pode parar
+de alimentar isso.
+
+1078
+01:14:19,121 --> 01:14:21,954
+-Não volte.
+-Cada um fica com uma e um hemisfério.
+
+1079
+01:14:22,057 --> 01:14:24,992
+Acho que nunca houve um motivo de te
+mostrar do que sou capaz...
+
+1080
+01:14:25,093 --> 01:14:27,425
+mas vou te falar agora.
+Vá embora...
+
+1081
+01:14:27,529 --> 01:14:31,021
+e faça o que você quiser.
+Não posso pará-lo de forma alguma.
+
+1082
+01:14:31,133 --> 01:14:32,828
+Mas não volte pra cá...
+
+1083
+01:14:32,935 --> 01:14:34,903
+e não chegue perto delas.
+
+1084
+01:14:36,038 --> 01:14:37,164
+Nenhuma delas.
+
+1085
+01:14:52,855 --> 01:14:55,585
+"Agora que paguei qualquer dívida
+que pudesse ter com você..."
+
+1086
+01:14:56,225 --> 01:14:57,920
+"você sabe tudo que eu sei."
+
+1087
+01:14:58,293 --> 01:15:01,820
+"Minha voz é a única prova que
+terá da verdade de tudo isso."
+
+1088
+01:15:01,930 --> 01:15:04,626
+"Eu poderia ter escrito uma carta
+com a minha assinatura..."
+
+1089
+01:15:04,733 --> 01:15:07,258
+"mas minha escrita já não
+é o que costumava ser."
+
+1090
+01:15:09,771 --> 01:15:12,501
+"Talvez você teve a
+desenvoltura de gravar isso."
+
+1091
+01:15:12,608 --> 01:15:14,132
+"Essa é sua prerrogativa."
+
+1092
+01:15:14,243 --> 01:15:16,234
+"Você não será contactado
+por mim novamente."
+
+1093
+01:15:16,345 --> 01:15:17,539
+Bom dia.
+
+1094
+01:15:20,115 --> 01:15:21,412
+Cada meio-metro.
+
+1095
+01:15:23,318 --> 01:15:24,615
+Em todo lugar.
+
+1096
+01:15:26,522 --> 01:15:29,116
+"E se procurarem,
+não me encontrará."
+

@@ -1,0 +1,4560 @@
+1
+00:01:42,370 --> 00:01:44,997
+9 de agosto, 14:30
+Horário de Greenwich.
+
+2
+00:01:45,206 --> 00:01:47,541
+O HMS Churchill, segue rumo.
+
+3
+00:01:47,542 --> 00:01:50,203
+A bordo, uma equipe de
+ingleses e americanos.
+
+4
+00:01:50,411 --> 00:01:54,644
+Sua missão: interceptar
+e estudar o cometa Halley.
+
+5
+00:01:54,850 --> 00:01:58,649
+A Churchill é a primeira nave
+equipada com o motor Nerva.
+
+6
+00:01:58,853 --> 00:02:01,516
+Ele impulsiona a nave com
+aceleração constante...
+
+7
+00:02:01,723 --> 00:02:05,251
+...para criar gravidade pela
+primeira vez num vôo prolongado.
+
+8
+00:02:05,461 --> 00:02:09,624
+A Churchill está a
+caminho de seu encontro.
+
+9
+00:02:09,832 --> 00:02:12,459
+- Senhor, isso é estranho.
+- O quê?
+
+10
+00:02:12,667 --> 00:02:14,301
+Captei um pequeno radar
+de sessão cruzada...
+
+11
+00:02:14,302 --> 00:02:17,328
+...bem na frente do
+núcleo, na coma do cometa.
+
+12
+00:02:17,539 --> 00:02:21,635
+Cheque a extensão. Está no
+limite do meu ângulo de varredura.
+
+13
+00:02:21,842 --> 00:02:24,012
+- O que está havendo?
+- Está checando o equipamento?
+
+14
+00:02:24,013 --> 00:02:25,714
+A cada cinco minutos.
+
+15
+00:02:25,715 --> 00:02:28,478
+- O radar mostra 240km.
+- 240km de quê?
+
+16
+00:02:28,683 --> 00:02:31,551
+- De extensão.
+- 240km de comprimento?
+
+17
+00:02:32,955 --> 00:02:34,722
+O que tem 240km de comprimento?
+
+18
+00:02:34,723 --> 00:02:36,457
+É um sinal de radar.
+
+19
+00:02:36,458 --> 00:02:39,860
+- Alguma coisa na coma
+do cometa. - Deixe-me ver.
+
+20
+00:02:40,062 --> 00:02:43,327
+- EGR confirmado.
+- Isso é bom.
+
+21
+00:02:43,533 --> 00:02:45,033
+EGR favorável.
+
+22
+00:02:45,034 --> 00:02:46,668
+Rastreamento três em três.
+
+23
+00:02:46,669 --> 00:02:49,104
+Entendido.
+
+24
+00:02:49,105 --> 00:02:51,172
+Qual é a altura?
+
+25
+00:02:51,173 --> 00:02:54,335
+Tenho uma leitura
+vertical de pelo menos 3km.
+
+26
+00:02:54,544 --> 00:02:56,978
+Temperatura ambiente: 6 graus.
+
+27
+00:02:56,979 --> 00:02:59,414
+Menos de 2% de traços
+de manganês, titânio...
+
+28
+00:02:59,415 --> 00:03:00,916
+Tente falar com a base.
+
+29
+00:03:00,917 --> 00:03:03,612
+Avise sobre o objeto
+artificial escondido aqui...
+
+30
+00:03:03,819 --> 00:03:07,449
+- Quer mesmo dizer ''escondido''?
+- Está na cabeça do cometa.
+
+31
+00:03:07,656 --> 00:03:10,285
+Continue transmitindo
+até que confirmem contato.
+
+32
+00:03:10,493 --> 00:03:12,327
+Use um canal seguro.
+
+33
+00:03:12,328 --> 00:03:15,229
+Desculpe, comandante,
+tudo é captado pela coma.
+
+34
+00:03:15,431 --> 00:03:17,566
+Não há como contactar a base.
+
+35
+00:03:17,567 --> 00:03:19,668
+Quanto tempo vai durar isso?
+
+36
+00:03:19,669 --> 00:03:22,219
+O tempo todo.
+
+37
+00:03:33,381 --> 00:03:35,851
+O que vai fazer?
+
+38
+00:03:35,852 --> 00:03:38,402
+Vamos entrar.
+
+39
+00:03:39,622 --> 00:03:42,172
+Só teremos uma
+chance, Derebridge.
+
+40
+00:03:43,292 --> 00:03:46,820
+Essa coisa não vai voltar
+nos próximos 76 anos...
+
+41
+00:03:47,030 --> 00:03:49,580
+...e já estaremos mortos.
+
+42
+00:03:49,701 --> 00:03:52,251
+Temos que olhar agora.
+
+43
+00:04:01,511 --> 00:04:04,706
+- Desligar o Nerva.
+- Desligando.
+
+44
+00:04:04,915 --> 00:04:07,465
+Descer.
+
+45
+00:04:10,620 --> 00:04:13,170
+GRAVIDADE ZERO
+
+46
+00:04:17,594 --> 00:04:21,530
+- Painéis solares recolhidos.
+- Checado. Me dê a leitura, Bob.
+
+47
+00:04:56,934 --> 00:04:59,484
+Executando manobra de AEV.
+
+48
+00:05:12,415 --> 00:05:15,010
+De onde acha que
+veio essa coisa?
+
+49
+00:05:16,452 --> 00:05:20,286
+- Estava explorando o cometa?
+- Vamos lá pessoal.
+
+50
+00:05:21,590 --> 00:05:23,827
+A superfície parece desgastada.
+
+51
+00:05:23,828 --> 00:05:26,796
+Neste caso, está
+aqui há muito tempo.
+
+52
+00:05:26,997 --> 00:05:29,165
+O que for, está abandonado.
+
+53
+00:05:29,166 --> 00:05:32,134
+A postos, Churchill.
+Estamos entrando.
+
+54
+00:05:32,337 --> 00:05:35,533
+Câmbio, Carlsen.
+Entendido. Entrando.
+
+55
+00:05:38,608 --> 00:05:42,909
+Churchill, parece uma espécie
+de artéria orgânica gigante.
+
+56
+00:05:43,779 --> 00:05:46,544
+Quase sinto que já
+estive aqui antes.
+
+57
+00:05:50,620 --> 00:05:53,170
+Minha nossa!
+
+58
+00:05:59,062 --> 00:06:01,612
+Isso é incrível.
+
+59
+00:06:01,631 --> 00:06:04,759
+Espero que captem a
+escala disso no vídeo.
+
+60
+00:06:04,969 --> 00:06:07,519
+Estamos gravando.
+Está tudo na fita.
+
+61
+00:06:11,509 --> 00:06:13,076
+Merda.
+
+62
+00:06:13,077 --> 00:06:16,012
+Aqui estão eles.
+
+63
+00:06:24,689 --> 00:06:26,288
+Churchill...
+
+64
+00:06:26,289 --> 00:06:29,282
+...parece que encontramos
+os ocupantes da nave.
+
+65
+00:06:30,727 --> 00:06:34,595
+Parecem morcegos.
+Morcegos gigantes.
+
+66
+00:06:44,476 --> 00:06:49,413
+- Deve haver centenas deles.
+- Milhares.
+
+67
+00:06:49,615 --> 00:06:52,165
+Mortos, eu espero.
+
+68
+00:07:07,999 --> 00:07:10,549
+Parecem pré-históricos.
+
+69
+00:07:17,942 --> 00:07:20,492
+Estão completamente ressecados.
+
+70
+00:07:24,483 --> 00:07:29,045
+- Esfacelando.
+- Sim, pode ser.
+
+71
+00:07:29,253 --> 00:07:32,416
+O fluido foi jogado no
+espaço ao longo dos anos.
+
+72
+00:07:40,732 --> 00:07:43,665
+Vamos pegar este
+e levá-lo conosco.
+
+73
+00:07:43,868 --> 00:07:47,598
+Estamos mandando o
+saco com o espécime.
+
+74
+00:08:05,225 --> 00:08:06,791
+Meu Deus!
+
+75
+00:08:06,792 --> 00:08:09,453
+Que droga é essa?
+
+76
+00:08:10,061 --> 00:08:11,629
+Comandante...
+
+77
+00:08:11,630 --> 00:08:14,065
+...algo acaba de sair da nave.
+
+78
+00:08:14,066 --> 00:08:17,967
+Uma espécie de estrutura
+que acaba de se abrir.
+
+79
+00:08:18,169 --> 00:08:20,719
+É enorme.
+
+80
+00:08:20,973 --> 00:08:24,068
+Deus, o que é isso?
+
+81
+00:08:31,183 --> 00:08:32,683
+Precisamos sair daqui.
+
+82
+00:08:32,684 --> 00:08:35,234
+Ninguém sai. Fiquem onde estão.
+
+83
+00:08:35,920 --> 00:08:39,119
+Churchill, aqui é Carlsen.
+O que está havendo?
+
+84
+00:08:39,324 --> 00:08:41,091
+A coisa parou de abrir.
+
+85
+00:08:41,092 --> 00:08:45,189
+A única forma de descrevê-la
+é... é um guarda-chuva gigante.
+
+86
+00:08:45,397 --> 00:08:49,196
+Meu Deus! É
+absolutamente enorme.
+
+87
+00:08:49,400 --> 00:08:51,950
+O que ela está fazendo agora?
+
+88
+00:08:52,237 --> 00:08:54,787
+Nada, senhor.
+
+89
+00:08:57,610 --> 00:08:59,409
+Parou de abrir.
+
+90
+00:08:59,410 --> 00:09:01,712
+Está apenas parada.
+
+91
+00:09:01,713 --> 00:09:05,444
+- Não sabe dizer do que é feita?
+- Não é de metal.
+
+92
+00:09:05,652 --> 00:09:08,202
+É invisível ao radar.
+
+93
+00:09:09,520 --> 00:09:11,424
+Está certo.
+
+94
+00:09:11,425 --> 00:09:13,724
+Se começar de novo, me avise.
+
+95
+00:09:13,725 --> 00:09:16,194
+Qualquer coisa que
+faça, entendido?
+
+96
+00:09:16,195 --> 00:09:18,745
+Sim, senhor.
+
+97
+00:09:25,771 --> 00:09:28,321
+É para lá que vamos.
+
+98
+00:10:26,633 --> 00:10:29,183
+Tem alguma coisa ali.
+
+99
+00:10:29,301 --> 00:10:31,670
+Comandante, aqui é a Churchill.
+
+100
+00:10:31,671 --> 00:10:34,504
+Estamos perdendo seu
+sinal. Perdemos o vídeo.
+
+101
+00:10:34,708 --> 00:10:37,258
+Responda, comandante!
+
+102
+00:10:54,794 --> 00:10:57,661
+São corpos. Três corpos.
+
+103
+00:10:57,865 --> 00:11:00,415
+Perfeitamente preservados.
+
+104
+00:11:02,202 --> 00:11:05,227
+Para mim, eles se parecem com...
+
+105
+00:11:05,439 --> 00:11:08,374
+Está acontecendo algo comigo.
+
+106
+00:11:08,576 --> 00:11:11,976
+O que há de errado comigo?
+
+107
+00:11:26,628 --> 00:11:28,194
+Comandante, responda.
+
+108
+00:11:28,195 --> 00:11:31,060
+Aqui é a Churchill.
+Está me ouvindo?
+
+109
+00:11:35,134 --> 00:11:38,662
+Estão como que em suspensão
+de animação ou sono.
+
+110
+00:11:38,872 --> 00:11:41,422
+Espere. Estamos descendo.
+
+111
+00:12:03,431 --> 00:12:06,398
+Churchill, se estiver ouvindo...
+
+112
+00:12:06,599 --> 00:12:09,627
+...há dois homens
+e uma mulher nus.
+
+113
+00:12:09,837 --> 00:12:14,274
+Aqui é a Churchill. Não
+temos imagem. Responda, Tom.
+
+114
+00:12:14,474 --> 00:12:19,242
+Churchill, acho que
+encontramos uma jovem.
+
+115
+00:12:19,446 --> 00:12:22,175
+''Jovem''? Quer
+dizer, uma humana?
+
+116
+00:12:22,382 --> 00:12:24,851
+Definitivamente humanóide.
+
+117
+00:12:24,852 --> 00:12:26,855
+Diria que ela é perfeita.
+
+118
+00:12:26,856 --> 00:12:30,221
+Estou no espaço há 6 meses.
+Para mim, ela é perfeita.
+
+119
+00:12:36,029 --> 00:12:40,090
+- Derebridge, o que há de errado?
+- O que houve?
+
+120
+00:12:52,479 --> 00:12:57,041
+- Quantos quer levar?
+- Levaremos os três...
+
+121
+00:12:57,251 --> 00:13:00,278
+...e uma dessas coisas
+mortas para a outra câmara.
+
+122
+00:13:00,523 --> 00:13:04,218
+Bem, vejamos se
+podemos libertá-los.
+
+123
+00:13:21,877 --> 00:13:24,427
+TRINTA DIAS DEPOIS
+
+124
+00:13:24,845 --> 00:13:29,146
+Churchill, é a Base, na
+Grã-Bretanha. Estão me ouvindo?
+
+125
+00:13:29,350 --> 00:13:31,911
+Se querem pegar nosso sinal,
+deviam chegar mais perto.
+
+126
+00:13:32,122 --> 00:13:34,422
+Simplesmente não
+recebem, Dr. Bukovsky.
+
+127
+00:13:34,423 --> 00:13:37,391
+Os circuitos automáticos
+não respondem.
+
+128
+00:13:38,526 --> 00:13:40,793
+Perdemos o contato.
+
+129
+00:13:40,794 --> 00:13:44,559
+Meu Deus, espero que
+seja só o contato.
+
+130
+00:13:56,211 --> 00:13:58,112
+Como está a órbita deles?
+
+131
+00:13:58,113 --> 00:14:01,411
+Está estável, mas estão
+levemente fora dela.
+
+132
+00:14:01,615 --> 00:14:03,116
+Já deviam ter
+ajustado para voltar...
+
+133
+00:14:03,117 --> 00:14:04,751
+...mas não ajustaram.
+
+134
+00:14:04,752 --> 00:14:06,253
+O que o faz pensar isso?
+
+135
+00:14:06,254 --> 00:14:08,690
+Veríamos que
+estabeleceram o curso...
+
+136
+00:14:08,691 --> 00:14:12,887
+...após deixarem o cometa, mas
+não recebemos a atualização.
+
+137
+00:14:18,498 --> 00:14:21,698
+- A Columbia?
+- A Columbia.
+
+138
+00:14:21,904 --> 00:14:25,032
+Temos um lançamento.
+
+139
+00:14:30,378 --> 00:14:32,928
+Torre livre.
+
+140
+00:14:42,390 --> 00:14:44,826
+Controle, aqui é a Columbia.
+
+141
+00:14:44,827 --> 00:14:46,927
+Estamos autorizados
+para atracar?
+
+142
+00:14:46,928 --> 00:14:49,478
+Vá em frente, Columbia.
+Parece tudo bem.
+
+143
+00:14:49,530 --> 00:14:52,080
+A postos para atracar.
+
+144
+00:14:53,103 --> 00:14:55,653
+Atracar.
+
+145
+00:14:57,638 --> 00:15:00,188
+Atracação confirmada.
+
+146
+00:16:11,347 --> 00:16:14,510
+Columbia, a nave está
+completamente vazia.
+
+147
+00:16:14,719 --> 00:16:16,284
+Meu Deus!
+
+148
+00:16:16,285 --> 00:16:20,449
+Houston, temos um
+problema. Houve um incêndio.
+
+149
+00:16:25,527 --> 00:16:29,189
+Vamos ao compartimento do
+rebocador. Tentem o convés superior.
+
+150
+00:16:55,693 --> 00:16:58,243
+Columbia, estão todos mortos.
+
+151
+00:16:59,295 --> 00:17:02,319
+Não há nada aqui. Vou
+entrar no compartimento.
+
+152
+00:17:05,669 --> 00:17:08,219
+Vou pegar as fitas.
+
+153
+00:17:38,069 --> 00:17:39,635
+Somner...
+
+154
+00:17:39,636 --> 00:17:42,186
+...há algo que precisa ver.
+
+155
+00:17:51,716 --> 00:17:56,312
+CENTRO DE PESQUISA
+ESPACIAL LONDRES
+
+156
+00:17:57,854 --> 00:18:02,292
+Entendo. Como abriram
+o caixão da garota?
+
+157
+00:18:02,491 --> 00:18:04,294
+Não abrimos, ministro.
+
+158
+00:18:04,295 --> 00:18:07,958
+Estávamos analisando como
+abri-lo quando abriu sozinho.
+
+159
+00:18:08,165 --> 00:18:11,328
+- Fez raio-X dos caixões?
+- Não sabemos se é cristal.
+
+160
+00:18:11,534 --> 00:18:14,868
+Os caixões não são de metal.
+Nem sei se são orgânicos.
+
+161
+00:18:15,072 --> 00:18:18,529
+O caixão está bem ali, na
+nossa frente, sem estar lá...
+
+162
+00:18:18,742 --> 00:18:21,292
+- ...se é que isso faz sentido.
+- E os corpos?
+
+163
+00:18:22,346 --> 00:18:24,896
+Faremos a primeira
+dissecação agora.
+
+164
+00:18:25,850 --> 00:18:28,647
+Desde que o Dr.
+Fallada declare a morte.
+
+165
+00:18:33,490 --> 00:18:36,459
+Não sei como declarar
+a morte de um ET.
+
+166
+00:18:36,660 --> 00:18:39,210
+Concorda que estão
+menos vivos do que nós?
+
+167
+00:18:40,665 --> 00:18:44,963
+Ontem, em Hong Kong,
+o ouro fechou em baixa.
+
+168
+00:18:45,168 --> 00:18:47,899
+No mercado inconstante
+das moedas européias...
+
+169
+00:18:48,105 --> 00:18:50,869
+...a libra fechou em baixa
+contra o dólar e o marco.
+
+170
+00:18:53,143 --> 00:18:56,136
+Um relatório do mercado
+seguirá as notícias.
+
+171
+00:18:56,347 --> 00:18:59,544
+Aqui é James Graham
+para o jornal local.
+
+172
+00:18:59,750 --> 00:19:02,300
+E agora, voltando às notícias.
+
+173
+00:19:08,424 --> 00:19:10,925
+O cometa Halley agora
+domina o céu setentrional...
+
+174
+00:19:10,926 --> 00:19:13,464
+...estendendo-se por 160
+milhões de quilômetros no céu...
+
+175
+00:19:13,465 --> 00:19:16,490
+...ocupando um sexto
+do horizonte visível.
+
+176
+00:19:16,700 --> 00:19:19,068
+Nesta noite
+excepcionalmente clara...
+
+177
+00:19:19,069 --> 00:19:22,596
+...um grupo de entusiastas comemora
+a maior previsão do Dr. Halley...
+
+178
+00:19:22,806 --> 00:19:26,606
+...observando o cometa ao ar
+livre, do observatório de Greenwich.
+
+179
+00:19:26,809 --> 00:19:28,811
+Nossos observadores podem
+se interessar em saber...
+
+180
+00:19:28,812 --> 00:19:32,375
+...que os cometas já foram
+vistos como o arauto da maldade.
+
+181
+00:19:32,584 --> 00:19:35,281
+Um dos primeiros nomes dos
+cometas foi ''desastre''...
+
+182
+00:19:35,487 --> 00:19:37,888
+...que, em latim, significa
+''estrela do mal''.
+
+183
+00:19:37,889 --> 00:19:41,790
+E ele foi a estrela do mal
+para a sonda espacial Churchill.
+
+184
+00:19:41,992 --> 00:19:45,485
+O governo não informou
+se a tripulação...
+
+185
+00:19:45,697 --> 00:19:47,598
+...está viva ou morta.
+
+186
+00:19:47,599 --> 00:19:50,149
+Só podemos esperar o
+desenrolar dos acontecimentos...
+
+187
+00:23:10,902 --> 00:23:13,452
+Use meu corpo.
+
+188
+00:23:48,341 --> 00:23:50,900
+- Onde está a garota?
+- Ela sumiu.
+
+189
+00:23:54,581 --> 00:23:57,131
+Eu a vi.
+
+190
+00:24:00,586 --> 00:24:03,136
+Ela fez isso.
+
+191
+00:24:06,094 --> 00:24:08,593
+- Segurança.
+- Aqui é o Prof. Fallada.
+
+192
+00:24:08,594 --> 00:24:10,795
+Ligo a mando do Dr. Bukovsky.
+
+193
+00:24:10,796 --> 00:24:14,528
+- Chame o chefe da segurança.
+- Sim, senhor.
+
+194
+00:24:14,734 --> 00:24:16,234
+Não se preocupe.
+
+195
+00:24:16,235 --> 00:24:19,534
+Nenhuma garota nua
+sairá deste complexo.
+
+196
+00:24:57,178 --> 00:25:01,079
+Quatro-nove para controle.
+Não acreditarão no que vejo.
+
+197
+00:25:04,017 --> 00:25:07,214
+- Controle, pode repetir?
+- Acho que ouviu.
+
+198
+00:25:07,420 --> 00:25:10,447
+Tem uma garota andando pelo
+prédio. Ela não pode sair.
+
+199
+00:25:10,657 --> 00:25:13,207
+Desculpe, mas achei
+que disse que está nua?
+
+200
+00:25:13,393 --> 00:25:16,122
+Foi o que disse. Com
+certeza pode achá-la.
+
+201
+00:25:16,330 --> 00:25:18,880
+Deve ser alguma piada.
+
+202
+00:25:24,070 --> 00:25:26,620
+Não acredito.
+
+203
+00:25:28,042 --> 00:25:30,343
+Muito bem, moça, parada bem aí.
+
+204
+00:25:30,344 --> 00:25:32,379
+Ouviu o que disseram.
+Mandaram pegá-la.
+
+205
+00:25:32,380 --> 00:25:35,314
+Devagar, companheiro.
+Ela não está bem.
+
+206
+00:25:35,516 --> 00:25:38,883
+Controle, localizamos a
+garota no saguão principal.
+
+207
+00:25:40,287 --> 00:25:42,837
+É isso. Vem!
+
+208
+00:25:43,423 --> 00:25:45,591
+- Sim?
+- Localizamos a garota, senhor.
+
+209
+00:25:45,592 --> 00:25:48,061
+- Onde?
+- No saguão principal.
+
+210
+00:25:48,062 --> 00:25:49,930
+Certo.
+
+211
+00:25:49,931 --> 00:25:54,197
+Está no saguão principal.
+Está bem para descer?
+
+212
+00:25:55,402 --> 00:25:57,837
+Bem devagar.
+
+213
+00:25:57,838 --> 00:26:01,329
+Vem. Vem para mim.
+
+214
+00:26:01,542 --> 00:26:04,092
+Vem para o papai.
+
+215
+00:26:13,587 --> 00:26:16,137
+Faça essa coisa parar.
+
+216
+00:26:16,224 --> 00:26:18,774
+Vamos! Vamos pegá-la!
+
+217
+00:27:05,507 --> 00:27:08,057
+- Você está bem, cara?
+- Estou.
+
+218
+00:27:30,432 --> 00:27:35,368
+Todo pessoal não-militar,
+favor abandonar a área.
+
+219
+00:27:35,671 --> 00:27:39,869
+Repito: quem não tiver
+por que estar aqui...
+
+220
+00:27:40,074 --> 00:27:43,875
+...abandone a área para
+a própria segurança.
+
+221
+00:27:44,079 --> 00:27:46,629
+Este é um comunicado da polícia.
+
+222
+00:27:49,284 --> 00:27:52,582
+Desculpe, senhores,
+nada de fotos, por favor.
+
+223
+00:27:54,123 --> 00:27:56,024
+Tudo bem.
+
+224
+00:27:56,025 --> 00:28:00,120
+- Qual é o Dr. Bukovsky?
+- Eu.
+
+225
+00:28:00,329 --> 00:28:03,321
+- Sou o Coronel Caine.
+- Do S.A.E.?
+
+226
+00:28:03,531 --> 00:28:07,468
+Não publiquem a última observação.
+Este é um assunto de defesa.
+
+227
+00:28:21,917 --> 00:28:24,467
+Não tão perto.
+
+228
+00:28:27,089 --> 00:28:30,685
+Foi um assassinato, você disse?
+
+229
+00:28:36,099 --> 00:28:38,692
+Conte de novo como
+a garota o dominou.
+
+230
+00:28:40,935 --> 00:28:43,485
+Ela...
+
+231
+00:28:45,273 --> 00:28:48,869
+Foi a presença feminina
+mais irresistível que já vi.
+
+232
+00:28:50,279 --> 00:28:53,304
+- Fui atraído a ela num nível.
+- Sexual?
+
+233
+00:28:53,516 --> 00:28:57,316
+Sim, irresistivelmente.
+
+234
+00:28:57,520 --> 00:29:01,354
+E horrível. Perdi o controle.
+
+235
+00:29:01,556 --> 00:29:03,625
+O guarda estava morto
+quando entrou na sala?
+
+236
+00:29:03,626 --> 00:29:06,856
+- Encontrou-o como
+está agora? - Sim.
+
+237
+00:29:07,064 --> 00:29:10,156
+E a garota veio da
+nave, da Churchill?
+
+238
+00:29:10,365 --> 00:29:11,965
+Uh-huh.
+
+239
+00:29:11,966 --> 00:29:15,336
+Ela falou com
+você. Foi em inglês?
+
+240
+00:29:15,538 --> 00:29:17,139
+Exatamente.
+
+241
+00:29:17,140 --> 00:29:19,767
+Como saberia inglês?
+
+242
+00:29:19,975 --> 00:29:23,775
+Disse que as fitas foram
+destruídas no incêndio.
+
+243
+00:29:23,980 --> 00:29:25,981
+Não foram destruídas
+no incêndio.
+
+244
+00:29:25,982 --> 00:29:28,532
+Nos mandaram anunciar
+que foram apagadas.
+
+245
+00:29:28,651 --> 00:29:30,151
+Apagadas?
+
+246
+00:29:30,152 --> 00:29:32,486
+A cápsula de salvamento
+também desapareceu.
+
+247
+00:29:32,487 --> 00:29:35,037
+- Alguém escapou?
+- Não sabemos.
+
+248
+00:29:35,191 --> 00:29:37,325
+Infelizmente, a
+condição dos corpos...
+
+249
+00:29:37,326 --> 00:29:39,876
+...torna impossível
+uma conta acurada.
+
+250
+00:29:39,996 --> 00:29:42,546
+O calor do fogo pode
+ter lançado a cápsula?
+
+251
+00:29:46,269 --> 00:29:48,819
+O que começou o fogo?
+
+252
+00:29:50,840 --> 00:29:55,641
+O sistema de oxigênio da nave.
+Foi um fogo muito intenso.
+
+253
+00:29:55,844 --> 00:30:00,579
+Mas diz que os três caixões
+com os corpos estavam intactos.
+
+254
+00:30:00,783 --> 00:30:03,019
+- Correto.
+- Onde foram encontrados?
+
+255
+00:30:03,020 --> 00:30:05,353
+No compartimento do rebocador.
+
+256
+00:30:05,354 --> 00:30:07,904
+Onde todo o resto
+estava carbonizado?
+
+257
+00:30:08,959 --> 00:30:11,722
+Incrível, não é?
+
+258
+00:30:13,663 --> 00:30:16,325
+Examinaram os caixões?
+
+259
+00:30:16,999 --> 00:30:19,433
+Usamos toda técnica que temos.
+
+260
+00:30:19,434 --> 00:30:21,737
+O raio-X dos caixões
+só mostrou borrões.
+
+261
+00:30:21,738 --> 00:30:26,506
+- O que significa isso?
+- Que não são precisamente objetos...
+
+262
+00:30:26,710 --> 00:30:28,744
+...mas um campo de força.
+
+263
+00:30:28,745 --> 00:30:32,680
+Não conseguimos entender.
+A coisa toda é...
+
+264
+00:30:32,882 --> 00:30:35,748
+Sim, eu sei, é incrível.
+
+265
+00:30:37,154 --> 00:30:40,645
+Já fizeram a autópsia
+do guarda? Acho que não.
+
+266
+00:30:40,858 --> 00:30:43,408
+E os outros 2 corpos?
+
+267
+00:30:44,161 --> 00:30:47,152
+Coronel, posso ser dispensado?
+
+268
+00:30:47,364 --> 00:30:49,914
+Sinto-me mais enjoado
+do que pensava.
+
+269
+00:30:50,067 --> 00:30:52,617
+É claro.
+
+270
+00:31:00,110 --> 00:31:03,079
+Vi na sua porta, Dr.
+Fallada, que é bioquímico.
+
+271
+00:31:04,614 --> 00:31:06,680
+Mas entendo que seu
+verdadeiro interesse é...
+
+272
+00:31:06,681 --> 00:31:09,017
+A morte, Coronel Caine. Correto.
+
+273
+00:31:09,018 --> 00:31:11,021
+O nome é tanatologia.
+
+274
+00:31:11,022 --> 00:31:13,524
+Para o senhor, a morte
+é algo burocrático.
+
+275
+00:31:13,525 --> 00:31:16,075
+Quem fez isso?
+Quando? Por que fez?
+
+276
+00:31:16,193 --> 00:31:18,743
+- Estou certo?
+- E para o senhor?
+
+277
+00:31:19,795 --> 00:31:21,864
+Sou fascinado pela morte em si:
+
+278
+00:31:21,865 --> 00:31:24,957
+O que acontece quando
+e depois de morrermos.
+
+279
+00:31:25,168 --> 00:31:27,537
+- Refere-se à vida
+após a morte? - Sim.
+
+280
+00:31:27,538 --> 00:31:30,131
+Há vida depois da morte?
+
+281
+00:31:31,609 --> 00:31:34,159
+Quer realmente saber?
+
+282
+00:31:37,314 --> 00:31:41,307
+Para responder sua
+pergunta, sim, acho que há.
+
+283
+00:31:41,518 --> 00:31:45,181
+Se estiver certo, a força
+vital é sempre conservada...
+
+284
+00:31:45,390 --> 00:31:47,424
+...em todas as coisas,
+mesmo após a morte.
+
+285
+00:31:47,425 --> 00:31:50,052
+Acha que se aplica ao
+que aconteceu aqui hoje?
+
+286
+00:31:50,261 --> 00:31:53,525
+Acho.
+
+287
+00:31:53,730 --> 00:31:57,030
+Acredito que a
+garota... A criatura...
+
+288
+00:31:57,234 --> 00:31:59,795
+...drenou parcialmente
+energia, força vital...
+
+289
+00:32:00,004 --> 00:32:04,463
+...de Bukovsky e,
+totalmente, do guarda.
+
+290
+00:32:04,676 --> 00:32:08,237
+- Uma vampira?
+- Podemos descrever assim.
+
+291
+00:32:08,445 --> 00:32:10,514
+De certo modo,
+somos todos vampiros.
+
+292
+00:32:10,515 --> 00:32:13,950
+Drenamos energia de
+outras formas de vida.
+
+293
+00:32:14,151 --> 00:32:17,143
+A diferença é o grau.
+
+294
+00:32:17,355 --> 00:32:20,084
+Aquela ''garota''
+não era uma garota.
+
+295
+00:32:20,289 --> 00:32:24,125
+Ela é estranha ao nosso planeta
+e à nossa forma de vida...
+
+296
+00:32:24,329 --> 00:32:26,879
+...e é completamente perigosa.
+
+297
+00:33:03,802 --> 00:33:06,352
+Deus!
+
+298
+00:33:06,938 --> 00:33:10,874
+- Acha que estão vivos?
+- Não sou pago para achar nada.
+
+299
+00:33:13,778 --> 00:33:16,328
+Acho que estão vivos.
+
+300
+00:33:18,950 --> 00:33:21,500
+Não parecem mortos pra mim.
+
+301
+00:34:15,140 --> 00:34:17,903
+Tivemos problemas, mas
+está tudo sob controle.
+
+302
+00:34:18,109 --> 00:34:20,276
+Acho que é melhor vir até aqui.
+
+303
+00:34:20,277 --> 00:34:22,827
+Sim, senhor. Muito bem, senhor.
+
+304
+00:34:38,129 --> 00:34:41,566
+Parece que esses dois
+não são mais perigosos.
+
+305
+00:34:41,767 --> 00:34:46,067
+Com certeza não será possível
+fazer uma autópsia completa.
+
+306
+00:34:46,271 --> 00:34:48,271
+Eu gostaria de
+examinar o guarda.
+
+307
+00:34:48,272 --> 00:34:50,074
+Já começaram a
+autópsia do guarda?
+
+308
+00:34:50,075 --> 00:34:52,625
+Acho que sim, senhor.
+
+309
+00:34:54,680 --> 00:34:59,083
+Esta é a autópsia de um jovem
+morto há cerca de 2 horas.
+
+310
+00:34:59,284 --> 00:35:01,834
+- Disse que tinha uns 20 anos?
+- Exato.
+
+311
+00:36:09,756 --> 00:36:12,306
+Chame o coronel!
+
+312
+00:37:06,880 --> 00:37:09,430
+Coloquem-no em uma
+cela isolada, rápido!
+
+313
+00:37:27,235 --> 00:37:29,785
+Não imaginava que
+isso podia acontecer.
+
+314
+00:37:29,870 --> 00:37:31,904
+O que sugere?
+
+315
+00:37:31,905 --> 00:37:34,374
+Que coloque este
+corpo em outra cela.
+
+316
+00:37:34,375 --> 00:37:36,925
+Faz duas horas que
+o guarda foi atacado.
+
+317
+00:37:37,077 --> 00:37:40,012
+Não ficaria surpreso
+se isso virasse rotina.
+
+318
+00:37:40,214 --> 00:37:42,215
+- Faça o que ele disse, Kelly.
+- Sim, senhor.
+
+319
+00:37:42,216 --> 00:37:44,217
+Também quero os
+corpos dos 2 baleados.
+
+320
+00:37:44,218 --> 00:37:46,218
+Pegue-os e os observe.
+
+321
+00:37:46,219 --> 00:37:49,245
+- Ligue para o Secretário de Estado.
+- Senhor.
+
+322
+00:37:49,455 --> 00:37:52,050
+- Ligação para o coronel.
+- Senhor, telefone.
+
+323
+00:37:57,464 --> 00:37:59,165
+Estou indo para aí.
+
+324
+00:37:59,166 --> 00:38:02,157
+Acabam de achar um corpo no
+Hyde Park. Uma garota nua.
+
+325
+00:38:02,368 --> 00:38:04,918
+Dizem que está em
+condições indescritíveis.
+
+326
+00:38:04,971 --> 00:38:07,521
+Pode ser sua garota?
+
+327
+00:38:07,840 --> 00:38:10,434
+- Bem?
+- Não é ela.
+
+328
+00:38:10,644 --> 00:38:12,645
+Inspetor, e quanto aos rapazes?
+
+329
+00:38:12,646 --> 00:38:15,479
+Estavam no parque mais cedo.
+
+330
+00:38:15,684 --> 00:38:19,984
+Nós a vimos, eu acho, mais cedo.
+
+331
+00:38:20,187 --> 00:38:23,121
+De qualquer maneira,
+parece o cabelo dela.
+
+332
+00:38:23,324 --> 00:38:25,123
+- Que bagunça!
+- Ela estava sozinha?
+
+333
+00:38:25,124 --> 00:38:27,226
+Não, foi isso que
+nos chamou a atenção.
+
+334
+00:38:27,227 --> 00:38:30,128
+Estava com uma moça
+morena, muito bonita.
+
+335
+00:38:30,331 --> 00:38:32,265
+Ela também não
+usava muitas roupas.
+
+336
+00:38:32,266 --> 00:38:34,268
+Pensamos que elas
+fossem... O senhor sabe.
+
+337
+00:38:34,269 --> 00:38:36,965
+Sei. Viram para onde
+foi a moça morena?
+
+338
+00:38:37,171 --> 00:38:39,721
+Não, não vimos.
+
+339
+00:38:39,907 --> 00:38:42,275
+Seguimos elas de fininho
+para ver se podíamos...
+
+340
+00:38:42,276 --> 00:38:45,303
+...ver elas fazendo
+alguma coisa.
+
+341
+00:38:45,514 --> 00:38:47,714
+- E aí encontramos ela.
+- Faz quanto tempo?
+
+342
+00:38:47,715 --> 00:38:50,582
+- Meia hora.
+- O rapaz ligou, e o chamamos.
+
+343
+00:38:50,785 --> 00:38:53,335
+Sim. Obrigado, inspetor.
+
+344
+00:38:56,191 --> 00:38:58,624
+Obviamente, é
+trabalho da garota.
+
+345
+00:38:58,625 --> 00:39:01,322
+Podemos mandar para o
+centro com os outros?
+
+346
+00:39:01,529 --> 00:39:03,529
+Sim, acho que é uma boa idéia.
+
+347
+00:39:03,530 --> 00:39:06,080
+Inspetor, avise
+se achar algo mais.
+
+348
+00:39:06,134 --> 00:39:08,684
+- Vamos levá-la conosco.
+- Muito bem, senhor.
+
+349
+00:39:11,372 --> 00:39:13,922
+Agora, ela tem roupas.
+
+350
+00:39:15,609 --> 00:39:18,159
+Temos algo que queremos
+que veja, senhor.
+
+351
+00:39:27,621 --> 00:39:31,558
+Dr. Hans Fallada, Sr. Percy
+Hestlestine, Secretário de Estado.
+
+352
+00:39:31,760 --> 00:39:34,627
+Chegaram bem na hora.
+
+353
+00:39:34,829 --> 00:39:37,379
+Faz exatamente duas horas.
+
+354
+00:39:49,209 --> 00:39:52,544
+Este é o guarda que foi
+dominado pela garota do espaço.
+
+355
+00:40:28,116 --> 00:40:31,108
+Como eu temia, uma
+vez transformadas...
+
+356
+00:40:31,319 --> 00:40:33,869
+...as vítimas precisam de
+infusões regulares de energia.
+
+357
+00:40:34,022 --> 00:40:36,572
+- Do contrário...
+- O quê?
+
+358
+00:41:00,215 --> 00:41:04,514
+Ai, meu Deus! Meu Deus!
+
+359
+00:41:06,021 --> 00:41:10,514
+E aqui está o patologista
+que foi atacado pelo guarda.
+
+360
+00:41:19,969 --> 00:41:22,868
+- Vê?
+- Ele também precisa se alimentar.
+
+361
+00:41:39,387 --> 00:41:42,824
+O mesmo acontecerá à garota
+encontrada no parque...
+
+362
+00:41:43,025 --> 00:41:45,575
+...em uma hora.
+
+363
+00:43:05,810 --> 00:43:09,471
+Meu bom Deus! Pelo amor de Deus!
+
+364
+00:43:16,085 --> 00:43:17,653
+Ela é a última?
+
+365
+00:43:17,654 --> 00:43:20,204
+- Algum outro comunicado?
+- Não, senhor.
+
+366
+00:43:20,389 --> 00:43:22,939
+Podemos atender aos
+telefonemas imediatamente.
+
+367
+00:43:22,959 --> 00:43:24,793
+- O quê?
+- Nada.
+
+368
+00:43:24,794 --> 00:43:28,286
+Disse que essas criaturas
+foram trazidas pela Churchill?
+
+369
+00:43:28,497 --> 00:43:31,365
+Sim, senhor. Mas não esta.
+É vítima das criaturas.
+
+370
+00:43:31,568 --> 00:43:34,595
+E onde a Churchill as encontrou?
+
+371
+00:43:34,804 --> 00:43:37,172
+Não há como
+determinar isso agora.
+
+372
+00:43:37,173 --> 00:43:39,408
+- Talvez tudo esteja mudando.
+- Como?
+
+373
+00:43:39,409 --> 00:43:42,036
+Acabo de receber uma
+ligação do LPJ, de Pasadena.
+
+374
+00:43:42,245 --> 00:43:44,579
+O rastreador detectou algo...
+
+375
+00:43:44,580 --> 00:43:49,041
+...acham que é a cápsula de salvamento
+da Churchill voltando à Terra.
+
+376
+00:43:49,253 --> 00:43:51,846
+- Onde?
+- No Texas.
+
+377
+00:44:25,788 --> 00:44:29,190
+Onde? No Hospital
+Walter Reed do Exército?
+
+378
+00:44:29,394 --> 00:44:32,625
+Ele está ferido? Apenas exausto?
+
+379
+00:44:32,830 --> 00:44:35,380
+Tragam-no para cá!
+
+380
+00:44:37,867 --> 00:44:40,417
+Coronel Carlsen?
+Esperam pelo senhor.
+
+381
+00:44:42,340 --> 00:44:44,890
+O Coronel Carlsen, senhor.
+
+382
+00:44:45,010 --> 00:44:47,560
+Tom.
+
+383
+00:44:51,048 --> 00:44:53,598
+Pensei que estivesse morto.
+
+384
+00:44:54,685 --> 00:44:58,519
+Apresento-lhe o Coronel Caine,
+do Serviço Aéreo Espacial.
+
+385
+00:44:58,722 --> 00:45:00,223
+Como vai?
+
+386
+00:45:00,224 --> 00:45:02,774
+- Já conhece o Dr. Fallada.
+- Coronel.
+
+387
+00:45:04,395 --> 00:45:06,945
+Sente-se.
+
+388
+00:45:09,935 --> 00:45:12,485
+Desculpe-me por
+arrastá-lo para cá assim.
+
+389
+00:45:12,503 --> 00:45:15,494
+Sei que preferia se recuperar
+com uma linda enfermeira.
+
+390
+00:45:18,243 --> 00:45:20,793
+Precisamos saber o que
+aconteceu na Churchill.
+
+391
+00:45:20,910 --> 00:45:23,460
+Sim, é claro.
+
+392
+00:45:25,783 --> 00:45:29,046
+Pode ser difícil para vocês...
+
+393
+00:45:29,253 --> 00:45:31,803
+...aceitarem o que direi.
+
+394
+00:45:31,922 --> 00:45:34,892
+Teremos pouca dificuldade em
+acreditar em qualquer coisa.
+
+395
+00:45:35,093 --> 00:45:38,255
+- Continue.
+- Sabe de alguma coisa?
+
+396
+00:45:38,463 --> 00:45:41,362
+Houve um incêndio na Churchill.
+
+397
+00:45:41,565 --> 00:45:44,159
+Os corpos dos humanóides...
+
+398
+00:45:44,367 --> 00:45:46,403
+...não foram
+destruídos no incêndio.
+
+399
+00:45:46,404 --> 00:45:48,939
+Sobreviveram nos caixões.
+
+400
+00:45:48,940 --> 00:45:52,034
+Foram trazidos para
+Londres, e a fêmea fugiu.
+
+401
+00:45:52,243 --> 00:45:54,793
+Já matou três pessoas.
+
+402
+00:45:55,580 --> 00:45:58,130
+Meu Deus!
+
+403
+00:45:58,682 --> 00:46:01,232
+O que quer que nos diga,
+não nos surpreenderá.
+
+404
+00:46:01,419 --> 00:46:04,320
+Por favor, conte
+o que aconteceu.
+
+405
+00:46:07,092 --> 00:46:09,642
+Achamos os corpos a bordo
+de uma nave alienígena.
+
+406
+00:46:09,828 --> 00:46:12,378
+Que nave alienígena?
+
+407
+00:46:13,799 --> 00:46:16,358
+Coronel, comece do início.
+
+408
+00:46:16,567 --> 00:46:20,696
+Assuma que não sabemos nada,
+apesar de já termos indicações.
+
+409
+00:46:22,641 --> 00:46:25,905
+Chegamos a 9 mil milhas
+do Cometa Halley...
+
+410
+00:46:29,146 --> 00:46:31,980
+...quando detectamos
+um objeto na coma dele.
+
+411
+00:46:32,184 --> 00:46:36,985
+Descobrimos os corpos e os
+levamos para a Churchill.
+
+412
+00:46:37,188 --> 00:46:41,092
+Temos os 3 humanóides e
+uma espécie de morcego.
+
+413
+00:46:41,293 --> 00:46:44,284
+Entendido. Bem-vindos a bordo.
+
+414
+00:46:44,495 --> 00:46:46,496
+Já conseguiu se
+comunicar com a Terra?
+
+415
+00:46:46,497 --> 00:46:49,728
+Não, e o rabo do
+cometa está esquentando.
+
+416
+00:46:54,606 --> 00:46:57,904
+- Qual é o problema, Derebridge?
+- Não sei, Tom.
+
+417
+00:46:58,108 --> 00:46:59,943
+Me sinto sem forças.
+
+418
+00:46:59,944 --> 00:47:02,494
+É mesmo?
+
+419
+00:47:03,180 --> 00:47:05,741
+Eu me sinto revigorado.
+Você está bem?
+
+420
+00:47:06,952 --> 00:47:10,547
+- Sim, estou bem.
+- Ótimo.
+
+421
+00:47:13,792 --> 00:47:16,352
+Todos de volta para seus postos.
+
+422
+00:47:17,662 --> 00:47:20,212
+Vamos dar o fora daqui.
+
+423
+00:47:24,202 --> 00:47:27,366
+Na viagem de volta, os
+tripulantes morreram...
+
+424
+00:47:27,572 --> 00:47:30,122
+...um a um.
+
+425
+00:47:34,646 --> 00:47:36,313
+Rawlings...
+
+426
+00:47:36,314 --> 00:47:38,864
+...o operador de
+rádio, foi o primeiro.
+
+427
+00:47:50,162 --> 00:47:52,712
+Rawlings negava saber
+o que tinha feito.
+
+428
+00:47:52,898 --> 00:47:55,448
+Eu não me lembro.
+
+429
+00:47:58,804 --> 00:48:02,534
+Além de mim, foi o único
+que esteve lá na última hora.
+
+430
+00:48:03,744 --> 00:48:06,294
+Tenho me sentido
+fraco ultimamente...
+
+431
+00:48:06,479 --> 00:48:08,979
+...como se não fosse eu.
+
+432
+00:48:08,980 --> 00:48:11,915
+Simplesmente não me lembro.
+
+433
+00:48:28,034 --> 00:48:30,831
+Achamos o corpo de
+Rawlings no dia seguinte.
+
+434
+00:48:39,845 --> 00:48:41,413
+Exatamente como...
+
+435
+00:48:41,414 --> 00:48:43,782
+...ele morreu, coronel?
+
+436
+00:48:43,783 --> 00:48:46,683
+A vida dele foi sendo drenada.
+
+437
+00:48:51,958 --> 00:48:54,508
+Um a um...
+
+438
+00:48:56,529 --> 00:48:59,079
+...o resto dos tripulantes
+começou a morrer.
+
+439
+00:49:02,234 --> 00:49:04,784
+De algum modo...
+
+440
+00:49:06,204 --> 00:49:08,754
+Não sei como...
+
+441
+00:49:10,843 --> 00:49:13,393
+...eu resisti.
+
+442
+00:49:16,983 --> 00:49:19,533
+Simplesmente, parecia
+uma questão de vontade.
+
+443
+00:49:20,786 --> 00:49:23,336
+Sempre pensei...
+
+444
+00:49:27,126 --> 00:49:29,676
+A garota...
+
+445
+00:49:30,330 --> 00:49:33,163
+Sim? A garota?
+
+446
+00:49:38,938 --> 00:49:41,488
+Não consigo lembrar.
+
+447
+00:49:54,488 --> 00:49:56,889
+Só me lembro...
+
+448
+00:49:56,890 --> 00:49:59,949
+...da vista da escotilha
+de observação...
+
+449
+00:50:00,160 --> 00:50:02,710
+...da entrada na
+órbita da Terra.
+
+450
+00:50:04,165 --> 00:50:07,462
+Não podia expor o mundo
+ao que levávamos conosco.
+
+451
+00:51:28,181 --> 00:51:30,731
+Estava determinado
+a destruí-los.
+
+452
+00:51:57,644 --> 00:52:00,341
+Foi a coisa mais
+difícil que já fiz.
+
+453
+00:52:00,548 --> 00:52:02,848
+Nós entendemos.
+
+454
+00:52:02,849 --> 00:52:04,919
+Precisou de coragem...
+
+455
+00:52:04,920 --> 00:52:07,470
+Não, não entendem.
+
+456
+00:52:07,922 --> 00:52:11,050
+Uma parte de mim
+não queria partir.
+
+457
+00:52:11,258 --> 00:52:14,423
+Ela matou meus amigos, e
+mesmo assim não queria partir.
+
+458
+00:52:15,462 --> 00:52:18,331
+Deixá-la foi a coisa
+mais difícil que já fiz.
+
+459
+00:52:21,968 --> 00:52:24,664
+O Coronel Carlsen
+parece exausto.
+
+460
+00:52:24,873 --> 00:52:28,070
+Devemos deixá-lo dormir.
+Continuaremos mais tarde.
+
+461
+00:52:28,277 --> 00:52:30,827
+Muito bem.
+
+462
+00:52:31,878 --> 00:52:34,428
+Obrigado, coronel.
+
+463
+00:53:00,341 --> 00:53:03,366
+Os rastreadores da
+NASA e os nossos...
+
+464
+00:53:03,578 --> 00:53:07,241
+...detectaram uma estrutura
+incomum saindo do Cometa Halley.
+
+465
+00:53:07,448 --> 00:53:08,949
+Vem na nossa direção.
+
+466
+00:53:08,950 --> 00:53:11,484
+O que é?
+
+467
+00:53:11,485 --> 00:53:13,220
+O alcance do radar
+detectou um objeto...
+
+468
+00:53:13,221 --> 00:53:17,021
+...em forma de agulha,
+com 240km de extensão.
+
+469
+00:53:17,225 --> 00:53:20,285
+No atual curso, chegará
+à órbita terrestre...
+
+470
+00:53:20,494 --> 00:53:22,763
+...em pouco menos de dois dias.
+
+471
+00:53:22,764 --> 00:53:25,631
+Acabo de receber um telefonema
+do primeiro-ministro.
+
+472
+00:53:26,934 --> 00:53:29,270
+Haverá uma reunião
+na Rua Downing.
+
+473
+00:53:29,271 --> 00:53:31,821
+O primeiro-ministro
+quer respostas.
+
+474
+00:53:57,532 --> 00:54:00,082
+Feche os olhos.
+
+475
+00:54:08,110 --> 00:54:10,660
+Está me dando sua vida.
+
+476
+00:54:19,321 --> 00:54:21,871
+Você a está tomando.
+
+477
+00:55:26,989 --> 00:55:29,390
+Está drenando minhas forças.
+
+478
+00:55:29,391 --> 00:55:32,257
+Está tirando muito de mim.
+
+479
+00:55:59,021 --> 00:56:01,289
+Foi só um sonho.
+
+480
+00:56:01,290 --> 00:56:04,987
+- Que sonho?
+- A garota... Ela me visitou.
+
+481
+00:56:05,194 --> 00:56:07,363
+Visitou? Como?
+
+482
+00:56:07,364 --> 00:56:09,914
+Em minha mente.
+
+483
+00:56:13,969 --> 00:56:17,064
+Ela fez uma espécie de
+contato mental comigo.
+
+484
+00:56:17,273 --> 00:56:18,907
+Estava me consumindo.
+
+485
+00:56:18,908 --> 00:56:21,458
+Conte-nos o sonho.
+
+486
+00:56:22,411 --> 00:56:24,747
+Não consigo. Já passou.
+
+487
+00:56:24,748 --> 00:56:26,648
+Desapareceu.
+
+488
+00:56:26,649 --> 00:56:28,151
+Não consigo lembrar.
+
+489
+00:56:28,152 --> 00:56:30,702
+Já foi hipnotizado?
+
+490
+00:56:31,888 --> 00:56:34,288
+Importa-se eu tentar?
+
+491
+00:56:34,289 --> 00:56:37,088
+Não. Vamos tentar.
+
+492
+00:56:37,293 --> 00:56:42,230
+- Agora, não. Está exausto.
+- Tudo bem. De manhã.
+
+493
+00:56:42,498 --> 00:56:46,400
+Olhe para isso até seus olhos
+ficarem cansados. Então, feche-os.
+
+494
+00:56:46,603 --> 00:56:51,539
+Se sentirá muito
+cansado, muito sonolento.
+
+495
+00:56:51,807 --> 00:56:54,357
+Parece que ela...
+
+496
+00:56:54,944 --> 00:56:57,494
+...fala comigo em meus sonhos.
+
+497
+00:56:59,983 --> 00:57:02,533
+Ela...
+
+498
+00:57:02,786 --> 00:57:04,388
+A garota...
+
+499
+00:57:04,389 --> 00:57:06,788
+Sinto...
+
+500
+00:57:06,789 --> 00:57:10,191
+O que sente por ela?
+
+501
+00:57:10,394 --> 00:57:12,944
+Me sinto muito...
+
+502
+00:57:13,131 --> 00:57:14,997
+...íntimo dela.
+
+503
+00:57:14,998 --> 00:57:17,967
+Ela está falando com você?
+
+504
+00:57:18,169 --> 00:57:20,719
+Sinto...
+
+505
+00:57:20,737 --> 00:57:23,287
+...como se minha mente...
+
+506
+00:57:23,407 --> 00:57:25,957
+...não fosse só minha.
+
+507
+00:57:26,076 --> 00:57:29,477
+Se ela está em contato
+com sua mente...
+
+508
+00:57:29,680 --> 00:57:32,241
+...talvez esteja em
+contato com a dela.
+
+509
+00:57:32,449 --> 00:57:34,050
+Consegue vê-la?
+
+510
+00:57:34,051 --> 00:57:36,645
+Consegue ver onde ela está?
+
+511
+00:57:37,618 --> 00:57:39,185
+Sim.
+
+512
+00:57:39,186 --> 00:57:41,286
+Onde ela está agora?
+
+513
+00:57:41,287 --> 00:57:44,586
+Em um parque. Não
+sei como se chama.
+
+514
+00:57:44,791 --> 00:57:47,341
+Está andando.
+
+515
+00:57:47,729 --> 00:57:50,279
+Tem um rosto diferente...
+
+516
+00:57:50,465 --> 00:57:52,132
+...mas é ela.
+
+517
+00:57:52,133 --> 00:57:54,468
+Um rosto diferente?
+Como pode ser?.
+
+518
+00:57:54,469 --> 00:57:57,266
+Está usando outro corpo.
+
+519
+00:57:57,472 --> 00:58:00,439
+- O que está fazendo?
+- Procura um homem.
+
+520
+00:58:00,640 --> 00:58:02,543
+Que homem?
+
+521
+00:58:02,544 --> 00:58:05,944
+Qualquer um. Um homem saudável.
+
+522
+00:58:06,148 --> 00:58:09,115
+- Ela quer
+matá-lo? - Não.
+
+523
+00:58:09,316 --> 00:58:11,866
+- Por que não?
+- Tem medo de ser pega.
+
+524
+00:58:11,986 --> 00:58:15,114
+- Como poderia ser pega?
+- O corpo a trairia.
+
+525
+00:58:15,323 --> 00:58:17,491
+O que ela espera fazer?.
+
+526
+00:58:17,492 --> 00:58:20,042
+Ela quer...
+
+527
+00:58:20,162 --> 00:58:22,790
+...tirar energia dele.
+
+528
+00:58:22,997 --> 00:58:24,664
+Mas não o bastante
+para matá-lo.
+
+529
+00:58:24,665 --> 00:58:27,964
+- Ela pode fazer isso?
+- Pode.
+
+530
+00:58:28,169 --> 00:58:30,831
+Há uma outra mente.
+
+531
+00:58:31,039 --> 00:58:33,173
+Há.
+
+532
+00:58:33,174 --> 00:58:34,976
+O nome da garota...
+
+533
+00:58:34,977 --> 00:58:36,676
+...é Ellen.
+
+534
+00:58:36,677 --> 00:58:38,679
+Há duas pessoas em um só corpo?
+
+535
+00:58:38,680 --> 00:58:41,230
+Duas mentes?
+
+536
+00:58:41,249 --> 00:58:43,842
+Ellen e a vampira?
+
+537
+00:58:44,052 --> 00:58:46,602
+Sim.
+
+538
+00:58:48,056 --> 00:58:50,606
+Ela está observando um homem.
+
+539
+00:58:50,793 --> 00:58:52,625
+O que o homem está fazendo?
+
+540
+00:58:52,626 --> 00:58:57,156
+Está estacionado, faz
+alguma coisa no carro.
+
+541
+00:58:58,967 --> 00:59:01,301
+A placa.
+
+542
+00:59:01,302 --> 00:59:04,602
+Consegue ver a
+placa do carro dele?
+
+543
+00:59:04,807 --> 00:59:07,357
+Sim.
+
+544
+00:59:07,477 --> 00:59:09,044
+Leia em voz alta.
+
+545
+00:59:09,045 --> 00:59:11,595
+FMC...
+
+546
+00:59:12,849 --> 00:59:15,714
+...1 29E...
+
+547
+00:59:15,916 --> 00:59:18,511
+...ou R.
+
+548
+00:59:18,719 --> 00:59:21,517
+Qual é a marca do carro?
+
+549
+00:59:23,426 --> 00:59:25,976
+É um Volvo branco
+
+550
+00:59:29,097 --> 00:59:31,647
+O que ela está fazendo agora?
+
+551
+00:59:32,767 --> 00:59:34,468
+Ele está dirigindo.
+
+552
+00:59:34,469 --> 00:59:37,232
+Ela perguntou o nome dele?
+
+553
+00:59:37,438 --> 00:59:42,308
+Está levantando a saia...
+
+554
+00:59:43,711 --> 00:59:46,261
+...acima dos joelhos.
+
+555
+00:59:46,550 --> 00:59:49,050
+Ela está...
+
+556
+00:59:49,051 --> 00:59:51,601
+Ele está...
+
+557
+00:59:51,887 --> 00:59:54,437
+...colocando a...
+
+558
+00:59:56,392 --> 01:00:00,657
+...a mão na perna dela.
+
+559
+01:00:15,945 --> 01:00:19,277
+...FMC1 29E, ou talvez R...
+
+560
+01:00:19,481 --> 01:00:21,650
+...pertence a um Volvo branco.
+
+561
+01:00:21,651 --> 01:00:24,278
+O motorista apanhou uma
+garota chamada Ellen.
+
+562
+01:00:24,487 --> 01:00:27,283
+Preciso saber quem é essa
+garota e onde encontrá-la.
+
+563
+01:00:27,489 --> 01:00:29,659
+Ela está ligada ao caso.
+
+564
+01:00:29,660 --> 01:00:32,684
+Não posso explicar
+por telefone. Obrigado.
+
+565
+01:00:34,263 --> 01:00:36,664
+Acha que fala a
+verdade sobre a garota?
+
+566
+01:00:36,665 --> 01:00:38,667
+Logo veremos.
+
+567
+01:00:38,668 --> 01:00:42,899
+É brilhante! Se passa de corpo
+em corpo, de mente em mente...
+
+568
+01:00:43,104 --> 01:00:46,564
+...pegando só um pouco de
+energia de cada vítima...
+
+569
+01:00:46,776 --> 01:00:49,575
+...faz sentido não
+termos novas vítimas.
+
+570
+01:00:49,780 --> 01:00:51,813
+Ela não quer deixar rastros.
+
+571
+01:00:51,814 --> 01:00:56,147
+Se ela não está mais em seu
+corpo de origem, onde está ele?
+
+572
+01:00:57,220 --> 01:01:00,313
+- Está escondido.
+- Vamos encontrá-lo.
+
+573
+01:01:01,557 --> 01:01:03,959
+Suponhamos que esteja certo.
+
+574
+01:01:03,960 --> 01:01:07,327
+E a nave lá em cima?
+O que ela está fazendo?
+
+575
+01:01:07,531 --> 01:01:11,625
+Não temos como saber, mas
+temos que pensar no pior.
+
+576
+01:01:11,834 --> 01:01:13,968
+Talvez sejam como
+os vampiros da lenda.
+
+577
+01:01:13,969 --> 01:01:15,970
+Como assim?
+
+578
+01:01:15,971 --> 01:01:19,601
+Carregariam sua terra
+consigo, em seus caixões.
+
+579
+01:01:19,808 --> 01:01:22,358
+Não carregariam?
+
+580
+01:01:24,080 --> 01:01:27,107
+- Temos algo vindo do Havaí.
+- Aqui está.
+
+581
+01:01:27,316 --> 01:01:29,651
+Coloque na tela número um.
+
+582
+01:01:29,652 --> 01:01:33,088
+Está vindo a 240 mil milhas.
+
+583
+01:01:34,691 --> 01:01:37,818
+Meu Deus, é imenso!
+
+584
+01:01:57,213 --> 01:02:01,240
+Hugh, você tem aquela amostra
+de tecido cutâneo que pedi?
+
+585
+01:02:01,450 --> 01:02:03,286
+Que bom.
+
+586
+01:02:03,287 --> 01:02:06,085
+É claro que vou seguir o
+procedimento de contenção.
+
+587
+01:02:06,290 --> 01:02:07,790
+Ele está aqui.
+
+588
+01:02:07,791 --> 01:02:10,341
+Mande aquele soldado
+entrar, por favor.
+
+589
+01:02:13,562 --> 01:02:16,112
+Obrigado.
+
+590
+01:02:47,565 --> 01:02:49,197
+Doutor Fallada?
+
+591
+01:02:49,198 --> 01:02:53,225
+Um momento, sargento.
+Obrigado por vir.
+
+592
+01:02:53,436 --> 01:02:55,986
+Falo com você em um minuto.
+
+593
+01:03:05,717 --> 01:03:08,267
+Foi um trabalhão
+perseguir aquele carro.
+
+594
+01:03:08,285 --> 01:03:11,255
+Pertence a um tal de
+Ned Price, de Yorkshire.
+
+595
+01:03:11,456 --> 01:03:14,253
+- Está sob custódia agora.
+- E quanto à garota?
+
+596
+01:03:14,458 --> 01:03:17,757
+A garota é uma
+enfermeira chamada Ellen.
+
+597
+01:03:17,961 --> 01:03:20,511
+Ele não sabe seu sobrenome.
+
+598
+01:03:20,630 --> 01:03:24,588
+Ele a deixou no Hospital Thurlstone
+após passar a tarde com ela.
+
+599
+01:03:24,801 --> 01:03:29,102
+Ele relutou em falar sobre
+isso. Estava totalmente exausto.
+
+600
+01:03:29,307 --> 01:03:32,434
+Thurlstone não é um sanatório?
+
+601
+01:03:32,642 --> 01:03:35,577
+Sim, para criminosos
+doentes mentais.
+
+602
+01:03:35,779 --> 01:03:38,329
+HOSPITAL THURLSTONE
+
+603
+01:03:43,453 --> 01:03:46,116
+ALA DE SEGURANÇA MÁXIMA
+
+604
+01:03:57,534 --> 01:04:02,403
+Como vai? Sou o Dr.
+Armstrong, diretor do hospital.
+
+605
+01:04:02,607 --> 01:04:05,157
+Acompanhe-me até minha sala.
+
+606
+01:04:09,046 --> 01:04:11,809
+- Está uma noite fria.
+- Horrivelmente fria.
+
+607
+01:04:12,884 --> 01:04:15,579
+Esta é a casa das enfermeiras.
+
+608
+01:04:15,787 --> 01:04:18,415
+Ellen Donaldson
+mora no número cinco.
+
+609
+01:04:18,624 --> 01:04:20,290
+Obrigado.
+
+610
+01:04:20,291 --> 01:04:22,793
+Não devia subir
+e apresentá-los?
+
+611
+01:04:22,794 --> 01:04:24,795
+- Preferiria que não.
+- Venha comigo, Dr. Armstrong.
+
+612
+01:04:24,796 --> 01:04:27,346
+Temos muitas
+questões a discutir.
+
+613
+01:04:32,404 --> 01:04:34,306
+Sim? Quem é?
+
+614
+01:04:34,307 --> 01:04:37,206
+Meu nome é Colin Caine.
+O Dr. Armstrong me trouxe.
+
+615
+01:04:37,408 --> 01:04:40,276
+Gostaria de conversar
+com você. Posso subir?
+
+616
+01:04:49,687 --> 01:04:52,237
+Sim?
+
+617
+01:04:53,025 --> 01:04:55,575
+- O que querem?
+- Sou Colin Caine.
+
+618
+01:04:55,593 --> 01:04:58,391
+Este é o Coronel Carlsen,
+da Força Aérea Americana.
+
+619
+01:04:58,596 --> 01:05:02,966
+Podemos entrar e conversar?
+Vimos o Dr. Armstrong.
+
+620
+01:05:12,043 --> 01:05:14,593
+Posso me sentar?
+
+621
+01:05:17,047 --> 01:05:20,883
+Queremos saber do homem com
+quem passou a tarde, Ned Price.
+
+622
+01:05:23,555 --> 01:05:26,319
+- Não sei do que está falando.
+- Acho que sabe.
+
+623
+01:05:26,526 --> 01:05:29,551
+- Posso ver sua mão?
+- Como?
+
+624
+01:05:34,031 --> 01:05:36,581
+Você está aí, não está?
+
+625
+01:05:38,304 --> 01:05:40,863
+- Eu não sei.
+- Fale.
+
+626
+01:05:47,179 --> 01:05:49,247
+Já saiu dela. Está
+em outro corpo agora.
+
+627
+01:05:49,248 --> 01:05:52,944
+- Como sabe?
+- Eu posso ver, na mente dela.
+
+628
+01:05:54,652 --> 01:05:58,384
+Ela está resistindo. Vou
+ter que forçá-la a me dizer.
+
+629
+01:05:58,589 --> 01:06:02,389
+Apesar das aparências, esta
+mulher é uma masoquista.
+
+630
+01:06:02,592 --> 01:06:04,126
+Masoquista ao extremo.
+
+631
+01:06:04,127 --> 01:06:06,595
+Quer que eu arranque
+o nome à força.
+
+632
+01:06:06,596 --> 01:06:09,225
+Quer que eu a machuque.
+
+633
+01:06:09,433 --> 01:06:13,962
+Posso ver as imagens em
+sua mente. Quer ficar?
+
+634
+01:06:14,171 --> 01:06:18,198
+- Se não, espere lá fora!
+- De jeito nenhum. Sou um voyeur.
+
+635
+01:06:23,081 --> 01:06:25,631
+Você está aí?
+
+636
+01:06:33,891 --> 01:06:36,441
+Está aí?
+
+637
+01:06:40,298 --> 01:06:42,848
+Saia.
+
+638
+01:06:43,001 --> 01:06:45,551
+Agora!
+
+639
+01:07:37,223 --> 01:07:38,789
+Então?
+
+640
+01:07:38,790 --> 01:07:41,340
+Tenho uma descrição física.
+
+641
+01:07:48,067 --> 01:07:50,617
+É melhor mandar
+alguém cuidar dela.
+
+642
+01:07:50,637 --> 01:07:52,137
+Ela está bem?
+
+643
+01:07:52,138 --> 01:07:54,688
+Se descrevesse um interno,
+poderia identificá-lo?
+
+644
+01:07:54,706 --> 01:07:56,242
+É possível.
+
+645
+01:07:56,243 --> 01:08:00,338
+Um homem grande, gordo, grisalho,
+com uma marca de nascença no rosto.
+
+646
+01:08:00,546 --> 01:08:04,414
+Jeffrey Sykes, o infanticida.
+Onde conseguiu esta descrição?
+
+647
+01:08:04,617 --> 01:08:08,951
+- Onde está ele?
+- Está em uma solitária.
+
+648
+01:08:09,155 --> 01:08:10,857
+Tem se comportado mal.
+
+649
+01:08:10,858 --> 01:08:13,621
+- O que é tudo isso?
+- O que procuramos mudou.
+
+650
+01:08:13,826 --> 01:08:16,795
+- Teremos que ficar.
+- É melhor ligar para Londres.
+
+651
+01:08:16,994 --> 01:08:19,624
+- Posso usar seu telefone, doutor?
+- Certamente.
+
+652
+01:08:19,832 --> 01:08:23,199
+- Temos que ver Sykes agora.
+- Não podem esperar até amanhã?
+
+653
+01:08:24,604 --> 01:08:26,838
+Está bem, darei um jeito.
+
+654
+01:08:26,839 --> 01:08:29,389
+Tudo para lhe
+servir, comandante.
+
+655
+01:08:35,615 --> 01:08:37,783
+Queria que não
+fosse tão misterioso.
+
+656
+01:08:37,784 --> 01:08:41,083
+Se a polícia está envolvida,
+não tenho direito de saber?
+
+657
+01:08:41,287 --> 01:08:44,415
+Ainda mais se vão
+incomodar meus pacientes.
+
+658
+01:08:46,859 --> 01:08:49,588
+Dr. Armstrong, simpatizo
+com sua posição, é claro.
+
+659
+01:08:49,796 --> 01:08:53,756
+Contudo, esta é uma questão
+de segurança nacional.
+
+660
+01:08:53,966 --> 01:08:55,468
+Entendo.
+
+661
+01:08:55,469 --> 01:08:58,437
+Mas não acha que eu
+devia estar presente...
+
+662
+01:08:58,639 --> 01:09:00,807
+...para defender os
+interesses do meu paciente?
+
+663
+01:09:00,808 --> 01:09:02,642
+- Entenda...
+- Posso falar com você um segundo?
+
+664
+01:09:02,643 --> 01:09:05,110
+É claro.
+
+665
+01:09:05,111 --> 01:09:07,772
+O homem tem o QI de
+uma criança de 4 anos.
+
+666
+01:09:07,980 --> 01:09:11,439
+É uma decisão que
+cabe ao Coronel Caine.
+
+667
+01:09:11,651 --> 01:09:14,780
+É claro que pode vir.
+Podemos começar, então?
+
+668
+01:09:14,988 --> 01:09:18,924
+- O que vai fazer com
+ele? - Vou hipnotizá-lo.
+
+669
+01:09:22,763 --> 01:09:24,497
+O que é isso?
+
+670
+01:09:24,498 --> 01:09:26,501
+Pentotal com morfina.
+
+671
+01:09:26,502 --> 01:09:30,197
+Recomendado como pré-hipnótico
+e para controlar o paciente.
+
+672
+01:09:41,214 --> 01:09:44,913
+Bem, ele parece calmo.
+
+673
+01:09:45,120 --> 01:09:47,453
+- Estaremos prontos quando estiver.
+- Lamson.
+
+674
+01:09:47,454 --> 01:09:50,004
+Senhor.
+
+675
+01:10:12,079 --> 01:10:14,315
+A injeção pode ser perigosa?
+
+676
+01:10:14,316 --> 01:10:16,583
+Ele não deve ter
+dificuldades para tolerá-la.
+
+677
+01:10:16,584 --> 01:10:18,719
+Há sempre um risco, senhor.
+
+678
+01:10:18,720 --> 01:10:21,270
+Posso ver isso?
+
+679
+01:10:22,489 --> 01:10:25,039
+Vou acordá-lo.
+
+680
+01:10:27,161 --> 01:10:29,162
+- O que está fazendo?
+- Fique onde está.
+
+681
+01:10:29,163 --> 01:10:32,361
+Ele está doente, Lamson.
+Ajude. Não posso explicar agora.
+
+682
+01:10:35,703 --> 01:10:38,253
+É nosso assassino, Sr. Percy.
+
+683
+01:11:06,735 --> 01:11:09,285
+Isso é loucura.
+
+684
+01:11:10,269 --> 01:11:12,773
+Quero lhe fazer umas perguntas.
+Para onde podemos levá-lo?
+
+685
+01:11:12,774 --> 01:11:15,324
+Suba a rampa, senhor.
+
+686
+01:11:33,428 --> 01:11:35,978
+Precisamos ficar a sós.
+
+687
+01:11:44,204 --> 01:11:46,340
+Como soube que era ele?
+
+688
+01:11:46,341 --> 01:11:50,573
+No aposento das enfermeiras,
+ele tocou meu ombro.
+
+689
+01:11:50,778 --> 01:11:53,328
+Vi dentro da mente dele.
+
+690
+01:11:53,549 --> 01:11:55,115
+O quê?
+
+691
+01:11:55,116 --> 01:11:58,416
+O coronel pode ver
+a mente das pessoas...
+
+692
+01:11:58,621 --> 01:12:02,317
+...que foram possuídas
+pela criatura, senhor.
+
+693
+01:12:02,524 --> 01:12:05,074
+Acontece quando as toco.
+
+694
+01:12:06,961 --> 01:12:09,511
+Vamos colocá-lo na mesa.
+
+695
+01:12:16,405 --> 01:12:18,955
+Como...
+
+696
+01:12:19,073 --> 01:12:21,475
+Como sabe que ela
+ainda está em Armstrong?
+
+697
+01:12:21,476 --> 01:12:23,610
+O que a impediria de
+mudar para outro corpo?
+
+698
+01:12:23,611 --> 01:12:26,161
+Está encurralada.
+
+699
+01:12:26,415 --> 01:12:28,349
+Posso sentir.
+
+700
+01:12:28,350 --> 01:12:30,900
+Tem certeza?
+
+701
+01:12:31,921 --> 01:12:34,471
+Não.
+
+702
+01:12:36,925 --> 01:12:39,125
+- Lamson.
+- Senhor?
+
+703
+01:12:39,126 --> 01:12:44,064
+- Traga-me outra dose da droga.
+- Uma dose já é o bastante.
+
+704
+01:12:44,400 --> 01:12:47,836
+Esta não é uma situação comum.
+Quanto tempo dura o efeito disso?
+
+705
+01:12:48,038 --> 01:12:50,938
+Uma dose dessas?
+Umas duas horas.
+
+706
+01:12:51,139 --> 01:12:54,075
+Definitivamente,
+precisaremos de mais.
+
+707
+01:12:54,274 --> 01:12:56,824
+- Traga-me três
+doses. - Três?
+
+708
+01:12:57,012 --> 01:13:00,846
+Assumo a responsabilidade.
+Só obedeça.
+
+709
+01:13:01,050 --> 01:13:03,600
+Sim, senhor.
+
+710
+01:13:04,719 --> 01:13:06,454
+Uma segunda dose é segura?
+
+711
+01:13:06,455 --> 01:13:08,622
+Com certeza pode
+forçar o coração dele.
+
+712
+01:13:08,623 --> 01:13:13,561
+Olhe, não sabe com o
+que estamos lidando aqui.
+
+713
+01:13:13,797 --> 01:13:18,165
+Se ele sair do efeito
+da droga, ela fugirá.
+
+714
+01:13:31,747 --> 01:13:33,749
+Armstrong...
+
+715
+01:13:33,750 --> 01:13:36,300
+Está me ouvindo?
+
+716
+01:13:38,020 --> 01:13:41,456
+Se estiver, diga ''sim''.
+
+717
+01:13:46,663 --> 01:13:49,960
+Ela não vai me deixar...
+
+718
+01:13:52,201 --> 01:13:54,751
+...falar com você.
+
+719
+01:14:15,724 --> 01:14:18,274
+Pode ver o que está
+te aprisionando?
+
+720
+01:14:21,563 --> 01:14:24,432
+Posso. Ela...
+
+721
+01:14:24,634 --> 01:14:27,659
+Diga a ela para falar comigo!
+
+722
+01:14:28,737 --> 01:14:31,287
+Sim?
+
+723
+01:14:32,575 --> 01:14:34,978
+Trouxe o Pentotal.
+
+724
+01:14:34,979 --> 01:14:37,529
+Obrigado. É só isso.
+
+725
+01:14:44,187 --> 01:14:46,737
+Segure-o.
+
+726
+01:14:53,197 --> 01:14:55,747
+Não há necessidade disso.
+
+727
+01:14:56,533 --> 01:14:59,083
+Não há necessidade.
+
+728
+01:15:13,683 --> 01:15:17,619
+Você está aí?
+Ainda pode me ouvir?
+
+729
+01:15:20,056 --> 01:15:22,853
+Pode entrar na mente
+dele, na mente dela?
+
+730
+01:15:23,059 --> 01:15:24,860
+Não com a droga. É como um muro.
+
+731
+01:15:24,861 --> 01:15:27,422
+Talvez tenha injetado muito.
+
+732
+01:15:27,631 --> 01:15:30,181
+Cale a boca!
+
+733
+01:15:33,903 --> 01:15:36,564
+Ouça, sua piranha...
+
+734
+01:15:36,773 --> 01:15:39,640
+...vou mantê-la
+assim se preciso.
+
+735
+01:15:39,843 --> 01:15:41,544
+Agora, fale comigo.
+
+736
+01:15:41,545 --> 01:15:44,095
+Carlsen, fique comigo.
+
+737
+01:15:44,681 --> 01:15:47,879
+- O que quer de mim?
+- Eu te amo.
+
+738
+01:15:51,822 --> 01:15:53,755
+O que você é?
+
+739
+01:15:53,756 --> 01:15:57,284
+Por que é tão
+humana, tão perfeita?
+
+740
+01:15:58,396 --> 01:16:00,496
+O que eram os morcegos da nave?
+
+741
+01:16:00,497 --> 01:16:03,227
+Nossos corpos não importam.
+
+742
+01:16:03,433 --> 01:16:07,267
+Quando você e seus homens
+se aproximaram em sua nave...
+
+743
+01:16:07,471 --> 01:16:09,938
+...os mudamos para vocês.
+
+744
+01:16:09,939 --> 01:16:12,489
+Entramos em suas mentes...
+
+745
+01:16:12,677 --> 01:16:15,236
+...e encontramos novos corpos.
+
+746
+01:16:15,446 --> 01:16:17,996
+Tirei minhas
+formas da sua mente.
+
+747
+01:16:19,015 --> 01:16:21,951
+Aprendi sua língua.
+
+748
+01:16:22,152 --> 01:16:24,747
+Tornei-me a mulher
+que encontrei ali...
+
+749
+01:16:24,955 --> 01:16:29,288
+...em seus pensamentos mais
+profundos, em suas necessidades.
+
+750
+01:16:30,561 --> 01:16:33,894
+Sou a fêmea dos seus sonhos.
+
+751
+01:16:39,835 --> 01:16:42,385
+Onde você está?
+
+752
+01:16:42,572 --> 01:16:45,122
+Onde está seu corpo?
+
+753
+01:16:45,142 --> 01:16:47,692
+Me deixa em paz!
+
+754
+01:16:54,319 --> 01:16:56,869
+Toque-me, Carlsen.
+
+755
+01:18:33,285 --> 01:18:35,351
+- Já está se espalhando.
+- Como?
+
+756
+01:18:35,352 --> 01:18:37,453
+- Não a impediu a tempo.
+- Impossível!
+
+757
+01:18:37,454 --> 01:18:39,456
+Estávamos um passo atrás dela.
+
+758
+01:18:39,457 --> 01:18:42,007
+Este homem parou de respirar.
+
+759
+01:18:42,761 --> 01:18:45,311
+Também está sem pulso.
+
+760
+01:18:54,873 --> 01:18:57,423
+Acho que quebrou o pescoço.
+
+761
+01:19:00,579 --> 01:19:03,945
+Prepare uma maca para Sr. Percy
+e outra para o Dr. Armstrong.
+
+762
+01:19:04,149 --> 01:19:06,483
+Prepare o que sobrou
+da droga para levarmos.
+
+763
+01:19:06,484 --> 01:19:09,034
+Sim, senhor.
+
+764
+01:19:15,094 --> 01:19:18,460
+Disse que a coisa não parou,
+que está se espalhando.
+
+765
+01:19:18,663 --> 01:19:21,791
+- Por que disse isso?
+- Não sei.
+
+766
+01:19:22,000 --> 01:19:25,298
+A garota pode estar nos tirando
+deliberadamente de Londres?
+
+767
+01:19:25,503 --> 01:19:28,053
+Encontramos todas
+as suas vítimas?
+
+768
+01:19:28,874 --> 01:19:31,773
+Se houver outras, além
+da garota do parque...
+
+769
+01:19:31,977 --> 01:19:34,741
+- A coisa se espalhará.
+- Em uma reação em cadeia...
+
+770
+01:19:34,946 --> 01:19:37,496
+...geometricamente,
+até que, agora...
+
+771
+01:19:38,851 --> 01:19:41,401
+Meu Deus!
+
+772
+01:20:13,753 --> 01:20:17,452
+Tenente, podemos usar o rádio
+para falar com o CPE em Londres?
+
+773
+01:20:17,657 --> 01:20:20,954
+Só um minuto, senhor.
+Há algo chegando.
+
+774
+01:20:21,159 --> 01:20:23,709
+É do CPE para o
+senhor e Carlsen.
+
+775
+01:20:26,765 --> 01:20:28,333
+Continue.
+
+776
+01:20:28,334 --> 01:20:31,132
+Está me ouvindo?
+
+777
+01:20:31,336 --> 01:20:34,364
+Fallada, fale mais alto!
+Não consigo ouvi-lo!
+
+778
+01:20:35,441 --> 01:20:38,411
+Os 2 homens não morreram.
+
+779
+01:20:38,612 --> 01:20:41,162
+Eles passaram para os corpos
+dos soldados que os balearam...
+
+780
+01:20:41,280 --> 01:20:44,578
+...e transformaram os corpos
+dos soldados nos deles.
+
+781
+01:20:44,784 --> 01:20:46,784
+Esta é a diferença
+entre eles e as vítimas.
+
+782
+01:20:46,785 --> 01:20:51,019
+As vítimas não conseguem deixar
+seus corpos, só os 3 conseguem.
+
+783
+01:20:51,223 --> 01:20:54,250
+- Mas matei um deles.
+- Quem?
+
+784
+01:20:54,460 --> 01:20:56,796
+Um dos 2 vampiros.
+
+785
+01:20:56,797 --> 01:21:01,233
+- Um dos transformados.
+- Como o matou?
+
+786
+01:21:01,434 --> 01:21:03,634
+Matei à moda antiga, Carlsen.
+
+787
+01:21:03,635 --> 01:21:07,595
+Enfiando uma lança de metal
+com chumbo não no coração...
+
+788
+01:21:07,808 --> 01:21:11,766
+...mas no centro de energia,
+5cm abaixo do coração.
+
+789
+01:21:11,977 --> 01:21:14,947
+Não pode ser aço,
+só ferro com chumbo.
+
+790
+01:21:15,148 --> 01:21:17,698
+Entendeu, Carlsen?
+
+791
+01:21:18,083 --> 01:21:21,450
+- Ainda está aí?
+- Estou.
+
+792
+01:21:21,655 --> 01:21:24,590
+Carlsen, e você também, Caine...
+
+793
+01:21:24,791 --> 01:21:26,792
+...eu acredito...
+
+794
+01:21:26,793 --> 01:21:31,287
+...que os vampiros da lenda
+são criaturas como essas.
+
+795
+01:21:31,497 --> 01:21:34,591
+Talvez sejam exatamente
+essas criaturas.
+
+796
+01:21:34,800 --> 01:21:37,350
+Sei que é difícil de acreditar.
+
+797
+01:21:39,206 --> 01:21:40,974
+Estão me ouvindo?
+
+798
+01:21:40,975 --> 01:21:45,273
+Isso é mais do que uma
+crença, é a verdade.
+
+799
+01:21:46,513 --> 01:21:49,063
+Eles visitaram a Terra antes.
+
+800
+01:21:50,217 --> 01:21:53,548
+- E o outro homem?
+- Está solto.
+
+801
+01:21:54,888 --> 01:21:57,288
+- Está com a garota?
+- Está.
+
+802
+01:21:57,289 --> 01:22:00,884
+- Chegaremos logo. Espere por nós.
+- Tentaremos.
+
+803
+01:22:04,130 --> 01:22:06,598
+- Recebemos isso enquanto falavam.
+- O que é?
+
+804
+01:22:06,599 --> 01:22:10,262
+Uma criptografia para Sr.
+Percy, do primeiro-ministro.
+
+805
+01:22:10,470 --> 01:22:13,337
+Devemos ir diretamente
+para a cidade de Whitehall.
+
+806
+01:22:55,048 --> 01:22:57,598
+Tenente, os controles!
+
+807
+01:23:10,797 --> 01:23:12,932
+Nós a perdemos. Ela se foi!
+
+808
+01:23:12,933 --> 01:23:16,767
+- Para onde?
+- Seu corpo está em Londres.
+
+809
+01:23:16,971 --> 01:23:19,521
+Onde em Londres?
+
+810
+01:23:21,576 --> 01:23:24,942
+Tem que me contar o que
+realmente aconteceu na Churchill.
+
+811
+01:23:27,414 --> 01:23:30,441
+Não foi Rawlings que destruiu
+o equipamento de rádio...
+
+812
+01:23:30,651 --> 01:23:33,201
+...e as fitas da nave.
+
+813
+01:23:33,422 --> 01:23:35,790
+- Fui eu.
+- Por quê?
+
+814
+01:23:35,791 --> 01:23:39,225
+Não queria que a
+Churchill chegasse à Terra.
+
+815
+01:23:39,427 --> 01:23:41,977
+E, se chegasse, não queria que
+soubessem o que tinha acontecido.
+
+816
+01:23:42,096 --> 01:23:44,531
+O que aconteceu?
+
+817
+01:23:44,532 --> 01:23:48,559
+Eu abri o caixão selado dela.
+
+818
+01:23:48,771 --> 01:23:53,398
+Eu abri, ou ela abriu.
+
+819
+01:23:53,607 --> 01:23:56,108
+Não consegui me controlar.
+
+820
+01:23:56,109 --> 01:23:58,659
+Nunca tinha sentido algo tão...
+
+821
+01:24:00,046 --> 01:24:03,311
+Estava perdidamente apaixonado.
+
+822
+01:24:09,055 --> 01:24:11,751
+...Isso me aterrorizava.
+
+823
+01:24:11,958 --> 01:24:14,508
+Minha memória me pregava peças.
+
+824
+01:24:17,897 --> 01:24:20,447
+Ela estava me chamando.
+
+825
+01:24:20,901 --> 01:24:24,667
+Sua força era espiritual.
+
+826
+01:24:55,537 --> 01:24:58,087
+Ela me queria, Caine.
+
+827
+01:25:02,045 --> 01:25:04,595
+Era mais do que espiritual.
+
+828
+01:25:17,225 --> 01:25:19,775
+Levou um pouco da minha energia.
+
+829
+01:25:22,264 --> 01:25:24,993
+E me deu um pouco de sua.
+
+830
+01:25:32,573 --> 01:25:36,442
+Eles deviam tirar energia um
+do outro quando os encontramos.
+
+831
+01:25:36,645 --> 01:25:39,195
+Só restavam três deles.
+
+832
+01:25:40,848 --> 01:25:45,252
+Ela matou todos os
+meus homens, um por um.
+
+833
+01:25:47,024 --> 01:25:49,574
+Mas eu sobrevivi.
+
+834
+01:25:50,025 --> 01:25:53,756
+Ela queria que eu
+sobrevivesse. Ela me escolheu!
+
+835
+01:25:55,363 --> 01:25:57,913
+Por quê?
+
+836
+01:25:57,966 --> 01:26:01,060
+Ela não é humana.
+Não é uma mulher.
+
+837
+01:26:01,268 --> 01:26:03,818
+Vai destruir você.
+
+838
+01:26:05,040 --> 01:26:07,590
+Já destruiu outros mundos.
+
+839
+01:26:07,776 --> 01:26:09,777
+Tem algo que vai
+querer ouvir, senhor.
+
+840
+01:26:09,778 --> 01:26:12,328
+Um boletim especial da BBC.
+
+841
+01:26:13,548 --> 01:26:15,616
+Esta noite, Londres
+está à beira...
+
+842
+01:26:15,617 --> 01:26:17,785
+...da pior devastação
+desde a guerra.
+
+843
+01:26:17,786 --> 01:26:20,721
+Posso ver grandes
+áreas da cidade...
+
+844
+01:26:20,923 --> 01:26:23,125
+...queimando descontroladamente.
+
+845
+01:26:23,126 --> 01:26:25,676
+Milhares de pessoas nas ruas...
+
+846
+01:26:25,794 --> 01:26:29,593
+...agitam-se num esforço
+para evitar a praga.
+
+847
+01:26:29,797 --> 01:26:32,347
+Foi decretado estado de sítio...
+
+848
+01:26:32,468 --> 01:26:35,018
+...mas não deteve
+o que obviamente...
+
+849
+01:27:29,057 --> 01:27:31,594
+- Esperávamos vocês.
+- Obrigado. Prossiga.
+
+850
+01:27:31,595 --> 01:27:34,145
+- Corram, soldados.
+- Sim, senhor.
+
+851
+01:27:34,263 --> 01:27:36,813
+- Vão pelo outro lado.
+- Certo.
+
+852
+01:27:45,308 --> 01:27:47,476
+Está tudo pronto para
+evacuar o gabinete?
+
+853
+01:27:47,477 --> 01:27:50,501
+- Sim, tudo. - Por favor,
+sentem-se, senhores.
+
+854
+01:27:54,484 --> 01:27:58,920
+Senhor, o Coronel Caine e
+o Coronel Carlsen o esperam.
+
+855
+01:27:59,990 --> 01:28:01,690
+Muito bem.
+
+856
+01:28:01,691 --> 01:28:05,423
+O primeiro-ministro os
+receberá logo. Aceitam um chá?
+
+857
+01:28:05,629 --> 01:28:09,826
+- Nosso assunto é urgente. -
+O primeiro-ministro sabe disso.
+
+858
+01:28:10,934 --> 01:28:12,500
+- Senhores. -
+Primeiro-ministro.
+
+859
+01:28:12,501 --> 01:28:14,169
+Sou o Coronel Caine, do
+Serviço Aéreo Espacial.
+
+860
+01:28:14,170 --> 01:28:16,798
+Já ouviu falar do Coronel
+Carlsen, da Churchill.
+
+861
+01:28:17,007 --> 01:28:18,506
+Sim, é claro.
+
+862
+01:28:18,507 --> 01:28:21,057
+Senhores, estou ansioso
+para ouvir seu relatório.
+
+863
+01:28:21,244 --> 01:28:23,311
+A propósito, onde
+está Sr. Percy?
+
+864
+01:28:23,312 --> 01:28:24,913
+Morto, eu acho.
+
+865
+01:28:24,914 --> 01:28:26,849
+É uma grande pena.
+
+866
+01:28:26,850 --> 01:28:30,946
+Sr., temos informações
+sobre o objeto do espaço...
+
+867
+01:28:31,155 --> 01:28:33,705
+- ...que está ameaçando a Terra...
+- Sim, senhores.
+
+868
+01:28:33,857 --> 01:28:36,486
+Se me derem licença um momento.
+
+869
+01:28:36,693 --> 01:28:39,243
+Srta. Haversham, por
+favor, me acompanhe.
+
+870
+01:28:40,730 --> 01:28:42,466
+Venha cá um minuto.
+
+871
+01:28:42,467 --> 01:28:45,017
+Volto já, senhores.
+
+872
+01:29:00,484 --> 01:29:03,034
+Por favor.
+
+873
+01:29:11,426 --> 01:29:13,976
+Chamem o médico imediatamente.
+
+874
+01:29:18,269 --> 01:29:20,819
+Precisamos de um médico aqui.
+
+875
+01:29:34,218 --> 01:29:36,768
+Anda!
+
+876
+01:30:03,213 --> 01:30:06,377
+- Tem alguma arma a bordo?
+- Não, senhor!
+
+877
+01:30:06,584 --> 01:30:08,952
+- Temos uma pistola de sinalização.
+- Onde?
+
+878
+01:30:08,953 --> 01:30:11,187
+E só fechar a
+culatra, e está pronta!
+
+879
+01:30:11,188 --> 01:30:13,738
+Atire nele!
+
+880
+01:30:18,595 --> 01:30:22,123
+Enquanto estavam com o PM,
+recebi uma chamada da base.
+
+881
+01:30:22,332 --> 01:30:25,460
+A cidade está em estado de sítio.
+Estamos sob o comando da OTAN.
+
+882
+01:30:25,669 --> 01:30:27,170
+- OTAN?
+- Sim, senhor.
+
+883
+01:30:27,171 --> 01:30:30,298
+Minha unidade foi mobilizada
+para um quartel em Blackheath.
+
+884
+01:30:30,507 --> 01:30:33,169
+Pouse no CPE. Precisamos
+falar com Fallada.
+
+885
+01:30:33,376 --> 01:30:37,076
+Devo pousar em Blackheath.
+A cidade está em quarentena.
+
+886
+01:30:37,282 --> 01:30:39,832
+Se não fizermos o que
+mandam, seremos abatidos.
+
+887
+01:30:45,423 --> 01:30:48,585
+Zero, aqui é Raio-X 31 8
+pedindo autorização para pousar.
+
+888
+01:30:48,792 --> 01:30:51,819
+Zero, câmbio. Raio-X
+318, permissão concedida.
+
+889
+01:31:01,606 --> 01:31:05,167
+Saiam da aeronave! Vocês
+estão em quarentena!
+
+890
+01:31:07,077 --> 01:31:09,627
+Por aqui, por favor, senhores.
+
+891
+01:31:09,980 --> 01:31:12,315
+Não se aproximem!
+Parem onde estão!
+
+892
+01:31:12,316 --> 01:31:14,551
+Quero falar com seu comandante.
+
+893
+01:31:14,552 --> 01:31:16,654
+Sou o Coronel Caine, do
+Serviço Aéreo Espacial...
+
+894
+01:31:16,655 --> 01:31:21,148
+...e este é o Coronel Tom Carlsen,
+da Força Aérea Americana...
+
+895
+01:31:21,358 --> 01:31:23,908
+...e ex-comandante
+da Churchill.
+
+896
+01:31:27,266 --> 01:31:30,132
+O Dr. Hans Fallada,
+do CPE, está aqui?
+
+897
+01:31:30,334 --> 01:31:33,964
+- Ele sabe quem somos.
+- Não, não que eu saiba.
+
+898
+01:31:34,173 --> 01:31:36,408
+Alguém teve notícias dele?
+
+899
+01:31:36,409 --> 01:31:38,441
+Ainda deve estar em Londres.
+
+900
+01:31:38,442 --> 01:31:40,992
+Sabem o que está havendo lá?
+
+901
+01:31:41,012 --> 01:31:45,643
+Só temos certeza de que uma horrível
+praga está assolando Londres.
+
+902
+01:31:46,284 --> 01:31:48,980
+Parece que o período de
+incubação é de duas horas.
+
+903
+01:31:49,188 --> 01:31:53,556
+Até passar esse período, não
+podemos tirá-los do isolamento.
+
+904
+01:31:53,757 --> 01:31:56,852
+Sabemos o que é a praga.
+Não estamos infectados.
+
+905
+01:31:57,062 --> 01:32:00,328
+Estamos perdendo tempo precioso!
+
+906
+01:32:01,632 --> 01:32:03,467
+Isolamos Londres
+completamente...
+
+907
+01:32:03,468 --> 01:32:06,018
+...para restringir
+a contaminação.
+
+908
+01:32:06,139 --> 01:32:09,436
+Se isso falhar, e os
+arredores forem ameaçados...
+
+909
+01:32:09,640 --> 01:32:11,908
+Sim?
+
+910
+01:32:11,909 --> 01:32:15,368
+...foi aprovada a esterilização
+por dispositivo termonuclear.
+
+911
+01:32:17,082 --> 01:32:19,879
+Recebemos a ordem do
+General Ames, em Bruxelas.
+
+912
+01:32:20,085 --> 01:32:22,780
+Ele propõe que prossigamos...
+
+913
+01:32:23,321 --> 01:32:25,288
+...em menos de três horas.
+
+914
+01:32:25,289 --> 01:32:27,839
+Ouviu alguma coisa sobre a nave?
+
+915
+01:32:27,992 --> 01:32:30,825
+- Nave?
+- A coisa dentro do Cometa Halley.
+
+916
+01:32:33,766 --> 01:32:37,394
+Está parada em órbita
+geoestacionária sobre Londres.
+
+917
+01:32:56,421 --> 01:33:00,152
+Todas aquelas luzes azuis que
+se dirigem para as nuvens...
+
+918
+01:33:00,391 --> 01:33:02,941
+...são almas humanas.
+
+919
+01:33:03,563 --> 01:33:06,622
+- Como sabe?
+- Eu sinto.
+
+920
+01:33:06,833 --> 01:33:11,395
+O processo de conversão libera uma
+energia vital que pode ser captada.
+
+921
+01:33:11,603 --> 01:33:14,153
+Captada?
+
+922
+01:33:14,238 --> 01:33:18,176
+É isso que o guarda-chuva
+é? Um captador?
+
+923
+01:33:18,378 --> 01:33:22,143
+A energia não se
+libera. Ela sobe para lá.
+
+924
+01:33:43,368 --> 01:33:46,360
+O vampiro está captando
+energia vital...
+
+925
+01:33:46,573 --> 01:33:50,976
+...mas ele tem que mandá-la por
+ela para que suba até o captador.
+
+926
+01:33:52,712 --> 01:33:55,262
+Onde está ela?
+
+927
+01:33:56,316 --> 01:33:58,866
+Lá.
+
+928
+01:33:59,218 --> 01:34:01,913
+Vejo luzes saindo do seu corpo.
+
+929
+01:34:02,121 --> 01:34:06,251
+É sensível ao seu ambiente.
+Ela pega as coisas.
+
+930
+01:34:06,459 --> 01:34:09,825
+- Pode achá-la? - Se
+puder atravessar a cidade.
+
+931
+01:34:11,064 --> 01:34:12,631
+E quanto ao homem?
+
+932
+01:34:12,632 --> 01:34:15,260
+Virá se sentir que a encontrei.
+
+933
+01:34:15,467 --> 01:34:18,437
+Ela está me chamando.
+
+934
+01:34:18,638 --> 01:34:21,188
+Preciso ir.
+
+935
+01:34:21,841 --> 01:34:23,476
+Por quê?
+
+936
+01:34:23,477 --> 01:34:26,343
+Quer de volta a
+energia que me deu.
+
+937
+01:34:29,416 --> 01:34:32,384
+Quando assumem uma
+nova forma de vida...
+
+938
+01:34:32,585 --> 01:34:35,611
+...eles precisam
+aprender com essa forma.
+
+939
+01:34:35,821 --> 01:34:38,371
+Se unir a ela.
+
+940
+01:34:40,027 --> 01:34:42,577
+A garota escolheu a mim.
+
+941
+01:34:43,864 --> 01:34:47,459
+Mas quando se uniu a mim,
+ela me deu parte de si.
+
+942
+01:34:50,203 --> 01:34:52,753
+Agora, ela quer
+essa parte de volta.
+
+943
+01:34:53,606 --> 01:34:56,404
+Algum sinal de
+atividade no seu setor?
+
+944
+01:34:56,608 --> 01:35:00,068
+- Não, senhor. - Mantenha-me
+informado. Câmbio.
+
+945
+01:35:00,280 --> 01:35:03,580
+Coronel, escute. Carlsen acha
+que pode localizar a origem.
+
+946
+01:35:03,784 --> 01:35:05,618
+Existem apenas dois portadores.
+
+947
+01:35:05,619 --> 01:35:09,075
+Se conseguirmos destruí-los,
+não precisamos destruir Londres.
+
+948
+01:35:09,289 --> 01:35:11,839
+Mas só temos uma hora e meia.
+
+949
+01:35:13,060 --> 01:35:15,610
+Cessar fogo!
+
+950
+01:35:16,062 --> 01:35:19,089
+Carlsen! Onde está Carlsen?
+
+951
+01:35:19,300 --> 01:35:21,634
+Escapou numa Land
+Rover cheia de armas.
+
+952
+01:35:21,635 --> 01:35:23,635
+Disse para onde ia?
+
+953
+01:35:23,636 --> 01:35:26,605
+Queria saber onde é o
+Centro de Pesquisa Espacial.
+
+954
+01:35:26,807 --> 01:35:28,808
+Rogers disse a ele, e
+logo eu estava no chão.
+
+955
+01:35:28,809 --> 01:35:30,977
+- De quem é esse carro?
+- Esse?
+
+956
+01:35:30,978 --> 01:35:33,079
+- É do coronel.
+- Me dê as chaves.
+
+957
+01:35:33,080 --> 01:35:36,675
+- O quê?
+- Estou requisitando este carro!
+
+958
+01:35:36,884 --> 01:35:39,434
+Dê a ele.
+
+959
+01:35:39,754 --> 01:35:42,304
+E seu revólver.
+
+960
+01:35:44,692 --> 01:35:47,242
+Tem certeza de
+que sabe o que faz?
+
+961
+01:35:48,394 --> 01:35:50,944
+Depois de entrar lá, não
+permitiremos que saia.
+
+962
+01:35:54,734 --> 01:35:57,284
+- Cuidado!
+- Ele vai entrar!
+
+963
+01:36:01,041 --> 01:36:03,277
+Coronel Caine. Vou
+atravessar o rio.
+
+964
+01:36:03,278 --> 01:36:05,828
+- Não vai querer entrar lá.
+- Sei que não vou.
+
+965
+01:36:07,714 --> 01:36:11,152
+Ponham as barreiras em posição.
+Protejam o posto! Mexam-se!
+
+966
+01:40:12,261 --> 01:40:14,811
+Estou feliz que esteja vivo.
+
+967
+01:40:15,264 --> 01:40:17,925
+A recíproca é verdadeira.
+
+968
+01:40:18,133 --> 01:40:21,900
+- Ele está mesmo morto? -
+É o único modo de matá-los.
+
+969
+01:40:31,246 --> 01:40:33,874
+- Onde está Bukovsky?
+- Morreu.
+
+970
+01:40:35,118 --> 01:40:38,485
+- Como?
+- Como os outros.
+
+971
+01:40:40,589 --> 01:40:43,139
+Como você sobreviveu?
+
+972
+01:40:46,729 --> 01:40:50,928
+- Está procurando Carlsen.
+- Ele esteve aqui?
+
+973
+01:40:51,134 --> 01:40:53,684
+Não. Talvez tenha te enganado.
+
+974
+01:40:53,803 --> 01:40:56,966
+- O que sabe sobre isso?
+- Estive trabalhando.
+
+975
+01:40:57,173 --> 01:41:01,109
+- Continue.
+- Descobri...
+
+976
+01:41:01,311 --> 01:41:04,371
+...que há vida após a morte.
+
+977
+01:41:04,581 --> 01:41:09,518
+- Como sabe?
+- Há um tipo de transferência mental.
+
+978
+01:41:09,818 --> 01:41:13,915
+Ocorre uma telepatia entre
+os vampiros e as vítimas.
+
+979
+01:41:16,593 --> 01:41:20,892
+- Carlsen foi atrás da garota.
+- Como sabe disso?
+
+980
+01:41:24,101 --> 01:41:27,537
+- Parece que eu sinto.
+- Onde está ela?
+
+981
+01:41:30,441 --> 01:41:32,991
+Não sabe?
+
+982
+01:41:35,277 --> 01:41:38,146
+- Carlsen sabe.
+- Onde?
+
+983
+01:41:38,349 --> 01:41:41,909
+Está na catedral.
+
+984
+01:41:42,118 --> 01:41:44,916
+Está lá desde que fugiu.
+
+985
+01:41:45,121 --> 01:41:47,920
+Um tanto chique, não acha?
+
+986
+01:41:48,125 --> 01:41:51,094
+Na cripta dos reis e rainhas.
+
+987
+01:41:51,294 --> 01:41:53,844
+Fique onde está.
+
+988
+01:42:12,915 --> 01:42:15,465
+Aí vou eu.
+
+989
+01:43:32,060 --> 01:43:34,610
+Eu sabia que viria.
+
+990
+01:44:18,376 --> 01:44:19,945
+Estou aqui.
+
+991
+01:44:19,946 --> 01:44:22,936
+Agora, essa loucura pode acabar?
+
+992
+01:44:23,914 --> 01:44:25,982
+Venha.
+
+993
+01:44:25,983 --> 01:44:28,533
+Fique comigo.
+
+994
+01:44:28,919 --> 01:44:30,954
+Preciso de você.
+
+995
+01:44:30,955 --> 01:44:33,490
+Já estava planejado...
+
+996
+01:44:33,491 --> 01:44:35,226
+...que você nos encontraria...
+
+997
+01:44:35,227 --> 01:44:37,777
+...e nos traria para a Terra.
+
+998
+01:44:44,569 --> 01:44:48,733
+A trama do destino leva
+seu sangue e sua alma...
+
+999
+01:44:48,940 --> 01:44:52,397
+...de volta para o gênese
+da minha forma de vida.
+
+1000
+01:44:58,718 --> 01:45:01,268
+Venha comigo.
+
+1001
+01:48:12,311 --> 01:48:16,042
+Será muito menos aterrorizante
+se apenas vier comigo.
+
+1002
+01:48:21,520 --> 01:48:24,070
+É exatamente o que vou fazer.
+
+1003
+01:49:50,910 --> 01:49:52,479
+Que sentimentos são esses?
+
+1004
+01:49:52,480 --> 01:49:56,281
+Por que me sinto tão ligado
+a você? Preciso de você?
+
+1005
+01:49:56,484 --> 01:50:00,818
+Porque é um de nós. Sempre foi.
+
+1006
+01:50:01,023 --> 01:50:03,573
+Você é como eu. Fique comigo.
+
+1007
+01:50:15,770 --> 01:50:18,704
+Só mais um pouco.

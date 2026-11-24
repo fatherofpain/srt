@@ -1,0 +1,3704 @@
+﻿1
+00:00:22,400 --> 00:00:24,310
+<i>Estamos em 3008.</i>
+
+2
+00:00:24,530 --> 00:00:29,520
+<i>As viagens espaciais
+estão agora na agenda.</i>
+
+3
+00:00:29,740 --> 00:00:33,160
+<i>Com a descoberta de novas galáxias</i>
+
+4
+00:00:33,370 --> 00:00:36,240
+<i>e novas civilizações,</i>
+
+5
+00:00:36,460 --> 00:00:39,580
+<i>o tráfego espacial se intensificou.</i>
+
+6
+00:00:39,790 --> 00:00:42,830
+<i>Federação Intergaláctica Unida</i>
+
+7
+00:00:43,050 --> 00:00:47,510
+<i>ela foi acusada de montar uma
+unidade policial especial.</i>
+
+8
+00:00:47,720 --> 00:00:52,130
+<i>Logo, uma frota de navios
+começou a patrulhar</i>
+
+9
+00:00:52,350 --> 00:00:57,940
+<i>os sistemas estelares mais
+remotos do universo conhecido.</i>
+
+10
+00:00:58,360 --> 00:01:02,650
+<i>Aqui está a história de um
+desses cruzadores policiais,</i>
+
+11
+00:01:02,860 --> 00:01:05,820
+<i>o Infinito, código 308.</i>
+
+12
+00:01:06,030 --> 00:01:10,330
+<i>É também a história de
+sua equipe e seu robô.</i>
+
+13
+00:01:14,330 --> 00:01:19,120
+<i>Você não é um robô
+como qualquer outro</i>
+
+14
+00:01:19,340 --> 00:01:23,630
+<i>porque no século 31 o
+homem finalmente inventou</i>
+
+15
+00:01:23,840 --> 00:01:27,460
+<i>uma máquina capaz
+de ter sentimentos.</i>
+
+16
+00:01:27,680 --> 00:01:30,010
+<i>E o nome dele é...</i>
+
+17
+00:03:52,880 --> 00:03:57,460
+<i>Diário de Dados do
+Galactic Infinity 3008.1.</i>
+
+18
+00:03:57,680 --> 00:04:02,090
+<i>Nota 1736 do capitão
+Cornelius Butt.</i>
+
+19
+00:04:02,930 --> 00:04:07,310
+<i>Agora estamos na última etapa
+de uma missão de sete anos</i>
+
+20
+00:04:07,520 --> 00:04:09,730
+<i>e isso nos levou ao posto 28,</i>
+
+21
+00:04:09,940 --> 00:04:13,810
+<i>onde monitoramos os
+corredores transgalácticos.</i>
+
+22
+00:04:14,030 --> 00:04:15,990
+<i>Ó alegria suprema!</i>
+
+23
+00:04:16,200 --> 00:04:19,820
+<i>O infinito é controlado
+automaticamente pela Galaxina</i>
+
+24
+00:04:20,040 --> 00:04:22,740
+<i>nosso robô classe 11,
+modelo mais recente.</i>
+
+25
+00:04:22,960 --> 00:04:25,990
+<i>Todos os sensores de trânsito
+piscam em uma linda cor vermelha</i>
+
+26
+00:04:26,210 --> 00:04:29,910
+<i>e os controles principais do
+navio com um lindo verde piscando.</i>
+
+27
+00:04:30,300 --> 00:04:32,370
+<i>O que pode ser chamado de tripulação</i>
+
+28
+00:04:32,590 --> 00:04:35,460
+<i>está em sua fase de descanso de 72 horas.</i>
+
+29
+00:04:36,510 --> 00:04:39,220
+<i>Este é o capitão Cornelius
+Butt, e é tudo.</i>
+
+30
+00:06:53,660 --> 00:06:54,820
+44...
+
+31
+00:06:58,170 --> 00:06:59,630
+43...
+
+32
+00:07:00,790 --> 00:07:02,290
+45...
+
+33
+00:07:02,880 --> 00:07:03,750
+46...
+
+34
+00:07:13,430 --> 00:07:14,710
+47...
+
+35
+00:07:15,190 --> 00:07:16,510
+48...
+
+36
+00:07:17,350 --> 00:07:18,900
+49...
+
+37
+00:08:01,780 --> 00:08:03,770
+<i>Esta é a United Galaxy Network</i>
+
+38
+00:08:04,200 --> 00:08:07,230
+<i>com um programa ao
+vivo especial de Urano.</i>
+
+39
+00:08:08,120 --> 00:08:11,700
+<i>Agora Catherine Wilson
+canta "Selva Opaca"</i>
+
+40
+00:08:11,910 --> 00:08:14,120
+<i>do "Guglielmo Tell" de Rossini.</i>
+
+41
+00:08:15,040 --> 00:08:16,920
+<i>A seguir, nosso prog...</i>
+
+42
+00:08:22,840 --> 00:08:24,250
+46...
+
+43
+00:08:25,140 --> 00:08:26,710
+47...
+
+44
+00:08:27,390 --> 00:08:28,800
+48...
+
+45
+00:08:30,060 --> 00:08:31,720
+54...
+
+46
+00:08:36,360 --> 00:08:37,940
+56...
+
+47
+00:08:41,860 --> 00:08:42,940
+49...
+
+48
+00:08:43,160 --> 00:08:44,240
+47...
+
+49
+00:08:45,660 --> 00:08:47,370
+45...
+
+50
+00:08:47,580 --> 00:08:48,820
+40...
+
+51
+00:10:16,760 --> 00:10:18,470
+DESCONHECIDO
+
+52
+00:10:19,430 --> 00:10:20,540
+Ei, sargento!
+
+53
+00:10:22,970 --> 00:10:24,140
+Um navio desconhecido.
+
+54
+00:10:24,480 --> 00:10:26,760
+Eu tenho que ligar a sirene?
+
+55
+00:10:28,310 --> 00:10:29,720
+Sargento, vamos lá!
+
+56
+00:10:30,230 --> 00:10:32,980
+55... Não vai ajudar você.
+
+57
+00:10:33,190 --> 00:10:34,850
+O que não vai me ajudar?
+
+58
+00:10:35,240 --> 00:10:36,780
+Cuzão!
+
+59
+00:10:37,110 --> 00:10:41,780
+Você não sabe que no espaço
+ninguém pode ouvir sua sirene?
+
+60
+00:10:45,250 --> 00:10:46,080
+Procedi.
+
+61
+00:10:46,750 --> 00:10:48,290
+Entre em contato com o navio.
+
+62
+00:10:48,840 --> 00:10:50,250
+Pergunte de onde eles vêm.
+
+63
+00:10:51,090 --> 00:10:52,420
+Boa ideia!
+
+64
+00:10:53,170 --> 00:10:54,290
+Eu sei...
+
+65
+00:11:02,430 --> 00:11:04,340
+Aqui está o agente Robert Buzz McHenry,
+
+66
+00:11:04,560 --> 00:11:06,390
+do cruzador policial Infinity
+
+67
+00:11:06,610 --> 00:11:09,860
+a nave não identificado.
+Por favor responda.
+
+68
+00:11:12,240 --> 00:11:15,360
+Por favor responda!
+Esta é a polícia espacial!
+
+69
+00:11:29,210 --> 00:11:33,210
+<i>Eu sou Ordric do planeta Mordric</i>
+
+70
+00:11:33,430 --> 00:11:36,300
+<i>da galáxia Tarquin.</i>
+
+71
+00:11:36,970 --> 00:11:39,510
+<i>Estou em uma missão de paz</i>
+
+72
+00:11:40,230 --> 00:11:42,980
+<i>no planeta Altar 1.</i>
+
+73
+00:11:43,400 --> 00:11:45,300
+Podemos saber o
+propósito de sua missão?
+
+74
+00:11:45,520 --> 00:11:47,730
+<i>Não, você não pode.</i>
+
+75
+00:11:49,740 --> 00:11:50,900
+Fique na linha!
+
+76
+00:11:53,320 --> 00:11:54,240
+Ei, espere um minuto!
+
+77
+00:11:58,580 --> 00:12:00,070
+O que fazemos agora?
+
+78
+00:12:00,790 --> 00:12:02,330
+Não muito.
+
+79
+00:12:03,920 --> 00:12:06,920
+Não podemos desencadear um
+conflito intergaláctico, podemos?
+
+80
+00:12:08,210 --> 00:12:09,490
+Por que você não continua...
+
+81
+00:12:10,930 --> 00:12:12,750
+Entre em contato com o capitão.
+
+82
+00:12:18,180 --> 00:12:20,220
+O capitão!  Um cavaleiro está chegando!
+
+83
+00:12:41,540 --> 00:12:45,130
+<i>Diário de Dados do
+Galactic Infinity 3008.15.</i>
+
+84
+00:12:45,420 --> 00:12:49,420
+<i>Nota 1737 do capitão
+Cornelius Butt.</i>
+
+85
+00:12:50,590 --> 00:12:54,380
+<i>Estamos no segundo ciclo de
+regulamentação do tráfego.</i>
+
+86
+00:13:00,150 --> 00:13:03,730
+<i>Devo dizer que tudo é muito lento.</i>
+
+87
+00:13:03,940 --> 00:13:06,350
+<i>Enfim, fui chamado para a ponte</i>
+
+88
+00:13:06,570 --> 00:13:08,560
+<i>por um tipo de cowboy do espaço.</i>
+
+89
+00:13:08,950 --> 00:13:10,110
+<i>Eu me pergunto o que ele quer?</i>
+
+90
+00:13:10,870 --> 00:13:13,320
+<i>Você quer que eu troque as fraldas dele?</i>
+
+91
+00:13:14,200 --> 00:13:16,740
+<i>No entanto, sempre há a possibilidade</i>
+
+92
+00:13:16,750 --> 00:13:20,310
+<i>que esta ligação leva a uma
+das aventuras mais emocionantes</i>
+
+93
+00:13:20,630 --> 00:13:23,040
+<i>da minha ou de todas
+as outras carreiras!</i>
+
+94
+00:13:23,420 --> 00:13:26,710
+<i>Talvez seja uma missão que
+mude o curso da história</i>
+
+95
+00:13:26,930 --> 00:13:29,050
+<i>e eu serei o guia!</i>
+
+96
+00:13:30,350 --> 00:13:33,220
+<i>O nome Cornelius Butt
+entrará na história!</i>
+
+97
+00:13:33,850 --> 00:13:34,930
+<i>Espere e assista.</i>
+
+98
+00:13:35,480 --> 00:13:37,390
+<i>Só isso.  Fim da nota.</i>
+
+99
+00:13:55,210 --> 00:13:58,410
+O que você tem em mente?
+E perdoa o exagero...
+
+100
+00:13:58,630 --> 00:14:01,960
+Temos um navio desconhecido que se recusa
+a esclarecer o propósito de sua missão.
+
+101
+00:14:15,770 --> 00:14:17,850
+Sou o capitão Cornelius Butt.
+
+102
+00:14:18,070 --> 00:14:20,470
+Este é o cruzador
+Space Police Infinity.
+
+103
+00:14:20,690 --> 00:14:22,770
+Peço que você defina a
+natureza de sua missão.
+
+104
+00:14:22,990 --> 00:14:25,230
+<i>Minha missão é secreta.</i>
+
+105
+00:14:25,570 --> 00:14:28,570
+Para aqueles que secretamente
+iniciam os problemas, logo chegam.
+
+106
+00:14:28,790 --> 00:14:32,700
+<i>Os problemas surgem do coração do homem.</i>
+
+107
+00:14:32,920 --> 00:14:35,490
+Não quero começar uma
+guerra de nervos com você.
+
+108
+00:14:35,880 --> 00:14:38,330
+Eu nunca ataquei os indefesos.
+
+109
+00:14:39,710 --> 00:14:41,420
+<i>Como você deseja.</i>
+
+110
+00:14:43,800 --> 00:14:45,550
+Prepare-se para uma ação evasiva.
+
+111
+00:14:45,760 --> 00:14:46,760
+Siga-o!
+
+112
+00:14:50,270 --> 00:14:51,600
+Ative o campo de força.
+
+113
+00:14:52,230 --> 00:14:54,100
+Posso acender a luz vermelha piscando?
+
+114
+00:14:54,310 --> 00:14:57,100
+Você sabe garoto, você tem um mau hábito.
+
+115
+00:14:57,400 --> 00:14:58,430
+Respira.
+
+116
+00:15:19,590 --> 00:15:20,460
+Espere.
+
+117
+00:15:25,670 --> 00:15:27,760
+Espere
+
+118
+00:15:34,880 --> 00:15:36,430
+E agora atire!
+
+119
+00:15:36,650 --> 00:15:38,480
+Vá em frente, mantenha a calma.
+
+120
+00:15:38,740 --> 00:15:40,230
+Atire!
+
+121
+00:15:40,450 --> 00:15:41,360
+Fogo!
+
+122
+00:15:41,820 --> 00:15:43,400
+- Novamente! 
+- muito cedo.
+
+123
+00:15:43,830 --> 00:15:44,860
+Agora.
+
+124
+00:15:52,790 --> 00:15:54,340
+Como está indo o campo de força?
+
+125
+00:15:55,960 --> 00:15:57,210
+Ok.
+
+126
+00:15:57,800 --> 00:15:59,880
+Maneira estranha de travar guerra.
+
+127
+00:16:01,100 --> 00:16:03,250
+Não é mais como nos velhos
+tempos, é capitão?
+
+128
+00:16:05,140 --> 00:16:08,060
+Agora depende de quem desiste
+primeiro do campo de força.
+
+129
+00:16:10,560 --> 00:16:12,390
+Muito técnico para mim.
+
+130
+00:16:21,240 --> 00:16:23,200
+Este é um bom navio, mas é antigo.
+
+131
+00:16:33,340 --> 00:16:35,000
+O campo ainda permanece?
+
+132
+00:16:35,720 --> 00:16:36,670
+Começa a enfraquecer.
+
+133
+00:16:36,880 --> 00:16:38,050
+O poder.  .  .
+
+134
+00:16:38,510 --> 00:16:39,890
+Pergunte a Galaxina
+
+135
+00:16:40,100 --> 00:16:41,760
+veja se podemos poupar la.
+
+136
+00:16:41,970 --> 00:16:43,140
+Certo.
+
+137
+00:17:00,700 --> 00:17:01,950
+Agora vai acabar.
+
+138
+00:17:02,160 --> 00:17:04,280
+Tenho que lhes dizer, senhores,
+que foi um prazer atendê-los.
+
+139
+00:17:04,810 --> 00:17:06,790
+Silêncio, colônia terrestre de zucconi!
+
+140
+00:17:07,000 --> 00:17:08,820
+Não vai acabar aí.
+
+141
+00:17:08,820 --> 00:17:10,160
+Ele só queria nos surpreender...
+
+142
+00:17:10,160 --> 00:17:12,460
+... nos coloca fora de ação por um tempo.
+
+143
+00:17:13,090 --> 00:17:16,620
+Filho da puta, vamos morrer e ter
+que aturar o cheiro do charuto?
+
+144
+00:17:16,840 --> 00:17:18,920
+Nós não vamos morrer.
+
+145
+00:17:19,970 --> 00:17:21,220
+Ele está certo.
+
+146
+00:17:21,720 --> 00:17:24,680
+Um conflito intergalático
+não pode começar de novo.
+
+147
+00:17:25,940 --> 00:17:27,480
+Se você está certo, sargento,
+
+148
+00:17:28,070 --> 00:17:30,770
+quando voltarmos,
+comprarei charutos menos fedorentos.
+
+149
+00:17:30,990 --> 00:17:33,110
+Claro que ele está certo, zuccone!
+
+150
+00:17:39,370 --> 00:17:40,480
+Tudo bem.
+
+151
+00:17:44,460 --> 00:17:47,680
+Agora Buzz, desça para a sala de máquinas.
+
+152
+00:17:47,680 --> 00:17:49,670
+para ver o que os nossos estão fazendo.
+
+153
+00:17:49,840 --> 00:17:52,380
+Eu vou alimentar o prisioneiro.
+
+154
+00:17:53,340 --> 00:17:54,620
+Porque não
+
+155
+00:18:03,730 --> 00:18:06,180
+Eu pensei que você estava indo para a sala de máquinas.
+
+156
+00:18:07,570 --> 00:18:10,060
+Por que nunca estou
+alimentando o prisioneiro?
+
+157
+00:18:10,650 --> 00:18:11,820
+Chegue mais perto.
+
+158
+00:18:13,110 --> 00:18:15,900
+Você não deveria perguntar o porquê.
+
+159
+00:18:17,660 --> 00:18:18,780
+Porque não
+
+160
+00:18:19,000 --> 00:18:21,280
+Porque esta é uma ordem maldita!
+
+161
+00:18:21,830 --> 00:18:23,240
+Agora faça.
+
+162
+00:18:24,170 --> 00:18:25,660
+Sim senhor
+
+163
+00:18:52,070 --> 00:18:53,190
+Oi boneca!
+
+164
+00:19:11,720 --> 00:19:12,750
+Coma-pedras!
+
+165
+00:19:14,390 --> 00:19:16,260
+Como está indo, bola de pêlo?
+
+166
+00:19:17,350 --> 00:19:21,020
+Sua visita pesa
+neste dia já sombrio,
+
+167
+00:19:21,222 --> 00:19:22,132
+Cuzãol.
+
+168
+00:19:22,360 --> 00:19:23,440
+Você sabe disso,
+
+169
+00:19:24,480 --> 00:19:25,860
+desse tipo
+
+170
+00:19:26,690 --> 00:19:28,270
+quem se encontra no asilo?
+
+171
+00:19:28,910 --> 00:19:31,480
+E ele pergunta: "Algum
+alienígena louco escapou?"
+
+172
+00:19:32,120 --> 00:19:33,830
+"Não, por quê?"
+
+173
+00:19:34,040 --> 00:19:36,320
+e o cara responde: "Alguém
+fugiu com minha esposa!"
+
+174
+00:19:37,540 --> 00:19:40,250
+O que eu fiz para merecer isso?
+
+175
+00:19:52,260 --> 00:19:54,290
+O que há de errado com você?
+Talvez sua equipe
+
+176
+00:19:54,290 --> 00:19:55,380
+ele não quer mais ouvir suas piadas
+
+177
+00:19:55,600 --> 00:19:57,560
+você deve vir aqui para me atormentar?
+
+178
+00:19:57,770 --> 00:20:00,810
+Você não acha que ele está tendo problemas suficientes, merda!
+
+179
+00:20:07,530 --> 00:20:10,820
+Uma coisa a fazer para comer!  Merda...
+
+180
+00:20:11,240 --> 00:20:13,650
+Aproveite a sua refeição, meu amigo.
+
+181
+00:20:17,830 --> 00:20:19,110
+Coma-pedras!
+
+182
+00:20:21,210 --> 00:20:22,540
+Pedras!  Como estou com fome!
+
+183
+00:20:22,760 --> 00:20:24,460
+- Faça "ah!" Merda!
+
+184
+00:20:26,390 --> 00:20:27,630
+Sorria!
+
+185
+00:20:30,260 --> 00:20:31,810
+Você não está cansado de jogar suas pedras,
+
+186
+00:20:32,020 --> 00:20:33,930
+idiota!
+
+187
+00:20:35,900 --> 00:20:37,470
+Mas pare com isso!
+
+188
+00:20:37,470 --> 00:20:38,520
+Chega!
+
+189
+00:20:39,670 --> 00:20:41,130
+Aproveite a sua refeição!
+
+190
+00:20:42,990 --> 00:20:43,900
+Em estéreo!
+
+191
+00:20:44,860 --> 00:20:45,860
+Estrangulado!
+
+192
+00:20:47,910 --> 00:20:49,820
+Eu gosto de te alimentar.
+
+193
+00:20:51,120 --> 00:20:52,610
+Que divertido.
+
+194
+00:21:07,260 --> 00:21:10,880
+<i>Diário de Dados do
+Galactic Infinity 3008.17.</i>
+
+195
+00:21:11,100 --> 00:21:15,100
+<i>Nota 1738 do Capitão
+Cornelius Butt.</i>
+
+196
+00:21:16,400 --> 00:21:17,980
+<i>Nada a relatar.</i>
+
+197
+00:21:45,930 --> 00:21:47,590
+Coisas pesadas!
+
+198
+00:21:53,060 --> 00:21:54,100
+Onde eu fiquei?
+
+199
+00:21:56,070 --> 00:21:57,770
+Ah sim, como vai?
+
+200
+00:21:59,190 --> 00:22:01,320
+Quanto tempo você acha que vai demorar para resolver o problema?
+
+201
+00:22:04,160 --> 00:22:07,820
+Você fodeu o circuito e veio perguntar
+quanto tempo leva para consertá-lo?
+
+202
+00:22:08,040 --> 00:22:09,950
+Que nervos vocês!
+
+203
+00:22:10,210 --> 00:22:12,330
+Por que você não conserta você mesmo?
+
+204
+00:22:12,540 --> 00:22:15,380
+Você quebrou jogando, cowboy.
+
+205
+00:22:16,510 --> 00:22:18,710
+Vamos, Maurice!
+
+206
+00:22:18,930 --> 00:22:20,920
+Eu só estava perguntando.
+
+207
+00:22:20,920 --> 00:22:22,380
+Eles me mandaram!
+
+208
+00:22:22,470 --> 00:22:24,260
+E não fique tão bravo.
+
+209
+00:22:25,140 --> 00:22:26,880
+Por que todo mundo tira isso de mim?
+
+210
+00:22:29,940 --> 00:22:31,180
+As pessoas são...
+
+211
+00:22:31,770 --> 00:22:34,640
+... como ovelhas do mar.
+
+212
+00:22:35,030 --> 00:22:37,150
+Eles rugem mais alto
+
+213
+00:22:37,360 --> 00:22:39,650
+quando estou em um grupo.
+
+214
+00:22:40,570 --> 00:22:42,950
+- Do que você está falando?
+- você me pergunta?
+
+215
+00:22:43,410 --> 00:22:47,160
+Ouvi seus malditos
+provérbios o dia todo.
+
+216
+00:22:47,520 --> 00:22:51,540
+Você pode dizer que tudo estará tão
+pronto quanto eu planejei para amanhã.
+
+217
+00:22:52,680 --> 00:22:54,840
+Ainda mais cedo se você me der uma mão.
+
+218
+00:22:55,420 --> 00:22:58,050
+Estou relatando a mensagem, Maurice.
+
+219
+00:22:58,580 --> 00:22:59,370
+Espere!
+
+220
+00:23:00,230 --> 00:23:02,380
+É melhor você contar a ele à tarde.
+
+221
+00:23:03,120 --> 00:23:05,570
+Melhor dizer isso mais cedo ou mais
+tarde, certo, Sam?
+
+222
+00:23:06,510 --> 00:23:11,590
+Aquele que promete muito cedo,
+
+223
+00:23:12,090 --> 00:23:15,590
+percebe muito pouco, tarde demais.
+
+224
+00:23:17,980 --> 00:23:18,420
+Certo.
+
+225
+00:23:19,570 --> 00:23:20,390
+Você entende isso.
+
+226
+00:23:20,400 --> 00:23:22,560
+Acho que vou jantar e
+
+227
+00:23:22,570 --> 00:23:25,120
+Acho que você está muito ocupado para se juntar a nós, Maurice.
+
+228
+00:23:25,470 --> 00:23:28,420
+Qual é o problema, não somos bons
+para você? Homem do espaço em branco!
+
+229
+00:23:38,750 --> 00:23:41,290
+<i>Esta é a rede de rádio da União Galáctica.</i>
+
+230
+00:23:41,290 --> 00:23:44,330
+<i>Que oferece 30 horas de música comercial gratuita</i>
+
+231
+00:23:44,330 --> 00:23:47,150
+<i>oferecido pelo Dr. Stanley
+Booths Dental Office,</i>
+
+232
+00:23:47,580 --> 00:23:49,900
+<i>Especialista em dentes humanos não humanos.</i>
+
+233
+00:23:50,580 --> 00:23:53,950
+<i>Se você é um fã de seus dentes,
+sua melhor escolha é Booths.</i>
+
+234
+00:23:54,840 --> 00:23:57,300
+<i>E agora vamos voltar à nossa música.</i>
+
+235
+00:24:18,110 --> 00:24:19,400
+Delicioso!
+
+236
+00:24:20,990 --> 00:24:22,910
+Eu amo essa hora do dia.
+
+237
+00:24:23,040 --> 00:24:24,470
+Eu posso te dizer isso...
+
+238
+00:24:26,340 --> 00:24:26,940
+disso...
+
+239
+00:24:27,960 --> 00:24:29,160
+disso...
+
+240
+00:24:31,110 --> 00:24:33,260
+aquele cara sentado no restaurante?
+
+241
+00:24:36,980 --> 00:24:37,880
+Ordem...
+
+242
+00:24:39,940 --> 00:24:40,970
+um sanduíche de peru...
+
+243
+00:24:41,970 --> 00:24:44,540
+A garçonete pergunta:
+
+244
+00:24:45,390 --> 00:24:46,620
+"Ele quer comer aqui
+
+245
+00:24:46,920 --> 00:24:47,890
+ou levá-lo embora?  "
+
+246
+00:24:49,000 --> 00:24:50,500
+E ele responde: "Ambos!"
+
+247
+00:24:51,900 --> 00:24:53,020
+Muito divertido, senhor!
+
+248
+00:24:53,580 --> 00:24:55,230
+Ah, sim, foi realmente...
+
+249
+00:24:55,770 --> 00:24:56,780
+muito engraçado senhor.
+
+250
+00:24:59,380 --> 00:25:00,460
+Foi sim
+
+251
+00:25:03,470 --> 00:25:05,290
+Oh, delicioso!
+
+252
+00:25:20,710 --> 00:25:21,670
+Eu pego isso.
+
+253
+00:25:35,940 --> 00:25:38,680
+O vinho!  Está na hora do vinho.
+
+254
+00:25:39,520 --> 00:25:41,770
+Adoro bom vinho.
+
+255
+00:25:46,260 --> 00:25:49,460
+Uma "onda do trovão venusiano", 2001.
+
+256
+00:25:49,770 --> 00:25:51,230
+Ótimo ano!
+
+257
+00:25:51,230 --> 00:25:52,280
+ótimo!
+
+258
+00:26:25,620 --> 00:26:26,830
+Obrigado, sargento Thor!
+
+259
+00:26:27,500 --> 00:26:29,070
+Foi um prazer, senhor.
+
+260
+00:26:50,080 --> 00:26:52,020
+Aah, merda!
+
+261
+00:26:53,040 --> 00:26:53,920
+Sargento Thor!
+
+262
+00:26:55,960 --> 00:26:57,750
+Não vou tocar nas mercadorias, senhora!
+
+263
+00:26:59,290 --> 00:27:00,500
+Mas por que eles fizeram dessa maneira?
+
+264
+00:27:01,350 --> 00:27:03,900
+Por que eles não fizeram isso
+com os canos do fogão saindo?
+
+265
+00:27:05,200 --> 00:27:06,600
+Você não sabe que é proibido para a Polícia Espacial
+
+266
+00:27:06,830 --> 00:27:08,800
+confraternizar com máquinas?
+
+267
+00:27:09,240 --> 00:27:11,320
+É contra as leis da natureza.
+
+268
+00:27:12,010 --> 00:27:13,360
+Você pode ficar cego.
+
+269
+00:27:19,820 --> 00:27:21,740
+Senhores, um brinde.
+
+270
+00:27:26,320 --> 00:27:28,640
+Que podemos ser escravos de nada!
+
+271
+00:27:29,450 --> 00:27:30,120
+Nada!
+
+272
+00:27:30,550 --> 00:27:31,810
+- Nada. 
+- Exceto...
+
+273
+00:27:32,090 --> 00:27:33,090
+do nosso dever.
+
+274
+00:27:33,330 --> 00:27:34,820
+Do nosso dever.
+
+275
+00:27:35,380 --> 00:27:36,030
+E...
+
+276
+00:27:37,570 --> 00:27:38,130
+E...
+
+277
+00:27:40,290 --> 00:27:41,030
+Só isso.
+
+278
+00:27:50,360 --> 00:27:52,250
+Mas!  Estou satisfeito
+
+279
+00:27:53,050 --> 00:27:54,440
+Sim eu também.
+
+280
+00:27:55,350 --> 00:27:57,310
+Estou tão cheio que não
+posso comer por um ano!
+
+281
+00:28:00,360 --> 00:28:01,930
+Onde você conseguiu esse ovo, McHenry?
+
+282
+00:28:03,410 --> 00:28:04,790
+É um ovo autorizado?
+
+283
+00:28:06,240 --> 00:28:09,360
+Não, eu achei isso entre as coisas que comem
+pedra. ele provavelmente roubou em outro lugar.
+
+284
+00:28:10,990 --> 00:28:12,160
+O que você acha que o depôs, senhor?
+
+285
+00:28:12,890 --> 00:28:13,810
+Me mostre.
+
+286
+00:28:15,160 --> 00:28:16,020
+Claro senhor.
+
+287
+00:28:19,600 --> 00:28:20,970
+É um ovo de verdade!
+
+288
+00:28:22,510 --> 00:28:25,590
+Você vê, as pessoas costumavam comer essas
+coisas uma vez. Difícil de imaginar, certo?
+
+289
+00:28:25,960 --> 00:28:27,180
+Definitivamente.
+
+290
+00:28:27,670 --> 00:28:28,660
+Eu imagino isso.
+
+291
+00:28:29,130 --> 00:28:32,180
+a ideia de comê-lo todos os dias vira
+meu estômago, me deixa doente...
+
+292
+00:28:32,180 --> 00:28:33,430
+Chega, agente!
+
+293
+00:28:36,770 --> 00:28:37,990
+Posso ter?
+
+294
+00:28:39,030 --> 00:28:40,490
+Ele não vai comer, verdadeiro senhor.
+
+295
+00:28:40,960 --> 00:28:41,990
+Porque não
+
+296
+00:28:43,940 --> 00:28:45,700
+Eu não sei, isso me deixa doente...
+
+297
+00:28:45,990 --> 00:28:47,800
+meu estômago vira.
+Eu realmente não acho que deveria...
+
+298
+00:28:47,800 --> 00:28:49,160
+Você está certo, senhor.
+
+299
+00:28:50,030 --> 00:28:51,570
+Ele não sabe que tipo de ovo é esse.
+
+300
+00:28:52,340 --> 00:28:54,470
+Ele não sabe de onde você vem...
+O que o depositou.
+
+301
+00:28:55,220 --> 00:28:56,250
+Não faz sentido!
+
+302
+00:28:57,180 --> 00:29:00,420
+Se as pessoas se preocupassem com a
+origem dos ovos, nunca as teriam comido.
+
+303
+00:29:59,230 --> 00:30:00,260
+Ele está engasgado.
+
+304
+00:30:01,620 --> 00:30:02,530
+O que eu devo fazer?
+
+305
+00:30:03,520 --> 00:30:04,150
+Acerte-o!
+
+306
+00:30:05,620 --> 00:30:07,470
+Eu não gostaria de ter problemas mais tarde...
+
+307
+00:30:07,860 --> 00:30:08,280
+Não.
+
+308
+00:30:08,730 --> 00:30:11,940
+- Você tem certeza?
+- Claro que tenho certeza,está engasgando!
+
+309
+00:30:14,210 --> 00:30:15,840
+- Promete? 
+- É uma ordem.
+
+310
+00:30:17,450 --> 00:30:20,330
+Ok !, agora eu vou te ensinar uma lição, velho bastardo!
+
+311
+00:30:51,750 --> 00:30:53,030
+Oh Deus, é terrível!
+
+312
+00:30:53,540 --> 00:30:54,920
+Isso é péssimo.
+
+313
+00:30:54,920 --> 00:30:57,660
+Eu disse, senhor. Ninguém nunca me escuta.
+Especialmente quando estou certo.
+
+314
+00:31:00,100 --> 00:31:01,690
+Não fale assim comigo!
+
+315
+00:31:02,060 --> 00:31:03,350
+Onde diabos você conseguiu esse ovo?
+
+316
+00:31:04,220 --> 00:31:05,580
+- Para onde foi esse monstro?
+- ele foi embora.
+
+317
+00:31:06,190 --> 00:31:07,240
+Eu preciso beber!
+
+318
+00:31:09,260 --> 00:31:11,790
+Vocês dois me bateram muito forte,
+e você fez isso de propósito, eu sei! .
+
+319
+00:31:12,190 --> 00:31:12,820
+Mas eu entendo.
+
+320
+00:31:12,820 --> 00:31:14,670
+Eu entendo você!
+
+321
+00:31:15,650 --> 00:31:17,820
+Eu entendo tudo....
+
+322
+00:31:19,560 --> 00:31:21,000
+Obrigado!  Eu precisava disso!
+
+323
+00:31:33,440 --> 00:31:34,450
+Aí vem a comida!
+
+324
+00:31:37,080 --> 00:31:42,320
+Ei Galaxina, querida!  Como está indo?
+
+325
+00:31:54,890 --> 00:31:56,920
+Olhe para essa bunda, doce!
+
+326
+00:31:58,300 --> 00:31:59,690
+Pena que não é humano.
+
+327
+00:32:00,420 --> 00:32:01,370
+Mulheres-robô
+
+328
+00:32:01,830 --> 00:32:02,830
+como relógios.
+
+329
+00:32:03,900 --> 00:32:04,770
+Rosto bonito,
+
+330
+00:32:05,470 --> 00:32:06,360
+mãos bonitas,
+
+331
+00:32:07,010 --> 00:32:08,200
+belos movimentos,
+
+332
+00:32:08,960 --> 00:32:12,460
+mas difícil de ajustar
+quando ficam fora de ordem.
+
+333
+00:32:12,680 --> 00:32:13,760
+Sim, claro, Sam...
+
+334
+00:32:16,640 --> 00:32:19,720
+Malditas asas!
+Eles são inúteis, não posso mais voar.
+
+335
+00:32:21,000 --> 00:32:21,790
+Merda!
+
+336
+00:32:23,440 --> 00:32:24,500
+Novamente frango.
+
+337
+00:32:26,290 --> 00:32:28,040
+Aposto que eles tinham bifes no andar de cima!
+
+338
+00:32:33,840 --> 00:32:35,050
+Sinto muito!
+
+339
+00:32:35,780 --> 00:32:36,650
+Porra, olha essas coisas!
+
+340
+00:32:49,170 --> 00:32:50,010
+Olá, Galaxina.
+
+341
+00:32:54,000 --> 00:32:56,310
+Eu realmente deveria falar com você por um momento.
+
+342
+00:32:57,100 --> 00:32:58,240
+Se está tudo bem para você.
+
+343
+00:33:01,400 --> 00:33:06,190
+Eu sei que você não pode falar.  Mas você pode sentir.
+
+344
+00:33:10,450 --> 00:33:11,800
+Você é tão linda.
+
+345
+00:33:14,140 --> 00:33:17,290
+Não sei se é porque estou
+aqui há tanto tempo.
+
+346
+00:33:21,520 --> 00:33:23,930
+Mas acho que estou realmente
+apaixonada por você.
+
+347
+00:33:28,110 --> 00:33:29,850
+Eu sei, parece loucura!
+
+348
+00:33:33,290 --> 00:33:34,350
+Afinal,
+
+349
+00:33:35,840 --> 00:33:37,870
+você é uma máquina e
+eu sou um ser humano.
+
+350
+00:33:39,890 --> 00:33:42,040
+Mas você é realmente de outra categoria de máquinas.  .  .
+
+351
+00:33:44,670 --> 00:33:45,750
+Você é verdadeiramente adorável.
+
+352
+00:33:52,100 --> 00:33:53,670
+E eu quero você...
+
+353
+00:33:56,950 --> 00:33:58,090
+Eu só quero te beijar!
+
+354
+00:34:02,020 --> 00:34:02,600
+Eu sei...
+
+355
+00:34:05,460 --> 00:34:06,770
+...sei que ficaria chocada.
+
+356
+00:34:07,720 --> 00:34:08,790
+Não sei mais o que fazer.
+
+357
+00:34:09,930 --> 00:34:11,150
+Eu não resisto!
+
+358
+00:34:27,030 --> 00:34:28,190
+Valeu a pena!
+
+359
+00:34:37,410 --> 00:34:40,230
+- Uma chamada de holograma.
+- Pode ser Elexia, desta vez.
+
+360
+00:34:41,020 --> 00:34:41,850
+E onde está o capitão?
+
+361
+00:34:42,150 --> 00:34:43,970
+Eu não sei, ele provavelmente
+está dormindo em seus aposentos.
+
+362
+00:34:46,240 --> 00:34:46,940
+<i>Oi pessoal!</i>
+
+363
+00:34:47,620 --> 00:34:48,520
+Oi, Elexia!
+
+364
+00:34:48,920 --> 00:34:49,910
+Oi querida tudo bem
+
+365
+00:34:50,480 --> 00:34:51,890
+<i>Bem, como vocês estão?</i>
+
+366
+00:34:52,430 --> 00:34:53,540
+Muito bem  O que está havendo?
+
+367
+00:34:54,210 --> 00:34:56,080
+<i>O comandante quer falar com vocês...</i>
+
+368
+00:34:56,290 --> 00:34:59,690
+<i>mas primeiro, tenho uma coisinha para você.</i>
+
+369
+00:35:00,020 --> 00:35:01,400
+Sim, o que é isso?
+
+370
+00:35:01,730 --> 00:35:03,990
+<i>Eu sei o que vocês gostam no espaço</i>
+
+371
+00:35:04,030 --> 00:35:05,640
+<i>que você passou muitos anos</i>
+
+372
+00:35:05,680 --> 00:35:07,330
+<i>sem uma mulher de verdade.</i>
+
+373
+00:35:08,450 --> 00:35:10,080
+<i>Galaxina está bem, mas,</i>
+
+374
+00:35:10,290 --> 00:35:11,630
+<i>francamente, eu não sei como você pode fazer isso</i>
+
+375
+00:35:11,980 --> 00:35:12,820
+<i>Eu realmente duvido.</i>
+
+376
+00:35:17,640 --> 00:35:19,330
+Ela vai fazer o que eu acho que ele vai fazer?
+
+377
+00:35:20,260 --> 00:35:21,740
+<i>Oh, eu tenho um pequeno burburinho para você.</i>
+
+378
+00:35:22,270 --> 00:35:24,350
+<i>Uma coisa pequena que
+você não pode resistir.</i>
+
+379
+00:35:24,960 --> 00:35:25,730
+Thor!
+
+380
+00:35:28,950 --> 00:35:30,560
+<i>Exatamente.  Me toque, me toque!</i>
+
+381
+00:35:30,850 --> 00:35:33,040
+<i>Oh, muito bom!</i>
+
+382
+00:35:34,870 --> 00:35:36,690
+<i>Vocês são fantásticos!</i>
+
+383
+00:35:37,590 --> 00:35:38,800
+<i>Me toque, me toque!</i>
+
+384
+00:35:39,330 --> 00:35:41,490
+<i>Oh, é tão bonito, tão bonito!</i>
+
+385
+00:35:44,450 --> 00:35:46,450
+Taças de gordura venusianas tremendo!
+
+386
+00:35:48,240 --> 00:35:49,930
+O que está acontecendo aqui?
+
+387
+00:35:51,060 --> 00:35:54,810
+Eu nunca vi uma ostentação
+imoral na minha carreira!
+
+388
+00:35:55,550 --> 00:35:57,410
+Você pensa que é a Polícia Espacial?
+
+389
+00:35:58,000 --> 00:36:01,340
+Se um burro tivesse os dois
+cérebros, seria um burro muito chato!
+
+390
+00:36:02,250 --> 00:36:02,790
+E você
+
+391
+00:36:04,040 --> 00:36:05,290
+Você precisa de um sutiã!
+
+392
+00:36:06,340 --> 00:36:07,880
+<i>Senhor, o comandante quer falar com você.</i>
+
+393
+00:36:08,410 --> 00:36:09,090
+O comandante?
+
+394
+00:36:13,090 --> 00:36:13,690
+<i>tchau, pessoal!</i>
+
+395
+00:36:16,330 --> 00:36:18,020
+Tchau querida
+
+396
+00:36:19,270 --> 00:36:20,440
+Obrigado!
+
+397
+00:36:25,230 --> 00:36:26,480
+<i>Capitão Cornelius Butt?</i>
+
+398
+00:36:27,230 --> 00:36:28,360
+Comandante da gravidade.
+
+399
+00:36:29,200 --> 00:36:31,170
+<i>Meu nome é Garrity, senhor.</i>
+
+400
+00:36:31,700 --> 00:36:33,040
+Nós não esperamos isso.
+
+401
+00:36:33,040 --> 00:36:35,510
+O respeito pelos meus
+superiores deve ser suficiente.
+
+402
+00:36:36,820 --> 00:36:38,730
+Qual é a urgência da comunicação?
+
+403
+00:36:39,610 --> 00:36:42,730
+<i>Bem, o Infinito fará um pequeno desvio.</i>
+
+404
+00:36:43,510 --> 00:36:44,710
+Diversion?  Para onde?
+
+405
+00:36:45,220 --> 00:36:46,280
+<i>Altar 1.</i>
+
+406
+00:36:46,800 --> 00:36:48,540
+Altar 1?
+
+407
+00:36:49,170 --> 00:36:50,100
+<i>Isso mesmo.</i>
+
+408
+00:36:51,060 --> 00:36:51,890
+Mas, comandante,
+
+409
+00:36:52,300 --> 00:36:54,460
+Levará 27 anos para alcançar o Altar 1!
+
+410
+00:36:55,310 --> 00:36:56,800
+<i>Estou ciente disso.</i>
+
+411
+00:36:57,810 --> 00:37:00,690
+Mas, senhor, minha mãe vai se tornar
+uma velha senhora até lá! Senhor!
+
+412
+00:37:01,280 --> 00:37:03,620
+<i>Você sabia que seria posta
+à prova quando se alistasse.</i>
+
+413
+00:37:04,190 --> 00:37:05,900
+<i>Como sua mãe também sabia, suponho.</i>
+
+414
+00:37:06,570 --> 00:37:08,830
+<i>O que você prefere em vez
+deste trabalho, oficial?</i>
+
+415
+00:37:09,350 --> 00:37:10,270
+<i>Eu poderia te mudar.</i>
+
+416
+00:37:10,760 --> 00:37:13,780
+<i>No entanto,
+você ainda não podia deixar o navio</i>
+
+417
+00:37:14,100 --> 00:37:14,960
+<i>por 27 anos.</i>
+
+418
+00:37:15,570 --> 00:37:16,450
+<i>Mas claro</i>
+
+419
+00:37:16,800 --> 00:37:18,730
+<i>seu salário será muito maior imediatamente.</i>
+
+420
+00:37:19,230 --> 00:37:20,950
+Não, não  Estou ficando
+
+421
+00:37:21,860 --> 00:37:26,210
+Senhor, você percebe que não
+podemos voltar à Terra por 54 anos?
+
+422
+00:37:27,130 --> 00:37:30,000
+<i>Claro, mas pense que horas extras!</i>
+
+423
+00:37:30,630 --> 00:37:32,090
+Mas quem tem tempo?
+
+424
+00:37:33,240 --> 00:37:36,240
+São 8:33!
+
+425
+00:37:37,290 --> 00:37:39,550
+Não me diga as horas, burro.
+
+426
+00:37:40,060 --> 00:37:42,690
+Eu tenho 54 anos!
+Quem tem 54 anos para jogar?
+
+427
+00:37:43,050 --> 00:37:44,240
+<i>Eu entendo suas preocupações</i>
+
+428
+00:37:45,130 --> 00:37:46,670
+<i>Mas essa missão é fundamental.</i>
+
+429
+00:37:47,320 --> 00:37:50,850
+<i>E acima de tudo,
+você terá seus quartos cryosonno.</i>
+
+430
+00:37:51,730 --> 00:37:53,770
+Qual é a natureza dessa missão?
+
+431
+00:37:54,170 --> 00:37:54,830
+<i>Bem, capitão,</i>
+
+432
+00:37:55,520 --> 00:37:58,450
+<i>acreditamos que alguém
+descobriu a Estrela Azul.</i>
+
+433
+00:38:00,050 --> 00:38:04,260
+- A estrela azul?
+-A estrela azul.
+
+434
+00:38:07,270 --> 00:38:08,480
+<i>Quando você alcança o Altar 1,</i>
+
+435
+00:38:08,920 --> 00:38:12,010
+<i>você precisará entrar em contato com
+um terráqueo chamado Frank Future.</i>
+
+436
+00:38:12,940 --> 00:38:14,420
+<i>Ele tem uma amostra de rocha.</i>
+
+437
+00:38:15,460 --> 00:38:19,120
+<i>Ele tem o único salão da cidade
+e será fácil de encontrar.</i>
+
+438
+00:38:19,290 --> 00:38:22,340
+<i>Como posso explicar para você o
+quão importante é essa missão.</i>
+
+439
+00:38:23,170 --> 00:38:25,740
+<i>Este mineral tem o poder
+das estrelas dentro dele.</i>
+
+440
+00:38:26,780 --> 00:38:28,260
+<i>Pode revolucionar</i>
+
+441
+00:38:28,570 --> 00:38:30,250
+<i>os setores civilizados do nosso universo.</i>
+
+442
+00:38:31,960 --> 00:38:36,520
+Senhor, eu gostaria de lhe dizer quanto, meus homens
+e eu, estamos orgulhosos, por nos escolher...
+
+443
+00:38:36,630 --> 00:38:40,280
+isso mostra grande talento e
+força extraordinária no processo.
+
+444
+00:38:40,650 --> 00:38:43,050
+Essa missão difícil
+nos faria todos...
+
+445
+00:38:43,410 --> 00:38:45,460
+<i>Você... era o mais próximo.</i>
+
+446
+00:38:47,460 --> 00:38:47,920
+Entendido.
+
+447
+00:38:48,510 --> 00:38:50,970
+<i>Em virtude de sua longa jornada,</i>
+
+448
+00:38:51,370 --> 00:38:54,910
+<i>Eu autorizei uma permissão de 24
+horas para todos na estação vermelha.</i>
+
+449
+00:38:55,850 --> 00:38:57,770
+<i>Galaxina receberá as coordenadas</i>
+
+450
+00:38:58,020 --> 00:38:59,460
+<i>para o Altar 1.</i>
+
+451
+00:39:00,120 --> 00:39:01,960
+<i>Boa sorte e adeus.</i>
+
+452
+00:39:09,890 --> 00:39:13,430
+<i>Pornografia, pornografia, patrulha pornô</i>
+
+453
+00:39:13,640 --> 00:39:17,190
+<i>qualquer porto velho na
+tempestade, qualquer buraco velho</i>
+
+454
+00:39:17,500 --> 00:39:20,000
+<i>Pornografia, pornografia, patrulha pornô</i>
+
+455
+00:40:21,630 --> 00:40:22,430
+Mas bem...
+
+456
+00:40:23,140 --> 00:40:25,860
+Cornelius Butt e a sua gente!
+
+457
+00:40:26,880 --> 00:40:27,760
+geralmente
+
+458
+00:40:28,330 --> 00:40:29,910
+Nunca esqueço um rosto
+
+459
+00:40:30,850 --> 00:40:34,090
+mas no seu caso, farei uma exceção.
+
+460
+00:40:35,220 --> 00:40:38,840
+Kitty, um mês sem você,
+é como um ano em cryosonno.
+
+461
+00:40:42,650 --> 00:40:45,290
+Sempre tão lisonjeiro
+com as velhinhas!
+
+462
+00:40:45,930 --> 00:40:47,920
+Você é um diabo, Butt!
+
+463
+00:40:50,890 --> 00:40:54,280
+Vejo que trouxeste a Cola Terrestre.
+
+464
+00:40:54,850 --> 00:40:58,520
+Ótimo, porque não aceitamos ienes mais antigos.
+
+465
+00:40:58,610 --> 00:40:59,490
+muito instável
+
+466
+00:40:59,780 --> 00:41:01,070
+no mercado galáctico.
+
+467
+00:41:02,230 --> 00:41:03,930
+Mas apenas fale.
+
+468
+00:41:04,690 --> 00:41:10,180
+você deve estar tão
+cansado e animado...
+
+469
+00:41:11,610 --> 00:41:13,400
+Vamos, vamos!
+
+470
+00:42:21,030 --> 00:42:22,160
+Isso é bom!
+
+471
+00:42:22,770 --> 00:42:23,850
+Eu acredito bem.
+
+472
+00:42:23,850 --> 00:42:26,630
+Plutoniano, 100 ienes terrestres por onça.
+
+473
+00:42:27,210 --> 00:42:28,670
+Oh, passe!
+
+474
+00:42:36,040 --> 00:42:39,710
+... então eu me arrastei para o
+deserto preto quente de Plutão,
+
+475
+00:42:40,160 --> 00:42:42,420
+ao norte, entre as pirâmides gêmeas...
+
+476
+00:42:42,890 --> 00:42:45,400
+na densa floresta do amor!
+
+477
+00:42:47,800 --> 00:42:48,840
+Madame!
+
+478
+00:42:52,430 --> 00:42:52,820
+Obrigado.
+
+479
+00:42:53,310 --> 00:42:55,100
+Mas você não tem vergonha?
+
+480
+00:42:57,510 --> 00:42:58,900
+Pelo menos você não tem duas faces,
+
+481
+00:42:59,320 --> 00:43:01,270
+ou você não teria escolhido o que você tem.
+
+482
+00:43:03,460 --> 00:43:04,230
+Vamos.
+
+483
+00:43:47,650 --> 00:43:49,730
+Buzz!  Ei, vamos lá!
+
+484
+00:44:01,120 --> 00:44:04,950
+Da próxima vez, venha me ver.
+Você vai me fazer feliz.
+
+485
+00:44:06,210 --> 00:44:07,660
+Passei momentos lindos,
+
+486
+00:44:08,410 --> 00:44:09,450
+mas não hoje à noite.
+
+487
+00:44:20,230 --> 00:44:21,100
+Controle-se.
+
+488
+00:46:06,740 --> 00:46:09,780
+<i>Diário de bordo dos dados
+Galactic Infinity 3008.2</i>
+
+489
+00:46:10,300 --> 00:46:13,290
+<i>Capitão Cornelius
+Butt, nota número 1739.</i>
+
+490
+00:46:15,090 --> 00:46:17,080
+<i>Hoje estamos indo para o Altar 1.</i>
+
+491
+00:46:18,730 --> 00:46:22,950
+<i>Entraremos nos quartos do cryosonno
+para uma viagem de 27 anos.</i>
+
+492
+00:46:25,130 --> 00:46:27,990
+<i>Pena que o Infinity é um
+navio antigo sem uma usina!</i>
+
+493
+00:46:28,320 --> 00:46:31,250
+<i>O motor é excepcional,
+com todas aquelas luzes coloridas!</i>
+
+494
+00:46:32,760 --> 00:46:36,350
+<i>Todos os novos navios têm hiperpulsos!
+Com o motor, você viaja muito mais rápido!</i>
+
+495
+00:46:37,120 --> 00:46:39,330
+<i>Eu tenho que encontrar um em oferta.</i>
+
+496
+00:46:39,330 --> 00:46:41,300
+<i>No entanto, Galaxina está no controle do navio.</i>
+
+497
+00:46:42,160 --> 00:46:44,700
+<i>Não encontramos mais
+o monstro feio do ovo.</i>
+
+498
+00:46:45,090 --> 00:46:47,820
+<i>Bem, agora eu tenho que ir,</i>
+
+499
+00:46:47,820 --> 00:46:50,640
+<i>mas o que será daquele monstrinho de
+merda, me faz tremer um pouco.</i>
+
+500
+00:50:26,210 --> 00:50:26,860
+<i>Avó!</i>
+
+501
+00:50:26,860 --> 00:50:29,170
+<i>Você poderia abrir este pote de picles para mim?</i>
+
+502
+00:50:29,570 --> 00:50:32,930
+<i>Me desculpe querida.  Eu tenho artrite,</i>
+
+503
+00:50:32,930 --> 00:50:35,540
+<i>e não posso abrir o frasco
+de picles para você.</i>
+
+504
+00:50:35,800 --> 00:50:37,140
+<i>Oh, avó!</i>
+
+505
+00:50:39,720 --> 00:50:41,210
+<i>O que mais posso dizer?</i>
+
+506
+00:50:45,880 --> 00:50:48,190
+<i>Não, não há necessidade de dizer mais nada, avó.</i>
+
+507
+00:50:48,760 --> 00:50:51,180
+<i>Todos sabemos que dor é essa, certo?</i>
+
+508
+00:50:51,750 --> 00:50:55,510
+<i>Bem, agora essa dor pode
+desaparecer para sempre.</i>
+
+509
+00:50:56,140 --> 00:51:00,020
+<i>com o novo fórceps
+Johnson, magnésio atômico.</i>
+
+510
+00:51:00,630 --> 00:51:04,520
+<i>É isso mesmo, com os novos compassos de
+calibre atômico de magnésio da Johnson,</i>
+
+511
+00:51:04,920 --> 00:51:09,110
+<i>dores de artrite
+desaparecerão para sempre.</i>
+
+512
+00:51:09,720 --> 00:51:10,380
+<i>Garantido!</i>
+
+513
+00:51:10,940 --> 00:51:13,550
+<i>Avó, você poderia abrir este
+pote de picles para mim?</i>
+
+514
+00:51:13,550 --> 00:51:15,240
+<i>Claro querida!  Porque não</i>
+
+515
+00:51:23,380 --> 00:51:23,950
+<i>Isso mesmo!</i>
+
+516
+00:51:23,950 --> 00:51:27,330
+<i>Com o novo fórceps
+Johnson, magnésio atômico.</i>
+
+517
+00:51:27,660 --> 00:51:30,760
+<i>dores de artrite
+desaparecerão para sempre.</i>
+
+518
+00:51:31,220 --> 00:51:34,930
+<i>Diga adeus à dor da artrite
+e desfrute de super força!</i>
+
+519
+00:51:35,660 --> 00:51:38,180
+<i>Para mais informações, escreva para:</i>
+
+520
+00:51:38,180 --> 00:51:40,680
+Federação Unida "CLAW"
+
+521
+00:51:40,680 --> 00:51:44,540
+PO Box 0110123
+
+522
+00:51:44,540 --> 00:51:47,360
+New Houston, Ismlap
+
+523
+00:51:47,360 --> 00:51:51,530
+Pluto A76549RP
+
+524
+00:52:17,460 --> 00:52:20,590
+Eu te amo, sargento Thor.
+
+525
+00:52:21,600 --> 00:52:23,350
+Eu te amo
+
+526
+00:52:25,330 --> 00:52:29,860
+Eu sou melhor que uma mulher humana.
+
+527
+00:52:34,620 --> 00:52:37,710
+Eu sou gostosa
+
+528
+00:52:38,260 --> 00:52:43,480
+Eu ajustei minha temperatura.
+
+529
+00:53:33,950 --> 00:53:35,620
+Olá Galaxina!
+
+530
+00:53:47,180 --> 00:53:49,130
+- Eu tenho um desejo repentino!
+- Eu também.
+
+531
+00:53:50,000 --> 00:53:50,710
+Que ano é esse?
+
+532
+00:53:52,520 --> 00:53:53,680
+3035.
+
+533
+00:53:54,570 --> 00:53:56,860
+Eu faço 3033. Essa coisa está para trás.
+
+534
+00:54:05,470 --> 00:54:06,440
+Ei, amigo!
+
+535
+00:54:07,990 --> 00:54:10,000
+Acabámos de fazer horas extraordinárias, não foi?
+
+536
+00:54:10,330 --> 00:54:11,190
+Eu posso me aposentar.
+
+537
+00:54:13,020 --> 00:54:14,110
+Um tolo rico
+
+538
+00:54:15,810 --> 00:54:18,470
+é como uma pintura a óleo medíocre.
+
+539
+00:54:18,910 --> 00:54:20,650
+Ricamente emoldurado.
+
+540
+00:54:21,110 --> 00:54:22,360
+Como vai você, Sam?
+
+541
+00:54:28,800 --> 00:54:29,570
+Oh meu Deus!
+
+542
+00:54:30,950 --> 00:54:32,270
+Parece um homem das cavernas!
+
+543
+00:54:32,670 --> 00:54:35,900
+A vida é apenas uma coisa maldita após a outra.
+
+544
+00:54:36,880 --> 00:54:37,820
+Deixe-me ajudá-lo, senhor.
+
+545
+00:54:39,300 --> 00:54:40,610
+Deixe-me ajudá-lo!
+
+546
+00:54:40,610 --> 00:54:41,550
+Venha em frente!
+
+547
+00:54:43,260 --> 00:54:44,330
+Faça você mesmo, senhor.
+
+548
+00:54:46,450 --> 00:54:47,760
+Para onde ele foi?  Cadê o capitão?
+
+549
+00:54:48,400 --> 00:54:49,640
+Cadê o banheiro?
+
+550
+00:54:50,000 --> 00:54:51,520
+Aqui em baixo não!
+
+551
+00:55:24,600 --> 00:55:25,610
+Você me assustou.
+
+552
+00:55:30,280 --> 00:55:31,030
+O choque.
+
+553
+00:55:34,820 --> 00:55:36,060
+Eu não aguentei o choque.
+
+554
+00:55:52,210 --> 00:55:54,390
+Remarquei o
+procedimento de choque.
+
+555
+00:55:59,310 --> 00:56:02,640
+Você não fala
+
+556
+00:56:04,890 --> 00:56:06,840
+Você não está programada para falar.
+
+557
+00:56:12,180 --> 00:56:13,330
+Eu estou agora
+
+558
+00:56:16,650 --> 00:56:17,840
+Eu fiz isso sozinha.
+
+559
+00:56:20,030 --> 00:56:22,250
+Eu tinha 27 anos para trabalhar nisso.
+
+560
+00:56:27,800 --> 00:56:28,830
+Eu fiz isso por você.
+
+561
+00:56:37,080 --> 00:56:38,440
+Eu te amo, sargento Thor.
+
+562
+00:56:51,600 --> 00:56:53,700
+Você não está mais com frio.
+
+563
+00:56:57,790 --> 00:56:58,580
+Você é gostosa
+
+564
+00:57:00,740 --> 00:57:01,690
+e macia.
+
+565
+00:57:05,960 --> 00:57:07,410
+Como uma mulher humana.
+
+566
+00:57:09,210 --> 00:57:10,480
+Eu ajustei minha temperatura.
+
+567
+00:57:14,510 --> 00:57:16,320
+Eu sou melhor que
+uma mulher humana.
+
+568
+00:57:21,210 --> 00:57:22,530
+Você gosta da minha voz?
+
+569
+00:57:25,010 --> 00:57:25,820
+Ah sim.
+
+570
+00:57:28,130 --> 00:57:30,700
+-Muito.
+- Posso mudar, se quiser, sargento.
+
+571
+00:57:31,200 --> 00:57:33,400
+Não, por favor não.
+
+572
+00:57:35,040 --> 00:57:39,600
+E apenas me chame de Thor.
+
+573
+00:57:44,100 --> 00:57:45,460
+Muito bem, Thor.
+
+574
+00:57:49,360 --> 00:57:51,200
+Seu desejo é uma ordem.
+
+575
+00:57:57,120 --> 00:57:58,210
+Até mais tarde.
+
+576
+00:58:10,450 --> 00:58:12,280
+Oh merda!
+
+577
+00:58:16,190 --> 00:58:18,240
+Gostaria de saber se ela tem...?
+
+578
+00:58:27,780 --> 00:58:30,760
+Quem o construiu,
+certamente esqueceu alguma coisa!
+
+579
+00:59:18,210 --> 00:59:20,530
+Agora eu vou te pegar, Butt.
+
+580
+00:59:30,720 --> 00:59:32,350
+Vou te pegar.
+
+581
+01:00:29,120 --> 01:00:30,160
+Oh, um chicote!
+
+582
+01:00:30,160 --> 01:00:31,950
+- Tiro de que? Whiplash!
+
+583
+01:00:35,730 --> 01:00:36,520
+Eu vou processar!
+
+584
+01:00:37,060 --> 01:00:38,830
+A polícia espacial
+deve ter seguro.
+
+585
+01:00:39,200 --> 01:00:41,310
+Oh, chicotada! Eu serei rico!
+
+586
+01:00:45,370 --> 01:00:46,210
+Tiro de quê?
+
+587
+01:00:46,830 --> 01:00:49,490
+O que é isso Cagnara!  Onde estamos na Filadélfia?
+
+588
+01:00:50,190 --> 01:00:51,390
+Ah, minhas asas doem!
+
+589
+01:00:52,560 --> 01:00:54,700
+Cara, que tem um chicote...
+
+590
+01:00:55,070 --> 01:00:56,440
+ele logo se torna rico.
+
+591
+01:01:06,790 --> 01:01:08,780
+Vamos para a cidade para encontrar Frank Future.
+
+592
+01:01:11,990 --> 01:01:14,040
+Sinto muito que você tenha
+que ir sozinha, Galaxina.
+
+593
+01:01:15,860 --> 01:01:16,960
+Nós sabemos que você pode fazer isso.
+
+594
+01:01:18,610 --> 01:01:20,150
+O chicote quase nos matou.
+
+595
+01:01:22,310 --> 01:01:23,390
+Outra coisa, Galaxina...
+
+596
+01:01:24,820 --> 01:01:27,460
+Devido à irradiação excessiva dos
+raios infravermelhos no planeta,
+
+597
+01:01:28,240 --> 01:01:29,860
+a atmosfera é muito estranha.
+
+598
+01:01:30,620 --> 01:01:33,100
+Quando o sol nasce, todas as cores mudam.
+
+599
+01:01:34,470 --> 01:01:36,520
+Durante o dia, o céu azul fica vermelho.
+
+600
+01:01:37,660 --> 01:01:39,260
+À noite, tudo volta ao normal.
+
+601
+01:01:47,990 --> 01:01:50,780
+O altar 1 é inteiramente habitado
+pela escória do universo...
+
+602
+01:01:52,360 --> 01:01:56,280
+estabelecido pelos terráqueos, durante mais
+de 500 anos de uso como uma colônia penal.
+
+603
+01:02:03,710 --> 01:02:04,970
+Então, por favor,
+
+604
+01:02:05,750 --> 01:02:06,680
+tenha cuidado.
+
+605
+01:02:50,900 --> 01:02:52,600
+RESTAURANTE HUMANO
+
+606
+01:03:27,630 --> 01:03:29,370
+SOMENTE ESTRANGEIROS
+
+607
+01:03:51,010 --> 01:03:55,980
+<i>BEBIDAS: Bloody Maria, Skin & Tonic, Gelo
+Escocês, Pink Lady, Leite materno, Earth Cola</i>
+
+608
+01:03:56,320 --> 01:03:59,660
+<i>DOCES: torta de coxa, assado no Alasca,
+fruta do ventre, creme de órbita</i>
+
+609
+01:03:59,760 --> 01:04:03,580
+<i>Bolo do Povo, Bolo
+Eschimese, Bolo de Isca Preta</i>
+
+610
+01:04:04,830 --> 01:04:06,180
+<i>COLA TERRESTRIAL</i>
+
+611
+01:04:10,640 --> 01:04:12,460
+<i>Pé humano em conserva, sanduíche de garretto,
+damas fritas, salada de olhos geados</i>
+
+612
+01:04:12,570 --> 01:04:14,500
+<i>Pernas branqueadas tostadas, miudezas salteadas,
+barriga assada, lóbulo da terra, papilas saborosas</i>
+
+613
+01:04:40,880 --> 01:04:42,080
+Você é Frank Future?
+
+614
+01:04:42,640 --> 01:04:44,030
+Meu nome é senhor Spot.
+
+615
+01:04:44,920 --> 01:04:48,840
+Frank Future, deixe-me
+pensar, Frank Future...
+
+616
+01:04:50,770 --> 01:04:52,080
+Ah sim, eu lembro disso.
+
+617
+01:04:52,880 --> 01:04:54,100
+Ah mesmo?
+
+618
+01:04:54,990 --> 01:04:56,250
+Sim, estava delicioso.
+
+619
+01:04:58,020 --> 01:04:58,960
+Delicioso?
+
+620
+01:04:59,880 --> 01:05:01,190
+Eu acho que foi assado.
+
+621
+01:05:02,880 --> 01:05:03,860
+Talvez no vapor.
+
+622
+01:05:05,090 --> 01:05:06,780
+Sinto muito, não me lembro.
+
+623
+01:05:08,630 --> 01:05:09,250
+O que vai tomar?
+
+624
+01:05:10,710 --> 01:05:11,890
+Uma bebida gelada?
+
+625
+01:05:12,330 --> 01:05:15,230
+Talvez um tremor de sangue ou...
+plasma fresco?
+
+626
+01:05:15,620 --> 01:05:17,510
+Com algumas damas além disso.
+
+627
+01:05:25,970 --> 01:05:27,590
+Oh, você é nojento!
+
+628
+01:05:28,330 --> 01:05:29,820
+Oh não, meu robô fofo.
+
+629
+01:05:30,210 --> 01:05:32,130
+Você não sabia que os robôs não têm emoções?
+
+630
+01:05:32,890 --> 01:05:34,360
+Você está começando a se tornar humano.
+
+631
+01:05:36,050 --> 01:05:38,370
+Eu gostaria de ver o quarto
+de Frank Future, se eu puder.
+
+632
+01:05:38,760 --> 01:05:41,130
+Porque não?
+Lá em cima, segunda porta à direita.
+
+633
+01:05:42,560 --> 01:05:44,170
+Tem certeza de que não quer tomar uma bebida?
+
+634
+01:06:17,010 --> 01:06:18,250
+Coloque a arma na cama.
+
+635
+01:06:21,260 --> 01:06:22,620
+Você deve ser Galaxina.
+
+636
+01:06:23,310 --> 01:06:25,380
+Eu ouvi muito sobre você.
+
+637
+01:06:25,670 --> 01:06:27,930
+Eventualmente, nos
+encontramos, Ordric of Mordric.
+
+638
+01:06:28,370 --> 01:06:31,470
+Você é muito bonita por ser um autômato.
+
+639
+01:06:31,790 --> 01:06:33,070
+E você, querido?
+
+640
+01:06:33,970 --> 01:06:35,760
+Tire sua máscara e me mostre seu rosto!
+
+641
+01:06:36,390 --> 01:06:37,840
+Esta é a minha cara!
+
+642
+01:06:38,720 --> 01:06:39,680
+Ah, desculpe!
+
+643
+01:06:40,230 --> 01:06:41,130
+Ok.
+
+644
+01:06:41,570 --> 01:06:44,300
+Eu suponho que você está
+procurando a Estrela Azul?
+
+645
+01:06:46,630 --> 01:06:47,390
+O que foi isso?
+
+646
+01:06:47,940 --> 01:06:48,740
+Quem esta ai
+
+647
+01:06:52,090 --> 01:06:52,890
+A Estrela Azul...
+
+648
+01:06:54,850 --> 01:06:56,190
+Que merda é essa?
+
+649
+01:06:58,510 --> 01:06:59,170
+... é meu.
+
+650
+01:07:00,040 --> 01:07:03,170
+Com isso, controlarei o universo.
+
+651
+01:07:04,400 --> 01:07:05,560
+Ah, linda!
+
+652
+01:07:05,890 --> 01:07:06,690
+Deixe-a!
+
+653
+01:07:08,640 --> 01:07:09,980
+Mas eu quero tocá-lo!
+
+654
+01:07:13,460 --> 01:07:16,560
+- No entanto, se você tem medo de mim...
+- O que você está fazendo?
+
+655
+01:07:16,860 --> 01:07:18,940
+- De uma simples criação terrena...
+- Fique longe!
+
+656
+01:07:19,690 --> 01:07:20,720
+Eu entendo
+
+657
+01:07:22,840 --> 01:07:24,300
+Toque se quiser.
+
+658
+01:07:24,540 --> 01:07:26,200
+Ordric não tem medo.
+
+659
+01:07:26,540 --> 01:07:27,860
+Eu quero levá-lo na mão!
+
+660
+01:07:29,510 --> 01:07:32,580
+Tome,
+se isso lhe der satisfação.
+
+661
+01:07:35,640 --> 01:07:36,900
+O que esta fazendo
+
+662
+01:07:38,190 --> 01:07:39,930
+Pare de dar voltas e voltas!
+
+663
+01:07:41,690 --> 01:07:43,170
+Vamos tomar um café!
+
+664
+01:07:45,390 --> 01:07:46,660
+Por favor!
+
+665
+01:07:47,250 --> 01:07:48,040
+Pare com isso!
+
+666
+01:07:51,320 --> 01:07:54,050
+Meu giroscópio dói!
+
+667
+01:07:54,420 --> 01:07:55,940
+Você está se sentindo atordoado, Ordric?
+
+668
+01:08:01,470 --> 01:08:02,060
+Muito obrigado.
+
+669
+01:08:03,730 --> 01:08:06,290
+Oh merda!
+
+670
+01:09:09,130 --> 01:09:10,490
+A Estrela Azul...
+
+671
+01:09:12,930 --> 01:09:13,940
+É meu.
+
+672
+01:09:14,570 --> 01:09:15,970
+Aceite.
+
+673
+01:09:30,050 --> 01:09:32,130
+Oi... que horas são?
+
+674
+01:09:32,130 --> 01:09:33,910
+Oi... meio-dia.
+
+675
+01:09:33,910 --> 01:09:35,890
+Vamos embora... vamos lá.
+
+676
+01:10:47,280 --> 01:10:48,210
+Ei, acalme-se, amigo.
+
+677
+01:10:48,580 --> 01:10:49,970
+Ela pode lidar com isso.
+
+678
+01:10:50,240 --> 01:10:50,730
+Além disso,
+
+679
+01:10:51,160 --> 01:10:51,890
+mesmo que não fosse...
+
+680
+01:10:52,350 --> 01:10:53,200
+sempre podemos
+
+681
+01:10:53,440 --> 01:10:55,160
+solicite outra máquina!
+
+682
+01:10:55,770 --> 01:10:58,020
+Não é apenas um
+carro, garoto morcego.
+
+683
+01:10:59,170 --> 01:11:00,510
+Vamos lá, Thor!
+
+684
+01:11:01,200 --> 01:11:02,700
+É apenas um maldita máquina.
+
+685
+01:11:05,730 --> 01:11:06,590
+Me sinto muito melhor
+
+686
+01:11:07,040 --> 01:11:09,270
+Uma máquina sempre será uma máquina.
+
+687
+01:11:09,740 --> 01:11:11,040
+Estou brincando!
+
+688
+01:11:11,150 --> 01:11:12,340
+O que é uma máquina?
+
+689
+01:11:12,510 --> 01:11:14,350
+Pedimos pizza?
+
+690
+01:11:15,030 --> 01:11:16,320
+Você também me merece, não é Buzz?
+
+691
+01:11:18,880 --> 01:11:20,470
+Ela não é... apenas uma máquina!
+
+692
+01:11:22,560 --> 01:11:23,350
+Eu quero dizer...
+
+693
+01:11:26,610 --> 01:11:27,620
+Não é uma máquina.
+
+694
+01:11:28,200 --> 01:11:29,300
+Com salsicha!
+
+695
+01:11:30,280 --> 01:11:32,410
+- Eu vou encontrá-la.
+- Com queijo extra!
+
+696
+01:11:35,410 --> 01:11:36,740
+Ninguém vem comigo?
+
+697
+01:11:37,500 --> 01:11:38,780
+Com linguiça.
+
+698
+01:11:40,910 --> 01:11:42,220
+A crosta macia!
+
+699
+01:11:47,040 --> 01:11:48,370
+Você é uma abóbora vazia, cara.
+
+700
+01:11:50,650 --> 01:11:52,430
+É sempre sacrossanto
+quando se trata de amor.
+
+701
+01:11:53,560 --> 01:11:56,100
+Espere, sem anchovas!
+
+702
+01:11:58,200 --> 01:11:59,340
+Imaginação...
+
+703
+01:12:00,060 --> 01:12:01,810
+vive no jovem...
+
+704
+01:12:01,810 --> 01:12:03,620
+para compensar o que não é.
+
+705
+01:12:04,110 --> 01:12:06,530
+Sam, pode calar a boca?
+
+706
+01:13:46,210 --> 01:13:48,350
+Estamos diante do grande Deus,
+
+707
+01:13:48,880 --> 01:13:52,460
+Harley-Davidson.
+
+708
+01:13:54,210 --> 01:13:56,890
+Oh, Harley-Davidson,
+
+709
+01:13:57,640 --> 01:13:59,530
+nosso senhor e mestre,
+
+710
+01:14:00,290 --> 01:14:02,460
+nosso ídolo simulacro,
+
+711
+01:14:02,960 --> 01:14:04,690
+Por favor, proteja-nos!
+
+712
+01:14:15,870 --> 01:14:17,250
+Nossos ancestrais
+
+713
+01:14:17,410 --> 01:14:21,240
+eles foram os primeiros foras da
+lei a serem enviados ao Altar 1.
+
+714
+01:14:22,090 --> 01:14:24,300
+Uma quadrilha de motociclistas.
+
+715
+01:14:25,690 --> 01:14:26,580
+Agora nós
+
+716
+01:14:27,230 --> 01:14:28,550
+os descendentes,
+
+717
+01:14:29,440 --> 01:14:31,020
+nós dominaremos o universo.
+
+718
+01:14:32,760 --> 01:14:37,140
+Em minhas mãos eu seguro a Estrela Azul...
+
+719
+01:14:46,940 --> 01:14:50,590
+A chave para uma grande riqueza.
+
+720
+01:14:53,850 --> 01:14:55,880
+E quando o sol nasce, a oeste,
+
+721
+01:14:56,940 --> 01:14:58,860
+esse pecador...
+
+722
+01:14:59,660 --> 01:15:01,330
+Você!
+
+723
+01:15:02,670 --> 01:15:03,820
+... será sacrificado...
+
+724
+01:15:04,760 --> 01:15:12,250
+para as grandes duas rodas no céu, Harley Davidson
+
+725
+01:15:13,300 --> 01:15:16,350
+Oh, Harley-Davidson,
+
+726
+01:15:16,370 --> 01:15:19,090
+nosso senhor e mestre,
+
+727
+01:15:19,230 --> 01:15:20,980
+nosso ídolo simulacro,
+
+728
+01:15:21,060 --> 01:15:22,890
+Por favor, proteja-nos!
+
+729
+01:15:32,230 --> 01:15:35,260
+Chegou a nossa hora.
+
+730
+01:15:37,660 --> 01:15:38,840
+Com a estrela azul...
+
+731
+01:15:48,720 --> 01:15:49,660
+I...
+
+732
+01:15:50,440 --> 01:15:51,390
+Chopper...
+
+733
+01:15:52,250 --> 01:15:54,270
+Serei capaz de governar este planeta.
+
+734
+01:15:56,540 --> 01:15:57,370
+Merda!
+
+735
+01:15:59,110 --> 01:16:03,130
+Eu posso governar toda
+a porra do universo!
+
+736
+01:16:07,630 --> 01:16:08,820
+Estou lhe dizendo uma coisa, estou com muita fome!
+
+737
+01:16:11,210 --> 01:16:12,710
+Quem nunca quis encontrar
+um restaurante para humanos
+
+738
+01:16:12,810 --> 01:16:14,060
+com toda essa vida, assim
+
+739
+01:16:25,220 --> 01:16:26,110
+Nojento.
+
+740
+01:16:33,970 --> 01:16:37,580
+Este não é exatamente o nosso
+tipo de restaurante humano, certo?
+
+741
+01:16:39,250 --> 01:16:40,290
+Não!
+
+742
+01:16:42,850 --> 01:16:45,600
+Na realidade, nem sequer temos
+fome de qualquer maneira.
+
+743
+01:16:47,860 --> 01:16:49,110
+Ei amigo, quanto você quer para a jukebox?
+
+744
+01:16:49,710 --> 01:16:51,280
+Ei, olhe lá, que ótima jukebox
+
+745
+01:16:51,380 --> 01:16:52,740
+Vale uma fortuna, é uma antiguidade!
+
+746
+01:17:49,880 --> 01:17:50,790
+Oh merda!
+
+747
+01:18:18,040 --> 01:18:19,020
+Coelho peludo!
+
+748
+01:18:23,640 --> 01:18:24,670
+Coelho peludo?
+
+749
+01:18:27,020 --> 01:18:27,890
+Cale a boca.
+
+750
+01:18:47,300 --> 01:18:48,170
+Gire a chave...
+
+751
+01:18:49,840 --> 01:18:50,760
+e pressione o pedal.
+
+752
+01:19:08,390 --> 01:19:11,140
+Eles estão roubando Nosso Senhor!
+Isso é impossível!
+
+753
+01:19:12,350 --> 01:19:14,260
+Rápido, para os cavalos!
+Levante-se!
+
+754
+01:19:18,580 --> 01:19:19,390
+Ei, não atire!
+
+755
+01:19:19,850 --> 01:19:21,060
+Você pode atingir o Senhor.
+
+756
+01:19:47,100 --> 01:19:49,010
+- Você não está indo mais rápido?
+- não!
+
+757
+01:20:14,660 --> 01:20:16,270
+Eles não querem bater no Senhor.
+
+758
+01:20:32,310 --> 01:20:33,790
+Eu acho que fiquei sem combustível!
+
+759
+01:21:26,580 --> 01:21:27,830
+Esquecemos a pizza.
+
+760
+01:21:30,850 --> 01:21:31,790
+Obrigado!
+
+761
+01:21:32,400 --> 01:21:34,500
+Por entregar a Estrela Azul ...
+
+762
+01:21:38,330 --> 01:21:39,100
+... para mim mesmo.
+
+763
+01:21:39,680 --> 01:21:40,950
+Eu pensei que tinha destruído você!
+
+764
+01:21:41,530 --> 01:21:43,320
+Eu tenho um excelente mecânico.
+
+765
+01:21:44,710 --> 01:21:46,210
+Mas não vamos perder mais tempo.
+
+766
+01:21:47,350 --> 01:21:48,110
+Capitão.
+
+767
+01:21:48,970 --> 01:21:51,320
+Defina o caminho para o planeta Mordric.
+
+768
+01:21:52,030 --> 01:21:55,910
+Mordric, é um bairro nos arredores da Filadélfia...
+
+769
+01:21:57,250 --> 01:21:58,430
+Ou é Pittsburgh?
+
+770
+01:21:59,440 --> 01:22:01,040
+Eles fazem a melhor pizza.
+
+771
+01:22:02,040 --> 01:22:04,180
+Até Urano, depois vire à esquerda.
+
+772
+01:22:05,060 --> 01:22:06,020
+- Direita.
+- Esquerda!
+
+773
+01:22:06,300 --> 01:22:07,270
+- certo. 
+- Não!
+
+774
+01:22:07,820 --> 01:22:08,530
+Esquerda!
+
+775
+01:22:09,130 --> 01:22:12,270
+Você é louco, não pode virar à esquerda e à direita
+
+776
+01:22:15,120 --> 01:22:16,740
+Morda as barras!
+
+777
+01:22:17,740 --> 01:22:19,250
+Barras finas!
+
+778
+01:22:19,800 --> 01:22:21,370
+Venha, coma as barras!
+
+779
+01:22:24,600 --> 01:22:25,870
+Os bares, mordam as barras!
+
+780
+01:22:26,420 --> 01:22:28,250
+Eu não como barras.  Eu sou um comedor de pedras.
+
+781
+01:22:28,570 --> 01:22:31,780
+Comedores de pedra não comem barras,
+comedores de barras comem barras.
+
+782
+01:22:32,020 --> 01:22:34,640
+Os comedores de pedras comem pedras!
+é assim que ficamos chapados...
+
+783
+01:22:35,430 --> 01:22:36,150
+Cuzão!
+
+784
+01:22:38,040 --> 01:22:40,390
+Por que você não brinca em um buraco negro?
+
+785
+01:22:40,910 --> 01:22:41,660
+Thor, vamos lá!
+
+786
+01:22:44,110 --> 01:22:47,860
+Thor! Você não deve tratar mal
+o prisioneiro, de forma alguma.
+
+787
+01:22:48,790 --> 01:22:49,840
+Ele é tão gentil.
+
+788
+01:22:52,330 --> 01:22:54,960
+Eu também acho você doce, querida.
+
+789
+01:22:55,490 --> 01:22:56,820
+Posso levá-lo para ver minhas impressões?
+
+790
+01:22:58,190 --> 01:23:00,700
+Apenas mais uma pedrinha na praia...
+
+791
+01:23:00,970 --> 01:23:02,340
+Quem precisa dessa merda!
+
+792
+01:23:02,400 --> 01:23:04,410
+... para aumentar uma pequena borda!
+
+793
+01:23:04,750 --> 01:23:06,090
+Dá um tempo!
+
+794
+01:23:07,010 --> 01:23:09,240
+Afinal,
+ele comeu as jóias da rainha.
+
+795
+01:23:10,230 --> 01:23:11,630
+Mas talvez ele estivesse com fome.
+
+796
+01:23:11,920 --> 01:23:14,270
+Você começa a falar como um humano,
+querida, é melhor se acalmar.
+
+797
+01:23:14,850 --> 01:23:17,590
+Ele é um criminoso.
+Ele comeu as jóias da rainha.
+
+798
+01:23:18,150 --> 01:23:19,490
+<i>Você tem problemas com álcool?</i>
+
+799
+01:23:20,090 --> 01:23:22,700
+<i>Nesse caso, ligue para o Happy Hour Spirit,</i>
+
+800
+01:23:23,040 --> 01:23:25,460
+<i>A cadeia de lojas de bebidas
+está lá para atendê-lo.</i>
+
+801
+01:23:26,050 --> 01:23:28,460
+<i>Temos lojas em toda a galáxia!</i>
+
+802
+01:23:29,390 --> 01:23:33,090
+<i>Happy Hour Spirit,
+tem o que você mais deseja.</i>
+
+803
+01:23:33,740 --> 01:23:34,980
+<i>E agora eles voltam para o nosso,</i>
+
+804
+01:23:35,270 --> 01:23:39,220
+<i>"Filme antigo da semana" do século
+XX: "Primeira nave espacial em Vênus"</i>
+
+805
+01:23:41,600 --> 01:23:42,280
+<i>Olhe aquelas bolhas!</i>
+
+806
+01:23:42,870 --> 01:23:44,360
+<i>Uma forma de vida orgânica!</i>
+
+807
+01:24:10,690 --> 01:24:11,890
+<i>Holligan, pare!</i>
+
+808
+01:24:12,710 --> 01:24:14,110
+<i>vem em nossa direção, olha!</i>
+
+809
+01:24:16,200 --> 01:24:17,380
+<i>para nós rapidamente!</i>
+
+810
+01:24:29,010 --> 01:24:30,050
+<i>Sumiko, eu vou!</i>
+
+811
+01:25:10,310 --> 01:25:12,690
+Se você tivesse "você sabe o que"...
+
+812
+01:25:14,000 --> 01:25:15,580
+Eu esqueci de te contar...
+
+813
+01:25:16,510 --> 01:25:19,350
+Eu verifiquei o catálogo. A opção
+"você sabe o que" está em oferta...
+
+814
+01:25:20,270 --> 01:25:22,370
+- Sério? 
+- sim
+
+815
+01:25:24,230 --> 01:25:25,240
+E isso pode funcionar?
+
+816
+01:25:27,240 --> 01:25:28,450
+Vem com a garantia.
+
+817
+01:25:59,440 --> 01:26:00,420
+Quem esta ai?
+
+818
+01:26:15,470 --> 01:26:16,240
+Quem é?
+
+819
+01:26:27,720 --> 01:26:30,270
+A união do homem e da máquina.
+
+820
+01:26:32,670 --> 01:26:35,300
+- Thor.
+ - Galaxina.
+
+821
+01:26:42,920 --> 01:26:44,100
+O que está havendo?
+
+822
+01:26:47,500 --> 01:26:48,360
+Crianças!
+
+823
+01:26:50,600 --> 01:26:53,540
+- Não podemos ter filhos!
+- Claro que podemos!
+
+824
+01:26:54,720 --> 01:26:56,500
+Eles estão no catálogo.
+
+825
+01:26:57,960 --> 01:27:00,360
+- Galaxina... 
+- Thor.
+
+826
+01:27:02,480 --> 01:27:04,180
+Eu ouvi alguma coisa
+
+827
+01:27:16,930 --> 01:27:19,360
+<i>Não tenha medo, Sumiko.
+Nós vamos encontrar uma saída daqui.</i>
+
+828
+01:27:21,700 --> 01:27:22,840
+O que está havendo?
+
+829
+01:27:26,190 --> 01:27:27,780
+<i>Não atire, não atire!</i>
+
+830
+01:28:11,720 --> 01:28:12,870
+Ei, dê uma olhada...
+
+831
+01:28:34,040 --> 01:28:35,220
+Talvez ele pense que você é a mãe dela.
+
+832
+01:28:35,520 --> 01:28:36,650
+É, em certo sentido.
+
+833
+01:28:37,820 --> 01:28:38,480
+Cale a boca!
+
+834
+01:28:38,900 --> 01:28:40,630
+Quem se importa com quem é a mãe?
+
+835
+01:29:08,130 --> 01:29:09,800
+Agora que temos a Estrela Azul...
+
+836
+01:29:16,580 --> 01:29:17,820
+Estrela azul!
+
+837
+01:29:19,600 --> 01:29:20,820
+... vamos voltar ao chão.
+
+838
+01:29:21,600 --> 01:29:23,260
+Todos seremos ricos!
+
+839
+01:29:23,950 --> 01:29:26,750
+e vamos esclarecer de onde veio!
+
+840
+01:29:29,860 --> 01:29:30,870
+Oh, isso é bom.
+
+841
+01:29:31,680 --> 01:29:32,860
+nós precisaremos disso.
+
+842
+01:29:39,120 --> 01:29:39,880
+Filho!
+
+843
+01:29:40,390 --> 01:29:41,330
+Ataque!
+
+844
+01:29:43,450 --> 01:29:45,770
+Não em mim!
+
+845
+01:30:04,000 --> 01:30:06,210
+<i>Diário de Dados do
+Galactic Infinity...</i>
+
+846
+01:30:07,970 --> 01:30:09,160
+<i>1942.</i>
+
+847
+01:30:10,000 --> 01:30:11,010
+<i>Tenente Cornelius Butt,</i>
+
+848
+01:30:11,380 --> 01:30:12,490
+<i>Nota número...</i>
+
+849
+01:30:13,520 --> 01:30:16,280
+<i>Onde estamos localizados?
+O que é isso? É o espaço!</i>
+
+850
+01:30:16,800 --> 01:30:18,260
+<i>Nota número...</i>
+
+851
+01:30:20,120 --> 01:30:23,240
+<i>Aqui é Corny Butt,
+a Filadélfia está aqui?</i>
+
+852
+01:30:24,040 --> 01:30:25,860
+<i>Ei Buzz, você esqueceu a pizza!</i>
+
+853
+01:30:26,100 --> 01:30:29,540
+<i>Aposto que você trouxe anchovas?
+Não quero anchovas!</i>
+
+854
+01:30:29,960 --> 01:30:32,490
+<i>É por isso que todo mundo tem para você!</i>
+
+855
+01:30:33,060 --> 01:30:34,210
+<i>Que música é essa?</i>
+
+856
+01:30:34,470 --> 01:30:36,230
+<i>Ei, estou gravando uma nota!</i>
+
+857
+01:30:37,020 --> 01:30:38,490
+<i>Você pode recusar?</i>
+
+858
+01:30:39,730 --> 01:30:40,600
+<i>Transformá-lo para baixo!</i>
+
+859
+01:30:41,170 --> 01:30:42,980
+<i>Não, do outro lado, seus idiotas!</i>
+
+860
+01:30:45,300 --> 01:30:46,690
+<i>Eu gosto de hiperespaço.</i>
+
+861
+01:30:47,180 --> 01:30:49,520
+<i>As cores são tão
+fofas, e os sons,</i>
+
+862
+01:30:49,830 --> 01:30:52,350
+<i>e no "weesh", "woosh", "brroum"!</i>
+
+863
+01:30:53,830 --> 01:30:55,360
+<i>Como vão as coisas, pessoal?</i>
+
+864
+01:30:55,840 --> 01:31:00,110
+<i>Bem, então, o comedor de
+pedras comeu a Estrela Azul.</i>
+
+865
+01:31:02,160 --> 01:31:02,980
+<i>Cale a boca!</i>
+
+866
+01:31:03,940 --> 01:31:07,850
+<i>Temos que voltar ao Altar 1 para
+encontrar outro Blue... Star...</i>
+
+867
+01:31:10,120 --> 01:31:11,330
+<i>Quem esta ai  O que está havendo?</i>
+
+868
+01:31:11,860 --> 01:31:13,380
+<i>Quem está fazendo esse barulho?</i>
+
+869
+01:31:13,900 --> 01:31:16,810
+<i>Aqui está Cornelius Butt,
+prefeito da Filadélfia.</i>
+
+870
+01:31:17,370 --> 01:31:21,550
+<i>Quando voltarmos ao Altar 1,
+irei à praia para ver o mar vermelho...</i>
+
+871
+01:31:21,820 --> 01:31:23,930
+<i>enquanto os outros vão procurar outra pedra...</i>
+
+872
+01:31:24,560 --> 01:31:26,060
+<i>Eu não disse Estrela Azul!</i>
+
+873
+01:31:27,250 --> 01:31:29,300
+<i>Fools! Fools!
+Você pode me ouvir?</i>
+
+874
+01:31:30,160 --> 01:31:32,520
+<i>Galaxina é muito bonita por ser um robô.</i>
+
+875
+01:31:32,520 --> 01:31:34,250
+<i>Ei, ei, você sabe o que eu quero dizer?</i>
+
+876
+01:31:35,060 --> 01:31:36,780
+<i>você gostaria de queimar os fusíveis?</i>
+
+877
+01:31:38,020 --> 01:31:39,100
+<i>Onde eu estou?</i>
+
+878
+01:31:39,340 --> 01:31:41,800
+<i>Vamos, filho,
+vamos pegar uma pizza!</i>
+
+879
+01:31:48,947 --> 01:31:52,830
+CultTrasheiraBr
+

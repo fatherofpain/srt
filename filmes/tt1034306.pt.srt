@@ -1,0 +1,4142 @@
+1
+00:00:06,000 --> 00:00:12,074
+api.OpenSubtitles.org is deprecated, please
+implement REST API from OpenSubtitles.com
+
+2
+00:00:47,778 --> 00:00:51,270
+<i>"Aonde posso escapar
+de Seu espírito?"</i>
+
+3
+00:00:52,322 --> 00:00:56,850
+<i>"Aonde fugirei 
+de Sua presença?"</i>
+
+4
+00:00:56,739 --> 00:00:59,207
+<i>"Se subisse aos céus,"</i>
+
+5
+00:00:59,171 --> 00:01:01,105
+<i>"lá estaria Você."</i>
+
+6
+00:01:01,091 --> 00:01:05,187
+<i>"Se me elevasse
+nas asas do alvorecer"</i>
+
+7
+00:01:05,092 --> 00:01:09,927
+<i>"e habitasse no fundo do mar"</i>
+
+8
+00:01:09,796 --> 00:01:12,026
+<i>"mesmo lá"</i>
+
+9
+00:01:12,004 --> 00:01:15,839
+<i>"Sua mão me guiará."</i>
+
+10
+00:01:15,749 --> 00:01:19,116
+<i>"Não há aonde ir"</i>
+
+11
+00:01:19,046 --> 00:01:21,981
+<i>"nem existe lugar algum"</i>
+
+12
+00:01:21,926 --> 00:01:23,757
+<i>"onde não esteja na presença"</i>
+
+13
+00:01:23,750 --> 00:01:26,446
+<i>"de Deus nosso Senhor."</i>
+
+14
+00:01:26,406 --> 00:01:28,966
+<i>"Não há pensamento"</i>
+
+15
+00:01:28,934 --> 00:01:31,528
+<i>"nem sonho que sonhe"</i>
+
+16
+00:01:31,494 --> 00:01:36,090
+<i>"que não veja Deus 
+nosso Senhor."</i>
+
+17
+00:01:35,975 --> 00:01:37,966
+<i>"Se subisse aos céus,"</i>
+
+18
+00:01:37,958 --> 00:01:40,791
+<i>"lá está Você."</i>
+
+19
+00:01:40,743 --> 00:01:44,804
+<i>"Se me elevasse
+nas asas do alvorecer"</i>
+
+20
+00:01:44,711 --> 00:01:49,444
+<i>"e habitasse no fundo do mar"</i>
+
+21
+00:01:49,319 --> 00:01:51,378
+<i>"mesmo lá"</i>
+
+22
+00:01:51,368 --> 00:01:55,099
+<i>"Sua mão me guiará."</i>
+
+23
+00:01:55,016 --> 00:01:59,476
+"Se jazesse nas profundezas,"
+
+24
+00:01:59,368 --> 00:02:03,361
+"lá estaria você."
+
+25
+00:02:41,996 --> 00:02:44,487
+<i>Dorothy? Voltamos.</i>
+
+26
+00:02:51,661 --> 00:02:53,390
+<i>Dorothy?</i>
+
+27
+00:02:57,901 --> 00:03:02,032
+<i>Bebê malcriado não quer
+tomar o leite.</i>
+
+28
+00:03:01,934 --> 00:03:03,993
+Deus!
+
+29
+00:03:13,788 --> 00:03:17,088
+Tradução:
+-== Pinguim-SP ==-
+
+30
+00:03:43,185 --> 00:03:47,178
+<i>-Não, por favor!
+-Calma.</i>
+
+31
+00:03:49,266 --> 00:03:51,630
+Sabe a que me refiro?
+"CHEFE DA UNIDADE PSIQUIÁTRICA"
+
+32
+00:03:51,602 --> 00:03:53,229
+Totalmente normal.
+
+33
+00:04:10,548 --> 00:04:13,073
+Tem um cigarro?
+
+34
+00:04:21,909 --> 00:04:25,276
+Tudo está ainda muito...
+
+35
+00:04:25,205 --> 00:04:26,763
+confuso.
+
+36
+00:04:26,772 --> 00:04:28,262
+Sem pressa.
+
+37
+00:04:28,277 --> 00:04:30,575
+Leve o tempo necessário.
+
+38
+00:04:38,518 --> 00:04:41,282
+Por onde começo?
+
+39
+00:04:41,238 --> 00:04:43,138
+Você quis este caso.
+
+40
+00:04:43,126 --> 00:04:47,392
+Sabia que seria difícil.
+
+41
+00:04:50,008 --> 00:04:52,169
+Mas, mesmo assim, quis.
+
+42
+00:04:54,232 --> 00:04:56,632
+Insistiu.
+
+43
+00:04:59,896 --> 00:05:03,024
+Eu queria ir.
+
+44
+00:05:02,968 --> 00:05:05,436
+Eu precisava.
+
+45
+00:05:07,929 --> 00:05:11,160
+Devia escapar antes que
+a cidade me sufocasse.
+
+46
+00:05:40,507 --> 00:05:42,305
+"BEBÊ SAI DO COMA."
+
+47
+00:05:45,404 --> 00:05:47,531
+"MISTÉRIO: DOROTHY A PSICÓTICA BABÁ"
+
+48
+00:06:00,381 --> 00:06:03,209
+"DECRETADA A PRISÃO DA JOVEM
+APÓS ATACAR UM BEBÊ."
+
+49
+00:06:03,165 --> 00:06:06,000
+"CUIDAVA DO BEBÊ DE UMA AMIGA
+QUANDO OCORREU O ATAQUE."
+
+50
+00:06:05,885 --> 00:06:08,317
+"A MÃE DO BEBÊ, DEU O
+ALERTA AO CHEGAR A CASA"
+
+51
+00:06:08,219 --> 00:06:10,651
+"E VER A BABÁ TENTANDO MATAR
+O SEU FILHO DE 9 MESES"
+
+52
+00:07:53,415 --> 00:07:55,679
+Estão vindo atrás da gente!
+
+53
+00:07:55,655 --> 00:07:56,952
+Rápido!
+
+54
+00:08:05,000 --> 00:08:06,865
+Rápido!
+
+55
+00:08:06,855 --> 00:08:09,517
+Mais rápido!
+
+56
+00:08:09,480 --> 00:08:12,506
+Acelera! Acelera!
+
+57
+00:08:42,859 --> 00:08:44,326
+Vamos, rapazes.
+
+58
+00:08:58,348 --> 00:09:00,111
+<i>"O Senhor nos dá</i>
+
+59
+00:09:00,108 --> 00:09:02,235
+<i>e o Senhor nos tira."</i>
+
+60
+00:09:02,220 --> 00:09:03,482
+Olhem lá!
+
+61
+00:09:18,127 --> 00:09:20,527
+Está bem, senhorita?
+
+62
+00:09:22,286 --> 00:09:23,810
+Eu não estava correndo.
+
+63
+00:09:23,823 --> 00:09:25,415
+Dois automóveis faziam um racha.
+
+64
+00:09:25,422 --> 00:09:26,514
+Faziam um racha?
+
+65
+00:09:26,543 --> 00:09:28,738
+Um laranja e outro azul.
+
+66
+00:09:30,575 --> 00:09:32,907
+Não é um relógio à prova d'água.
+
+67
+00:09:32,880 --> 00:09:34,370
+Deixe-o secar.
+
+68
+00:09:34,383 --> 00:09:36,681
+Funcionará em um ou dois dias.
+
+69
+00:09:36,656 --> 00:09:38,954
+Não podemos ficar
+sentados aqui a noite toda.
+
+70
+00:09:51,408 --> 00:09:54,605
+Um momento.
+Há uma entrada por trás.
+
+71
+00:10:08,051 --> 00:10:09,985
+A psiquiatra.
+
+72
+00:10:12,691 --> 00:10:14,921
+-Glória.
+-Teve um acidente, né?
+
+73
+00:10:18,356 --> 00:10:20,153
+Tudo bem, Colin?
+
+74
+00:10:21,619 --> 00:10:23,086
+Venha comigo.
+
+75
+00:10:23,092 --> 00:10:25,151
+Você vai se secar.
+
+76
+00:10:38,869 --> 00:10:42,100
+Aqui está. Não será uma suíte,
+mas estará confortável.
+
+77
+00:10:42,037 --> 00:10:44,471
+Buscarei outra manta.
+
+78
+00:10:44,437 --> 00:10:47,463
+Tem feito frio estas noites.
+
+79
+00:10:50,453 --> 00:10:52,250
+A calefação ficou ligada o dia todo
+
+80
+00:10:52,246 --> 00:10:54,510
+deve haver bastante água quente.
+
+81
+00:10:58,454 --> 00:11:00,319
+Este é o banheiro.
+
+82
+00:11:00,310 --> 00:11:01,778
+Preparo um banho?
+
+83
+00:11:12,152 --> 00:11:14,586
+Buscarei outra toalha.
+
+84
+00:11:26,265 --> 00:11:28,995
+Não liga para os homens.
+
+85
+00:11:28,953 --> 00:11:31,478
+No fundo, são decentes.
+
+86
+00:11:36,730 --> 00:11:38,391
+Eu já volto.
+
+87
+00:11:38,394 --> 00:11:40,294
+Eu trago o seu jantar.
+
+88
+00:12:14,909 --> 00:12:17,139
+Aqui está.
+
+89
+00:12:17,117 --> 00:12:18,550
+Dormiu bem?
+
+90
+00:12:18,557 --> 00:12:20,889
+Não com uma maldita guitarra
+tocando a noite toda.
+
+91
+00:12:22,398 --> 00:12:23,592
+Que estranho.
+
+92
+00:12:23,614 --> 00:12:26,583
+Estamos sozinhas aqui.
+
+93
+00:12:26,526 --> 00:12:28,756
+Talvez tenha sonhado.
+
+94
+00:12:28,733 --> 00:12:32,533
+Está um lindo dia.
+
+95
+00:12:32,446 --> 00:12:34,277
+Vou buscar-lhe um pudim branco.
+
+96
+00:12:34,270 --> 00:12:36,534
+É delicioso.
+Você vai adorar.
+
+97
+00:13:12,897 --> 00:13:14,626
+Quanto demorará em arrumá-lo?
+
+98
+00:13:14,557 --> 00:13:17,164
+<i>Está destroçado.
+Mesmo conseguindo as peças,</i>
+
+99
+00:13:17,122 --> 00:13:19,352
+custaria mais que outro carro.
+
+100
+00:13:23,362 --> 00:13:24,454
+Posso alugar um?
+
+101
+00:13:24,482 --> 00:13:27,076
+Só tenho uma caminhonete.
+
+102
+00:13:27,043 --> 00:13:31,173
+-É segura?
+-Tão seguro como seu BMW?
+
+103
+00:13:31,075 --> 00:13:33,066
+Buscarei as chaves.
+
+104
+00:14:08,711 --> 00:14:09,769
+Entenda que estou aqui
+
+105
+00:14:09,798 --> 00:14:12,892
+por seu bem e pelo da Dorothy.
+
+106
+00:14:12,839 --> 00:14:14,773
+<i>Já começou a justificá-la?</i>
+
+107
+00:14:14,759 --> 00:14:16,556
+Quero averiguar a verdade.
+
+108
+00:14:16,551 --> 00:14:18,849
+A verdade?
+
+109
+00:14:18,823 --> 00:14:20,814
+A verdade é...
+
+110
+00:14:20,808 --> 00:14:23,800
+encontrará um nome para sua doença,
+
+111
+00:14:23,751 --> 00:14:25,150
+e dentro de alguns anos,
+
+112
+00:14:25,159 --> 00:14:27,559
+sairá e maltratará
+o filho de outra pessoa.
+
+113
+00:14:27,528 --> 00:14:30,588
+<i>Talvez, os próprios.</i>
+
+114
+00:14:30,536 --> 00:14:32,868
+<i>Pode me dizer o que aconteceu
+naquela noite?</i>
+
+115
+00:14:35,465 --> 00:14:38,127
+Foi a primeira vez que
+a contratamos como babá.
+
+116
+00:14:38,090 --> 00:14:41,719
+<i>Eu tinha dúvidas, mas o pastor
+disse-me que era boa.</i>
+
+117
+00:14:41,641 --> 00:14:43,871
+Dorothy? Voltamos.
+
+118
+00:14:45,866 --> 00:14:47,959
+Dorothy?
+
+119
+00:14:51,850 --> 00:14:54,944
+<i>Bebê malcriado não quer
+tomar o leite!</i>
+
+120
+00:14:57,163 --> 00:14:59,097
+Deus!
+
+121
+00:15:00,171 --> 00:15:01,536
+É meu bebê!
+
+122
+00:15:01,547 --> 00:15:03,310
+É meu bebê! É meu bebê!
+
+123
+00:15:03,307 --> 00:15:05,070
+-Afaste-se dele!
+-É meu bebê!
+
+124
+00:15:06,507 --> 00:15:07,872
+Olá, seu babaca!
+
+125
+00:15:07,884 --> 00:15:09,613
+O que lhe fez?
+
+126
+00:15:09,612 --> 00:15:12,740
+O que lhe fez?
+O que lhe fez!
+
+127
+00:15:13,771 --> 00:15:15,762
+Vamos... Vamos!
+
+128
+00:15:21,901 --> 00:15:24,927
+<i>Pastor, precisa nos deixar
+ir ao continente.</i>
+
+129
+00:15:24,877 --> 00:15:26,367
+<i>É uma emergência, por favor.</i>
+
+130
+00:15:26,381 --> 00:15:28,145
+Neste caso, abriremos
+uma exceção.
+
+131
+00:15:28,142 --> 00:15:29,939
+Pedirei ajuda.
+Enviarão um helicóptero.
+
+132
+00:15:42,383 --> 00:15:44,749
+Está louca de pedra.
+
+133
+00:15:44,719 --> 00:15:48,211
+Pergunte ao Jake, o filho
+de Paul Fallon, o que acha dela.
+
+134
+00:16:36,307 --> 00:16:38,172
+Olá, Dorothy.
+
+135
+00:16:40,148 --> 00:16:41,172
+Sou a Dra. Morton,
+
+136
+00:16:41,204 --> 00:16:43,297
+mas pode me chamar de Jane.
+
+137
+00:16:47,668 --> 00:16:50,466
+Esperava por mim, não é?
+
+138
+00:17:08,085 --> 00:17:10,519
+É muito habilidosa.
+
+139
+00:17:17,719 --> 00:17:21,155
+Dorothy, precisamos conversar.
+
+140
+00:17:23,959 --> 00:17:25,348
+Posso me sentar aqui?
+
+141
+00:17:35,128 --> 00:17:36,823
+Sabe por que vim, certo?
+
+142
+00:17:39,481 --> 00:17:41,005
+Só quero te escutar.
+
+143
+00:17:41,016 --> 00:17:44,110
+Não vim para te julgar nem
+para tomar decisões.
+
+144
+00:18:00,698 --> 00:18:01,756
+Você gosta de bebês?
+
+145
+00:18:03,962 --> 00:18:06,988
+Que bebê?
+
+146
+00:18:06,938 --> 00:18:09,499
+Não havia nenhum bebê.
+Eu não estive lá.
+
+147
+00:18:12,988 --> 00:18:15,286
+Não quero falar mais.
+
+148
+00:18:16,956 --> 00:18:19,356
+Ninguém me escuta.
+
+149
+00:18:20,860 --> 00:18:21,918
+Ninguém.
+
+150
+00:18:21,948 --> 00:18:23,848
+Eu sim.
+
+151
+00:18:26,941 --> 00:18:29,842
+E vou te compreender.
+
+152
+00:18:29,789 --> 00:18:31,848
+Dorothy.
+
+153
+00:18:31,837 --> 00:18:33,771
+Confia em mim.
+
+154
+00:18:40,574 --> 00:18:43,975
+Onde foi se não estava na
+casa dos Kearsley?
+
+155
+00:18:46,494 --> 00:18:48,928
+Fiz as minhas orações
+
+156
+00:18:48,894 --> 00:18:50,953
+e fui à cama.
+
+157
+00:18:53,726 --> 00:18:56,126
+E, na manhã seguinte,
+despertei
+
+158
+00:18:56,095 --> 00:18:58,461
+em minha cama.
+
+159
+00:19:02,368 --> 00:19:05,360
+Lembra de algo mais?
+
+160
+00:19:05,312 --> 00:19:07,610
+Estou cheia de suas perguntas.
+
+161
+00:19:09,856 --> 00:19:11,585
+Está bem.
+
+162
+00:19:14,017 --> 00:19:17,612
+Por que não trocamos os papéis?
+
+163
+00:19:17,537 --> 00:19:19,437
+Você me faz perguntas.
+
+164
+00:19:21,377 --> 00:19:23,106
+Posso fazer?
+
+165
+00:19:32,706 --> 00:19:35,140
+Acha que ela é culpada, não é?
+
+166
+00:19:35,107 --> 00:19:37,974
+Esta é apenas a primeira avaliação
+psicológica do caso.
+
+167
+00:19:37,923 --> 00:19:39,185
+Caso?
+
+168
+00:19:39,203 --> 00:19:41,262
+Este "caso" é uma menina.
+
+169
+00:19:41,251 --> 00:19:42,616
+E já sofreu o bastante.
+
+170
+00:19:42,627 --> 00:19:44,219
+O tribunal decidirá o que acontecerá.
+
+171
+00:19:44,227 --> 00:19:47,253
+Prometo fazer o melhor por ela.
+
+172
+00:20:00,101 --> 00:20:02,092
+"Curiosidade."
+
+173
+00:20:02,085 --> 00:20:05,782
+"culpa ou pecado?".
+
+174
+00:20:09,125 --> 00:20:11,389
+Já chega por agora!
+
+175
+00:20:11,366 --> 00:20:13,960
+Escrevam 100 vezes.
+
+176
+00:20:13,925 --> 00:20:15,187
+E entreguem amanhã.
+
+177
+00:20:15,206 --> 00:20:16,605
+Podem ir!
+
+178
+00:20:34,375 --> 00:20:35,672
+Você também é médico?
+
+179
+00:20:35,688 --> 00:20:37,485
+Sim.
+
+180
+00:20:37,479 --> 00:20:39,947
+Quanto tempo faz
+que atende a Dorothy?
+
+181
+00:20:39,911 --> 00:20:43,005
+Parei de atender quando ela
+completou 13 anos.
+
+182
+00:21:00,298 --> 00:21:01,765
+Muito saudável, verdade?
+
+183
+00:21:03,274 --> 00:21:07,404
+Aqui na ilha, levamos uma vida
+limpa e saudável.
+
+184
+00:21:07,306 --> 00:21:10,104
+Nossa fé nos protege.
+
+185
+00:21:10,058 --> 00:21:13,118
+Suponho que não tenha notado
+sua doença mental.
+
+186
+00:21:13,067 --> 00:21:16,503
+Dorothy é uma menina especial.
+
+187
+00:21:16,426 --> 00:21:18,792
+Há lugar para ela
+em nossa comunidade.
+
+188
+00:21:18,763 --> 00:21:20,663
+Embora tenha
+maltratado aquele bebê?
+
+189
+00:21:20,651 --> 00:21:22,778
+<i>O senhor é o juiz, não eu.</i>
+
+190
+00:21:22,763 --> 00:21:24,196
+Não vim para julgá-la.
+
+191
+00:21:24,204 --> 00:21:25,865
+Vim ajudá-la.
+
+192
+00:21:25,868 --> 00:21:27,028
+E é possível de ser.
+
+193
+00:21:29,708 --> 00:21:33,075
+Temos pouca fé em sua ciência.
+
+194
+00:21:33,004 --> 00:21:36,599
+Como mediria a pureza
+de sua alma com sua ciência?
+
+195
+00:21:36,525 --> 00:21:39,460
+Um dos anjos de Deus.
+
+196
+00:21:39,405 --> 00:21:43,001
+Um anjo que poderia ir à prisão.
+
+197
+00:21:56,814 --> 00:21:59,977
+Aqui as mulheres não têm vez, certo?
+
+198
+00:21:59,919 --> 00:22:02,945
+É uma comunidade muito devota.
+
+199
+00:22:02,895 --> 00:22:04,795
+Levam sua fé muito a sério.
+
+200
+00:22:04,783 --> 00:22:05,977
+Você não é crente?
+
+201
+00:22:05,999 --> 00:22:07,364
+Eu? Não.
+
+202
+00:22:07,375 --> 00:22:08,740
+Já fui bastante quando pequeno.
+
+203
+00:22:08,751 --> 00:22:09,843
+Nasceu aqui?
+
+204
+00:22:09,872 --> 00:22:11,669
+E me criei.
+
+205
+00:22:11,663 --> 00:22:16,100
+Tentar escapar, mas esta ilha
+é como um ímã.
+
+206
+00:22:15,984 --> 00:22:17,349
+Não se pode escapar.
+
+207
+00:22:20,272 --> 00:22:21,364
+Aqui está.
+
+208
+00:22:29,169 --> 00:22:31,296
+Qual é desta comida branca na ilha?
+
+209
+00:22:31,281 --> 00:22:33,044
+Para você, só apenas três dias.
+
+210
+00:22:33,041 --> 00:22:34,134
+Eu tenho que viver aqui.
+
+211
+00:22:38,675 --> 00:22:40,609
+Hoje vi a Dorothy.
+
+212
+00:22:40,595 --> 00:22:44,197
+-Sim? E como foi?
+-Acho que está morrendo de medo.
+
+213
+00:22:44,050 --> 00:22:46,382
+-De quem?
+-Não sei.
+
+214
+00:22:48,435 --> 00:22:50,426
+Talvez dela.
+
+215
+00:22:50,419 --> 00:22:52,944
+Odiar-se pode ser
+um motivo muito poderoso.
+
+216
+00:22:52,915 --> 00:22:54,780
+Não a encare muito, John.
+
+217
+00:22:54,705 --> 00:22:56,105
+sabe como são os psiquiatras.
+
+218
+00:22:56,116 --> 00:22:58,949
+Não quero que saiba
+que queremos enrabá-la.
+
+219
+00:22:58,900 --> 00:23:00,458
+Céus.
+
+220
+00:23:44,152 --> 00:23:46,177
+<i>Senhor...</i>
+
+221
+00:23:46,168 --> 00:23:47,635
+"FELIZ ANIVERSÁRIO"
+
+222
+00:23:50,137 --> 00:23:55,575
+<i>...novamente lhe pedimos
+que nos abençoe.</i>
+
+223
+00:23:56,953 --> 00:24:00,150
+<i>Dê a sua serva Dorothy</i>
+
+224
+00:24:00,089 --> 00:24:03,650
+<i>o calor de Sua divina luz.</i>
+
+225
+00:24:03,577 --> 00:24:05,875
+Que encontre o caminho
+
+226
+00:24:05,850 --> 00:24:08,341
+através da escuridão.
+
+227
+00:24:11,513 --> 00:24:14,243
+Fale para mim.
+
+228
+00:24:14,201 --> 00:24:17,295
+Sei que está aí, meu filho.
+
+229
+00:24:19,482 --> 00:24:22,884
+Saúda sua mãe, filho.
+
+230
+00:24:31,675 --> 00:24:34,007
+<i>Feliz aniversário, filho.</i>
+
+231
+00:24:40,540 --> 00:24:43,771
+<i>Talvez não seja o momento.</i>
+
+232
+00:24:43,708 --> 00:24:45,539
+Sinto muito, amigo.
+
+233
+00:25:03,486 --> 00:25:05,044
+<i>Olá!</i>
+
+234
+00:25:05,054 --> 00:25:07,682
+<i>Janey!</i>
+
+235
+00:25:07,647 --> 00:25:10,138
+<i>O que acontece,
+sua psiquiatra mentirosa?</i>
+
+236
+00:25:10,111 --> 00:25:12,375
+<i>Deus queira não a acordamos!</i>
+
+237
+00:25:25,920 --> 00:25:27,353
+<i>Não precisamos de você.</i>
+
+238
+00:25:27,360 --> 00:25:29,692
+<i>Volta para o lugar de onde veio!</i>
+
+239
+00:25:43,010 --> 00:25:44,272
+Fica calmo, John?
+
+240
+00:25:44,289 --> 00:25:46,223
+<i>Por favor.
+Só apenas crianças.</i>
+
+241
+00:25:46,209 --> 00:25:47,938
+-Santo Deus!
+-Céus.
+
+242
+00:25:47,938 --> 00:25:49,371
+São crianças.
+
+243
+00:25:49,378 --> 00:25:51,141
+-Crianças fazendo travessuras.
+-Solta.
+
+244
+00:25:51,138 --> 00:25:52,901
+Eu vou matar.
+
+245
+00:26:10,917 --> 00:26:13,283
+<i>Estavam sob minha janela
+esperando-me.</i>
+
+246
+00:26:13,252 --> 00:26:15,982
+Vejo que está alterada.
+
+247
+00:26:15,941 --> 00:26:18,432
+Conheço todos nesta ilha.
+
+248
+00:26:18,405 --> 00:26:21,602
+Não há adolescentes com
+essa descrição.
+
+249
+00:26:21,541 --> 00:26:24,066
+Nem mesmo carros
+cor de laranja.
+
+250
+00:26:25,670 --> 00:26:26,967
+Acha que estou imaginando?
+
+251
+00:26:26,982 --> 00:26:28,916
+Não, mas...
+
+252
+00:26:30,662 --> 00:26:32,960
+Olhe,
+
+253
+00:26:32,934 --> 00:26:34,196
+se quiser, posso ficar
+
+254
+00:26:34,214 --> 00:26:36,739
+durante alguns dias, certo?
+
+255
+00:26:36,710 --> 00:26:40,077
+Está de partida no domingo, certo?
+
+256
+00:26:50,439 --> 00:26:51,872
+Esse é meu filho.
+
+257
+00:26:51,879 --> 00:26:53,847
+<i>Vive com sua mãe no continente.</i>
+
+258
+00:26:55,432 --> 00:26:56,956
+Tem filhos?
+
+259
+00:27:00,873 --> 00:27:02,067
+Um menino.
+
+260
+00:27:02,089 --> 00:27:03,750
+Sim?
+
+261
+00:27:05,417 --> 00:27:06,509
+Morreu.
+
+262
+00:27:12,138 --> 00:27:13,799
+Lamento.
+
+263
+00:27:13,802 --> 00:27:15,235
+Tudo bem.
+
+264
+00:27:17,098 --> 00:27:20,192
+Devo ir.
+
+265
+00:27:20,138 --> 00:27:22,072
+Obrigado pela bebida.
+
+266
+00:27:52,620 --> 00:27:54,020
+<i>Quando minha irmã morreu</i>
+
+267
+00:27:54,029 --> 00:27:55,929
+<i>não havia ninguém que
+cuidasse dela.</i>
+
+268
+00:27:55,918 --> 00:27:58,512
+<i>Era natural que ficasse comigo.</i>
+
+269
+00:27:58,478 --> 00:28:00,002
+E o pai de Dorothy?
+
+270
+00:28:00,013 --> 00:28:03,414
+Nunca o conhecemos.
+
+271
+00:28:03,342 --> 00:28:07,403
+Mabel não era promíscua,
+entende?
+
+272
+00:28:07,310 --> 00:28:09,278
+Era extravagante,
+
+273
+00:28:09,262 --> 00:28:10,262
+superficial.
+
+274
+00:28:22,127 --> 00:28:26,564
+Não era uma maluca, embora
+alguns digam o contrário.
+
+275
+00:28:26,447 --> 00:28:29,245
+Não parava em nenhum emprego
+
+276
+00:28:29,200 --> 00:28:30,997
+até que foi trabalhar
+na funerária
+
+277
+00:28:30,991 --> 00:28:33,653
+arrumando os mortos.
+
+278
+00:28:33,615 --> 00:28:35,640
+Ela gostava.
+
+279
+00:28:35,632 --> 00:28:38,100
+Mas era uma boa mãe.
+
+280
+00:28:38,064 --> 00:28:40,328
+E protegia Dorothy dos outros meninos.
+
+281
+00:28:40,304 --> 00:28:43,273
+Tem idéia por que os outros
+meninos a molestavam?
+
+282
+00:28:43,216 --> 00:28:46,049
+Porque odiavam tudo e todos
+
+283
+00:28:46,000 --> 00:28:47,491
+que eram diferentes.
+
+284
+00:28:47,506 --> 00:28:50,441
+Deus cuidava da menina.
+Sempre foi diferente.
+
+285
+00:28:50,386 --> 00:28:53,014
+Alguma vez pensou
+que podia ser perigosa?
+
+286
+00:28:52,978 --> 00:28:56,175
+Ela nunca tocou um dedo naquele bebê.
+
+287
+00:28:56,114 --> 00:28:57,513
+Jurou-me que não
+
+288
+00:28:57,522 --> 00:28:59,149
+e eu lhe acredito.
+
+289
+00:29:02,643 --> 00:29:04,702
+Por que deseja me ajudar?
+
+290
+00:29:04,691 --> 00:29:06,352
+Porque te ouvi falar e...
+
+291
+00:29:06,355 --> 00:29:08,653
+Não acredito que tenha
+vindo a me ajudar.
+
+292
+00:29:08,628 --> 00:29:11,324
+Vim te ajudar.
+
+293
+00:29:11,283 --> 00:29:12,648
+Acho que posso, Dorothy.
+
+294
+00:29:12,660 --> 00:29:14,355
+Sabe por quê?
+
+295
+00:29:14,355 --> 00:29:16,084
+Porque tenho esse dom.
+
+296
+00:29:17,427 --> 00:29:18,917
+Você é boa na pintura,
+
+297
+00:29:18,932 --> 00:29:21,492
+e eu sou boa escutando
+e entendendo.
+
+298
+00:29:46,423 --> 00:29:49,915
+Entendo por que
+você gosta deste lugar.
+
+299
+00:29:49,847 --> 00:29:51,906
+É lindo.
+
+300
+00:29:53,335 --> 00:29:58,363
+Minha mãe me trazia aqui
+quando era pequena.
+
+301
+00:29:58,232 --> 00:30:01,793
+Brincávamos que podíamos voar.
+
+302
+00:30:03,960 --> 00:30:06,428
+Eu sempre quis voar.
+
+303
+00:30:08,057 --> 00:30:10,855
+Caso que pudesse,
+aonde iria?
+
+304
+00:30:10,808 --> 00:30:13,641
+A lugar nenhum.
+
+305
+00:30:13,593 --> 00:30:15,686
+Só voaria.
+
+306
+00:30:27,065 --> 00:30:28,828
+Jamais aterrissaria.
+
+307
+00:30:28,825 --> 00:30:30,690
+Voaria o mais longe possível
+
+308
+00:30:30,682 --> 00:30:32,912
+até meu último fôlego...
+
+309
+00:30:35,835 --> 00:30:37,200
+e daí cairia.
+
+310
+00:30:38,555 --> 00:30:40,819
+E tudo terminaria.
+
+311
+00:30:55,516 --> 00:30:58,314
+-Não seja tímido, moço.
+-Ouça.
+
+312
+00:31:01,020 --> 00:31:03,818
+Ouça, Paul, seu filho
+não quer beber.
+
+313
+00:31:03,773 --> 00:31:05,673
+Anda, Jakey.
+
+314
+00:31:05,661 --> 00:31:07,458
+O pastor não está aqui.
+
+315
+00:31:18,653 --> 00:31:20,621
+Agora é um homem, Jakey.
+
+316
+00:33:10,855 --> 00:33:12,982
+<i>O amor do Senhor Jesus</i>
+
+317
+00:33:12,967 --> 00:33:16,301
+<i>é como o oceano:
+Vasto e infinito.</i>
+
+318
+00:33:16,233 --> 00:33:18,497
+<i>Vamos nos banhar
+em suas praias.</i>
+
+319
+00:33:18,473 --> 00:33:22,136
+<i>Mas sabemos que há
+ondas fortes em todas as praias.</i>
+
+320
+00:33:22,057 --> 00:33:25,390
+<i>O Senhor tudo sabe e tudo vê:</i>
+
+321
+00:33:25,322 --> 00:33:27,449
+<i>O justo e o pecador,</i>
+
+322
+00:33:27,434 --> 00:33:30,267
+<i>o culpado e o inocente.</i>
+
+323
+00:33:32,778 --> 00:33:34,507
+Bom dia.
+
+324
+00:33:37,002 --> 00:33:38,731
+Tínhamos uma entrevista, lembra?
+
+325
+00:33:38,730 --> 00:33:39,788
+Sinto muito.
+
+326
+00:33:39,818 --> 00:33:40,944
+Tive que levar a Dorothy
+
+327
+00:33:40,970 --> 00:33:43,131
+à delegacia de polícia
+para assinar a ocorrência.
+
+328
+00:33:43,115 --> 00:33:44,639
+Já está preparada.
+
+329
+00:33:47,818 --> 00:33:50,116
+Olá, Dorothy.
+
+330
+00:33:50,090 --> 00:33:52,888
+Vamos dar um passeio?
+
+331
+00:33:52,843 --> 00:33:54,140
+"DEUS É AMOR"
+
+332
+00:33:55,979 --> 00:33:57,537
+Logo te levarei a casa
+de sua tia.
+
+333
+00:34:00,972 --> 00:34:03,440
+Quero ficar com minha tia.
+
+334
+00:34:03,404 --> 00:34:04,428
+Anda, menina.
+
+335
+00:34:05,740 --> 00:34:07,971
+Anda.
+
+336
+00:34:07,949 --> 00:34:11,043
+Faça o que lhe dizem, menina.
+
+337
+00:34:12,462 --> 00:34:14,623
+Isso mesmo.
+
+338
+00:34:33,583 --> 00:34:35,483
+Sua tia é muito boa contigo, não é?
+
+339
+00:34:35,471 --> 00:34:37,905
+Claro que sim.
+
+340
+00:34:37,871 --> 00:34:41,307
+Cuida de mim
+até minha mãe voltar.
+
+341
+00:34:41,231 --> 00:34:43,927
+Onde está sua mãe?
+
+342
+00:34:43,888 --> 00:34:46,413
+No mar, navegando.
+
+343
+00:34:46,383 --> 00:34:49,477
+Logo voltará por causa de
+sua pequena Mimi
+
+344
+00:34:49,424 --> 00:34:52,825
+e vai trazer um bonito vestido.
+
+345
+00:34:52,752 --> 00:34:54,515
+Mimi?
+
+346
+00:34:54,513 --> 00:34:56,276
+Que idade tem?
+
+347
+00:34:58,768 --> 00:35:00,100
+Três.
+
+348
+00:35:00,114 --> 00:35:02,048
+Não é linda?
+
+349
+00:35:08,946 --> 00:35:11,574
+Se você é Mimi,
+
+350
+00:35:11,539 --> 00:35:13,507
+aonde foi Dorothy?
+
+351
+00:35:13,490 --> 00:35:15,321
+Não foi.
+
+352
+00:35:15,315 --> 00:35:16,509
+Está dormindo.
+
+353
+00:35:16,531 --> 00:35:17,555
+Dormindo?
+
+354
+00:35:17,587 --> 00:35:18,986
+Sim.
+
+355
+00:35:18,995 --> 00:35:21,623
+Aqui dentro... Bem dentro.
+
+356
+00:35:23,123 --> 00:35:25,284
+Dorothy está dormindo dentro de você?
+
+357
+00:35:26,548 --> 00:35:27,810
+Sabe de uma coisa?
+
+358
+00:35:27,827 --> 00:35:29,522
+Quando sua mãe morreu
+
+359
+00:35:29,524 --> 00:35:30,991
+eu tive que ir ao funeral
+
+360
+00:35:30,996 --> 00:35:33,521
+porque Dorothy estava dormindo.
+
+361
+00:35:33,492 --> 00:35:35,392
+Não a deixam sair muito.
+
+362
+00:35:35,380 --> 00:35:36,438
+Quem não a deixa sair?
+
+363
+00:35:36,468 --> 00:35:38,834
+Os outros.
+
+364
+00:35:38,804 --> 00:35:39,828
+Quem são?
+
+365
+00:35:39,860 --> 00:35:41,122
+Não posso contar.
+
+366
+00:35:41,140 --> 00:35:43,734
+Por que não a deixam sair?
+
+367
+00:35:43,700 --> 00:35:47,796
+Porque sempre tenta suicidar-se.
+
+368
+00:35:47,701 --> 00:35:49,896
+Acha meu cabelo bonito?
+
+369
+00:36:27,000 --> 00:36:28,729
+Você gosta?
+
+370
+00:36:28,728 --> 00:36:30,355
+Fica de presente.
+
+371
+00:36:30,361 --> 00:36:32,295
+Obrigada.
+
+372
+00:37:12,765 --> 00:37:15,529
+Tire esse vestido de puta!
+
+373
+00:37:15,485 --> 00:37:17,612
+Tire esse vestido de prostituta!
+
+374
+00:37:25,277 --> 00:37:26,335
+Dorothy!
+
+375
+00:37:26,365 --> 00:37:27,925
+Faça-o em pedaçinhos!
+
+376
+00:37:29,374 --> 00:37:32,138
+-Mimi!
+-Fecha a boca, sua putinha.
+
+377
+00:37:33,310 --> 00:37:34,709
+Prostituta!
+
+378
+00:37:34,718 --> 00:37:36,652
+Quem é?
+
+379
+00:37:36,638 --> 00:37:38,572
+Diga.
+
+380
+00:37:38,558 --> 00:37:39,616
+Vá à merda!
+
+381
+00:37:40,639 --> 00:37:41,867
+Vá à merda, lixo.
+
+382
+00:37:41,887 --> 00:37:43,821
+Vou dar porrada...
+
+383
+00:37:57,216 --> 00:38:00,151
+Mamãe.
+
+384
+00:38:00,097 --> 00:38:02,031
+Mamãe.
+
+385
+00:38:02,017 --> 00:38:05,145
+Mamãe.
+
+386
+00:38:08,129 --> 00:38:11,724
+Mamãe, onde está?
+
+387
+00:38:11,649 --> 00:38:15,608
+Mamãe, me ajude.
+
+388
+00:38:15,522 --> 00:38:16,716
+Ajude-me.
+
+389
+00:38:20,066 --> 00:38:21,066
+Já passou.
+
+390
+00:38:21,090 --> 00:38:22,717
+Estou aqui, meu bebê.
+
+391
+00:38:26,531 --> 00:38:28,158
+Como se atreve?
+
+392
+00:38:28,162 --> 00:38:29,993
+Deveria ter vergonha.
+
+393
+00:38:29,986 --> 00:38:31,044
+Venha, amorzinho.
+
+394
+00:38:31,971 --> 00:38:35,305
+Agradeceria se
+não interferisse nas sessões.
+
+395
+00:38:35,235 --> 00:38:36,896
+Vamos, querida.
+
+396
+00:38:36,900 --> 00:38:38,162
+Vamos.
+
+397
+00:38:38,180 --> 00:38:39,545
+Pronto.
+
+398
+00:39:28,489 --> 00:39:30,457
+Alô? Tom?
+
+399
+00:39:30,441 --> 00:39:32,375
+Sou eu, Jane.
+
+400
+00:39:32,361 --> 00:39:34,955
+Sim, ótimo.
+
+401
+00:39:34,920 --> 00:39:36,888
+É um caso muito interessante.
+
+402
+00:39:36,873 --> 00:39:39,501
+Acho que deverei ficar...
+
+403
+00:39:39,465 --> 00:39:40,955
+Alô?
+
+404
+00:39:42,026 --> 00:39:43,288
+Alô?
+
+405
+00:39:46,058 --> 00:39:47,355
+Merda.
+
+406
+00:39:50,634 --> 00:39:52,124
+Badger...
+
+407
+00:39:54,250 --> 00:39:55,342
+Que susto.
+
+408
+00:39:55,371 --> 00:39:56,770
+Sinto muito.
+
+409
+00:39:56,713 --> 00:39:58,644
+É difícil ligar para
+o continente aqui da ilha.
+
+410
+00:40:00,715 --> 00:40:02,046
+Voltará à aldeia?
+
+411
+00:40:02,058 --> 00:40:04,583
+Acho que sim.
+
+412
+00:40:14,220 --> 00:40:16,484
+Seus cigarros são um lixo.
+
+413
+00:40:16,459 --> 00:40:18,086
+Não tem algo mais forte?
+
+414
+00:40:32,462 --> 00:40:33,588
+Dorothy?
+
+415
+00:40:35,182 --> 00:40:37,650
+Resposta errada.
+
+416
+00:40:37,614 --> 00:40:39,445
+<i>Quer tentar outra vez?</i>
+
+417
+00:40:39,438 --> 00:40:41,235
+Eu vejo a Dorothy.
+
+418
+00:40:41,230 --> 00:40:43,960
+Mas está escutando a Mary.
+
+419
+00:40:43,919 --> 00:40:46,479
+Estranho, não?
+
+420
+00:40:46,447 --> 00:40:48,244
+Onde está Mimi?
+
+421
+00:40:52,239 --> 00:40:55,970
+Aquela putinha não consegue
+ficar de boca fechada.
+
+422
+00:40:55,887 --> 00:40:58,754
+E a Dorothy?
+
+423
+00:40:58,703 --> 00:41:02,036
+<i>Gemendo ou rezando aqui dentro.</i>
+
+424
+00:41:04,432 --> 00:41:07,367
+Só serve para uma coisa:
+
+425
+00:41:07,312 --> 00:41:10,804
+Para ter ressaca
+quando eu encho a cara.
+
+426
+00:41:10,736 --> 00:41:12,636
+É isso o que aconteceu, Mary?
+
+427
+00:41:12,625 --> 00:41:15,186
+Você machucou o bebê
+e deixou que a Dorothy pagasse?
+
+428
+00:41:15,154 --> 00:41:17,520
+Eu não toquei naquele fedelho.
+
+429
+00:41:17,489 --> 00:41:20,083
+Mas se ela for presa, não haverá
+mais álcool para você.
+
+430
+00:41:20,050 --> 00:41:21,915
+Tome cuidado, psiquiatra.
+
+431
+00:41:21,906 --> 00:41:23,931
+Aqui é uma estranha.
+
+432
+00:41:23,922 --> 00:41:25,612
+Se meter o nariz
+onde não é chamada
+
+433
+00:41:25,544 --> 00:41:27,048
+pode ficar sem ele.
+
+434
+00:41:27,539 --> 00:41:28,904
+Acredite.
+
+435
+00:41:28,914 --> 00:41:30,381
+Você não vai querer.
+
+436
+00:41:40,531 --> 00:41:43,022
+Quem disse que tocaria meus peitos?
+
+437
+00:41:44,851 --> 00:41:48,343
+Para que vamos
+a essa festa de merda?
+
+438
+00:41:48,275 --> 00:41:51,733
+Porque quero dançar.
+
+439
+00:41:51,668 --> 00:41:53,659
+Vai se foder.
+
+440
+00:41:53,652 --> 00:41:56,280
+E sabe como eu danço bem.
+
+441
+00:41:56,244 --> 00:41:57,575
+Olha só.
+
+442
+00:42:46,457 --> 00:42:48,391
+<i>Minha nossa!</i>
+
+443
+00:43:02,394 --> 00:43:03,884
+Desgraçados...
+
+444
+00:43:03,899 --> 00:43:06,094
+Desgraçados!
+
+445
+00:43:07,995 --> 00:43:11,192
+Meu Deus.
+Vocês me pagarão por isso.
+
+446
+00:43:11,131 --> 00:43:13,099
+Eu juro por Deus.
+
+447
+00:43:43,037 --> 00:43:44,902
+Vamos, vamos.
+
+448
+00:43:50,910 --> 00:43:52,070
+Vamos.
+
+449
+00:43:55,551 --> 00:43:57,451
+Sra. Fallon.
+
+450
+00:43:59,776 --> 00:44:02,108
+Sra. Fallon, sou Jane Morton.
+
+451
+00:44:02,079 --> 00:44:03,944
+-Estou aqui para...
+-Sei quem é.
+
+452
+00:44:04,992 --> 00:44:06,687
+Preciso falar com seu filho Jake.
+
+453
+00:44:06,688 --> 00:44:10,089
+Quer lhe perguntar sobre
+aquela piranha da Dorothy Mills?
+
+454
+00:44:10,016 --> 00:44:13,315
+É uma mentirosa.
+Uma prostituta e uma mentirosa.
+
+455
+00:44:15,072 --> 00:44:17,700
+Por que a chama de prostituta?
+
+456
+00:44:26,209 --> 00:44:27,801
+Qual é o problema?
+
+457
+00:44:27,809 --> 00:44:29,299
+O que você quer?
+
+458
+00:44:29,313 --> 00:44:30,712
+Veio tirar um sarro?
+
+459
+00:44:30,721 --> 00:44:32,848
+-Calma, Paul.
+-Fica na sua!
+
+460
+00:44:32,834 --> 00:44:35,526
+Isto lhe causa prazer, certo?
+
+461
+00:44:35,417 --> 00:44:37,127
+Acha que somos porquinhos da índia?
+
+462
+00:44:37,058 --> 00:44:38,548
+Vou dizer uma coisa.
+
+463
+00:44:38,562 --> 00:44:40,962
+Esta ilha não é um maldito
+laboratório, Doutora.
+
+464
+00:44:40,930 --> 00:44:42,295
+Por favor, Paul.
+Basta.
+
+465
+00:44:47,011 --> 00:44:48,979
+-Vamos.
+-Sua desgraçada!
+
+466
+00:44:51,587 --> 00:44:54,488
+Que diabos há com todos aqui?
+
+467
+00:44:54,436 --> 00:44:55,960
+Se manda.
+
+468
+00:45:04,068 --> 00:45:05,558
+"PROPRIEDADE PRIVADA"
+
+469
+00:45:16,230 --> 00:45:18,926
+<i>Fica calmo, rapaz.</i>
+
+470
+00:45:18,885 --> 00:45:21,547
+Não fizemos nada errado.
+
+471
+00:45:21,510 --> 00:45:23,876
+Nenhum de nós.
+
+472
+00:45:25,958 --> 00:45:29,291
+Não há nada para nos culpar.
+
+473
+00:45:29,223 --> 00:45:30,520
+Não, senhor.
+
+474
+00:45:42,856 --> 00:45:45,051
+"FECHADO AOS DOMINGOS"
+
+475
+00:45:58,601 --> 00:46:00,125
+Nada funciona
+nesta maldita ilha?
+
+476
+00:46:00,137 --> 00:46:02,230
+-Veremos o que se pode fazer amanhã.
+-Amanhã?
+
+477
+00:46:02,218 --> 00:46:04,880
+Hoje é o dia do Senhor.
+
+478
+00:46:06,594 --> 00:46:08,194
+DOROTHY MILL=MIMI?
+
+479
+00:46:11,657 --> 00:46:13,279
+OU MARY?
+
+480
+00:46:15,530 --> 00:46:18,124
+Vá até a igreja.
+
+481
+00:46:19,403 --> 00:46:22,861
+Ela deixou entrar o diabo
+em sua casa.
+
+482
+00:46:22,794 --> 00:46:24,125
+Nosso Pai...
+
+483
+00:46:24,139 --> 00:46:26,767
+-Rei da glória...
+-Rei da glória...
+
+484
+00:46:26,732 --> 00:46:30,133
+-Pedimos ao Senhor Jesus...
+-Pedimos ao Senhor Jesus...
+
+485
+00:46:30,060 --> 00:46:32,221
+Que receba a sua serva Dorothy...
+
+486
+00:46:32,203 --> 00:46:33,899
+Que receba a sua serva Dorothy...
+
+487
+00:46:33,901 --> 00:46:36,335
+<i>Mais uma vez mais ao reino dos mortos.</i>
+
+488
+00:46:36,301 --> 00:46:38,269
+<i>Mais uma vez mais ao reino dos mortos.</i>
+
+489
+00:46:44,653 --> 00:46:47,554
+Louvado seja Jesus nosso Senhor...
+
+490
+00:46:47,502 --> 00:46:49,629
+-Nosso Pai, nosso Rei...
+-Eu rogo.
+
+491
+00:46:49,614 --> 00:46:51,809
+Deixe que ela me fale.
+
+492
+00:46:51,790 --> 00:46:54,418
+<i>Por favor, deixe que encontre
+a paz para falar.</i>
+
+493
+00:46:54,382 --> 00:46:56,111
+<i>Deixe-a em paz!</i>
+
+494
+00:46:56,110 --> 00:46:58,135
+Através da escuridão da eternidade...
+
+495
+00:46:58,126 --> 00:47:00,060
+Malditos porcos!
+
+496
+00:47:01,678 --> 00:47:03,077
+<i>Pára!</i>
+
+497
+00:47:03,982 --> 00:47:05,540
+<i>Por favor, pára!</i>
+
+498
+00:47:15,055 --> 00:47:18,388
+Deixem-na em paz
+ou matarei todo mundo.
+
+499
+00:47:19,568 --> 00:47:21,593
+Por favor, não.
+
+500
+00:47:21,584 --> 00:47:23,211
+Deixem-na em paz!
+
+501
+00:47:24,720 --> 00:47:26,348
+Pelo amor de Deus.
+
+502
+00:47:26,353 --> 00:47:29,811
+Por favor, não.
+Por favor.
+
+503
+00:47:29,746 --> 00:47:31,213
+Notificarei ao tribunal amanhã
+
+504
+00:47:31,217 --> 00:47:34,482
+que Dorothy deve
+ser detida imediatamente.
+
+505
+00:47:34,418 --> 00:47:35,976
+Não está segura com vocês.
+
+506
+00:47:35,986 --> 00:47:37,851
+A levarei comigo.
+
+507
+00:47:55,059 --> 00:47:57,419
+Prostituta! Prostituta!
+
+508
+00:47:57,324 --> 00:47:58,759
+<i>Tudo bem, Dorothy.
+Calma...</i>
+
+509
+00:47:58,701 --> 00:48:01,370
+Olha só, é o porra do xerife.
+
+510
+00:48:05,364 --> 00:48:07,457
+Eu pedi que não se metesse.
+
+511
+00:48:07,443 --> 00:48:09,604
+Da próxima vez, vou amarrá-la.
+
+512
+00:48:18,293 --> 00:48:19,955
+Minha cabeça.
+
+513
+00:48:19,958 --> 00:48:21,585
+Você pediu por isso.
+
+514
+00:48:24,246 --> 00:48:26,146
+Dorothy?
+
+515
+00:48:27,222 --> 00:48:28,985
+Não sou Dorothy.
+
+516
+00:48:30,102 --> 00:48:32,434
+Sou Kurt.
+
+517
+00:48:32,406 --> 00:48:34,806
+Muito prazer, Kurt.
+
+518
+00:48:34,775 --> 00:48:36,333
+Sou Jane.
+
+519
+00:48:37,655 --> 00:48:40,283
+Diga-me o que posso fazer
+para te ajudar.
+
+520
+00:48:40,247 --> 00:48:42,112
+Sempre devo suportar
+a dor por ela.
+
+521
+00:48:42,104 --> 00:48:43,969
+Por Dorothy.
+
+522
+00:48:43,959 --> 00:48:47,895
+Suporto a dor, para que ela
+não se machuque.
+
+523
+00:48:47,800 --> 00:48:49,233
+Ela não aguentaria.
+
+524
+00:48:49,239 --> 00:48:50,706
+É muito valente.
+
+525
+00:48:50,711 --> 00:48:52,872
+Mas estou me aborrecendo.
+
+526
+00:48:52,856 --> 00:48:54,346
+Não quero ir para a cadeia.
+
+527
+00:48:54,286 --> 00:48:56,464
+Se Dorothy for para a prisão,
+iremos todos, certo?
+
+528
+00:48:56,376 --> 00:48:58,173
+Sim.
+
+529
+00:48:59,064 --> 00:49:01,396
+Mas deve me ajudar.
+
+530
+00:49:01,368 --> 00:49:03,928
+Esteve na casa dos Kearsley?
+
+531
+00:49:03,896 --> 00:49:05,796
+-Viu o bebê?
+-Não, não.
+
+532
+00:49:05,785 --> 00:49:09,482
+Não posso falar.
+Duncan não deixaria.
+
+533
+00:49:09,401 --> 00:49:11,292
+-Quem é Duncan?
+-O chefe.
+
+534
+00:49:11,215 --> 00:49:12,592
+Onde está?
+Posso falar com ele?
+
+535
+00:49:12,537 --> 00:49:15,200
+Confie em mim, você não tem
+nada que falar com ele.
+
+536
+00:49:15,162 --> 00:49:17,027
+Especialmente você.
+Ele te mata.
+
+537
+00:49:17,019 --> 00:49:18,884
+Diga ao Duncan que quero falar com...
+
+538
+00:49:21,018 --> 00:49:22,952
+Volta aqui, desgraçado!
+
+539
+00:49:22,938 --> 00:49:24,633
+Desgraçado! Cale a boca!
+
+540
+00:49:25,659 --> 00:49:26,956
+Segure-a para mim.
+
+541
+00:49:29,435 --> 00:49:30,527
+Dorothy.
+
+542
+00:49:30,556 --> 00:49:31,682
+Não.
+
+543
+00:49:35,548 --> 00:49:37,948
+Matei o bebe, não é?
+
+544
+00:49:37,916 --> 00:49:39,816
+Digam, me digam, por favor.
+
+545
+00:49:39,804 --> 00:49:41,567
+-Dorothy?
+-O que faz? Não.
+
+546
+00:49:41,564 --> 00:49:42,690
+-Prometo...
+-Pára.
+
+547
+00:49:42,716 --> 00:49:46,447
+-Não vai doer.
+-Pára!
+
+548
+00:49:46,365 --> 00:49:48,060
+Deveríamos levá-la
+a sua casa.
+
+549
+00:49:52,029 --> 00:49:54,361
+Eu dei-lhe um calmante.
+
+550
+00:49:54,333 --> 00:49:56,028
+Dormirá até manhã.
+
+551
+00:50:01,630 --> 00:50:03,291
+Voltarei antes que desperte.
+
+552
+00:50:24,352 --> 00:50:26,720
+Foi incrível voltando lá.
+
+553
+00:50:26,624 --> 00:50:27,624
+Obrigada.
+
+554
+00:50:27,584 --> 00:50:30,485
+Mas você deveria ter pegado
+a balsa desta manhã.
+
+555
+00:50:30,433 --> 00:50:32,628
+O pessoal tá ficando nervoso.
+
+556
+00:50:32,609 --> 00:50:33,701
+Está os alterando.
+
+557
+00:50:33,728 --> 00:50:34,752
+Alterando?
+
+558
+00:50:34,785 --> 00:50:38,952
+Já reuniu seu material.
+Pode fazer seu relatório, certo?
+
+559
+00:50:39,937 --> 00:50:42,872
+Há mais coisas em risco
+que um relatório.
+
+560
+00:50:42,817 --> 00:50:43,841
+Tenho um barco pequeno.
+
+561
+00:50:43,873 --> 00:50:46,569
+Posso levá-la ao continente.
+
+562
+00:50:46,529 --> 00:50:48,497
+Não posso ir sem a Dorothy.
+
+563
+00:50:48,482 --> 00:50:50,677
+A próxima balsa chegará
+em três dias.
+
+564
+00:50:50,657 --> 00:50:52,750
+Então deverei esperar.
+
+565
+00:50:54,562 --> 00:50:56,086
+Até mais tarde.
+
+566
+00:51:29,637 --> 00:51:31,195
+Jakey.
+
+567
+00:51:32,486 --> 00:51:33,544
+Olá, gatinho.
+
+568
+00:51:36,358 --> 00:51:38,626
+Uma festinha?
+
+569
+00:51:38,534 --> 00:51:40,021
+Dorothy, não deveria estar aqui...
+
+570
+00:51:39,973 --> 00:51:41,270
+Calado.
+
+571
+00:51:42,566 --> 00:51:44,056
+Pilote.
+
+572
+00:51:59,977 --> 00:52:01,501
+Venha.
+
+573
+00:52:03,913 --> 00:52:05,039
+Venha.
+
+574
+00:52:12,233 --> 00:52:13,996
+Venha.
+
+575
+00:52:13,993 --> 00:52:15,654
+Venha, venha.
+
+576
+00:52:23,081 --> 00:52:27,418
+Acha que deixaria que um idiota como
+você gozasse dentro de mim?
+
+577
+00:52:27,306 --> 00:52:30,104
+É muito gozadinho, Jakey.
+
+578
+00:52:30,058 --> 00:52:31,355
+Não posso resistir.
+
+579
+00:52:31,370 --> 00:52:35,602
+Estou desesperada,
+mas nem tanto.
+
+580
+00:52:41,867 --> 00:52:45,359
+Sua piranha desgraçada.
+Vou te matar!
+
+581
+00:52:45,291 --> 00:52:47,283
+Lixo!
+
+582
+00:52:47,277 --> 00:52:49,643
+É uma porcaria!
+
+583
+00:54:20,148 --> 00:54:21,148
+Alô?
+
+584
+00:54:21,171 --> 00:54:22,433
+<i>Dra. Norton?</i>
+
+585
+00:54:22,452 --> 00:54:25,250
+Sim, sou eu.
+Quem fala?
+
+586
+00:54:25,204 --> 00:54:27,195
+<i>Dorothy tentou suicidar-se.</i>
+
+587
+00:54:27,188 --> 00:54:28,746
+Quem fala?
+
+588
+00:54:28,756 --> 00:54:30,656
+Dorothy precisa de você.
+Venha depressa.
+
+589
+00:54:46,966 --> 00:54:48,327
+Dorothy!
+
+590
+00:54:48,343 --> 00:54:52,340
+-Deve estar congelando.
+-Não sou Dorothy. Sou Kurt.
+
+591
+00:54:52,246 --> 00:54:54,612
+O que aconteceu, Kurt?
+
+592
+00:54:54,583 --> 00:54:59,044
+Quando colocou Dorothy na cama,
+apareceu Mary e escapou pela janela.
+
+593
+00:55:00,343 --> 00:55:02,436
+O que fez?
+
+594
+00:55:02,423 --> 00:55:04,288
+O de sempre.
+
+595
+00:55:04,279 --> 00:55:05,678
+bancou a esperta com um rapaz
+
+596
+00:55:05,687 --> 00:55:08,019
+e desapareceu quando a coisa
+estava fora de controle.
+
+597
+00:55:09,271 --> 00:55:13,435
+Dorothy esteve a ponto
+de lançar-se desse precipício.
+
+598
+00:55:13,336 --> 00:55:15,463
+Se eu não estivesse lá
+para salvá-la...
+
+599
+00:55:15,448 --> 00:55:17,211
+Bem feito, Kurt.
+
+600
+00:55:17,208 --> 00:55:18,903
+Dorothy estará
+muito orgulhosa de você.
+
+601
+00:55:20,952 --> 00:55:24,012
+Minha vida, aqui estou.
+Já passou.
+
+602
+00:55:23,961 --> 00:55:25,588
+Levarei-te para casa.
+
+603
+00:55:26,586 --> 00:55:28,486
+Que droga lhe deu?
+
+604
+00:56:18,430 --> 00:56:20,422
+Não estou morta?
+
+605
+00:56:21,375 --> 00:56:22,375
+Não estou morta!
+
+606
+00:56:22,398 --> 00:56:24,332
+Não, não está morta.
+
+607
+00:56:24,318 --> 00:56:27,082
+Mas vi o precipício.
+
+608
+00:56:27,038 --> 00:56:28,596
+Eu lembro.
+
+609
+00:56:28,607 --> 00:56:30,973
+Eu caí nele e vi as ondas.
+
+610
+00:56:30,943 --> 00:56:32,342
+Já está a salvo.
+
+611
+00:56:32,351 --> 00:56:34,478
+Não, sou uma maluca.
+
+612
+00:56:34,464 --> 00:56:36,091
+Ninguém pode ajudar um maluco.
+
+613
+00:56:36,095 --> 00:56:37,585
+Você não é, Dorothy.
+
+614
+00:56:37,599 --> 00:56:40,693
+Fiz coisas horríveis que não lembro.
+
+615
+00:56:40,640 --> 00:56:42,471
+<i>Sinto vergonha.</i>
+
+616
+00:56:43,616 --> 00:56:45,550
+<i>Muita vergonha.</i>
+
+617
+00:56:45,536 --> 00:56:48,664
+Escute-me bem, Dorothy.
+
+618
+00:56:48,609 --> 00:56:51,737
+O que acontece dentro de você
+não é sua culpa.
+
+619
+00:56:53,761 --> 00:56:57,156
+Essas lacunas mentais que tem
+são provocadas por personagens
+
+620
+00:56:57,089 --> 00:57:00,286
+que criou em sua mente.
+
+621
+00:57:01,633 --> 00:57:03,430
+E quando tem medo como agora
+
+622
+00:57:03,425 --> 00:57:06,952
+sua mente envia uma
+personagem para te proteger.
+
+623
+00:57:06,882 --> 00:57:09,112
+Não me recordo de nada.
+
+624
+00:57:10,562 --> 00:57:12,997
+Não, porque você...
+
+625
+00:57:12,963 --> 00:57:14,487
+Porque você...
+
+626
+00:57:14,499 --> 00:57:16,399
+-Dorothy.
+-Não.
+
+627
+00:57:16,387 --> 00:57:17,911
+É porque...
+
+628
+00:57:19,107 --> 00:57:21,302
+você desaparece
+quando isso acontece.
+
+629
+00:57:23,652 --> 00:57:26,120
+Dorothy...
+
+630
+00:57:26,084 --> 00:57:27,415
+estão dentro de você.
+
+631
+00:57:27,428 --> 00:57:30,591
+Não, não.
+
+632
+00:57:30,532 --> 00:57:33,000
+Dorothy, estão tentando evitar
+
+633
+00:57:32,964 --> 00:57:34,659
+-que suicide.
+-Não é verdade.
+
+634
+00:57:34,660 --> 00:57:37,356
+Dorothy, foi uma dessas
+personagens
+
+635
+00:57:37,317 --> 00:57:39,785
+que machucou o bebê.
+Não você.
+
+636
+00:57:39,749 --> 00:57:41,216
+Não tenha medo.
+
+637
+00:57:43,141 --> 00:57:45,473
+Deve tentar se comunicar com eles.
+
+638
+00:57:46,533 --> 00:57:49,093
+Não toque em mim!
+
+639
+00:57:49,061 --> 00:57:51,325
+Já não pedi para
+não me encher o saco?
+
+640
+00:57:52,645 --> 00:57:54,613
+É você, Duncan?
+
+641
+00:57:54,598 --> 00:57:56,031
+Machucou o bebê?
+
+642
+00:57:56,038 --> 00:57:57,528
+Acha que machuquei o bebê?
+
+643
+00:57:57,542 --> 00:58:00,067
+-Por quê?
+-Como poderia fazer algo?
+
+644
+00:58:01,062 --> 00:58:02,586
+Sou apenas uma personagem.
+
+645
+00:58:02,598 --> 00:58:03,963
+Por que fez isso?
+
+646
+00:58:03,974 --> 00:58:05,407
+<i>Por vingança.</i>
+
+647
+00:58:05,415 --> 00:58:07,748
+<i>Um pouco de vingança.</i>
+
+648
+00:58:07,720 --> 00:58:09,688
+O que um bebê poderia
+fazer com você?
+
+649
+00:58:09,671 --> 00:58:12,834
+Se acha a espertinha, né?
+
+650
+00:58:12,776 --> 00:58:15,574
+Não sabe nada.
+
+651
+00:58:18,728 --> 00:58:21,891
+Por que não olha
+o último desenho da Dorothy?
+
+652
+00:58:21,833 --> 00:58:24,461
+Ela fez para você.
+
+653
+00:58:33,737 --> 00:58:36,638
+Por acaso não é o pequeno David
+
+654
+00:58:36,586 --> 00:58:39,146
+<i>boiando e morto</i>
+
+655
+00:58:39,114 --> 00:58:42,208
+<i>como um peixe podre?</i>
+
+656
+00:58:47,882 --> 00:58:51,579
+Mamãe, mamãe,
+a água está muito fria.
+
+657
+00:58:51,499 --> 00:58:54,798
+-Basta.
+-Não quero morrer.
+
+658
+00:58:54,731 --> 00:58:57,063
+Basta, basta.
+
+659
+00:58:57,035 --> 00:59:01,973
+Não grite comigo, mamãe.
+Estou me afogando. Me ajude.
+
+660
+00:59:01,836 --> 00:59:05,863
+Me ajude.
+Por que me deixou?
+
+661
+00:59:05,772 --> 00:59:07,637
+Não me deixe afogar.
+
+662
+00:59:12,077 --> 00:59:14,341
+<i>Mamãe, me ajude.</i>
+
+663
+00:59:14,317 --> 00:59:17,218
+<i>Por que me deixou?</i>
+
+664
+00:59:17,166 --> 00:59:18,428
+<i>Não me deixe afogar.</i>
+
+665
+00:59:18,445 --> 00:59:21,278
+<i>Por favor, a água está fria.</i>
+
+666
+00:59:22,222 --> 00:59:24,690
+<i>A água está muito fria.</i>
+
+667
+00:59:24,653 --> 00:59:26,917
+<i>Não quero morrer.</i>
+
+668
+01:01:09,623 --> 01:01:12,057
+Por favor, me perdoe.
+
+669
+01:01:15,095 --> 01:01:16,858
+Foi minha culpa.
+
+670
+01:01:18,967 --> 01:01:21,060
+Acreditei que era seguro.
+
+671
+01:01:23,063 --> 01:01:24,894
+Por favor, me perdoe.
+
+672
+01:03:17,985 --> 01:03:20,783
+Quem é o moço da foto?
+
+673
+01:03:20,737 --> 01:03:22,864
+É meu neto.
+
+674
+01:03:24,737 --> 01:03:26,330
+É o rapaz que me fez cair no lago.
+
+675
+01:03:26,339 --> 01:03:27,670
+Ele e outros dois moços.
+
+676
+01:03:27,683 --> 01:03:31,084
+Não, não pode ser ele.
+
+677
+01:03:31,011 --> 01:03:33,707
+<i>Faz dez anos que morreu.</i>
+
+678
+01:03:35,715 --> 01:03:37,706
+Tocava bem guitarra.
+
+679
+01:03:43,012 --> 01:03:44,843
+Como se chamava?
+
+680
+01:03:46,884 --> 01:03:48,317
+Duncan.
+
+681
+01:03:58,597 --> 01:03:59,723
+Como morreu?
+
+682
+01:03:59,749 --> 01:04:02,240
+De uma maneira muito estúpida.
+
+683
+01:04:02,214 --> 01:04:05,081
+Caíram no lago com o automóvel.
+
+684
+01:04:07,046 --> 01:04:08,070
+Caíram?
+
+685
+01:04:08,101 --> 01:04:11,696
+Duncan e seus dois amigos
+
+686
+01:04:11,621 --> 01:04:13,248
+Mary e Kurt.
+
+687
+01:04:15,366 --> 01:04:16,833
+Não, é impossível.
+
+688
+01:04:19,111 --> 01:04:20,738
+Eu os vi no carro à minha frente.
+
+689
+01:04:20,743 --> 01:04:22,711
+<i>Os vi na praça.</i>
+
+690
+01:04:22,695 --> 01:04:25,129
+Se não acredita em, veja as manchetes.
+
+691
+01:04:25,096 --> 01:04:29,465
+"JOVENS BÊBADOS ATERRORIZAM:
+FAMÍLIAS DESTRUÍDAS"
+
+692
+01:04:31,304 --> 01:04:35,798
+"ADOLESCENTES MORREM EM
+TRÁGICO ACIDENTE"
+
+693
+01:05:38,510 --> 01:05:40,375
+Deve ter lhe falado sobre
+o teu filho morto.
+
+694
+01:05:40,366 --> 01:05:42,493
+Só contei para você.
+
+695
+01:05:43,438 --> 01:05:45,770
+E nem sequer te contei
+como morreu.
+
+696
+01:05:45,742 --> 01:05:47,767
+Obviamente,
+tem muitas pressões.
+
+697
+01:05:47,758 --> 01:05:50,822
+Está cansada e sua imaginação
+começou a te sacanear.
+
+698
+01:05:50,766 --> 01:05:52,563
+Me sacanear?
+
+699
+01:05:52,559 --> 01:05:54,424
+Não faz a menor ideia.
+
+700
+01:05:54,414 --> 01:05:57,474
+Os personagens de sua mente
+estão mortos.
+
+701
+01:05:57,423 --> 01:05:58,481
+Mortos!
+
+702
+01:05:59,599 --> 01:06:01,726
+E estes rapazes me fizeram
+cair no lago, também.
+
+703
+01:06:02,639 --> 01:06:04,436
+São eles que convertem
+a pobre Dorothy
+
+704
+01:06:04,431 --> 01:06:06,559
+numa maldita ventríloqua.
+
+705
+01:06:06,544 --> 01:06:08,034
+Numa hora é Mimi, depois Kurt,
+
+706
+01:06:08,048 --> 01:06:09,913
+então ela é Duncan e,
+depois, Mary.
+
+707
+01:06:09,905 --> 01:06:11,338
+Todos me falaram através dela
+
+708
+01:06:11,345 --> 01:06:13,210
+e não pode fazer nada
+para evitá-lo.
+
+709
+01:06:13,200 --> 01:06:15,863
+Como pode acreditar nisso?
+É psiquiatra, por Deus.
+
+710
+01:06:15,825 --> 01:06:17,986
+Colin, algo diabólico está acontecendo.
+
+711
+01:06:19,377 --> 01:06:21,743
+Eu juro, ela sente
+o sofrimento das pessoas.
+
+712
+01:06:22,738 --> 01:06:25,536
+Inclusive a ouvi falar com
+o meu filho morto.
+
+713
+01:06:26,385 --> 01:06:28,080
+Jane, Jane, Jane.
+
+714
+01:06:34,770 --> 01:06:36,260
+Calma.
+
+715
+01:06:43,669 --> 01:06:46,668
+Jane, deve ir embora daqui.
+
+716
+01:06:46,611 --> 01:06:48,045
+Te levo ao continente
+amanhã...
+
+717
+01:06:47,987 --> 01:06:49,454
+-Não.
+-Não, escuta.
+
+718
+01:06:51,380 --> 01:06:53,780
+Não gosto da atitude desta gente.
+
+719
+01:06:54,964 --> 01:06:56,693
+Não acredito
+que esteja a salvo aqui.
+
+720
+01:06:58,419 --> 01:07:00,911
+Que problema tem a Dorothy?
+
+721
+01:07:03,989 --> 01:07:05,820
+Do que tem tanto medo?
+
+722
+01:07:05,813 --> 01:07:08,077
+É algo antigo, histórias locais.
+
+723
+01:07:09,430 --> 01:07:12,957
+É como levantar uma rocha
+e expor alguma coisa.
+
+724
+01:07:13,781 --> 01:07:16,750
+Não creio que seja a Dorothy.
+
+725
+01:07:27,543 --> 01:07:28,874
+Toma.
+
+726
+01:07:30,327 --> 01:07:32,295
+Isto te ajudará a passar a noite.
+
+727
+01:07:33,815 --> 01:07:35,646
+Dorme aqui.
+
+728
+01:07:35,639 --> 01:07:37,402
+Eu te acordo pela manhã.
+
+729
+01:07:37,399 --> 01:07:39,060
+Confia em mim.
+
+730
+01:07:39,063 --> 01:07:41,088
+Tomaremos as decisões amanhã.
+
+731
+01:07:41,079 --> 01:07:42,137
+Tudo bem.
+
+732
+01:08:34,652 --> 01:08:35,812
+Não!
+
+733
+01:08:35,837 --> 01:08:37,498
+Badger.
+
+734
+01:08:37,501 --> 01:08:39,628
+Colin, seu babaca!
+
+735
+01:08:42,141 --> 01:08:43,972
+<i>A eles, Colin!</i>
+
+736
+01:10:17,541 --> 01:10:20,704
+"NÃO POSSO ABANDONAR A DOROTHY"
+
+737
+01:10:51,944 --> 01:10:54,674
+Levarei Dorothy comigo ao hospital.
+
+738
+01:10:56,168 --> 01:10:57,328
+Com o tratamento indicado
+
+739
+01:10:57,353 --> 01:10:59,480
+sei que poderemos ajudá-la.
+
+740
+01:11:07,722 --> 01:11:09,280
+É pelo seu próprio bem,
+Sra. McMahon.
+
+741
+01:11:09,217 --> 01:11:11,861
+Se demonstrar que se trata de um caso
+de múltipla personalidade
+
+742
+01:11:11,754 --> 01:11:13,221
+será absolvida.
+
+743
+01:11:13,226 --> 01:11:16,627
+Quer este presente
+todo para você, não é?
+
+744
+01:11:18,634 --> 01:11:21,432
+Não suportaria voltar a perder
+a minha Mary.
+
+745
+01:11:21,386 --> 01:11:23,752
+Estamos falando
+de Dorothy, Sra. McMahon.
+
+746
+01:11:23,722 --> 01:11:27,819
+Minha pequena Mary morreu há 10 anos.
+
+747
+01:11:27,724 --> 01:11:31,091
+Pensei que não voltaria a vê-la.
+
+748
+01:11:31,020 --> 01:11:34,114
+Mas o bom Senhor colocou Dorothy
+em meu lar como presente.
+
+749
+01:11:35,468 --> 01:11:37,265
+Fez milagres para mim.
+
+750
+01:11:49,133 --> 01:11:51,624
+Ela te fez falar
+com seu filho, não foi?
+
+751
+01:11:53,710 --> 01:11:54,972
+David.
+
+752
+01:11:54,989 --> 01:11:56,786
+Esse é seu nome, certo?
+
+753
+01:11:58,414 --> 01:11:59,676
+Não é verdade?
+
+754
+01:12:01,902 --> 01:12:04,302
+Devemos pensar em Dorothy.
+
+755
+01:12:04,270 --> 01:12:06,204
+Devemos ajudá-la.
+
+756
+01:12:09,902 --> 01:12:12,166
+Eu cuidarei bem dela.
+
+757
+01:12:38,738 --> 01:12:41,298
+Deve ir embora daqui.
+
+758
+01:12:41,266 --> 01:12:43,734
+Vi como a morte lhe rondava.
+
+759
+01:12:54,866 --> 01:12:56,697
+O que acontece, Dorothy?
+
+760
+01:12:58,995 --> 01:13:00,690
+É a água?
+
+761
+01:13:02,643 --> 01:13:05,237
+-E o sangue?
+-Tenho medo.
+
+762
+01:13:07,284 --> 01:13:09,684
+Não quero lembrar.
+
+763
+01:13:10,547 --> 01:13:12,379
+Tenho medo.
+
+764
+01:13:15,925 --> 01:13:17,358
+Tudo bem.
+
+765
+01:13:19,925 --> 01:13:21,620
+Já passou por isso.
+
+766
+01:13:22,837 --> 01:13:25,328
+E pode revivê-lo em sua memória.
+
+767
+01:13:26,965 --> 01:13:29,490
+Quero que retroceda no
+tempo, Dorothy.
+
+768
+01:13:30,678 --> 01:13:32,646
+Contarei de 10 a 1.
+
+769
+01:13:35,639 --> 01:13:37,163
+10,
+
+770
+01:13:38,519 --> 01:13:39,747
+9,
+
+771
+01:13:41,558 --> 01:13:43,389
+8,
+
+772
+01:13:43,382 --> 01:13:45,179
+7,
+
+773
+01:13:46,295 --> 01:13:48,126
+6,
+
+774
+01:13:49,399 --> 01:13:50,866
+5,
+
+775
+01:13:50,871 --> 01:13:52,031
+4,
+
+776
+01:13:52,056 --> 01:13:53,580
+3,
+
+777
+01:13:53,591 --> 01:13:55,559
+2,
+
+778
+01:13:55,544 --> 01:13:56,636
+1.
+
+779
+01:14:01,272 --> 01:14:02,967
+Onde está?
+
+780
+01:14:04,856 --> 01:14:06,552
+Houve um acidente.
+
+781
+01:14:07,705 --> 01:14:10,139
+Minha mãe está
+lavando os cadáveres.
+
+782
+01:14:15,257 --> 01:14:17,088
+-Que idade tem?
+-Cinco anos.
+
+783
+01:14:17,082 --> 01:14:19,448
+-Você os conhece?
+-Sim.
+
+784
+01:14:19,418 --> 01:14:22,649
+Olhe, Dorothy.
+Não estão lindos agora?
+
+785
+01:14:24,026 --> 01:14:26,153
+<i>Terão uma longa jornada</i>
+
+786
+01:14:26,138 --> 01:14:27,696
+<i>no reino dos mortos.</i>
+
+787
+01:14:27,707 --> 01:14:28,969
+Vamos nos despedir?
+
+788
+01:14:30,363 --> 01:14:31,363
+Não...
+
+789
+01:14:31,387 --> 01:14:33,287
+Não tenha medo, Dorothy.
+
+790
+01:14:33,275 --> 01:14:35,835
+Olhe.
+É sua prima Mary.
+
+791
+01:14:35,803 --> 01:14:37,498
+Dá um beijo de despedida.
+
+792
+01:14:37,499 --> 01:14:39,865
+-Não.
+-Dá-lhe um beijo.
+
+793
+01:14:39,835 --> 01:14:41,803
+Não!
+
+794
+01:14:42,716 --> 01:14:44,377
+Dorothy, dá-lhe um beijo
+de despedida.
+
+795
+01:14:49,820 --> 01:14:51,879
+Anda.
+
+796
+01:15:06,750 --> 01:15:07,774
+Já passou.
+
+797
+01:15:07,807 --> 01:15:09,798
+Já passou, Dorothy.
+
+798
+01:15:13,439 --> 01:15:15,669
+Não beijou os cadáveres.
+
+799
+01:15:16,767 --> 01:15:19,497
+Sua mente criou Mimi,
+uma garotinha
+
+800
+01:15:19,455 --> 01:15:21,787
+que não sabe o que é a morte.
+
+801
+01:15:23,264 --> 01:15:25,562
+Ela beijou os cadáveres por você.
+
+802
+01:15:25,536 --> 01:15:28,004
+Sim.
+
+803
+01:15:27,968 --> 01:15:29,299
+Acabou.
+
+804
+01:15:31,232 --> 01:15:33,200
+Dorme, dorme.
+
+805
+01:15:34,176 --> 01:15:36,576
+Vamos embora amanhã cedo.
+
+806
+01:16:44,262 --> 01:16:46,094
+Boa noite, Colin.
+
+807
+01:16:46,087 --> 01:16:48,612
+Lembra de mim?
+
+808
+01:16:53,127 --> 01:16:54,892
+-Não.
+-Não tinha tanto medo
+
+809
+01:16:54,821 --> 01:16:56,650
+quando estava com seus três amigos.
+
+810
+01:16:57,319 --> 01:16:59,116
+Não.
+
+811
+01:16:59,112 --> 01:17:01,012
+Não é real.
+
+812
+01:17:00,999 --> 01:17:03,627
+Não finja que esqueceu,
+seu maldito.
+
+813
+01:17:03,592 --> 01:17:05,150
+Está morto.
+
+814
+01:17:05,160 --> 01:17:06,855
+Mary está morta.
+Todos estão mortos.
+
+815
+01:17:06,857 --> 01:17:07,857
+Voltamos.
+
+816
+01:17:07,848 --> 01:17:09,907
+Estávamos te esperando.
+
+817
+01:17:09,896 --> 01:17:12,057
+<i>É hora da vingança...</i>
+
+818
+01:17:12,041 --> 01:17:13,565
+Xerife.
+
+819
+01:17:36,522 --> 01:17:38,190
+Diga-nos quem é o próximo!
+
+820
+01:17:38,123 --> 01:17:39,157
+Depende de você.
+
+821
+01:17:39,115 --> 01:17:40,742
+Há um homem morto na sala.
+
+822
+01:18:08,110 --> 01:18:09,538
+<i>Nos diga quem é o próximo.</i>
+
+823
+01:18:09,550 --> 01:18:11,108
+<i>Não nos diga o que fazer!</i>
+
+824
+01:18:11,118 --> 01:18:12,517
+Silêncio todos!
+
+825
+01:18:15,822 --> 01:18:18,814
+Dorothy, me diga o que aconteceu.
+
+826
+01:18:18,766 --> 01:18:21,234
+Não sei, não sei.
+
+827
+01:18:21,198 --> 01:18:23,428
+Quando despertei, estava morto.
+
+828
+01:18:23,407 --> 01:18:24,601
+Você tem de detê-la.
+
+829
+01:18:24,623 --> 01:18:26,420
+Antes que venha atrás da gente.
+
+830
+01:18:27,887 --> 01:18:30,219
+Não percebem que ele se matou?
+
+831
+01:18:30,190 --> 01:18:32,056
+Dorothy não é o problema.
+
+832
+01:18:32,048 --> 01:18:34,107
+São vocês! Todos vocês!
+
+833
+01:18:34,096 --> 01:18:36,257
+Ela sabe a verdade
+sobre sua comunidade.
+
+834
+01:18:36,240 --> 01:18:39,041
+Dorothy está louca como sua mãe,
+e você sabe disso.
+
+835
+01:18:38,928 --> 01:18:40,953
+Dorothy é membro
+de nossa comunidade.
+
+836
+01:18:40,945 --> 01:18:43,106
+É nossa responsabilidade
+cuidar dela.
+
+837
+01:18:44,817 --> 01:18:47,285
+Meu nome é Duncan McLellan.
+
+838
+01:18:51,057 --> 01:18:52,957
+Duncan.
+
+839
+01:18:52,945 --> 01:18:54,276
+Meu querido Duncan...
+
+840
+01:18:54,289 --> 01:18:56,450
+Eu também era membro
+de sua comunidade.
+
+841
+01:19:06,066 --> 01:19:08,762
+Estamos escutando, Duncan.
+
+842
+01:19:08,722 --> 01:19:10,587
+Eu mostrarei.
+
+843
+01:19:49,590 --> 01:19:51,717
+Diga, Duncan.
+
+844
+01:19:51,702 --> 01:19:53,863
+Por que machucou o bebê 
+dos Kearsley?
+
+845
+01:20:04,791 --> 01:20:07,225
+Seu pai devia pagar.
+
+846
+01:20:07,191 --> 01:20:10,524
+Todos deviam pagar
+pelo que fizeram a Mary.
+
+847
+01:20:13,240 --> 01:20:14,264
+Sim!
+Vamos, Mary!
+
+848
+01:20:38,810 --> 01:20:40,710
+Se liga!
+
+849
+01:20:48,155 --> 01:20:49,918
+Por que não dança para nós?
+
+850
+01:20:49,915 --> 01:20:51,075
+Vaza daqui, entendeu?
+
+851
+01:20:52,027 --> 01:20:53,654
+Prostituta.
+
+852
+01:20:55,227 --> 01:20:57,127
+Duncan?
+
+853
+01:20:57,116 --> 01:20:58,310
+Kurt!
+
+854
+01:20:59,867 --> 01:21:02,461
+Por que se escondem de mim?
+
+855
+01:21:02,428 --> 01:21:04,293
+Querem ficar 
+com toda bebida, não é?
+
+856
+01:21:07,004 --> 01:21:08,699
+Rapazes!
+
+857
+01:21:11,710 --> 01:21:13,075
+Droga.
+
+858
+01:21:16,285 --> 01:21:18,583
+-Ei! Volta e dança.
+-Foda-se!
+
+859
+01:21:18,558 --> 01:21:20,526
+Cuidado com a boca, prostituta.
+
+860
+01:21:20,510 --> 01:21:22,171
+Seja legal com meu amigo.
+
+861
+01:21:22,174 --> 01:21:24,074
+Ei, me solta, dá pra ser?
+
+862
+01:21:24,062 --> 01:21:25,586
+Deixem-me em paz!
+
+863
+01:21:25,598 --> 01:21:26,963
+Deixem-me em paz!
+
+864
+01:21:29,247 --> 01:21:31,772
+Duncan! Duncan!
+
+865
+01:22:04,001 --> 01:22:06,163
+Deixem a moça em paz!
+
+866
+01:22:06,146 --> 01:22:08,580
+Deus!
+
+867
+01:22:08,546 --> 01:22:10,980
+Soltem-na ou juro que te mato!
+
+868
+01:22:10,947 --> 01:22:13,541
+Solta! Solta!
+
+869
+01:22:16,003 --> 01:22:18,471
+Para trás! Para trás!
+
+870
+01:22:19,523 --> 01:22:20,956
+Cortarei sua garganta!
+
+871
+01:22:20,963 --> 01:22:22,760
+Foda-se, desgraçados!
+
+872
+01:22:33,187 --> 01:22:34,211
+Vou matá-lo por isso!
+
+873
+01:22:34,244 --> 01:22:35,609
+Isto está fora de controle.
+
+874
+01:22:35,620 --> 01:22:37,588
+Ele tentou te matar.
+Está com a gente ou não?
+
+875
+01:22:49,861 --> 01:22:51,829
+Já passou. Já terminou.
+
+876
+01:22:51,813 --> 01:22:52,973
+Estão atrás de nós!
+
+877
+01:22:54,085 --> 01:22:55,450
+Depressa!
+
+878
+01:22:58,854 --> 01:23:00,913
+Mais rápido! Acelera!
+
+879
+01:23:03,143 --> 01:23:05,043
+Pisa no acelerador.
+
+880
+01:23:06,311 --> 01:23:08,302
+-Mais rápido!
+-Não posso!
+
+881
+01:23:08,296 --> 01:23:09,593
+Rápido! Acelera!
+
+882
+01:23:09,608 --> 01:23:11,803
+Rápido! Deus.
+
+883
+01:23:14,375 --> 01:23:17,401
+Depressa!
+Vão matar a gente!
+
+884
+01:24:20,109 --> 01:24:21,770
+Você...
+
+885
+01:24:21,774 --> 01:24:24,038
+Matou a minha filha.
+
+886
+01:24:24,013 --> 01:24:26,413
+Matou a minha filha!
+
+887
+01:24:26,381 --> 01:24:28,508
+Kurt... Meu Kurt.
+
+888
+01:24:28,494 --> 01:24:30,689
+Só fomos jovens e inconsequentes.
+
+889
+01:24:30,669 --> 01:24:33,001
+Não quisemos...
+
+890
+01:24:32,974 --> 01:24:34,805
+Perdoe-nos, Duncan, por favor.
+
+891
+01:24:36,782 --> 01:24:38,807
+Duncan!
+
+892
+01:24:46,512 --> 01:24:48,002
+-Desgraçado.
+-Afaste-se de mim.
+
+893
+01:24:48,016 --> 01:24:49,711
+Afaste-se!
+
+894
+01:24:49,712 --> 01:24:51,202
+Não se aproximem!
+
+895
+01:24:54,769 --> 01:24:56,999
+Mary McMahon merecia!
+
+896
+01:25:01,904 --> 01:25:05,863
+São todos uns hipócritas.
+
+897
+01:25:07,441 --> 01:25:09,602
+Nem ligaram quando
+ela se foi, não é?
+
+898
+01:25:11,825 --> 01:25:13,319
+Todos pensaram que ela mereceu.
+
+899
+01:25:14,066 --> 01:25:15,260
+Não é?
+
+900
+01:25:18,258 --> 01:25:20,055
+Estamos todos juntos nisto.
+
+901
+01:25:20,050 --> 01:25:21,745
+Juntos.
+
+902
+01:25:26,451 --> 01:25:28,442
+Podemos manter isto na ilha.
+
+903
+01:25:30,258 --> 01:25:31,657
+-Ela é a única prova.
+-Dorothy!
+
+904
+01:25:31,666 --> 01:25:33,759
+Por favor!
+Não toquem nela, por favor!
+
+905
+01:25:33,747 --> 01:25:35,738
+<i>Deixem-na em paz, por favor.</i>
+
+906
+01:25:35,731 --> 01:25:38,633
+-Calada, mulher!
+-Não toquem na menina!
+
+907
+01:25:38,581 --> 01:25:40,640
+Pensa bem nisso.
+
+908
+01:25:41,653 --> 01:25:44,121
+Quer que todos saibam?
+
+909
+01:25:45,781 --> 01:25:48,045
+Policiais?
+
+910
+01:25:48,021 --> 01:25:49,045
+Jornalistas?
+
+911
+01:25:50,837 --> 01:25:54,273
+Todos vasculhando nesta ilha?
+
+912
+01:25:54,197 --> 01:25:56,290
+Nossa ilha?
+
+913
+01:25:57,174 --> 01:26:02,544
+Será o fim de sua feliz comunidade.
+
+914
+01:26:10,134 --> 01:26:11,431
+Pense nisso.
+
+915
+01:26:18,295 --> 01:26:20,786
+Ela é a única prova.
+
+916
+01:26:24,311 --> 01:26:25,801
+Deixem-na em paz!
+
+917
+01:27:25,309 --> 01:27:27,869
+<i>É um tempo de tribulações.</i>
+
+918
+01:27:28,734 --> 01:27:32,500
+<i>O medo e a fúria</i>
+
+919
+01:27:32,414 --> 01:27:35,679
+<i>ameaçam separando
+aqueles que viveram como irmãos</i>
+
+920
+01:27:35,614 --> 01:27:37,582
+<i>durante muitos, muitos anos.</i>
+
+921
+01:27:39,358 --> 01:27:41,792
+Não podemos deixar
+isso passar.
+
+922
+01:27:43,966 --> 01:27:46,025
+Pelo bem desta ilha,
+devemos agir.
+
+923
+01:27:47,615 --> 01:27:49,640
+Devemos corrigir estes pecados.
+
+924
+01:27:54,304 --> 01:27:56,795
+Não os entregaremos à Polícia.
+
+925
+01:27:58,336 --> 01:28:00,861
+Mas não podem ficar aqui.
+
+926
+01:28:00,831 --> 01:28:03,994
+Serão exilados
+deste lugar para sempre
+
+927
+01:28:03,936 --> 01:28:05,870
+vocês e suas famílias.
+
+928
+01:28:07,200 --> 01:28:09,600
+<i>Seus lares serão destruídos.</i>
+
+929
+01:28:09,568 --> 01:28:12,401
+Apagaremos toda
+a lembrança de vocês.
+
+930
+01:28:15,617 --> 01:28:19,110
+Se algum homem discordar disso,
+
+931
+01:28:19,042 --> 01:28:20,737
+que fale agora.
+
+932
+01:28:28,899 --> 01:28:31,129
+<i>Todos pecamos.</i>
+
+933
+01:28:31,106 --> 01:28:33,904
+<i>E todos sofreremos.</i>
+
+934
+01:28:36,259 --> 01:28:37,886
+<i>Agora nos dediquemos</i>
+
+935
+01:28:37,891 --> 01:28:41,088
+<i>a elogiar a Deus, nosso Senhor,</i>
+
+936
+01:28:41,027 --> 01:28:44,394
+<i>com a esperança de nos redimir
+ante Seus olhos.</i>
+
+937
+01:28:48,388 --> 01:28:50,686
+<i>Quanto à psiquiatra,</i>
+
+938
+01:28:50,660 --> 01:28:53,356
+<i>foi sua própria obstinação</i>
+
+939
+01:28:53,316 --> 01:28:56,183
+<i>e recusa em não aceitar as razões</i>
+
+940
+01:28:56,132 --> 01:28:58,396
+<i>que provocaram a tragédia.</i>
+
+941
+01:28:59,460 --> 01:29:01,193
+<i>Basta dizer</i>
+
+942
+01:29:02,245 --> 01:29:06,306
+<i>que nos deixou sem dizer aonde ia.</i>
+
+943
+01:29:53,513 --> 01:29:56,107
+Não.
+
+944
+01:29:56,074 --> 01:29:58,565
+Não, é possível.
+
+945
+01:30:01,097 --> 01:30:02,223
+Estou morta?
+
+946
+01:30:02,249 --> 01:30:04,080
+Sinto muito, Jane.
+
+947
+01:30:05,867 --> 01:30:07,960
+Foi tudo minha culpa.
+
+948
+01:30:07,947 --> 01:30:10,108
+Devia evitar que você fosse
+àquela maldita ilha.
+
+949
+01:30:10,021 --> 01:30:13,221
+-Sinto-me culpado.
+-Não diga isso.
+
+950
+01:30:14,251 --> 01:30:16,276
+Fico feliz que me enviou.
+
+951
+01:30:18,188 --> 01:30:21,351
+Não pude salvar o David.
+
+952
+01:30:21,292 --> 01:30:23,351
+Mas, ao menos, salvei a Dorothy.
+
+953
+01:30:24,685 --> 01:30:26,085
+Eu a salvei, certo?
+
+954
+01:30:27,948 --> 01:30:29,308
+Salvou.
+
+955
+01:30:31,245 --> 01:30:32,937
+Você a devolveu para mim.
+
+956
+01:30:35,213 --> 01:30:36,271
+<i>Será absolvida,</i>
+
+957
+01:30:36,301 --> 01:30:39,395
+<i>e ficará aqui
+até que esteja curada.</i>
+
+958
+01:30:42,381 --> 01:30:44,110
+Sim.
+
+959
+01:30:47,437 --> 01:30:48,836
+E, agora, depende de você, Jane.
+
+960
+01:30:50,190 --> 01:30:52,624
+Deve abandonar
+o corpo de Dorothy.
+
+961
+01:30:53,678 --> 01:30:55,873
+Não será livre até que vá.
+
+962
+01:31:05,871 --> 01:31:07,668
+Cuidará bem dela?
+
+963
+01:31:08,560 --> 01:31:10,289
+Eu prometo.
+
+964
+01:31:22,545 --> 01:31:23,773
+Fique.
+
+965
+01:31:25,266 --> 01:31:27,097
+David te amava tanto.
+
+966
+01:31:30,706 --> 01:31:31,764
+Guardarei para sempre.
+
+967
+01:31:35,762 --> 01:31:38,856
+Adeus, meu amor.
+
+968
+01:32:09,877 --> 01:32:11,606
+Dorothy?
+
+969
+01:32:13,045 --> 01:32:14,706
+É você?
+
+970
+01:32:24,982 --> 01:32:26,643
+Jane estava chorando?
+
+971
+01:32:27,542 --> 01:32:28,941
+Esteve aqui.
+
+972
+01:32:32,086 --> 01:32:33,951
+Foi embora.
+
+973
+01:32:37,463 --> 01:32:41,422
+Está com seu filho...
+David.
+
+974
+01:32:43,832 --> 01:32:45,926
+Acha que todos foram embora?
+
+975
+01:32:48,313 --> 01:32:51,043
+Duncan, Kurt
+
+976
+01:32:51,001 --> 01:32:52,832
+e Mary?
+
+977
+01:32:52,825 --> 01:32:54,087
+E Mimi, também?
+
+978
+01:32:55,289 --> 01:32:57,814
+Deve aprender a viver
+sua própria vida, Dorothy.
+
+979
+01:33:11,098 --> 01:33:12,964
+Você é livre.
+
+980
+01:33:13,305 --> 01:34:13,393
+Por favor, avalie esta legenda em www.osdb.link/9wbtw
+Ajude outros usuários a escolher as melhores legendas.

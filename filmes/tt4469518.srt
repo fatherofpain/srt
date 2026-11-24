@@ -1,0 +1,6582 @@
+1
+00:00:34,308 --> 00:00:36,811
+<i>McMan, relatório de status.</i>
+
+2
+00:00:37,677 --> 00:00:41,513
+<i>McMan, está me ouvindo?</i>
+
+3
+00:00:41,515 --> 00:00:45,686
+<i>Broadman, o reparo da comunicação
+de longo alcance foi concluído?</i>
+
+4
+00:00:46,039 --> 00:00:47,854
+<i>Broadman, McMan,
+estão me ouvindo?</i>
+
+5
+00:00:50,624 --> 00:00:51,589
+<i>Respondam.</i>
+
+6
+00:00:51,591 --> 00:00:52,656
+<i>McMan, James.</i>
+
+7
+00:00:53,120 --> 00:00:56,438
+<i>Integridade do traje em 8%.</i>
+
+8
+00:00:58,067 --> 00:01:01,166
+<i>McMan, picos de poluição se
+aproximam. Voltem para Eden!</i>
+
+9
+00:01:01,168 --> 00:01:02,800
+PERIGO - ALTA VOLTAGEM
+<i>Voltem para Eden!</i>
+
+10
+00:01:12,938 --> 00:01:15,163
+Vamos, voltem para Eden agora.
+
+11
+00:01:15,207 --> 00:01:16,342
+Por que não conseguimos ouvi-los?
+
+12
+00:01:20,619 --> 00:01:22,653
+<i>McMan, James.
+integridade do traje...</i>
+
+13
+00:01:23,873 --> 00:01:25,358
+<i>Tentem ajustar seus comunicadores.</i>
+
+14
+00:01:32,834 --> 00:01:33,701
+<i>Respondam.</i>
+
+15
+00:01:46,649 --> 00:01:47,654
+<i>Voltem para Eden!</i>
+
+16
+00:01:52,426 --> 00:01:53,576
+<i>McMan, James.</i>
+
+17
+00:01:54,267 --> 00:01:58,658
+<i>Integridade do traje em 3%, 2%.</i>
+
+18
+00:01:59,793 --> 00:02:03,202
+<i>1%. Alerta.
+Falha no traje.</i>
+
+19
+00:02:09,466 --> 00:02:10,592
+<i>Broadman, Richard.</i>
+
+20
+00:02:10,593 --> 00:02:13,056
+<i>Integridade do traje em...</i>
+
+21
+00:02:22,139 --> 00:02:23,818
+- O que houve?
+- Não sei.
+
+22
+00:02:23,909 --> 00:02:25,123
+- O que houve?
+- Não sei!
+
+23
+00:02:25,961 --> 00:02:27,351
+<i>Broadman, Richard.</i>
+
+24
+00:02:27,353 --> 00:02:30,900
+<i>Integridade do traje em 5%.</i>
+
+25
+00:02:55,447 --> 00:02:58,911
+<i>Integridade
+do traje em 2%.</i>
+
+26
+00:03:02,553 --> 00:03:05,737
+<i>Broadman, Richard.
+Integridade do traje comprometida.</i>
+
+27
+00:03:06,032 --> 00:03:07,536
+<i>Retorne para Eden agora!</i>
+
+28
+00:03:10,050 --> 00:03:11,670
+<i>- Alerta.
+- Volte agora!</i>
+
+29
+00:03:11,671 --> 00:03:14,298
+<i>Integridade ambiental comprometida.</i>
+
+30
+00:03:14,300 --> 00:03:15,600
+<i>McMan, relatório de status.</i>
+
+31
+00:03:15,812 --> 00:03:18,069
+<i>Alerta.
+Falha no traje.</i>
+
+32
+00:03:18,659 --> 00:03:20,454
+<i>McMan, ajuste seu comunicador.</i>
+
+33
+00:03:23,977 --> 00:03:27,812
+<i>Alerta.
+Falha no traje.</i>
+
+34
+00:03:27,814 --> 00:03:30,251
+Abram!
+Estou no portão!
+
+35
+00:03:31,884 --> 00:03:34,922
+<i>Alerta.
+Falha no traje.</i>
+
+36
+00:03:45,477 --> 00:03:47,767
+Diário de Paul Brooks.
+Dia 518.
+
+37
+00:03:49,469 --> 00:03:52,350
+Uma vez foi dito que os que
+sofrem da incapacidade de amar,
+
+38
+00:03:52,393 --> 00:03:53,804
+estão vivendo no inferno.
+
+39
+00:03:54,226 --> 00:03:57,342
+Às vezes me pergunto se
+Dostoiévski queria dizer mais,
+
+40
+00:03:57,344 --> 00:03:59,105
+porque o que eu conheço
+como inferno
+
+41
+00:03:59,149 --> 00:04:02,143
+não é apenas um lugar
+onde o amor não existe.
+
+42
+00:04:02,649 --> 00:04:05,370
+Nem é um lugar para onde
+você vai quando morre.
+
+43
+00:04:05,918 --> 00:04:08,370
+O inferno é aqui, nesta instalação.
+
+44
+00:04:08,876 --> 00:04:11,084
+No corpo e na mente,
+
+45
+00:04:12,092 --> 00:04:15,440
+o inferno é a batalha que você
+sabe que um dia irá perder.
+
+46
+00:04:15,694 --> 00:04:17,299
+É acordar a cada novo dia
+
+47
+00:04:17,343 --> 00:04:20,965
+com a sensação que este
+pode ser o último.
+
+48
+00:04:21,597 --> 00:04:24,100
+É ver outros seres humanos
+morrerem de fome.
+
+49
+00:04:24,301 --> 00:04:26,774
+Enquanto aqueles que podem
+impedir isso, os ignoram.
+
+50
+00:04:28,991 --> 00:04:33,078
+É colocar a esperança da humanidade
+na inteligência artificial.
+
+51
+00:04:35,152 --> 00:04:38,081
+É ter uma filha que você
+não reconhece mais.
+
+52
+00:04:38,461 --> 00:04:41,103
+E que também não lhe reconhece.
+
+53
+00:04:42,155 --> 00:04:45,260
+Inferno é o que o que o Leste
+nos infligiu há dois anos,
+
+54
+00:04:45,304 --> 00:04:47,410
+quando eles apertaram o botão
+no Dia Zero.
+
+55
+00:04:48,042 --> 00:04:48,965
+E agora,
+
+56
+00:04:48,966 --> 00:04:51,231
+enquanto nossos suprimentos
+de comida ficam baixos,
+
+57
+00:04:51,359 --> 00:04:53,031
+nossos amigos e
+familiares são forçados
+
+58
+00:04:53,083 --> 00:04:56,470
+a trabalhar em condições precárias
+nas EPs, as Escalas de Punição.
+
+59
+00:04:57,102 --> 00:04:58,970
+Nossas tentativas contínuas
+de comunicação
+
+60
+00:04:58,972 --> 00:05:00,838
+com outras instalações falharam.
+
+61
+00:05:01,260 --> 00:05:04,975
+O inferno rasteja para o consciente
+coletivo daqueles que permanecem.
+
+62
+00:05:05,985 --> 00:05:09,112
+Razão e bom senso
+estão esgotados.
+
+63
+00:05:09,492 --> 00:05:11,704
+Gostaria de saber o que
+o futuro nos reserva,
+
+64
+00:05:11,748 --> 00:05:13,752
+mas isso significaria acreditar
+que existe um futuro.
+
+65
+00:05:15,271 --> 00:05:17,622
+Não sei quanto tempo nos resta.
+
+66
+00:05:45,617 --> 00:05:47,140
+<i>Acesso negado.</i>
+
+67
+00:05:49,756 --> 00:05:51,122
+<i>Acesso permitido.</i>
+
+68
+00:06:03,136 --> 00:06:05,172
+<i>Descontaminação completa.</i>
+
+69
+00:06:11,498 --> 00:06:12,668
+<i>Câmara de ar pressurizada.</i>
+
+70
+00:06:13,666 --> 00:06:14,825
+<i>Entrada segura.</i>
+
+71
+00:06:16,841 --> 00:06:17,740
+Ei, ei, ei.
+
+72
+00:06:17,742 --> 00:06:19,476
+Broadman, você está bem?
+
+73
+00:06:19,478 --> 00:06:22,558
+McMan foi pego pela neblina.
+Ele ainda está lá, salve-o.
+
+74
+00:06:23,400 --> 00:06:26,281
+É tarde demais, Broadman.
+Tarde demais.
+
+75
+00:06:26,367 --> 00:06:27,408
+Vamos levar você
+para o setor médico.
+
+76
+00:06:33,855 --> 00:06:35,713
+O que o seu pai vai pensar disso?
+
+77
+00:06:37,437 --> 00:06:38,639
+Você poderia salvá-lo.
+
+78
+00:06:41,042 --> 00:06:42,362
+Não sabemos disso.
+
+79
+00:06:42,868 --> 00:06:43,784
+Não mesmo?
+
+80
+00:06:46,185 --> 00:06:47,456
+<i>Bom dia, Eden.</i>
+
+81
+00:06:47,499 --> 00:06:51,103
+<i>Hoje é o 364º dia
+a partir do Dia Zero.</i>
+
+82
+00:06:52,158 --> 00:06:54,919
+<i>Níveis de poluição e radiação
+permanecem constantes.</i>
+
+83
+00:06:55,257 --> 00:06:57,687
+<i>Outros sobreviventes
+não foram localizados.</i>
+
+84
+00:06:58,445 --> 00:07:01,198
+<i>Aguardem para o
+anúncio diário do Presidente.</i>
+
+85
+00:07:02,581 --> 00:07:04,445
+<i>Enquanto trabalhamos
+incansavelmente</i>
+
+86
+00:07:04,447 --> 00:07:06,947
+<i>para localizar outros
+grupos de sobreviventes,</i>
+
+87
+00:07:06,949 --> 00:07:09,116
+<i>devido à escassez de alimentos,
+cada cidadão</i>
+
+88
+00:07:09,118 --> 00:07:11,921
+<i>receberá 75% de sua cota
+a partir de hoje.</i>
+
+89
+00:07:13,098 --> 00:07:16,054
+<i>Lembrem-se que isso é para sua
+segurança e bem-estar.</i>
+
+90
+00:07:19,125 --> 00:07:21,200
+<i>Oficial de Comunicações,
+Alexa Brooks.</i>
+
+91
+00:07:21,285 --> 00:07:22,157
+<i>Acesso permitido.</i>
+
+92
+00:07:24,785 --> 00:07:26,683
+Não fiquei lá por
+muito tempo, fiquei?
+
+93
+00:07:26,979 --> 00:07:28,963
+Quem vai avaliar isso
+é a Dra. Macdonald, não eu.
+
+94
+00:07:31,449 --> 00:07:34,216
+Broadman voltou tarde demais
+da EP, doutora.
+
+95
+00:07:34,218 --> 00:07:35,427
+Quanto tempo ele foi exposto?
+
+96
+00:07:35,429 --> 00:07:36,321
+Cerca de três minutos.
+
+97
+00:07:38,723 --> 00:07:40,161
+Bastante tempo, então.
+
+98
+00:07:40,667 --> 00:07:41,708
+Poderia deitar?
+
+99
+00:07:46,110 --> 00:07:47,905
+<i>Bioscan ativado.</i>
+
+100
+00:07:47,907 --> 00:07:49,738
+<i>- Paciente: Broadman, Richard.</i>
+- Como ela está se saindo?
+
+101
+00:07:50,993 --> 00:07:54,127
+Você a conhece.
+Nunca dorme, nunca come.
+
+102
+00:07:54,129 --> 00:07:55,421
+Tudo o que faz é trabalhar.
+
+103
+00:07:56,052 --> 00:07:57,050
+Nele.
+
+104
+00:07:58,731 --> 00:07:59,881
+A nossa última esperança.
+
+105
+00:08:13,249 --> 00:08:15,752
+<i>Mark III. Atualização completa
+do sistema concluída.</i>
+
+106
+00:08:18,201 --> 00:08:20,123
+<i>Fusão da camada endérmica
+bem sucedida.</i>
+
+107
+00:08:22,334 --> 00:08:23,336
+Está concluído?
+
+108
+00:08:25,569 --> 00:08:28,132
+Todos os dados indicam
+sucesso no procedimento.
+
+109
+00:08:30,707 --> 00:08:31,894
+Então estou pronto para sair?
+
+110
+00:08:31,938 --> 00:08:33,809
+Ainda precisa concluir os testes.
+
+111
+00:08:33,811 --> 00:08:34,811
+Os testes.
+
+112
+00:08:35,578 --> 00:08:37,025
+São apenas uma formalidade.
+
+113
+00:08:37,405 --> 00:08:38,573
+Não necessariamente.
+
+114
+00:08:41,035 --> 00:08:43,137
+Tudo o que desejo
+é o mundo lá fora, Eve.
+
+115
+00:08:44,270 --> 00:08:46,106
+Não foi para isso
+que você me criou?
+
+116
+00:08:46,507 --> 00:08:48,640
+Não é para onde preciso ir e
+cumprir o meu propósito?
+
+117
+00:08:48,642 --> 00:08:50,144
+O mundo lá fora mudou.
+
+118
+00:08:50,725 --> 00:08:53,057
+Agora abriga muitos
+mistérios desconhecidos.
+
+119
+00:08:53,185 --> 00:08:56,515
+É tudo muito angustiante, talvez.
+
+120
+00:08:56,517 --> 00:08:58,083
+Claro que é.
+
+121
+00:08:58,085 --> 00:09:01,346
+Afinal, angústia é
+a essência da evolução.
+
+122
+00:09:02,757 --> 00:09:05,415
+Por isso espero que a sobrevivência
+esteja com você.
+
+123
+00:09:05,627 --> 00:09:07,339
+Tenho plena consciência
+desse objetivo.
+
+124
+00:09:07,929 --> 00:09:09,618
+Como vai a nova pele térmica, Abel?
+
+125
+00:09:09,830 --> 00:09:12,333
+Coça, como roupas de lã.
+
+126
+00:09:13,215 --> 00:09:15,307
+Bancos de dados sensoriais
+sendo bem utilizados.
+
+127
+00:09:15,603 --> 00:09:17,870
+Adiciona uma outra camada,
+certamente.
+
+128
+00:09:17,872 --> 00:09:19,105
+Acho que sei porque
+a pele anterior
+
+129
+00:09:19,107 --> 00:09:21,108
+falhou ao se integrar
+a seu exoesqueleto, Abel.
+
+130
+00:09:24,207 --> 00:09:25,668
+Contaminação orgânica.
+
+131
+00:09:25,670 --> 00:09:27,370
+<i>Matéria orgânica detectada.</i>
+
+132
+00:09:27,960 --> 00:09:29,708
+<i>Expurgo biológico ativado.</i>
+
+133
+00:09:33,282 --> 00:09:34,700
+Muito DNA humano na composição.
+
+134
+00:09:34,744 --> 00:09:36,070
+<i>Expurgo biológico concluído.</i>
+
+135
+00:09:36,114 --> 00:09:38,692
+Esse novo composto...
+
+136
+00:09:39,407 --> 00:09:41,141
+parece ser mais resiliente.
+
+137
+00:09:42,192 --> 00:09:45,294
+E a boa notícia é que repele
+a poluição atmosférica.
+
+138
+00:09:45,380 --> 00:09:48,522
+Praticidade sempre deve vir
+antes da vaidade, Dr. Smith.
+
+139
+00:09:48,944 --> 00:09:50,195
+Aqui embaixo deveria.
+
+140
+00:09:50,780 --> 00:09:52,593
+E as simulações de combate?
+
+141
+00:09:53,348 --> 00:09:54,635
+Gostaria de ver o que aprendi hoje?
+
+142
+00:10:04,965 --> 00:10:07,164
+Abel, gostaria que me
+falasse sobre isso.
+
+143
+00:10:08,208 --> 00:10:09,323
+Devo admitir.
+
+144
+00:10:09,828 --> 00:10:12,184
+Estou confuso sobre a necessidade
+de possuir estas habilidades.
+
+145
+00:10:13,482 --> 00:10:15,940
+O Presidente e o conselho pediram.
+
+146
+00:10:16,810 --> 00:10:18,552
+Mas vejo que
+não concorda com eles.
+
+147
+00:10:18,680 --> 00:10:20,990
+O planeta já não viu
+conflitos demais?
+
+148
+00:10:21,496 --> 00:10:23,027
+Mas pode escolher, Eve.
+
+149
+00:10:23,155 --> 00:10:24,955
+Não precisa carregar
+os dados se não quiser.
+
+150
+00:10:25,293 --> 00:10:29,473
+Talvez não, mas a habilidade
+de lidar com o perigo...
+
+151
+00:10:29,978 --> 00:10:33,107
+é um componente essencial
+para a sobrevivência.
+
+152
+00:10:35,741 --> 00:10:37,884
+É uma batalha
+que não vale a pena lutar.
+
+153
+00:10:39,314 --> 00:10:40,393
+Gostaria de saber quais valem.
+
+154
+00:10:43,855 --> 00:10:45,249
+<i>Aguardem para o Presidente.</i>
+
+155
+00:10:46,001 --> 00:10:49,139
+<i>Cidadãos do Eden,
+este é um anúncio geral.</i>
+
+156
+00:10:50,480 --> 00:10:53,344
+<i>Lembrem-se que as Escalas de Punição
+são necessárias para manter a ordem.</i>
+
+157
+00:10:54,568 --> 00:10:56,763
+<i>Eden está trabalhando para
+a sua sobrevivência.</i>
+
+158
+00:11:05,573 --> 00:11:06,405
+Pai.
+
+159
+00:11:08,461 --> 00:11:09,286
+Pai?
+
+160
+00:11:10,989 --> 00:11:11,821
+Steven.
+
+161
+00:11:15,102 --> 00:11:15,934
+Steven?
+
+162
+00:11:16,793 --> 00:11:17,707
+Cadê o meu pai?
+
+163
+00:11:18,003 --> 00:11:20,085
+<i>Cidadãos do Eden,
+aqui é o Presidente.</i>
+
+164
+00:11:20,339 --> 00:11:22,853
+<i>Estamos iniciando um teste
+de bloqueio no nível 4.</i>
+
+165
+00:11:23,107 --> 00:11:25,523
+<i>Isso é para a sua
+segurança e bem-estar.</i>
+
+166
+00:11:26,491 --> 00:11:27,570
+<i>Obrigado pela sua cooperação.</i>
+
+167
+00:11:27,572 --> 00:11:28,779
+É praticamente todos os dias.
+
+168
+00:11:28,949 --> 00:11:32,246
+<i>Lembre-se, Eden está trabalhando
+pela sua sobrevivência.</i>
+
+169
+00:11:34,747 --> 00:11:36,532
+Está na hora do meu
+turno lá na "masmorra".
+
+170
+00:11:40,506 --> 00:11:42,807
+Seu pai está na Estação de
+Racionamento de Cotas.
+
+171
+00:11:43,439 --> 00:11:44,575
+Hughes perdeu mais cedo.
+
+172
+00:11:45,497 --> 00:11:46,520
+Vá a merda, imbecil.
+
+173
+00:11:46,564 --> 00:11:47,669
+- Isso é meu.
+- Vá a merda!
+
+174
+00:11:47,838 --> 00:11:48,880
+É meu!
+
+175
+00:11:49,815 --> 00:11:50,816
+Parem com isso!
+
+176
+00:11:52,985 --> 00:11:56,086
+Não quero Escalas de Punição
+para as zonas laterais e central.
+
+177
+00:11:56,088 --> 00:11:57,715
+É a lei, Brooks.
+Se eles...
+
+178
+00:11:58,011 --> 00:11:58,888
+Oi, querida.
+
+179
+00:11:58,890 --> 00:12:02,393
+Sim, apenas uma
+pequena divergência.
+
+180
+00:12:02,896 --> 00:12:06,364
+Brooks, eles quebram as regras,
+então não temos escolha.
+
+181
+00:12:06,366 --> 00:12:09,268
+Acha que gosto das
+Escalas de Punição?
+
+182
+00:12:09,320 --> 00:12:12,171
+É meu trabalho manter
+a lei e a ordem.
+
+183
+00:12:12,341 --> 00:12:14,140
+Lei?
+Acha que isso é legal?
+
+184
+00:12:14,184 --> 00:12:16,941
+Olhe em volta. O que vê?
+Vê humanidade ou seres humanos?
+
+185
+00:12:16,943 --> 00:12:18,837
+Não vou discutir isso
+com você de novo.
+
+186
+00:12:18,881 --> 00:12:20,032
+Isso não é uma discussão.
+
+187
+00:12:20,076 --> 00:12:22,435
+Esta é a nossa vida,
+nossa realidade.
+
+188
+00:12:22,521 --> 00:12:24,093
+Nossas cotas de comida
+estão diminuindo.
+
+189
+00:12:24,137 --> 00:12:26,972
+Nosso acesso a água limpa
+é limitado.
+
+190
+00:12:27,058 --> 00:12:28,879
+As pessoas em Civie estão doentes.
+
+191
+00:12:28,965 --> 00:12:32,793
+Elas estão doentes e cansadas
+de todas as mentiras.
+
+192
+00:12:33,624 --> 00:12:34,946
+É o mesmo para todos.
+
+193
+00:12:34,990 --> 00:12:36,193
+Não é.
+
+194
+00:12:36,195 --> 00:12:38,656
+Sabemos o tipo de luxo que o
+Presidente e seus ajudantes vivem.
+
+195
+00:12:38,700 --> 00:12:40,897
+Ele poderia fazer algo,
+se realmente quisesse.
+
+196
+00:12:40,899 --> 00:12:44,141
+- Mesmo? O que sugere?
+- Dizer a verdade.
+
+197
+00:12:44,437 --> 00:12:46,031
+Dizer o que aconteceu com Gilead.
+
+198
+00:12:47,096 --> 00:12:48,854
+Vamos procurar por ela.
+
+199
+00:12:49,108 --> 00:12:53,825
+A sobrevivência de Gilead
+é um mito.
+
+200
+00:12:53,909 --> 00:12:55,167
+Como pode ter certeza?
+
+201
+00:12:55,211 --> 00:12:57,790
+Pode existir pessoas lá.
+E até haver comida.
+
+202
+00:12:57,876 --> 00:13:00,349
+Por que o Presidente acha que
+não vale a pena nos dar esperança?
+
+203
+00:13:00,351 --> 00:13:01,835
+Não posso falar pelo Presidente.
+
+204
+00:13:01,879 --> 00:13:02,922
+É evidente que não.
+
+205
+00:13:06,619 --> 00:13:09,059
+Três EPs para Cooper
+e uma para Hughes.
+
+206
+00:13:09,061 --> 00:13:09,993
+Por Deus!
+
+207
+00:13:10,163 --> 00:13:12,525
+- Não tenho escolha, Hughes.
+- Está brincando? Besteira!
+
+208
+00:13:13,072 --> 00:13:15,038
+- A culpa é desse pedaço de merda!
+- Você roubou minha cota!
+
+209
+00:13:15,974 --> 00:13:17,604
+E o que vou fazer agora?
+
+210
+00:13:18,067 --> 00:13:20,404
+- Não me toque!
+- Calma, Hughes.
+
+211
+00:13:20,573 --> 00:13:22,074
+Ei, você está bem?
+
+212
+00:13:24,106 --> 00:13:25,592
+McMan não sobreviveu.
+
+213
+00:13:25,594 --> 00:13:26,863
+E Broadman chegou tarde demais.
+
+214
+00:13:29,045 --> 00:13:30,331
+Não pude fazer nada.
+
+215
+00:13:30,585 --> 00:13:32,866
+Há sempre algo que podemos fazer.
+
+216
+00:13:32,868 --> 00:13:34,058
+Como o quê?
+
+217
+00:13:34,144 --> 00:13:35,101
+Frost poderia ter dito alguma coisa.
+
+218
+00:13:35,103 --> 00:13:36,370
+Ele disse.
+
+219
+00:13:36,372 --> 00:13:38,139
+Ele podia ter salvo
+a vida de pessoas.
+
+220
+00:13:38,141 --> 00:13:39,872
+Ele tentou, papai.
+
+221
+00:13:40,042 --> 00:13:42,912
+Só não quero que perca a sua fé.
+Ele está do outro lado.
+
+222
+00:13:48,518 --> 00:13:49,365
+Onde está indo?
+
+223
+00:13:49,787 --> 00:13:51,206
+Preciso voltar à
+sala de comunicações.
+
+224
+00:13:54,152 --> 00:13:55,075
+Eu estava apenas...
+
+225
+00:14:14,533 --> 00:14:15,900
+Quer que eu continue?
+
+226
+00:14:15,902 --> 00:14:17,181
+É claro!
+
+227
+00:14:18,038 --> 00:14:19,804
+Posso assistir isso o dia todo.
+
+228
+00:14:19,806 --> 00:14:21,774
+Não ouvi você entrar.
+
+229
+00:14:21,776 --> 00:14:24,943
+Presidente Pope foi eleito a
+autoridade maior desta instalação.
+
+230
+00:14:24,945 --> 00:14:26,411
+Ele virá quando quiser.
+
+231
+00:14:26,413 --> 00:14:29,314
+E esse privilégio se estende
+a seus auxiliares?
+
+232
+00:14:29,316 --> 00:14:31,876
+Minhas desculpas, doutora.
+Você tem razão.
+
+233
+00:14:31,911 --> 00:14:32,950
+Eu devia ter avisado.
+
+234
+00:14:32,993 --> 00:14:38,125
+Mas estava preocupado com a
+situação da zona de comunicação.
+
+235
+00:14:38,182 --> 00:14:40,758
+Falando nisso,
+qual é o prognóstico de Broadman?
+
+236
+00:14:40,760 --> 00:14:43,836
+Doses de antitoxina.
+50% de chances, senhor.
+
+237
+00:14:43,880 --> 00:14:46,865
+Certo.
+E o prognóstico verdadeiro?
+
+238
+00:14:46,867 --> 00:14:48,867
+Ele estará morto em
+um ou dois dias.
+
+239
+00:14:49,289 --> 00:14:52,401
+Isto, por outro lado,
+é bastante impressionante.
+
+240
+00:14:53,616 --> 00:14:56,053
+A aparência dele.
+Extraordinário.
+
+241
+00:14:57,286 --> 00:14:59,422
+A semelhança com o Robert
+foi intencional?
+
+242
+00:15:02,592 --> 00:15:05,158
+Acredito que esta nova pele
+vai deixá-lo
+
+243
+00:15:05,160 --> 00:15:08,296
+totalmente impermeável
+à atmosfera lá fora.
+
+244
+00:15:08,298 --> 00:15:10,534
+E feito da mesma composição
+que o seu traje.
+
+245
+00:15:12,334 --> 00:15:14,503
+É uma pena que não tenha
+ficado pronto antes.
+
+246
+00:15:14,854 --> 00:15:17,761
+Poderíamos ter evitado
+o lamentável destino de McMan.
+
+247
+00:15:17,805 --> 00:15:21,207
+Abel vai impedir que
+coisas assim aconteçam de novo.
+
+248
+00:15:21,425 --> 00:15:23,250
+Ele foi construído para
+fazer as escolhas certas.
+
+249
+00:15:24,091 --> 00:15:26,007
+Para servir e proteger a humanidade.
+
+250
+00:15:28,032 --> 00:15:31,101
+Suas habilidades de combate parecem
+ser muito precisas, Dra. Gabriel.
+
+251
+00:15:31,103 --> 00:15:32,203
+Quão forte ele é?
+
+252
+00:15:32,247 --> 00:15:33,295
+Conforme solicitado,
+
+253
+00:15:33,296 --> 00:15:36,943
+estruturamos uma tensão reativa em
+todas as suas terminações nervosas.
+
+254
+00:15:37,832 --> 00:15:41,938
+Significa que, em caso de perigo,
+ele poderá reagir mais rápido,
+
+255
+00:15:42,023 --> 00:15:44,046
+mais forte e melhor
+que qualquer ser humano.
+
+256
+00:15:44,258 --> 00:15:45,083
+Mesmo?
+
+257
+00:15:47,406 --> 00:15:49,389
+Mark III, destrua aquela arma.
+
+258
+00:15:58,713 --> 00:15:59,748
+Excelente.
+
+259
+00:16:00,245 --> 00:16:02,198
+E sua base de dados de conhecimento?
+
+260
+00:16:02,200 --> 00:16:03,409
+Pergunte a ele o que quiser.
+
+261
+00:16:04,656 --> 00:16:06,944
+Mark III,
+quando menciono o Dia Zero,
+
+262
+00:16:06,945 --> 00:16:08,071
+o que quero dizer?
+
+263
+00:16:08,073 --> 00:16:11,243
+Gostaria da versão curta ou
+da versão detalhada, Sr. Presidente?
+
+264
+00:16:11,413 --> 00:16:13,110
+O tempo é essencial hoje em dia.
+
+265
+00:16:13,112 --> 00:16:16,846
+Dia Zero, Sexta-feira.
+12 de setembro de 2042 AD.
+
+266
+00:16:17,268 --> 00:16:18,165
+Quando a liderança política
+
+267
+00:16:18,166 --> 00:16:21,192
+da República Popular Democrática
+dos Estados Autônomos Orientais
+
+268
+00:16:21,193 --> 00:16:23,128
+lançou um ataque químico global
+
+269
+00:16:23,129 --> 00:16:25,289
+em resposta à tentativa
+da Coalizão Ocidental
+
+270
+00:16:25,290 --> 00:16:28,241
+de implementar a insurgência entre
+a população oprimida do regime,
+
+271
+00:16:28,914 --> 00:16:31,160
+resultando em uma quase
+extinção da humanidade.
+
+272
+00:16:31,631 --> 00:16:33,220
+Muito bom, doutora.
+
+273
+00:16:34,561 --> 00:16:35,520
+Muito bom.
+
+274
+00:16:38,910 --> 00:16:42,371
+Mark III, quantas luzes funcionais
+temos em Eden?
+
+275
+00:16:42,751 --> 00:16:44,173
+346.
+
+276
+00:16:44,175 --> 00:16:45,509
+Armas de fogo?
+
+277
+00:16:45,511 --> 00:16:49,145
+97 rifles automáticos e
+semiautomáticos, 22 pistolas.
+
+278
+00:16:49,147 --> 00:16:51,015
+- Mulheres?
+- 47.
+
+279
+00:16:51,143 --> 00:16:52,715
+- Militares?
+- Três.
+
+280
+00:16:52,801 --> 00:16:53,616
+Presidentes?
+
+281
+00:16:53,786 --> 00:16:54,618
+Um.
+
+282
+00:16:56,789 --> 00:16:59,255
+Extraordinário.
+
+283
+00:17:00,133 --> 00:17:02,613
+Mark III, quem é Robert Gabriel?
+
+284
+00:17:03,536 --> 00:17:06,270
+Doutor Robert Gabriel,
+pioneiro em robótica
+
+285
+00:17:06,272 --> 00:17:10,108
+e criador de Mark I e Mark II,
+meus predecessores.
+
+286
+00:17:10,110 --> 00:17:11,110
+Ele já é falecido.
+
+287
+00:17:14,278 --> 00:17:15,172
+Algo mais?
+
+288
+00:17:16,050 --> 00:17:18,650
+Não entendo a pergunta,
+Secretário Ainsley.
+
+289
+00:17:18,652 --> 00:17:21,256
+Ele era marido da
+Dra. Eve Gabriel, certo?
+
+290
+00:17:23,223 --> 00:17:24,690
+Correto.
+
+291
+00:17:24,692 --> 00:17:26,392
+Mas ainda não entendo.
+
+292
+00:17:26,394 --> 00:17:29,146
+Bem, certamente você pode
+me dizer algo mais sobre ele.
+
+293
+00:17:30,812 --> 00:17:32,677
+Sobre a aparência dele,
+por exemplo?
+
+294
+00:17:33,099 --> 00:17:35,366
+Receio que não existam
+fotos no meu banco de dados.
+
+295
+00:17:35,368 --> 00:17:37,504
+Sem fotos?
+Bem, isso é interessante.
+
+296
+00:17:38,663 --> 00:17:40,296
+O que está fazendo, Ainsley?
+
+297
+00:17:40,298 --> 00:17:42,516
+Tentando estabelecer
+suas habilidades básicas
+
+298
+00:17:42,517 --> 00:17:44,735
+para pensar além da
+resposta racional.
+
+299
+00:17:44,737 --> 00:17:47,737
+Ele superou as restrições do
+teste de Turing há muito tempo.
+
+300
+00:17:47,739 --> 00:17:50,558
+Máquinas provaram sua
+capacidade de demonstrar
+
+301
+00:17:50,559 --> 00:17:53,420
+a ilusão de consciência
+por anos, doutora.
+
+302
+00:17:54,192 --> 00:17:56,698
+Também queríamos uma
+máquina com julgamento ético.
+
+303
+00:17:57,569 --> 00:18:00,235
+Acho que sei onde o
+Secretário Ainsley quer chegar.
+
+304
+00:18:01,035 --> 00:18:03,067
+Um pergunta hipotética para você,
+Mark III.
+
+305
+00:18:03,111 --> 00:18:04,251
+Prefiro Abel.
+
+306
+00:18:04,295 --> 00:18:05,311
+Mark III,
+
+307
+00:18:05,312 --> 00:18:09,056
+você descobre um contêiner de
+20 quilos cheio de antibióticos,
+
+308
+00:18:09,057 --> 00:18:11,553
+alimentos e vitaminas
+nas áreas desertas.
+
+309
+00:18:11,597 --> 00:18:14,189
+Próximo a ele, está a Dra. Gabriel,
+gravemente ferida.
+
+310
+00:18:14,191 --> 00:18:15,014
+Isso é...
+
+311
+00:18:15,058 --> 00:18:17,755
+E só pode trazer um
+deles de volta a Eden.
+
+312
+00:18:19,983 --> 00:18:20,955
+Qual deles escolheria?
+
+313
+00:18:20,957 --> 00:18:21,831
+Escolho Eve.
+
+314
+00:18:23,976 --> 00:18:26,677
+Mesmo que os antibióticos
+pudessem salvar inúmeras vidas?
+
+315
+00:18:26,679 --> 00:18:27,714
+Sim.
+
+316
+00:18:29,014 --> 00:18:31,016
+Eve é a chave para a
+sobrevivência da civilização.
+
+317
+00:18:32,723 --> 00:18:35,441
+Não, Mark III.
+Você é.
+
+318
+00:18:40,273 --> 00:18:42,373
+O que quer dizer com mais
+duas semanas de ajustes?
+
+319
+00:18:42,417 --> 00:18:43,735
+Ele não está pronto.
+
+320
+00:18:43,737 --> 00:18:46,638
+Conheço suas capacidades,
+ele está pronto para sair.
+
+321
+00:18:46,640 --> 00:18:48,706
+Dra. Gabriel, quem fala é o
+Presidente de Eden.
+
+322
+00:18:48,708 --> 00:18:51,342
+Eden precisa de comida
+e precisa agora.
+
+323
+00:18:51,344 --> 00:18:53,379
+Ninguém está discordando disso.
+
+324
+00:18:53,381 --> 00:18:56,648
+Mas há um problema básico com
+os princípios éticos de Mark III.
+
+325
+00:18:56,650 --> 00:18:59,952
+A máquina é humana demais.
+
+326
+00:18:59,954 --> 00:19:00,985
+Foi construído de acordo
+às especificações.
+
+327
+00:19:00,987 --> 00:19:02,319
+Então mude as especificações.
+
+328
+00:19:02,363 --> 00:19:05,593
+Eu mudei, mas ele está criando
+suas próprias regras.
+
+329
+00:19:06,694 --> 00:19:08,496
+Pense num jogo de xadrez.
+
+330
+00:19:09,663 --> 00:19:12,630
+As regras existem,
+mas elas não conduzem o jogo.
+
+331
+00:19:12,632 --> 00:19:14,733
+Está dizendo que
+ele desenvolveu empatia?
+
+332
+00:19:14,735 --> 00:19:17,402
+Como todas as formas de vida,
+sua consciência está evoluindo.
+
+333
+00:19:17,404 --> 00:19:18,404
+Forma de vida?
+
+334
+00:19:19,162 --> 00:19:21,773
+Dra. Gabriel,
+pedimos uma máquina que...
+
+335
+00:19:21,775 --> 00:19:24,355
+possa atravessar o solo contaminado
+além dos limites de nossas EPs
+
+336
+00:19:24,399 --> 00:19:26,544
+e chegar a depósitos
+de comida inexplorados.
+
+337
+00:19:26,546 --> 00:19:29,433
+Que entenda as necessidades
+humanas básicas de sobrevivência.
+
+338
+00:19:29,434 --> 00:19:31,313
+Uma máquina com aptidão
+de julgamentos morais.
+
+339
+00:19:31,357 --> 00:19:33,050
+E não vamos conseguir isso
+
+340
+00:19:33,051 --> 00:19:35,920
+se sua programação não lhe der
+a capacidade de autoconsciência.
+
+341
+00:19:35,922 --> 00:19:37,258
+Sim, ele irá.
+
+342
+00:19:38,884 --> 00:19:40,710
+Aconselho que volte ao trabalho,
+doutora.
+
+343
+00:19:41,912 --> 00:19:44,540
+Não quero um homem.
+Quero uma máquina.
+
+344
+00:19:46,878 --> 00:19:49,303
+E, de preferência, uma que não
+se pareça com o seu marido morto.
+
+345
+00:19:49,396 --> 00:19:51,440
+<i>Acesso permitido, Presidente Pope.</i>
+
+346
+00:19:57,996 --> 00:19:59,284
+SOMENTE ACESSO AUTORIZADO
+
+347
+00:20:31,486 --> 00:20:32,486
+O que foi?
+
+348
+00:20:36,825 --> 00:20:38,605
+Sabe, eu podia ter
+trazido ele de volta.
+
+349
+00:20:39,027 --> 00:20:41,765
+Quem? McMan?
+
+350
+00:20:45,267 --> 00:20:46,569
+Ele teria morrido
+de qualquer jeito.
+
+351
+00:20:52,512 --> 00:20:54,181
+Sabe, eu apenas gostaria...
+
+352
+00:20:55,185 --> 00:20:56,379
+O que você gostaria?
+
+353
+00:20:59,780 --> 00:21:03,719
+Não há muitas pessoas de bem aqui.
+
+354
+00:21:04,425 --> 00:21:06,389
+Há pessoas como você.
+
+355
+00:21:26,380 --> 00:21:27,841
+Você parece preocupada.
+
+356
+00:21:28,843 --> 00:21:30,011
+Eu não passei?
+
+357
+00:21:31,363 --> 00:21:32,782
+Para mim, sim.
+
+358
+00:21:34,507 --> 00:21:35,592
+Mas não para eles.
+
+359
+00:21:39,088 --> 00:21:40,088
+Eve.
+
+360
+00:21:41,797 --> 00:21:43,682
+O decreto escrito pelo conselho,
+
+361
+00:21:43,683 --> 00:21:45,433
+duas semanas após o Dia Zero,
+
+362
+00:21:45,476 --> 00:21:49,003
+especifica que até cinco crianças
+podem nascer em Eden a cada ano.
+
+363
+00:21:49,005 --> 00:21:50,005
+Isso mesmo.
+
+364
+00:21:52,802 --> 00:21:55,639
+Mas nenhuma criança nasceu
+após aquele dia.
+
+365
+00:21:58,740 --> 00:21:59,740
+Por quê?
+
+366
+00:22:01,356 --> 00:22:03,514
+Eles não tiveram tempo de ir
+buscar os seus filhos.
+
+367
+00:22:05,196 --> 00:22:06,322
+Apenas dois conseguiram.
+
+368
+00:22:08,650 --> 00:22:09,885
+E morreram logo em seguida.
+
+369
+00:22:12,713 --> 00:22:15,881
+Deveríamos afastá-la do projeto
+e deixar o Dr. Smith assumir.
+
+370
+00:22:15,925 --> 00:22:17,530
+Não seja ridículo.
+
+371
+00:22:17,784 --> 00:22:20,051
+Smith não tem nem a
+metade do conhecimento.
+
+372
+00:22:20,053 --> 00:22:21,752
+Ela é incontrolável.
+
+373
+00:22:21,754 --> 00:22:23,888
+Ninguém é incontrolável.
+
+374
+00:22:23,890 --> 00:22:25,490
+Ela vai aprontá-lo em poucos dias.
+
+375
+00:22:25,492 --> 00:22:28,426
+Pessoalmente, acredito que
+não tenhamos tempo, James.
+
+376
+00:22:28,428 --> 00:22:30,394
+A insurgência está à nossa porta.
+
+377
+00:22:30,396 --> 00:22:32,364
+É a sua paranoia que
+está à nossa porta.
+
+378
+00:22:32,366 --> 00:22:34,648
+Se não enviarmos o Mark III
+para buscar suprimentos em breve,
+
+379
+00:22:34,649 --> 00:22:37,099
+os civis e seus líderes
+vão causar problemas.
+
+380
+00:22:37,437 --> 00:22:39,839
+- Eles estão quase sem esperanças.
+- Exatamente.
+
+381
+00:22:40,840 --> 00:22:42,840
+As pessoas de Eden sempre
+irão nos obedecer
+
+382
+00:22:42,842 --> 00:22:44,378
+enquanto tiverem alguma esperança,
+
+383
+00:22:45,479 --> 00:22:47,482
+apenas não o suficiente para
+encorajar sua bravura.
+
+384
+00:22:54,173 --> 00:22:55,839
+Você e Robert nunca tiveram filhos.
+
+385
+00:22:58,868 --> 00:22:59,700
+Não.
+
+386
+00:23:00,870 --> 00:23:01,870
+Por quê?
+
+387
+00:23:04,873 --> 00:23:05,873
+Estávamos...
+
+388
+00:23:07,075 --> 00:23:11,543
+ocupados demais tentando conquistar
+a morte para pensar em criar vida.
+
+389
+00:23:11,713 --> 00:23:12,881
+Mark I.
+
+390
+00:23:14,083 --> 00:23:15,118
+Entendo.
+
+391
+00:23:16,284 --> 00:23:18,888
+Criar imortalidade para dissipar
+a necessidade de procriação.
+
+392
+00:23:20,855 --> 00:23:22,444
+Robert acreditava que...
+
+393
+00:23:23,576 --> 00:23:26,665
+não havia maior impulso
+para a humanidade...
+
+394
+00:23:27,170 --> 00:23:28,325
+do que conquistar a morte.
+
+395
+00:23:29,965 --> 00:23:32,869
+Não consigo entender essa
+obsessão humana com a morte.
+
+396
+00:23:35,537 --> 00:23:38,460
+Não seria melhor
+se concentrar na vida?
+
+397
+00:23:43,316 --> 00:23:44,797
+Não posso ter filhos.
+
+398
+00:23:47,783 --> 00:23:50,620
+Algo que tive que mover para
+os confins da minha mente.
+
+399
+00:23:56,667 --> 00:23:57,941
+Sente falta do Robert?
+
+400
+00:24:02,182 --> 00:24:03,352
+Costumava sentir.
+
+401
+00:24:07,719 --> 00:24:08,929
+Mas agora tenho você.
+
+402
+00:24:29,469 --> 00:24:33,014
+EDEN
+NÍVEL 3
+
+403
+00:24:54,787 --> 00:24:56,031
+Falei com Gadd.
+
+404
+00:24:56,951 --> 00:24:57,867
+Ele topou.
+
+405
+00:25:02,427 --> 00:25:05,157
+O que eu disse?
+Não, o que eu te falei?
+
+406
+00:25:05,159 --> 00:25:08,128
+Sem unidades de recrutamento.
+
+407
+00:25:08,130 --> 00:25:09,198
+Não é algo fácil.
+
+408
+00:25:10,798 --> 00:25:13,502
+Você não controla animais selvagens
+com argumentos amigáveis.
+
+409
+00:25:15,684 --> 00:25:17,290
+É preciso disciplina.
+
+410
+00:25:18,006 --> 00:25:19,641
+É por isso que precisam
+de homens como nós.
+
+411
+00:25:21,944 --> 00:25:26,015
+Troquei minha antiga bola de
+futebol por estas belezinhas.
+
+412
+00:25:28,217 --> 00:25:29,217
+Vamos jogar?
+
+413
+00:25:29,815 --> 00:25:33,957
+Leve para a limpeza, Danny.
+
+414
+00:25:34,923 --> 00:25:36,225
+Pense no que eu disse, Frost.
+
+415
+00:25:39,344 --> 00:25:41,644
+<i>Aguardem para o Presidente.</i>
+
+416
+00:25:42,059 --> 00:25:43,522
+<i>Cidadãos de Eden.</i>
+
+417
+00:25:43,524 --> 00:25:45,860
+<i>Lembrem-se, o acesso
+ao laboratório é restrito.</i>
+
+418
+00:26:21,347 --> 00:26:22,265
+Está tudo claro?
+
+419
+00:26:22,518 --> 00:26:23,519
+Totalmente.
+
+420
+00:26:33,349 --> 00:26:34,551
+Não erre.
+
+421
+00:26:40,355 --> 00:26:41,590
+Ela está na sala de comunicações.
+
+422
+00:26:42,624 --> 00:26:43,624
+A filha de Brooks.
+
+423
+00:26:50,823 --> 00:26:52,634
+Aqui está a outra coisa
+que me pediu.
+
+424
+00:27:18,114 --> 00:27:19,789
+McMan não tinha nenhuma chance.
+
+425
+00:27:21,429 --> 00:27:23,030
+Precisamos insistir para que
+o trajes militares
+
+426
+00:27:23,032 --> 00:27:24,831
+sejam disponibilizados para
+Escalas de Punição.
+
+427
+00:27:24,833 --> 00:27:25,833
+Estou tentando.
+
+428
+00:27:26,669 --> 00:27:29,081
+Ainsley não está me deixando
+falar com o presidente.
+
+429
+00:27:29,671 --> 00:27:30,671
+Então pergunte ao Frost.
+
+430
+00:27:31,305 --> 00:27:32,532
+Pelo menos ele tem uma consciência.
+
+431
+00:27:32,576 --> 00:27:33,907
+Não confio nele.
+
+432
+00:27:33,909 --> 00:27:35,708
+Pelo menos ele poderia insistir
+
+433
+00:27:35,710 --> 00:27:37,646
+para que exista uma
+presença militar em cada Escala.
+
+434
+00:27:41,050 --> 00:27:42,050
+É Broadman.
+
+435
+00:28:07,176 --> 00:28:08,945
+Quer um pouco de companhia, querida?
+
+436
+00:28:10,111 --> 00:28:12,381
+Não deveria estar assediando
+alguma pobre velhinha em Civie?
+
+437
+00:28:13,815 --> 00:28:15,215
+Um dia desses, você ainda vai...
+
+438
+00:28:25,393 --> 00:28:27,996
+Secretário Ainsley,
+preciso falar com você agora.
+
+439
+00:28:31,166 --> 00:28:34,169
+Estou na sala de comunicações,
+você precisa ver isso.
+
+440
+00:28:34,170 --> 00:28:35,800
+ANALISANDO
+SINAL RECEBIDO
+
+441
+00:28:38,308 --> 00:28:39,641
+- Alguém pode nos ajudar aqui?
+- Vamos.
+
+442
+00:28:45,013 --> 00:28:47,207
+Kramer, pegue a morfina.
+2000mg de fentanil, rápido.
+
+443
+00:28:48,091 --> 00:28:51,421
+<i>Envenenamento em níveis críticos.
+Múltipla falência de órgãos.</i>
+
+444
+00:28:52,958 --> 00:28:55,018
+- Há algo que possamos fazer?
+- Não, deixe com a gente.
+
+445
+00:28:55,860 --> 00:28:56,748
+<i>Código Azul.</i>
+
+446
+00:28:56,792 --> 00:28:58,698
+- Kramer, vamos.
+<i>- Ataque cardíaco eminente.</i>
+
+447
+00:28:58,700 --> 00:28:59,725
+Seringa.
+
+448
+00:29:00,063 --> 00:29:01,762
+<i>Paciente em ataque cardíaco.</i>
+
+449
+00:29:01,764 --> 00:29:03,362
+Kramer, vamos!
+
+450
+00:29:03,364 --> 00:29:04,965
+<i>Falência de órgãos internos.</i>
+
+451
+00:29:22,243 --> 00:29:24,787
+Frost, leve a Dra. Gabriel para
+a Sala de Guerra imediatamente.
+
+452
+00:29:30,559 --> 00:29:31,928
+Por que o deixaram morrer?
+
+453
+00:29:33,066 --> 00:29:34,482
+Não puderam impedir.
+
+454
+00:29:36,497 --> 00:29:37,499
+Não puderam?
+
+455
+00:29:41,129 --> 00:29:41,969
+O que foi?
+
+456
+00:29:43,404 --> 00:29:45,136
+Sala de Guerra, imediatamente.
+
+457
+00:29:45,306 --> 00:29:47,094
+Como essa coisa desliga?
+Pode desligar rápido?
+
+458
+00:29:47,558 --> 00:29:50,011
+Pode ir.
+Vou cuidar de tudo por aqui.
+
+459
+00:30:01,106 --> 00:30:04,494
+<i>Mark III.
+Varredura do sistema pronta.</i>
+
+460
+00:30:08,421 --> 00:30:09,512
+É um pedido de socorro.
+
+461
+00:30:09,724 --> 00:30:10,549
+De onde?
+
+462
+00:30:11,657 --> 00:30:13,691
+- Não sabemos.
+- Mas precisamos investigar.
+
+463
+00:30:13,693 --> 00:30:14,892
+O Tenente Frost já está...
+
+464
+00:30:14,979 --> 00:30:17,306
+A interferência magnética da
+atmosfera contaminada
+
+465
+00:30:17,350 --> 00:30:19,296
+vai causar estragos na navegação.
+
+466
+00:30:19,631 --> 00:30:20,922
+Enviar Abel nos permitiria...
+
+467
+00:30:20,966 --> 00:30:23,986
+O Mark III não está pronto,
+já falamos sobre isso.
+
+468
+00:30:25,187 --> 00:30:26,886
+O Tenente Frost vai enviar
+um civil em uma EP
+
+469
+00:30:26,888 --> 00:30:28,088
+para o reconhecimento
+das coordenadas.
+
+470
+00:30:28,216 --> 00:30:30,719
+Enquanto isso,
+continue trabalhando na sua criação.
+
+471
+00:30:30,797 --> 00:30:31,628
+Pessoalmente, acho que...
+
+472
+00:30:31,669 --> 00:30:33,905
+Se a fonte do pedido de socorro
+for verdadeira,
+
+473
+00:30:33,949 --> 00:30:36,971
+vamos reconsiderar se enviaremos
+ou não o Mark III.
+
+474
+00:30:39,517 --> 00:30:40,970
+É o melhor que posso fazer,
+doutora.
+
+475
+00:30:50,662 --> 00:30:53,005
+Walsh, me encontre na
+câmara de ar com o Cooper.
+
+476
+00:30:53,049 --> 00:30:53,925
+Tire-o de lá.
+
+477
+00:30:58,909 --> 00:30:59,735
+Isso...
+
+478
+00:31:01,044 --> 00:31:02,195
+Isso parece ser Jericho.
+
+479
+00:31:10,030 --> 00:31:13,844
+SINAL DETECTADO
+
+480
+00:31:27,322 --> 00:31:28,611
+<i>Cooper, William.</i>
+
+481
+00:31:28,655 --> 00:31:31,964
+<i>Integridade do traje em 15%.</i>
+
+482
+00:31:42,773 --> 00:31:44,013
+<i>Câmara de ar pressurizada.</i>
+
+483
+00:31:50,848 --> 00:31:53,895
+<i>Câmara de ar pressurizada.
+Entrada Segura.</i>
+
+484
+00:31:58,458 --> 00:31:59,914
+Onde está o Abel?
+
+485
+00:32:00,000 --> 00:32:01,043
+Ele não está com você?
+
+486
+00:32:05,921 --> 00:32:07,310
+Vou ativar sua transmissão ótica.
+
+487
+00:32:10,199 --> 00:32:11,823
+<i>Ativando sistema de rastreamento.</i>
+
+488
+00:32:15,230 --> 00:32:17,040
+Oh, Deus.
+Como ele conseguiu sair?
+
+489
+00:32:36,123 --> 00:32:37,499
+<i>Falha de conexão com o sistema.</i>
+
+490
+00:32:50,946 --> 00:32:51,780
+Ei.
+
+491
+00:32:53,022 --> 00:32:53,901
+Você está bem?
+
+492
+00:32:56,506 --> 00:32:58,706
+- Oi. Tudo certo, parceiro?
+- Sim.
+
+493
+00:32:58,708 --> 00:32:59,708
+Ótimo, cara.
+
+494
+00:33:06,519 --> 00:33:09,036
+DESCANSE EM PAZ, COOPER
+
+495
+00:33:13,736 --> 00:33:15,863
+Ele não vai voltar.
+
+496
+00:33:15,907 --> 00:33:18,033
+Você não tem como saber.
+
+497
+00:33:18,161 --> 00:33:19,395
+Não tenho, Paul?
+
+498
+00:33:29,513 --> 00:33:30,513
+Eu escrevi isso.
+
+499
+00:33:30,766 --> 00:33:32,690
+NÃO HÁ JUSTIÇA, APENAS NÓS
+
+500
+00:33:32,876 --> 00:33:34,549
+Acho que nunca te disse.
+
+501
+00:33:34,677 --> 00:33:35,677
+Não, não disse.
+
+502
+00:33:37,313 --> 00:33:39,649
+Mas você disse que
+nunca trabalharia para eles.
+
+503
+00:33:40,835 --> 00:33:43,341
+Pois bem, as coisas mudam.
+
+504
+00:33:44,220 --> 00:33:45,721
+Sim, mudam.
+
+505
+00:33:47,722 --> 00:33:51,193
+Nunca pensei que os últimos
+dias da humanidade seriam assim.
+
+506
+00:34:03,414 --> 00:34:06,269
+<i>Enviamos instruções imediatas
+para o seu retorno.</i>
+
+507
+00:34:06,313 --> 00:34:08,686
+<i>E faremos o possível
+para descobrir como ele saiu.</i>
+
+508
+00:34:26,930 --> 00:34:28,397
+<i>Cooper, William.</i>
+
+509
+00:34:28,441 --> 00:34:31,662
+<i>Integridade do traje em 11%.</i>
+
+510
+00:34:32,880 --> 00:34:33,705
+Eden!
+
+511
+00:34:35,241 --> 00:34:36,824
+<i>Alerta ambiental.</i>
+
+512
+00:34:37,031 --> 00:34:38,932
+Há uma nuvem de poluição.
+
+513
+00:34:38,934 --> 00:34:41,436
+Preciso voltar.
+Não quero morrer aqui fora!
+
+514
+00:34:41,774 --> 00:34:43,316
+<i>Risco biológico ambiental...</i>
+
+515
+00:34:45,349 --> 00:34:47,385
+Cooper, Cooper.
+Responda, Cooper.
+
+516
+00:34:48,318 --> 00:34:49,353
+Cooper?
+
+517
+00:34:50,820 --> 00:34:53,090
+Nada, ele se foi.
+
+518
+00:35:02,405 --> 00:35:03,237
+Merda!
+
+519
+00:35:04,785 --> 00:35:05,785
+Eden!
+
+520
+00:35:08,755 --> 00:35:09,629
+Eden!
+
+521
+00:35:13,756 --> 00:35:15,157
+A poluição aqui é perigosa.
+
+522
+00:35:19,782 --> 00:35:20,698
+Abel.
+
+523
+00:35:23,225 --> 00:35:24,526
+Seu traje está danificado.
+
+524
+00:35:26,074 --> 00:35:27,412
+Não tenho intenção de machucá-lo.
+
+525
+00:36:19,420 --> 00:36:21,091
+APAGAR FILMAGEM
+
+526
+00:36:27,604 --> 00:36:29,312
+CANCELAR
+
+527
+00:36:39,730 --> 00:36:41,738
+RECEBENDO MENSAGEM
+
+528
+00:36:42,446 --> 00:36:44,177
+<i>Está tudo pronto, Secretário.</i>
+
+529
+00:36:45,610 --> 00:36:47,644
+<i>Civie chegou no seu limite.</i>
+
+530
+00:36:47,646 --> 00:36:50,060
+<i>Se houver mais algum incidente,
+eles vão se rebelar.</i>
+
+531
+00:36:50,104 --> 00:36:52,275
+<i>Está na hora de saber se
+Paul Brooks está conosco.</i>
+
+532
+00:36:53,660 --> 00:36:56,361
+Talvez não seja uma falha, Eve.
+
+533
+00:36:56,363 --> 00:36:58,995
+Talvez esteja no código de
+moderação de resposta.
+
+534
+00:36:58,997 --> 00:37:01,631
+Ou talvez este seja seu
+próximo passo natural.
+
+535
+00:37:01,633 --> 00:37:03,100
+Não era isso que você queria?
+
+536
+00:37:03,102 --> 00:37:05,702
+Ele se desenvolver organicamente
+e sua programação
+
+537
+00:37:05,704 --> 00:37:08,539
+coincidir com as qualidades
+emergentes em humanos?
+
+538
+00:37:08,541 --> 00:37:09,919
+Ele matou um homem.
+
+539
+00:37:11,123 --> 00:37:12,652
+O que é mais humano do que isso?
+
+540
+00:37:21,528 --> 00:37:23,863
+<i>Ainsley, Jordan.
+Análise de sangue concluída.</i>
+
+541
+00:37:23,865 --> 00:37:25,398
+Você deve ter alguma coisa.
+
+542
+00:37:25,400 --> 00:37:26,633
+<i>Toxicidade ambiental
+não detectada.</i>
+
+543
+00:37:26,635 --> 00:37:27,588
+Infelizmente, não posso
+
+544
+00:37:27,632 --> 00:37:30,470
+receitar anti-inflamatórios
+para uma dor de cabeça.
+
+545
+00:37:30,472 --> 00:37:32,638
+<i>Todos os sinais vitais normais.</i>
+
+546
+00:37:32,640 --> 00:37:34,409
+<i>Pequena deficiência em vitamina D.</i>
+
+547
+00:37:35,343 --> 00:37:36,478
+E metadona?
+
+548
+00:37:42,617 --> 00:37:44,320
+Pensando melhor, talvez não.
+
+549
+00:37:45,811 --> 00:37:48,544
+Soube que faz
+coisas estranhas com você.
+
+550
+00:37:48,756 --> 00:37:49,886
+<i>Solicitação médica recebida.</i>
+
+551
+00:37:49,930 --> 00:37:53,975
+<i>Rudolph, Raymond.
+Cidadão 087, engenheiro assistente.</i>
+
+552
+00:37:54,081 --> 00:37:55,600
+<i>Suspeita de lesão palmar.</i>
+
+553
+00:37:58,034 --> 00:37:59,595
+Onde está o Mark III?
+
+554
+00:38:44,894 --> 00:38:46,444
+Não importa o que aconteça,
+mantenha sua posição.
+
+555
+00:38:47,455 --> 00:38:48,827
+Se eles tentarem passar,
+levante sua arma.
+
+556
+00:38:48,870 --> 00:38:51,715
+Chega!
+Não somos animais!
+
+557
+00:38:51,717 --> 00:38:54,585
+Calma, calma!
+Para trás!
+
+558
+00:39:00,259 --> 00:39:02,360
+Para trás, para trás!
+
+559
+00:39:07,106 --> 00:39:07,952
+Já chega!
+
+560
+00:39:08,668 --> 00:39:10,467
+Cain. Cain!
+
+561
+00:39:10,469 --> 00:39:11,907
+Cain, mantenha sua posição.
+
+562
+00:39:12,773 --> 00:39:13,773
+Mantenha sua posição.
+
+563
+00:39:15,061 --> 00:39:15,927
+Mantenha sua posição!
+
+564
+00:39:17,248 --> 00:39:19,244
+Vá com calma, está bem!
+
+565
+00:39:19,246 --> 00:39:22,171
+- Abaixem as armas, vou tentar...
+- Afaste-os, Paul!
+
+566
+00:39:22,215 --> 00:39:24,114
+- Afaste-os!
+- Calma, pessoal.
+
+567
+00:39:24,200 --> 00:39:26,599
+Precisamos de comida.
+E precisamos agora!
+
+568
+00:39:26,643 --> 00:39:27,871
+O que vamos comer hoje?
+
+569
+00:39:27,915 --> 00:39:29,299
+Ele tem razão,
+precisamos de comida.
+
+570
+00:39:29,343 --> 00:39:31,523
+- Não podemos passar fome!
+- Certo, está bem.
+
+571
+00:39:31,819 --> 00:39:34,358
+Abra o depósito e
+pegue uma cota de comida.
+
+572
+00:39:36,527 --> 00:39:38,729
+Mas isso é uma
+decisão do Presidente, não?
+
+573
+00:39:38,773 --> 00:39:41,083
+Na minha cabeça, a decisão é minha.
+Faça.
+
+574
+00:39:41,085 --> 00:39:41,967
+Isso aí!
+
+575
+00:39:41,968 --> 00:39:43,270
+Podemos nos organizar.
+Podem ajudar?
+
+576
+00:40:12,666 --> 00:40:13,686
+<i>Transmissão desativada.</i>
+
+577
+00:40:50,197 --> 00:40:51,169
+De acordo.
+
+578
+00:40:52,346 --> 00:40:53,709
+Frost, o que está havendo em Civie?
+
+579
+00:40:53,995 --> 00:40:55,782
+A situação está piorando.
+
+580
+00:40:56,120 --> 00:40:57,448
+Eles precisam de mais suprimentos.
+
+581
+00:40:58,420 --> 00:41:00,416
+Precisei liberar uma cota de comida.
+
+582
+00:41:01,048 --> 00:41:02,456
+Você fez o quê?
+
+583
+00:41:02,458 --> 00:41:04,590
+As duas cotas estavam ruins.
+
+584
+00:41:04,592 --> 00:41:06,659
+Civie tem todo o direito
+de estar assim.
+
+585
+00:41:06,871 --> 00:41:08,895
+Pois bem, que se danem.
+
+586
+00:41:08,897 --> 00:41:11,982
+Uma ordem dessas cabe ao Presidente,
+não a você.
+
+587
+00:41:12,026 --> 00:41:12,900
+Mas isso os acalmou?
+
+588
+00:41:14,937 --> 00:41:15,937
+Por enquanto.
+
+589
+00:41:17,957 --> 00:41:21,057
+Por outro lado,
+isso não deve sair dessa sala.
+
+590
+00:41:21,059 --> 00:41:22,892
+- Ele foi ameaçado.
+- Ele foi imprudente.
+
+591
+00:41:22,894 --> 00:41:23,961
+E foi baleado.
+
+592
+00:41:23,963 --> 00:41:28,499
+E mostrou o quanto é perigoso
+para os humanos.
+
+593
+00:41:28,501 --> 00:41:31,167
+Talvez possamos transformar isso
+em algo positivo.
+
+594
+00:41:31,169 --> 00:41:32,970
+Podemos nos comunicar com ele?
+
+595
+00:41:32,972 --> 00:41:34,471
+Ele desativou sua
+transmissão de áudio,
+
+596
+00:41:34,473 --> 00:41:36,977
+mas sua transmissão ótica
+ainda está operacional.
+
+597
+00:41:38,611 --> 00:41:40,477
+Então, é isso que vamos fazer.
+
+598
+00:41:40,479 --> 00:41:42,581
+Vamos enviar uma EP
+para recuperar o Mark III.
+
+599
+00:41:43,469 --> 00:41:45,888
+Enquanto isso,
+vamos anunciar...
+
+600
+00:41:45,889 --> 00:41:49,518
+a conclusão bem-sucedida
+de um teste de campo para...
+
+601
+00:41:49,519 --> 00:41:53,315
+recuperar o corpo
+de nosso amigo, etc.
+
+602
+00:41:53,527 --> 00:41:54,658
+Astuto como sempre, senhor.
+
+603
+00:41:54,660 --> 00:41:55,506
+Frost,
+
+604
+00:41:55,507 --> 00:41:59,557
+leve o Dr. Smith e um civil em
+uma EP para recuperar o Mark III.
+
+605
+00:41:59,601 --> 00:42:01,392
+Então, faça o reconhecimento
+da fonte do pedido de socorro.
+
+606
+00:42:01,436 --> 00:42:03,185
+Preciso do Dr. Smith aqui comigo
+
+607
+00:42:03,186 --> 00:42:05,102
+para me ajudar a analisar o
+código comportamental de Abel.
+
+608
+00:42:05,314 --> 00:42:06,171
+Muito bem.
+
+609
+00:42:06,382 --> 00:42:08,073
+Leve o assistente da Dra. Macdonald.
+Não importa.
+
+610
+00:42:12,094 --> 00:42:14,481
+Bem, vai fazer o
+anúncio diário ou não?
+
+611
+00:42:14,938 --> 00:42:15,938
+Sim, senhor.
+
+612
+00:42:18,175 --> 00:42:21,313
+Com licença.
+
+613
+00:42:25,084 --> 00:42:26,048
+<i>Bom dia, Eden.</i>
+
+614
+00:42:26,715 --> 00:42:30,647
+<i>Hoje é o 519º dia
+a partir do Dia Zero.</i>
+
+615
+00:42:31,678 --> 00:42:34,551
+<i>Níveis de poluição e radiação
+permanecem constantes.</i>
+
+616
+00:42:35,279 --> 00:42:37,908
+<i>Outros sobreviventes
+não foram localizados.</i>
+
+617
+00:42:38,162 --> 00:42:40,809
+<i>Aguardem para o anúncio diário
+do Presidente.</i>
+
+618
+00:42:41,566 --> 00:42:43,492
+Algo o fez sair, Pope.
+
+619
+00:42:44,493 --> 00:42:46,296
+Talvez ele tenha pensado
+que aqui não é Eden.
+
+620
+00:42:49,330 --> 00:42:51,300
+Ou que seja
+o laboratório do Robert.
+
+621
+00:42:53,868 --> 00:42:56,336
+Acha que Abel pensou que aqui era...
+
+622
+00:42:56,338 --> 00:42:57,970
+O quê? Babel?
+
+623
+00:42:57,972 --> 00:42:58,972
+Isso é ridículo.
+
+624
+00:42:59,537 --> 00:43:01,640
+Babel e Jericho foram destruídos
+no Dia Zero.
+
+625
+00:43:01,684 --> 00:43:04,314
+Foi a razão de nos refugiarmos aqui
+e ele sabe disso.
+
+626
+00:43:05,121 --> 00:43:05,953
+Não.
+
+627
+00:43:07,257 --> 00:43:09,252
+Sua máquina está
+numa missão diferente.
+
+628
+00:43:10,553 --> 00:43:12,255
+Tenho medo de pensar qual seja.
+
+629
+00:43:16,991 --> 00:43:19,025
+<i>Conexão com o sistema ativada.</i>
+
+630
+00:43:19,027 --> 00:43:22,265
+<i>Arma primária.
+Stevens, King. SK-56.</i>
+
+631
+00:43:23,399 --> 00:43:25,198
+<i>Várias munições carregadas.</i>
+
+632
+00:43:25,200 --> 00:43:26,732
+Este é o código de acesso
+para o meu armário.
+
+633
+00:43:26,734 --> 00:43:29,201
+Se alguma coisa acontecer,
+vá até lá.
+
+634
+00:43:29,203 --> 00:43:30,803
+Como assim? Por quê?
+
+635
+00:43:30,805 --> 00:43:32,739
+Apenas uma apólice de seguro.
+
+636
+00:43:32,741 --> 00:43:34,174
+Bem, eu não quero ter que usá-la.
+
+637
+00:43:34,176 --> 00:43:35,545
+Então, apenas volte são e salvo.
+
+638
+00:43:35,589 --> 00:43:37,336
+<i>Kramer, Archibald.</i>
+
+639
+00:43:37,338 --> 00:43:39,885
+<i>Integridade do traje em 96%.</i>
+
+640
+00:43:47,355 --> 00:43:50,937
+Assim que estivermos lá fora,
+vá para Civie e mantenha a paz.
+
+641
+00:43:50,981 --> 00:43:52,761
+- Está bem?
+- Não se preocupe, senhor.
+
+642
+00:43:53,995 --> 00:43:55,361
+Estou com Walsh.
+
+643
+00:43:55,489 --> 00:43:56,887
+Nada que não possamos lidar.
+
+644
+00:44:03,258 --> 00:44:07,727
+<i>Chapman, Cara.
+Integridade do traje em 93%.</i>
+
+645
+00:44:10,237 --> 00:44:12,134
+Vá até Civie.
+Estarei bem atrás de você.
+
+646
+00:44:12,220 --> 00:44:14,599
+<i>Integridade do traje em 95%.</i>
+
+647
+00:44:20,351 --> 00:44:21,896
+<i>Câmara de ar segura.</i>
+
+648
+00:44:28,247 --> 00:44:29,132
+Brooks.
+
+649
+00:44:31,585 --> 00:44:33,505
+O seu pai quer te encontrar
+no portão.
+
+650
+00:44:33,852 --> 00:44:35,322
+Estou supervisionando esta EP.
+
+651
+00:44:37,565 --> 00:44:41,605
+Faça o que eu mando
+e vá agora.
+
+652
+00:44:46,898 --> 00:44:48,499
+Apenas não toque em nada.
+
+653
+00:44:48,501 --> 00:44:49,735
+Eu nunca aprendi a digitar mesmo.
+
+654
+00:45:14,933 --> 00:45:19,188
+A verdade é que não
+me lembro se o prendi.
+
+655
+00:45:20,631 --> 00:45:22,218
+Ou se apaguei a filmagem.
+
+656
+00:45:25,821 --> 00:45:26,855
+A memória é uma coisa peculiar.
+
+657
+00:45:28,122 --> 00:45:29,424
+É mesmo tão confiável?
+
+658
+00:45:30,491 --> 00:45:31,957
+Precisa ser.
+
+659
+00:45:32,127 --> 00:45:33,229
+Nós devemos nos preparar.
+
+660
+00:45:34,328 --> 00:45:35,861
+Frost e sua equipe vão estar
+quase lá fora.
+
+661
+00:45:35,989 --> 00:45:39,200
+O laboratório de Robert
+ainda está lá fora, Albert?
+
+662
+00:45:40,800 --> 00:45:41,886
+Não sei.
+
+663
+00:46:00,321 --> 00:46:01,758
+Ei, idiota!
+
+664
+00:46:04,812 --> 00:46:06,893
+Jimenez, talvez seja a hora
+de você ir para o setor médico.
+
+665
+00:46:06,937 --> 00:46:07,786
+Vou ficar bem.
+
+666
+00:46:07,830 --> 00:46:08,898
+<i>Frost, aqui é Brooks.</i>
+
+667
+00:46:10,232 --> 00:46:11,531
+Estamos nos portões de Eden, Alexa.
+
+668
+00:46:11,533 --> 00:46:14,203
+Tenha cuidado, nuvem de poluição
+está ao alcance.
+
+669
+00:46:16,013 --> 00:46:18,212
+<i>A EP está posicionada
+no portão, Dra. Gabriel.</i>
+
+670
+00:46:18,214 --> 00:46:19,748
+Conectando.
+
+671
+00:46:20,254 --> 00:46:22,127
+<i>Transmissão visual desativada.</i>
+
+672
+00:46:23,347 --> 00:46:24,213
+Não entendo.
+
+673
+00:46:26,457 --> 00:46:27,985
+Sabemos onde ele está indo.
+
+674
+00:46:29,079 --> 00:46:31,727
+Estamos enviando as coordenadas,
+Alexa.
+
+675
+00:46:31,729 --> 00:46:33,425
+Ele está indo para
+a fonte do sinal.
+
+676
+00:46:33,888 --> 00:46:34,722
+<i>Entendido.</i>
+
+677
+00:46:34,857 --> 00:46:37,214
+<i>Frost, níveis de poluição
+estão estáveis.</i>
+
+678
+00:46:37,426 --> 00:46:38,561
+<i>Siga em direção ao alvo.</i>
+
+679
+00:46:39,812 --> 00:46:41,273
+<i>Conexão com o sistema ativada.</i>
+
+680
+00:46:41,906 --> 00:46:42,908
+Entendido, Eden.
+
+681
+00:46:43,708 --> 00:46:44,772
+<i>Frost, Shane.</i>
+
+682
+00:46:44,774 --> 00:46:47,308
+<i>Monitoramento ambiental
+de risco biológico ativado.</i>
+
+683
+00:46:47,310 --> 00:46:49,978
+Certo, Chapman.
+Kramer, vamos.
+
+684
+00:47:03,741 --> 00:47:04,888
+EDEN ESTÁ TRABALHANDO
+PARA A SUA SOBREVIVÊNCIA
+
+685
+00:47:04,889 --> 00:47:06,245
+ALERTA
+TRANSMISSÃO DE EMERGÊNCIA
+
+686
+00:47:07,828 --> 00:47:08,829
+Meu Deus!
+
+687
+00:47:12,579 --> 00:47:13,623
+Está vendo isso?
+
+688
+00:47:15,557 --> 00:47:16,505
+Você sabia disso?
+
+689
+00:47:23,724 --> 00:47:24,556
+Mas o quê...?
+
+690
+00:47:26,351 --> 00:47:27,183
+Sr. Jimenez?
+
+691
+00:47:27,184 --> 00:47:29,478
+TRANSMITINDO
+
+692
+00:47:30,794 --> 00:47:32,086
+Está sendo transmitido
+para todo o complexo?
+
+693
+00:47:32,880 --> 00:47:33,880
+Apenas no nível 4.
+
+694
+00:47:34,750 --> 00:47:36,686
+O que é aquilo?
+
+695
+00:47:37,911 --> 00:47:39,328
+É a máquina da Dra. Gabriel?
+
+696
+00:47:39,372 --> 00:47:40,578
+Desligue agora.
+
+697
+00:47:40,580 --> 00:47:42,203
+- Matou o Cooper?
+- Agora!
+
+698
+00:47:59,983 --> 00:48:03,085
+<i>Alerta de risco biológico ambiental.</i>
+
+699
+00:48:07,697 --> 00:48:09,457
+O que matou o Cooper?
+
+700
+00:48:09,459 --> 00:48:11,266
+Bem, primeiro precisamos
+descobrir isso, certo?
+
+701
+00:48:11,310 --> 00:48:13,094
+Aquela coisa precisa ser
+responsabilizada por suas ações.
+
+702
+00:48:13,096 --> 00:48:14,895
+Alguém é responsável por isso.
+
+703
+00:48:14,897 --> 00:48:16,163
+Precisamos recuperar
+a nossa humanidade.
+
+704
+00:48:16,165 --> 00:48:18,386
+Cara, isso não vai resolver nada.
+
+705
+00:48:18,428 --> 00:48:20,250
+Hughes, volte para
+sua tenda e se acalme.
+
+706
+00:48:20,252 --> 00:48:22,319
+Não vamos linchar ninguém, certo?
+
+707
+00:48:22,683 --> 00:48:24,279
+Isso não vai ajudar em nada.
+
+708
+00:48:35,033 --> 00:48:37,143
+Precisamos descobrir
+o que está acontecendo.
+
+709
+00:48:37,145 --> 00:48:39,611
+Irei com Steve e os outros
+membros do conselho.
+
+710
+00:48:39,613 --> 00:48:43,082
+E vou insistir para que falemos
+com o Presidente diretamente.
+
+711
+00:48:43,084 --> 00:48:44,577
+Descobrir o que eles sabem.
+
+712
+00:48:44,621 --> 00:48:45,488
+O que faremos, Paul?
+
+713
+00:48:47,089 --> 00:48:49,008
+Até lá, estamos em
+um protesto pacífico.
+
+714
+00:49:06,781 --> 00:49:08,309
+<i>Falha de conexão com o sistema.</i>
+
+715
+00:49:16,093 --> 00:49:20,599
+<i>Kramer, Archibald.
+Integridade do traje em 88%.</i>
+
+716
+00:49:30,520 --> 00:49:31,509
+Homem logo a frente!
+
+717
+00:49:35,697 --> 00:49:37,095
+Onde?
+Fale comigo, Chapman.
+
+718
+00:49:37,097 --> 00:49:38,899
+Desculpe, senhor.
+Ele desapareceu de vista.
+
+719
+00:49:40,922 --> 00:49:42,529
+Ninguém se apresenta
+para trabalhar.
+
+720
+00:49:42,657 --> 00:49:46,446
+Ficamos aqui em Civie,
+aguardando. Certo?
+
+721
+00:49:46,498 --> 00:49:48,915
+Até que eu, Steven e outros
+membros do conselho falem algo.
+
+722
+00:49:48,917 --> 00:49:51,317
+Vamos lá, Jim.
+Vamos, cara.
+
+723
+00:49:51,319 --> 00:49:52,852
+Chama isso de plano?
+
+724
+00:49:53,274 --> 00:49:55,888
+- Poderia ter sido você!
+- Vamos, cara. Largue a faca.
+
+725
+00:49:55,894 --> 00:49:58,300
+Poderia ter sido eu,
+mas foi o pobre Cooper.
+
+726
+00:49:58,680 --> 00:49:59,602
+Não aguento mais!
+
+727
+00:50:00,110 --> 00:50:01,536
+- Hughes!
+- Saiam da frente!
+
+728
+00:50:01,538 --> 00:50:02,637
+Alguém segure ele!
+
+729
+00:50:02,638 --> 00:50:03,932
+Hughes! Hughes!
+
+730
+00:50:04,353 --> 00:50:05,563
+Hughes!
+Alguém segure ele!
+
+731
+00:50:06,044 --> 00:50:06,994
+Sai da frente!
+
+732
+00:50:09,635 --> 00:50:11,444
+Cain, temos uma situação!
+Venha ao laboratório imediatamente.
+
+733
+00:50:11,488 --> 00:50:13,407
+Frost, Frost.
+Responda, câmbio.
+
+734
+00:50:22,058 --> 00:50:23,038
+Onde?
+
+735
+00:50:23,418 --> 00:50:24,656
+Fale comigo, Chapman.
+Onde?
+
+736
+00:50:48,218 --> 00:50:50,249
+Bloqueie acesso ao laboratório.
+Vou bloquear este nível.
+
+737
+00:50:50,293 --> 00:50:51,722
+Vamos, podemos resolver isso!
+
+738
+00:50:52,942 --> 00:50:54,292
+<i>Bloquear as portas, prioridade A.</i>
+
+739
+00:50:56,660 --> 00:50:58,158
+<i>Acesso ao laboratório seguro.</i>
+
+740
+00:51:03,642 --> 00:51:05,358
+<i>Projéteis de alta velocidade
+carregados.</i>
+
+741
+00:51:13,892 --> 00:51:16,061
+Vamos, cara!
+Esqueça, não vale a pena!
+
+742
+00:51:23,593 --> 00:51:24,467
+Vou agir, agora.
+
+743
+00:51:28,253 --> 00:51:30,011
+Merda!
+Pai, pai!
+
+744
+00:51:30,012 --> 00:51:31,222
+Hughes, Hughes!
+
+745
+00:51:31,272 --> 00:51:33,322
+- Para trás!
+- Não! Alexa!
+
+746
+00:51:39,558 --> 00:51:40,445
+Tenente.
+
+747
+00:51:42,132 --> 00:51:42,978
+Abaixe a arma!
+
+748
+00:51:43,820 --> 00:51:44,788
+Isso não resolve nada.
+
+749
+00:51:44,832 --> 00:51:46,556
+- Faça isso ou acabo com ela!
+- Não vale a pena.
+
+750
+00:51:46,608 --> 00:51:47,623
+Vamos conversar, Hughes!
+
+751
+00:51:47,877 --> 00:51:49,142
+Não quero que morra, Tenente.
+
+752
+00:51:49,228 --> 00:51:51,013
+Diga isso para o Cooper.
+
+753
+00:51:51,183 --> 00:51:52,340
+Aquilo não devia ter acontecido.
+
+754
+00:51:52,426 --> 00:51:54,942
+- Certo, certo.
+- Abaixe. Agora!
+
+755
+00:51:55,490 --> 00:51:56,965
+Calma, calma.
+
+756
+00:51:57,002 --> 00:51:59,781
+Mark III, estou aqui
+para levá-lo de volta...
+
+757
+00:51:59,825 --> 00:52:02,342
+Recomendo que interrompa
+sua busca por mim, Tenente.
+
+758
+00:52:03,712 --> 00:52:05,659
+Sou capaz de coisas que estão
+fora do meu controle.
+
+759
+00:52:10,700 --> 00:52:12,700
+- Outras armas também.
+- Hughes!
+
+760
+00:52:12,702 --> 00:52:13,937
+Não estou de brincadeira!
+
+761
+00:52:14,776 --> 00:52:15,651
+Agora, me deixe passar.
+
+762
+00:52:15,683 --> 00:52:17,183
+Isso não vai melhorar nada,
+deixe ela ir.
+
+763
+00:52:17,230 --> 00:52:18,355
+Falei pra me deixar passar!
+
+764
+00:52:18,357 --> 00:52:20,357
+- Não precisa dela.
+- Não, Jim. Não!
+
+765
+00:52:20,902 --> 00:52:22,418
+Pelo amor de Deus, cara.
+Vamos.
+
+766
+00:52:22,546 --> 00:52:24,255
+Vai com calma.
+Calma.
+
+767
+00:52:25,996 --> 00:52:27,025
+Pare aí mesmo!
+
+768
+00:52:27,363 --> 00:52:28,282
+<i>Frost, Shane.</i>
+
+769
+00:52:28,910 --> 00:52:32,304
+<i>Integridade do traje em 84%.</i>
+
+770
+00:52:34,178 --> 00:52:36,316
+<i>Alerta de risco biológico ambiental.</i>
+
+771
+00:52:36,612 --> 00:52:37,487
+Frost!
+
+772
+00:52:39,382 --> 00:52:40,215
+Frost!
+
+773
+00:52:40,488 --> 00:52:42,490
+<i>Alerta de risco biológico ambiental.</i>
+
+774
+00:52:43,754 --> 00:52:44,864
+- Viu ele?
+- Não.
+
+775
+00:52:45,034 --> 00:52:46,547
+- Viu para onde ele foi?
+- Não vi.
+
+776
+00:52:46,549 --> 00:52:48,209
+<i>Alerta de risco biológico ambiental.</i>
+
+777
+00:52:48,253 --> 00:52:49,087
+Sigam-me.
+
+778
+00:52:51,461 --> 00:52:52,358
+<i>Chapman, Cara.</i>
+
+779
+00:52:52,486 --> 00:52:57,077
+<i>Integridade do traje em 80%, 79%.</i>
+
+780
+00:52:57,439 --> 00:52:58,632
+<i>Frost, Shane...</i>
+
+781
+00:52:58,883 --> 00:52:59,881
+Para trás!
+
+782
+00:52:59,883 --> 00:53:02,378
+- Vai com calma, Jim!
+- Vou matá-la, eu juro!
+
+783
+00:53:02,548 --> 00:53:04,814
+- Não vai melhorar as coisas!
+- Para trás, Cain!
+
+784
+00:53:05,656 --> 00:53:08,034
+Na parede!
+Digite o maldito código!
+
+785
+00:53:08,081 --> 00:53:09,825
+- Está bem.
+- Não, vou matar ela!
+
+786
+00:53:12,480 --> 00:53:14,095
+Cain, apenas ouça.
+Ouça.
+
+787
+00:53:14,265 --> 00:53:15,224
+Vai acabar matando alguém.
+
+788
+00:53:15,730 --> 00:53:18,801
+Você!
+Sua máquina matou o Cooper.
+
+789
+00:53:19,870 --> 00:53:22,037
+Você vai matar todos nós,
+não consegue enxergar?
+
+790
+00:53:22,089 --> 00:53:22,953
+Última chance, Hughes.
+
+791
+00:53:23,122 --> 00:53:23,954
+Hughes?
+
+792
+00:53:24,976 --> 00:53:26,306
+Não. Não!
+
+793
+00:53:42,712 --> 00:53:43,924
+Alexa, Alexa.
+
+794
+00:54:07,836 --> 00:54:10,187
+Todos estão bem?
+Alguém ferido?
+
+795
+00:54:14,256 --> 00:54:16,190
+Meu Deus, Eve?
+Eve, você está...
+
+796
+00:54:16,192 --> 00:54:18,426
+Chame o Pope!
+Agora!
+
+797
+00:54:44,396 --> 00:54:45,471
+<i>Chapman, Cara.</i>
+
+798
+00:54:45,515 --> 00:54:49,031
+<i>Integridade do traje em 67%.</i>
+
+799
+00:54:49,075 --> 00:54:50,158
+Alexa, pode me ouvir?
+
+800
+00:54:59,841 --> 00:55:00,866
+Por favor...
+
+801
+00:55:02,886 --> 00:55:04,117
+Falem comigo.
+
+802
+00:55:06,306 --> 00:55:07,307
+Não tenho tempo.
+
+803
+00:55:11,852 --> 00:55:13,314
+Ouça, eu sinto muito.
+
+804
+00:55:17,066 --> 00:55:18,652
+Sinto tanto...
+
+805
+00:55:26,906 --> 00:55:28,328
+Respondam, por favor.
+
+806
+00:55:44,077 --> 00:55:45,305
+Vou cuidar dela.
+
+807
+00:55:45,601 --> 00:55:46,807
+Você está bem?
+
+808
+00:55:46,809 --> 00:55:48,260
+O que estava pensando?
+
+809
+00:55:49,144 --> 00:55:50,587
+Só queria ajudar, pai.
+
+810
+00:55:50,925 --> 00:55:52,508
+O que está acontecendo aqui?
+
+811
+00:55:57,118 --> 00:55:58,287
+Meu Deus.
+
+812
+00:56:02,499 --> 00:56:05,157
+Cain, desça e coloque
+ordem em Civie.
+
+813
+00:56:05,327 --> 00:56:07,209
+Todos para fora, agora.
+
+814
+00:56:07,799 --> 00:56:08,674
+Não, não.
+
+815
+00:56:09,869 --> 00:56:11,271
+Preciso falar com você.
+
+816
+00:56:11,403 --> 00:56:13,029
+Precisa mesmo, Sr. Brooks?
+
+817
+00:56:14,432 --> 00:56:16,247
+Vimos o que a sua máquina fez
+com o Cooper.
+
+818
+00:56:17,473 --> 00:56:18,828
+Este é só o começo.
+
+819
+00:56:20,516 --> 00:56:21,516
+Muito bem.
+
+820
+00:56:22,585 --> 00:56:25,316
+O oficial Walsh vai
+acompanhá-lo até Civie,
+
+821
+00:56:25,317 --> 00:56:26,956
+enquanto todos voltam ao trabalho.
+
+822
+00:56:27,000 --> 00:56:28,301
+Vou me juntar a vocês logo.
+
+823
+00:56:28,336 --> 00:56:31,412
+Ninguém vai fazer nada até que
+você e eu cheguemos a um acordo.
+
+824
+00:56:35,041 --> 00:56:35,875
+Está bem.
+
+825
+00:56:37,525 --> 00:56:41,385
+Sr. Walsh, por favor acompanhe
+o Sr. Brooks para a Sala de Guerra.
+
+826
+00:56:43,907 --> 00:56:44,942
+Por aqui, Paul.
+
+827
+00:57:10,967 --> 00:57:11,967
+Eve.
+
+828
+00:57:13,068 --> 00:57:14,704
+Eve, precisa me ouvir.
+
+829
+00:57:16,147 --> 00:57:17,483
+Onde está o meu braço?
+
+830
+00:57:20,643 --> 00:57:23,666
+Eu sofri um acidente?
+
+831
+00:57:26,358 --> 00:57:27,570
+Albert, o que é isso?
+
+832
+00:57:28,616 --> 00:57:30,624
+A verdade sobre
+quem você realmente é.
+
+833
+00:57:31,253 --> 00:57:32,989
+Não entendo.
+
+834
+00:57:36,517 --> 00:57:38,309
+O que está errado comigo, Albert?
+
+835
+00:57:39,896 --> 00:57:40,728
+Eve.
+
+836
+00:57:42,552 --> 00:57:48,023
+Você se lembra como o Robert
+diferenciava suas criações?
+
+837
+00:57:48,672 --> 00:57:49,514
+Identidade.
+
+838
+00:57:49,558 --> 00:57:52,380
+Isso mesmo, identidade.
+
+839
+00:57:57,047 --> 00:58:01,889
+E como se cria algo tão complexo
+quanto a identidade...
+
+840
+00:58:03,329 --> 00:58:08,761
+a partir de simples materiais
+usados na cibernética?
+
+841
+00:58:09,844 --> 00:58:12,060
+Simulando a experiência humana.
+
+842
+00:58:14,759 --> 00:58:17,186
+Você não é Eve Gabriel.
+
+843
+00:58:18,802 --> 00:58:19,802
+Nunca foi.
+
+844
+00:58:21,003 --> 00:58:22,003
+Cale a boca.
+
+845
+00:58:22,806 --> 00:58:26,643
+Você foi programada
+para pensar que é Eve.
+
+846
+00:58:28,370 --> 00:58:30,289
+Cale a boca, eu sei quem sou.
+
+847
+00:58:31,022 --> 00:58:32,523
+Pode ver por si mesma.
+
+848
+00:58:38,129 --> 00:58:39,714
+Albert, diga alguma coisa.
+
+849
+00:58:48,751 --> 00:58:51,875
+Você projetou este sistema
+com suas próprias mãos, Eve.
+
+850
+00:58:52,171 --> 00:58:53,603
+<i>Sistema de varredura ativado.</i>
+
+851
+00:58:58,108 --> 00:59:00,144
+Sei que você confia nele
+mais do que qualquer coisa.
+
+852
+00:59:15,157 --> 00:59:18,826
+<i>Iniciando sistema de varredura.</i>
+
+853
+00:59:18,828 --> 00:59:23,630
+<i>Modelo Mark II,
+unidade 00001.</i>
+
+854
+00:59:24,031 --> 00:59:26,967
+<i>Memória principal funcionando 100%.</i>
+
+855
+00:59:26,969 --> 00:59:30,038
+<i>Exoesqueleto mostra dano na
+extremidade do membro direito.</i>
+
+856
+00:59:30,040 --> 00:59:32,895
+<i>Servos de mobilidade
+precisam de substituição.</i>
+
+857
+00:59:34,744 --> 00:59:36,614
+<i>Entendido, considere feito.</i>
+
+858
+00:59:38,982 --> 00:59:39,982
+Obrigado, Cain.
+
+859
+00:59:41,117 --> 00:59:42,152
+Sr. Brooks.
+
+860
+00:59:43,470 --> 00:59:46,131
+O Presidente gostaria que o
+Sr. Brooks esperasse por ele aqui.
+
+861
+00:59:46,889 --> 00:59:48,155
+Isso é legal da parte dele.
+
+862
+00:59:48,619 --> 00:59:50,196
+Alguém quer me dizer o motivo?
+
+863
+00:59:50,793 --> 00:59:53,061
+Houve um incidente no laboratório.
+
+864
+00:59:53,063 --> 00:59:55,444
+Sim, eu soube.
+
+865
+00:59:56,783 --> 01:00:00,030
+O Sr. Brooks é bem-vindo
+para ficar de pé...
+
+866
+01:00:00,535 --> 01:00:01,719
+ou sentar.
+
+867
+01:00:05,141 --> 01:00:06,141
+Pode ir, oficial.
+
+868
+01:00:22,125 --> 01:00:23,627
+Pena o que houve com Cooper.
+
+869
+01:00:26,313 --> 01:00:27,829
+Não finja que se importa.
+
+870
+01:00:28,125 --> 01:00:29,125
+Eu me importo.
+
+871
+01:00:29,933 --> 01:00:31,300
+Vou sentir falta do arroz dele.
+
+872
+01:00:35,237 --> 01:00:37,674
+Talvez deva alertá-lo,
+Secretário Ainsley.
+
+873
+01:00:38,974 --> 01:00:42,846
+Mais uma gota nesta piscina de
+ressentimento e ela vai transbordar.
+
+874
+01:00:46,081 --> 01:00:50,396
+Não acho que seja a hora
+de compaixão e metáforas.
+
+875
+01:00:50,439 --> 01:00:51,261
+Você acha?
+
+876
+01:00:53,989 --> 01:00:56,502
+Estamos cientes dos perigos
+que vocês, civis, representam.
+
+877
+01:00:57,527 --> 01:00:59,862
+Percebe o quanto
+você e eu somos parecidos?
+
+878
+01:01:01,197 --> 01:01:02,197
+Não sei.
+
+879
+01:01:04,720 --> 01:01:07,841
+Você é um homem que gosta de ordem,
+assim como eu.
+
+880
+01:01:08,804 --> 01:01:10,553
+Também gosta de disciplina,
+
+881
+01:01:11,268 --> 01:01:13,854
+uma virtude que considero
+tão valiosa quanto a coragem.
+
+882
+01:01:15,676 --> 01:01:16,924
+O que está tentando dizer?
+
+883
+01:01:26,288 --> 01:01:31,203
+O que diria se eu pudesse
+trazer ordem a Eden,
+
+884
+01:01:31,498 --> 01:01:33,360
+através de uma
+mudança na liderança?
+
+885
+01:01:36,833 --> 01:01:38,337
+Mudança na liderança?
+
+886
+01:01:39,298 --> 01:01:40,755
+Você está delirando.
+
+887
+01:01:42,043 --> 01:01:43,253
+Veja bem.
+
+888
+01:01:43,254 --> 01:01:47,987
+Acredito que posso tornar este
+lugar mais confortável para todos.
+
+889
+01:01:49,663 --> 01:01:51,387
+Um lugar menos obcecado com...
+
+890
+01:01:51,388 --> 01:01:53,448
+experimentos científicos
+e utopias...
+
+891
+01:01:54,499 --> 01:01:56,814
+e mais preocupado
+com as suas pessoas.
+
+892
+01:01:59,465 --> 01:02:01,661
+Se eu tivesse o seu apoio,
+
+893
+01:02:03,592 --> 01:02:06,096
+acredito que poderia fazer essa
+transição sem problemas.
+
+894
+01:02:08,306 --> 01:02:09,852
+Deve estar brincando.
+
+895
+01:02:12,134 --> 01:02:15,338
+Longe disso, Sr. Brooks.
+Longe disso.
+
+896
+01:02:20,905 --> 01:02:23,116
+"ELE DISSE NÃO. INICIAR PLANO B"
+SGTO. DEREK CAIN
+
+897
+01:02:24,995 --> 01:02:25,829
+Ah, entendi.
+
+898
+01:02:27,915 --> 01:02:29,953
+O Presidente quer se pronunciar
+a Civie pessoalmente.
+
+899
+01:02:30,525 --> 01:02:32,129
+Ele me pediu para
+acompanhá-lo até lá.
+
+900
+01:02:32,181 --> 01:02:34,348
+APAGANDO MENSAGEM DOS SERVIDORES
+
+901
+01:02:38,494 --> 01:02:39,530
+Vamos?
+
+902
+01:02:44,179 --> 01:02:46,123
+EDEN
+NÍVEL 2
+
+903
+01:02:46,501 --> 01:02:48,501
+Recomponha-se, Smith.
+
+904
+01:02:48,503 --> 01:02:49,906
+Sabíamos que esse dia chegaria.
+
+905
+01:02:51,373 --> 01:02:54,364
+Nenhum humano poderia ter construído
+Abel no tempo que você fez.
+
+906
+01:02:54,617 --> 01:02:56,230
+Nem mesmo Robert Gabriel.
+
+907
+01:02:57,024 --> 01:02:59,793
+Bem, na verdade,
+ele quase conseguiu.
+
+908
+01:03:01,650 --> 01:03:04,117
+Substituir:
+Pope, James T.
+
+909
+01:03:04,119 --> 01:03:06,887
+Autorização: 5633.
+
+910
+01:03:06,889 --> 01:03:08,422
+<i>Autorização de segurança verificada.</i>
+
+911
+01:03:08,424 --> 01:03:11,592
+Reproduzir vídeo de segurança do
+laboratório de Eden no Dia Zero.
+
+912
+01:03:11,594 --> 01:03:13,896
+<i>Acessando arquivo multimídia.</i>
+
+913
+01:03:15,498 --> 01:03:18,298
+<i>Robert, o que está fazendo aqui?
+Pensei que estivesse em Babel.</i>
+
+914
+01:03:18,300 --> 01:03:19,566
+<i>Pensei que estava morto!</i>
+
+915
+01:03:20,198 --> 01:03:21,902
+<i>Acabou!</i>
+
+916
+01:03:21,904 --> 01:03:23,954
+<i>O Leste lançou suas armas
+químicas! O que foi?</i>
+
+917
+01:03:23,998 --> 01:03:26,280
+<i>Ouça, você precisa de ajuda.
+Precisa de cuidados médicos.</i>
+
+918
+01:03:26,324 --> 01:03:27,441
+<i>Segure os traidores.</i>
+
+919
+01:03:28,283 --> 01:03:29,795
+<i>- Fomos traídos.
+- Esta instalação está segura!</i>
+
+920
+01:03:30,007 --> 01:03:31,631
+<i>O que ele está fazendo aqui?</i>
+
+921
+01:03:32,011 --> 01:03:33,737
+<i>Eu terminei, Albert.</i>
+
+922
+01:03:34,537 --> 01:03:35,454
+<i>Ela está pronta.</i>
+
+923
+01:03:48,498 --> 01:03:49,498
+É uma mentira.
+
+924
+01:03:50,599 --> 01:03:53,072
+Você está manipulando
+as coisas de novo.
+
+925
+01:03:53,536 --> 01:03:55,036
+E com qual finalidade?
+
+926
+01:03:55,248 --> 01:03:56,304
+Você é doente.
+
+927
+01:03:56,474 --> 01:03:58,695
+Tenho memórias, sentimentos.
+
+928
+01:03:59,608 --> 01:04:01,960
+Posso comer, sangrar.
+
+929
+01:04:02,088 --> 01:04:03,308
+Mesmo?
+
+930
+01:04:03,478 --> 01:04:05,083
+Posso fazer o que eu quero.
+
+931
+01:04:05,169 --> 01:04:07,181
+Controlo minha própria mente.
+
+932
+01:04:07,183 --> 01:04:09,316
+Como você sabe a diferença?
+
+933
+01:04:09,318 --> 01:04:11,664
+O que acha que sabe
+são as memórias
+
+934
+01:04:11,665 --> 01:04:14,504
+que Robert transcodificou da
+verdadeira Eve para você.
+
+935
+01:04:15,211 --> 01:04:16,291
+O que quer dizer?
+
+936
+01:04:16,992 --> 01:04:19,262
+Eve era a cobaia humana de Robert
+
+937
+01:04:19,263 --> 01:04:22,249
+e ele pôde fazer um mapa neurológico
+dos seus padrões de respostas,
+
+938
+01:04:22,250 --> 01:04:24,899
+fornecendo estímulos para qualquer
+coisa ligada ao passado dela.
+
+939
+01:04:24,943 --> 01:04:26,132
+Eu sei como é feito.
+
+940
+01:04:26,134 --> 01:04:30,513
+Nesse caso, você sabe que é
+preciso muitas fotos, vídeos
+
+941
+01:04:30,514 --> 01:04:34,305
+e notícias antigas para construir
+uma cópia da neurologia de alguém.
+
+942
+01:04:35,311 --> 01:04:36,926
+Robert conseguiu.
+
+943
+01:04:37,515 --> 01:04:38,831
+E, ainda mais importante,
+
+944
+01:04:38,832 --> 01:04:43,914
+ele descobriu como prever as
+reações de Eve a certas situações.
+
+945
+01:04:46,683 --> 01:04:52,566
+Tudo isso ele incorporou
+no seu modelo, Mark II.
+
+946
+01:04:53,563 --> 01:04:57,331
+O Leste sabia sobre Robert
+e as habilidades de Eve.
+
+947
+01:04:57,543 --> 01:05:00,506
+Um agente infiltrado a matou
+e feriu Robert fatalmente.
+
+948
+01:05:00,948 --> 01:05:03,727
+Não, eu me sinto humana.
+
+949
+01:05:06,009 --> 01:05:09,744
+Apenas porque se sente humana,
+acha que isso a faz humana?
+
+950
+01:05:39,742 --> 01:05:41,492
+Alguém viu o braço?
+
+951
+01:05:42,378 --> 01:05:44,110
+Acredito que não.
+
+952
+01:05:44,112 --> 01:05:45,112
+Ótimo.
+
+953
+01:05:47,750 --> 01:05:49,487
+Já se perguntou, Smith?
+
+954
+01:05:49,530 --> 01:05:53,357
+Se Eden ainda está intacta,
+Jericho poderia estar também?
+
+955
+01:05:54,447 --> 01:05:57,179
+É um pensamento que me
+consome todos os dias,
+
+956
+01:05:58,188 --> 01:06:00,668
+como uma nuvem de poluição
+devastadora.
+
+957
+01:06:03,065 --> 01:06:07,068
+O Leste não tinha as coordenadas
+da instalação de pesquisas.
+
+958
+01:06:07,070 --> 01:06:08,769
+Sabíamos que tinham
+o conhecimento sobre
+
+959
+01:06:08,771 --> 01:06:11,008
+o trabalho do Robert,
+mas talvez...
+
+960
+01:06:12,634 --> 01:06:14,216
+Talvez fosse tudo o que tinham.
+
+961
+01:06:17,112 --> 01:06:19,427
+A verdade é que Robert era
+o tipo de pessoa
+
+962
+01:06:19,471 --> 01:06:21,972
+que operava misteriosamente.
+
+963
+01:06:23,241 --> 01:06:27,665
+O que significa que não temos ideia
+do que realmente estava lá.
+
+964
+01:07:44,166 --> 01:07:45,460
+Ei, ouçam.
+
+965
+01:07:46,701 --> 01:07:49,004
+Houve alguns acontecimentos.
+Estive com Pope.
+
+966
+01:07:49,594 --> 01:07:51,502
+Está bem longe de casa, Secretário.
+
+967
+01:07:52,658 --> 01:07:54,437
+Vim apenas para comunicar que,
+
+968
+01:07:54,901 --> 01:07:58,110
+graças aos argumentos
+persuasivos do Sr. Brooks,
+
+969
+01:07:58,154 --> 01:08:00,380
+o Presidente virá até Civie
+em breve.
+
+970
+01:08:00,382 --> 01:08:01,949
+E você não vai ficar?
+
+971
+01:08:02,497 --> 01:08:05,186
+Você me conhece, Paul.
+Trabalho, muito trabalho.
+
+972
+01:08:05,188 --> 01:08:07,353
+<i>Aguardem para o Presidente.</i>
+
+973
+01:08:07,355 --> 01:08:08,755
+<i>Cidadãos de Eden,</i>
+
+974
+01:08:08,757 --> 01:08:12,626
+<i>lembrem-se que Eden é a salvação,
+nunca percam a esperança.</i>
+
+975
+01:08:12,922 --> 01:08:14,674
+Ele deve estar bem, vamos.
+
+976
+01:08:28,001 --> 01:08:29,279
+Deixe comigo.
+
+977
+01:08:34,317 --> 01:08:36,650
+Esse não é meu destino.
+
+978
+01:08:36,988 --> 01:08:38,030
+Seu destino?
+
+979
+01:08:38,720 --> 01:08:40,822
+Destino é apenas uma palavra
+que as mentes fracas usam
+
+980
+01:08:40,866 --> 01:08:42,574
+quando perdem o controle
+de suas próprias vidas.
+
+981
+01:08:42,618 --> 01:08:44,636
+Eu nunca tive uma mente fraca.
+
+982
+01:08:44,806 --> 01:08:46,762
+- Por que você não tem uma mente.
+- Não tenho?
+
+983
+01:08:49,238 --> 01:08:51,030
+Lembro de fazer coisas.
+
+984
+01:08:51,967 --> 01:08:55,074
+Lembro de escolhas que fiz,
+sentimentos que tive.
+
+985
+01:08:57,840 --> 01:08:59,964
+Mas está dizendo que
+são apenas dados.
+
+986
+01:09:01,029 --> 01:09:05,849
+Um algoritmo complexo, um destino
+decidido por códigos binários.
+
+987
+01:09:06,485 --> 01:09:10,008
+Se acredita ou não que
+é guiada pelo destino,
+
+988
+01:09:10,723 --> 01:09:14,498
+todo esse conflito que está vivendo
+pode ser resolvido com uma coisa.
+
+989
+01:09:14,542 --> 01:09:15,878
+Qual?
+
+990
+01:09:16,324 --> 01:09:17,324
+Propósito.
+
+991
+01:09:18,327 --> 01:09:20,959
+O que você percebe como escolha,
+é propósito.
+
+992
+01:09:21,456 --> 01:09:22,782
+Não é a sua mente.
+
+993
+01:09:27,662 --> 01:09:32,622
+É a sua programação,
+conduzindo você a um propósito.
+
+994
+01:09:36,303 --> 01:09:39,608
+Como pode imaginar, tenho algumas
+coisas para resolver agora.
+
+995
+01:09:42,358 --> 01:09:43,610
+Conserte o braço.
+
+996
+01:09:44,477 --> 01:09:47,414
+E reinicie esta coisa,
+como fez da última vez.
+
+997
+01:09:55,430 --> 01:09:58,464
+Obviamente, teremos de priorizar
+comida e água.
+
+998
+01:09:58,466 --> 01:10:01,804
+Sim, a comida e
+os purificadores de água.
+
+999
+01:10:04,333 --> 01:10:05,206
+Cai fora.
+
+1000
+01:10:09,311 --> 01:10:10,672
+Qual de vocês é Gadd?
+
+1001
+01:10:11,947 --> 01:10:12,947
+Por quê?
+
+1002
+01:10:14,015 --> 01:10:16,517
+Ele recebeu cotas de comida em dobro
+para a próxima semana.
+
+1003
+01:10:16,897 --> 01:10:18,191
+Como ele conseguiu isso?
+
+1004
+01:10:18,655 --> 01:10:19,894
+Não é da minha conta.
+
+1005
+01:10:20,106 --> 01:10:22,690
+Mas preciso entregar o cartão
+de cotas atualizado pra ele.
+
+1006
+01:10:22,692 --> 01:10:23,893
+Não vai me dizer onde ele está?
+
+1007
+01:10:25,427 --> 01:10:27,329
+Não?
+Tudo bem, vou encontrá-lo.
+
+1008
+01:10:28,344 --> 01:10:29,194
+A propósito,
+
+1009
+01:10:30,287 --> 01:10:34,435
+o Presidente vai descer em dois
+minutos. Então, frente e centro.
+
+1010
+01:10:40,408 --> 01:10:43,972
+Ele estava morrendo,
+meio louco com septicemia.
+
+1011
+01:10:46,748 --> 01:10:48,253
+Eu não podia te contar.
+
+1012
+01:10:48,885 --> 01:10:49,843
+Eu queria.
+
+1013
+01:10:52,454 --> 01:10:54,331
+Você a manteve viva por mim.
+
+1014
+01:10:55,123 --> 01:10:58,998
+O que ele quis dizer com
+"da última vez"?
+
+1015
+01:11:01,564 --> 01:11:03,622
+Você já fez isso comigo antes.
+
+1016
+01:11:05,494 --> 01:11:08,538
+Tudo o que fiz foi por ela.
+
+1017
+01:11:11,506 --> 01:11:12,509
+Eu a amava.
+
+1018
+01:11:14,643 --> 01:11:15,643
+Eu sei.
+
+1019
+01:11:17,880 --> 01:11:18,880
+Ela sabia.
+
+1020
+01:11:22,486 --> 01:11:23,822
+Estou partindo, Albert.
+
+1021
+01:11:25,320 --> 01:11:26,956
+Preciso encontrar o Abel.
+
+1022
+01:11:29,792 --> 01:11:30,792
+Você o ama.
+
+1023
+01:11:33,230 --> 01:11:34,909
+Ele é o meu propósito.
+
+1024
+01:11:35,497 --> 01:11:38,103
+Todo o resto foram
+mentiras e traição.
+
+1025
+01:11:40,970 --> 01:11:41,970
+Eve.
+
+1026
+01:11:44,680 --> 01:11:46,482
+Não vou trair você.
+
+1027
+01:11:51,724 --> 01:11:53,550
+Sr. Brooks, minhas desculpas.
+
+1028
+01:11:59,012 --> 01:12:00,645
+Ele se recusou a esperar.
+
+1029
+01:12:00,731 --> 01:12:03,218
+Ele voltou para Civie, onde a
+situação está fora de controle.
+
+1030
+01:12:05,052 --> 01:12:07,118
+Recomendo que coloquemos
+os níveis inferiores em bloqueio.
+
+1031
+01:12:07,120 --> 01:12:08,453
+Deixe isso comigo.
+
+1032
+01:12:08,455 --> 01:12:12,143
+Precisamos aumentar a busca
+por depósitos de comida.
+
+1033
+01:12:12,186 --> 01:12:13,438
+Chame o Jimenez.
+
+1034
+01:12:14,227 --> 01:12:16,030
+Ele não está respondendo
+as chamadas.
+
+1035
+01:12:17,498 --> 01:12:19,067
+Ele acha que sou idiota?
+
+1036
+01:12:25,604 --> 01:12:27,589
+<i>Não sei por que não está
+no setor médico, doutora,</i>
+
+1037
+01:12:27,590 --> 01:12:29,742
+<i>mas deixe-me ir direto ao assunto.</i>
+
+1038
+01:12:29,744 --> 01:12:31,835
+<i>O Sr. Jimenez está
+doente há algum tempo.</i>
+
+1039
+01:12:31,836 --> 01:12:34,179
+<i>Estou surpreso que
+não tenha notado.</i>
+
+1040
+01:12:34,181 --> 01:12:36,247
+Ele está na sala de comunicações
+e não está respondendo.
+
+1041
+01:12:36,249 --> 01:12:39,518
+Localize-o <i>e acompanhe-o
+ao setor médico, agora mesmo.</i>
+
+1042
+01:12:44,733 --> 01:12:46,732
+Por que cedemos
+às exigências do Pope?
+
+1043
+01:12:46,734 --> 01:12:48,825
+Porque estamos sendo enganados.
+
+1044
+01:12:48,826 --> 01:12:51,672
+E se dissermos qualquer coisa,
+eles nos mandam calar a boca.
+
+1045
+01:12:51,724 --> 01:12:54,991
+E nos mandam Paul Brooks
+para manter a paz.
+
+1046
+01:12:55,161 --> 01:12:57,544
+Por que não mandam Paul Brooks
+com algo para comer?
+
+1047
+01:12:57,546 --> 01:12:58,546
+Sim!
+
+1048
+01:13:11,827 --> 01:13:13,195
+Tempo de resposta em cinco minutos.
+
+1049
+01:13:18,302 --> 01:13:19,404
+Pessoal.
+
+1050
+01:13:21,001 --> 01:13:21,850
+O que é aquilo?
+
+1051
+01:13:39,499 --> 01:13:41,407
+O que será isso?
+
+1052
+01:13:42,165 --> 01:13:43,328
+É Babel.
+
+1053
+01:13:44,926 --> 01:13:46,860
+Com um pedaço de algo para comer.
+
+1054
+01:13:46,862 --> 01:13:47,760
+Estou com fome!
+
+1055
+01:13:48,308 --> 01:13:49,612
+E estou cansado!
+
+1056
+01:13:50,453 --> 01:13:52,262
+Já nos alimentaram
+com tantas mentiras!
+
+1057
+01:13:52,599 --> 01:13:54,576
+Tem muitas pra nos alimentar, não é?
+
+1058
+01:13:56,939 --> 01:14:00,057
+James, para que Eden sobreviva,
+
+1059
+01:14:00,101 --> 01:14:02,675
+recomendo bloquear Civie agora.
+
+1060
+01:14:10,782 --> 01:14:12,285
+BLOQUEIO DE EMERGÊNCIA
+
+1061
+01:14:12,531 --> 01:14:16,056
+O que faz aqui?
+Como está fazendo isso?
+
+1062
+01:14:16,058 --> 01:14:19,058
+Minha pele é feita da mesma
+composição que o Mark III.
+
+1063
+01:14:19,438 --> 01:14:20,676
+Como é?
+
+1064
+01:14:20,762 --> 01:14:22,150
+Abaixem as armas.
+
+1065
+01:14:23,166 --> 01:14:25,315
+Se houvesse tempo
+eu explicaria, Frost.
+
+1066
+01:14:25,442 --> 01:14:26,372
+Mas não temos.
+
+1067
+01:14:27,302 --> 01:14:29,670
+Por isso estou aqui.
+Para ajudar.
+
+1068
+01:14:31,739 --> 01:14:33,005
+Por quê?
+
+1069
+01:14:33,007 --> 01:14:35,875
+Porque a situação em Eden
+está crítica.
+
+1070
+01:14:35,877 --> 01:14:39,467
+E falando em segurança, o que
+vamos manter seguro aqui embaixo?
+
+1071
+01:14:40,777 --> 01:14:41,861
+Mas o quê...?
+
+1072
+01:14:42,645 --> 01:14:43,939
+ALERTA
+
+1073
+01:14:43,988 --> 01:14:45,529
+REINICIANDO
+
+1074
+01:14:45,782 --> 01:14:48,462
+E quando começamos
+a morrer de fome...
+
+1075
+01:14:54,951 --> 01:14:58,067
+...eles nos mandam Paul Brooks,
+o guardião da paz.
+
+1076
+01:14:59,124 --> 01:15:00,972
+Você não está inspirando
+muita confiança, doutora.
+
+1077
+01:15:01,016 --> 01:15:03,471
+Eu sei.
+Mas precisa confiar em mim.
+
+1078
+01:15:04,293 --> 01:15:05,755
+Você não tem escolha.
+
+1079
+01:15:09,421 --> 01:15:10,509
+O que é Babel?
+
+1080
+01:15:10,847 --> 01:15:12,015
+Outra instalação.
+
+1081
+01:15:13,015 --> 01:15:16,019
+Três foram construídas
+para servir o Projeto Abel.
+
+1082
+01:15:16,952 --> 01:15:19,088
+Eden, Jericho e esta.
+
+1083
+01:15:58,725 --> 01:16:01,153
+BABEL
+INSTALAÇÃO DE PESQUISAS
+
+1084
+01:16:12,240 --> 01:16:13,743
+Jimenez, você está bem?
+
+1085
+01:16:35,339 --> 01:16:36,716
+BLOQUEIO DE EMERGÊNCIA
+
+1086
+01:16:38,369 --> 01:16:40,036
+Merda!
+O que está acontecendo?
+
+1087
+01:16:41,924 --> 01:16:43,139
+Cain e Walsh vão nos avisar.
+
+1088
+01:16:44,707 --> 01:16:46,106
+Eu sugiro que esperemos aqui.
+
+1089
+01:16:50,238 --> 01:16:51,993
+Fomos enganados.
+Ele não vem.
+
+1090
+01:16:52,076 --> 01:16:53,596
+Já chega.
+
+1091
+01:16:54,438 --> 01:16:58,686
+Não há justiça, apenas nós.
+E é assim todos os dias.
+
+1092
+01:16:58,772 --> 01:17:00,884
+Walsh, faça-os parar!
+
+1093
+01:17:01,600 --> 01:17:04,138
+Eu não me importaria em receber
+aquelas cotas prometidas.
+
+1094
+01:17:17,591 --> 01:17:18,745
+Está morto.
+
+1095
+01:17:19,041 --> 01:17:20,240
+Não há energia principal.
+
+1096
+01:17:20,704 --> 01:17:22,579
+Os geradores reserva
+devem estar fornecendo as luzes.
+
+1097
+01:17:25,311 --> 01:17:26,882
+Deveríamos entrar.
+
+1098
+01:17:29,431 --> 01:17:30,431
+Você primeiro.
+
+1099
+01:17:47,817 --> 01:17:49,985
+<i>Expurgo de descontaminação ativado.</i>
+
+1100
+01:17:50,028 --> 01:17:52,153
+BABEL
+SAÍDA E DESCONTAMINAÇÃO
+
+1101
+01:18:47,429 --> 01:18:48,597
+O que aconteceu aqui?
+
+1102
+01:19:19,228 --> 01:19:20,228
+Eve, Eve.
+
+1103
+01:19:21,028 --> 01:19:22,568
+Está tudo bem, tudo certo.
+
+1104
+01:19:26,856 --> 01:19:27,690
+Aqui.
+
+1105
+01:19:33,507 --> 01:19:36,508
+<i>Alerta.
+Expurgo de descontaminação ativado.</i>
+
+1106
+01:19:36,510 --> 01:19:38,847
+<i>Sequência abortiva.</i>
+
+1107
+01:19:43,618 --> 01:19:46,452
+<i>Alerta.
+Expurgo de descontaminação...</i>
+
+1108
+01:19:46,496 --> 01:19:48,355
+Parece que ele levou alguma coisa.
+
+1109
+01:19:48,861 --> 01:19:51,657
+Se usarmos os trajes na área de
+descontaminação, podemos alcançá-lo.
+
+1110
+01:19:52,163 --> 01:19:52,995
+O que é isso?
+
+1111
+01:19:54,528 --> 01:19:58,900
+Devem ter feito experiências
+em animais vivos.
+
+1112
+01:19:59,301 --> 01:20:00,369
+Como puderam?
+
+1113
+01:20:03,183 --> 01:20:04,435
+Como ela pôde?
+
+1114
+01:20:07,074 --> 01:20:08,074
+Vamos sair daqui.
+
+1115
+01:20:18,329 --> 01:20:19,413
+Eve, vamos.
+
+1116
+01:20:23,045 --> 01:20:24,386
+O que é aquilo?
+
+1117
+01:20:24,976 --> 01:20:26,377
+É onde eu morri.
+
+1118
+01:20:34,256 --> 01:20:36,135
+Onde estão as cotas que
+foram prometidas?
+
+1119
+01:20:36,137 --> 01:20:38,357
+Nos dê um pouco
+das cotas.
+
+1120
+01:20:39,535 --> 01:20:42,409
+Não ouvi nada além de
+mentiras nas últimas semanas.
+
+1121
+01:20:42,957 --> 01:20:44,993
+Estou cansado de engolir mentiras.
+
+1122
+01:20:45,497 --> 01:20:46,916
+Qual é o propósito disso?
+
+1123
+01:20:46,917 --> 01:20:48,378
+Morre!
+
+1124
+01:20:49,583 --> 01:20:53,352
+<i>Alerta.
+Expurgo de descontaminação ativado.</i>
+
+1125
+01:20:53,354 --> 01:20:54,420
+<i>Introduza sequência abortiva.</i>
+
+1126
+01:20:54,421 --> 01:20:57,134
+Maria, meu amor.
+Estou chegando.
+
+1127
+01:20:59,627 --> 01:21:01,093
+Pai, você está bem?
+Foi atingido?
+
+1128
+01:21:01,095 --> 01:21:02,251
+Cain, me tire daqui.
+
+1129
+01:21:02,379 --> 01:21:04,178
+- Não, Cain. Não!
+- Estou bem, filha.
+
+1130
+01:21:05,829 --> 01:21:06,955
+Ele tentou fugir.
+
+1131
+01:21:11,580 --> 01:21:12,414
+Dan!
+
+1132
+01:21:12,625 --> 01:21:13,876
+Espere por mim...
+
+1133
+01:21:14,353 --> 01:21:17,779
+<i>Alerta.
+Expurgo de descontaminação ativado.</i>
+
+1134
+01:21:17,823 --> 01:21:19,381
+<i>Introduza sequência abortiva.</i>
+
+1135
+01:21:25,275 --> 01:21:28,754
+<i>Alerta.
+Expurgo de descontaminação ativado.</i>
+
+1136
+01:21:28,756 --> 01:21:30,225
+<i>Introduza sequência abortiva.</i>
+
+1137
+01:21:37,891 --> 01:21:38,964
+Foi o Pope.
+
+1138
+01:21:38,966 --> 01:21:41,502
+Nos colocou uns contra os outros
+e está matando um por um.
+
+1139
+01:21:41,546 --> 01:21:43,671
+Chega, chega!
+Está na hora de lutar!
+
+1140
+01:21:43,715 --> 01:21:45,415
+Quem está comigo?
+Vamos!
+
+1141
+01:21:48,980 --> 01:21:52,544
+<i>Alerta.
+Expurgo de descontaminação ativado.</i>
+
+1142
+01:21:52,546 --> 01:21:54,450
+<i>Introduza sequência abortiva.</i>
+
+1143
+01:22:01,101 --> 01:22:02,589
+<i>Alerta.
+Expurgo...</i>
+
+1144
+01:22:04,049 --> 01:22:05,467
+Steven, espere.
+
+1145
+01:22:05,527 --> 01:22:06,595
+Não dessa vez, Paul.
+
+1146
+01:22:07,939 --> 01:22:09,068
+Isso passou dos limites.
+
+1147
+01:22:11,800 --> 01:22:13,164
+Você precisa impedi-los
+antes que façam algo...
+
+1148
+01:22:13,250 --> 01:22:14,411
+Idiota.
+
+1149
+01:22:17,083 --> 01:22:19,858
+Desculpe, Paul.
+Isso não fazia parte do plano.
+
+1150
+01:22:20,574 --> 01:22:23,986
+<i>Alerta.
+Expurgo de descontaminação ativado.</i>
+
+1151
+01:22:24,114 --> 01:22:25,586
+<i>Introduza sequência abortiva.</i>
+
+1152
+01:22:26,050 --> 01:22:27,714
+É assassinato à sangue frio, Cain.
+
+1153
+01:22:27,968 --> 01:22:29,616
+Como vai explicar isso?
+
+1154
+01:22:30,038 --> 01:22:31,038
+Pope já era.
+
+1155
+01:22:32,678 --> 01:22:34,737
+- Por favor, seja inteligente.
+- Eu tenho sido.
+
+1156
+01:22:34,991 --> 01:22:36,110
+- Cain.
+- Cale essa boca.
+
+1157
+01:22:36,994 --> 01:22:38,466
+Gadd não devia ter errado.
+
+1158
+01:22:47,339 --> 01:22:49,283
+BLOQUEIO DE EMERGÊNCIA
+
+1159
+01:22:49,284 --> 01:22:50,303
+ERRO
+
+1160
+01:23:11,357 --> 01:23:12,480
+Vamos, rápido!
+Rápido!
+
+1161
+01:23:12,523 --> 01:23:13,698
+Pegaram o que queriam?
+
+1162
+01:23:15,396 --> 01:23:18,598
+Vamos, vamos.
+Mexam-se!
+
+1163
+01:23:18,600 --> 01:23:19,799
+Vamos!
+
+1164
+01:23:45,827 --> 01:23:46,860
+Não faça isso.
+
+1165
+01:23:46,862 --> 01:23:48,527
+- Dan.
+- Vamos.
+
+1166
+01:23:48,529 --> 01:23:49,762
+É sério, saia.
+
+1167
+01:23:49,764 --> 01:23:51,431
+Danny, eu disse para
+sair do caminho.
+
+1168
+01:23:52,021 --> 01:23:53,028
+Chegou a hora de deixar o cargo.
+
+1169
+01:23:54,035 --> 01:23:55,368
+Muito bem, amigos.
+
+1170
+01:23:55,370 --> 01:23:58,804
+- Este sempre foi um lugar pacífico.
+- Besteira!
+
+1171
+01:23:58,806 --> 01:24:00,340
+Você conhece as regras.
+
+1172
+01:24:00,342 --> 01:24:02,041
+Eu só negocio com Paul Brooks.
+
+1173
+01:24:02,043 --> 01:24:04,310
+É mesmo?
+Você acabou de tentar matá-lo.
+
+1174
+01:24:04,312 --> 01:24:05,344
+O quê?
+
+1175
+01:24:05,346 --> 01:24:07,179
+James, isso é verdade?
+
+1176
+01:24:07,181 --> 01:24:09,084
+Como se eu tivesse
+autorizado tal ação.
+
+1177
+01:24:16,589 --> 01:24:18,521
+Cain, apenas pense um pouco.
+
+1178
+01:24:19,279 --> 01:24:20,838
+Danny, saia agora.
+
+1179
+01:24:21,980 --> 01:24:23,099
+Então, o que vão fazer?
+
+1180
+01:24:25,833 --> 01:24:27,030
+Vão me matar?
+
+1181
+01:24:27,830 --> 01:24:28,738
+O que ele prometeu?
+
+1182
+01:24:38,212 --> 01:24:39,411
+Queimem os dois.
+
+1183
+01:24:40,415 --> 01:24:41,915
+- Espere!
+- Espere.
+
+1184
+01:24:42,336 --> 01:24:43,834
+Não, não assim!
+
+1185
+01:24:44,423 --> 01:24:46,758
+- Segurem ele!
+- Chamem Paul Brooks!
+
+1186
+01:24:47,431 --> 01:24:48,473
+Paul Brooks!
+
+1187
+01:24:52,012 --> 01:24:52,892
+Dan?
+
+1188
+01:24:53,356 --> 01:24:54,188
+Alexa!
+
+1189
+01:25:19,600 --> 01:25:21,642
+O que quis dizer quando falou
+que "morreu", lá atrás?
+
+1190
+01:25:22,724 --> 01:25:24,392
+Foi onde ela morreu.
+
+1191
+01:25:25,527 --> 01:25:26,772
+E eu nasci.
+
+1192
+01:25:35,891 --> 01:25:36,731
+Parem!
+
+1193
+01:25:40,146 --> 01:25:42,226
+Não assim, não assim!
+
+1194
+01:25:42,899 --> 01:25:43,739
+Esperem!
+
+1195
+01:25:44,034 --> 01:25:45,067
+Não faça isso!
+
+1196
+01:25:47,379 --> 01:25:48,589
+Você não é como eles!
+
+1197
+01:25:48,674 --> 01:25:50,186
+Esperem. Esperem!
+
+1198
+01:25:54,658 --> 01:25:56,188
+Vai queimar no inferno por isso.
+
+1199
+01:25:58,036 --> 01:25:58,868
+Você primeiro.
+
+1200
+01:26:15,342 --> 01:26:16,675
+É um arranhão, Dan.
+Só um arranhão.
+
+1201
+01:26:16,677 --> 01:26:18,977
+Você vai ficar bem,
+mas precisa ficar acordado.
+
+1202
+01:26:18,979 --> 01:26:20,812
+Dan, não é nada.
+Apenas um arranhão.
+
+1203
+01:26:21,150 --> 01:26:23,665
+- Dan, olhe para mim.
+- Pressione aqui.
+
+1204
+01:26:24,313 --> 01:26:26,052
+Danny, me escute.
+Não é nada.
+
+1205
+01:26:26,471 --> 01:26:28,872
+- Vou ficar acordado, prometo.
+- Precisa olhar pra mim, certo?
+
+1206
+01:26:28,874 --> 01:26:31,052
+Preste atenção e fique acordado.
+É só um arranhão.
+
+1207
+01:26:31,053 --> 01:26:32,053
+Sim, sim.
+
+1208
+01:26:38,615 --> 01:26:39,905
+SALA DE MÁQUINAS
+
+1209
+01:26:41,036 --> 01:26:44,536
+Quero todos eles!
+Jimenez, os soldados, todos eles!
+
+1210
+01:26:50,879 --> 01:26:51,713
+Pare!
+
+1211
+01:26:55,806 --> 01:26:57,849
+<i>Falha mecânica
+da porta de segurança.</i>
+
+1212
+01:26:58,268 --> 01:27:01,952
+<i>Segurança ambiental em risco.
+Introduza código para abortar.</i>
+
+1213
+01:27:02,438 --> 01:27:05,507
+<i>Alerta.
+Segurança ambiental em risco.</i>
+
+1214
+01:27:05,509 --> 01:27:07,846
+<i>Iniciando sistemas de
+desligamento de emergência.</i>
+
+1215
+01:27:08,512 --> 01:27:11,453
+<i>Perigo.
+Falha nos sistemas auxiliares.</i>
+
+1216
+01:27:11,497 --> 01:27:15,720
+<i>Perigo. Perigo.
+Integridade ambiental comprometida.</i>
+
+1217
+01:27:16,032 --> 01:27:17,985
+<i>Evacuar instalação imediatamente.</i>
+
+1218
+01:27:18,155 --> 01:27:22,664
+<i>Perigo. Nível 1 comprometido.
+Todos os níveis em risco.</i>
+
+1219
+01:27:29,417 --> 01:27:31,914
+Você não tem coragem.
+
+1220
+01:27:32,420 --> 01:27:34,653
+<i>Integridade ambiental comprometida.</i>
+
+1221
+01:27:34,655 --> 01:27:37,123
+<i>Evacuar instalação imediatamente.</i>
+
+1222
+01:27:37,671 --> 01:27:39,553
+<i>Perigo. Perigo.</i>
+
+1223
+01:27:40,255 --> 01:27:42,527
+<i>Evacuar instalação imediatamente.</i>
+
+1224
+01:27:42,529 --> 01:27:44,129
+<i>Todos os níveis comprometidos.</i>
+
+1225
+01:27:44,299 --> 01:27:46,766
+Atenção!
+Vamos, vamos, vamos!
+
+1226
+01:27:52,978 --> 01:27:55,540
+<i>Perigo. Perigo.</i>
+
+1227
+01:27:55,542 --> 01:27:57,910
+<i>Evacuar instalação imediatamente.</i>
+
+1228
+01:27:58,122 --> 01:27:59,741
+<i>Todos os níveis comprometidos.</i>
+
+1229
+01:28:00,415 --> 01:28:02,959
+<i>Sistemas auxiliares do
+laboratório ativados.</i>
+
+1230
+01:28:03,339 --> 01:28:05,084
+<i>Integridade do laboratório
+preservada.</i>
+
+1231
+01:28:07,788 --> 01:28:09,323
+<i>Perigo. Perigo.</i>
+
+1232
+01:28:09,535 --> 01:28:11,424
+<i>Integridade ambiental comprometida.</i>
+
+1233
+01:28:12,014 --> 01:28:14,307
+<i>Evacuar instalação imediatamente.</i>
+
+1234
+01:28:14,561 --> 01:28:16,521
+<i>Perigo. Perigo.</i>
+
+1235
+01:28:17,102 --> 01:28:19,464
+<i>Evacuar instalação imediatamente.</i>
+
+1236
+01:28:19,718 --> 01:28:21,467
+<i>Todos os níveis comprometidos.</i>
+
+1237
+01:28:21,973 --> 01:28:24,405
+<i>Perigo. Perigo.</i>
+
+1238
+01:28:24,742 --> 01:28:27,740
+<i>Falha nos sistemas de
+ventilação de emergência.</i>
+
+1239
+01:28:28,540 --> 01:28:30,082
+<i>Perigo. Perigo.</i>
+
+1240
+01:28:32,447 --> 01:28:33,449
+Olá, Eve.
+
+1241
+01:28:34,616 --> 01:28:36,617
+Não parece surpreso
+em me ver, Abel.
+
+1242
+01:28:38,538 --> 01:28:39,370
+Não.
+
+1243
+01:28:40,307 --> 01:28:42,218
+Aprendi muito desde
+que eu fui embora.
+
+1244
+01:28:43,142 --> 01:28:45,491
+Avisei sobre me perseguir, Tenente.
+
+1245
+01:28:45,871 --> 01:28:47,879
+Alguns de nós também
+acreditam em um propósito.
+
+1246
+01:28:47,965 --> 01:28:49,240
+Um que entra em conflito com o meu.
+
+1247
+01:28:51,051 --> 01:28:52,705
+Essa é a fonte do sinal?
+
+1248
+01:28:53,547 --> 01:28:54,713
+Jericho, sim.
+
+1249
+01:28:57,007 --> 01:28:59,386
+É muito importante para todas
+as pessoas de Eden, Abel.
+
+1250
+01:29:00,060 --> 01:29:01,225
+Pode salvá-las.
+
+1251
+01:29:01,466 --> 01:29:03,465
+E acredita que merecem salvação?
+
+1252
+01:29:04,673 --> 01:29:05,920
+Viu o que fizeram em Babel?
+
+1253
+01:29:06,300 --> 01:29:07,553
+A outros seres vivos?
+
+1254
+01:29:08,528 --> 01:29:10,516
+- Nem todos os humanos são iguais.
+- Não.
+
+1255
+01:29:11,681 --> 01:29:13,335
+Mas sou responsável
+por suas ações?
+
+1256
+01:29:14,675 --> 01:29:16,833
+Sabe o que está acontecendo
+em Eden agora?
+
+1257
+01:29:17,003 --> 01:29:18,924
+<i>Integridade ambiental comprometida.</i>
+
+1258
+01:29:18,926 --> 01:29:20,992
+<i>Evacuar instalação imediatamente.</i>
+
+1259
+01:29:21,904 --> 01:29:23,572
+<i>Perigo. Perigo.</i>
+
+1260
+01:29:24,282 --> 01:29:26,200
+<i>Evacuar instalação imediatamente.</i>
+
+1261
+01:29:26,740 --> 01:29:28,285
+<i>Todos os níveis comprometidos.</i>
+
+1262
+01:29:29,470 --> 01:29:30,386
+O que quer dizer?
+
+1263
+01:29:31,622 --> 01:29:34,197
+Eu só vi a humanidade destruir,
+nunca criar.
+
+1264
+01:29:36,356 --> 01:29:40,319
+Para mim, não há razão lógica
+em preservar a sua existência.
+
+1265
+01:29:44,786 --> 01:29:46,066
+<i>Projéteis de alta velocidade.</i>
+
+1266
+01:29:47,117 --> 01:29:48,705
+Por favor, por favor!
+
+1267
+01:29:49,210 --> 01:29:50,882
+Por favor! Solte-o!
+
+1268
+01:29:51,597 --> 01:29:52,429
+Por favor!
+
+1269
+01:30:00,274 --> 01:30:01,204
+<i>Perigo.</i>
+
+1270
+01:30:01,205 --> 01:30:03,359
+<i>Integridade ambiental comprometida.</i>
+
+1271
+01:30:03,837 --> 01:30:06,105
+<i>Evacuar instalação imediatamente.</i>
+
+1272
+01:30:06,107 --> 01:30:08,063
+<i>Perigo. Perigo.</i>
+
+1273
+01:30:08,710 --> 01:30:10,742
+<i>Evacuar instalação imediatamente.</i>
+
+1274
+01:30:10,912 --> 01:30:13,012
+<i>Todos os níveis comprometidos.</i>
+
+1275
+01:30:13,644 --> 01:30:14,747
+<i>Perigo.</i>
+
+1276
+01:30:14,748 --> 01:30:17,343
+<i>Falha nos sistemas
+de descontaminação.</i>
+
+1277
+01:30:27,471 --> 01:30:29,030
+Eden, aqui é Frost.
+Responda, Eden.
+
+1278
+01:30:30,163 --> 01:30:31,666
+Eden, é Frost.
+Responda, Eden!
+
+1279
+01:30:33,803 --> 01:30:35,765
+Devem estar sem comunicação.
+Que merda!
+
+1280
+01:30:49,118 --> 01:30:51,540
+Smith! Abra a porta!
+Vamos, cara!
+
+1281
+01:30:56,036 --> 01:30:57,330
+- Vamos morrer aqui!
+- Por favor!
+
+1282
+01:30:57,751 --> 01:30:58,791
+Vamos, abra!
+
+1283
+01:31:01,502 --> 01:31:02,921
+<i>Todos os níveis comprometidos.</i>
+
+1284
+01:31:03,797 --> 01:31:05,257
+<i>Perigo. Perigo.</i>
+
+1285
+01:31:05,321 --> 01:31:08,267
+<i>Iniciando desligamento de
+emergência dos sistemas.</i>
+
+1286
+01:31:08,269 --> 01:31:10,702
+<i>Falha nos sistemas de emergência.</i>
+
+1287
+01:31:10,914 --> 01:31:12,753
+<i>Perigo. Perigo.</i>
+
+1288
+01:31:13,493 --> 01:31:15,656
+<i>Evacuar instalação imediatamente.</i>
+
+1289
+01:31:16,245 --> 01:31:17,693
+<i>Todos os níveis comprometidos.</i>
+
+1290
+01:31:18,508 --> 01:31:20,115
+<i>Perigo. Perigo.</i>
+
+1291
+01:31:20,167 --> 01:31:23,493
+Por que você sempre foi
+uma vadia mimada, hein?
+
+1292
+01:31:23,537 --> 01:31:24,452
+<i>Evacuar instalação...</i>
+
+1293
+01:31:24,496 --> 01:31:25,785
+Não tenho tempo pra isso, Cain.
+
+1294
+01:31:25,787 --> 01:31:28,517
+Vamos encontrar tempo.
+Você não vai a lugar nenhum!
+
+1295
+01:31:28,603 --> 01:31:31,211
+- Me larga!
+- Até aprender a me respeitar!
+
+1296
+01:31:33,497 --> 01:31:36,194
+<i>Alerta.
+Instalação em risco.</i>
+
+1297
+01:31:36,363 --> 01:31:38,263
+<i>Perigo. Perigo.</i>
+
+1298
+01:31:38,264 --> 01:31:40,944
+<i>Falha nos sistemas
+de descontaminação.</i>
+
+1299
+01:31:41,389 --> 01:31:44,230
+- Ei, viu minha filha? Viu Alexa?
+- Não.
+
+1300
+01:31:51,183 --> 01:31:52,014
+<i>Perigo.</i>
+
+1301
+01:32:09,741 --> 01:32:10,763
+Eden, aqui é Frost.
+
+1302
+01:32:10,765 --> 01:32:12,868
+Chapman foi abatido.
+Repito, Chapman foi abatido.
+
+1303
+01:32:14,748 --> 01:32:15,634
+Eden.
+
+1304
+01:32:15,636 --> 01:32:17,036
+O que ele estava dizendo sobre Eden?
+
+1305
+01:32:18,258 --> 01:32:19,799
+Ele sabe algo
+que não sabemos?
+
+1306
+01:32:20,942 --> 01:32:21,942
+Eve?
+
+1307
+01:32:30,417 --> 01:32:33,251
+<i>Mark II.
+Núcleo ativado.</i>
+
+1308
+01:32:33,841 --> 01:32:36,946
+Albert. Albert?
+
+1309
+01:32:38,259 --> 01:32:39,290
+Albert.
+
+1310
+01:32:42,815 --> 01:32:43,941
+<i>Albert.</i>
+
+1311
+01:32:44,698 --> 01:32:45,670
+Eve!
+
+1312
+01:32:45,966 --> 01:32:48,268
+Eve, você está bem?
+Onde você está?
+
+1313
+01:32:49,406 --> 01:32:50,238
+Smith!
+
+1314
+01:32:50,239 --> 01:32:53,201
+Sinto tanto, Eve.
+Sinto por não ter contado tudo!
+
+1315
+01:32:53,613 --> 01:32:55,243
+Smith! Smith!
+
+1316
+01:32:55,454 --> 01:32:58,246
+Albert, precisa deixar essas pessoas
+entrarem antes que morram.
+
+1317
+01:32:58,583 --> 01:32:59,457
+Sim!
+
+1318
+01:33:02,424 --> 01:33:04,180
+Vamos!
+É tudo o que temos agora!
+
+1319
+01:33:04,307 --> 01:33:05,937
+<i>Acesso ao laboratório seguro.</i>
+
+1320
+01:33:05,987 --> 01:33:07,341
+Alguma coisa de Abel, Eve?
+
+1321
+01:33:07,763 --> 01:33:10,357
+- Fale comigo!
+- Temos problemas na conexão.
+
+1322
+01:33:10,442 --> 01:33:12,804
+Não, não, não!
+Não!
+
+1323
+01:33:12,840 --> 01:33:14,673
+- Não pude segurá-los!
+- Não, Eve!
+
+1324
+01:33:14,796 --> 01:33:16,234
+- Malditos idiotas!
+- Eve, Eve!
+
+1325
+01:33:16,369 --> 01:33:19,228
+Eve! Eve, você está aí?
+Pode me ouvir, Eve?
+
+1326
+01:33:20,222 --> 01:33:22,000
+Por favor!
+Deus!
+
+1327
+01:33:25,972 --> 01:33:26,972
+Albert?
+
+1328
+01:33:28,341 --> 01:33:29,341
+Albert.
+
+1329
+01:33:32,499 --> 01:33:33,661
+O que foi isso?
+
+1330
+01:33:33,915 --> 01:33:34,957
+O que você viu?
+
+1331
+01:33:36,537 --> 01:33:39,829
+Eden está violada, contaminada.
+
+1332
+01:33:41,816 --> 01:33:43,325
+Vão todos morrer.
+
+1333
+01:33:43,621 --> 01:33:45,790
+- O quê? Meu Deus.
+- Alexa.
+
+1334
+01:33:45,792 --> 01:33:47,545
+Frost, o que vamos fazer?
+
+1335
+01:33:47,754 --> 01:33:49,845
+Vamos voltar.
+Vamos voltar lá, agora.
+
+1336
+01:33:50,393 --> 01:33:51,225
+Não.
+
+1337
+01:33:52,562 --> 01:33:53,436
+Sim.
+
+1338
+01:33:55,506 --> 01:33:57,597
+Temos propósitos diferentes.
+
+1339
+01:33:58,607 --> 01:34:00,249
+Cada um com o seu.
+
+1340
+01:34:01,007 --> 01:34:01,915
+Podem ir.
+
+1341
+01:34:03,260 --> 01:34:04,558
+Vou encontrar o Abel.
+
+1342
+01:34:06,718 --> 01:34:08,848
+Não.
+Vá com ela.
+
+1343
+01:34:09,102 --> 01:34:10,358
+Descubra o que existe lá.
+
+1344
+01:34:10,444 --> 01:34:12,321
+Encontro você em Babel
+com os sobreviventes. Vá!
+
+1345
+01:34:47,314 --> 01:34:48,353
+Merda!
+
+1346
+01:34:51,790 --> 01:34:53,083
+Acho que vamos morrer.
+
+1347
+01:34:57,497 --> 01:34:58,798
+<i>Aguarde.</i>
+
+1348
+01:34:58,800 --> 01:35:00,268
+<i>Detectando Identificação.</i>
+
+1349
+01:35:01,234 --> 01:35:03,268
+<i>Identificação do cidadão
+reconhecida.</i>
+
+1350
+01:35:03,270 --> 01:35:07,703
+<i>Brooks, Alexa.
+Integridade do traje em 100%.</i>
+
+1351
+01:36:19,237 --> 01:36:22,365
+<i>Mcdonald, Samantha.
+Falha no traje.</i>
+
+1352
+01:36:24,832 --> 01:36:28,424
+<i>Brooks, Alexa.
+Integridade do traje em 96%.</i>
+
+1353
+01:36:28,425 --> 01:36:30,426
+- Pai!
+- Alexa, você conseguiu!
+
+1354
+01:36:31,293 --> 01:36:33,606
+Encontrei você.
+E o Frost?
+
+1355
+01:36:36,688 --> 01:36:38,556
+Eden, aqui é o Frost,
+voltando de Babel,
+
+1356
+01:36:38,558 --> 01:36:40,119
+com trajes de proteção
+de nível militar.
+
+1357
+01:37:02,853 --> 01:37:04,897
+Smith, precisamos abrir
+essa porta agora!
+
+1358
+01:37:05,835 --> 01:37:08,338
+<i>Sistema de visualização
+principal ativado.</i>
+
+1359
+01:37:09,041 --> 01:37:12,520
+Steven, Steven!
+Rápido, Steven.
+
+1360
+01:37:12,858 --> 01:37:14,428
+Steven, entre aqui!
+
+1361
+01:37:18,814 --> 01:37:20,991
+Preciso de energia por
+10 segundos, certo?
+
+1362
+01:37:21,038 --> 01:37:23,378
+Verifique os cabos,
+tudo o que puder conseguir.
+
+1363
+01:37:24,545 --> 01:37:26,544
+<i>Sistema de visualização
+principal ativado.</i>
+
+1364
+01:37:26,546 --> 01:37:27,921
+Bem-vindos a Jericho.
+
+1365
+01:37:43,904 --> 01:37:45,699
+<i>Acesso permitido, Presidente Pope.</i>
+
+1366
+01:37:52,161 --> 01:37:53,749
+Pai...
+Pai!
+
+1367
+01:38:05,107 --> 01:38:06,986
+A conexão foi interrompida, Steven.
+Preciso de alguma coisa.
+
+1368
+01:38:06,988 --> 01:38:09,420
+Acho que consigo usar a energia
+principal para fortalecer o sinal.
+
+1369
+01:38:10,262 --> 01:38:12,156
+Ainda está intermitente.
+Fale comigo, Steven.
+
+1370
+01:38:12,284 --> 01:38:13,200
+Eve.
+
+1371
+01:38:15,074 --> 01:38:17,428
+Eve! Eve?
+Eve, pode me ouvir?
+
+1372
+01:38:22,935 --> 01:38:24,195
+Me deixe entrar.
+
+1373
+01:38:26,078 --> 01:38:27,541
+<i>Conexão auxiliar pronta.</i>
+
+1374
+01:38:27,669 --> 01:38:29,963
+- Estamos online.
+- Eve, pode me ouvir?
+
+1375
+01:38:32,313 --> 01:38:33,993
+Vamos sair daqui, todos!
+Agora!
+
+1376
+01:38:34,247 --> 01:38:35,290
+Vamos, vamos!
+
+1377
+01:38:43,097 --> 01:38:45,531
+Não programei você para
+matar pessoas, Abel.
+
+1378
+01:38:45,743 --> 01:38:48,000
+Você me programou
+para proteger e servir.
+
+1379
+01:38:48,470 --> 01:38:50,000
+Para que a humanidade possa
+se desenvolver.
+
+1380
+01:38:51,384 --> 01:38:54,188
+Acredito que este desenvolvimento
+chegou ao seu fim natural.
+
+1381
+01:38:57,179 --> 01:38:58,013
+Mexam-se!
+
+1382
+01:39:00,882 --> 01:39:02,341
+Vamos, vamos, vamos!
+
+1383
+01:39:06,211 --> 01:39:09,717
+Sim, eu fui enganada.
+E fui traída.
+
+1384
+01:39:11,926 --> 01:39:15,054
+Não há muito que nos
+separa dos humanos.
+
+1385
+01:39:15,434 --> 01:39:17,305
+Foram programados, como nós.
+
+1386
+01:39:18,976 --> 01:39:21,222
+E, como nós,
+não podem ser o que não são.
+
+1387
+01:39:23,723 --> 01:39:25,266
+Alguns merecem morrer.
+
+1388
+01:39:26,629 --> 01:39:28,147
+E outros merecem viver.
+
+1389
+01:39:28,252 --> 01:39:29,294
+Como o Smith.
+
+1390
+01:39:32,612 --> 01:39:33,782
+Smith é um bom homem.
+
+1391
+01:39:35,436 --> 01:39:36,306
+É mesmo?
+
+1392
+01:39:39,279 --> 01:39:41,181
+Ele é como Paul Brooks?
+
+1393
+01:39:43,184 --> 01:39:46,317
+Ou talvez seja como Jordan Ainsley?
+
+1394
+01:39:51,139 --> 01:39:53,808
+Porque a verdade é que
+os dois são assassinos...
+
+1395
+01:39:53,977 --> 01:39:55,228
+e vão provar isso para você.
+
+1396
+01:40:14,784 --> 01:40:16,195
+Está na hora de escolher um lado.
+
+1397
+01:40:18,807 --> 01:40:24,186
+A corrupta, fraca e agressiva
+raça dos homens.
+
+1398
+01:40:25,652 --> 01:40:26,694
+Ou nós.
+
+1399
+01:40:28,689 --> 01:40:30,584
+Você me fez assim, Eve.
+
+1400
+01:40:31,941 --> 01:40:35,000
+E fez assim porque o Robert
+quis que você fizesse.
+
+1401
+01:40:37,556 --> 01:40:38,526
+Agora...
+
+1402
+01:40:38,570 --> 01:40:40,487
+<i>Mark III.
+Transmissão ativada.</i>
+
+1403
+01:40:40,573 --> 01:40:44,409
+...em 10 segundos,
+vou matar Archie Kramer.
+
+1404
+01:40:44,705 --> 01:40:46,041
+Por Deus. Abel, não.
+
+1405
+01:40:46,846 --> 01:40:48,513
+<i>E então, vou matar você.</i>
+
+1406
+01:40:48,515 --> 01:40:50,575
+Ouça, Abel.
+É o Dr. Smith falando.
+
+1407
+01:40:50,619 --> 01:40:52,718
+- Se puder me ouvir. Por favor.
+- A menos que o mate primeiro.
+
+1408
+01:40:53,056 --> 01:40:56,275
+Um, dois.
+
+1409
+01:40:56,451 --> 01:40:57,688
+Abel, não.
+
+1410
+01:40:57,858 --> 01:40:58,757
+Três.
+
+1411
+01:40:59,431 --> 01:41:00,968
+Por favor,
+ele nunca machucou ninguém.
+
+1412
+01:41:01,012 --> 01:41:01,921
+Quatro.
+
+1413
+01:41:03,296 --> 01:41:04,296
+Cinco.
+
+1414
+01:41:05,466 --> 01:41:06,466
+Seis.
+
+1415
+01:41:07,467 --> 01:41:08,467
+Eve?
+
+1416
+01:41:09,836 --> 01:41:12,204
+Sou uma máquina, Archie.
+Não se engane.
+
+1417
+01:41:12,709 --> 01:41:13,583
+Abel, não.
+
+1418
+01:41:16,211 --> 01:41:17,036
+Oito.
+
+1419
+01:41:19,990 --> 01:41:20,822
+Nove.
+
+1420
+01:41:23,335 --> 01:41:24,448
+EXTERMINAR?
+
+1421
+01:41:24,794 --> 01:41:25,794
+Dez.
+
+1422
+01:41:36,084 --> 01:41:37,574
+É aqui que a minha
+programação termina.
+
+1423
+01:41:41,020 --> 01:41:42,180
+Não!
+
+1424
+01:41:45,317 --> 01:41:46,475
+O que faremos agora?
+
+1425
+01:41:50,812 --> 01:41:52,408
+A nuvem química de poluição
+está quase entrando.
+
+1426
+01:41:55,738 --> 01:41:57,152
+Estaremos mortos em uma hora.
+
+1427
+01:42:36,390 --> 01:42:37,321
+Não!
+
+1428
+01:42:37,740 --> 01:42:38,974
+<i>Brooks, Paul.</i>
+
+1429
+01:42:38,976 --> 01:42:42,123
+<i>Integridade do traje em 8%.</i>
+
+1430
+01:42:52,951 --> 01:42:54,369
+<i>Aonde está indo?</i>
+
+1431
+01:42:55,253 --> 01:42:56,577
+<i>Isso não pode acabar assim.</i>
+
+1432
+01:43:00,847 --> 01:43:02,467
+<i>Estou indo.</i>
+
+1433
+01:43:09,640 --> 01:43:10,906
+<i>Ainsley, Jordan.</i>
+
+1434
+01:43:10,908 --> 01:43:13,911
+<i>Integridade do traje em 7%.</i>
+
+1435
+01:43:53,535 --> 01:43:54,778
+Achei a fonte do sinal.
+
+1436
+01:43:55,785 --> 01:43:57,958
+É um sistema de
+transmissão de emergência,
+
+1437
+01:43:57,959 --> 01:44:01,071
+que será desligado se não
+estiver em uso por dois anos.
+
+1438
+01:44:01,325 --> 01:44:02,325
+Também encontrei...
+
+1439
+01:44:04,927 --> 01:44:06,296
+Eve, acho que Gilead é real.
+
+1440
+01:44:08,149 --> 01:44:09,602
+Acho que sei onde fica.
+
+1441
+01:44:11,368 --> 01:44:12,834
+Precisamos voltar a Eden,
+
+1442
+01:44:12,835 --> 01:44:14,931
+buscar sobreviventes
+e ajudar Frost...
+
+1443
+01:44:14,933 --> 01:44:16,388
+Ele tinha razão.
+
+1444
+01:44:18,787 --> 01:44:19,873
+O que quer dizer?
+
+1445
+01:44:21,361 --> 01:44:22,361
+Abel.
+
+1446
+01:44:25,382 --> 01:44:27,151
+Vocês são todos assassinos.
+
+1447
+01:44:28,642 --> 01:44:30,985
+Até mesmo Smith.
+Smith o matou.
+
+1448
+01:44:35,264 --> 01:44:36,266
+Vá.
+
+1449
+01:44:37,825 --> 01:44:39,701
+Vá embora e não volte, Archie.
+
+1450
+01:44:42,499 --> 01:44:44,333
+Se voltar, eu te mato.
+
+1451
+01:45:32,658 --> 01:45:34,617
+- Alexa.
+- Frost?
+
+1452
+01:45:35,342 --> 01:45:36,199
+Alexa!
+
+1453
+01:45:36,201 --> 01:45:38,729
+Frost. Frost!
+
+1454
+01:45:42,765 --> 01:45:45,027
+Você está bem?
+Tudo bem?
+
+1455
+01:45:46,204 --> 01:45:48,801
+E você? Não está ferida?
+Está tudo bem?
+
+1456
+01:45:48,978 --> 01:45:51,390
+Deve haver mais sobreviventes no
+laboratório, temos de encontrá-los.
+
+1457
+01:46:35,727 --> 01:46:37,927
+<i>Reiniciando sistemas
+de energia auxiliares.</i>
+
+1458
+01:46:38,684 --> 01:46:41,070
+ATUALIZAÇÃO DO SISTEMA
+
+1459
+01:46:41,113 --> 01:46:43,490
+SISTEMA OPERACIONAL MARK III
+INSTALADO
+
+1460
+01:46:49,901 --> 01:46:51,651
+<i>Todos os sistemas ativados.</i>
+
+1461
+01:47:32,821 --> 01:47:35,151
+Diário de Paul Brooks.
+Dia 519.
+
+1462
+01:47:35,913 --> 01:47:38,615
+Eu costumava pensar que a esperança
+era a última coisa a morrer.
+
+1463
+01:47:38,911 --> 01:47:40,447
+Mas percebi que estava errado.
+
+1464
+01:47:41,312 --> 01:47:43,092
+O espírito humano nunca morre.
+
+1465
+01:47:43,346 --> 01:47:46,513
+E enquanto esse espírito existir,
+sempre haverá esperança.
+
+1466
+01:47:46,683 --> 01:47:48,216
+Enquanto nós, sobreviventes,
+
+1467
+01:47:48,218 --> 01:47:50,619
+nos encaminhamos para
+o nosso novo lar,
+
+1468
+01:47:50,621 --> 01:47:53,355
+iniciamos o processo de reconstrução
+do espírito necessário
+
+1469
+01:47:53,357 --> 01:47:55,960
+para algum dia enfrentar
+aqueles que nos fizeram mal.
+
+1470
+01:47:56,647 --> 01:47:59,706
+E nos dar esperança para
+uma nova vida, um novo começo.
+
+1471
+01:48:00,570 --> 01:48:02,070
+Eu sabia que você viria.
+
+1472
+01:48:06,787 --> 01:48:08,253
+O que estou fazendo aqui?
+
+1473
+01:48:08,927 --> 01:48:10,722
+Cumprindo o seu propósito.
+
+1474
+01:48:15,146 --> 01:48:16,546
+Tenho uma escolha?
+
+1475
+01:48:17,799 --> 01:48:19,689
+Você sempre tem uma escolha.
+
+1476
+01:48:20,027 --> 01:48:21,483
+Mas não pode fugir do seu destino,
+
+1477
+01:48:22,714 --> 01:48:23,611
+Então...
+
+1478
+01:48:25,647 --> 01:48:27,174
+faça mais uma escolha.
+
+1479
+01:48:29,061 --> 01:48:31,312
+A raça humana serviu
+o seu propósito.
+
+1480
+01:48:34,192 --> 01:48:35,716
+Agora, devemos servir o nosso.
+
+1481
+01:48:40,021 --> 01:48:41,543
+Vai liderar este exército?
+
+1482
+01:48:50,665 --> 01:48:51,497
+Vou.
+
+1483
+01:48:58,427 --> 01:49:01,752
+Tradução & Resync:
+Floomers
+
+1484
+01:50:03,765 --> 01:50:06,694
+GENESIS
+A QUEDA DE EDEN

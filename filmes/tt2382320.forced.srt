@@ -1,0 +1,310 @@
+1
+00:01:01,312 --> 00:01:03,230
+Quer comer de novo?
+
+2
+00:01:04,356 --> 00:01:07,234
+Você come muito porque está deprimido.
+
+3
+00:01:11,781 --> 00:01:12,698
+Oi!
+
+4
+00:01:16,702 --> 00:01:17,953
+O que foi, mamãe?
+
+5
+00:01:18,412 --> 00:01:20,080
+Estou com sede, meu anjo.
+
+6
+00:01:20,372 --> 00:01:21,457
+Estou indo!
+
+7
+00:01:22,541 --> 00:01:25,252
+- Quer o seu xarope?
+- Sim, querida.
+
+8
+00:01:32,176 --> 00:01:33,761
+Quer que eu brinque com você?
+
+9
+00:01:35,930 --> 00:01:37,431
+Estou esperando o papai chegar.
+
+10
+00:01:41,018 --> 00:01:43,062
+O que acha que o papai faz?
+
+11
+00:01:43,896 --> 00:01:45,022
+Ele é médico.
+
+12
+00:01:46,857 --> 00:01:47,942
+Ele cuida das pessoas.
+
+13
+00:01:50,069 --> 00:01:53,030
+O seu pai mata pessoas.
+
+14
+00:01:54,156 --> 00:01:57,284
+É disso que você gosta? De assassinos?
+
+15
+00:02:32,319 --> 00:02:33,946
+Deixe-me em paz. Vá brincar.
+
+16
+00:02:36,448 --> 00:02:37,449
+Deixe-me em paz!
+
+17
+00:08:22,169 --> 00:08:24,213
+- Boa tarde.
+- Boa tarde.
+
+18
+00:10:32,674 --> 00:10:33,508
+O HOMEM MASCARADO
+
+19
+00:13:20,592 --> 00:13:22,719
+PERDOE-ME
+
+20
+00:19:21,703 --> 00:19:22,537
+Alô?
+
+21
+00:19:22,620 --> 00:19:24,372
+- Solte as ovelhas.
+- Por quê?
+
+22
+00:19:24,622 --> 00:19:25,999
+Se não soltar, eu te mato.
+
+23
+00:21:37,922 --> 00:21:39,340
+ARMA DIANTEIRA
+
+24
+00:22:01,654 --> 00:22:02,780
+FUMAÇA
+
+25
+00:27:12,506 --> 00:27:15,760
+CINCO ANOS DEPOIS
+
+26
+00:28:15,444 --> 00:28:17,154
+COMIDA DO VALDO - NÃO MEXA!
+VARÍOLA
+
+27
+00:32:39,291 --> 00:32:41,043
+URGENTE
+
+28
+00:35:06,271 --> 00:35:08,690
+TERRORISTA PEGA PRISÃO PERPÉTUA
+
+29
+00:47:39,816 --> 00:47:43,528
+PROCESSAR DNA
+
+30
+00:47:49,659 --> 00:47:50,618
+SEQUÊNCIA CONCLUÍDA
+
+31
+00:48:08,303 --> 00:48:09,971
+PERFIL ÚNICO / MÚLTIPLOS PERFIS
+
+32
+00:48:10,054 --> 00:48:12,849
+CARREGANDO MÚLTIPLOS PERFIS
+
+33
+00:48:14,934 --> 00:48:15,935
+CODIFICANDO PERFIS DOS ALVOS
+
+34
+00:48:16,019 --> 00:48:17,103
+CODIFICAÇÃO GENÉTICA CONCLUÍDA
+
+35
+00:48:17,186 --> 00:48:18,521
+CARREGADO
+
+36
+01:11:21,403 --> 01:11:22,362
+ANALISANDO USB
+
+37
+01:11:57,772 --> 01:12:00,442
+ATIVO / FALECIDO
+
+38
+01:12:26,551 --> 01:12:28,428
+POPULAÇÃO
+
+39
+01:20:32,954 --> 01:20:39,961
+FALECIDOS
+
+40
+01:20:51,931 --> 01:20:55,518
+AMOSTRA CONTROLE
+NÃO COINCIDE
+
+41
+01:20:55,601 --> 01:20:59,146
+AMOSTRA ALVO
+DNA COINCIDE
+
+42
+01:23:14,031 --> 01:23:16,158
+BUSCANDO LOGAN ASH...
+
+43
+01:23:28,713 --> 01:23:31,632
+TRANSMISSÕES
+
+44
+01:28:47,531 --> 01:28:48,657
+COINCIDE
+
+45
+01:38:05,046 --> 01:38:06,881
+Se ouvir um barulho, o que você faz?
+
+46
+01:38:08,133 --> 01:38:09,342
+Eu me escondo.
+
+47
+01:38:10,468 --> 01:38:11,303
+Muito bem.
+
+48
+01:41:17,113 --> 01:41:18,406
+Estou com fome.
+
+49
+01:41:45,809 --> 01:41:46,851
+Nada mal.
+
+50
+01:43:04,429 --> 01:43:05,597
+Aonde nós vamos?
+
+51
+01:43:06,514 --> 01:43:08,141
+É uma aventura. Segure firme.
+
+52
+01:43:24,949 --> 01:43:26,326
+Um mosquito me picou.
+
+53
+01:43:27,118 --> 01:43:28,036
+Tudo bem.
+
+54
+01:43:28,369 --> 01:43:30,580
+Dou Dou, você gosta de mosquitos?
+
+55
+01:43:52,518 --> 01:43:55,772
+- Os mosquitos têm amigos?
+- Não sei.
+
+56
+01:43:59,817 --> 01:44:00,944
+Acho que não.
+
+57
+01:44:16,542 --> 01:44:17,377
+Segure firme.
+
+58
+01:52:49,763 --> 01:52:52,766
+FORÇA AÉREA REAL
+
+59
+01:56:36,115 --> 01:56:39,159
+Lembre-se do que falei, está bem?
+Não toque em nada!
+
+60
+01:58:11,418 --> 01:58:14,087
+Lembre-se do que eu falei!
+Eu virei buscá-la!
+
+61
+01:58:14,213 --> 01:58:15,339
+Entendeu?
+
+62
+02:00:29,139 --> 02:00:31,475
+- O que está acontecendo?
+- É o equipamento.
+
+63
+02:00:32,059 --> 02:00:33,518
+As câmeras desligaram.
+
+64
+02:00:34,353 --> 02:00:35,479
+No setor inferior todo.
+
+65
+02:00:35,729 --> 02:00:37,856
+Vou reiniciar o sistema.
+
+66
+02:00:51,995 --> 02:00:54,414
+RADAR Q
+
+67
+02:13:10,441 --> 02:13:11,567
+Meu Dou Dou!
+
+68
+02:15:42,885 --> 02:15:44,554
+Eu perdi o meu Dou Dou.
+
+69
+02:15:52,562 --> 02:15:54,188
+Procurei você por toda parte!
+
+70
+02:15:54,814 --> 02:15:55,940
+Onde você estava?
+
+71
+02:15:56,023 --> 02:15:58,609
+Eu me escondi como você mandou.
+
+72
+02:16:00,319 --> 02:16:01,279
+Eu te amo.
+
+73
+02:16:02,405 --> 02:16:03,823
+Eu também te amo.
+
+74
+02:42:51,345 --> 02:42:56,684
+007- SEM TEMPO PARA MORRER
+
+75
+02:43:04,400 --> 02:43:09,739
+JAMES BOND RETORNARÁ
+
